@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-import { readFileSync, writeFileSync, copyFileSync, mkdirSync, readdirSync } from 'fs'
+import { readFileSync, writeFileSync, copyFileSync, mkdirSync, readdirSync, existsSync } from 'fs'
 import { join, basename } from 'path'
 import { fileURLToPath } from 'url'
 import matter from 'gray-matter'
@@ -7,6 +7,12 @@ import { globSync } from 'glob'
 
 const __dirname = fileURLToPath(new URL('.', import.meta.url))
 const usCodePath = process.argv[2] || join(__dirname, '..', '..', 'us-code')
+
+if (!existsSync(usCodePath)) {
+  console.error(`Error: us-code path not found: ${usCodePath}`)
+  process.exit(1)
+}
+
 const outDir = join(__dirname, '..', 'public', 'data')
 
 mkdirSync(outDir, { recursive: true })
@@ -51,7 +57,7 @@ for (const titleDir of titleDirs) {
 
   // Read chapter files
   const chapterFiles = readdirSync(titlePath)
-    .filter(f => f.endsWith('.md') && f !== '_title.md')
+    .filter(f => f.endsWith('.md') && !f.startsWith('_'))
     .sort()
 
   const chapters = []
@@ -74,8 +80,8 @@ for (const titleDir of titleDirs) {
 
   // Sort chapters by their chapter number (from slug)
   chapters.sort((a, b) => {
-    const numA = parseInt(a.slug.match(/chapter-0*(\d+)/)?.[1] || '0')
-    const numB = parseInt(b.slug.match(/chapter-0*(\d+)/)?.[1] || '0')
+    const numA = parseInt(a.slug.match(/^chapter-0*(\d+)/)?.[1] || '0')
+    const numB = parseInt(b.slug.match(/^chapter-0*(\d+)/)?.[1] || '0')
     return numA - numB
   })
 
