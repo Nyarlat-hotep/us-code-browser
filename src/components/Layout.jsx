@@ -1,10 +1,15 @@
-import { Link, useNavigate } from 'react-router-dom'
-import { useState } from 'react'
+import { Link, useNavigate, useSearchParams } from 'react-router-dom'
+import { useState, useEffect } from 'react'
 import './Layout.css'
 
 export default function Layout({ children }) {
   const navigate = useNavigate()
-  const [query, setQuery] = useState('')
+  const [searchParams] = useSearchParams()
+  const [query, setQuery] = useState(searchParams.get('q') || '')
+
+  useEffect(() => {
+    setQuery(searchParams.get('q') || '')
+  }, [searchParams.get('q')])
 
   function handleSearch(e) {
     e.preventDefault()
