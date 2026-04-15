@@ -17,7 +17,7 @@ export default function ChapterView() {
   useEffect(() => {
     // Fetch chapter markdown + version manifest in parallel
     Promise.all([
-      fetch(base + `data/title-${num}/chapter-${slug}.md`).then(r => {
+      fetch(base + `data/title-${num}/${slug}.md`).then(r => {
         if (!r.ok) throw new Error('Chapter not found')
         return r.text()
       }),
