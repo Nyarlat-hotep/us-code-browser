@@ -9,7 +9,7 @@ export default function Layout({ children }) {
 
   useEffect(() => {
     setQuery(searchParams.get('q') || '')
-  }, [searchParams.get('q')])
+  }, [searchParams])
 
   function handleSearch(e) {
     e.preventDefault()
