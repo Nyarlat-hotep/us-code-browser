@@ -7,9 +7,10 @@ const base = import.meta.env.BASE_URL
 
 async function fetchVersion(titleNum, chapterSlug, year) {
   // 'current' means the HEAD version at public/data/title-{N}/chapter-{slug}.md
+  // chapterSlug already includes the "chapter-" prefix (e.g. "chapter-001-general-provisions")
   const url = year === 'current'
-    ? base + `data/title-${titleNum}/chapter-${chapterSlug}.md`
-    : base + `data/versions/${year}/title-${titleNum}/chapter-${chapterSlug}.md`
+    ? base + `data/title-${titleNum}/${chapterSlug}.md`
+    : base + `data/versions/${year}/title-${titleNum}/${chapterSlug}.md`
   const text = await fetch(url).then(r => {
     if (!r.ok) throw new Error(`Failed to fetch ${url}`)
     return r.text()
