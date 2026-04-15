@@ -107,7 +107,7 @@ for (const titleDir of titleDirs) {
     idField: 'id',
   })
 
-  const sectionRegex = /<a id="section-([^"]+)"><\/a>\n## §\s*([^\n]+)\n\n([\s\S]*?)(?=<a id=|$)/g
+  const sectionRegex = /<a id="section-([^"]+)"><\/a>\n## §\s*([^\n]+)\n\n?([\s\S]*?)(?=<a id=|$)/g
 
   for (const chapterFile of chapterFiles) {
     const raw = readFileSync(join(titlePath, chapterFile), 'utf8')
@@ -129,8 +129,8 @@ for (const titleDir of titleDirs) {
           heading: heading.trim(),
           body,
         })
-      } catch {
-        // skip duplicate IDs (same section appearing in multiple chapters)
+      } catch (e) {
+        console.warn(`  Warning: duplicate section ID skipped: ${docId}`)
       }
     }
   }
