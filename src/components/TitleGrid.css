@@ -55,6 +55,28 @@
   font-family: system-ui, sans-serif;
 }
 
+.tg-card-updated {
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #b45309;
+  background: #fef3c7;
+  border: 1px solid #fcd34d;
+  border-radius: 3px;
+  padding: 0.1rem 0.35rem;
+  font-family: system-ui, sans-serif;
+  align-self: flex-start;
+  margin-top: 0.1rem;
+}
+
+.tg-card--updated {
+  border-color: #fcd34d;
+}
+
+.tg-card--updated:hover {
+  border-color: #f59e0b;
+  box-shadow: 0 2px 8px rgba(245,158,11,0.2);
+}
+
 .tg-loading, .tg-error {
   padding: 2rem;
   color: #888;
