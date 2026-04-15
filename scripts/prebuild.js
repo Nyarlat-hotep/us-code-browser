@@ -174,7 +174,7 @@ for (const tag of ANNUAL_TAGS) {
       { encoding: 'utf8', maxBuffer: 50 * 1024 * 1024 }
     )
     changedFiles = output.trim().split('\n').filter(f =>
-      f.endsWith('.md') && !f.includes('_title') && !f.startsWith('_') && f.length > 0
+      f.endsWith('.md') && !f.includes('_title') && f.length > 0
     )
   } catch (e) {
     console.warn(`  Warning: could not diff tag ${tag}: ${e.message}`)
