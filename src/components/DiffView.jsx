@@ -34,7 +34,7 @@ export default function DiffView() {
   useEffect(() => {
     if (!titleNum || !chapterSlug) return
     fetch(base + 'data/versions/manifest.json')
-      .then(r => r.json())
+      .then(r => { if (!r.ok) throw new Error('manifest not found'); return r.json() })
       .then(m => {
         const key = `title-${titleNum}/${chapterSlug}`
         const years = m[key] || []
@@ -97,7 +97,7 @@ export default function DiffView() {
             onChange={e => setYearA(e.target.value)}
           >
             {allYears.filter(y => y !== yearB).map(y => (
-              <option key={y} value={y}>{y === 'current' ? 'Current (2025)' : y}</option>
+              <option key={y} value={y}>{y === 'current' ? 'Current' : y}</option>
             ))}
           </select>
         </label>
@@ -110,7 +110,7 @@ export default function DiffView() {
             onChange={e => setYearB(e.target.value)}
           >
             {allYears.filter(y => y !== yearA).map(y => (
-              <option key={y} value={y}>{y === 'current' ? 'Current (2025)' : y}</option>
+              <option key={y} value={y}>{y === 'current' ? 'Current' : y}</option>
             ))}
           </select>
         </label>
@@ -119,42 +119,43 @@ export default function DiffView() {
       {loading && <p className="dv-status">Computing diff…</p>}
       {error && <p className="dv-error">Error: {error}</p>}
 
-      {diffs && (
+      {diffs && diffs.length === 0 && (
+        <p className="dv-status">No differences found between these versions.</p>
+      )}
+
+      {diffs && diffs.length > 0 && (
         <div className="dv-diff">
           {diffs.map((d, i) => {
             if (d.op === 0) {
               // Equal — show context (first/last 3 lines of each equal block)
-              const lines = d.text.split('\n').filter(l => l.length > 0)
-              if (lines.length <= 6) {
-                return lines.map((line, j) => (
+              const lines = d.text.split('\n')
+              const nonEmpty = lines.filter(l => l.trim().length > 0)
+              if (nonEmpty.length <= 6) {
+                return nonEmpty.map((line, j) => (
                   <div key={`${i}-${j}`} className="dv-line dv-eq">{line}</div>
                 ))
               }
-              const head = lines.slice(0, 3)
-              const tail = lines.slice(-3)
+              const head = nonEmpty.slice(0, 3)
+              const tail = nonEmpty.slice(-3)
               return [
                 ...head.map((line, j) => <div key={`${i}-h${j}`} className="dv-line dv-eq">{line}</div>),
-                <div key={`${i}-sep`} className="dv-sep">⋯ {lines.length - 6} unchanged lines</div>,
+                <div key={`${i}-sep`} className="dv-sep">⋯ {nonEmpty.length - 6} unchanged lines</div>,
                 ...tail.map((line, j) => <div key={`${i}-t${j}`} className="dv-line dv-eq">{line}</div>),
               ]
             }
             if (d.op === 1) {
-              return d.text.split('\n').filter(l => l.length > 0).map((line, j) => (
+              return d.text.split('\n').filter(l => l.trim().length > 0).map((line, j) => (
                 <div key={`${i}-${j}`} className="dv-line dv-add">+ {line}</div>
               ))
             }
             if (d.op === -1) {
-              return d.text.split('\n').filter(l => l.length > 0).map((line, j) => (
+              return d.text.split('\n').filter(l => l.trim().length > 0).map((line, j) => (
                 <div key={`${i}-${j}`} className="dv-line dv-del">- {line}</div>
               ))
             }
             return null
           })}
         </div>
-      )}
-
-      {diffs && diffs.length === 0 && (
-        <p className="dv-status">No differences found between these versions.</p>
       )}
     </div>
   )
