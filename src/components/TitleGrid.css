@@ -1,0 +1,62 @@
+.tg-heading {
+  font-size: 1.75rem;
+  margin: 0 0 0.25rem;
+}
+
+.tg-subheading {
+  color: #555;
+  margin: 0 0 1.5rem;
+}
+
+.tg-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 0.75rem;
+}
+
+.tg-card {
+  text-align: left;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 1rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.tg-card:hover {
+  border-color: #4a6cf7;
+  box-shadow: 0 2px 8px rgba(74,108,247,0.15);
+}
+
+.tg-card-num {
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #4a6cf7;
+  font-family: system-ui, sans-serif;
+}
+
+.tg-card-heading {
+  font-size: 0.88rem;
+  font-weight: 600;
+  line-height: 1.3;
+  font-family: system-ui, sans-serif;
+  color: #1a1a1a;
+}
+
+.tg-card-meta {
+  font-size: 0.72rem;
+  color: #888;
+  font-family: system-ui, sans-serif;
+}
+
+.tg-loading, .tg-error {
+  padding: 2rem;
+  color: #888;
+  font-family: system-ui, sans-serif;
+}
