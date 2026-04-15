@@ -1,10 +1,25 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <script>
+  // SPA redirect decode for GitHub Pages
+  (function(l) {
+    if (l.search[1] === '/') {
+      var decoded = l.search.slice(1).split('&').map(function(s) {
+        return s.replace(/~and~/g, '&')
+      });
+      window.history.replaceState(null, null,
+        l.pathname.slice(0, -1) + decoded[0] +
+        (decoded[1] ? '?' + decoded[1] : '') +
+        l.hash
+      );
+    }
+  }(window.location))
+</script>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>us-code-browser</title>
+    <title>US Code Browser</title>
   </head>
   <body>
     <div id="root"></div>
