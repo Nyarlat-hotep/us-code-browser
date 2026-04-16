@@ -49,11 +49,7 @@ export default function ChapterList() {
           <button
             key={ch.slug}
             className={`cl-item${updatedSlugs.has(ch.slug) ? ' cl-item--updated' : ''}`}
-            onClick={() => navigate(
-              updatedSlugs.has(ch.slug)
-                ? `/title/${num}/chapter/${ch.slug}?changes=${RECENT_YEAR}`
-                : `/title/${num}/chapter/${ch.slug}`
-            )}
+            onClick={() => navigate(`/title/${num}/chapter/${ch.slug}`)}
           >
             <span className="cl-item-heading">{ch.heading}</span>
             <span className="cl-item-right">
