@@ -226,3 +226,83 @@ writeFileSync(join(versionsDir, 'manifest.json'), JSON.stringify(manifest, null,
 const manifestEntries = Object.keys(manifest).length
 const versionElapsed = ((Date.now() - versionStartTime) / 1000).toFixed(1)
 console.log(`Version history done. ${manifestEntries} chapters have historical versions. (${versionElapsed}s)`)
+
+// Phase 3: Section-level history ("blame")
+// For each chapter in the manifest, determine when each § was last changed
+// by comparing HEAD sections against annual snapshots newest → oldest.
+// Output: public/data/title-{N}/{slug}-history.json
+// Format: { "sectionId": "2024" } — the most recent snapshot year where
+// this section differed from its current state.
+console.log('\nBuilding section history (blame)...')
+const historyStart = Date.now()
+
+const YEARS_DESC = ['2024', '2022', '2021', '2019', '2017', '2015', '2014', '2013']
+
+const sectionBodyRegex = /<a id="section-([^"]+)"><\/a>\n## §\s*[^\n]+\n\n?([\s\S]*?)(?=<a id=|$)/g
+
+function parseSectionBodies(markdown) {
+  // Returns { sectionId: normalizedBodyText }
+  const content = markdown.replace(/^---[\s\S]*?---\n/, '')
+  const sections = {}
+  sectionBodyRegex.lastIndex = 0
+  let m
+  while ((m = sectionBodyRegex.exec(content)) !== null) {
+    // Normalize whitespace for stable comparison
+    sections[m[1]] = m[2].replace(/\s+/g, ' ').trim()
+  }
+  return sections
+}
+
+let historyChapters = 0
+for (const [chapterKey, years] of Object.entries(manifest)) {
+  const [titlePart, chapterSlug] = chapterKey.split('/')
+  const titleNum = parseInt(titlePart.replace('title-', ''))
+
+  // Read HEAD version from already-copied public/data file
+  const headPath = join(outDir, `title-${titleNum}`, `${chapterSlug}.md`)
+  let headSections
+  try {
+    headSections = parseSectionBodies(readFileSync(headPath, 'utf8'))
+  } catch { continue }
+  if (Object.keys(headSections).length === 0) continue
+
+  // Load historical section bodies for years this chapter appears in
+  const versionsByYear = {}
+  for (const year of YEARS_DESC) {
+    if (!years.includes(year)) continue
+    const vPath = join(outDir, 'versions', year, `title-${titleNum}`, `${chapterSlug}.md`)
+    try {
+      versionsByYear[year] = parseSectionBodies(readFileSync(vPath, 'utf8'))
+    } catch { /* not available for this year */ }
+  }
+
+  if (Object.keys(versionsByYear).length === 0) continue
+
+  // For each HEAD section, find the most recent year it was in a different state
+  const history = {}
+  for (const [sectionId, headText] of Object.entries(headSections)) {
+    for (const year of YEARS_DESC) {
+      if (!versionsByYear[year]) continue
+      const yearSections = versionsByYear[year]
+
+      if (!(sectionId in yearSections) || yearSections[sectionId] !== headText) {
+        // Section was absent or different at this year → changed after this snapshot
+        history[sectionId] = year
+        break
+      }
+      // Same as HEAD at this year → keep looking at older snapshots
+    }
+    // If loop completes with no break → section unchanged across all available years → omit from history
+  }
+
+  if (Object.keys(history).length > 0) {
+    writeFileSync(
+      join(outDir, `title-${titleNum}`, `${chapterSlug}-history.json`),
+      JSON.stringify(history)
+    )
+    historyChapters++
+  }
+}
+
+const historyElapsed = ((Date.now() - historyStart) / 1000).toFixed(1)
+console.log(`Section history done. ${historyChapters} chapters written. (${historyElapsed}s)`)

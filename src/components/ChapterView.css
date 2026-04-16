@@ -90,6 +90,20 @@
   border-bottom: 1px solid #e0e0e0;
   padding-bottom: 0.25rem;
   margin-top: 2rem;
+  margin-bottom: 0.2rem;
+}
+
+.cv-stamp {
+  display: inline-block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  color: #92400e;
+  background: #fef3c7;
+  border: 1px solid #fcd34d;
+  border-radius: 3px;
+  padding: 0.1rem 0.4rem;
+  font-family: system-ui, sans-serif;
+  margin-bottom: 0.6rem;
 }
 
 .cv-content h3 {

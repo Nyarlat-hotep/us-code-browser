@@ -15,17 +15,32 @@ export default function ChapterView() {
   const navigate = useNavigate()
 
   useEffect(() => {
-    // Fetch chapter markdown + version manifest in parallel
+    // Fetch chapter markdown, version manifest, and section history in parallel
     Promise.all([
       fetch(base + `data/title-${num}/${slug}.md`).then(r => {
         if (!r.ok) throw new Error('Chapter not found')
         return r.text()
       }),
       fetch(base + 'data/versions/manifest.json').then(r => r.json()).catch(() => ({})),
-    ]).then(([md, manifest]) => {
+      fetch(base + `data/title-${num}/${slug}-history.json`).then(r => r.json()).catch(() => null),
+    ]).then(([md, manifest, history]) => {
       // Strip YAML frontmatter
       const content = md.replace(/^---[\s\S]*?---\n/, '')
-      const rendered = marked(content)
+      let rendered = marked(content)
+
+      // Inject section history stamps into rendered HTML
+      if (history) {
+        rendered = rendered.replace(
+          /<a id="section-([^"]+)"><\/a>(\s*<h2[^>]*>[\s\S]*?<\/h2>)/g,
+          (match, sectionId, h2) => {
+            const year = history[sectionId]
+            if (!year) return match
+            const label = `Last amended: ${year}`
+            return `<a id="section-${sectionId}"></a>${h2}<span class="cv-stamp">${label}</span>`
+          }
+        )
+      }
+
       setHtml(rendered)
 
       // Extract TOC from ## § headings

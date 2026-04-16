@@ -43,11 +43,38 @@
   color: #1a1a1a;
 }
 
+.cl-item-right {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-shrink: 0;
+}
+
 .cl-item-meta {
   font-size: 0.75rem;
   color: #999;
   white-space: nowrap;
-  flex-shrink: 0;
+}
+
+.cl-item-badge {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #92400e;
+  background: #fef3c7;
+  border: 1px solid #fcd34d;
+  border-radius: 3px;
+  padding: 0.1rem 0.4rem;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.cl-item-badge:hover {
+  background: #fde68a;
+}
+
+.cl-item--updated {
+  border-left: 3px solid #f59e0b;
 }
 
 .cl-loading, .cl-error {
