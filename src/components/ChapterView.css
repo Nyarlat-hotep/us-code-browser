@@ -144,7 +144,7 @@
 
 .cv-diff-add {
   display: block;
-  background: #ffe600;
+  background: #bbf7d0;
   font-family: 'Courier New', Courier, monospace;
   font-size: 0.8rem;
   line-height: 1.5;
@@ -155,8 +155,8 @@
 
 .cv-diff-del {
   display: block;
+  background: #fecaca;
   text-decoration: line-through;
-  opacity: 0.45;
   font-family: 'Courier New', Courier, monospace;
   font-size: 0.8rem;
   line-height: 1.5;
@@ -185,15 +185,16 @@
 }
 
 ins.cv-ins {
-  background: #ffe600;
+  background: #bbf7d0;
   color: #000;
   text-decoration: none;
   padding: 0 0.1em;
 }
 
 del.cv-del {
+  background: #fecaca;
+  color: #000;
   text-decoration: line-through;
-  opacity: 0.55;
   padding: 0 0.1em;
 }
 

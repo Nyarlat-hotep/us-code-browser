@@ -89,14 +89,14 @@
 .dv-eq { color: #000; opacity: 0.55; }
 
 .dv-add {
-  background: #ffe600;
+  background: #bbf7d0;
   color: #000;
 }
 
 .dv-del {
+  background: #fecaca;
+  color: #000;
   text-decoration: line-through;
-  opacity: 0.45;
-  background: #f0f0f0;
 }
 
 .dv-sep {

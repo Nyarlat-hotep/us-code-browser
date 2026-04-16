@@ -48,19 +48,17 @@ export default function ChapterList() {
           <button
             key={ch.slug}
             className={`cl-item${updatedSlugs.has(ch.slug) ? ' cl-item--updated' : ''}`}
-            onClick={() => navigate(`/title/${num}/chapter/${ch.slug}`)}
+            onClick={() => navigate(
+              updatedSlugs.has(ch.slug)
+                ? `/title/${num}/chapter/${ch.slug}?changes=${RECENT_YEAR}`
+                : `/title/${num}/chapter/${ch.slug}`
+            )}
           >
             <span className="cl-item-heading">{ch.heading}</span>
             <span className="cl-item-right">
               <span className="cl-item-meta">{ch.section_count} sections</span>
               {updatedSlugs.has(ch.slug) && (
-                <span
-                  className="cl-item-badge"
-                  title="View what changed"
-                  onClick={e => { e.stopPropagation(); navigate(`/title/${num}/chapter/${ch.slug}?changes=${RECENT_YEAR}`) }}
-                >
-                  Updated {RECENT_YEAR} →
-                </span>
+                <span className="cl-item-badge">Updated {RECENT_YEAR} →</span>
               )}
             </span>
           </button>
