@@ -30,7 +30,7 @@
   text-align: left;
   background: #fff;
   border: 2px solid #000;
-  border-left: 4px solid transparent;
+  border-left: 4px solid #000;
   padding: 0.85rem 1rem;
   cursor: pointer;
   display: flex;
