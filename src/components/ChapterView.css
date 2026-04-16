@@ -34,24 +34,6 @@
 
 .cv-back:hover { background: #ffe600; text-decoration: none; }
 
-.cv-compare-btn {
-  display: block;
-  width: calc(100% - 1rem);
-  margin: 0 0.5rem 1rem;
-  padding: 0.4rem 0.6rem;
-  background: #fff;
-  border: 2px solid #000;
-  color: #000;
-  font-size: 0.75rem;
-  cursor: pointer;
-  text-align: left;
-  font-family: 'Courier New', Courier, monospace;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.cv-compare-btn:hover { background: #ffe600; }
 
 .cv-toc-label {
   font-size: 0.65rem;
@@ -88,37 +70,39 @@
   border-left-color: #000;
 }
 
-/* Read / Diff mode toggle */
-.cv-mode-toggle {
-  display: flex;
-  border: 2px solid #000;
+/* Year selector */
+.cv-year-selector {
   margin-bottom: 0.75rem;
+  padding: 0 0.5rem;
 }
 
-.cv-mode-btn {
-  flex: 1;
-  padding: 0.4rem 0;
-  background: #fff;
-  border: none;
-  cursor: pointer;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.72rem;
+.cv-year-label {
+  display: block;
+  font-size: 0.62rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.1em;
+  margin-bottom: 0.35rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.cv-year-select {
+  width: 100%;
+  padding: 0.35rem 0.5rem;
+  border: 2px solid #000;
+  border-radius: 0;
+  background: #fff;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.78rem;
+  font-weight: 700;
   color: #000;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
 }
 
-.cv-mode-btn + .cv-mode-btn {
-  border-left: 2px solid #000;
-}
-
-.cv-mode-btn--active {
-  background: #000;
-  color: #fff;
-}
-
-.cv-mode-btn:not(.cv-mode-btn--active):hover {
+.cv-year-select:focus {
+  outline: none;
   background: #ffe600;
 }
 
@@ -153,73 +137,6 @@
 
 @keyframes cv-spin {
   to { transform: rotate(360deg); }
-}
-
-/* Inline diff blocks */
-.cv-diff-block {
-  border: 2px solid #000;
-  border-left: 4px solid #000;
-  background: #fffde0;
-  padding: 0.6rem 0.75rem;
-  margin: 0.25rem 0 0.75rem;
-  font-family: 'Courier New', Courier, monospace;
-}
-
-.cv-diff-new {
-  background: #ffe600;
-}
-
-.cv-diff-label {
-  display: block;
-  font-size: 0.62rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: #000;
-  margin-bottom: 0.5rem;
-  font-family: 'Courier New', Courier, monospace;
-}
-
-.cv-diff-add {
-  display: block;
-  background: #bbf7d0;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.8rem;
-  line-height: 1.5;
-  padding: 0.15rem 0.5rem;
-  margin: 0.1rem 0;
-  border-left: 3px solid #000;
-}
-
-.cv-diff-del {
-  display: block;
-  background: #fecaca;
-  text-decoration: line-through;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.8rem;
-  line-height: 1.5;
-  padding: 0.15rem 0.5rem;
-  margin: 0.1rem 0;
-  border-left: 3px solid #000;
-}
-
-.cv-diff-eq {
-  display: block;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.8rem;
-  line-height: 1.5;
-  padding: 0.15rem 0.5rem;
-  margin: 0.1rem 0;
-  opacity: 0.55;
-}
-
-.cv-diff-gap {
-  display: block;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.72rem;
-  padding: 0.1rem 0.5rem;
-  opacity: 0.4;
-  letter-spacing: 0.15em;
 }
 
 ins.cv-ins {
