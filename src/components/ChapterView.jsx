@@ -2,6 +2,7 @@ import { useEffect, useState, useRef } from 'react'
 import { useParams, Link, useNavigate, useSearchParams } from 'react-router-dom'
 import { marked } from 'marked'
 import DiffMatchPatch from 'diff-match-patch'
+import { ArrowLeft } from 'lucide-react'
 import { diffToHtml } from '../utils/diff'
 import './ChapterView.css'
 
@@ -202,7 +203,9 @@ export default function ChapterView() {
     <div className="cv-layout">
       <aside className="cv-toc">
         <div className="cv-toc-inner">
-          <Link to={`/title/${num}`} className="cv-back">← Back to Title {num}</Link>
+          <Link to={`/title/${num}`} className="cv-back">
+            <ArrowLeft size={16} /> Back to Title {num}
+          </Link>
 
           {hasVersions && (
             <div className="cv-mode-toggle">

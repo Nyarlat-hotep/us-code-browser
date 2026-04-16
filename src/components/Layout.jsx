@@ -1,5 +1,6 @@
 import { Link, useNavigate, useSearchParams } from 'react-router-dom'
 import { useState, useEffect, useRef } from 'react'
+import { X } from 'lucide-react'
 import { useSearch } from '../hooks/useSearch'
 import './Layout.css'
 
@@ -69,7 +70,10 @@ export default function Layout({ children }) {
                 type="button"
                 className="layout-search-clear"
                 onClick={() => { setQuery(''); setShowDropdown(false) }}
-              >×</button>
+                aria-label="Clear search"
+              >
+                <X size={16} />
+              </button>
             )}
             {isOpen && (
               <div className="layout-typeahead">

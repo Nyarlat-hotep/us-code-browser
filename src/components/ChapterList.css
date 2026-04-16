@@ -63,6 +63,9 @@
 }
 
 .cl-item-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.2rem;
   font-size: 0.65rem;
   font-weight: 700;
   color: #000;

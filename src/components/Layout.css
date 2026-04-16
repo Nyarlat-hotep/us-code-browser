@@ -80,12 +80,11 @@
   background: none;
   border: none;
   color: #ffe600;
-  font-size: 1.3rem;
-  font-weight: 700;
   cursor: pointer;
-  font-family: 'Courier New', Courier, monospace;
-  line-height: 1;
-  padding: 0 0.1rem;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .layout-search-clear:hover { opacity: 0.7; }

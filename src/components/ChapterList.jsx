@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react'
 import { useParams, useNavigate, Link } from 'react-router-dom'
+import { ArrowRight } from 'lucide-react'
 import './ChapterList.css'
 
 const base = import.meta.env.BASE_URL
@@ -58,7 +59,9 @@ export default function ChapterList() {
             <span className="cl-item-right">
               <span className="cl-item-meta">{ch.section_count} sections</span>
               {updatedSlugs.has(ch.slug) && (
-                <span className="cl-item-badge">Updated {RECENT_YEAR} →</span>
+                <span className="cl-item-badge">
+                  Updated {RECENT_YEAR} <ArrowRight size={14} />
+                </span>
               )}
             </span>
           </button>
