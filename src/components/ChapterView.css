@@ -111,7 +111,7 @@
   font-family: 'Courier New', Courier, monospace;
   color: #000;
   opacity: 0.6;
-  margin-bottom: 0.75rem;
+  margin: 0.75rem 0;
   text-transform: uppercase;
   letter-spacing: 0.04em;
   line-height: 1.4;
@@ -195,26 +195,79 @@ del.cv-del {
   border-bottom: 2px solid #000;
   padding-bottom: 0.35rem;
   margin-top: 3rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
   font-family: 'Courier New', Courier, monospace;
   text-transform: uppercase;
   letter-spacing: 0.03em;
 }
 
 .cv-content h3 {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   font-weight: 700;
-  margin-top: 1.25rem;
+  margin-top: 2rem;
+  margin-bottom: 0.6rem;
   font-family: 'Courier New', Courier, monospace;
   text-transform: uppercase;
+  letter-spacing: 0.06em;
+  border-bottom: 1px solid #000;
+  padding-bottom: 0.2rem;
+}
+
+.cv-content h4 {
+  font-size: 0.78rem;
+  font-weight: 700;
+  margin-top: 1.5rem;
+  margin-bottom: 0.4rem;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  opacity: 0.6;
 }
 
 .cv-content p {
-  margin: 1rem 0;
+  margin: 0.85rem 0;
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 0.95rem;
-  line-height: 1.75;
+  line-height: 1.8;
   color: #000;
+}
+
+.cv-content p + p {
+  margin-top: 1.1rem;
+}
+
+.cv-content a {
+  color: #000;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.cv-content a:hover {
+  background: #ffe600;
+  text-decoration: none;
+}
+
+.cv-content blockquote {
+  border-left: 4px solid #000;
+  margin: 1.25rem 0 1.25rem 1rem;
+  padding: 0.4rem 1rem;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.9rem;
+  line-height: 1.75;
+}
+
+.cv-content hr {
+  border: none;
+  border-top: 2px solid #000;
+  margin: 2.5rem 0;
+}
+
+.cv-content code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.85em;
+  background: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 0.1em 0.3em;
 }
 
 .cv-content table {
