@@ -17,7 +17,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Get week key
+        id: week
+        run: echo "key=$(date +'%Y-W%V')" >> $GITHUB_OUTPUT
+
+      - name: Cache us-code repo
+        id: cache-us-code
+        uses: actions/cache@v4
+        with:
+          path: /tmp/us-code
+          key: us-code-${{ steps.week.outputs.key }}
+
       - name: Clone us-code data (full history for git diffs)
+        if: steps.cache-us-code.outputs.cache-hit != 'true'
         run: git clone https://github.com/nickvido/us-code.git /tmp/us-code
 
       - name: Set up Node.js
