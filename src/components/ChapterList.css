@@ -80,9 +80,7 @@
   color: #ffe600;
 }
 
-.cl-item--updated {
-  border-left: 4px solid #ffe600;
-}
+.cl-item--updated {}
 
 .cl-loading, .cl-error {
   padding: 2rem;

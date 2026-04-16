@@ -76,9 +76,7 @@
   letter-spacing: 0.05em;
 }
 
-.tg-card--updated {
-  border-left: 4px solid #ffe600;
-}
+.tg-card--updated {}
 
 .tg-loading, .tg-error {
   padding: 2rem;
