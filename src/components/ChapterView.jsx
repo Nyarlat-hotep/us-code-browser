@@ -28,7 +28,7 @@ function paragraphDiff(oldText, newText) {
   // Use line-level diff treating each paragraph as a "line"
   const oldJoined = oldParas.map(p => p.replace(/\s+/g, ' ').trim()).join('\n')
   const newJoined = newParas.map(p => p.replace(/\s+/g, ' ').trim()).join('\n')
-  const [c1, c2, arr] = dmp.diff_linesToChars_(oldJoined, newJoined)
+  const { chars1: c1, chars2: c2, lineArray: arr } = dmp.diff_linesToChars_(oldJoined, newJoined)
   const diffs = dmp.diff_main(c1, c2, false)
   dmp.diff_charsToLines_(diffs, arr)
 
