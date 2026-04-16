@@ -18,3 +18,32 @@ body {
 
 a { color: #000; }
 a:hover { color: #000; text-decoration: underline; }
+
+/* Brutalist scrollbars — thin, black thumb, white track */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #000 #fff;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff;
+  border-left: 1px solid #000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ffe600;
+  border: 1px solid #000;
+}
+
+::-webkit-scrollbar-corner {
+  background: #fff;
+}
