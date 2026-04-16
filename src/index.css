@@ -28,6 +28,12 @@ a:hover { color: #000; text-decoration: underline; }
 ::-webkit-scrollbar {
   width: 6px;
   height: 6px;
+  background: #fff;
+}
+
+::-webkit-scrollbar:hover {
+  width: 6px;
+  height: 6px;
 }
 
 ::-webkit-scrollbar-track {
@@ -35,8 +41,13 @@ a:hover { color: #000; text-decoration: underline; }
   border-left: 1px solid #000;
 }
 
+::-webkit-scrollbar-track:hover {
+  background: #fff;
+}
+
 ::-webkit-scrollbar-thumb {
   background: #000;
+  min-height: 40px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
