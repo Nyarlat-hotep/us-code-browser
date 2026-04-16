@@ -8,13 +8,13 @@
   position: sticky;
   top: 0;
   z-index: 100;
-  background: #1a1a2e;
+  background: #000;
   color: #fff;
   display: flex;
   align-items: center;
   gap: 1.5rem;
   padding: 0.75rem 1.5rem;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  border-bottom: 3px solid #ffe600;
 }
 
 .layout-logo {
@@ -24,58 +24,66 @@
   flex-direction: column;
   line-height: 1.1;
   flex-shrink: 0;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .layout-logo-title {
   font-size: 1.1rem;
   font-weight: 700;
   letter-spacing: 0.05em;
+  text-transform: uppercase;
 }
 
 .layout-logo-sub {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
   text-transform: uppercase;
-  letter-spacing: 0.15em;
-  opacity: 0.65;
+  letter-spacing: 0.2em;
+  opacity: 0.55;
 }
 
 .layout-search {
   flex: 1;
   display: flex;
-  gap: 0.5rem;
+  gap: 0;
   max-width: 520px;
 }
 
 .layout-search-input {
   flex: 1;
   padding: 0.45rem 0.75rem;
-  border: 1px solid rgba(255,255,255,0.25);
-  border-radius: 4px;
-  background: rgba(255,255,255,0.1);
+  border: 2px solid #fff;
+  border-right: none;
+  background: #000;
   color: #fff;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-.layout-search-input::placeholder { opacity: 0.55; }
+.layout-search-input::placeholder { color: rgba(255,255,255,0.45); }
 
 .layout-search-input:focus {
   outline: none;
-  border-color: rgba(255,255,255,0.6);
-  background: rgba(255,255,255,0.15);
+  border-color: #ffe600;
 }
 
 .layout-search-btn {
-  padding: 0.45rem 0.9rem;
-  background: #4a6cf7;
-  color: #fff;
-  border: none;
-  border-radius: 4px;
+  padding: 0.45rem 1rem;
+  background: #ffe600;
+  color: #000;
+  border: 2px solid #ffe600;
   cursor: pointer;
-  font-size: 0.85rem;
-  font-weight: 600;
+  font-size: 0.82rem;
+  font-weight: 700;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 
-.layout-search-btn:hover { background: #3a5ce7; }
+.layout-search-btn:hover {
+  background: #000;
+  color: #ffe600;
+  border-color: #ffe600;
+}
 
 .layout-main {
   flex: 1;

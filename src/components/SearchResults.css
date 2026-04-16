@@ -3,15 +3,21 @@
 }
 
 .sr-heading {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
+  font-weight: 900;
   margin: 0 0 0.5rem;
+  text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
+  border-bottom: 3px solid #000;
+  padding-bottom: 0.5rem;
 }
 
 .sr-count, .sr-status {
-  font-size: 0.85rem;
-  color: #888;
-  margin: 0 0 1rem;
-  font-family: system-ui, sans-serif;
+  font-size: 0.82rem;
+  color: #000;
+  margin: 0.5rem 0 1rem;
+  font-family: 'Courier New', Courier, monospace;
+  opacity: 0.6;
 }
 
 .sr-list {
@@ -20,18 +26,22 @@
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0;
+  border-top: 2px solid #000;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
 }
 
 .sr-item {
   background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 5px;
+  border-bottom: 2px solid #000;
   padding: 0.7rem 0.9rem;
   display: flex;
   flex-direction: column;
   gap: 0.2rem;
 }
+
+.sr-item:hover { background: #ffe600; }
 
 .sr-link {
   text-decoration: none;
@@ -41,26 +51,31 @@
   gap: 0.6rem;
 }
 
-.sr-link:hover .sr-item-heading { text-decoration: underline; color: #2a4db7; }
+.sr-link:hover .sr-item-heading { text-decoration: underline; }
 
 .sr-section {
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 700;
-  color: #4a6cf7;
-  font-family: system-ui, sans-serif;
+  color: #000;
+  font-family: 'Courier New', Courier, monospace;
   white-space: nowrap;
   flex-shrink: 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .sr-item-heading {
-  font-size: 0.9rem;
-  color: #1a1a1a;
-  font-family: system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: #000;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .sr-meta {
-  font-size: 0.75rem;
-  color: #999;
-  font-family: system-ui, sans-serif;
-  text-transform: capitalize;
+  font-size: 0.7rem;
+  color: #000;
+  font-family: 'Courier New', Courier, monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  opacity: 0.5;
 }

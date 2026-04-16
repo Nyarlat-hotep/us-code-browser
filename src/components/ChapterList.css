@@ -1,46 +1,54 @@
 .cl-breadcrumb {
-  font-size: 0.82rem;
-  color: #888;
-  margin-bottom: 0.75rem;
-  font-family: system-ui, sans-serif;
+  font-size: 0.8rem;
+  color: #000;
+  margin-bottom: 0.5rem;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-.cl-breadcrumb a { color: #4a6cf7; text-decoration: none; }
-.cl-breadcrumb a:hover { text-decoration: underline; }
+.cl-breadcrumb a { color: #000; text-decoration: underline; }
+.cl-breadcrumb a:hover { background: #ffe600; text-decoration: none; }
 
 .cl-heading {
   font-size: 1.4rem;
+  font-weight: 900;
   margin: 0 0 1.25rem;
-  line-height: 1.3;
+  line-height: 1.2;
+  text-transform: uppercase;
+  border-bottom: 3px solid #000;
+  padding-bottom: 0.5rem;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .cl-list {
   display: flex;
   flex-direction: column;
-  gap: 0.4rem;
+  gap: 0;
   max-width: 800px;
+  border-top: 2px solid #000;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
 }
 
 .cl-item {
   text-align: left;
   background: #fff;
-  border: 1px solid #ddd;
-  border-radius: 5px;
+  border-bottom: 2px solid #000;
+  border-left: 4px solid transparent;
   padding: 0.65rem 0.9rem;
   cursor: pointer;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 0.75rem;
-  transition: border-color 0.15s;
-  font-family: system-ui, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
 }
 
-.cl-item:hover { border-color: #4a6cf7; }
+.cl-item:hover { background: #ffe600; }
 
 .cl-item-heading {
-  font-size: 0.9rem;
-  color: #1a1a1a;
+  font-size: 0.88rem;
+  color: #000;
+  font-weight: 600;
 }
 
 .cl-item-right {
@@ -51,34 +59,36 @@
 }
 
 .cl-item-meta {
-  font-size: 0.75rem;
-  color: #999;
+  font-size: 0.72rem;
+  color: #000;
+  opacity: 0.5;
   white-space: nowrap;
 }
 
 .cl-item-badge {
-  font-size: 0.7rem;
-  font-weight: 600;
-  color: #92400e;
-  background: #fef3c7;
-  border: 1px solid #fcd34d;
-  border-radius: 3px;
+  font-size: 0.65rem;
+  font-weight: 700;
+  color: #000;
+  background: #ffe600;
+  border: 2px solid #000;
   padding: 0.1rem 0.4rem;
   white-space: nowrap;
   cursor: pointer;
-  transition: background 0.1s;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .cl-item-badge:hover {
-  background: #fde68a;
+  background: #000;
+  color: #ffe600;
 }
 
 .cl-item--updated {
-  border-left: 3px solid #f59e0b;
+  border-left: 4px solid #ffe600;
 }
 
 .cl-loading, .cl-error {
   padding: 2rem;
-  color: #888;
-  font-family: system-ui, sans-serif;
+  font-family: 'Courier New', Courier, monospace;
+  border: 2px solid #000;
 }
