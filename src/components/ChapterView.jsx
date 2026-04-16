@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef } from 'react'
 import { useParams, Link, useNavigate, useSearchParams } from 'react-router-dom'
 import { marked } from 'marked'
-import { diffToHtml } from '../utils/diff'
+import DiffMatchPatch from 'diff-match-patch'
 import './ChapterView.css'
 
 const base = import.meta.env.BASE_URL
@@ -16,6 +16,68 @@ function parseSectionMap(md) {
     map[m[1]] = m[2]
   }
   return map
+}
+
+// Diff two texts at paragraph level. Returns array of {type, text} where
+// type is 'equal'|'add'|'del'. Only changed paragraphs (+ 1 context para) are included.
+function paragraphDiff(oldText, newText) {
+  const oldParas = oldText.split(/\n\n+/).filter(p => p.trim())
+  const newParas = newText.split(/\n\n+/).filter(p => p.trim())
+
+  const dmp = new DiffMatchPatch()
+  // Use line-level diff treating each paragraph as a "line"
+  const oldJoined = oldParas.map(p => p.replace(/\s+/g, ' ').trim()).join('\n')
+  const newJoined = newParas.map(p => p.replace(/\s+/g, ' ').trim()).join('\n')
+  const [c1, c2, arr] = dmp.diff_linesToChars_(oldJoined, newJoined)
+  const diffs = dmp.diff_main(c1, c2, false)
+  dmp.diff_charsToLines_(diffs, arr)
+
+  // Collect changed lines and 1 context line on each side
+  const lines = [] // {op, text}
+  for (const [op, text] of diffs) {
+    for (const line of text.split('\n').filter(l => l.trim())) {
+      lines.push({ op, text: line })
+    }
+  }
+
+  // Find which indices are changed
+  const changedIdx = new Set()
+  lines.forEach((l, i) => { if (l.op !== 0) changedIdx.add(i) })
+
+  // Include changed lines + 1 context each side
+  const included = new Set()
+  for (const i of changedIdx) {
+    if (i > 0) included.add(i - 1)
+    included.add(i)
+    if (i < lines.length - 1) included.add(i + 1)
+  }
+
+  const result = []
+  let prevIdx = -1
+  for (const i of [...included].sort((a, b) => a - b)) {
+    if (prevIdx !== -1 && i > prevIdx + 1) result.push({ op: 'gap' })
+    result.push(lines[i])
+    prevIdx = i
+  }
+  return result
+}
+
+// Build the diff block HTML for a changed section
+function buildDiffBlock(sectionId, oldText, newText, year) {
+  if (!oldText) {
+    return `<div class="cv-diff-block cv-diff-new"><span class="cv-diff-label cv-diff-label-new">New section added after ${year}</span></div>`
+  }
+  const paras = paragraphDiff(oldText, newText)
+  if (paras.length === 0) return ''
+
+  const rows = paras.map(p => {
+    if (p.op === 'gap') return `<div class="cv-diff-gap">⋯</div>`
+    if (p.op === 1)  return `<div class="cv-diff-add">${p.text.replace(/</g,'&lt;')}</div>`
+    if (p.op === -1) return `<div class="cv-diff-del">${p.text.replace(/</g,'&lt;')}</div>`
+    return `<div class="cv-diff-eq">${p.text.replace(/</g,'&lt;')}</div>`
+  }).join('')
+
+  return `<div class="cv-diff-block"><div class="cv-diff-label">Changes since ${year}</div><div class="cv-diff-body">${rows}</div></div>`
 }
 
 export default function ChapterView() {
@@ -55,23 +117,21 @@ export default function ChapterView() {
 
       // ── Inline diff injection (changes mode) ──────────────────────────
       let diffCount = 0
-      if (changesYear && snapshotMd && history) {
+      if (changesYear && history) {
         const currentSections = parseSectionMap(md)
-        const oldSections = parseSectionMap(snapshotMd)
+        const oldSections = snapshotMd ? parseSectionMap(snapshotMd) : {}
 
         for (const [sectionId, changedAt] of Object.entries(history)) {
           if (changedAt !== changesYear) continue
 
-          const oldText = (oldSections[sectionId] || '').replace(/\s+/g, ' ').trim().slice(0, 4000)
-          const newText = (currentSections[sectionId] || '').replace(/\s+/g, ' ').trim().slice(0, 4000)
+          const oldText = (oldSections[sectionId] || '').replace(/\s+/g, ' ').trim()
+          const newText = (currentSections[sectionId] || '').replace(/\s+/g, ' ').trim()
           if (oldText === newText) continue
 
-          const isNew = !oldSections[sectionId]
-          const block = isNew
-            ? `<div class="cv-diff-block cv-diff-new"><span class="cv-diff-label">Added after ${changesYear}</span></div>`
-            : `<div class="cv-diff-block"><span class="cv-diff-label">Changes since ${changesYear}</span><div class="cv-diff-content">${diffToHtml(oldText, newText)}</div></div>`
+          const block = buildDiffBlock(sectionId, oldText || null, newText, changesYear)
+          if (!block) continue
 
-          // Insert after the closing </h2> for this section
+          // Insert after the </h2> that follows this section's anchor
           const anchor = `<a id="section-${sectionId}"></a>`
           const anchorIdx = rendered.indexOf(anchor)
           if (anchorIdx === -1) continue
@@ -85,15 +145,18 @@ export default function ChapterView() {
       setChangedCount(diffCount)
 
       // ── Section amendment stamps (reading mode only) ───────────────────
+      // marked wraps <a> in <p>, so we use indexOf rather than regex
       if (history && !changesYear) {
-        rendered = rendered.replace(
-          /<a id="section-([^"]+)"><\/a>(\s*<h2[^>]*>[\s\S]*?<\/h2>)/g,
-          (match, sectionId, h2) => {
-            const year = history[sectionId]
-            if (!year) return match
-            return `<a id="section-${sectionId}"></a>${h2}<span class="cv-stamp">Last amended: ${year}</span>`
-          }
-        )
+        for (const [sectionId, year] of Object.entries(history)) {
+          const anchor = `<a id="section-${sectionId}"></a>`
+          const anchorIdx = rendered.indexOf(anchor)
+          if (anchorIdx === -1) continue
+          const h2End = rendered.indexOf('</h2>', anchorIdx)
+          if (h2End === -1) continue
+          const stamp = `<span class="cv-stamp">Last amended: ${year}</span>`
+          const insertAt = h2End + 5
+          rendered = rendered.slice(0, insertAt) + stamp + rendered.slice(insertAt)
+        }
       }
 
       setHtml(rendered)
@@ -134,7 +197,7 @@ export default function ChapterView() {
               <div className="cv-changes-badge">
                 {changedCount > 0
                   ? `${changedCount} section${changedCount !== 1 ? 's' : ''} changed since ${changesYear}`
-                  : `No section changes found for ${changesYear}`}
+                  : `No section-level changes found for ${changesYear}`}
               </div>
               <Link
                 to={`/title/${num}/chapter/${slug}`}
