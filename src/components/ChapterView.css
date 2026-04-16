@@ -197,6 +197,34 @@ del.cv-del {
   padding: 0 0.1em;
 }
 
+/* Word-level redline block (reading mode) */
+.cv-redline {
+  border: 2px solid #000;
+  border-left: 4px solid #000;
+  background: #fff;
+  padding: 0.6rem 0.75rem;
+  margin: 0 0 0.75rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.cv-redline-label {
+  display: block;
+  font-size: 0.62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: #000;
+  margin-bottom: 0.5rem;
+  opacity: 0.55;
+}
+
+.cv-redline-text {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: #000;
+}
+
 .cv-content {
   flex: 1;
   min-width: 0;
