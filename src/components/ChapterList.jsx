@@ -57,7 +57,7 @@ export default function ChapterList() {
                 <span
                   className="cl-item-badge"
                   title="View what changed"
-                  onClick={e => { e.stopPropagation(); navigate(`/compare?title=${num}&chapter=${ch.slug}`) }}
+                  onClick={e => { e.stopPropagation(); navigate(`/title/${num}/chapter/${ch.slug}?changes=${RECENT_YEAR}`) }}
                 >
                   Updated {RECENT_YEAR} →
                 </span>

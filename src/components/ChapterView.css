@@ -78,6 +78,83 @@
   border-left-color: #4a6cf7;
 }
 
+/* Changes mode sidebar */
+.cv-changes-mode {
+  margin-bottom: 1rem;
+}
+
+.cv-changes-badge {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #92400e;
+  background: #fef3c7;
+  border: 1px solid #fcd34d;
+  border-radius: 4px;
+  padding: 0.4rem 0.5rem;
+  margin-bottom: 0.5rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.4;
+}
+
+.cv-changes-exit {
+  display: block;
+  font-size: 0.8rem;
+  color: #4a6cf7;
+  text-decoration: none;
+  font-family: system-ui, sans-serif;
+}
+
+.cv-changes-exit:hover { text-decoration: underline; }
+
+/* Inline diff blocks */
+.cv-diff-block {
+  border-left: 3px solid #f59e0b;
+  background: #fffbeb;
+  padding: 0.6rem 0.75rem;
+  margin: 0.25rem 0 0.75rem;
+  border-radius: 0 4px 4px 0;
+  font-family: system-ui, sans-serif;
+}
+
+.cv-diff-new {
+  border-left-color: #22c55e;
+  background: #f0fdf4;
+}
+
+.cv-diff-label {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #92400e;
+  margin-bottom: 0.5rem;
+}
+
+.cv-diff-new .cv-diff-label { color: #166534; }
+
+.cv-diff-content {
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: #1a1a1a;
+  margin: 0;
+}
+
+ins.cv-ins {
+  background: #bbf7d0;
+  color: #14532d;
+  text-decoration: none;
+  border-radius: 2px;
+  padding: 0 0.1em;
+}
+
+del.cv-del {
+  background: #fecaca;
+  color: #7f1d1d;
+  border-radius: 2px;
+  padding: 0 0.1em;
+}
+
 .cv-content {
   flex: 1;
   min-width: 0;
