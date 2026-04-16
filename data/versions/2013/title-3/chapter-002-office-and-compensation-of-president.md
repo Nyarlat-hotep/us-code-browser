@@ -1,0 +1,864 @@
+---
+title: 3
+chapter: '2'
+heading: OFFICE AND COMPENSATION OF PRESIDENT
+section_count: 15
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3&num=0&edition=prelim
+---
+<a id="section-101"></a>
+## § 101. Commencement of term of office
+
+The term of four years for which a President and Vice President shall be elected, shall, in all cases, commence on the 20th day of January next succeeding the day on which the votes of the electors have been given.
+
+### Statutory Notes
+
+#### Short Title of 2000 Amendment
+Pub. L. 106–293, § 1, Oct. 12, 2000, 114 Stat. 1035, provided that: “This Act [amending provisions set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102)] may be cited as the ‘Presidential Transition Act of 2000’.”
+
+#### Dwight D. Eisenhower Executive Office Building
+Pub. L. 106–92, Nov. 9, 1999, 113 Stat. 1309, provided that: “SECTION 1. DESIGNATION OF DWIGHT D. EISENHOWER EXECUTIVE OFFICE BUILDING.“The Old Executive Office Building located at 17th Street and Pennsylvania Avenue, NW, in Washington, District of Columbia, shall be known and designated as the ‘Dwight D. Eisenhower Executive Office Building’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Dwight D. Eisenhower Executive Office Building’.”
+
+Pub. L. 100–461, title V, § 590, Oct. 1, 1988, 102 Stat. 2268–52, as amended by Pub. L. 106–92, § 2, Nov. 9, 1999, 113 Stat. 1309, provided that: “(a) Acceptance of Gifts of Money and Property.—The Director of the Office of Administration is authorized to—“(1) accept, hold, administer, utilize and sell gifts and bequests of property, both real and personal, and loans of personal property other than money; and “(2) accept and utilize voluntary and uncompensated services; for the purpose of aiding, benefiting, or facilitating the work of preservation, restoration, renovation, rehabilitation, or historic furnishing of the Dwight D. Eisenhower Executive Office Building and the grounds thereof. “(b) Establishment of Fund.—There is established in the Treasury a fund for use in accordance with the provisions of this section. Amounts of money and proceeds from the sale of property accepted under subsection (a) shall be deposited in the fund, which shall be available to the Director of the Office of Administration. Such funds shall be held in trust by the Secretary of the Treasury. “(c) Use of Fund.—Property accepted pursuant to this section or the proceeds from the sale thereof, shall be used as nearly as possible in accordance with the terms of the gift or bequest. Any use or sale of property accepted pursuant to this section, and any use of proceeds from such sale, shall be subject to the disapproval of the Administrator of General Services within 30 days after the Administrator receives notice of such use or sale. The Director of the Office of Administration shall not accept any gift under this section that is expressly conditioned on any expenditure not to be met from the gift itself unless such expenditure has been approved by an Act of Congress. “(d) Taxes.—For the purpose of the Federal income, estate, and gift tax laws, property accepted under this section shall be considered as a gift, bequest, or devise to the United States.”
+
+#### President’s Advisory Commission on Presidential Office Space
+Act Aug. 3, 1956, ch. 925, 70 Stat. 979, as amended by Pub. L. 85–3, Jan. 25, 1957, 71 Stat. 4, created a President’s Advisory Commission on Presidential Office Space to study the problem of providing more adequate office space for the White House Office and the other agencies of the Executive Office of the President. Pursuant to section 1(b) of act Aug. 3, 1956, the Commission was required to report to the President its findings and recommendations within 10 months after Aug. 3, 1956, and section 2(g) of act Aug. 3, 1956, provided that the Commission should cease to exist 30 days after the submission of its final report.
+
+
+<a id="section-102"></a>
+## § 102. Compensation of the President
+
+The President shall receive in full for his services during the term for which he shall have been elected compensation in the aggregate amount of $400,000 a year, to be paid monthly, and in addition an expense allowance of $50,000 to assist in defraying expenses relating to or resulting from the discharge of his official duties. Any unused amount of such expense allowance shall revert to the Treasury pursuant to [section 1552 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1552&num=0&edition=prelim), United States Code. No amount of such expense allowance shall be included in the gross income of the President. He shall be entitled also to the use of the furniture and other effects belonging to the United States and kept in the Executive Residence at the White House.
+
+### Statutory Notes
+
+#### Amendments
+2004—Pub. L. 108–199 substituted “. Any unused amount of such expense allowance shall revert to the Treasury pursuant to [section 1552 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1552&num=0&edition=prelim), United States Code. No amount of such expense allowance shall be included in the gross income of the President.” for “, for which expense allowance no accounting, other than for income tax purposes, shall be made by him.”
+
+1999—Pub. L. 106–58 substituted “$400,000” for “$200,000”.
+
+1978—Pub. L. 95–570 substituted “Executive Residence at the White House” for “Executive Mansion”.
+
+1969—Pub. L. 91–1 substituted “$200,000” for “$100,000”.
+
+1951—Act Oct. 20, 1951, made President’s expense allowance taxable.
+
+1949—Act Jan. 19, 1949, increased salary from $75,000 to $100,000 per year, and gave President a yearly expense account of $50,000 for which he was to make no accounting and which was tax free.
+
+#### Effective Date of 1999 Amendment
+Pub. L. 106–58, title VI, § 644(b), Sept. 29, 1999, 113 Stat. 478, provided that: “The amendment made by this section [amending this section] shall take effect at noon on January 20, 2001.”
+
+#### Effective Date of 1978 Amendment
+Pub. L. 95–570, § 6(a), Nov. 2, 1978, 92 Stat. 2451, provided that: “The amendments made by this Act [enacting sections 107, 108, 112, 113, and 114 of this title, amending sections 102, 103, 105, 106, 109, 110, and 202 of this title, repealing [section 107 of this title](./chapter-002-office-and-compensation-of-president.md#section-107), and enacting provisions set out as a note under [section 107 of this title](./chapter-002-office-and-compensation-of-president.md#section-107)] shall apply to any fiscal year which begins on or after October 1, 1978.”
+
+#### Effective Date of 1969 Amendment
+Pub. L. 91–1, § 2, Jan. 17, 1969, 83 Stat. 3, provided that: “The amendment made by this Act [amending this section] shall take effect at noon on January 20, 1969.”
+
+#### Effective Date of 1951 Amendment
+Act Oct. 20, 1951, ch. 521, title VI, § 619(e), 65 Stat. 570, provided that: “The amendments made by subsections (a) and (b) of this section [amending this section and [section 111 of this title](./chapter-002-office-and-compensation-of-president.md#section-111)] shall become effective at noon on January 20, 1953, and the amendments made by subsections (c) and (d) [amending sections 31a and 31b of Title 2, The Congress] shall become effective at noon on January 3, 1953.”
+
+#### Effective Date of 1949 Amendment
+Amendment by act Jan. 19, 1949, effective noon, Jan. 19, 1949, see section 3 of that act.
+
+#### Authorization of Transition Activities by the Incumbent Administration
+Pub. L. 111–283, § 3, Oct. 15, 2010, 124 Stat. 3048, provided that: “(a) In General.—The President of the United States, or the President’s delegate, may take such actions as the President determines necessary and appropriate to plan and coordinate activities by the Executive branch of the Federal Government to facilitate an efficient transfer of power to a successor President, including—“(1) the establishment and operation of a transition coordinating council comprised of—“(A) high-level officials of the Executive branch selected by the President, which may include the Chief of Staff to the President, any Cabinet officer, the Director of the Office of Management and Budget, the Administrator of the General Services Administration, the Director of the Office of Personnel Management, the Director of the Office of Government Ethics, and the Archivist of the United States, and “(B) any other persons the President determines appropriate; “(2) the establishment and operation of an agency transition directors council which includes career employees designated to lead transition efforts within Executive Departments or agencies; “(3) the development of guidance to Executive Departments and agencies regarding briefing materials for an incoming administration, and the development of such materials; and “(4) the development of computer software, publications, contingency plans, issue memoranda, memoranda of understanding, training and exercises (including crisis training and exercises), programs, lessons learned from previous transitions, and other items appropriate for improving the effectiveness and efficiency of a Presidential transition that may be disseminated to eligible candidates (as defined in section 3(h)(4) of the Presidential Transition Act of 1963, as added by section 2(a) [section 3(h)(4) of Pub. L. 88–277, set out in a note below]) and to the President-elect and Vice-President-elect. Any information and other assistance to eligible candidates under this subsection shall be offered on an equal basis and without regard to political affiliation. “(b) Reports.—“(1) In general.—The President of the United States, or the President’s delegate, shall provide to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate reports describing the activities undertaken by the President and the Executive Departments and agencies to prepare for the transfer of power to a new President. “(2) Timing.—The reports under paragraph (1) shall be provided six months and three months before the date of the general election for the Office of President of the United States.”
+
+#### Disclosure of In-Kind Contributions to 1988–1989 Transition
+Pub. L. 100–398, § 5, Aug. 17, 1988, 102 Stat. 987, provided that: “(a) Disclosure as Condition of Receipt of Funds.—The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1) of the Presidential Transition Act of 1963 [Pub. L. 88–277] ([3 U.S.C. 102](./chapter-002-office-and-compensation-of-president.md#section-102) note) shall provide an estimate to the Administrator of General Services of the aggregate value of in-kind contributions made during the period beginning on November 9, 1988, through January 20, 1989, received for transition activities for—“(1) transportation; “(2) hotel and other accommodations; “(3) suitable office space; and “(4) furniture, furnishings, office machines and equipment, and office supplies. “(b) Form and Availability of Estimates.—The estimates made under subsection (a) shall be—“(1) in the form of a report to the Administrator of General Services within 90 days after January 20, 1989; and “(2) made available to the public by the Administrator upon receipt by the Administrator.”
+
+#### Presidential Transition Act of 1963
+Pub. L. 88–277, Mar. 7, 1964, 78 Stat. 153, as amended by Pub. L. 94–499, §§ 1, 2, Oct. 14, 1976, 90 Stat. 2380; Pub. L. 100–398, §§ 2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106–293, § 2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title VII, § 7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111–283, § 2(a), (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048, provided: “That this Act may be cited as the ‘Presidential Transition Act of 1963.’
+
+#### “purpose of this act
+“Sec. 2. The Congress declares it to be the purpose of this Act to promote the orderly transfer of the executive power in connection with the expiration of the term of office of a President and the inauguration of a new President. The national interest requires that such transitions in the office of President be accomplished so as to assure continuity in the faithful execution of the laws and in the conduct of the affairs of the Federal Government, both domestic and foreign. Any disruption occasioned by the transfer of the executive power could produce results detrimental to the safety and well-being of the United States and its people. Accordingly, it is the intent of the Congress that appropriate actions be authorized and taken to avoid or minimize any disruption. In addition to the specific provisions contained in this Act directed toward that purpose, it is the intent of the Congress that all officers of the Government so conduct the affairs of the Government for which they exercise responsibility and authority as (1) to be mindful of problems occasioned by transitions in the office of President, (2) to take appropriate lawful steps to avoid or minimize disruptions that might be occasioned by the transfer of the executive power, and (3) otherwise to promote orderly transitions in the office of President.
+
+#### “services and facilities authorized to be provided to presidents-elect and vice-presidents-elect
+“Sec. 3. (a) The Administrator of General Services, referred to hereafter in this Act as ‘the Administrator,’ is authorized to provide, upon request, to each President-elect and each Vice-President-elect, for use in connection with his preparations for the assumption of official duties as President or Vice President necessary services and facilities, including the following:
+
+“(1) Suitable office space appropriately equipped with furniture, furnishings, office machines and equipment, and office supplies, as determined by the Administrator, after consultation with the President-elect, the Vice-President-elect, or their designee provided for in subsection (e) of this section, at such place or places within the United States as the President-elect or Vice-President-elect shall designate.
+
+“(2) Payment of the compensation of members of office staffs designated by the President-elect or Vice-President-elect at rates determined by them not to exceed the rate provided by the Classification Act of 1949, as amended [chapter 51 and subchapter III of chapter 53 of title 5], for grade GS–18: Provided, That any employee of any agency of any branch of the Government may be detailed to such staffs on a reimbursable basis with the consent of the head of the agency; and while so detailed such employee shall be responsible only to the President-elect or Vice-President-elect for the performance of his duties: Provided further, That any employee so detailed shall continue to receive the compensation provided pursuant to law for his regular employment, and shall retain the rights and privileges of such employment without interruption. Notwithstanding any other law, persons receiving compensation as members of office staffs under this subsection, other than those detailed from agencies, shall not be held or considered to be employees of the Federal Government except for purposes of the Civil Service Retirement Act [section 8301 et seq. of title 5], the Federal Employees’ Compensation Act [section 8501 et seq. of title 5], the Federal Employees’ Group Life Insurance Act of 1954 [section 8701 et seq. of title 5], and the Federal Employees Health Benefits Act of 1959 [section 8901 et seq. of title 5].
+
+“(3) Payment of expenses for the procurement of services of experts or consultants or organizations thereof for the President-elect or Vice-President-elect, as authorized for the head of any department by section 15 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim)) [[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)].
+
+“(4)(A) Payment of travel expenses and subsistence allowances, including rental of Government or hired motor vehicles, found necessary by the President-elect or Vice-President-elect, as authorized for persons employed intermittently or for persons serving without compensation by section 5 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 73b–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section73b–2&num=0&edition=prelim)) [[section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim)], as may be appropriate;
+
+“(B) When requested by the President-elect or Vice-President-elect or their designee, and approved by the President, Government aircraft may be provided for transition purposes on a reimbursable basis; when requested by the President-elect, the Vice-President-elect, or the designee of the President-elect or Vice-President-elect, aircraft may be chartered for transition purposes; and any collections from the Secret Service, press, or others occupying space on chartered aircraft shall be deposited to the credit of the appropriations made under section 6 of this Act.
+
+“(5) Communications services found necessary by the President-elect or Vice-President-elect.
+
+“(6) Payment of expenses for necessary printing and binding, notwithstanding the Act of January 12, 1895, and the Act of March 1, 1919, as amended ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim)) [[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)].
+
+“(7) Reimbursement to the postal revenues in amounts equivalent to the postage that would otherwise be payable on mail matter referred to in subsection (d) of this section.
+
+“(8)(A)(i) Not withstanding subsection (b), payment of expenses during the transition for briefings, workshops, or other activities to acquaint key prospective Presidential appointees with the types of problems and challenges that most typically confront new political appointees when they make the transition from campaign and other prior activities to assuming the responsibility for governance after inauguration.
+
+“(ii) Activities under this paragraph may include interchange between such appointees and individuals who—
+
+“(I) held similar leadership roles in prior administrations;
+
+“(II) are department or agency experts from the Office of Management and Budget or an Office of Inspector General of a department or agency; or
+
+“(III) are relevant staff from the Government Accountability Office.
+
+“(iii) Activities under this paragraph may include training or orientation in records management to comply with [section 2203 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section2203&num=0&edition=prelim), United States Code, including training on the separation of Presidential records and personal records to comply with subsection (b) of that section.
+
+“(iv) Activities under this paragraph may include training or orientation in human resources management and performance-based management.
+
+“(v) Activities under this paragraph shall include the preparation of a detailed classified, compartmented summary by the relevant outgoing executive branch officials of specific operational threats to national security; major military or covert operations; and pending decisions on possible uses of military force. This summary shall be provided to the President-elect as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+
+“(B) Activities under this paragraph shall be conducted primarily for individuals the President-elect or eligible candidate (as defined in subsection (h)(4)) for President intends to nominate as department heads or appoint to key positions in the Executive Office of the President.
+
+“(9)(A) Notwithstanding subsection (b), development of a transition directory by the Administrator of General Services Administration, in consultation with the Archivist of the United States (head of the National Archives and Records Administration) for activities conducted under paragraph (8).
+
+“(B) The transition directory shall be a compilation of Federal publications and materials with supplementary materials developed by the Administrator that provides information on the officers, organization, and statutory and administrative authorities, functions, duties, responsibilities, and mission of each department and agency.
+
+“(10) Notwithstanding subsection (b), consultation by the Administrator with any President-elect, Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) to develop a systems architecture plan for the computer and communications systems of the candidate to coordinate a transition to Federal systems if the candidate is elected.
+
+“(b) The Administrator may not expend funds for the provision of services and facilities under section 3 of this Act in connection with any obligations incurred by the President-elect or Vice-President-elect—
+
+“(1) before the day following the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code; or
+
+“(2) after 30 days after the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
+
+“(c) The terms ‘President-elect’ and ‘Vice-President-elect’ as used in this Act shall mean such persons as are the apparent successful candidates for the office of President and Vice President, respectively, as ascertained by the Administrator following the general elections held to determine the electors of President and Vice President in accordance with title 3, United States Code, sections 1 and 2.
+
+“(d) Each President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him in connection with his preparations for the assumption of official duties as President, and such mail matter shall be transmitted as penalty mail as provided in title 39, United States Code, section 4152 [now [section 3202 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3202&num=0&edition=prelim)]. Each Vice-President-elect shall be entitled to conveyance within the United States and its territories and possessions of all mail matter, including airmail, sent by him under his written autograph signature in connection with his preparations for the assumption of official duties as Vice President.
+
+“(e) Each President-elect and Vice-President-elect, or eligible candidate (as defined in subsection (h)(4)) for President or Vice-President, may designate to the Administrator an assistant authorized to make on his behalf such designations or findings of necessity as may be required in connection with the services and facilities to be provided under this Act. Not more than 10 per centum of the total expenditures under this Act for any President-elect or Vice-President-elect may be made upon the basis of a certificate by him or the assistant designated by him pursuant to this section that such expenditures are classified and are essential to the national security, and that they accord with the provisions of subsections (a), (b), and (d) of this section.
+
+“(f)(1) The President-elect should submit to the Federal Bureau of Investigation or other appropriate agency and then, upon taking effect and designation, to the agency designated by the President under section 115(b) of the National Intelligence Reform Act of 2004 [probably should be section 3001(c) of Pub. L. 108–458, [50 U.S.C. 3341(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/c&num=0&edition=prelim)], the names of candidates for high level national security positions through the level of undersecretary of cabinet departments as soon as possible after the date of the general elections held to determine the electors of President and Vice President under section 1 or 2 of title 3, United States Code.
+
+“(2) The responsible agency or agencies shall undertake and complete as expeditiously as possible the background investigations necessary to provide appropriate security clearances to the individuals who are candidates described under paragraph (1) before the date of the inauguration of the President-elect as President and the inauguration of the Vice-President-elect as Vice President.
+
+“(g) In the case where the President-elect is the incumbent President or in the case where the Vice-President-elect is the incumbent Vice President, there shall be no expenditures of funds for the provision of services and facilities to such incumbent under this Act, and any funds appropriated for such purposes shall be returned to the general funds of the Treasury.
+
+“(h)(1)(A) In the case of an eligible candidate, the Administrator—
+
+“(i) shall notify the candidate of the candidate’s right to receive the services and facilities described in paragraph (2) and shall provide with such notice a description of the nature and scope of each such service and facility; and
+
+“(ii) upon notification by the candidate of which such services and facilities such candidate will accept, shall, notwithstanding subsection (b), provide such services and facilities to the candidate during the period beginning on the date of the notification and ending on the date of the general elections described in subsection (b)(1).
+
+The Administrator shall also notify the candidate that sections 7601(c) and 8403(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 [Pub. L. 108–458; [50 U.S.C. 3342](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3342&num=0&edition=prelim) and [5 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim) note] provide additional services.
+
+“(B) The Administrator shall provide the notice under subparagraph (A)(i) to each eligible candidate—
+
+“(i) in the case of a candidate of a major party (as defined in section 9002(6) of the Internal Revenue Code of 1986 [[26 U.S.C. 9002(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9002/6&num=0&edition=prelim)]), on one of the first 3 business days following the last nominating convention for such major parties; and
+
+“(ii) in the case of any other candidate, as soon as practicable after an individual becomes an eligible candidate (or, if later, at the same time as notice is provided under clause (i)).
+
+“(C)(i) The Administrator shall, not later than 12 months before the date of each general election for President and Vice-President (beginning with the election to be held in 2012), prepare a report summarizing modern presidential transition activities, including a bibliography of relevant resources.
+
+“(ii) The Administrator shall promptly make the report under clause (i) generally available to the public (including through electronic means) and shall include such report with the notice provided to each eligible candidate under subparagraph (A)(i).
+
+“(2)(A) Except as provided in subparagraph (B), the services and facilities described in this paragraph are the services and facilities described in subsection (a) (other than paragraphs (2), (3), (4), (7), and 8(A)(v) thereof), but only to the extent that the use of the services and facilities is for use in connection with the eligible candidate’s preparations for the assumption of official duties as President or Vice-President.
+
+“(B) The Administrator—
+
+“(i) shall determine the location of any office space provided to an eligible candidate under this subsection;
+
+“(ii) shall, as appropriate, ensure that any computers or communications services provided to an eligible candidate under this subsection are secure;
+
+“(iii) shall offer information and other assistance to eligible candidates on an equal basis and without regard to political affiliation; and
+
+“(iv) may modify the scope of any services to be provided under this subsection to reflect that the services are provided to eligible candidates rather than the President-elect or Vice-President-elect, except that any such modification must apply to all eligible candidates.
+
+“(C) An eligible candidate, or any person on behalf of the candidate, shall not use any services or facilities provided under this subsection other than for the purposes described in subparagraph (A), and the candidate or the candidate’s campaign shall reimburse the Administrator for any unauthorized use of such services or facilities.
+
+“(3)(A) Notwithstanding any other provision of law, an eligible candidate may establish a separate fund for the payment of expenditures in connection with the eligible candidate’s preparations for the assumption of official duties as President or Vice-President, including expenditures in connection with any services or facilities provided under this subsection (whether before such services or facilities are available under this section or to supplement such services or facilities when so provided). Such fund shall be established and maintained in such manner as to qualify such fund for purposes of section 501(c)(4) of the Internal Revenue Code of 1986 [[26 U.S.C. 501(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/4&num=0&edition=prelim)].
+
+“(B)(i) The eligible candidate may—
+
+“(I) transfer to any separate fund established under subparagraph (A) contributions (within the meaning of section 301(8) of the Federal Election Campaign Act of 1971 ([2 U.S.C. 431(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431/8&num=0&edition=prelim))) the candidate received for the general election for President or Vice-President or payments from the Presidential Election Campaign Fund under chapter 95 of the Internal Revenue Code of 1986 [[26 U.S.C. 9001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9001&num=0&edition=prelim) et seq.] the candidate received for the general election; and
+
+“(II) solicit and accept amounts for receipt by such separate fund.
+
+“(ii) Any expenditures from the separate fund that are made from such contributions or payments described in clause (i)(I) shall be treated as expenditures (within the meaning of section 301(9) of such Act ([2 U.S.C. 431(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section431/9&num=0&edition=prelim))) or qualified campaign expenses (within the meaning of section 9002(11) of such Code [[26 U.S.C. 9002(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9002/11&num=0&edition=prelim)]), whichever is applicable.
+
+“(iii) An eligible candidate establishing a separate fund under subparagraph (A) shall (as a condition for receiving services and facilities described in paragraph (2)) comply with all requirements and limitations of section 5 in soliciting or expending amounts in the same manner as the President-elect or Vice-President-elect, including reporting on the transfer and expenditure of amounts described in subparagraph (B)(i) in the disclosures required by section 5.
+
+“(4)(A) In this subsection, the term ‘eligible candidate’ means, with respect to any presidential election (as defined in section 9002(10) of the Internal Revenue Code of 1986 [[26 U.S.C. 9002(10)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9002/10&num=0&edition=prelim)])—
+
+“(i) a candidate of a major party (as defined in section 9002(6) of such Code [[26 U.S.C. 9002(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9002/6&num=0&edition=prelim)]) for President or Vice-President of the United States; and
+
+“(ii) any other candidate who has been determined by the Administrator to be among the principal contenders for the general election to such offices.
+
+“(B) In making a determination under subparagraph (A)(ii), the Administrator shall—
+
+“(i) ensure that any candidate determined to be an eligible candidate under such subparagraph—
+
+“(I) meets the requirements described in Article II, Section 1, of the United States Constitution for eligibility to the office of President;
+
+“(II) has qualified to have his or her name appear on the ballots of a sufficient number of States such that the total number of electors appointed in those States is greater than 50 percent of the total number of electors appointed in all of the States; and
+
+“(III) has demonstrated a significant level of public support in national public opinion polls, so as to be realistically considered among the principal contenders for President or Vice-President of the United States; and
+
+“(ii) consider whether other national organizations have recognized the candidate as being among the principal contenders for the general election to such offices, including whether the Commission on Presidential Debates has determined that the candidate is eligible to participate in the candidate debates for the general election to such offices.
+
+#### “services and facilities authorized to be provided to former presidents and former vice presidents
+“Sec. 4. The Administrator is authorized to provide, upon request, to each former President and each former Vice President, for a period not to exceed seven months from 30 days before the date of the expiration of his term of office as President or Vice President, for use in connection with winding up the affairs of his office, necessary services and facilities of the same general character as authorized by this Act to be provided to Presidents-elect and Vice-Presidents-elect. Any person appointed or detailed to serve a former President or former Vice President under authority of this section shall be appointed or detailed in accordance with, and shall be subject to, all of the provisions of section 3 of this Act applicable to persons appointed or detailed under authority of that section. The provisions of the Act of August 25, 1958 (72 Stat. 838; [3 U.S.C. 102](./chapter-002-office-and-compensation-of-president.md#section-102), note), other than subsections (a) and (e) shall not become effective with respect to a former President until six months after the expiration of his term of office as President.
+
+#### “disclosures of financing and personnel; limitation on acceptance of donations
+“Sec. 5. (a)(1) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall disclose to the Administrator the date of contribution, source, amount, and expenditure thereof of all money, other than funds from the Federal Government, and including currency of the United States and of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand, received either before or after the date of the general elections for use in the preparation of the President-elect or Vice-President-elect for the assumption of official duties as President or Vice President.
+
+“(2) The President-elect and Vice-President-elect (as a condition for receiving such services and funds) shall make available to the Administrator and the Comptroller General all information concerning such contributions as the Administrator or Comptroller General may require for purposes of auditing both the public and private funding used in the activities authorized by this Act.
+
+“(3) Disclosures made under paragraph (1) shall be—
+
+“(A) in the form of a report to the Administrator within 30 days after the inauguration of the President-elect as President and the Vice-President-elect as Vice President; and
+
+“(B) made available to the public by the Administrator upon receipt by the Administrator.
+
+“(b)(1) The President-elect and Vice-President-elect (as a condition for receiving services provided under section 3 and funds provided under section 6(a)(1)) shall make available to the public—
+
+“(A) the names and most recent employment of all transition personnel (full-time or part-time, public or private, or volunteer) who are members of the President-elect or Vice-President-elect’s Federal department or agency transition teams; and
+
+“(B) information regarding the sources of funding which support the transition activities of each transition team member.
+
+“(2) Disclosures under paragraph (1) shall be made public before the initial transition team contact with a Federal department or agency and shall be updated as necessary.
+
+“(c) The President-elect and Vice-President-elect (as a condition for receiving services under section 3 and for funds provided under section 6(a)(1)) shall not accept more than $5,000 from any person, organization, or other entity for purposes of carrying out activities authorized by this Act.
+
+#### “authorization of appropriations
+“Sec. 6. (a) There are hereby authorized to be appropriated to the Administrator such funds as may be necessary for carrying out the purposes of this Act, except that with respect to any one Presidential transition—
+
+“(1) not more than $3,500,000 may be appropriated for the purposes of providing services and facilities to the President-elect and Vice President-elect under section 3, and
+
+“(2) not more than $1,500,000 may be appropriated for the purposes of providing services and facilities to the former President and former Vice President under section 4, except that any amount appropriated pursuant to this paragraph in excess of $1,250,000 shall be returned to the general fund of the Treasury in the case where the former Vice President is the incumbent President.
+
+The President shall include in the budget transmitted to Congress, for each fiscal year in which his regular term of office will expire, a proposed appropriation for carrying out the purposes of this Act.
+
+“(b) The amounts authorized to be appropriated under subsection (a) shall be increased by an inflation adjusted amount, based on increases in the cost of transition services and expenses which have occurred in the years following the most recent Presidential transition, and shall be included in the proposed appropriation transmitted by the President under the last sentence of subsection (a).”
+
+[Pub. L. 108–458, title VII, § 7601(d), Dec. 17, 2004, 118 Stat. 3858, provided that: “Notwithstanding section 351 [Pub. L. 108–458 does not contain a section 351], this section [enacting [section 3342 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3342&num=0&edition=prelim), War and National Defense, and amending section 3 of Pub. L. 88–277, set out above] and the amendments made by this section shall take effect on the date of enactment of this Act [Dec. 17, 2004].” ]
+
+[Pub. L. 100–398, § 2(b), Aug. 17, 1988, 102 Stat. 985, provided that: “The amendments made by subsection (a) of this section [renumbering and amending section 6 of Pub. L. 88–277, set out above] shall be effective upon enactment [Aug. 17, 1988], except that the amendment made by paragraph (7) of such subsection [enacting subsec. (b) of section 6 of Pub. L. 88–277, set out above] shall take effect on October 1, 1989.” ]
+
+[Pub. L. 94–499, § 3, Oct. 14, 1976, 90 Stat. 2380, provided that amendment of section 5 of Pub. L. 88–277 [set out above] by section 1 of Pub. L. 94–499, respecting revision of appropriation authorization, shall be effective Oct. 14, 1976.]
+
+[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+
+[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).]
+
+#### Expense Allowance: Use; Reversion of Unexpended Portion; Nontaxable
+Provisions prohibiting expenditure of funds made available for official expenses for any other purpose and requiring reversion of any unused amount to the Treasury pursuant to [31 U.S.C. 1552](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1552&num=0&edition=prelim) were contained in a paragraph under the headings “EXECUTIVE OFFICE OF THE PRESIDENT AND FUNDS APPROPRIATED TO THE PRESIDENT” and “Compensation of the President” in the Executive Office of the President Appropriations Act, 2006, Pub. L. 109–115, div. A, title V, Nov. 30, 2005, 119 Stat. 2472, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. H, title III, Dec. 8, 2004, 118 Stat. 3246.
+
+Pub. L. 108–199, div. F, title III, Jan. 23, 2004, 118 Stat. 321.
+
+Pub. L. 108–7, div. J, title III, Feb. 20, 2003, 117 Stat. 442.
+
+Pub. L. 107–67, title III, Nov. 12, 2001, 115 Stat. 526.
+
+Pub. L. 106–554, § 1(a)(3) [title III], Dec. 21, 2000, 114 Stat. 2763, 2763A–136.
+
+Pub. L. 106–58, title III, Sept. 29, 1999, 113 Stat. 444.
+
+Pub. L. 105–277, div. A, § 101(h) [title III], Oct. 21, 1998, 112 Stat. 2681–480, 2681–492.
+
+Pub. L. 105–61, title III, Oct. 10, 1997, 111 Stat. 1290.
+
+Pub. L. 104–208, div. A, title I, § 101(f) [title III], Sept. 30, 1996, 110 Stat. 3009-314, 3009-326.
+
+Pub. L. 104–52, title III, Nov. 19, 1995, 109 Stat. 477.
+
+Pub. L. 103–329, title III, Sept. 30, 1994, 108 Stat. 2392.
+
+Pub. L. 103–123, title III, Oct. 28, 1993, 107 Stat. 1235.
+
+Pub. L. 102–393, title III, Oct. 6, 1992, 106 Stat. 1738.
+
+Pub. L. 102–141, title III, Oct. 28, 1991, 105 Stat. 844.
+
+Pub. L. 101–509, title III, Nov. 5, 1990, 104 Stat. 1399.
+
+Pub. L. 101–136, title III, Nov. 3, 1989, 103 Stat. 790.
+
+Pub. L. 100–440, title III, Sept. 22, 1988, 102 Stat. 1728.
+
+Pub. L. 100–202, § 101(m) [title III], Dec. 22, 1987, 101 Stat. 1329–390, 1329–398.
+
+Pub. L. 99–500, § 101(m) [title III], Oct. 18, 1986, 100 Stat. 1783–308, 1783–315, and Pub. L. 99–591, § 101(m) [title III, § 301], Oct. 30, 1986, 100 Stat. 3341–308, 3341–315.
+
+Pub. L. 99–190, § 101(h) [H.R. 3036, title III], Dec. 19, 1985, 99 Stat. 1291.
+
+Pub. L. 98–473, § 101(j) [H.R. 5798, title III], Oct. 12, 1984, 98 Stat. 1963.
+
+Pub. L. 98–151, § 101(f) [H.R. 4139, title III], Nov. 14, 1983, 97 Stat. 973.
+
+Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title III, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
+
+Pub. L. 97–92, § 101(a) [H.R. 4121, title III], Dec. 15, 1981, 95 Stat. 1183.
+
+Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title III], Dec. 16, 1980, 94 Stat. 3166.
+
+Pub. L. 96–74, title III, Sept. 29, 1979, 93 Stat. 563.
+
+#### Former Presidents; Allowance; Selection, Compensation, and Status of Office Staff; Office Space; Widow’s Allowance, Termination; “Former President” Defined
+Pub. L. 85–745, Aug. 25, 1958, 72 Stat. 838, as amended by Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 730; Pub. L. 88–426, title I, § 124, Aug. 14, 1964, 78 Stat. 412; Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 90–206, title II, § 224(c), Dec. 16, 1967, 81 Stat. 642; Pub. L. 91–231, § 7, Apr. 15, 1970, 84 Stat. 198; Pub. L. 91–658, § 6, Jan. 8, 1971, 84 Stat. 1963; Pub. L. 95–138, § 1, Oct. 18, 1977, 91 Stat. 1170; Pub. L. 103–123, title IV, § 6(a), Oct. 28, 1993, 107 Stat. 1246; Pub. L. 103–329, title V, § 531, Sept. 30, 1994, 108 Stat. 2413; Pub. L. 104–52, title V, § 523, Nov. 19, 1995, 109 Stat. 495; Pub. L. 105–61, title IV, § 409(a), Oct. 10, 1997, 111 Stat. 1299; Pub. L. 108–447, div. H, title V, § 526, Dec. 8, 2004, 118 Stat. 3271, provided that: “(a) Each former President shall be entitled for the remainder of his life to receive from the United States a monetary allowance at a rate per annum, payable monthly by the Secretary of the Treasury, which is equal to the annual rate of basic pay, as in effect from time to time, of the head of an executive department, as defined in [section 101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim), United States Code. However, such allowance shall not be paid for any period during which such former President holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate. “(b) The Administrator of General Services shall, without regard to the civil-service and classification laws, provide for each former President an office staff. Persons employed under this subsection shall be selected by the former President and shall be responsible only to him for the performance of their duties. Each former President shall fix basic rates of compensation for persons employed for him under this paragraph which in the aggregate shall not exceed $96,000 per annum except that for the first 30-month period during which a former President is entitled to staff assistance under this subsection, such rates of compensation in the aggregate shall not exceed $150,000 per annum. The annual rate of compensation payable to any such person shall not exceed the highest annual rate of basic pay now or hereafter provided by law for positions at level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), United States Code. Amounts provided for ‘Allowances and Office Staff for Former Presidents’ may be used to pay fees of an independent contractor who is not a member of the staff of the office of a former President for the review of Presidential records of a former President in connection with the transfer of such records to the National Archives and Records Administration or a Presidential Library without regard to the limitation on staff compensation set forth herein. “(c) The Administrator of General Services shall furnish for each former President suitable office space appropriately furnished and equipped, as determined by the Administrator, at such place within the United States as the former President shall specify. “(d) [Repealed. Pub. L. 86–682, § 12(c), Sept. 2, 1960, 74 Stat. 730. See sections 3214 and 3216 of title 39.] “(e) The widow of each former President shall be entitled to receive from the United States a monetary allowance at a rate of $20,000 per annum, payable monthly by the Secretary of the Treasury, if such widow shall waive the right to each other annuity or pension to which she is entitled under any other Act of Congress. The monetary allowance of such widow—“(1) commences on the day after the former President dies; “(2) terminates on the last day of the month before such widow—“(A) dies; or “(B) remarries before becoming 60 years of age; and “(3) is not payable for any period during which such widow holds an appointive or elective office or position in or under the Federal Government or the government of the District of Columbia to which is attached a rate of pay other than a nominal rate. “(f) As used in this section, the term ‘former President’ means a person—“(1) who shall have held the office of President of the United States of America; “(2) whose service in such office shall have terminated other than by removal pursuant to section 4 of article II of the Constitution of the United States of America; and “(3) who does not then currently hold such office. “(g) There are authorized to be appropriated to the Administrator of General Services up to $1,000,000 for each former President and up to $500,000 for the spouse of each former President each fiscal year for security and travel related expenses: Provided, That under the provisions set forth in section 3056, paragraph (a), subparagraph (3) of title 18, United States Code, the former President and/or spouse was not receiving protection for a lifetime provided by the United States Secret Service under section 3056 paragraph (a) subparagraph (3) of title 18, United States Code; the protection provided by the United States Secret Service expired at its designated time; or the protection provided by the United States Secret Service was declined prior to authorized expiration in lieu of these funds.”
+
+[Pub. L. 95–138, § 2, Oct. 18, 1977, 91 Stat. 1170, provided that: “The amendment made by the first section of this Act [amending Pub. L. 87–745, set out above] shall take effect October 1, 1977.” ]
+
+[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+
+#### Former President Eisenhower; Allowance; Compensation of Office Staff; Widow’s Pension
+Allowance to former President Eisenhower as precluding entitlement to pay of General of the Army, compensation of office staff to former President to be reduced by pay of military assistants to the General of the Army, and benefits of widow of former President unaffected by restoration of military status, see Appointment of General of the Army note under former sections 1691 to 1697 of Title 50, Appendix, War and National Defense.
+
+
+<a id="section-103"></a>
+## § 103. Traveling expenses
+
+There may be expended for or on account of the traveling expenses of the President of the United States such sum as Congress may from time to time appropriate, not exceeding $100,000 per annum, such sum when appropriated to be expended in the discretion of the President and accounted for on his certificate solely.
+
+### Statutory Notes
+
+#### Amendments
+1978—Pub. L. 95–570 substituted “$100,000” for “$40,000”.
+
+#### Effective Date of 1978 Amendment
+Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+
+<a id="section-104"></a>
+## § 104. Salary of the Vice President
+**(a)** The per annum rate of salary of the Vice President of the United States shall be the rate determined for such position under chapter 11 of title 2, as adjusted under this section. Subject to subsection (b), effective at the beginning of the first month in which an adjustment takes effect under [section 5303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim) in the rates of pay under the General Schedule, the salary of the Vice President shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the nearest higher multiple of $100), equal to the percentage of such per annum rate which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+
+**(b)** In no event shall the percentage adjustment taking effect under the second and third sentences of subsection (a) in any calendar year (before rounding) exceed the percentage adjustment taking effect in such calendar year under [section 5303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim) in the rates of pay under the General Schedule.
+
+### Statutory Notes
+
+#### References in Text
+The General Schedule, referred to in text, is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
+Section 704(a)(1) of the Ethics Reform Act of 1989, referred to in subsec. (a), is section 704(a)(1) of Pub. L. 101–194, which is set out as a note under [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim).
+
+#### Amendments
+1994—Pub. L. 103–356 designated existing provisions as subsec. (a), substituted “Subject to subsection (b), effective” for “Effective” in second sentence, and added subsec. (b).
+
+1990—Pub. L. 101–509 substituted “5303” for “5305”.
+
+1989—Pub. L. 101–194 substituted “corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect” for “corresponds to the overall average percentage (as set forth in the report transmitted to the Congress under [section 5305 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5305&num=0&edition=prelim)) of the adjustment in such rates of pay”.
+
+1982—Pub. L. 97–257 struck out requirement for payment of salary on a monthly basis.
+
+1975—Pub. L. 94–82 substituted provisions for a rate of salary to be determined under chapter 11 of title 2, as adjusted under this section, with adjustments equal to the percentage of such per annum rate which corresponds to the overall average percentage of the adjustment in such rates of pay for provisions for a per annum rate of salary of $62,500.
+
+1969—Pub. L. 91–67 increased salary from $43,000 to $62,500.
+
+1964—Pub. L. 88–426 increased salary from $35,000 to $43,000.
+
+1955—Act Mar. 2, 1955, increased salary from $30,000 to $35,000.
+
+1949—Act Jan. 19, 1949, increased salary from $20,000 to $30,000.
+
+#### Effective Date of 1994 Amendment
+Pub. L. 103–356, title I, § 101, Oct. 13, 1994, 108 Stat. 3410, provided that the amendment made by section 101(2) is effective Dec. 31, 1994.
+
+#### Effective Date of 1990 Amendment
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 [title III, § 305] of Pub. L. 101–509, set out as a note under [section 5301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5301&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date of 1989 Amendment
+Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 704(b) of Pub. L. 101–194, set out as a note under [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date of 1982 Amendment
+Amendment by Pub. L. 97–257 effective in the case of compensation payable for months after December 1981, see section 105(c) of Pub. L. 97–257, set out as a note under [section 60c–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section60c–1&num=0&edition=prelim), The Congress.
+
+#### Effective Date of 1969 Amendment
+Pub. L. 91–67, § 3, Sept. 15, 1969, 83 Stat. 107, provided that: “The amendments made by this Act [amending this section and [section 31 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31&num=0&edition=prelim), The Congress] shall become effective on March 1, 1969.”
+
+#### Effective Date of 1964 Amendment
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 504 of Pub. L. 88–426.
+
+#### Effective Date of 1955 Amendment
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of that act, set out as a note under [section 31 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31&num=0&edition=prelim), The Congress.
+
+#### Effective Date of 1949 Amendment
+Amendment by act Jan. 19, 1949, effective noon, Jan. 20, 1949, see section 3 of that act.
+
+#### Salary Increases
+For adjustment of pay rates under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
+For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under [section 358 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section358&num=0&edition=prelim), The Congress.
+
+For miscellaneous provisions dealing with adjustments of pay and limitations on use of funds to pay salaries in prior years, see notes under [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-105"></a>
+## § 105. Assistance and services for the President
+**(a)**
+
+(1) Subject to the provisons 11 So in original. Probably should be “provisions”. of paragraph (2) of this subsection, the President is authorized to appoint and fix the pay of employees in the White House Office without regard to any other provision of law regulating the employment or compensation of persons in the Government service. Employees so appointed shall perform such official duties as the President may prescribe.
+
+(2) The President may, under paragraph (1) of this subsection, appoint and fix the pay of not more than—
+
+  (A) 25 employees at rates not to exceed the rate of basic pay then currently paid for level II of the Executive Schedule of [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim); and in addition
+
+  (B) 25 employees at rates not to exceed the rate of basic pay then currently paid for level III of the Executive Schedule of [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim); and in addition
+
+  (C) 50 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim); and in addition
+
+  (D) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+
+**(b)**
+
+(1) Subject to the provisions of paragraph (2) of this subsection, the President is authorized to appoint and fix the pay of employees in the Executive Residence at the White House without regard to any other provision of law regulating the employment or compensation of persons in the Government service. Employees so appointed shall perform such official duties as the President may prescribe.
+
+(2) The President may, under paragraph (1) of this subsection, appoint and fix the pay of not more than—
+
+  (A) 3 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim); and in addition
+
+  (B) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+
+**(c)** The President is authorized to procure for the White House Office and the Executive Residence at the White House, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim)—
+
+(1) in the case of the White House Office, at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level II of the Executive Schedule of [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim); and
+
+(2) in the case of the Executive Residence, at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+Notwithstanding such section 3109(b), temporary services of any expert or consultant described in such section 3109(b) may be procured for a period in excess of one year if the President determines such procurement is necessary.
+
+**(d)** There are authorized to be appropriated each fiscal year to the President such sums as may be necessary for—
+
+(1) the care, maintenance, repair, alteration, refurnishing, improvement, air-conditioning, heating, and lighting (including electric power and fixtures) of the Executive Residence at the White House;
+
+(2) the official expenses of the White House Office;
+
+(3) the official entertainment expenses of the President;
+
+(4) the official entertainment expenses for allocation within the Executive Office of the President; and
+
+(5) the subsistence expenses of persons in the Government service while traveling on official business in connection with the travel of the President.
+Sums appropriated under this subsection for expenses described in paragraphs (1), (3), and (5) may be expended as the President may determine, notwithstanding the provisions of any other law. Such sums shall be accounted for solely on the certificate of the President, except that, with respect to such expenses, the Comptroller General may inspect all necessary books, documents, papers, and records relating to any such expenditures solely for the purpose of verifying that all such expenditures related to expenses in paragraph (1), (3), or (5). The Comptroller General shall certify to Congress the fact of such verification, and shall report any such expenses not expended for such purpose.
+
+**(e)** Assistance and services authorized pursuant to this section to the President are authorized to be provided to the spouse of the President in connection with assistance provided by such spouse to the President in the discharge of the President’s duties and responsibilities. If the President does not have a spouse, such assistance and services may be provided for such purposes to a member of the President’s family whom the President designates.
+
+### Statutory Notes
+
+#### Amendments
+1978—Pub. L. 95–570 inserted provisions relating to appointment and determination of pay by President of employees in the White House Office and the Executive Residence at the White House; procurement by President of temporary or intermittent services of experts and consultants and pay of such experts and consultants; appropriation of sums for the care, maintenance, etc., of the Executive Residence at the White House, the official expenses of the White House Office, the official entertainment expenses of the President, the official entertainment expenses for allocation within the Executive Office, and the subsistence expenses of Government personnel while traveling on official business in connection with the travel of the President; accounting of sums by President; inspection, certification and report to Congress by the Comptroller General concerning expenditures; and allotment of assistance and services to spouse of President or to a member of President’s family; struck out provisions which authorized President to fix compensation of six administrative assistants, Executive Secretaries of the National Security Council, the National Aeronautics and Space Council, and the Economic Opportunity Council, and eight other secretaries or other immediate staff assistants in the White House Office, at rates of basic pay not to exceed the rate of Executive level II.
+
+1967—Pub. L. 90–222 inserted position of Executive Secretary of the Economic Opportunity Council.
+
+1964—Pub. L. 88–426 included Executive Secretary of the National Aeronautics and Space Council, and substituted provisions permitting President to fix compensation of enumerated personnel at rates of basic compensation not more than that of level II of the Federal Executive Salary Schedule for provisions which limited compensation of such personnel to two at rates not more than $22,500, three at not more than $21,000, seven at not more than $20,000 and three at not more than $18,500 per annum.
+
+1961—Pub. L. 87–367 authorized President to increase compensation of three assistants to the President from $17,500 to $18,500 per annum.
+
+1956—Act July 31, 1956, authorized President to fix compensation of an additional three secretaries or other immediate staff assistants, substituted “$22,500” for “$20,000”, “$21,000” for “$18,000”, and “$20,000” for “$15,000”, and provided for payment of three at rates not exceeding $17,500 per annum.
+
+1949—Act Oct. 15, 1949, increased compensation of secretaries, and executive, administrative, and staff assistants.
+
+#### Effective Date of 1978 Amendment
+Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Effective Date of 1967 Amendment
+Amendment by Pub. L. 90–222 effective immediately on enactment of Pub. L. 90–222, which was approved on Dec. 23, 1967, see section 401 of Pub. L. 90–222, set out as a note under [section 2702 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2702&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Effective Date of 1964 Amendment
+Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to the extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
+
+#### Effective Date of 1961 Amendment
+Amendment by Pub. L. 87–367 effective at beginning of first pay period which begins on or after sixtieth day following Oct. 4, 1961, see section 305 of Pub. L. 87–367.
+
+#### Effective Date of 1956 Amendment
+Amendment by act July 31, 1956, effective at beginning of first pay period commencing after June 30, 1956, see section 120 of act July 31, 1956.
+
+#### Effective Date of 1949 Amendment
+Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 of that act, set out as a note under [section 273 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section273&num=0&edition=prelim), The Congress.
+
+#### Repeals
+Act July 31, 1956, ch. 804, title I, § 109, 70 Stat. 740, cited as a credit to this section, was repealed by Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422.
+
+#### Abolition of National Aeronautics and Space Council
+National Aeronautics and Space Council, including office of Executive Secretary of Council, together with functions of Council, abolished by section 3(a)(4) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+
+<a id="section-106"></a>
+## § 106. Assistance and services for the Vice President
+**(a)** In order to enable the Vice President to provide assistance to the President in connection with the performance of functions specially assigned to the Vice President by the President in the discharge of executive duties and responsibilities, the Vice President is authorized—
+
+(1) without regard to any other provision of law regulating the employment or compensation of persons in the Government service, to appoint and fix the pay of not more than—
+
+  (A) 5 employees at rates not to exceed the rate of basic pay then currently paid for level II of the Executive Schedule of [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim); and in addition
+
+  (B) 3 employees at rates not to exceed the rate of basic pay then currently paid for level III of the Executive Schedule of [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim); and in addition
+
+  (C) 3 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim); and in addition
+
+  (D) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim); and
+
+(2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level II of the Executive Schedule of [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim).
+Notwithstanding such section 3109(b), temporary services of any expert or consultant described in such section 3109(b) may be procured under paragraph (2) of this subsection for a period in excess of one year if the Vice President determines such procurement is necessary.
+
+**(b)** In order to carry out the executive duties and responsibilities referred to in subsection (a), there are authorized to be appropriated each fiscal year to the Vice President such sums as may be necessary for—
+
+(1) the official expenses of the Office of the Vice President;
+
+(2) the official entertainment expenses of the Vice President; and
+
+(3) the subsistence expenses of persons in the Government service while traveling on official business in connection with the travel of the Vice President.
+Sums appropriated under this subsection for expenses described in paragraphs (2) and (3) may be expended as the Vice President may determine, notwithstanding the provisions of any other law. Such sums shall be accounted for solely on the certificate of the Vice President, except that, with respect to such expenses, the Comptroller General may inspect all necessary books, documents, papers, and records relating to any such expenditures solely for the purpose of verifying that all such expenditures related to expenses in paragraph (2) or (3). The Comptroller General shall certify to Congress the fact of such verification, and shall report any such expenses not expended for such purpose.
+
+**(c)** Assistance and services authorized pursuant to this section to the Vice President are authorized to be provided to the spouse of the Vice President in connection with assistance provided by such spouse to the Vice President in the discharge of the Vice President’s executive duties and responsibilities. If the Vice President does not have a spouse, such assistance and services may be provided for such purposes to a member of the Vice President’s family whom the Vice President designates.
+
+### Statutory Notes
+
+#### Amendments
+1978—Pub. L. 95–570 inserted provisions relating to appointment and determination of pay by the Vice President of employees and procurement by the Vice President of temporary or intermittent services of experts and consultants to enable the Vice President to provide assistance to the President; appropriation of sums for the official expenses of the Office of the Vice President, the official entertainment expenses of the Vice President, and subsistence expenses of Government personnel while traveling on official business in connection with the travel of the Vice President; accounting of sums by the Vice President; inspection, certification and report to Congress by the Comptroller General concerning expenditures; and allotment of assistance and services to the spouse of the Vice President or to a member of the Vice President’s family; struck out provisions which authorized the President to appoint and fix compensation of not to exceed six administrative assistants and directed that each assistant perform such duties as the President prescribed.
+
+1949—Act Oct. 15, 1949, struck out salary provisions. See [section 105 of this title](./chapter-002-office-and-compensation-of-president.md#section-105).
+
+#### Effective Date of 1978 Amendment
+Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Effective Date of 1949 Amendment
+Amendment by act Oct. 15, 1949, effective on first day of first pay period after Oct. 15, 1949, see section 9 of that act, set out as a note under [section 273 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section273&num=0&edition=prelim), The Congress.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Former President’s Office Staff
+See note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Ex. Ord. No. 11456. Special Assistant to the President for Liaison With Former Presidents
+Ex. Ord. No. 11456, Feb. 14, 1969, 34 F.R. 2301, provided:
+
+By virtue of the authority vested in me as President of the United States, it is hereby ordered as follows:
+
+Section 1. There shall be in the White House Office a Special Assistant to the President for Liaison with Former Presidents (referred to hereinafter as the Special Assistant).
+
+Sec. 2. (a) On behalf of the President, the Special Assistant shall maintain channels of communication between the President and each former living President of the United States, to the end that (1) each such former President shall be kept abreast of such developments as the President may desire; and (2) the President may avail himself of the counsel and advice of any or all of such former Presidents with respect to major matters, particularly of a national security nature, currently confronting the President.
+
+(b) The Special Assistant shall also—
+
+(1) Keep each former President currently informed of the major aspects of such principal international and domestic problems as the President directs;
+
+(2) Arrange to secure from such former Presidents, or any of them, and convey to the President, their views on such issues as the President may designate; and
+
+(3) Arrange to secure and convey to the President such views as any of the former Presidents may wish to communicate to the President on any issue of current interest or concern.
+
+Sec. 3. (a) The Secretary of State, the Secretary of Defense, the Director of the Central Intelligence Agency, and the Executive Secretary of the National Security Council shall each designate a member of his staff as a point of contact for the Special Assistant. The Special Assistant may call upon such designated staff members to supply information and render such other appropriate assistance as he may require in carrying out his duties under section 2 of this Order.
+
+(b) Upon request of the Special Assistant, the head of any department or agency of the Federal Government shall designate a member of his staff as a point of contact to supply information and assistance for the Special Assistant in the performance of his duties in the same manner as provided in subsection (a) for staff members designated pursuant to that subsection.
+
+Sec. 4. The Special Assistant shall be appointed by the President and shall serve at the pleasure of the President. He shall receive compensation at such rate as the President, consonant with law, may prescribe.
+
+Sec. 5. (a) The Special Assistant shall have such staff and other assistance as may be necessary to carry out his duties under this Order.
+
+(b) The Special Assistant shall be provided with such office space as may be necessary to carry out his duties under this Order, and shall also be provided with such office space, and maintenance thereof, as may be necessary for the use of former Presidents at the seat of Government when they are engaged in any effort of interest or concern to the President.
+
+Sec. 6. (a) The compensation and expenses of the Special Assistant and members of his staff shall be paid from the appropriation under the heading “Special” in the Executive Office Appropriation Act, 1969, or any corresponding appropriation which may be made for subsequent fiscal years, or from such other appropriated funds as may be available under law.
+
+(b) The General Services Administration shall provide, on a reimbursable basis, such administrative services and facilities for the Special Assistant as the White House Office may request.
+
+Richard Nixon.
+
+
+<a id="section-107"></a>
+## § 107. Domestic Policy Staff and Office of Administration; personnel
+**(a)** In order to enable the Domestic Policy Staff to perform its functions, the President (or his designee) is authorized—
+
+(1) without regard to any other provision of law regulating the employment or compensation of persons in the Government service, to appoint and fix the pay of not more than—
+
+  (A) 6 employees at rates not to exceed the rate of basic pay then currently paid for level III of the Executive Schedule of [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim); and in addition
+
+  (B) 18 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim); and in addition
+
+  (C) such number of other employees as he may determine to be appropriate at rates not to exceed the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim); and
+
+(2) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), at respective daily rates of pay for individuals which are not more than the daily equivalent of the rate of basic pay then currently paid for level III of the Executive Schedule of [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
+
+**(b)**
+
+(1) In order to enable the Office of Administration to perform its functions, the President (or his designee) is authorized—
+
+  (A) without regard to such other provisions of law as the President may specify which regulate the employment and compensation of persons in the Government service, to appoint and fix the pay of not more than—
+
+    (i) 5 employees at rates not to exceed the rate of basic pay then currently paid for level III of the Executive Schedule of [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim); and in addition
+
+    (ii) 5 employees at rates not to exceed the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim); and
+
+  (B) to procure, as provided in appropriation Acts, temporary or intermittent services of experts and consultants, as described in and in accordance with the first two sentences of [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), at respective daily rates of pay for individuals which are not more than the daily equivalent of the maximum rate of basic pay then currently paid for GS–18 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+
+(2) In addition to any authority granted under paragraph (1) of this subsection, the President (or his designee) is authorized to employ individuals in the Office of Administration in accordance with [section 3101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3101&num=0&edition=prelim) and provisions relating thereto. Any individual so employed under the authority granted under such section 3101 shall be subject to the limitation specified in [section 114 of this title](./chapter-002-office-and-compensation-of-president.md#section-114).
+
+**(c)** There are authorized to be appropriated each fiscal year such sums as may be necessary for the official expenses of the Domestic Policy Staff and the Office of Administration.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 107, act June 25, 1948, ch. 644, 62 Stat. 679, providing that employees of the executive departments and independent establishments of the executive branch of the Government might be detailed from time to time to the White House Office for temporary assistance, was repealed by section 2(a) of Pub. L. 95–570. See [section 112 of this title](./chapter-002-office-and-compensation-of-president.md#section-112).
+
+#### Effective Date
+Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Applicability of Subsec. (b) to Current Employees of Office of Administration
+Pub. L. 95–570, § 6(b), Nov. 2, 1978, 92 Stat. 2451, provided that: “In the case of an individual— “(1) who is an employee of the Office of Administration as of the date of the enactment of this Act [Nov. 2, 1978], and “(2) whose position would be terminated or whose rate of basic pay would be reduced (but for this subsection) by reason of [section 107(b) of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section107/b&num=0&edition=prelim), United States Code (as amended by this Act) [subsec. (b) of this section], such employee may be allowed to continue to hold such position and receive basic pay at the rate in effect on the effective date of this Act [see Effective Date of 1978 Amendment note set out under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102)] during the period which begins on such date and ends 2 years after such date so long as such employee continues as an employee of the Office of Administration.”
+
+
+<a id="section-108"></a>
+## § 108. Assistance to the President for unanticipated needs
+**(a)** There is authorized to be appropriated to the President an amount not to exceed $1,000,000 each fiscal year to enable the President, in his discretion, to meet unanticipated needs for the furtherance of the national interest, security, or defense, including personnel needs and needs for services described in [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), and administrative expenses related thereto, without regard to any provision of law regulating the employment or compensation of persons in the Government service or regulating expenditures of Government funds.
+
+**(b)** The President shall transmit a report to each House of the Congress for each fiscal year beginning on or after the effective date of this subsection which sets forth the purposes for which expenditures were made under this section for such fiscal year and the amount expended for each such purpose. Each such report shall be transmitted no later than 60 days after the close of the fiscal year covered by such report.
+
+**(c)** An individual may not be paid under the authority of this section at a rate of pay in excess of the rate of basic pay then currently paid for level II of the Executive Schedule of [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+For the effective date of this subsection, referred to in subsec. (b), see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Prior Provisions
+A prior section 108, act June 25, 1948, ch. 644, 62 Stat. 679, directing the Quartermaster General of the Army to provide suitable accommodations for the horses, carriages, and other vehicles of the President and of the Executive Office, was repealed by act June 28, 1950, ch. 383, title IV, § 401(j), 64 Stat. 271.
+
+Insofar as prior section 108, by virtue of a former proviso in section 401 of act June 28, 1950, continued to remain in effect to the extent that it was applicable to the Department of the Air Force, and the United States Air Force, it was additionally repealed by act Sept. 19, 1951, ch. 407, title IV, § 401(a)(1), 65 Stat. 333.
+
+Act Oct. 31, 1951, ch. 654, § 1(2), 65 Stat. 701, repealed that part of act Mar. 4, 1911, ch. 285, § 1, 36 Stat. 1404, from which prior section 108, as enacted by act June 25, 1948, ch. 644, § 1, 62 Stat. 672, had been derived. That part of the 1911 act had previously been repealed by section 3 of the 1948 act.
+
+#### Effective Date
+Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+
+<a id="section-109"></a>
+## § 109. Public property in and belonging to the Executive Residence at the White House
+
+The steward, housekeeper, or such other employee of the Executive Residence at the White House as the President may designate, shall under the direction of the President, have the charge and custody of and be responsible for the plate, furniture, and public property therein. A complete inventory, in proper books, shall be made annually in the month of June, under the direction of the Director of the National Park Service, of all the public property in and belonging to the Executive Residence at the White House, showing when purchased, its cost, condition, and final disposition. This inventory shall be submitted to the President for his approval, and shall then be kept for reference in the office of the Director of the National Park Service, which shall furnish a copy thereof to the steward, housekeeper, or other employee responsible for the property.
+
+### Statutory Notes
+
+#### Amendments
+1978—Pub. L. 95–570 substituted in section catchline “the Executive Residence at the White House” for “Executive Mansion” and in text “Executive Residence at the White House” for “Executive Mansion” in two places.
+
+1972—Pub. L. 92–310 struck out provisions which required a bond in the sum of $10,000 from the person having charge and custody of the plate, furniture, and public property.
+
+#### Effective Date of 1978 Amendment
+Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Transfer of Functions
+Functions of all other officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 3, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-110"></a>
+## § 110. Furniture for the Executive Residence at the White House
+
+All furniture purchased for the use of the Executive Residence at the White House shall be, as far as practicable, of domestic manufacture. With a view to conserving in the Executive Residence at the White House the best specimens of the early American furniture and furnishings, and for the purpose of maintaining the interior of the Executive Residence at the White House in keeping with its original design, the Director of the National Park Service is authorized and directed, with the approval of the President, to accept donations of furniture and furnishings for use in the Executive Residence at the White House, all such articles thus donated to become the property of the United States and to be accounted for as such. The said Director of the National Park Service is further authorized and directed, with the approval of the President, to appoint a temporary committee composed of one representative of the American Federation of Arts, one representative of the National Commission of Fine Arts, one representative of the National Academy of Design, one member of the American Institute of Architects, and five members representing the public at large; the said committee to have full power to select and pass on the articles in question and to recommend the same for acceptance.
+
+### Statutory Notes
+
+#### Amendments
+1978—Pub. L. 95–570 inserted in section catchline “the Executive Residence at the” before “White House” and substituted in text “Executive Residence at the White House” for “President’s House” and “Executive Residence at the White House” for “White House” wherever appearing.
+
+#### Effective Date of 1978 Amendment
+Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Transfer of Functions
+Functions of officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, see Transfer of Functions note set out under [section 109 of this title](./chapter-002-office-and-compensation-of-president.md#section-109).
+
+#### Commission on Renovation of the Executive Mansion
+Act Apr. 14, 1949, ch. 51, 63 Stat. 45, authorized appointment of a commission of six to supervise and approve all construction plans and work necessary to remedy the present unsafe conditions in the Executive Mansion and to modernize same.
+
+#### White House; Administration; Preservation of Museum Character; Articles of Historic or Artistic Interest
+Pub. L. 87–286, Sept. 22, 1961, 75 Stat. 586, provided: “That all of that portion of reservation numbered 1 in the city of Washington, District of Columbia, which is within the President’s park enclosure, comprising eighteen and seven one-hundredths acres, shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1–3&num=0&edition=prelim)), and Acts supplementary thereto and amendatory thereof. In carrying out this Act primary attention shall be given to the preservation and interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House, but nothing done under this Act shall conflict with the administration of the Executive offices of the President or with the use and occupancy of the buildings and grounds as the home of the President and his family and for his official purposes. “Sec. 2. Articles of furniture, fixtures, and decorative objects of the White House, when declared by the President to be of historic or artistic interest, together with such similar articles, fixtures, and objects as are acquired by the White House in the future when similarly so declared, shall thereafter be considered to be inalienable and the property of the White House. Any such article, fixture, or object when not in use or on display in the White House shall be transferred by direction of the President as a loan to the Smithsonian Institution for its care, study, and storage or exhibition and such articles, fixtures, and objects shall be returned to the White House from the Smithsonian Institution on notice by the President. “Sec. 3. Nothing in this Act shall alter any privileges, powers, or duties vested in the White House Police and the United States Secret Service, Treasury Department, by [former] [section 202 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section202&num=0&edition=prelim), United States Code, and [section 3056 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), United States Code.”
+
+[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+
+#### Ex. Ord. No. 11145. Curator of White House; Committee for Preservation of White House
+Ex. Ord. No. 11145, Mar. 7, 1964, 29 F.R. 3189, as amended by Ex. Ord. No. 11565, Oct. 13, 1970, 35 F.R. 16155, provided:
+
+WHEREAS the White House, as the home of the highest elective officer of the United States
+
+—symbolizes the American ideal of responsible self-government
+
+—is emblematic of our democracy and our national purpose
+
+—has been intimately associated with the personal and social life of the Presidents of the United States and many of their official acts
+
+—occupies a particular place in the heart of every American citizen, and
+
+WHEREAS certain historic rooms and entranceways in the White House
+
+—possess great human interest and historic significance
+
+—traditionally have been open to visitors
+
+—have provided pleasure and patriotic inspiration to millions of our citizens
+
+—have come to be regarded as a public museum and the proud possession of all Americans, and
+
+WHEREAS the Congress by law (Act of September 22, 1961), (75 Stat. 586) [set out as a note under this section] has authorized the care and preservation of the historic and artistic contents of the White House and has given the President certain responsibilities with regard thereto:
+
+NOW, THEREFORE, by virtue of the authority vested in me as President of the United States, it is ordered as follows:
+
+Section 1. (a) There shall be in the White House a Curator of the White House. The Curator shall assist in the preservation and protection of the articles of furniture, fixtures, and decorative objects used or displayed in the principal corridor on the ground floor and the principal public rooms on the first floor of the White House, and in such other areas in the White House as the President may designate.
+
+(b) The Curator shall report to the President and shall make recommendations with respect to the articles, fixtures, and objects to be declared by the President, under section 2 of the Act of September 22, 1961, to be of historic or artistic interest.
+
+Sec. 2. There is hereby established the Committee for the Preservation of the White House, hereinafter referred to as the “Committee”. The Committee shall be composed of the Director of the National Park Service, the Curator of the White House, the Secretary of the Smithsonian Institution, the Chairman of the Commission of Fine Arts, the Director of the National Gallery of Art, the Chief Usher of the White House, and so many other members as the President may from time to time appoint. The Director of the National Park Service shall serve as Chairman of the Committee and shall designate an employee of that Service to act as Executive Secretary of the Committee. Members of the Committee shall serve without compensation.
+
+Sec. 3. (a) The Committee shall report to the President and shall advise the Director of the National Park Service with respect to the discharge of his responsibility under the Act of September 22, 1961, for the preservation and the interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House. Among other things, the Committee shall make recommendations as to the articles of furniture, fixtures, and decorative objects which shall be used or displayed in the aforesaid areas of the White House and as to the decor and arrangements therein best suited to enhance the historic and artistic values of the White House and of such articles, fixtures, and objects.
+
+(b) The Committee shall cooperate with the White House Historical Association, a nonprofit organization heretofore formed under the laws of the District of Columbia.
+
+(c) The Committee is authorized to invite individuals who are distinguished or interested in the fine arts to attend its meetings or otherwise to assist in carrying out its functions.
+
+Sec. 4. Consonant with law, each Federal department and agency represented on the Committee shall furnish necessary assistance to the Committee in accordance with section 214 of the Act of May 3, 1945, 59 Stat. 134 ([31 U.S.C. 691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section691&num=0&edition=prelim)) [[31 U.S.C. 1346(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1346/b&num=0&edition=prelim)]. The Department of the Interior shall furnish necessary administrative services for the Committee.
+
+#### Extension of Term of Committee for the Preservation of the White House
+Term of the Committee for the Preservation of the White House extended until Dec. 31, 1978, by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Term of the Committee for the Preservation of the White House extended until Dec. 31, 1980, by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Dec. 31, 1982, by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 1999, by Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2005, by Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2007, by Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of the Committee for the Preservation of the White House extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+
+<a id="section-111"></a>
+## § 111. Expense allowance of Vice President
+
+There shall be paid to the Vice President in equal monthly installments an expense allowance of $20,000 per annum to assist in defraying expenses relating to or resulting from the discharge of his official duties, for which no accounting, other than for income tax purposes, shall be made by him.
+
+### Statutory Notes
+
+#### Amendments
+2003—Pub. L. 108–7 substituted “$20,000” for “$10,000”.
+
+1951—Act Oct. 20, 1951, made Vice President’s expense allowance taxable.
+
+#### Effective Date of 2003 Amendment
+Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1(f) of Pub. L. 108–7, set out as a note under [section 31a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section31a–1&num=0&edition=prelim), The Congress.
+
+#### Effective Date of 1951 Amendment
+Amendment by act Oct. 20, 1951, effective at noon on Jan. 20, 1953, see section 619(e) of that act, set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Effective Date
+Section effective noon, Jan. 20, 1949, see section 3 of act Jan. 19, 1949.
+
+#### Official Temporary Residence of the Vice President
+Pub. L. 93–346, July 12, 1974, 88 Stat. 340, as amended by Pub. L. 93–552, title VI, § 609(a), Dec. 27, 1974, 88 Stat. 1764; Pub. L. 107–67, title VI, §§ 635, 636, Nov. 12, 2001, 115 Stat. 553, provided: “That effective July 1, 1974, the Government-owned house together with furnishings, associated grounds (consisting of twelve acres, more or less), and related facilities which have heretofore been used as the residence of the Chief of Naval Operations, Department of the Navy, shall, on and after such date be available for, and are hereby designated as, the temporary official residence of the Vice President of the United States. “Sec. 2. The temporary official residence of the Vice President shall be adequately staffed and provided with such appropriate equipment, furnishings, dining facilities, services, and other provisions as may be required, under the supervision and direction of the Vice President, to enable him to perform and discharge appropriately the duties, functions, and obligations associated with his high office. “Sec. 3. The Secretary of the Navy shall, subject to the supervision and control of the Vice President, provide for the military staffing, utilities (including electrical) for, and the care and maintenance of the grounds of the temporary official residence of the Vice President and, subject to reimbursement therefor out of funds appropriated for such purposes, provide for the civilian staffing, care, maintenance, repair, improvement, alteration, and furnishing of such residence. “Sec. 4. There is hereby authorized to be appropriated such sums as may be necessary from time to time to carry out the foregoing provisions of this joint resolution. During any interim period until and before any such funds are so appropriated, the Secretary of the Navy shall make provision for staffing and other appropriate services in connection with the temporary official residence of the Vice President from funds available to the Department of the Navy, subject to reimbursement therefor from funds subsequently appropriated to carry out the purposes of this joint resolution. “Sec. 5. After the date on which the Vice President moves into the temporary official residence provided for in this joint resolution no funds may be expended for the maintenance, care, repair, furnishing, or security of any residence for the Vice President other than the temporary official residence provided for in this joint resolution unless the expenditure of such funds is specifically authorized by law enacted after such date. “Sec. 6. The Secretary of the Navy is authorized and directed, with the approval of the Vice President, to accept donations of money or property for the furnishing of or making improvements in or about, or for use at official functions in or about, the temporary official residence of the Vice President, all such donations to become the property of the United States and to be accounted for as such. “Sec. 7. [Amended former [section 202 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section202&num=0&edition=prelim)]. “Sec. 8. [Amended [section 3056(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056/a&num=0&edition=prelim)]. “Sec. 9. It is the sense of Congress that living accommodations, generally equivalent to those available to the highest ranking officer on active duty in each of the other military services, should be provided for the Chief of Naval Operations.”
+
+#### Official Residence for the Vice President; Design and Construction; Authorization of Appropriation
+Pub. L. 89–386, Apr. 9, 1966, 80 Stat. 106, provided: “That the Administrator of General Services is hereby authorized to plan, design, and construct an official residence for the Vice President of the United States in the District of Columbia. “Sec. 2. The Administrator is further authorized to use as a site for such residence Federal land and property comprising approximately ten acres at the United States Naval Observatory, the specific area and boundaries thereof to be determined jointly by the General Services Administration and the Department of the Navy: Provided, That any roads and improvements thereon for which there is a continued need may be relocated and reconstructed. “Sec. 3. The Administrator is further authorized to provide for the care, maintenance, repair, improvement, alteration, and furnishing of the official residence and grounds, including heating, lighting, and air conditioning, which services shall be provided at the expense of the United States. “Sec. 4. The Administrator of General Services is further authorized to accept cash gifts, furniture, and furnishings and other types of gifts on behalf of the United States for use in constructing and furnishing the official residence but without further conditions on use, all such articles thus given to become the property of the United States. “Sec. 5. There is authorized to be appropriated to the General Services Administration, the sum of $750,000 for planning, design, construction, and costs incidental thereto, including the cost of initial furnishings. “Sec. 6. There is further authorized to be appropriated to the General Services Administration, annually, such amounts as may be necessary to carry out the purposes of section 3.”
+
+
+<a id="section-112"></a>
+## § 112. Detail of employees of executive departments
+
+The head of any department, agency, or independent establishment of the executive branch of the Government may detail, from time to time, employees of such department, agency, or establishment to the White House Office, the Executive Residence at the White House, the Office of the Vice President, the Domestic Policy Staff, and the Office of Administration. Any such office to which an employee has been detailed for service to such office shall reimburse the detailing department, agency, or establishment for the pay of each employee thereof—
+
+(1) who is so detailed, and
+
+(2) who is performing services which have been or would otherwise be performed by an employee of such office, for any period occurring during any fiscal year after 180 calendar days after the employee is detailed in such year.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Authority With Respect to Detailed Employees
+Pub. L. 107–67, title VI, § 637, Nov. 12, 2001, 115 Stat. 553, provided that: “During fiscal year 2002 and thereafter, the head of an entity named in [3 U.S.C. 112](./chapter-002-office-and-compensation-of-president.md#section-112) may, with respect to civilian personnel of any branch of the Federal Government performing duties in such entity, exercise authority comparable to the authority that may by law (including chapter 57 and sections 8344 and 8468 of title 5, United States Code) be exercised with respect to the employees of an Executive agency (as defined in [5 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)) by the head of such Executive agency, and the authority granted by this section shall be in addition to any other authority available in law.”
+
+
+<a id="section-113"></a>
+## § 113. Personnel report
+**(a)** The President shall transmit to each House of the Congress, and make available to the public, reports containing information described in subsection (b) for each fiscal year beginning on or after the effective date of this section. Each such report shall be transmitted no later than 60 days after the close of the fiscal year covered by such report and shall contain a statement of such information for such year.
+
+**(b)** Each report required under subsection (a) shall contain—
+
+(1) the number of employees who are paid at a rate of basic pay equal to or greater than the rate of basic pay then currently paid for level V of the Executive Schedule of [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim) and who are employed in the White House Office, the Executive Residence at the White House, the Office of the Vice President, the Domestic Policy Staff, or the Office of Administration, and the aggregate amount paid to such employees;
+
+(2) the number of employees employed in such offices who are paid at a rate of basic pay which is equal to or greater than the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim) but which is less than the rate then currently paid for level V of the Executive Schedule of section 5316 of title V 11 So in original. Probably should be title “5”. and the aggregate amount paid to such employees;
+
+(3) the number of employees employed in such offices who are paid at a rate of basic pay which is less than the minimum rate then currently paid for GS–16 of the General Schedule of section 5332 of title V 1, and the aggregate amount paid to such employees;
+
+(4) the number of individuals detailed under [section 112 of this title](./chapter-002-office-and-compensation-of-president.md#section-112) for more than 30 days to each such office, the number of days in excess of 30 each individual was detailed, and the aggregate amount of reimbursement made as provided by the provisions of [section 112 of this title](./chapter-002-office-and-compensation-of-president.md#section-112); and
+
+(5) the number of individuals whose services as experts or consultants are procured under this chapter for service in any such office, the total number of days employed, and the aggregate amount paid to procure such services.
+The information required under this subsection to be in any report shall be shown both in the aggregate and by office involved.
+
+### Statutory Notes
+
+#### References in Text
+For the effective date of this section, referred to in subsec. (a), see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Effective Date
+Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### Termination of Reporting Requirements
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (a) of this section is listed on page 21), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Report on White House Office Personnel
+Pub. L. 103–270, § 6, June 30, 1994, 108 Stat. 737, provided that: “(a) Submission of Report.—On July 1 of each year, the President shall submit a report described in subsection (b) to the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate and the Committee on Government Operations of the House of Representatives. “(b) Contents.—A report under subsection (a) shall, except as provided in subsection (c), include—“(1) a list of each individual—“(A) employed by the White House Office; or “(B) detailed to the White House Office; and “(2) with regard to each individual described in paragraph (1), the individual’s—“(A) name; “(B) position and title; and “(C) annual rate of pay. “(c) Exclusion From Report.—If the President determines that disclosure of any item of information described in subsection (b) with respect to any particular individual would not be in the interest of the national defense or foreign policy of the United States—“(1) a report under subsection (a) shall—“(A) exclude such information with respect to that individual; and “(B) include a statement of the number of individuals with respect to whom such information has been excluded; and “(2) at the request of the Committee on Governmental Affairs [now Committee on Homeland Security and Governmental Affairs] of the Senate or the Committee on Government Operations of the House of Representatives, the information that was excluded from the report shall be made available for inspection by such committee.”
+
+[Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note under [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.]
+
+[Section 6 of Pub. L. 103–270, set out above, effective Jan. 1, 1995, see section 7(i) of Pub. L. 103–270, set out as an Effective Date of 1994 Amendment; Transition Provisions note under [section 591 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section591&num=0&edition=prelim), Judiciary and Judicial Procedure.]
+
+
+<a id="section-114"></a>
+## § 114. General pay limitation
+
+Notwithstanding any provision of law, other than the provisions of this chapter, no employee of the White House Office, the Executive Residence at the White House, the Domestic Policy Staff, or the Office of Administration, nor any employee under the Vice President appointed under [section 106 of this title](./chapter-002-office-and-compensation-of-president.md#section-106), may be paid at a rate of basic pay in excess of the minimum rate of basic pay then currently paid for GS–16 of the General Schedule of [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
+
+#### References in Other Laws to GS–16, 17, or 18 Pay Rates
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+
+<a id="section-115"></a>
+## § 115. Veterans’ preference
+**(a)** Subject to subsection (b), appointments under sections 105, 106, and 107 shall be made in accordance with section 2108, and sections 3309 through 3312, of title 5.
+
+**(b)** Subsection (a) shall not apply to any appointment to a position the rate of basic pay for which is at least equal to the minimum rate established for positions in the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim) and the duties of which are comparable to those described in section 3132(a)(2) of such title or to any other position if, with respect to such position, the President makes certification—
+
+(1) that such position is—
+
+  (A) a confidential or policy-making position; or
+
+  (B) a position for which political affiliation or political philosophy is otherwise an important qualification; and
+
+(2) that any individual selected for such position is expected to vacate the position at or before the end of the President’s term (or terms) of office.
+Each individual appointed to a position described in the preceding sentence as to which the expectation described in paragraph (2) applies shall be notified as to such expectation, in writing, at the time of appointment to such position.

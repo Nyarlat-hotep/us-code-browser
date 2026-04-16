@@ -1,0 +1,652 @@
+[
+  {
+    "slug": "chapter-001-commodity-exchanges",
+    "heading": "COMMODITY EXCHANGES",
+    "section_count": 86
+  },
+  {
+    "slug": "chapter-002-cotton-standards",
+    "heading": "COTTON STANDARDS",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-003-grain-standards",
+    "heading": "GRAIN STANDARDS",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-004-naval-stores",
+    "heading": "NAVAL STORES",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-005-importation-of-adulterated-seeds",
+    "heading": "IMPORTATION OF ADULTERATED SEEDS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-006-insecticides-and-environmental-pesticide-control",
+    "heading": "INSECTICIDES AND ENVIRONMENTAL PESTICIDE CONTROL",
+    "section_count": 40
+  },
+  {
+    "slug": "chapter-6a-national-laboratory-accreditation",
+    "heading": "NATIONAL LABORATORY ACCREDITATION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-007-insect-pests-generally",
+    "heading": "INSECT PESTS GENERALLY",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-7a-golden-nematode",
+    "heading": "GOLDEN NEMATODE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-7b-plant-pests",
+    "heading": "PLANT PESTS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-008-nursery-stock-and-other-plants-and-plant-products",
+    "heading": "NURSERY STOCK AND OTHER PLANTS AND PLANT PRODUCTS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-8a-rubber-and-other-critical-agricultural-materials",
+    "heading": "RUBBER AND OTHER CRITICAL AGRICULTURAL MATERIALS",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-009-packers-and-stockyards",
+    "heading": "PACKERS AND STOCKYARDS",
+    "section_count": 57
+  },
+  {
+    "slug": "chapter-010-warehouses",
+    "heading": "WAREHOUSES",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-011-honeybees",
+    "heading": "HONEYBEES",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-012-associations-of-agricultural-products-producers",
+    "heading": "ASSOCIATIONS OF AGRICULTURAL PRODUCTS PRODUCERS",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-013-agricultural-and-mechanical-colleges",
+    "heading": "AGRICULTURAL AND MECHANICAL COLLEGES",
+    "section_count": 35
+  },
+  {
+    "slug": "chapter-014-agricultural-experiment-stations",
+    "heading": "AGRICULTURAL EXPERIMENT STATIONS",
+    "section_count": 38
+  },
+  {
+    "slug": "chapter-015-bureau-of-animal-industry",
+    "heading": "BUREAU OF ANIMAL INDUSTRY",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-016-bureau-of-dairy-industry",
+    "heading": "BUREAU OF DAIRY INDUSTRY",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-017-miscellaneous-matters",
+    "heading": "MISCELLANEOUS MATTERS",
+    "section_count": 85
+  },
+  {
+    "slug": "chapter-018-cooperative-marketing",
+    "heading": "COOPERATIVE MARKETING",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-019-cotton-statistics-and-estimates",
+    "heading": "COTTON STATISTICS AND ESTIMATES",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-020-dumping-or-destruction-of-interstate-produce",
+    "heading": "DUMPING OR DESTRUCTION OF INTERSTATE PRODUCE",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-20a-perishable-agricultural-commodities",
+    "heading": "PERISHABLE AGRICULTURAL COMMODITIES",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-021-tobacco-statistics",
+    "heading": "TOBACCO STATISTICS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-21a-tobacco-inspection",
+    "heading": "TOBACCO INSPECTION",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-21b-tobacco-control",
+    "heading": "TOBACCO CONTROL",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-21c-tobacco-reform",
+    "heading": "TOBACCO REFORM",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-022-agricultural-marketing",
+    "heading": "AGRICULTURAL MARKETING",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-023-foreign-agricultural-service",
+    "heading": "FOREIGN AGRICULTURAL SERVICE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-024-perishable-agricultural-commodities",
+    "heading": "PERISHABLE AGRICULTURAL COMMODITIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-025-export-standards-for-apples",
+    "heading": "EXPORT STANDARDS FOR APPLES",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-25a-export-standards-for-grapes-and-plums",
+    "heading": "EXPORT STANDARDS FOR GRAPES AND PLUMS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-026-agricultural-adjustment",
+    "heading": "AGRICULTURAL ADJUSTMENT",
+    "section_count": 48
+  },
+  {
+    "slug": "chapter-26a-agricultural-marketing-agreements",
+    "heading": "AGRICULTURAL MARKETING AGREEMENTS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-027-cotton-marketing",
+    "heading": "COTTON MARKETING",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-028-tobacco-industry",
+    "heading": "TOBACCO INDUSTRY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-029-potato-act-of-1935",
+    "heading": "POTATO ACT OF 1935",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-030-anti-hog-cholera-serum-and-hog-cholera-virus",
+    "heading": "ANTI-HOG-CHOLERA SERUM AND HOG-CHOLERA VIRUS",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-031-rural-electrification-and-telephone-service",
+    "heading": "RURAL ELECTRIFICATION AND TELEPHONE SERVICE",
+    "section_count": 75
+  },
+  {
+    "slug": "chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas",
+    "heading": "TELEMEDICINE AND DISTANCE LEARNING SERVICES IN RURAL AREAS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-032-peanut-statistics",
+    "heading": "PEANUT STATISTICS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-033-farm-tenancy",
+    "heading": "FARM TENANCY",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-034-sugar-production-and-control",
+    "heading": "SUGAR PRODUCTION AND CONTROL",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-035-agricultural-adjustment-act-of-1938",
+    "heading": "AGRICULTURAL ADJUSTMENT ACT OF 1938",
+    "section_count": 127
+  },
+  {
+    "slug": "chapter-35a-price-support-of-agricultural-commodities",
+    "heading": "PRICE SUPPORT OF AGRICULTURAL COMMODITIES",
+    "section_count": 103
+  },
+  {
+    "slug": "chapter-036-crop-insurance",
+    "heading": "CROP INSURANCE",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-037-seeds",
+    "heading": "SEEDS",
+    "section_count": 35
+  },
+  {
+    "slug": "chapter-038-distribution-and-marketing-of-agricultural-products",
+    "heading": "DISTRIBUTION AND MARKETING OF AGRICULTURAL PRODUCTS",
+    "section_count": 63
+  },
+  {
+    "slug": "chapter-039-stabilization-of-international-wheat-market",
+    "heading": "STABILIZATION OF INTERNATIONAL WHEAT MARKET",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-040-halogeton-glomeratus-control",
+    "heading": "HALOGETON GLOMERATUS CONTROL",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-041-food-for-peace",
+    "heading": "FOOD FOR PEACE",
+    "section_count": 89
+  },
+  {
+    "slug": "chapter-042-agricultural-commodity-set-aside",
+    "heading": "AGRICULTURAL COMMODITY SET-ASIDE",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-043-foreign-market-development",
+    "heading": "FOREIGN MARKET DEVELOPMENT",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-044-wool-program",
+    "heading": "WOOL PROGRAM",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-045-soil-bank-program",
+    "heading": "SOIL BANK PROGRAM",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-046-surplus-disposal-of-agricultural-commodities",
+    "heading": "SURPLUS DISPOSAL OF AGRICULTURAL COMMODITIES",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-047-interchange-of-department-of-agriculture-and-state-employees",
+    "heading": "INTERCHANGE OF DEPARTMENT OF AGRICULTURE AND STATE EMPLOYEES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-048-humane-methods-of-livestock-slaughter",
+    "heading": "HUMANE METHODS OF LIVESTOCK SLAUGHTER",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-049-consultation-on-agricultural-programs",
+    "heading": "CONSULTATION ON AGRICULTURAL PROGRAMS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-050-agricultural-credit",
+    "heading": "AGRICULTURAL CREDIT",
+    "section_count": 185
+  },
+  {
+    "slug": "chapter-051-supplemental-nutrition-assistance-program",
+    "heading": "SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM",
+    "section_count": 34
+  },
+  {
+    "slug": "chapter-052-farm-labor-contractor-registration",
+    "heading": "FARM LABOR CONTRACTOR REGISTRATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-053-cotton-research-and-promotion",
+    "heading": "COTTON RESEARCH AND PROMOTION",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-054-transportation-sale-and-handling-of-certain-animals",
+    "heading": "TRANSPORTATION, SALE, AND HANDLING OF CERTAIN ANIMALS",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-055-department-of-agriculture",
+    "heading": "DEPARTMENT OF AGRICULTURE",
+    "section_count": 163
+  },
+  {
+    "slug": "chapter-55a-department-of-agriculture-advisory-committees",
+    "heading": "DEPARTMENT OF AGRICULTURE ADVISORY COMMITTEES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-056-unfair-trade-practices-affecting-producers-of-agricultural-products",
+    "heading": "UNFAIR TRADE PRACTICES AFFECTING PRODUCERS OF AGRICULTURAL PRODUCTS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-057-plant-variety-protection",
+    "heading": "PLANT VARIETY PROTECTION",
+    "section_count": 66
+  },
+  {
+    "slug": "chapter-058-potato-research-and-promotion",
+    "heading": "POTATO RESEARCH AND PROMOTION",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-059-rural-fire-protection-development-and-small-farm-research-and-education",
+    "heading": "RURAL FIRE PROTECTION, DEVELOPMENT, AND SMALL FARM RESEARCH AND EDUCATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-060-egg-research-and-consumer-information",
+    "heading": "EGG RESEARCH AND CONSUMER INFORMATION",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-061-noxious-weeds",
+    "heading": "NOXIOUS WEEDS",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-062-beef-research-and-information",
+    "heading": "BEEF RESEARCH AND INFORMATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-063-farmer-to-consumer-direct-marketing",
+    "heading": "FARMER–TO–CONSUMER DIRECT MARKETING",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-064-agricultural-research-extension-and-teaching",
+    "heading": "AGRICULTURAL RESEARCH, EXTENSION, AND TEACHING",
+    "section_count": 124
+  },
+  {
+    "slug": "chapter-065-wheat-and-wheat-foods-research-and-nutrition-education",
+    "heading": "WHEAT AND WHEAT FOODS RESEARCH AND NUTRITION EDUCATION",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-066-agricultural-foreign-investment-disclosure",
+    "heading": "AGRICULTURAL FOREIGN INVESTMENT DISCLOSURE",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-067-implementation-of-international-sugar-agreement-1977",
+    "heading": "IMPLEMENTATION OF INTERNATIONAL SUGAR AGREEMENT, 1977",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-068-agricultural-subterminal-facilities",
+    "heading": "AGRICULTURAL SUBTERMINAL FACILITIES",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-069-swine-health-protection",
+    "heading": "SWINE HEALTH PROTECTION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-070-animal-cancer-research",
+    "heading": "ANIMAL CANCER RESEARCH",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-071-agricultural-trade-suspension-adjustment",
+    "heading": "AGRICULTURAL TRADE SUSPENSION ADJUSTMENT",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-072-national-agricultural-cost-of-production-standards-review-board",
+    "heading": "NATIONAL AGRICULTURAL COST OF PRODUCTION STANDARDS REVIEW BOARD",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-073-farmland-protection-policy",
+    "heading": "FARMLAND PROTECTION POLICY",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-074-floral-research-and-consumer-information",
+    "heading": "FLORAL RESEARCH AND CONSUMER INFORMATION",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-075-international-carriage-of-perishable-foodstuffs",
+    "heading": "INTERNATIONAL CARRIAGE OF PERISHABLE FOODSTUFFS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-076-dairy-research-and-promotion",
+    "heading": "DAIRY RESEARCH AND PROMOTION",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-077-honey-research-promotion-and-consumer-information",
+    "heading": "HONEY RESEARCH, PROMOTION, AND CONSUMER INFORMATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-078-agricultural-productivity-research",
+    "heading": "AGRICULTURAL PRODUCTIVITY RESEARCH",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-079-pork-promotion-research-and-consumer-information",
+    "heading": "PORK PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-080-watermelon-research-and-promotion",
+    "heading": "WATERMELON RESEARCH AND PROMOTION",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-081-national-commission-on-agriculture-and-rural-development-policy",
+    "heading": "NATIONAL COMMISSION ON AGRICULTURE AND RURAL DEVELOPMENT POLICY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-082-state-agricultural-loan-mediation-programs",
+    "heading": "STATE AGRICULTURAL LOAN MEDIATION PROGRAMS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-083-agricultural-competitiveness-and-trade",
+    "heading": "AGRICULTURAL COMPETITIVENESS AND TRADE",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-084-national-nutrition-monitoring-and-related-research",
+    "heading": "NATIONAL NUTRITION MONITORING AND RELATED RESEARCH",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-085-administration-of-environmental-programs",
+    "heading": "ADMINISTRATION OF ENVIRONMENTAL PROGRAMS",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-086-water-quality-research-education-and-coordination",
+    "heading": "WATER QUALITY RESEARCH, EDUCATION, AND COORDINATION",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-087-export-promotion",
+    "heading": "EXPORT PROMOTION",
+    "section_count": 42
+  },
+  {
+    "slug": "chapter-088-research",
+    "heading": "RESEARCH",
+    "section_count": 53
+  },
+  {
+    "slug": "chapter-089-pecan-promotion-and-research",
+    "heading": "PECAN PROMOTION AND RESEARCH",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-090-mushroom-promotion-research-and-consumer-information",
+    "heading": "MUSHROOM PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-091-lime-promotion-research-and-consumer-information",
+    "heading": "LIME PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-092-soybean-promotion-research-and-consumer-information",
+    "heading": "SOYBEAN PROMOTION, RESEARCH, AND CONSUMER INFORMATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-093-processor-funded-milk-promotion-program",
+    "heading": "PROCESSOR-FUNDED MILK PROMOTION PROGRAM",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-094-organic-certification",
+    "heading": "ORGANIC CERTIFICATION",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-095-rural-revitalization-through-forestry",
+    "heading": "RURAL REVITALIZATION THROUGH FORESTRY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-096-global-climate-change",
+    "heading": "GLOBAL CLIMATE CHANGE",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-097-fresh-cut-flowers-and-fresh-cut-greens-promotion-and-information",
+    "heading": "FRESH CUT FLOWERS AND FRESH CUT GREENS PROMOTION AND INFORMATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-098-department-of-agriculture-reorganization",
+    "heading": "DEPARTMENT OF AGRICULTURE REORGANIZATION",
+    "section_count": 66
+  },
+  {
+    "slug": "chapter-099-sheep-promotion-research-and-information",
+    "heading": "SHEEP PROMOTION, RESEARCH, AND INFORMATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-100-agricultural-market-transition",
+    "heading": "AGRICULTURAL MARKET TRANSITION",
+    "section_count": 50
+  },
+  {
+    "slug": "chapter-101-agricultural-promotion",
+    "heading": "AGRICULTURAL PROMOTION",
+    "section_count": 53
+  },
+  {
+    "slug": "chapter-102-emergency-food-assistance",
+    "heading": "EMERGENCY FOOD ASSISTANCE",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-103-agricultural-research-extension-and-education-reform",
+    "heading": "AGRICULTURAL RESEARCH, EXTENSION, AND EDUCATION REFORM",
+    "section_count": 36
+  },
+  {
+    "slug": "chapter-104-plant-protection",
+    "heading": "PLANT PROTECTION",
+    "section_count": 39
+  },
+  {
+    "slug": "chapter-105-hass-avocado-promotion-research-and-information",
+    "heading": "HASS AVOCADO PROMOTION, RESEARCH, AND INFORMATION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-106-commodity-programs",
+    "heading": "COMMODITY PROGRAMS",
+    "section_count": 45
+  },
+  {
+    "slug": "chapter-107-renewable-energy-research-and-development",
+    "heading": "RENEWABLE ENERGY RESEARCH AND DEVELOPMENT",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-108-tree-assistance-program",
+    "heading": "TREE ASSISTANCE PROGRAM",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-109-animal-health-protection",
+    "heading": "ANIMAL HEALTH PROTECTION",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-109a-control-of-wild-animals",
+    "heading": "CONTROL OF WILD ANIMALS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-110-enhancing-controls-on-dangerous-biological-agents-and-toxins",
+    "heading": "ENHANCING CONTROLS ON DANGEROUS BIOLOGICAL AGENTS AND TOXINS",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-111-brown-tree-snake-control-and-eradication",
+    "heading": "BROWN TREE SNAKE CONTROL AND ERADICATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-112-biomass-research-and-development",
+    "heading": "BIOMASS RESEARCH AND DEVELOPMENT",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-113-agricultural-commodity-support-programs",
+    "heading": "AGRICULTURAL COMMODITY SUPPORT PROGRAMS",
+    "section_count": 45
+  },
+  {
+    "slug": "chapter-114-agricultural-security",
+    "heading": "AGRICULTURAL SECURITY",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-115-agricultural-commodity-policy-and-programs",
+    "heading": "AGRICULTURAL COMMODITY POLICY AND PROGRAMS",
+    "section_count": 40
+  },
+  {
+    "slug": "chapter-116-national-bio-and-agro-defense-facility",
+    "heading": "NATIONAL BIO AND AGRO-DEFENSE FACILITY",
+    "section_count": 6
+  }
+]

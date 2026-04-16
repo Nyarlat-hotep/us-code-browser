@@ -1,0 +1,312 @@
+[
+  {
+    "slug": "chapter-001-the-comptroller-of-the-currency",
+    "heading": "THE COMPTROLLER OF THE CURRENCY",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-002-national-banks",
+    "heading": "NATIONAL BANKS",
+    "section_count": 140
+  },
+  {
+    "slug": "chapter-003-federal-reserve-system",
+    "heading": "FEDERAL RESERVE SYSTEM",
+    "section_count": 167
+  },
+  {
+    "slug": "chapter-004-taxation",
+    "heading": "TAXATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-005-crimes-and-offenses",
+    "heading": "CRIMES AND OFFENSES",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-006-foreign-banking",
+    "heading": "FOREIGN BANKING",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-6a-export-import-bank-of-the-united-states",
+    "heading": "EXPORT-IMPORT BANK OF THE UNITED STATES",
+    "section_count": 36
+  },
+  {
+    "slug": "chapter-007-farm-credit-administration",
+    "heading": "FARM CREDIT ADMINISTRATION",
+    "section_count": 99
+  },
+  {
+    "slug": "chapter-7a-agricultural-marketing",
+    "heading": "AGRICULTURAL MARKETING",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-7b-regional-agricultural-credit-corporations",
+    "heading": "REGIONAL AGRICULTURAL CREDIT CORPORATIONS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-008-adjustment-and-cancellation-of-farm-loans",
+    "heading": "ADJUSTMENT AND CANCELLATION OF FARM LOANS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-009-national-agricultural-credit-corporations",
+    "heading": "NATIONAL AGRICULTURAL CREDIT CORPORATIONS",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-010-local-agricultural-credit-corporations-livestock-loan-companies-and-like-organizations-loans-to-individuals-to-aid-in-formation-or-to-increase-capital-stock",
+    "heading": "LOCAL AGRICULTURAL-CREDIT CORPORATIONS, LIVESTOCK-LOAN COMPANIES AND LIKE ORGANIZATIONS; LOANS TO INDIVIDUALS TO AID IN FORMATION OR TO INCREASE CAPITAL STOCK",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-011-federal-home-loan-banks",
+    "heading": "FEDERAL HOME LOAN BANKS",
+    "section_count": 44
+  },
+  {
+    "slug": "chapter-11a-federal-home-loan-mortgage-corporation",
+    "heading": "FEDERAL HOME LOAN MORTGAGE CORPORATION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-012-savings-associations",
+    "heading": "SAVINGS ASSOCIATIONS",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-013-national-housing",
+    "heading": "NATIONAL HOUSING",
+    "section_count": 274
+  },
+  {
+    "slug": "chapter-014-federal-credit-unions",
+    "heading": "FEDERAL CREDIT UNIONS",
+    "section_count": 69
+  },
+  {
+    "slug": "chapter-015-federal-loan-agency",
+    "heading": "FEDERAL LOAN AGENCY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-016-federal-deposit-insurance-corporation",
+    "heading": "FEDERAL DEPOSIT INSURANCE CORPORATION",
+    "section_count": 75
+  },
+  {
+    "slug": "chapter-017-bank-holding-companies",
+    "heading": "BANK HOLDING COMPANIES",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-018-bank-service-companies",
+    "heading": "BANK SERVICE COMPANIES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-019-security-measures-for-banks-and-savings-associations",
+    "heading": "SECURITY MEASURES FOR BANKS AND SAVINGS ASSOCIATIONS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-020-credit-control",
+    "heading": "CREDIT CONTROL",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-021-financial-recordkeeping",
+    "heading": "FINANCIAL RECORDKEEPING",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-022-tying-arrangements",
+    "heading": "TYING ARRANGEMENTS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-023-farm-credit-system",
+    "heading": "FARM CREDIT SYSTEM",
+    "section_count": 201
+  },
+  {
+    "slug": "chapter-024-federal-financing-bank",
+    "heading": "FEDERAL FINANCING BANK",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-025-national-commission-on-electronic-fund-transfers",
+    "heading": "NATIONAL COMMISSION ON ELECTRONIC FUND TRANSFERS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-026-disposition-of-abandoned-money-orders-and-travelers-checks",
+    "heading": "DISPOSITION OF ABANDONED MONEY ORDERS AND TRAVELER’S CHECKS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-027-real-estate-settlement-procedures",
+    "heading": "REAL ESTATE SETTLEMENT PROCEDURES",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-028-emergency-mortgage-relief",
+    "heading": "EMERGENCY MORTGAGE RELIEF",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-029-home-mortgage-disclosure",
+    "heading": "HOME MORTGAGE DISCLOSURE",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-030-community-reinvestment",
+    "heading": "COMMUNITY REINVESTMENT",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-031-national-consumer-cooperative-bank",
+    "heading": "NATIONAL CONSUMER COOPERATIVE BANK",
+    "section_count": 29
+  },
+  {
+    "slug": "chapter-032-foreign-bank-participation-in-domestic-markets",
+    "heading": "FOREIGN BANK PARTICIPATION IN DOMESTIC MARKETS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-033-depository-institution-management-interlocks",
+    "heading": "DEPOSITORY INSTITUTION MANAGEMENT INTERLOCKS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-034-federal-financial-institutions-examination-council",
+    "heading": "FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-34a-appraisal-subcommittee-of-federal-financial-institutions-examination-council",
+    "heading": "APPRAISAL SUBCOMMITTEE OF FEDERAL FINANCIAL INSTITUTIONS EXAMINATION COUNCIL",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-035-right-to-financial-privacy",
+    "heading": "RIGHT TO FINANCIAL PRIVACY",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-036-depository-institutions-deregulation-and-financial-regulation-simplification",
+    "heading": "DEPOSITORY INSTITUTIONS DEREGULATION AND FINANCIAL REGULATION SIMPLIFICATION",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-037-solar-energy-and-energy-conservation-bank",
+    "heading": "SOLAR ENERGY AND ENERGY CONSERVATION BANK",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-038-multifamily-mortgage-foreclosure",
+    "heading": "MULTIFAMILY MORTGAGE FORECLOSURE",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-38a-single-family-mortgage-foreclosure",
+    "heading": "SINGLE FAMILY MORTGAGE FORECLOSURE",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-039-alternative-mortgage-transactions",
+    "heading": "ALTERNATIVE MORTGAGE TRANSACTIONS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-040-international-lending-supervision",
+    "heading": "INTERNATIONAL LENDING SUPERVISION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-041-expedited-funds-availability",
+    "heading": "EXPEDITED FUNDS AVAILABILITY",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-042-low-income-housing-preservation-and-resident-homeownership",
+    "heading": "LOW-INCOME HOUSING PRESERVATION AND RESIDENT HOMEOWNERSHIP",
+    "section_count": 32
+  },
+  {
+    "slug": "chapter-043-actions-against-persons-committing-bank-fraud-crimes",
+    "heading": "ACTIONS AGAINST PERSONS COMMITTING BANK FRAUD CRIMES",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-044-truth-in-savings",
+    "heading": "TRUTH IN SAVINGS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-045-payment-system-risk-reduction",
+    "heading": "PAYMENT SYSTEM RISK REDUCTION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-046-government-sponsored-enterprises",
+    "heading": "GOVERNMENT SPONSORED ENTERPRISES",
+    "section_count": 80
+  },
+  {
+    "slug": "chapter-047-community-development-banking",
+    "heading": "COMMUNITY DEVELOPMENT BANKING",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-048-financial-institutions-regulatory-improvement",
+    "heading": "FINANCIAL INSTITUTIONS REGULATORY IMPROVEMENT",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-049-homeowners-protection",
+    "heading": "HOMEOWNERS PROTECTION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-050-check-truncation",
+    "heading": "CHECK TRUNCATION",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-051-secure-and-fair-enforcement-for-mortgage-licensing",
+    "heading": "SECURE AND FAIR ENFORCEMENT FOR MORTGAGE LICENSING",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-052-emergency-economic-stabilization",
+    "heading": "EMERGENCY ECONOMIC STABILIZATION",
+    "section_count": 42
+  },
+  {
+    "slug": "chapter-053-wall-street-reform-and-consumer-protection",
+    "heading": "WALL STREET REFORM AND CONSUMER PROTECTION",
+    "section_count": 144
+  },
+  {
+    "slug": "chapter-054-state-small-business-credit-initiative",
+    "heading": "STATE SMALL BUSINESS CREDIT INITIATIVE",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-055-adjustable-interest-rate-libor",
+    "heading": "ADJUSTABLE INTEREST RATE (LIBOR)",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-056-regulation-of-payment-stablecoins",
+    "heading": "REGULATION OF PAYMENT STABLECOINS",
+    "section_count": 16
+  }
+]

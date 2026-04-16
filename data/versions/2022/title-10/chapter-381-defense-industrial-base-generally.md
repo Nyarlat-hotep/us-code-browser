@@ -1,0 +1,148 @@
+---
+title: 10
+chapter: '381'
+heading: DEFENSE INDUSTRIAL BASE GENERALLY
+section_count: 1
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
+---
+<a id="section-4801"></a>
+## § 4801. Definitions
+
+In this subpart:
+
+(1) The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, and Canada.
+
+(2) The term “dual-use” with respect to products, services, standards, processes, or acquisition practices, means products, services, standards, processes, or acquisition practices, respectively, that are capable of meeting requirements for military and nonmilitary applications.
+
+(3) The term “dual-use critical technology” means a critical technology that has military applications and nonmilitary applications.
+
+(4) The term “technology and industrial base sector” means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, production, integration, services, or information technology activities.
+
+(5) The terms “Federal laboratory” and “laboratory” have the meaning given the term “laboratory” in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a/d/2&num=0&edition=prelim)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
+
+(6) The term “critical technology” means a technology that is—
+
+  (A) a national critical technology; or
+
+  (B) a defense critical technology.
+
+(7) The term “national critical technology” means a technology that appears on the list of national critical technologies contained in the most recent biennial report on national critical technologies submitted to Congress by the President pursuant to section 603(d) 11 See References in Text note below. of the National Science and Technology Policy, Organization, and Priorities Act of 1976 ([42 U.S.C. 6683(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683/d&num=0&edition=prelim)).
+
+(8) The term “defense critical technology” means a technology that is identified under [section 4816 of this title](./chapter-382-policies-and-planning.md#section-4816) as critical for attaining the national security objectives set forth in [section 4811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4811/a&num=0&edition=prelim).
+
+(9) The term “eligible firm” means a company or other business entity that, as determined by the Secretary of Commerce—
+
+  (A) conducts a significant level of its research, development, engineering, manufacturing, integration, services, and information technology activities in the United States; and
+
+  (B) is a company or other business entity the majority ownership or control of which is by United States citizens or is a company or other business of a parent company that is incorporated in a country the government of which—
+
+    (i) encourages the participation of firms so owned or controlled in research and development consortia to which the government of that country provides funding directly or provides funding indirectly through international organizations or agreements; and
+
+    (ii) affords adequate and effective protection for the intellectual property rights of companies incorporated in the United States.
+  Such term includes a consortium of such companies or other business entities, as determined by the Secretary of Commerce.
+
+(10) The term “manufacturing technology” means techniques and processes designed to improve manufacturing quality, productivity, and practices, including quality control, shop floor management, inventory management, and worker training, as well as manufacturing equipment and software.
+
+(11) The term “Small Business Innovation Research Program” means the program established under the following provisions of section 9 of the Small Business Act ([15 U.S.C. 638](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim)):
+
+  (A) Paragraphs (4) through (7) of subsection (b).
+
+  (B) Subsections (e) through (l).
+
+(12) The term “Small Business Technology Transfer Program” means the program established under the following provisions of such section:
+
+  (A) Paragraphs (4) through (7) of subsection (b).
+
+  (B) Subsections (e) and (n) through (p).
+
+(13) The term “significant equity percentage” means—
+
+  (A) a level of contribution and participation sufficient, when compared to the other non-Federal participants in the partnership or other cooperative arrangement involved, to demonstrate a comparable long-term financial commitment to the product or process development involved; and
+
+  (B) any other criteria the Secretary may consider necessary to ensure an appropriate equity mix among the participants.
+
+(14) The term “person of a foreign country” has the meaning given such term in section 3502(d) of the Primary Dealers Act of 1988 ([22 U.S.C. 5342(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5342/d&num=0&edition=prelim)).
+
+(15) The term “integration” means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
+
+### Statutory Notes
+
+#### References in Text
+Section 603 of the National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (7), was classified to [section 6683 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6683&num=0&edition=prelim), The Public Health and Welfare, and was omitted from the Code.
+
+#### Prior Provisions
+A prior section 4801 was renumbered [section 7801 of this title](./chapter-781-military-claims.md#section-7801).
+
+Provisions similar to those in this section were contained in former sections 2511 and 2521 of this title prior to repeal by Pub. L. 102–484, § 4202(a).
+
+Prior sections 4802 to 4804 were renumbered sections 7802 to 7804 of this title, respectively.
+
+A prior section 4805, act Aug. 10, 1956, ch. 1041, 70A Stat. 271, related to reports to Congress with respect to claims under sections 4802, 4803, and 4804 of this title, prior to repeal by Pub. L. 86–533, § 1(8)(A), June 29, 1960, 74 Stat. 247.
+
+A prior section 4806 was renumbered [section 7806 of this title](./chapter-781-military-claims.md#section-7806).
+
+#### Amendments
+2021—Pub. L. 116–283, § 1866(c)(1), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(i), substituted “In this subpart” for “In this chapter” in introductory provisions.
+
+Pub. L. 116–283, § 1866(c), renumbered [section 2500 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2500) as this section.
+
+Par. (8). Pub. L. 116–283, § 1866(c)(2), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(ii), substituted “section 4816” for “section 2505” and “section 4811(a)” for “section 2501(a)”.
+
+Par. (16). Pub. L. 116–283, § 1866(c)(3), which added par. (16) defining “chapter 148 legacy provision”, was repealed by Pub. L. 117–81, § 1701(b)(21)(A)(iii).
+
+2016—Par. (1). Pub. L. 114–328 inserted “, the United Kingdom of Great Britain and Northern Ireland, Australia,” after “United States”.
+
+2011—Par. (1). Pub. L. 111–383, § 895(a)(1), substituted “integration, services, or information technology” for “or maintenance”.
+
+Par. (4). Pub. L. 111–383, § 895(a)(2), substituted “production, integration, services, or information technology” for “or production”.
+
+Par. (9)(A). Pub. L. 111–383, § 895(a)(3), substituted “manufacturing, integration, services, and information technology” for “and manufacturing”.
+
+Par. (15). Pub. L. 111–383, § 895(a)(4), added par. (15).
+
+1997—Pub. L. 105–85, § 371(b)(3), renumbered [section 2491 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2491) as section 2500.
+
+Par. (8). Pub. L. 105–85, § 1073(a)(53), substituted “that is identified under [section 2505 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2505) as critical for attaining the national security objectives set forth in [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501/a&num=0&edition=prelim).” for “that appears on the list of critical technologies contained, pursuant to subsection (b)(4) of [section 2505 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2505), in the most recent national technology and industrial base assessment submitted to Congress by the Secretary of Defense pursuant to [section 2506(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2506/e&num=0&edition=prelim).”
+
+1996—Pars. (11) to (16). Pub. L. 104–106 redesignated pars. (13) to (16) as (11) to (14), respectively, and struck out former pars. (11) and (12) which read as follows:
+
+“(11) The term ‘manufacturing extension program’ means a public or private, nonprofit program for the improvement of the quality, productivity, and performance of United States-based small manufacturing firms in the United States.
+
+“(12) The term ‘United States-based small manufacturing firm’ means a company or other business entity that, as determined by the Secretary of Commerce—
+
+“(A) engages in manufacturing;
+
+“(B) has less than 500 employees; and
+
+“(C) is an eligible firm.”
+
+1994—Par. (5). Pub. L. 103–337, § 1113(d), inserted before period at end “, except that such terms include a federally funded research and development center sponsored by a Federal agency”.
+
+Par. (16). Pub. L. 103–337, § 1115(e), added par. (16).
+
+1993—Par. (2). Pub. L. 103–160, § 1182(a)(9)(A), substituted “nonmilitary applications” for “nonmilitary application”.
+
+Par. (8). Pub. L. 103–160, § 1182(a)(9)(B), substituted “subsection (b)(4)” for “subsection (f)”.
+
+Pars. (13) to (15). Pub. L. 103–160, § 1315(f), added pars. (13) to (15).
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Short Title of 1994 Amendment
+Pub. L. 103–337, div. A, title XI, § 1101, Oct. 5, 1994, 108 Stat. 2862, provided that: “This title [enacting sections 2519 and 2520 of this title, amending this section, sections 1151, 1152, 2391, 2511 to 2513, and 2524 of this title, and sections 1662d and 1662d–1 of Title 29, Labor, and enacting and amending provisions set out as notes under [section 2501 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2501)] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1994’.”
+
+#### Short Title of 1993 Amendment
+Pub. L. 103–160, div. A, title XIII, § 1301, Nov. 30, 1993, 107 Stat. 1783, provided that: “This title [enacting sections 1152 and 1153 of this title and sections 1279d, 1279e, and 1280a of the Appendix to Title 46, Shipping, amending this section, sections 1142, 1151, 1598, 2410j, 2501, 2502, 2511 to 2513, 2523, and 2524 of this title, sections 1551 and 1662d–1 of Title 29, Labor, [section 31326 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section31326&num=0&edition=prelim), and sections 1271, 1273, 1274, and 1274a of the Appendix to Title 46, repealing [section 2504 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2504), enacting provisions set out as notes under sections 1143, 1151, 2501, 2511, 2701, and 5013 of this title, [section 1662d–1 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1662d–1&num=0&edition=prelim), and sections 1279b and 1279d of the Appendix to Title 46, amending provisions set out as notes under sections 1143, 2391, and 2501 of this title, and repealing provisions set out as a note under [section 2701 of this title](./chapter-160-environmental-restoration.md#section-2701)] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Amendments of 1993’.”
+
+#### Short Title
+Pub. L. 102–484, div. D, § 4001, Oct. 23, 1992, 106 Stat. 2658, provided that: “This division [div. D (§§ 4001–4501) of Pub. L. 102–484, see Tables for classification] may be cited as the ‘Defense Conversion, Reinvestment, and Transition Assistance Act of 1992’.”
+
+#### Treatment of Interagency and State and Local Purchases When the Department of Defense Acts as Contract Intermediary for the General Services Administration
+Pub. L. 114–92, div. A, title VIII, § 897, Nov. 25, 2015, 129 Stat. 954, provided that: “Contracts executed by the Department of Defense as a result of the transfer of contracts from the General Services Administration or for which the Department serves as an item manager for products on behalf of the General Services Administration shall not be subject to requirements under chapter 148 of title 10, United States Code [see chapters 381 to 385, and chapter 389, of this title], to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.”
+
+#### Purposes of Title XLII of Pub. L. 102–484
+Pub. L. 102–484, div. D, title XLII, § 4201, Oct. 23, 1992, 106 Stat. 2659, provided that: “The purposes of this title [see Tables for classification] are to consolidate, revise, clarify, and reenact policies and requirements, and to enact additional policies and requirements, relating to the national technology and industrial base, defense reinvestment, and defense conversion programs that further national security objectives.”

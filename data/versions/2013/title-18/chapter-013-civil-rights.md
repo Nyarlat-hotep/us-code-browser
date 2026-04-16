@@ -1,0 +1,493 @@
+---
+title: 18
+chapter: '13'
+heading: CIVIL RIGHTS
+section_count: 9
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
+---
+<a id="section-241"></a>
+## § 241. Conspiracy against rights
+
+If two or more persons conspire to injure, oppress, threaten, or intimidate any person in any State, Territory, Commonwealth, Possession, or District in the free exercise or enjoyment of any right or privilege secured to him by the Constitution or laws of the United States, or because of his having so exercised the same; or
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., § 51 (Mar. 4, 1909, ch. 321, § 19, 35 Stat. 1092).
+
+Clause making conspirator ineligible to hold office was omitted as incongruous because it attaches ineligibility to hold office to a person who may be a private citizen and who was convicted of conspiracy to violate a specific statute. There seems to be no reason for imposing such a penalty in the case of one individual crime, in view of the fact that other crimes do not carry such a severe consequence. The experience of the Department of Justice is that this unusual penalty has been an obstacle to successful prosecutions for violations of the act.
+
+Mandatory punishment provision was rephrased in the alternative.
+
+Minor changes in phraseology were made.
+
+#### Amendments
+1996—Pub. L. 104–294, § 607(a), substituted “any State, Territory, Commonwealth, Possession, or District” for “any State, Territory, or District” in first par.
+
+Pub. L. 104–294, § 604(b)(14)(A), repealed Pub. L. 103–322, § 320103(a)(1). See 1994 Amendment note below.
+
+1994—Pub. L. 103–322, § 330016(1)(L), substituted “They shall be fined under this title” for “They shall be fined not more than $10,000” in third par.
+
+Pub. L. 103–322, § 320201(a), substituted “person in any State” for “inhabitant of any State” in first par.
+
+Pub. L. 103–322, § 320103(a)(2)–(4), in third par., substituted “results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, they shall be fined under this title or imprisoned for any term of years or for life, or both” for “results, they shall be subject to imprisonment for any term of years or for life”.
+
+Pub. L. 103–322, § 320103(a)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(14)(A).
+
+Pub. L. 103–322, § 60006(a), substituted “, or may be sentenced to death.” for period at end of third par.
+
+1988—Pub. L. 100–690 struck out “of citizens” after “rights” in section catchline and substituted “inhabitant of any State, Territory, or District” for “citizen” in text.
+
+1968—Pub. L. 90–284 increased limitation on fines from $5,000 to $10,000 and provided for imprisonment for any term of years or for life when death results.
+
+#### Effective Date of 1996 Amendment
+Amendment by section 604(b)(14)(A) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).
+
+#### Short Title of 1996 Amendment
+Pub. L. 104–155, § 1, July 3, 1996, 110 Stat. 1392, provided that: “This Act [amending [section 247 of this title](./chapter-013-civil-rights.md#section-247) and [section 10602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10602&num=0&edition=prelim), The Public Health and Welfare, enacting provisions set out as a note under [section 247 of this title](./chapter-013-civil-rights.md#section-247), and amending provisions set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Church Arson Prevention Act of 1996’.”
+
+
+<a id="section-242"></a>
+## § 242. Deprivation of rights under color of law
+
+Whoever, under color of any law, statute, ordinance, regulation, or custom, willfully subjects any person in any State, Territory, Commonwealth, Possession, or District to the deprivation of any rights, privileges, or immunities secured or protected by the Constitution or laws of the United States, or to different punishments, pains, or penalties, on account of such person being an alien, or by reason of his color, or race, than are prescribed for the punishment of citizens, shall be fined under this title or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both, or may be sentenced to death.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., § 52 (Mar. 4, 1909, ch. 321, § 20, 35 Stat. 1092).
+
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title](./chapter-001-general-provisions.md#section-2).
+
+A minor change was made in phraseology.
+
+#### Amendments
+1996—Pub. L. 104–294, § 607(a), substituted “any State, Territory, Commonwealth, Possession, or District” for “any State, Territory, or District”.
+
+Pub. L. 104–294, § 604(b)(14)(B), repealed Pub. L. 103–322, § 320103(b)(1). See 1994 Amendment note below.
+
+1994—Pub. L. 103–322, § 330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” after “citizens,”.
+
+Pub. L. 103–322, § 320201(b), substituted “any person in any State” for “any inhabitant of any State” and “on account of such person” for “on account of such inhabitant”.
+
+Pub. L. 103–322, § 320103(b)(2)–(5), substituted “bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, shall be fined under this title or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse, or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title, or imprisoned for any term of years or for life, or both” for “bodily injury results shall be fined under this title or imprisoned not more than ten years, or both; and if death results shall be subject to imprisonment for any term of years or for life”.
+
+Pub. L. 103–322, § 320103(b)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(14)(B).
+
+Pub. L. 103–322, § 60006(b), inserted before period at end “, or may be sentenced to death”.
+
+1988—Pub. L. 100–690 inserted “and if bodily injury results shall be fined under this title or imprisoned not more than ten years, or both;” after “or both;”.
+
+1968—Pub. L. 90–284 provided for imprisonment for any term of years or for life when death results.
+
+#### Effective Date of 1996 Amendment
+Amendment by section 604(b)(14)(B) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).
+
+
+<a id="section-243"></a>
+## § 243. Exclusion of jurors on account of race or color
+
+No citizen possessing all other qualifications which are or may be prescribed by law shall be disqualified for service as grand or petit juror in any court of the United States, or of any State on account of race, color, or previous condition of servitude; and whoever, being an officer or other person charged with any duty in the selection or summoning of jurors, excludes or fails to summon any citizen for such cause, shall be fined not more than $5,000.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on [section 44 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section44&num=0&edition=prelim), U.S.C., 1940 ed., Aliens and Nationality (Mar. 1, 1875, ch. 114, § 4, 18 Stat. 336).
+
+Words “be deemed guilty of a misdemeanor, and” were deleted as unnecessary in view of definition of misdemeanor in [section 1 of this title](./chapter-001-general-provisions.md#section-1).
+
+Words “on conviction thereof” were omitted as unnecessary, since punishment follows only after conviction.
+
+Minimum punishment provisions were omitted. (See reviser’s note under [section 203 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-203).)
+
+Minor changes in phraseology were made.
+
+
+<a id="section-244"></a>
+## § 244. Discrimination against person wearing uniform of armed forces
+
+Whoever, being a proprietor, manager, or employee of a theater or other public place of entertainment or amusement in the District of Columbia, or in any Territory, or Possession of the United States, causes any person wearing the uniform of any of the armed forces of the United States to be discriminated against because of that uniform, shall be fined under this title.
+
+### Statutory Notes
+
+#### 1948 Act
+Based on title 18, U.S.C., 1940 ed., § 523 (Mar. 1, 1911, ch. 187, 36 Stat. 963; Aug. 24, 1912, ch. 387, § 1, 37 Stat. 512; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800).
+
+Words “guilty of a misdemeanor”, following “shall be”, were omitted as unnecessary in view of definition of “misdemeanor” in [section 1 of this title](./chapter-001-general-provisions.md#section-1). (See reviser’s note under [section 212 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-212).)
+
+Changes were made in phraseology.
+
+#### 1949 Act
+This section [section 5] substitutes, in [section 244 of title 18](./chapter-013-civil-rights.md#section-244), U.S.C., “any of the armed forces of the United States” for the enumeration of specific branches and thereby includes the Air Force, formerly part of the Army. This clarification is necessary because of the establishment of the Air Force as a separate branch of the Armed Forces by the act of July 26, 1947.
+
+#### Amendments
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500”.
+
+1949—Act May 24, 1949, substituted “any of the armed forces of the United States” for enumeration of the specific branches.
+
+
+<a id="section-245"></a>
+## § 245. Federally protected activities
+**(a)**
+
+(1) Nothing in this section shall be construed as indicating an intent on the part of Congress to prevent any State, any possession or Commonwealth of the United States, or the District of Columbia, from exercising jurisdiction over any offense over which it would have jurisdiction in the absence of this section, nor shall anything in this section be construed as depriving State and local law enforcement authorities of responsibility for prosecuting acts that may be violations of this section and that are violations of State and local law. No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General, the Deputy Attorney General, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice, which function of certification may not be delegated.
+
+(2) Nothing in this subsection shall be construed to limit the authority of Federal officers, or a Federal grand jury, to investigate possible violations of this section.
+
+**(b)** Whoever, whether or not acting under color of law, by force or threat of force willfully injures, intimidates or interferes with, or attempts to injure, intimidate or interfere with—
+
+(1) any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
+
+  (A) voting or qualifying to vote, qualifying or campaigning as a candidate for elective office, or qualifying or acting as a poll watcher, or any legally authorized election official, in any primary, special, or general election;
+
+  (B) participating in or enjoying any benefit, service, privilege, program, facility, or activity provided or administered by the United States;
+
+  (C) applying for or enjoying employment, or any perquisite thereof, by any agency of the United States;
+
+  (D) serving, or attending upon any court in connection with possible service, as a grand or petit juror in any court of the United States;
+
+  (E) participating in or enjoying the benefits of any program or activity receiving Federal financial assistance; or
+
+(2) any person because of his race, color, religion or national origin and because he is or has been—
+
+  (A) enrolling in or attending any public school or public college;
+
+  (B) participating in or enjoying any benefit, service, privilege, program, facility or activity provided or administered by any State or subdivision thereof;
+
+  (C) applying for or enjoying employment, or any perquisite thereof, by any private employer or any agency of any State or subdivision thereof, or joining or using the services or advantages of any labor organization, hiring hall, or employment agency;
+
+  (D) serving, or attending upon any court of any State in connection with possible service, as a grand or petit juror;
+
+  (E) traveling in or using any facility of interstate commerce, or using any vehicle, terminal, or facility of any common carrier by motor, rail, water, or air;
+
+  (F) enjoying the goods, services, facilities, privileges, advantages, or accommodations of any inn, hotel, motel, or other establishment which provides lodging to transient guests, or of any restaurant, cafeteria, lunchroom, lunch counter, soda fountain, or other facility which serves the public and which is principally engaged in selling food or beverages for consumption on the premises, or of any gasoline station, or of any motion picture house, theater, concert hall, sports arena, stadium, or any other place of exhibition or entertainment which serves the public, or of any other establishment which serves the public and (i) which is located within the premises of any of the aforesaid establishments or within the premises of which is physically located any of the aforesaid establishments, and (ii) which holds itself out as serving patrons of such establishments; or
+
+(3) during or incident to a riot or civil disorder, any person engaged in a business in commerce or affecting commerce, including, but not limited to, any person engaged in a business which sells or offers for sale to interstate travelers a substantial portion of the articles, commodities, or services which it sells or where a substantial portion of the articles or commodities which it sells or offers for sale have moved in commerce; or
+
+(4) any person because he is or has been, or in order to intimidate such person or any other person or any class of persons from—
+
+  (A) participating, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through (2)(F); or
+
+  (B) affording another person or class of persons opportunity or protection to so participate; or
+
+(5) any citizen because he is or has been, or in order to intimidate such citizen or any other citizen from lawfully aiding or encouraging other persons to participate, without discrimination on account of race, color, religion or national origin, in any of the benefits or activities described in subparagraphs (1)(A) through (1)(E) or subparagraphs (2)(A) through (2)(F), or participating lawfully in speech or peaceful assembly opposing any denial of the opportunity to so participate—
+shall be fined under this title, or imprisoned not more than one year, or both; and if bodily injury results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire shall be fined under this title, or imprisoned not more than ten years, or both; and if death results from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, shall be fined under this title or imprisoned for any term of years or for life, or both, or may be sentenced to death. As used in this section, the term “participating lawfully in speech or peaceful assembly” shall not mean the aiding, abetting, or inciting of other persons to riot or to commit any act of physical violence upon any individual or against any real or personal property in furtherance of a riot. Nothing in subparagraph (2)(F) or (4)(A) of this subsection shall apply to the proprietor of any establishment which provides lodging to transient guests, or to any employee acting on behalf of such proprietor, with respect to the enjoyment of the goods, services, facilities, privileges, advantages, or accommodations of such establishment if such establishment is located within a building which contains not more than five rooms for rent or hire and which is actually occupied by the proprietor as his residence.
+
+**(c)** Nothing in this section shall be construed so as to deter any law enforcement officer from lawfully carrying out the duties of his office; and no law enforcement officer shall be considered to be in violation of this section for lawfully carrying out the duties of his office or lawfully enforcing ordinances and laws of the United States, the District of Columbia, any of the several States, or any political subdivision of a State. For purposes of the preceding sentence, the term “law enforcement officer” means any officer of the United States, the District of Columbia, a State, or political subdivision of a State, who is empowered by law to conduct investigations of, or make arrests because of, offenses against the United States, the District of Columbia, a State, or a political subdivision of a State.
+
+**(d)** For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+### Statutory Notes
+
+#### Amendments
+1996—Subsec. (b). Pub. L. 104–294 amended Pub. L. 103–322, § 320103(c). See 1994 Amendment notes below.
+
+1994—Subsec. (b). Pub. L. 103–322, § 330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” before “, or imprisoned not more than ten years” in concluding provisions.
+
+Pub. L. 103–322, § 330016(1)(H), substituted “shall be fined under this title” for “shall be fined not more than $1,000” before “, or imprisoned not more than one year” in concluding provisions.
+
+Pub. L. 103–322, § 320103(c)(4)–(6), in concluding provisions, inserted “from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill,” after “death results” and substituted “shall be fined under this title or imprisoned for any term of years or for life, or both” for “shall be subject to imprisonment for any term of years or for life”.
+
+Pub. L. 103–322, § 320103(c)(3), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(L), above, was repealed by Pub. L. 104–294, § 604(b)(14)(C).
+
+Pub. L. 103–322, § 320103(c)(2), as amended by Pub. L. 104–294, § 604(b)(37), inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “bodily injury results” in concluding provisions.
+
+Pub. L. 103–322, § 320103(c)(1), which provided for amendment identical to Pub. L. 103–322, § 330016(1)(H), above, was repealed by Pub. L. 104–294, § 604(b)(14)(C).
+
+Pub. L. 103–322, § 60006(c), in concluding provisions, inserted “, or may be sentenced to death” before “. As used in this section”.
+
+1990—Subsec. (d). Pub. L. 101–647 added subsec. (d).
+
+1988—Subsec. (a)(1). Pub. L. 100–690 substituted “, the Deputy” for “or the Deputy” and inserted “, the Associate Attorney General, or any Assistant Attorney General specially designated by the Attorney General” after “Deputy Attorney General”.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).
+
+#### Fair Housing
+Pub. L. 90–284, title I, § 101(b), Apr. 11, 1968, 82 Stat. 75, provided that: “Nothing contained in this section [enacting this section] shall apply to or affect activities under title VIII of this Act [sections 3601 to 3619 of Title 42, The Public Health and Welfare].”
+
+#### Riots or Civil Disturbances, Suppression and Restoration of Law and Order; Acts or Omissions of Enforcement Officers and Members of Military Service Not Subject to This Section
+Pub. L. 90–284, title I, § 101(c), Apr. 11, 1968, 82 Stat. 75, provided that: “The provisions of this section [enacting this section] shall not apply to acts or omissions on the part of law enforcement officers, members of the National Guard, as defined in [section 101(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/9&num=0&edition=prelim), United States Code, members of the organized militia of any State or the District of Columbia, not covered by such section 101(9), or members of the Armed Forces of the United States, who are engaged in suppressing a riot or civil disturbance or restoring law and order during a riot or civil disturbance.”
+
+
+<a id="section-246"></a>
+## § 246. Deprivation of relief benefits
+
+Whoever directly or indirectly deprives, attempts to deprive, or threatens to deprive any person of any employment, position, work, compensation, or other benefit provided for or made possible in whole or in part by any Act of Congress appropriating funds for work relief or relief purposes, on account of political affiliation, race, color, sex, religion, or national origin, shall be fined under this title, or imprisoned not more than one year, or both.
+
+### Statutory Notes
+
+#### Amendments
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+
+
+<a id="section-247"></a>
+## § 247. Damage to religious property; obstruction of persons in the free exercise of religious beliefs
+**(a)** Whoever, in any of the circumstances referred to in subsection (b) of this section—
+
+(1) intentionally defaces, damages, or destroys any religious real property, because of the religious character of that property, or attempts to do so; or
+
+(2) intentionally obstructs, by force or threat of force, any person in the enjoyment of that person’s free exercise of religious beliefs, or attempts to do so;
+shall be punished as provided in subsection (d).
+
+**(b)** The circumstances referred to in subsection (a) are that the offense is in or affects interstate or foreign commerce.
+
+**(c)** Whoever intentionally defaces, damages, or destroys any religious real property because of the race, color, or ethnic characteristics of any individual associated with that religious property, or attempts to do so, shall be punished as provided in subsection (d).
+
+**(d)** The punishment for a violation of subsection (a) of this section shall be—
+
+(1) if death results from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, a fine in accordance with this title and imprisonment for any term of years or for life, or both, or may be sentenced to death;
+
+(2) if bodily injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section, and the violation is by means of fire or an explosive, a fine under this title or imprisonment for not more that 40 years, or both;
+
+(3) if bodily injury to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section, results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, a fine in accordance with this title and imprisonment for not more than 20 years, or both; and
+
+(4) in any other case, a fine in accordance with this title and imprisonment for not more than one year, or both.
+
+**(e)** No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General or his designee that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice.
+
+**(f)** As used in this section, the term “religious real property” means any church, synagogue, mosque, religious cemetery, or other religious real property, including fixtures or religious objects contained within a place of religious worship.
+
+**(g)** No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
+
+### Statutory Notes
+
+#### Amendments
+2002—Subsec. (d). Pub. L. 107–273, § 4002(c)(1), repealed amendment by Pub. L. 107–273, § 605(r). See 1996 Amendment note below.
+
+Subsec. (e). Pub. L. 107–273, § 4002(e)(4), made technical correction to directory language of Pub. L. 104–294, § 601(c)(3). See 1996 Amendment note below.
+
+1996—Subsec. (a). Pub. L. 104–155, § 3(1), substituted “subsection (d)” for “subsection (c) of this section” in concluding provisions.
+
+Subsec. (b). Pub. L. 104–155, § 3(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “The circumstances referred to in subsection (a) are that—
+
+“(1) in committing the offense, the defendant travels in interstate or foreign commerce, or uses a facility or instrumentality of interstate or foreign commerce in interstate or foreign commerce; and
+
+“(2) in the case of an offense under subsection (a)(1), the loss resulting from the defacement, damage, or destruction is more than $10,000.”
+
+Subsec. (c). Pub. L. 104–155, § 3(2), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 104–294, § 605(r), which directed the substitution of “certification” for “notification” in subsec. (d), was repealed by Pub. L. 107–273, § 4002(c)(1).
+
+Subsec. (d). Pub. L. 104–155, § 3(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(2). Pub. L. 104–155, § 3(4)(C), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 104–155, § 3(4)(A), (B), redesignated par. (2) as (3), inserted “to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section,” after “bodily injury” and substituted “20 years” for “ten years”. Former par. (3) redesignated (4).
+
+Subsec. (d)(4). Pub. L. 104–155, § 3(4)(B), redesignated par. (3) as (4).
+
+Subsec. (e). Pub. L. 104–294, § 601(c)(3), as amended by Pub. L. 107–273, § 4002(e)(4), substituted “certification” for “notification”.
+
+Pub. L. 104–155, § 3(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 104–155, § 3(2), (5), redesignated subsec. (e) as (f), inserted “, including fixtures or religious objects contained within a place of religious worship” before the period, and substituted “religious real property” for “religious property” in two places.
+
+Subsec. (g). Pub. L. 104–155, § 3(6), added subsec. (g).
+
+1994—Subsec. (c)(1). Pub. L. 103–322, § 320103(d)(1), inserted “from acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill” after “death results”.
+
+Pub. L. 103–322, § 60006(d), inserted “, or may be sentenced to death” after “or both”.
+
+Subsec. (c)(2). Pub. L. 103–322, § 320103(d)(2), struck out “serious” before “bodily” and inserted “from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire” after “injury results”.
+
+Subsec. (e). Pub. L. 103–322, § 320103(d)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “As used in this section—
+
+“(1) the term ‘religious real property’ means any church, synagogue, mosque, religious cemetery, or other religious real property; and
+
+“(2) the term ‘serious bodily injury’ means bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.”
+
+#### Effective Date of 2002 Amendment
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+
+Pub. L. 107–273, div. B, title IV, § 4002(e)(4), Nov. 2, 2002, 116 Stat. 1810, provided that the amendment made by section 4002(e)(4) is effective Oct. 11, 1996.
+
+#### Congressional Findings
+Pub. L. 104–155, § 2, July 3, 1996, 110 Stat. 1392, provided that: “The Congress finds the following: “(1) The incidence of arson or other destruction or vandalism of places of religious worship, and the incidence of violent interference with an individual’s lawful exercise or attempted exercise of the right of religious freedom at a place of religious worship pose a serious national problem. “(2) The incidence of arson of places of religious worship has recently increased, especially in the context of places of religious worship that serve predominantly African-American congregations. “(3) Changes in Federal law are necessary to deal properly with this problem. “(4) Although local jurisdictions have attempted to respond to the challenges posed by such acts of destruction or damage to religious property, the problem is sufficiently serious, widespread, and interstate in scope to warrant Federal intervention to assist State and local jurisdictions. “(5) Congress has authority, pursuant to the Commerce Clause of the Constitution, to make acts of destruction or damage to religious property a violation of Federal law. “(6) Congress has authority, pursuant to section 2 of the 13th amendment to the Constitution, to make actions of private citizens motivated by race, color, or ethnicity that interfere with the ability of citizens to hold or use religious property without fear of attack, violations of Federal criminal law.”
+
+
+<a id="section-248"></a>
+## § 248. Freedom of access to clinic entrances
+**(a) Prohibited Activities.—** Whoever—
+
+(1) by force or threat of force or by physical obstruction, intentionally injures, intimidates or interferes with or attempts to injure, intimidate or interfere with any person because that person is or has been, or in order to intimidate such person or any other person or any class of persons from, obtaining or providing reproductive health services;
+
+(2) by force or threat of force or by physical obstruction, intentionally injures, intimidates or interferes with or attempts to injure, intimidate or interfere with any person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship; or
+
+(3) intentionally damages or destroys the property of a facility, or attempts to do so, because such facility provides reproductive health services, or intentionally damages or destroys the property of a place of religious worship,
+shall be subject to the penalties provided in subsection (b) and the civil remedies provided in subsection (c), except that a parent or legal guardian of a minor shall not be subject to any penalties or civil remedies under this section for such activities insofar as they are directed exclusively at that minor.
+
+**(b) Penalties.—** Whoever violates this section shall—
+
+(1) in the case of a first offense, be fined in accordance with this title, or imprisoned not more than one year, or both; and
+
+(2) in the case of a second or subsequent offense after a prior conviction under this section, be fined in accordance with this title, or imprisoned not more than 3 years, or both;
+except that for an offense involving exclusively a nonviolent physical obstruction, the fine shall be not more than $10,000 and the length of imprisonment shall be not more than six months, or both, for the first offense; and the fine shall, notwithstanding section 3571, be not more than $25,000 and the length of imprisonment shall be not more than 18 months, or both, for a subsequent offense; and except that if bodily injury results, the length of imprisonment shall be not more than 10 years, and if death results, it shall be for any term of years or for life.
+
+**(c) Civil Remedies.—**
+
+(1) **Right of action.—**
+
+  (A) *In general.—* — Any person aggrieved by reason of the conduct prohibited by subsection (a) may commence a civil action for the relief set forth in subparagraph (B), except that such an action may be brought under subsection (a)(1) only by a person involved in providing or seeking to provide, or obtaining or seeking to obtain, services in a facility that provides reproductive health services, and such an action may be brought under subsection (a)(2) only by a person lawfully exercising or seeking to exercise the First Amendment right of religious freedom at a place of religious worship or by the entity that owns or operates such place of religious worship.
+
+  (B) *Relief.—* — In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief and compensatory and punitive damages, as well as the costs of suit and reasonable fees for attorneys and expert witnesses. With respect to compensatory damages, the plaintiff may elect, at any time prior to the rendering of final judgment, to recover, in lieu of actual damages, an award of statutory damages in the amount of $5,000 per violation.
+
+(2) **Action by attorney general of the united states.—**
+
+  (A) *In general.—* — If the Attorney General of the United States has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, the Attorney General may commence a civil action in any appropriate United States District Court.
+
+  (B) *Relief.—* — In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, and compensatory damages to persons aggrieved as described in paragraph (1)(B). The court, to vindicate the public interest, may also assess a civil penalty against each respondent—
+
+    (i) in an amount not exceeding $10,000 for a nonviolent physical obstruction and $15,000 for other first violations; and
+
+    (ii) in an amount not exceeding $15,000 for a nonviolent physical obstruction and $25,000 for any other subsequent violation.
+
+(3) **Actions by state attorneys general.—**
+
+  (A) *In general.—* — If the Attorney General of a State has reasonable cause to believe that any person or group of persons is being, has been, or may be injured by conduct constituting a violation of this section, such Attorney General may commence a civil action in the name of such State, as parens patriae on behalf of natural persons residing in such State, in any appropriate United States District Court.
+
+  (B) *Relief.—* — In any action under subparagraph (A), the court may award appropriate relief, including temporary, preliminary or permanent injunctive relief, compensatory damages, and civil penalties as described in paragraph (2)(B).
+
+**(d) Rules of Construction.—** Nothing in this section shall be construed—
+
+(1) to prohibit any expressive conduct (including peaceful picketing or other peaceful demonstration) protected from legal prohibition by the First Amendment to the Constitution;
+
+(2) to create new remedies for interference with activities protected by the free speech or free exercise clauses of the First Amendment to the Constitution, occurring outside a facility, regardless of the point of view expressed, or to limit any existing legal remedies for such interference;
+
+(3) to provide exclusive criminal penalties or civil remedies with respect to the conduct prohibited by this section, or to preempt State or local laws that may provide such penalties or remedies; or
+
+(4) to interfere with the enforcement of State or local laws regulating the performance of abortions or other reproductive health services.
+
+**(e) Definitions.—** As used in this section:
+
+(1) **Facility.—** — The term “facility” includes a hospital, clinic, physician’s office, or other facility that provides reproductive health services, and includes the building or structure in which the facility is located.
+
+(2) **Interfere with.—** — The term “interfere with” means to restrict a person’s freedom of movement.
+
+(3) **Intimidate.—** — The term “intimidate” means to place a person in reasonable apprehension of bodily harm to him- or herself or to another.
+
+(4) **Physical obstruction.—** — The term “physical obstruction” means rendering impassable ingress to or egress from a facility that provides reproductive health services or to or from a place of religious worship, or rendering passage to or from such a facility or place of religious worship unreasonably difficult or hazardous.
+
+(5) **Reproductive health services.—** — The term “reproductive health services” means reproductive health services provided in a hospital, clinic, physician’s office, or other facility, and includes medical, surgical, counselling or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
+
+(6) **State.—** — The term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+### Statutory Notes
+
+#### Amendments
+1994—Pub. L. 103–322, § 330023(a)(2), amended section catchline generally. Prior to amendment, catchline read as follows: “§ 248 Freedom of Access to Clinic Entrances.”
+
+Subsec. (b). Pub. L. 103–322, § 330023(a)(3), in concluding provisions, inserted “, notwithstanding section 3571,” before “be not more than $25,000”.
+
+#### Effective Date of 1994 Amendment
+Pub. L. 103–322, title XXXIII, § 330023(b), Sept. 13, 1994, 108 Stat. 2150, provided that: “The amendments made by this subsection (a) [amending this section] shall take effect on the date of enactment of the Freedom of Access to Clinic Entrances Act of 1994 [May 26, 1994].”
+
+#### Effective Date
+Pub. L. 103–259, § 6, May 26, 1994, 108 Stat. 697, provided that: “This Act [see Short Title note below] takes effect on the date of the enactment of this Act [May 26, 1994], and shall apply only with respect to conduct occurring on or after such date.”
+
+#### Short Title
+Pub. L. 103–259, § 1, May 26, 1994, 108 Stat. 694, provided that: “This Act [enacting this section and provisions set out as notes under this section] may be cited as the ‘Freedom of Access to Clinic Entrances Act of 1994’.”
+
+#### Severability of Provisions
+Pub. L. 103–259, § 5, May 26, 1994, 108 Stat. 697, provided that: “If any provision of this Act [see Short Title note above], an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any other person or circumstance shall not be affected thereby.”
+
+#### Congressional Statement of Purpose
+Pub. L. 103–259, § 2, May 26, 1994, 108 Stat. 694, provided that: “Pursuant to the affirmative power of Congress to enact this legislation under section 8 of article I of the Constitution, as well as under section 5 of the fourteenth amendment to the Constitution, it is the purpose of this Act [see Short Title note above] to protect and promote the public safety and health and activities affecting interstate commerce by establishing Federal criminal penalties and civil remedies for certain violent, threatening, obstructive and destructive conduct that is intended to injure, intimidate or interfere with persons seeking to obtain or provide reproductive health services.”
+
+
+<a id="section-249"></a>
+## § 249. Hate crime acts
+**(a) In General.—**
+
+(1) **Offenses involving actual or perceived race, color, religion, or national origin.—** — Whoever, whether or not acting under color of law, willfully causes bodily injury to any person or, through the use of fire, a firearm, a dangerous weapon, or an explosive or incendiary device, attempts to cause bodily injury to any person, because of the actual or perceived race, color, religion, or national origin of any person—
+
+  (A) shall be imprisoned not more than 10 years, fined in accordance with this title, or both; and
+
+  (B) shall be imprisoned for any term of years or for life, fined in accordance with this title, or both, if—
+
+    (i) death results from the offense; or
+
+    (ii) the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
+
+(2) **Offenses involving actual or perceived religion, national origin, gender, sexual orientation, gender identity, or disability.—**
+
+  (A) *In general.—* — Whoever, whether or not acting under color of law, in any circumstance described in subparagraph (B) or paragraph (3), willfully causes bodily injury to any person or, through the use of fire, a firearm, a dangerous weapon, or an explosive or incendiary device, attempts to cause bodily injury to any person, because of the actual or perceived religion, national origin, gender, sexual orientation, gender identity, or disability of any person—
+
+    (i) shall be imprisoned not more than 10 years, fined in accordance with this title, or both; and
+
+    (ii) shall be imprisoned for any term of years or for life, fined in accordance with this title, or both, if—
+
+      (I) death results from the offense; or
+
+      (II) the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
+
+  (B) *Circumstances described.—* — For purposes of subparagraph (A), the circumstances described in this subparagraph are that—
+
+    (i) the conduct described in subparagraph (A) occurs during the course of, or as the result of, the travel of the defendant or the victim—
+
+      (I) across a State line or national border; or
+
+      (II) using a channel, facility, or instrumentality of interstate or foreign commerce;
+
+    (ii) the defendant uses a channel, facility, or instrumentality of interstate or foreign commerce in connection with the conduct described in subparagraph (A);
+
+    (iii) in connection with the conduct described in subparagraph (A), the defendant employs a firearm, dangerous weapon, explosive or incendiary device, or other weapon that has traveled in interstate or foreign commerce; or
+
+    (iv) the conduct described in subparagraph (A)—
+
+      (I) interferes with commercial or other economic activity in which the victim is engaged at the time of the conduct; or
+
+      (II) otherwise affects interstate or foreign commerce.
+
+(3) **Offenses occurring in the special maritime or territorial jurisdiction of the united states.—** — Whoever, within the special maritime or territorial jurisdiction of the United States, engages in conduct described in paragraph (1) or in paragraph (2)(A) (without regard to whether that conduct occurred in a circumstance described in paragraph (2)(B)) shall be subject to the same penalties as prescribed in those paragraphs.
+
+(4) **Guidelines.—** — All prosecutions conducted by the United States under this section shall be undertaken pursuant to guidelines issued by the Attorney General, or the designee of the Attorney General, to be included in the United States Attorneys’ Manual that shall establish neutral and objective criteria for determining whether a crime was committed because of the actual or perceived status of any person.
+
+**(b) Certification Requirement.—**
+
+(1) **In general.—** — No prosecution of any offense described in this subsection may be undertaken by the United States, except under the certification in writing of the Attorney General, or a designee, that—
+
+  (A) the State does not have jurisdiction;
+
+  (B) the State has requested that the Federal Government assume jurisdiction;
+
+  (C) the verdict or sentence obtained pursuant to State charges left demonstratively unvindicated the Federal interest in eradicating bias-motivated violence; or
+
+  (D) a prosecution by the United States is in the public interest and necessary to secure substantial justice.
+
+(2) **Rule of construction.—** — Nothing in this subsection shall be construed to limit the authority of Federal officers, or a Federal grand jury, to investigate possible violations of this section.
+
+**(c) Definitions.—** In this section—
+
+(1) the term “bodily injury” has the meaning given such term in [section 1365(h)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1365/h/4&num=0&edition=prelim), but does not include solely emotional or psychological harm to the victim;
+
+(2) the term “explosive or incendiary device” has the meaning given such term in [section 232 of this title](./chapter-012-civil-disorders.md#section-232);
+
+(3) the term “firearm” has the meaning given such term in [section 921(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a&num=0&edition=prelim);
+
+(4) the term “gender identity” means actual or perceived gender-related characteristics; and
+
+(5) the term “State” includes the District of Columbia, Puerto Rico, and any other territory or possession of the United States.
+
+**(d) Statute of Limitations.—**
+
+(1) **Offenses not resulting in death.—** — Except as provided in paragraph (2), no person shall be prosecuted, tried, or punished for any offense under this section unless the indictment for such offense is found, or the information for such offense is instituted, not later than 7 years after the date on which the offense was committed.
+
+(2) **Death resulting offenses.—** — An indictment or information alleging that an offense under this section resulted in death may be found or instituted at any time without limitation.
+
+### Statutory Notes
+
+#### Amendments
+2009—Subsec. (a)(4). Pub. L. 111–84, § 4711, added par. (4).
+
+#### Severability
+Pub. L. 111–84, div. E, § 4709, Oct. 28, 2009, 123 Stat. 2841, provided that: “If any provision of this division [enacting this section and [section 1389 of this title](./chapter-067-military-and-navy.md#section-1389) and sections 3716 and 3716a of Title 42, The Public Health and Welfare, amending this section, enacting provisions set out as notes under this section and [section 3716 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3716&num=0&edition=prelim), and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure], an amendment made by this division, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this division, the amendments made by this division, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+
+#### Rule of Construction
+Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841, provided that: “For purposes of construing this division [see Severability note above] and the amendments made by this division the following shall apply: “(1) In general.—Nothing in this division shall be construed to allow a court, in any criminal trial for an offense described under this division or an amendment made by this division, in the absence of a stipulation by the parties, to admit evidence of speech, beliefs, association, group membership, or expressive conduct unless that evidence is relevant and admissible under the Federal Rules of Evidence. Nothing in this division is intended to affect the existing rules of evidence. “(2) Violent acts.—This division applies to violent acts motivated by actual or perceived race, color, religion, national origin, gender, sexual orientation, gender identity, or disability of a victim. “(3) Construction and application.—Nothing in this division, or an amendment made by this division, shall be construed or applied in a manner that infringes any rights under the first amendment to the Constitution of the United States. Nor shall anything in this division, or an amendment made by this division, be construed or applied in a manner that substantially burdens a person’s exercise of religion (regardless of whether compelled by, or central to, a system of religious belief), speech, expression, or association, unless the Government demonstrates that application of the burden to the person is in furtherance of a compelling governmental interest and is the least restrictive means of furthering that compelling governmental interest, if such exercise of religion, speech, expression, or association was not intended to—“(A) plan or prepare for an act of physical violence; or “(B) incite an imminent act of physical violence against another. “(4) Free expression.—Nothing in this division shall be construed to allow prosecution based solely upon an individual’s expression of racial, religious, political, or other beliefs or solely upon an individual’s membership in a group advocating or espousing such beliefs. “(5) First amendment.—Nothing in this division, or an amendment made by this division, shall be construed to diminish any rights under the first amendment to the Constitution of the United States. “(6) Constitutional protections.—Nothing in this division shall be construed to prohibit any constitutionally protected speech, expressive conduct or activities (regardless of whether compelled by, or central to, a system of religious belief), including the exercise of religion protected by the first amendment to the Constitution of the United States and peaceful picketing or demonstration. The Constitution of the United States does not protect speech, conduct or activities consisting of planning for, conspiring to commit, or committing an act of violence.”
+
+#### Findings
+Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835, provided that: “Congress makes the following findings: “(1) The incidence of violence motivated by the actual or perceived race, color, religion, national origin, gender, sexual orientation, gender identity, or disability of the victim poses a serious national problem. “(2) Such violence disrupts the tranquility and safety of communities and is deeply divisive. “(3) State and local authorities are now and will continue to be responsible for prosecuting the overwhelming majority of violent crimes in the United States, including violent crimes motivated by bias. These authorities can carry out their responsibilities more effectively with greater Federal assistance. “(4) Existing Federal law is inadequate to address this problem. “(5) A prominent characteristic of a violent crime motivated by bias is that it devastates not just the actual victim and the family and friends of the victim, but frequently savages the community sharing the traits that caused the victim to be selected. “(6) Such violence substantially affects interstate commerce in many ways, including the following:“(A) The movement of members of targeted groups is impeded, and members of such groups are forced to move across State lines to escape the incidence or risk of such violence. “(B) Members of targeted groups are prevented from purchasing goods and services, obtaining or sustaining employment, or participating in other commercial activity. “(C) Perpetrators cross State lines to commit such violence. “(D) Channels, facilities, and instrumentalities of interstate commerce are used to facilitate the commission of such violence. “(E) Such violence is committed using articles that have traveled in interstate commerce. “(7) For generations, the institutions of slavery and involuntary servitude were defined by the race, color, and ancestry of those held in bondage. Slavery and involuntary servitude were enforced, both prior to and after the adoption of the 13th amendment to the Constitution of the United States, through widespread public and private violence directed at persons because of their race, color, or ancestry, or perceived race, color, or ancestry. Accordingly, eliminating racially motivated violence is an important means of eliminating, to the extent possible, the badges, incidents, and relics of slavery and involuntary servitude. “(8) Both at the time when the 13th, 14th, and 15th amendments to the Constitution of the United States were adopted, and continuing to date, members of certain religious and national origin groups were and are perceived to be distinct ‘races’. Thus, in order to eliminate, to the extent possible, the badges, incidents, and relics of slavery, it is necessary to prohibit assaults on the basis of real or perceived religions or national origins, at least to the extent such religions or national origins were regarded as races at the time of the adoption of the 13th, 14th, and 15th amendments to the Constitution of the United States. “(9) Federal jurisdiction over certain violent crimes motivated by bias enables Federal, State, and local authorities to work together as partners in the investigation and prosecution of such crimes. “(10) The problem of crimes motivated by bias is sufficiently serious, widespread, and interstate in nature as to warrant Federal assistance to States, local jurisdictions, and Indian tribes.”
+
+[For definitions of “State” and “local” used in section 4702 of Pub. L. 111–84, set out above, see section 4703(b) of Pub. L. 111–84, set out as a note under [section 3716 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3716&num=0&edition=prelim), The Public Health and Welfare.]

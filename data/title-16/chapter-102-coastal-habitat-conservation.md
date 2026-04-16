@@ -1,0 +1,149 @@
+---
+title: 16
+chapter: '102'
+heading: COASTAL HABITAT CONSERVATION
+section_count: 5
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
+---
+<a id="section-8301"></a>
+## § 8301. Purpose
+
+The purpose of this chapter is to legislatively authorize the Coastal Program of the Service in effect as of December 11, 2024, to conduct collaborative landscape-level planning and on-the-ground coastal habitat assessment, coastal habitat protection, coastal habitat restoration, and coastal habitat enhancement projects in priority coastal landscapes to conserve and recover Federal trust species.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 118–138, § 1, Dec. 11, 2024, 138 Stat. 1651, provided that: “This Act [enacting this chapter] may be cited as the ‘Coastal Habitat Conservation Act of 2023’.”
+
+
+<a id="section-8302"></a>
+## § 8302. Definitions
+
+In this chapter:
+
+(1) **Coastal ecosystem** — The term “coastal ecosystem” means a biological community of organisms interacting with each other and their habitats in a coastal landscape.
+
+(2) **Coastal habitat assessment** — The term “coastal habitat assessment” means the process of evaluating the physical, chemical, and biological function of a coastal site to determine the value of the site to fish and wildlife.
+
+(3) **Coastal habitat enhancement** — The term “coastal habitat enhancement” means the manipulation of the physical, chemical, or biological characteristics of a coastal ecosystem to increase or decrease specific biological functions that make the ecosystem valuable to fish and wildlife.
+
+(4) **Coastal habitat planning** — The term “coastal habitat planning” means the process of developing a comprehensive plan that—
+
+  (A) characterizes a coastal ecosystem;
+
+  (B) sets protection, restoration, or enhancement goals and identifies the priorities of those goals;
+
+  (C) describes conservation strategies and methodologies;
+
+  (D) establishes a timetable for implementation of the plan; and
+
+  (E) identifies roles of participants and stakeholders.
+
+(5) **Coastal habitat protection**
+
+  (A) *In general* — The term “coastal habitat protection” means a long-term action to safeguard habitat of value to fish and wildlife in a coastal ecosystem.
+
+  (B) *Inclusion* — The term “coastal habitat protection” includes activities to support establishment of a conservation easement or fee title acquisition by Federal and non-Federal partners.
+
+(6) **Coastal habitat restoration** — The term “coastal habitat restoration” means the manipulation of the physical, chemical, or biological characteristics of a coastal ecosystem with the goal of returning, to the maximum extent practicable, the full natural biological functions to lost or degraded native habitat.
+
+(7) **Coastal landscape** — The term “coastal landscape” means a portion of a coastal ecosystem within or adjacent to a coastal State that contains various habitat types, including—
+
+  (A) a fresh or saltwater wetland in a coastal watershed;
+
+  (B) a coastal river, stream, or waterway;
+
+  (C) a coastal bay or estuary;
+
+  (D) a seagrass bed, reef, or other nearshore marine habitat;
+
+  (E) a beach or dune system;
+
+  (F) a mangrove forest; and
+
+  (G) an associated coastal upland.
+
+(8) **Coastal State** — The term “coastal State” means—
+
+  (A) a State in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, the Long Island Sound, or 1 or more of the Great Lakes;
+
+  (B) the District of Columbia;
+
+  (C) the Commonwealth of Puerto Rico;
+
+  (D) Guam;
+
+  (E) American Samoa;
+
+  (F) the Commonwealth of the Northern Mariana Islands;
+
+  (G) the Federated States of Micronesia;
+
+  (H) the Republic of the Marshall Islands;
+
+  (I) the Republic of Palau; and
+
+  (J) the United States Virgin Islands.
+
+(9) **Federal trust species** — The term “Federal trust species” means migratory birds, threatened species or endangered species listed under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), interjurisdictional fish, and marine mammals for which the Secretary has management authority.
+
+(10) **Financial assistance** — The term “financial assistance” means Federal funding provided to Federal, State, local, or Tribal governments, nongovernmental institutions, nonprofit organizations, and private individuals and entities through a grant or cooperative agreement.
+
+(11) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(12) **Service** — The term “Service” means the United States Fish and Wildlife Service.
+
+(13) **Technical assistance** — The term “technical assistance” means a collaboration, facilitation, or consulting action relating to a coastal habitat planning, coastal habitat assessment, coastal habitat protection, coastal habitat restoration, or coastal habitat enhancement project or initiative in which the Service contributes scientific knowledge, skills, and expertise to the project or initiative.
+
+### Statutory Notes
+
+#### References in Text
+The Endangered Species Act of 1973, referred to in par. (9), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+
+<a id="section-8303"></a>
+## § 8303. Coastal Program
+
+The Secretary shall carry out the Coastal Program within the Service to—
+
+(1) identify the leading threats to priority coastal landscapes and conservation actions to address those threats in partnership with Federal, State, local, and Tribal governments, nongovernmental institutions, nonprofit organizations, and private individuals and entities;
+
+(2) provide technical assistance and financial assistance through partnerships with Federal, State, local, and Tribal governments, nongovernmental institutions, nonprofit organizations, and private individuals and entities to conduct voluntary coastal habitat planning, coastal habitat assessment, coastal habitat protection, coastal habitat restoration, and coastal habitat enhancement projects on public land or private land;
+
+(3) ensure the health and resilience of coastal ecosystems through adaptive management procedures based on the best available science;
+
+(4) build the capacity of Federal, State, local, and Tribal governments, nongovernmental institutions, nonprofit organizations, and private individuals and entities to carry out environmental conservation and stewardship measures;
+
+(5) assist in the development and implementation of monitoring protocols to ensure the success of coastal ecosystem restoration and coastal ecosystem enhancement measures; and
+
+(6) collaborate and share information with partners and the public relating to best management practices for the conservation, restoration, and enhancement of coastal ecosystems.
+
+
+<a id="section-8304"></a>
+## § 8304. Reports
+**(a) In general** Not later than 1 year after December 11, 2024, and annually thereafter, the Secretary, acting through the Director of the Service, shall submit to the Committees on Appropriations and Natural Resources of the House of Representatives and the Committees on Appropriations and Environment and Public Works of the Senate, and make available to the public on the website of the Service, a report on the Coastal Program carried out under this chapter.
+
+**(b) Requirements** Each report submitted under subsection (a) shall assess on regional and nationwide bases—
+
+(1) Coastal Program work on coastal ecosystems;
+
+(2) progress made by the Coastal Program toward identifying the leading threats to priority coastal landscapes and conservation actions to address those threats; and
+
+(3) prospects for, and success of, protecting, restoring, and enhancing coastal ecosystems.
+
+**(c) Inclusions** Each report submitted under subsection (a) shall include—
+
+(1) quantitative information on coastal landscapes protected, restored, or enhanced;
+
+(2) funds appropriated to the Coastal Program that have been expended or leveraged;
+
+(3) a description of adaptive management practices implemented; and
+
+(4) a description of emerging challenges or data gaps that hinder the ability of the Coastal Program to achieve the purpose of this chapter.
+
+
+<a id="section-8305"></a>
+## § 8305. Authorization of appropriations
+
+There is authorized to be appropriated to carry out this chapter $16,957,000 for each of fiscal years 2024 through 2028.

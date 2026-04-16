@@ -1,0 +1,505 @@
+---
+title: 14
+chapter: '9'
+heading: COAST GUARD ACADEMY
+section_count: 21
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
+---
+<a id="section-181"></a>
+## § 181. Administration of Academy
+
+The immediate government and military command of the Coast Guard Academy shall be in the Superintendent of the Academy, subject to the direction of the Commandant under the general supervision of the Secretary. The Commandant may select a superintendent from the active list of the Coast Guard who shall serve in the pleasure of the Commandant.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+This section does not change the present method of administration of the Academy. It makes statutory what has been administrative regulation heretofore, and it is believed highly desirable to make the control of an institution of such national interest as the Academy the subject of a statute.
+
+This section is new. There is no provision in existing law which establishes the Academy and sets it up as an operating unit. Nor is there any provision which creates the office of Superintendent of the Academy, or prescribes his duties and functions. Heretofore this has been accomplished by regulations, and the laws which deal with the Academy assume its existence as a going institution and assume the existence of the Superintendent with certain defined functions and duties. This section continues the Academy as previously established, provides for the appointment of the Superintendent by the Commandant, and defines in general terms his functions. The Academy would thus be placed on a definite statutory basis, and the office of Superintendent would be a statutory position, but the present administration of the Academy would in no way be interfered with. 81st Congress, House Report No. 557.
+
+
+<a id="section-181a"></a>
+## § 181a. Cadet applicants; preappointment travel to Academy
+
+The Secretary is authorized to expend appropriated funds for selective preappointment travel to the Academy for orientation visits of cadet applicants.
+
+
+<a id="section-182"></a>
+## § 182. Cadets; number, appointment, obligation to serve
+**(a)** The number of cadets appointed annually to the Academy shall be as determined by the Secretary but the number appointed in any one year shall not exceed six hundred. Appointments to cadetships shall be made under regulations prescribed by the Secretary, who shall determine age limits, methods of selection of applicants, term of service as a cadet before graduation, and all other matters affecting such appointments. In the administration of this chapter, the Secretary shall take such action as may be necessary and appropriate to insure that female individuals shall be eligible for appointment and admission to the Coast Guard Academy, and that the relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals. The Secretary may summarily dismiss from the Coast Guard any cadet who, during his cadetship, is found unsatisfactory in either studies or conduct, or may be deemed not adapted for a career in the Coast Guard. Cadets shall be subject to rules governing discipline prescribed by the Commandant.
+
+**(b)** Each cadet shall sign an agreement with respect to the cadet’s length of service in the Coast Guard. The agreement shall provide that the cadet agrees to the following:
+
+(1) That the cadet will complete the course of instruction at the Coast Guard Academy.
+
+(2) That upon graduation from the Coast Guard Academy the cadet—
+
+  (A) will accept an appointment, if tendered, as a commissioned officer of the Coast Guard; and
+
+  (B) will serve on active duty for at least five years immediately after such appointment.
+
+(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before the completion of the commissioned service obligation of the cadet, the cadet—
+
+  (A) will accept an appointment as a commissioned officer in the Coast Guard Reserve; and
+
+  (B) will remain in that reserve component until completion of the commissioned service obligation of the cadet.
+
+**(c)**
+
+(1) The Secretary may transfer to the Coast Guard Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (b). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to [section 651(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651/a&num=0&edition=prelim).
+
+(2) A cadet who is transferred to the Coast Guard Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
+
+(3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (b) if the cadet is separated from the Coast Guard Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet’s agreement to complete the course of instruction at the Coast Guard Academy and accept an appointment as a commissioned officer upon graduation from the Coast Guard Academy.
+
+**(d)** The Secretary shall prescribe regulations to carry out this section. Those regulations shall include—
+
+(1) standards for determining what constitutes, for the purpose of subsection (c), a breach of an agreement under subsection (b);
+
+(2) procedures for determining whether such a breach has occurred; and
+
+(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (c).
+
+**(e)** In this section, “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer’s appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary, any later date up to the eighth anniversary of such appointment.
+
+**(f)**
+
+(1) This section does not apply to a cadet who is not a citizen or national of the United States.
+
+(2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (b) only with the consent of the parent or guardian.
+
+**(g)** A cadet or former cadet who does not fulfill the terms of the obligation to serve as specified under section (b), or the alternative obligation imposed under subsection (c), shall be subject to the repayment provisions of [section 303a(e) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section303a/e&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on the proviso under the heading “Revenue Cutter Service” of act Feb. 25, 1903, ch. 755, 32 Stat. 869, and on title 14, U.S.C., 1946 ed., §§ 15, 15a–1, 25 (June 23, 1906, ch. 3520, § 2, 34 Stat. 452; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; July 3, 1926, ch. 742, § 6, 44 Stat. 816; July 30, 1937, ch. 545, § 5, 50 Stat. 549; May 25, 1943, ch. 99, 57 Stat. 84).
+
+[Section 15 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section15&num=0&edition=prelim), U.S.C., 1946 ed., has been divided. That part dealing with clothing allowance for cadets is placed in [section 183 of this title](./chapter-009-coast-guard-academy.md#section-183) and the other parts are incorporated with the proviso of title 14, U.S.C., 1946 ed., § 15a–1 to form this section.
+
+[Section 15a–1 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section15a–1&num=0&edition=prelim), U.S.C., 1946 ed., has been divided. That part dealing with the appointment of cadets to the grade of ensign is placed in [section 185 of this title](./chapter-009-coast-guard-academy.md#section-185), and the proviso is placed in this section.
+
+The length of term of service as a cadet prior to graduation is added to the list of matters specifically determined by the Secretary.
+
+The period of required service after graduation is increased from 3 to 4 years, to attain uniformity with the other service academies. 81st Congress, House Report No. 557.
+
+#### Amendments
+2010—Subsec. (a). Pub. L. 111–281 struck out “All such appointments shall be made without regard to the sex, race, color, or religious beliefs of an applicant.” before “In the administration”.
+
+2006—Subsec. (g). Pub. L. 109–163 added subsec. (g).
+
+1988—Subsec. (a). Pub. L. 100–448, § 12(1), struck out before last sentence “Previous to his admission each cadet shall obligate himself, in such manner as the Secretary shall prescribe, to complete the course of instruction at the Coast Guard Academy and to serve at least five years as an officer in the Coast Guard after graduation, if his service be so long required.”
+
+Subsecs. (b) to (f). Pub. L. 100–448, § 12(2), added subsecs. (b) to (f) and struck out former subsec. (b) which read as follows: “A cadet who does not fulfill his obligation to complete the course of instruction or refuses to accept an appointment as an officer in the Coast Guard may be transferred by the Secretary to the Coast Guard Reserve in an appropriate enlisted grade or rating, and, notwithstanding [section 651 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section651&num=0&edition=prelim), may be ordered to active duty to serve in that grade or rating for such period of time as the Secretary prescribes, but not for more than four years.”
+
+1982—Subsec. (b). Pub. L. 97–295 struck out “United States Code,” after “title 10,”.
+
+1976—Subsec. (a). Pub. L. 94–572 inserted provisions for nondiscriminatory appointment of cadets to the Coast Guard Academy.
+
+1970—Pub. L. 91–278 substituted “six hundred” for “four hundred” in first sentence, required each cadet to obligate himself to complete the course of instruction at the Academy, designated existing provisions as subsec. (a), and added subsec. (b).
+
+1966—Pub. L. 89–444 substituted “four hundred” for “three hundred” in first sentence.
+
+1964—Pub. L. 88–276 substituted “five” for “four” in fourth sentence.
+
+#### Effective Date of 1964 Amendment; Obligated Period of Service
+Amendment by Pub. L. 88–276 effective only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after Mar. 3, 1964, see section 5(c) of Pub. L. 88–276, set out as a note under [section 4348 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4348&num=0&edition=prelim), Armed Forces.
+
+#### Savings Provision
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(d) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under [section 510 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section510&num=0&edition=prelim), Armed Forces.
+
+
+<a id="section-183"></a>
+## § 183. Cadets; initial clothing allowance
+
+The Secretary may prescribe a sum which shall be credited to each new cadet upon first admission to the Academy, to cover the cost of his initial clothing and equipment issue, which sum shall be deducted subsequently from his pay. Each cadet discharged prior to graduation who is indebted to the United States on account of advances of pay to purchase required clothing and equipment shall be required to turn in to the Academy all clothing and equipment of a distinctively military nature to the extent required to discharge such indebtedness; and, if the value of such clothing and equipment so turned in does not cover the indebtedness incurred, then such indebtedness shall be canceled.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15 (June 23, 1906, ch. 3520, § 2, 34 Stat. 452; Jan. 28, 1915, ch. 20, § 1, 38 Stat. 800; July 3, 1926, ch. 742, § 6, 44 Stat. 816; July 30, 1937, ch. 545, § 5, 50 Stat. 549).
+
+Said section has been divided. That part dealing with clothing allowance for cadets is placed in this section and the other parts are incorporated in [section 182 of this title](./chapter-009-coast-guard-academy.md#section-182).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+1951—Act Aug. 22, 1951, substituted provision that the Secretary may prescribe the sum to be credited for the former prescribed sum of $250, and inserted second sentence.
+
+
+<a id="section-184"></a>
+## § 184. Cadets; degree of bachelor of science
+
+The Superintendent of the Academy may, under such rules and regulations as the Secretary shall prescribe, confer the degree of bachelor of science upon all graduates of the Academy and may, in addition, confer the degree of bachelor of science upon such other living graduates of the Academy as shall have met the requirements of the Academy for such degree.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15a (May 25, 1933, ch. 37, 48 Stat. 73; July 8, 1937, ch. 447, 50 Stat. 477; Aug. 9, 1946, ch. 928, 60 Stat. 961).
+
+Changes in phraseology were made inasmuch as the Academy is now accredited by the Association of American Universities. It was not so accredited when the section was enacted.
+
+Inasmuch as the acts cited above apply equally to the Military Academy and the Naval Academy, as well as the Coast Guard Academy, they are not scheduled for repeal but are being amended by section 13 of this act to eliminate reference to the Coast Guard. 81st Congress, House Report No. 557.
+
+
+<a id="section-185"></a>
+## § 185. Cadets; appointment as ensign
+
+The President may, by and with the advice and consent of the Senate, appoint as ensigns in the Coast Guard all cadets who shall graduate from the Academy. Ensigns so commissioned on the same date shall take rank according to their proficiency as shown by the order of their merit at date of graduation.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15a–1 (May 25, 1943, ch. 99, 57 Stat. 84).
+
+Said section has been divided. The proviso is incorporated in [section 182 of this title](./chapter-009-coast-guard-academy.md#section-182). The other part is incorporated in this section.
+
+The last sentence of this section is new as a statute; it makes statutory what has been the practice of years, and is similar to the third sentence of title 34, U.S.C., 1946 ed., § 1057, applicable to graduates of the Naval Academy. 81st Congress, House Report No. 557.
+
+
+<a id="section-186"></a>
+## § 186. Civilian teaching staff
+**(a)** The Secretary may appoint in the Coast Guard such number of civilian faculty members at the Academy as the needs of the Service may require. They shall have such titles and perform duties as prescribed by the Secretary. Leaves of absence and hours of work for civilian faculty members shall be governed by regulations promulgated by the Secretary, without regard to the provisions of title 5.
+
+**(b)** The compensation of persons employed under this section is as prescribed by the Secretary.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15d (Apr. 16, 1937, ch. 107, § 3, 50 Stat. 67; May 2, 1942, ch. 273, 56 Stat. 265).
+
+The last sentence is new and is inserted to permit adjustment of the work load and leave schedule of Academy faculty members due to the peculiarity of the academic schedule.
+
+The last sentence of this section is new, being included in order to allow for adjusting the working time and leave of civilian instructors in conformity with the academic terms at the Academy. The work load of an instructor varies greatly, and flexibility in administration of a faculty is therefore essential. The leave provided for civil service employees does not fit the needs of an instruction staff, and this has been a source of difficulty in the past. This new provision would permit leave during the summer and between academic terms without deduction from pay, and, it is contemplated, at no other time.
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+1976—Subsec. (a). Pub. L. 94–546 substituted “Leaves of absence and hours of work for civilian faculty members shall be governed by regulations promulgated by the Secretary, without regard to the provisions of title 5.” for “Leaves of absence and hours of work for such personnel shall be governed by regulations issued by the Secretary of the Treasury, without regard to section 84, chapter 18, subchapter IV of chapter 21, sections 1112, 1113, and 1121–1125, and chapter 23, of title 5.”
+
+1966—Subsec. (a). Pub. L. 89–444, § 1(9)(A), (B), substituted “faculty members” for “members of the teaching staff” and struck out provision that compensation of faculty members be fixed in accordance with the Classification Act of 1949, as amended, and designated existing provisions as so amended as subsec. (a).
+
+Subsec. (b). Pub. L. 89–444, § 1(9)(C), added subsec. (b).
+
+1960—Pub. L. 86–474 substituted “Coast Guard such number of civilian members of the teaching staff at the Academy as the needs of the Service may require” for “Coast Guard, subject to the competitive provisions of the civil-service laws and regulations, such number of civilian instructors as the needs of the Service require, not to exceed eight”, and inserted provisions relating to titles and duties of the civilian members of the teaching staff.
+
+1954—Act Sept. 3, 1954, substituted “Classification Act of 1949” for “Classification Act of 1923” and “section 84, chapter 18, subchapter IV of chapter 21, sections 1112, 1113, and 1121–1125, and chapter 23, of title 5” for “sections 29a, 30b–30m, 84, 663, 667, 672a–673, and chapter 18 of title 5”.
+
+
+<a id="section-187"></a>
+## § 187. Permanent commissioned teaching staff; composition
+
+The permanent commissioned teaching staff at the Academy shall consist of professors, associate professors, assistant professors and instructors, in such numbers as the needs of the Service require. They shall perform duties as prescribed by the Commandant, and exercise command only in the academic department of the Academy.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., §§ 15b, 15c (Apr. 16, 1937, ch. 107, §§ 1, 2, 50 Stat. 66; May 2, 1942, ch. 273, 56 Stat. 265).
+
+[Section 15b of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section15b&num=0&edition=prelim), U.S.C., 1946 ed., has been divided. Part of the provisions of the first sentence is placed in this section, while other provisions are placed in [section 188 of this title](./chapter-009-coast-guard-academy.md#section-188).
+
+[Section 15c of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section15c&num=0&edition=prelim), U.S.C., 1946 ed., has been divided. The last sentence is incorporated in this section, while the other provisions are placed in [section 189 of this title](./chapter-009-coast-guard-academy.md#section-189).
+
+The composition of the teaching staff at the Academy is changed materially on the recommendation of the Academic Board and the Advisory Committee. The scope of duty of members of the staff is enlarged to include whatever the Commandant prescribes.
+
+Title 14, U.S.C., 1946 ed., § 15b provides for five professors as heads or assistant heads of departments at the Academy. The Academic Board of the Academy and the Advisory Committee, after extensive study have recommended the change, as provided in this section, to three professors and twelve others on the permanent teaching staff, with designations to conform generally with the designations and grades of faculty members at other universities. The librarian is given faculty status because of the role of the library as the center of the modern university; this is in conformity with the practice of other higher educational institutions. It is believed that the increased number of permanent commissioned instructors is justified and desirable in view of the expansion of the Cadet Corps as the full effect of the return to a four-year course is felt. It is probable that, in the next few years, the number of cadets will approximate 450. The average number in the past two years has been about 300. This new set-up for the permanent commissioned teaching staff will permit desirable exchanges of professors with leading universities, and occasional sabbatical leaves in order to better the faculty generally. It is pointed out that this increase in permanent instructors does not increase the authorized number of officers in the Coast Guard, as they are all included in the limitation provided in [section 42 of this title](./chapter-003-composition-and-organization.md#section-42). If a teaching position at the Academy is not provided for permanently it will require the assignment of an additional regular officer, so it is apparent that the changes proposed in this section do not increase the size of the Service, or the expense, but represent a long-range plan to better the Academy as a leading educational institution within the present, recognized, standards for a proper university faculty. The last sentence retains the command status of the professors as provided in existing law but enlarges the field in which they may perform duty, in order to make it possible to give them interim assignments other than at the Academy, thus broadening their knowledge of the Service while still advantageously utilizing their services. 81st Congress, House Report No. 557.
+
+#### Amendments
+1960—Pub. L. 86–474 substituted “shall consist of professors, associate professors, assistant professors and instructors, in such numbers as the needs of the Service require” for “shall consist of not more than three professors who may serve as heads of departments, and not more than twelve associate professors, assistant professors, and commissioned instructors, one of whom shall be the librarian”.
+
+
+<a id="section-188"></a>
+## § 188. Appointment of permanent commissioned teaching staff
+
+The President may appoint in the Coast Guard, by and with the advice and consent of the Senate, the professors, associate professors, assistant professors, and instructors who are to serve on the permanent commissioned teaching staff of the Academy. An original appointment to the permanent commissioned teaching staff, unless the appointee has served as a civilian member of the teaching staff, regular commissioned officer, temporary commissioned officer, or reserve commissioned officer in the Coast Guard, shall be a temporary appointment until the appointee has satisfactorily completed a probationary term of four years of service; thereafter he may be regularly appointed and his rank shall date from the date of his temporary appointment in the grade in which permanently appointed.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15b (Apr. 16, 1937, ch. 107, § 1, 50 Stat. 66; May 2, 1942, ch. 273, 56 Stat. 265).
+
+Said section has been divided. That part of the first sentence which provides for the composition of the teaching staff is incorporated in [section 187 of this title](./chapter-009-coast-guard-academy.md#section-187). The other provisions are incorporated in this section, except for the proviso which has been omitted as no longer needed.
+
+This section incorporates the following changes because of the new plan for the permanent teaching staff: the President is authorized to appoint a candidate to any of the grades prescribed; and the probationary term, applicable unless the candidate has served in the Coast Guard as prescribed in this section, is increased from two to four years. Authorization for appointment in any grade is deemed desirable in order to permit the acquisition of outstanding instructors for the staff. It is believed that the former two-year period was too short to fully evaluate the capabilities of a temporary appointee. 81st Congress, House Report No. 557.
+
+#### Amendments
+1976—Pub. L. 94–546 substituted “grade in which permanently appointed” for “rank in which permanently appointed”.
+
+1960—Pub. L. 86–474 substituted “and instructors who are to serve” for “and commissioned instructors who are to serve”, and “civilian member of the teaching staff” for “civilian instructor”.
+
+
+<a id="section-189"></a>
+## § 189. Grade of permanent commissioned teaching staff
+
+Professors shall be commissioned officers with grade not above captain, associate and assistant professors with grade not above commander, and instructors with grade not above lieutenant commander. All officers of the permanent commissioned teaching staff shall receive the pay and allowances of other commissioned officers of the same grade and length of service. When any such professor, associate professor, assistant professor, or instructor is appointed or commissioned with grade less than the highest grade permitted, he shall be promoted under regulations prescribed by the Secretary.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15c (Apr. 16, 1937, ch. 107, § 2, 50 Stat. 66).
+
+Said section has been divided. The last sentence is incorporated in [section 187 of this title](./chapter-009-coast-guard-academy.md#section-187). The other provisions are incorporated in this section.
+
+The limitation on grade of professors is raised from Commander to Captain, and other limitations as to grades within the new permanent commissioned teaching staff are established.
+
+This section prescribes the relative ranks for the various grades in the permanent commissioned teaching staff, establishes the pay as heretofore, and provides for promotion as the Secretary shall prescribe. 81st Congress, House Report No. 557.
+
+#### Amendments
+1960—Pub. L. 86–474 substituted “and instructors with grade not above” for “and commissioned instructors with grade not above”, and “assistant professor, or instructor” for “or assistant professor”.
+
+
+<a id="section-190"></a>
+## § 190. Retirement of permanent commissioned teaching staff
+
+Professors, associate professors, assistant professors, and instructors in the Coast Guard shall be subject to retirement or discharge from active service for any cause on the same basis as other commissioned officers of the Coast Guard, except that they shall not be required to retire from active service under the provisions of [section 288 of this title](./chapter-011-personnel.md#section-288), nor shall they be subject to the provisions of [section 289 of this title](./chapter-011-personnel.md#section-289), nor shall they be required to retire at age sixty-two but may be permitted to serve until age sixty-four at which time unless earlier retired or separated they shall be retired. The Secretary may retire any member of the permanent commissioned teaching staff who has completed thirty years’ active service. Service as a civilian member of the teaching staff at the Academy in addition to creditable service authorized by any other law in any of the military services rendered prior to an appointment as a professor, associate professor, assistant professor, or instructor shall be credited in computing length of service for retirement purposes. The provisions of law relating to retirement for disability in line of duty shall not apply in the case of a professor, associate professor, assistant professor, or instructor serving under a temporary appointment.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15f (Apr. 16, 1937, ch. 107, § 5, 50 Stat. 67).
+
+The provision prohibiting the retirement of a professor because of physical disability with less than 15 years’ service is changed to have application only during the temporary appointment of a professor.
+
+This section provides for the retirement of associate professors, assistant professors, and commissioned instructors in addition to professors. It is believed that the provision of existing law requiring 15 years’ service before becoming eligible for retirement, discriminated against this group of officers as no other group was discriminated against, and should be eliminated. It was changed so that these officers would be ineligible for retirement during their probationary term only.
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+1970—Pub. L. 91–278 permitted permanent teachers to retire at sixty-four rather than at sixty-two unless earlier retired or separated.
+
+1966—Pub. L. 89–444 authorized the Secretary to retire any member of the permanent commissioned teaching staff who has completed thirty years’ active service.
+
+1963—Pub. L. 88–130 inserted “or discharge”, excepted staff members from retirement from active service under [section 288 of this title](./chapter-011-personnel.md#section-288), and from the provisions of [section 289 of this title](./chapter-011-personnel.md#section-289), and struck out “permanent” before “commissioned officers”.
+
+1960—Pub. L. 86–474 substituted “civilian member of the teaching staff” for “civilian instructor or civilian librarian”, and struck out “commissioned” in three places before “instructors” and “instructor”, respectively.
+
+
+<a id="section-191"></a>
+## § 191. Credit for service as member of civilian teaching staff
+
+Service as a member of the civilian teaching staff at the Academy in addition to creditable services authorized by any other law in any of the military services rendered prior to an appointment as professor, associate professor, assistant professor, or instructor shall be credited in computing length of service as a professor, associate professor, assistant professor, or instructor for purposes of pay and allowances.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15e (Apr. 16, 1937, ch. 107, § 4, 50 Stat. 67).
+
+Changes in phraseology were made in order to adapt the section to the new structure of the permanent commissioned teaching staff. 81st Congress, House Report No. 557.
+
+#### Amendments
+1960—Pub. L. 86–474 substituted “member of civilian teaching staff” for “civilian instructor” in section catchline, and “member of the civilian teaching staff” for “civilian instructor or civilian librarian” in text, and struck out “commissioned” before “instructor” in two places.
+
+
+<a id="section-192"></a>
+## § 192. Assignment of personnel as instructors
+
+The Commandant may assign any member to appropriate instruction duty at the Academy.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15i (Apr. 16, 1937, ch. 107, § 8, 50 Stat. 67).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+1984—Pub. L. 98–557 substituted reference to member for reference to commissioned officer, warrant officer, and enlisted man.
+
+
+<a id="section-193"></a>
+## § 193. Repealed. Pub. L. 112–213, title II, § 216(e), Dec. 20, 2012, 126 Stat. 1555]
+
+### Statutory Notes
+
+Section, act Aug. 4, 1949, ch. 393, 63 Stat. 510; Pub. L. 94–546, § 1(16), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–322, title I, § 118(b), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 100–448, § 9, Sept. 28, 1988, 102 Stat. 1842; Pub. L. 102–241, § 15, Dec. 19, 1991, 105 Stat. 2213, provided for an Advisory Committee to the Academy.
+
+
+<a id="section-194"></a>
+## § 194. Annual Board of Visitors
+**(a)** In addition to the Advisory Committee, a Board of Visitors to the Academy is established to visit the Academy annually and to make recommendations on the operation of the Academy.
+
+**(b)** The Board shall be composed of—
+
+(1) two Senators designated by the Chairman of the Committee on Commerce, Science, and Transportation of the Senate;
+
+(2) three Members of the House of Representatives designated by the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives;
+
+(3) one Senator designated by the President of the Senate;
+
+(4) two Members of the House of Representatives designated by the Speaker of the House of Representatives; and
+
+(5) the Chairman of the Committee on Commerce, Science, and Transportation of the Senate and the Chairman of the Committee on Transportation and Infrastructure of the House of Representatives, as ex officio Members.
+
+**(c)** When a Member is unable to attend the annual meeting another Member may be designated as provided under subsection (b).
+
+**(d)** When an ex officio Member is unable to attend the annual meeting that Member may designate another Member.
+
+**(e)** Members of the Board shall be designated in the First Session and serve for the duration of the Congress.
+
+**(f)** The Board shall visit the Academy annually on the date chosen by the Secretary. Each Member of the Board shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a Member of the Board.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 14, U.S.C., 1946 ed., § 15h (Apr. 16, 1937, ch. 107, § 7, 50 Stat. 67; July 15, 1939, ch. 288, 53 Stat. 1044).
+
+Changes were made in phraseology. 81st Congress, House Report No. 557.
+
+#### Amendments
+2002—Subsec. (b)(2), (5). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
+
+1990—Pub. L. 101–595 amended section generally. Prior to amendment, section read as follows:
+
+“(a) In addition to the Advisory Committee, there shall be appointed in January of each year a Board of Visitors to the Academy, consisting of two Senators and three members of the House of Representatives, appointed by the chairmen of the committees of the Senate and House of Representatives, respectively, having cognizance of legislation pertaining to the Academy, the chairmen of said committees being ex officio members of the Board, and of one Senator and two members of the House of Representatives appointed by the President of the Senate and the Speaker of the House of Representatives, respectively. Whenever a member or an ex officio member is unable to attend the annual meeting as provided in this section another member may be appointed in his stead in the manner as herein provided but without restriction as to month of appointment.
+
+“(b) Such Board shall visit the Academy annually on a date to be fixed by the Secretary. Each member of the Board shall be reimbursed from Coast Guard appropriations under Government travel regulations for the actual expense incurred by him while engaged in duties as a member of such Board, or such actual expenses as permitted under such regulations shall be defrayed by the Coast Guard.”
+
+
+<a id="section-195"></a>
+## § 195. Admission of foreign nationals for instruction; restrictions; conditions
+**(a)** A foreign national may not receive instruction at the Academy except as authorized by this section.
+
+**(b)** The President may designate not more than 36 foreign nationals whom the Secretary may permit to receive instruction at the Academy.
+
+**(c)** A foreign national receiving instruction under this section is entitled to the same pay, allowances, and emoluments, to be paid from the same appropriations, as a cadet appointed pursuant to [section 182 of this title](./chapter-009-coast-guard-academy.md#section-182). A foreign national may receive instruction under this section only if his country agrees in advance to reimburse the United States, at a rate determined by the Secretary, for the cost of providing such instruction, including pay, allowances, and emoluments, unless a waiver therefrom has been granted to that country by the Secretary. Funds received by the Secretary for this purpose shall be credited to the appropriations bearing the cost thereof, and may be apportioned between fiscal years.
+
+**(d)** A foreign national receiving instruction under this section is—
+
+(1) not entitled to any appointment in the Coast Guard by reason of his graduation from the Academy; and
+
+(2) subject to those regulations applicable to the Academy governing admission, attendance, discipline, resignation, discharge, dismissal, and graduation, except as may otherwise be prescribed by the Secretary.
+
+### Statutory Notes
+
+#### Amendments
+2012—Subsec. (c). Pub. L. 112–213 substituted “foreign national” for “person” in two places and “pay, allowances, and emoluments” for “pay and allowances” in two places.
+
+Subsec. (d). Pub. L. 112–213, § 204(1), substituted “foreign national” for “person” in introductory provisions.
+
+1976—Pub. L. 94–468 substituted “foreign nationals” for “foreigners” in section catchline.
+
+Subsec. (a). Pub. L. 94–468 substituted provision barring foreign nationals from receiving instruction at the Academy unless authorized by this section, for provision which authorized the Secretary to permit four persons at a time from the Republic of the Philippines, as designated by the President, to attend the Academy.
+
+Subsec. (b). Pub. L. 94–468 substituted provision authorizing the President to designate not more than thirty-six foreign nationals whom the Secretary may permit to attend the Academy, for provision which authorized foreign nationals to receive the same pay and allowances as cadets at the Academy.
+
+Subsec. (c). Pub. L. 94–468 substituted provision authorizing a foreign national to receive the same pay and allowances as a cadet providing his country agree in advance to reimburse the United States and directing the Secretary to credit any funds so received to the appropriations for pay and allowances, for provision which required that foreign nationals be subject to the same rules and regulations as cadets.
+
+Subsec. (d). Pub. L. 94–468 added subsec. (d).
+
+
+<a id="section-196"></a>
+## § 196. Participation in Federal, State, or other educational research grants
+
+Notwithstanding any other provision of law, the United States Coast Guard Academy may compete for and accept Federal, State, or other educational research grants, subject to the following limitations:
+
+(1) No award may be accepted for the acquisition or construction of facilities.
+
+(2) No award may be accepted for the routine functions of the Academy.
+
+
+<a id="section-197"></a>
+## § 197. Cadets: charges and fees for attendance; limitation
+**(a) Prohibition.—** Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
+
+**(b) Exception.—** The prohibition specified in subsection (a) does not apply with respect to any item or service provided to cadets for which a charge or fee is imposed as of October 5, 1994. The Secretary of Homeland Security shall notify Congress of any change made by the Academy in the amount of a charge or fee authorized under this subsection.
+
+
+<a id="section-198"></a>
+## § 198. Repealed. Pub. L. 112–213, title II, § 216(f), Dec. 20, 2012, 126 Stat. 1555]
+
+### Statutory Notes
+
+Section, added Pub. L. 109–241, title II, § 209(a), July 11, 2006, 120 Stat. 522, provided for fellowships in Coast Guard history.
+
+
+<a id="section-199"></a>
+## § 199. Marine safety curriculum
+
+The Commandant of the Coast Guard shall ensure that professional courses of study in marine safety are provided at the Coast Guard Academy, and during other officer accession programs, to give Coast Guard cadets and other officer candidates a background and understanding of the marine safety program. These courses may include such topics as program history, vessel design and construction, vessel inspection, casualty investigation, and administrative law and regulations.
+
+### Statutory Notes
+
+#### Amendments
+2010—Pub. L. 111–330 amended directory language of Pub. L. 111–281, § 525(a), which enacted this section, and renumbered [section 200 of this title](./chapter-009-coast-guard-academy.md#section-200) as this section.
+
+#### Effective Date of 2010 Amendment
+Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(7)(A) is effective with the enactment of Pub. L. 111–281.
+
+
+<a id="section-200"></a>
+## § 200. Policy on sexual harassment and sexual violence
+**(a) Required Policy.—** The Commandant of the Coast Guard shall direct the Superintendent of the Coast Guard Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy.
+
+**(b) Matters To Be Specified in Policy.—** The policy on sexual harassment and sexual violence under this section shall include specification of the following:
+
+(1) Programs to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel.
+
+(2) Information about how the Coast Guard and the Academy will protect the confidentiality of victims of sexual harassment or sexual violence, including how any records, statistics, or reports intended for public release will be formatted such that the confidentiality of victims is not jeopardized.
+
+(3) Procedures that cadets and other Academy personnel should follow in the case of an occurrence of sexual harassment or sexual violence, including—
+
+  (A) if the victim chooses to report an occurrence of sexual harassment or sexual violence, a specification of the person or persons to whom the alleged offense should be reported and options for confidential reporting, including written information to be given to victims that explains how the Coast Guard and the Academy will protect the confidentiality of victims;
+
+  (B) a specification of any other person whom the victim should contact; and
+
+  (C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault.
+
+(4) Procedures for disciplinary action in cases of criminal sexual assault involving a cadet or other Academy personnel.
+
+(5) Sanctions authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel, including with respect to rape, acquaintance rape, or other criminal sexual offense, whether forcible or nonforcible.
+
+(6) Required training on the policy for all cadets and other Academy personnel who process allegations of sexual harassment or sexual violence involving a cadet or other Academy personnel.
+
+**(c) Assessment.—**
+
+(1) **In general.—** — The Commandant shall direct the Superintendent to conduct at the Academy during each Academy program year an assessment to determine the effectiveness of the policies of the Academy with respect to sexual harassment and sexual violence involving cadets or other Academy personnel.
+
+(2) **Biennial survey.—** — For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey of cadets and other Academy personnel—
+
+  (A) to measure—
+
+    (i) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have been reported to an official of the Academy; and
+
+    (ii) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have not been reported to an official of the Academy; and
+
+  (B) to assess the perceptions of the cadets and other Academy personnel with respect to—
+
+    (i) the Academy’s policies, training, and procedures on sexual harassment and sexual violence involving cadets or other Academy personnel;
+
+    (ii) the enforcement of such policies;
+
+    (iii) the incidence of sexual harassment and sexual violence involving cadets or other Academy personnel; and
+
+    (iv) any other issues relating to sexual harassment and sexual violence involving cadets or other Academy personnel.
+
+**(d) Report.—**
+
+(1) **In general.—** — The Commandant shall direct the Superintendent to submit to the Commandant a report on sexual harassment and sexual violence involving cadets or other Academy personnel for each Academy program year.
+
+(2) **Report specifications.—** — Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
+
+  (A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the Academy program year and, of those reported cases, the number that have been substantiated.
+
+  (B) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel.
+
+(3) **Biennial survey.—** — Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted in that Academy program year under subsection (c)(2).
+
+(4) **Transmission of report.—** — The Commandant shall transmit each report received by the Commandant under this subsection, together with the Commandant’s comments on the report, to—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (B) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(5) **Focus groups.—**
+
+  (A) *In general.—* — For each Academy program year with respect to which the Superintendent is not required to conduct a survey at the Academy under subsection (c)(2), the Commandant shall require focus groups to be conducted at the Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at the Academy.
+
+  (B) *Inclusion in reports.—* — Information derived from a focus group under subparagraph (A) shall be included in the next transmitted Commandant’s report under this subsection.
+
+**(e) Victim Confidentiality.—** To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 200 was renumbered [section 199 of this title](./chapter-009-coast-guard-academy.md#section-199).

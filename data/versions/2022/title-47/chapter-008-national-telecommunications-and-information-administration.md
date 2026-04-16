@@ -1,0 +1,1685 @@
+---
+title: 47
+chapter: '8'
+heading: NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION
+section_count: 17
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
+---
+<a id="section-901"></a>
+## § 901. Definitions; findings; policy
+**(a) Definitions** In this chapter, the following definitions apply:
+
+(1) The term “NTIA” means the National Telecommunications and Information Administration.
+
+(2) The term “Assistant Secretary” means the Assistant Secretary for Communications and Information.
+
+(3) The term “Secretary” means the Secretary of Commerce.
+
+(4) The term “Commission” means the Federal Communications Commission.
+
+(5) The term “Corporation” means the Communications Satellite Corporation authorized in title III of the Communications Satellite Act of 1962 ([47 U.S.C. 731](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section731&num=0&edition=prelim) et seq.).
+
+**(b) Findings** The Congress finds the following:
+
+(1) Telecommunications and information are vital to the public welfare, national security, and competitiveness of the United States.
+
+(2) Rapid technological advances being made in the telecommunications and information fields make it imperative that the United States maintain effective national and international policies and programs capable of taking advantage of continued advancements.
+
+(3) Telecommunications and information policies and recommendations advancing the strategic interests and the international competitiveness of the United States are essential aspects of the Nation’s involvement in international commerce.
+
+(4) There is a critical need for competent and effective telecommunications and information research and analysis and national and international policy development, advice, and advocacy by the executive branch of the Federal Government.
+
+(5) As one of the largest users of the Nation’s telecommunications facilities and resources, the Federal Government must manage its radio spectrum use and other internal communications operations in the most efficient and effective manner possible.
+
+(6) It is in the national interest to codify the authority of the National Telecommunications and Information Administration, an agency in the Department of Commerce, as the executive branch agency principally responsible for advising the President on telecommunications and information policies, and for carrying out the related functions it currently performs, as reflected in Executive Order 12046.
+
+**(c) Policy** The NTIA shall seek to advance the following policies:
+
+(1) Promoting the benefits of technological development in the United States for all users of telecommunications and information facilities.
+
+(2) Fostering national safety and security, economic prosperity, and the delivery of critical social services through telecommunications.
+
+(3) Facilitating and contributing to the full development of competition, efficiency, and the free flow of commerce in domestic and international telecommunications markets.
+
+(4) Fostering full and efficient use of telecommunications resources, including effective use of the radio spectrum by the Federal Government, in a manner which encourages the most beneficial uses thereof in the public interest.
+
+(5) Furthering scientific knowledge about telecommunications and information.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original, “this title”, meaning title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+The Communications Satellite Act of 1962, referred to in subsec. (a)(5), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419. Title III of the Act is classified generally to subchapter III (§ 731 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-006-communications-satellite-system.md#section-701) and Tables.
+
+Executive Order 12046, referred to in subsec. (b)(6), is set out as a note under [section 305 of this title](./chapter-005-wire-or-radio-communication.md#section-305).
+
+#### Short Title of 2015 Amendment
+Pub. L. 114–74, title X, § 1001, Nov. 2, 2015, 129 Stat. 621, provided that: “This title [amending sections 309, 923, and 928 of this title and enacting provisions set out as a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921)] may be cited as the ‘Spectrum Pipeline Act of 2015’.”
+
+#### Short Title of 2007 Amendment
+Pub. L. 110–53, title XXIII, § 2301, Aug. 3, 2007, 121 Stat. 543, as amended by Pub. L. 110–161, div. B, title V, § 539, Dec. 26, 2007, 121 Stat. 1934, provided that: “This title [amending [section 942 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-942) and provisions set out as a note under [section 309 of this title](./chapter-005-wire-or-radio-communication.md#section-309)] may be cited as the ‘911 Modernization Act’.”
+
+#### Short Title of 2004 Amendment
+Pub. L. 108–494, title I, § 101, Dec. 23, 2004, 118 Stat. 3986, provided that: “This title [enacting [section 942 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-942) and provisions set out as notes under [section 942 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-942)] may be cited as the ‘Ensuring Needed Help Arrives Near Callers Employing 911 Act of 2004’ or the ‘ENHANCE 911 Act of 2004’.”
+
+Pub. L. 108–494, title II, § 201, Dec. 23, 2004, 118 Stat. 3991, provided that: “This title [enacting [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928), amending sections 309, 614, and 923 of this title, and enacting provisions set out as notes under sections 921, 923, and 928 of this title] may be cited as the ‘Commercial Spectrum Enhancement Act’.”
+
+#### Short Title of 2002 Amendment
+Pub. L. 107–317, § 1, Dec. 4, 2002, 116 Stat. 2766, provided that: “This Act [enacting subchapter III of this chapter, amending [section 902 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-902), and enacting provisions set out as a note under [section 941 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-941)] may be cited as the ‘Dot Kids Implementation and Efficiency Act of 2002’.”
+
+#### Short Title
+Pub. L. 102–538, title I, § 101, Oct. 27, 1992, 106 Stat. 3533, provided that: “This title [enacting this chapter, amending [section 394 of this title](./chapter-005-wire-or-radio-communication.md#section-394), and enacting provisions set out as a note under [section 254r of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254r&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘National Telecommunications and Information Administration Organization Act’.”
+
+#### Internet of Things
+Pub. L. 116–283, div. H, title XCII, § 9204, Jan. 1, 2021, 134 Stat. 4797, provided that: “(a) Definitions.—In this section:“(1) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(2) Secretary.—The term ‘Secretary’ means the Secretary of Commerce. “(3) Steering committee.—The term ‘steering committee’ means the steering committee established under subsection (b)(5)(A). “(4) Working group.—The term ‘working group’ means the working group convened under subsection (b)(1). “(b) Federal Working Group.—“(1) In general.—The Secretary shall convene a working group of Federal stakeholders for the purpose of providing recommendations and a report to Congress relating to the aspects of the Internet of Things described in paragraph (2). “(2) Duties.—The working group shall—“(A) identify any Federal regulations, statutes, grant practices, budgetary or jurisdictional challenges, and other sector-specific policies that are inhibiting, or could inhibit, the development or deployment of the Internet of Things; “(B) consider policies or programs that encourage and improve coordination among Federal agencies that have responsibilities that are relevant to the objectives of this section; “(C) consider any findings or recommendations made by the steering committee and, where appropriate, act to implement those recommendations; “(D) examine—“(i) how Federal agencies can benefit from utilizing the Internet of Things; “(ii) the use of Internet of Things technology by Federal agencies as of the date on which the working group performs the examination; “(iii) the preparedness and ability of Federal agencies to adopt Internet of Things technology as of the date on which the working group performs the examination and in the future; and “(iv) any additional security measures that Federal agencies may need to take to— “(I) safely and securely use the Internet of Things, including measures that ensure the security of critical infrastructure; and “(II) enhance the resiliency of Federal systems against cyber threats to the Internet of Things; and “(E) in carrying out the examinations required under subclauses (I) and (II) of subparagraph (D)(iv), ensure to the maximum extent possible the coordination of the current and future activities of the Federal Government relating to security with respect to the Internet of Things. “(3) Agency representatives.—In convening the working group under paragraph (1), the Secretary shall have discretion to appoint representatives from Federal agencies and departments as appropriate and shall specifically consider seeking representation from—“(A) the Department of Commerce, including—“(i) the National Telecommunications and Information Administration; “(ii) the National Institute of Standards and Technology; and “(iii) the National Oceanic and Atmospheric Administration; “(B) the Department of Transportation; “(C) the Department of Homeland Security; “(D) the Office of Management and Budget; “(E) the National Science Foundation; “(F) the Commission; “(G) the Federal Trade Commission; “(H) the Office of Science and Technology Policy; “(I) the Department of Energy; and “(J) the Federal Energy Regulatory Commission. “(4) Nongovernmental stakeholders.—The working group shall consult with nongovernmental stakeholders with expertise relating to the Internet of Things, including—“(A) the steering committee; “(B) information and communications technology manufacturers, suppliers, service providers, and vendors; “(C) subject matter experts representing industrial sectors other than the technology sector that can benefit from the Internet of Things, including the transportation, energy, agriculture, and health care sectors; “(D) small, medium, and large businesses; “(E) think tanks and academia; “(F) nonprofit organizations and consumer groups; “(G) security experts; “(H) rural stakeholders; and “(I) other stakeholders with relevant expertise, as determined by the Secretary. “(5) Steering committee.—“(A) Establishment.—There is established within the Department of Commerce a steering committee to advise the working group. “(B) Duties.—The steering committee shall advise the working group with respect to—“(i) the identification of any Federal regulations, statutes, grant practices, programs, budgetary or jurisdictional challenges, and other sector-specific policies that are inhibiting, or could inhibit, the development of the Internet of Things; “(ii) situations in which the use of the Internet of Things is likely to deliver significant and scalable economic and societal benefits to the United States, including benefits from or to— “(I) smart traffic and transit technologies; “(II) augmented logistics and supply chains; “(III) sustainable infrastructure; “(IV) precision agriculture; “(V) environmental monitoring; “(VI) public safety; and “(VII) health care; “(iii) whether adequate spectrum is available to support the growing Internet of Things and what legal or regulatory barriers may exist to providing any spectrum needed in the future; “(iv) policies, programs, or multi-stakeholder activities that— “(I) promote or are related to the privacy of individuals who use or are affected by the Internet of Things; “(II) may enhance the security of the Internet of Things, including the security of critical infrastructure; “(III) may protect users of the Internet of Things; and “(IV) may encourage coordination among Federal agencies with jurisdiction over the Internet of Things; “(v) the opportunities and challenges associated with the use of Internet of Things technology by small businesses; and “(vi) any international proceeding, international negotiation, or other international matter affecting the Internet of Things to which the United States is or should be a party. “(C) Membership.—The Secretary shall appoint to the steering committee members representing a wide range of stakeholders outside of the Federal Government with expertise relating to the Internet of Things, including—“(i) information and communications technology manufacturers, suppliers, service providers, and vendors; “(ii) subject matter experts representing industrial sectors other than the technology sector that can benefit from the Internet of Things, including the transportation, energy, agriculture, and health care sectors; “(iii) small, medium, and large businesses; “(iv) think tanks and academia; “(v) nonprofit organizations and consumer groups; “(vi) security experts; “(vii) rural stakeholders; and “(viii) other stakeholders with relevant expertise, as determined by the Secretary. “(D) Report.—Not later than 1 year after the date of enactment of this Act [Jan. 1, 2021], the steering committee shall submit to the working group a report that includes any findings or recommendations of the steering committee. “(E) Independent advice.—“(i) In general.—The steering committee shall set the agenda of the steering committee in carrying out the duties of the steering committee under subparagraph (B). “(ii) Suggestions.—The working group may suggest topics or items for the steering committee to study, and the steering committee shall take those suggestions into consideration in carrying out the duties of the steering committee. “(iii) Report.—The steering committee shall ensure that the report submitted under subparagraph (D) is the result of the independent judgment of the steering committee. “(F) No compensation for members.—A member of the steering committee shall serve without compensation. “(G) Termination.—The steering committee shall terminate on the date on which the working group submits the report under paragraph (6). “(6) Report to congress.—“(A) In general.—Not later than 18 months after the date of enactment of this Act, the working group shall submit to Congress a report that includes—“(i) the findings and recommendations of the working group with respect to the duties of the working group under paragraph (2); “(ii) the report submitted by the steering committee under paragraph (5)(D), as the report was received by the working group; “(iii) recommendations for action or reasons for inaction, as applicable, with respect to each recommendation made by the steering committee in the report submitted under paragraph (5)(D); and “(iv) an accounting of any progress made by Federal agencies to implement recommendations made by the working group or the steering committee. “(B) Copy of report.—The working group shall submit a copy of the report described in subparagraph (A) to—“(i) the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate; “(ii) the Committee on Energy and Commerce of the House of Representatives; and “(iii) any other committee of Congress, upon request to the working group. “(c) Assessing Spectrum Needs.—“(1) In general.—The Commission, in consultation with the National Telecommunications and Information Administration, shall issue a notice of inquiry seeking public comment on the current, as of the date of enactment of this Act [Jan. 1, 2021], and future spectrum needs to enable better connectivity relating to the Internet of Things. “(2) Requirements.—In issuing the notice of inquiry under paragraph (1), the Commission shall seek comments that consider and evaluate—“(A) whether adequate spectrum is available, or is planned for allocation, for commercial wireless services that could support the growing Internet of Things; “(B) if adequate spectrum is not available for the purposes described in subparagraph (A), how to ensure that adequate spectrum is available for increased demand with respect to the Internet of Things; “(C) what regulatory barriers may exist to providing any needed spectrum that would support uses relating to the Internet of Things; and “(D) what the role of unlicensed and licensed spectrum is and will be in the growth of the Internet of Things. “(3) Report.—Not later than 1 year after the date of enactment of this Act, the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the comments submitted in response to the notice of inquiry issued under paragraph (1).”
+
+#### National Strategy To Secure 5G and Next Generation Wireless Communications
+Pub. L. 116–129, Mar. 23, 2020, 134 Stat. 223, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Secure 5G and Beyond Act of 2020’. “SEC. 2. APPROPRIATE COMMITTEES OF CONGRESS DEFINED.“In this Act, the term ‘appropriate committees of Congress’ means—“(1) the Select Committee on Intelligence, the Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate; and “(2) the Permanent Select Committee on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Homeland Security of the House of Representatives. “SEC. 3. STRATEGY TO ENSURE SECURITY OF NEXT GENERATION WIRELESS COMMUNICATIONS SYSTEMS AND INFRASTRUCTURE.“(a) Strategy Required.—Not later than 180 days after the date of enactment of this Act [Mar. 23, 2020], the President, in consultation with the Chairman of the Federal Communications Commission, the Secretary of Commerce, the Assistant Secretary of Commerce for Communications and Information, the Secretary of Homeland Security, the Director of National Intelligence, the Attorney General, the Secretary of State, the Secretary of Energy, and the Secretary of Defense, and consistent with the protection of national security information, shall develop and submit to the appropriate committees of Congress a strategy—“(1) to ensure the security of 5th and future generations wireless communications systems and infrastructure within the United States; “(2) to provide technical assistance to mutual defense treaty allies of the United States, strategic partners of the United States, and other countries, when in the security and strategic interests of the United States, to maximize the security of 5th and future generations wireless communications systems and infrastructure inside their countries; and “(3) to protect the competitiveness of United States companies, privacy of United States consumers, and integrity and impartiality of standards-setting bodies and processes related to 5th and future generations wireless communications systems and infrastructure. “(b) Designation.—The strategy developed under subsection (a) shall be known as the ‘National Strategy to Secure 5G and Next Generation Wireless Communications’ (referred to in this Act as the ‘Strategy’). “(c) Elements.—The Strategy shall represent a whole-of-government approach and shall include the following:“(1) A description of efforts to facilitate domestic 5th and future generations wireless communications rollout. “(2) A description of efforts to assess the risks to and identify core security principles of 5th and future generations wireless communications infrastructure. “(3) A description of efforts to address risks to the national security of the United States during development and deployment of 5th and future generations wireless communications infrastructure worldwide. “(4) A description of efforts to promote responsible global development and deployment of 5th and future generations wireless communications, including through robust international engagement, leadership in the development of international standards, and incentivizing market competitiveness of secure 5th and future generation wireless communications infrastructure options. “(d) Public Consultation.—In developing the Strategy, the President shall consult with relevant groups that represent consumers or the public interest, private sector communications providers, and communications infrastructure and systems equipment developers. “SEC. 4. STRATEGY IMPLEMENTATION PLAN.“Not later than 180 days after the date of enactment of this Act [Mar. 23, 2020], the President shall develop and submit to the appropriate committees of Congress an implementation plan for the Strategy (referred to in this Act as the ‘Implementation Plan’), which shall include, at a minimum, the following:“(1) A description of United States national and economic security interests pertaining to the deployment of 5th and future generations wireless communications systems and infrastructure. “(2) An identification and assessment of potential security threats and vulnerabilities to the infrastructure, equipment, systems, software, and virtualized networks that support 5th and future generations wireless communications systems, infrastructure, and enabling technologies, which shall, as practicable, include a comprehensive evaluation of the full range of threats to, and unique security challenges posed by, 5th and future generations wireless communications systems and infrastructure, as well as steps that public and private sector entities can take to mitigate those threats. “(3) An identification and assessment of the global competitiveness and vulnerabilities of United States manufacturers and suppliers of 5th and future generations wireless communications equipment. “(4) An evaluation of available domestic suppliers of 5th and future generations wireless communications equipment and other suppliers in countries that are mutual defense allies or strategic partners of the United States and a strategy to assess their ability to produce and supply 5th generation and future generations wireless communications systems and infrastructure. “(5) Identification of where security gaps exist in the United States domestic or mutual defense treaty allies and strategic partners communications equipment supply chain for 5th and future generations wireless communications systems and infrastructure. “(6) Identification of incentives and policy options to help close or narrow any security gaps identified under paragraph (5) in, and ensure the economic viability of, the United States domestic industrial base, including research and development in critical technologies and workforce development in 5th and future generations wireless communications systems and infrastructure. “(7) Identification of incentives and policy options for leveraging the communications equipment suppliers from mutual defense treaty allies, strategic partners, and other countries to ensure that private industry in the United States has adequate sources for secure, effective, and reliable 5th and future generations wireless communications systems and infrastructure equipment. “(8) A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share security risk information and findings pertaining to 5th and future generations wireless communications systems and infrastructure equipment and cooperation on mitigating those risks. “(9) A plan for engagement with private sector communications infrastructure and systems equipment developers and critical infrastructure owners and operators who have a critical dependency on communications infrastructure to share information and findings on 5th and future generations wireless communications systems and infrastructure equipment standards to secure platforms. “(10) A plan for engagement with private sector communications infrastructure and systems equipment developers to encourage the maximum participation possible on standards-setting bodies related to such systems and infrastructure equipment standards by public and private sector entities from the United States. “(11) A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share information and findings on 5th and future generations wireless communications systems and infrastructure equipment standards to promote maximum interoperability, competitiveness, openness, and secure platforms. “(12) A plan for diplomatic engagement with mutual defense treaty allies, strategic partners, and other countries to share information and findings on 5th and future generations wireless communications infrastructure and systems equipment concerning the standards-setting bodies related to such systems and infrastructure equipment to promote maximum transparency, openness, impartiality, integrity, and neutrality. “(13) A plan for joint testing environments with mutual defense treaty allies, strategic partners, and other countries to ensure a trusted marketplace for 5th and future generations wireless communications systems and infrastructure equipment. “(14) A plan for research and development by the Federal Government, in close partnership with trusted supplier entities, mutual defense treaty allies, strategic partners, and other countries to reach and maintain United States leadership in 5th and future generations wireless communications systems and infrastructure security, including the development of an ongoing capability to identify security vulnerabilities in 5th and future generations wireless communications systems. “(15) Options for identifying and helping to mitigate the security risks of 5th and future generations wireless communications systems and infrastructure that have security flaws or vulnerabilities, or are utilizing equipment sourced from countries of concern, and that have already been put in place within the systems and infrastructure of mutual defense treaty allies, strategic partners, and other countries, when in the security interests of the United States. “(16) A description of the roles and responsibilities of the appropriate executive branch agencies and interagency mechanisms to coordinate implementation of the Strategy, as provided in section 5(d). “(17) An identification of the key diplomatic, development, intelligence, military, and economic resources necessary to implement the Strategy, including specific budgetary requests. “(18) As necessary, a description of such legislative or administrative action needed to carry out the Strategy. “SEC. 5. LIMITATIONS AND BRIEFINGS.“(a) Limitations.—“(1) In general.—The Strategy and the Implementation Plan shall not include a recommendation or a proposal to nationalize 5th or future generations wireless communications systems or infrastructure. “(2) Federal agency authority.—Nothing in this Act shall be construed to limit any authority or ability of any Federal agency. “(b) Public Comment.—Not later than 60 days after the date of enactment of this Act [Mar. 23, 2020], the President shall seek public comment regarding the development and implementation of the Implementation Plan. “(c) Briefing.—“(1) In general.—Not later than 21 days after the date on which the Implementation Plan is completed, the President shall direct appropriate representatives from the departments and agencies involved in the formulation of the Strategy to provide the appropriate committees of Congress a briefing on the implementation of the Strategy. “(2) Unclassified setting.—The briefing under paragraph (1) shall be held in an unclassified setting to the maximum extent possible. “(d) Implementation.—“(1) In general.—The President and the National Telecommunications and Information Administration, in conjunction, shall—“(A) implement the Strategy; “(B) keep congressional committees apprised of progress on implementation; and “(C) not implement any proposal or recommendation involving non-Federal spectrum administered by the Federal Communications Commission unless the implementation of such proposal or recommendation is first approved by the Commission. “(2) Rule of construction.—Nothing in this subsection shall be construed to affect the authority or jurisdiction of the Federal Communications Commission or confer upon the President or any other executive branch agency the power to direct the actions of the Commission, whether directly or indirectly. “(e) Form.—The Strategy and Implementation Plan shall be submitted to the appropriate committees of Congress in unclassified form, but may include a classified annex.”
+
+#### Ex. Ord. No. 12382. President’s National Security Telecommunications Advisory Committee
+Ex. Ord. No. 12382, Sept. 13, 1982, 47 F.R. 40531, as amended by Ex. Ord. No. 13286, Feb. 28, 2003, 68 F.R. 10628; Ex. Ord. No. 13618, § 7(c), July 6, 2012, 77 F.R. 40783; Ex. Ord. No. 14048, § 5, Sept. 30, 2021, 86 F.R. 55466, provided:
+
+By the authority vested in me as President by the Constitution of the United States of America, and in order to establish, in accordance with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), an advisory committee on National Security Telecommunications, it is hereby ordered as follows:
+
+Section 1. Establishment. (a) There is established the President’s National Security Telecommunications Advisory Committee, which shall be composed of no more than 30 members. These members shall have particular knowledge and expertise in the fields of cybersecurity and of information and communications technology (ICT) and shall represent various elements of the Nation’s telecommunications industry. Members of the Committee shall be appointed by the President.
+
+(b) The President shall designate a Chair and Vice Chair from among the members of the Committee, each for a term of up to 2 years.
+
+(c) To assist the Committee in carrying out its functions, the Committee may establish appropriate subcommittees or working groups composed, in whole or in part, of individuals who are not members of the Committee.
+
+Sec. 2. Functions. (a) The Committee shall provide to the President, through the Secretary of Homeland Security, information and advice from the perspective of relevant cybersecurity, ICT, and telecommunications industries on information assurance, cybersecurity, and the ICT ecosystem with respect to national security and emergency preparedness (NS/EP) concerns.
+
+(b) The Committee shall provide information and advice to the President, through the Secretary of Homeland Security, regarding the feasibility of implementing specific measures to improve the resiliency and security of the digital and communications infrastructure of the United States.
+
+(c) The Committee shall provide technical information, advice, and recommendations as it relates to NS/EP policy issues concerning cybersecurity, ICT, and telecommunications matters.
+
+(d) The Committee shall periodically report on matters in this section to the President, through the Secretary of Homeland Security.
+
+Sec. 3. Administration. (a) The heads of Executive agencies shall, to the extent permitted by law, provide the Committee with information concerning NS/EP policy issues specific to cybersecurity, ICT, and telecommunications matters in order for it to carry out its functions and mission. Information supplied to the Committee shall not, to the extent permitted by law, be available for public inspection.
+
+(b) Members of the Committee shall serve without any compensation for their work on the Committee. However, to the extent permitted by law, they shall be entitled to travel expenses, including per diem in lieu of subsistence.
+
+(c) Any expenses of the Committee shall, to the extent permitted by law, be paid from funds available to the Secretary of Homeland Security.
+
+Sec. 4. General. (a) Notwithstanding any other Executive Order, the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), which are applicable to the Committee, except that of reporting annually to the Congress, shall be performed by the Secretary of Homeland Security, in accord with guidelines and procedures established by the Administrator of General Services.
+
+(b) In accordance with the Federal Advisory Committee Act, as amended, the Committee shall terminate on December 31, 1982, unless sooner extended.
+
+#### Extension of Term of President’s National Security Telecommunications Advisory Committee
+Term of President’s National Security Telecommunications Advisory Committee extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extensions of term of President’s National Security Telecommunications Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
+
+Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30, 2013.
+
+Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
+
+Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30, 2009.
+
+Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
+
+Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
+
+Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
+
+Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, extended term until Sept. 30, 2001.
+
+Ex. Ord. No. 13062, Sept. 29, 1997, 62 F.R. 51755, extended term until Sept. 30, 1999.
+
+Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30, 1997.
+
+Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, extended term until Sept. 30, 1995.
+
+Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, extended term until Sept. 30, 1993.
+
+Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, extended term until Sept. 30, 1991.
+
+Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, extended term until Sept. 30, 1989.
+
+Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, extended term until Sept. 30, 1987.
+
+Ex. Ord. No. 12454, Dec. 29, 1983, 49 F.R. 343, extended term until Sept. 30, 1985.
+
+Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, extended term until Dec. 31, 1983.
+
+#### Developing a Sustainable Spectrum Strategy for America’s Future
+Memorandum of President of the United States, Oct. 25, 2018, 83 F.R. 54513, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. It is the policy of the United States to use radiofrequency spectrum (spectrum) as efficiently and effectively as possible to help meet our economic, national security, science, safety, and other Federal mission goals now and in the future. To best achieve this policy, the Nation requires a balanced, forward-looking, flexible, and sustainable approach to spectrum management.
+
+The growth in the availability of mobile wireless broadband connectivity over the past decade has reshaped the American experience—the way Americans work, learn, shop, run businesses, transport their families and goods across the Nation, farm, conduct financial transactions, consume entertainment, deliver and receive public safety services, and interact with one another. In the growing digital economy, wireless technologies expand opportunities to increase economic output of rural communities and connect them with urban markets, and offer safety benefits that save lives, prevent injuries, and reduce the cost of transportation incidents. American companies and institutions rely heavily on high-speed wireless connections, with increasing demands on both speed and capacity. Wireless technologies are helping to bring broadband to rural, unserved, and underserved parts of America. Spectrum-dependent systems also are indispensable to the performance of many important United States Government missions. And as a Nation, our dependence on these airwaves is likely to continue to grow.
+
+As the National Security Strategy of 2017 made clear, access to spectrum is a critical component of the technological capabilities that enable economic activity and protect national security. Wireless communications and associated data applications establish a foundation for high-wage jobs and national prosperity. While American industry continues to extract greater and greater value from spectrum, each technological leap also increases demands on its usage. Those demands have never been greater than today, with the advent of autonomous vehicles and precision agriculture, the expansion of commercial space operations, and the burgeoning Internet of Things signaling a nearly insatiable demand for spectrum access. Moreover, it is imperative that America be first in fifth-generation (5G) wireless technologies—wireless technologies capable of meeting the high-capacity, low-latency, and high-speed requirements that can unleash innovation broadly across diverse sectors of the economy and the public sector. Flexible, predictable spectrum access by the United States Government will help ensure that Federal users can meet current and future mission requirements for a broad range of both communications- and non-communications-based systems.
+
+The Nation can and will ensure security and safety through modern technology. America’s national security depends on technological excellence and the United States Government must continue to have access to the spectrum resources needed to serve the national interest, from protecting the homeland and managing the national airspace, to forecasting severe weather and exploring the frontiers of space. Technological innovation in spectrum usage, moreover, occurs in both the private and public sectors. Federal agencies must thoughtfully consider whether and how their spectrum-dependent mission needs might be met more efficiently and effectively, including through new technology and ingenuity. The United States Government shall continue to look for additional opportunities to share spectrum among Federal and non-Federal entities. The United States Government shall also continue to encourage investment and adoption by Federal agencies of commercial, dual-use, or other advanced technologies that meet mission requirements, including 5G technologies. In doing so, we will take appropriate measures to sustain the radiofrequency environment in which critical United States infrastructure and space systems operate.
+
+Sec. 2. Advancing the National Spectrum Strategy. Within 180 days of the date of this memorandum [Oct. 25, 2018], and concurrent with development of the National Spectrum Strategy referred to in section 4 of this memorandum:
+
+(a) Executive departments and agencies (agencies) shall report to the Secretary of Commerce (Secretary), working through the National Telecommunications and Information Administration (NTIA), on their anticipated future spectrum requirements for a time period and in a format specified by the Secretary. Additionally, agencies shall initiate a review of their current frequency assignments and quantification of their spectrum usage in accordance with guidance to be provided by the Secretary. Reporting of information under this section shall be subject to existing safeguards protecting classified, sensitive, and proprietary data. The Secretary may release publicly a summary of information provided by agencies, to the extent consistent with applicable law.
+
+(b) The Director of the Office of Science and Technology Policy (OSTP), or the Director’s designee, shall submit a report to the President on emerging technologies and their expected impact on non-Federal spectrum demand.
+
+(c) The Director of OSTP, or the Director’s designee, shall submit a report to the President on recommendations for research and development priorities that advance spectrum access and efficiency.
+
+Sec. 3. Within 180 days of the date of this memorandum, and annually thereafter, the Secretary, working through the NTIA, and in coordination with the Office of Management and Budget (OMB), OSTP, and the Federal Communications Commission (FCC), shall submit to the President, through the Director of the National Economic Council and the Assistant to the President for National Security Affairs, a report (to be made public to the extent practicable and consistent with applicable law) on the status of existing efforts and planned near- to mid-term spectrum repurposing initiatives.
+
+Sec. 4. Within 270 days of the date of this memorandum, the Secretary, working through the NTIA, and in consultation with OMB, OSTP, and the FCC, and other Federal entities, as appropriate, shall submit to the President, through the Director of the National Economic Council and the Assistant to the President for National Security Affairs, a long-term National Spectrum Strategy that includes legislative, regulatory, or other policy recommendations to:
+
+(a) increase spectrum access for all users, including on a shared basis, through transparency of spectrum use and improved cooperation and collaboration between Federal and non-Federal spectrum stakeholders;
+
+(b) create flexible models for spectrum management, including standards, incentives, and enforcement mechanisms that promote efficient and effective spectrum use, including flexible-use spectrum licenses, while accounting for critical safety and security concerns;
+
+(c) use ongoing research, development, testing, and evaluation to develop advanced technologies, innovative spectrum-utilization methods, and spectrum-sharing tools and techniques that increase spectrum access, efficiency, and effectiveness;
+
+(d) build a secure, automated capability to facilitate assessments of spectrum use and expedite coordination of shared access among Federal and non-Federal spectrum stakeholders; and
+
+(e) improve the global competitiveness of United States terrestrial and space-related industries and augment the mission capabilities of Federal entities through spectrum policies, domestic regulations, and leadership in international forums.
+
+Sec. 5. Spectrum Strategy Task Force. The Chief Technology Officer and the Director of the National Economic Council, or their designees, shall co-chair a Spectrum Strategy Task Force that shall include representatives from OMB, OSTP, the National Security Council, the National Space Council, and the Council of Economic Advisers. The Spectrum Strategy Task Force shall work with the Secretary and the NTIA in coordinating implementation of this memorandum. In carrying out its coordination functions, the Spectrum Strategy Task Force shall consult with the FCC.
+
+Sec. 6. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of OMB relating to budgetary, administrative, or legislative proposals.
+
+(b) Nothing in this memorandum shall be construed to require the disclosure of classified information, law enforcement sensitive information, proprietary information, or other information that must be protected as required by law or in the interests of national security or public safety.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Presidential Memoranda of June 28, 2010 (Unleashing the Wireless Broadband Revolution) and June 14, 2013 (Expanding America’s Leadership in Wireless Innovation) [former [47 U.S.C. 1301](./chapter-012-broadband.md#section-1301) notes] are hereby revoked.
+
+(f) The Secretary is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
+
+<a id="section-902"></a>
+## § 902. Establishment; assigned functions
+**(a) Establishment**
+
+(1) **Administration** — There shall be within the Department of Commerce an administration to be known as the National Telecommunications and Information Administration.
+
+(2) **Head of administration** — The head of the NTIA shall be an Assistant Secretary of Commerce for Communications and Information, who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+**(b) Assigned functions**
+
+(1) **In general** — Subject to [section 904(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section904/d&num=0&edition=prelim), the Secretary shall assign to the Assistant Secretary and the NTIA responsibility for the performance of the Secretary’s communications and information functions.
+
+(2) **Communications and information functions** — Subject to [section 904(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section904/d&num=0&edition=prelim), the functions to be assigned by the Secretary under paragraph (1) include (but are not limited to) the following functions transferred to the Secretary by Reorganization Plan Number 1 of 1977 and Executive Order 12046:
+
+  (A) The authority delegated by the President to the Secretary to assign frequencies to radio stations or classes of radio stations belonging to and operated by the United States, including the authority to amend, modify, or revoke such assignments, but not including the authority to make final disposition of appeals from frequency assignments.
+
+  (B) The authority to authorize a foreign government to construct and operate a radio station at the seat of Government of the United States, but only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Commission.
+
+  (C) Functions relating to the communications satellite system, including authority vested in the President by section 201(a) of the Communications Satellite Act of 1962 ([47 U.S.C. 721(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section721/a&num=0&edition=prelim)) and delegated to the Secretary under Executive Order 12046, to—
+
+    (i) aid in the planning and development of the commercial communications satellite system and the execution of a national program for the operation of such a system;
+
+    (ii) conduct a continuous review of all phases of the development and operation of such system, including the activities of the Corporation;
+
+    (iii) coordinate, in consultation with the Secretary of State, the activities of governmental agencies with responsibilities in the field of telecommunications, so as to ensure that there is full and effective compliance at all times with the policies set forth in the Communications Satellite Act of 1962 [[47 U.S.C. 701](./chapter-006-communications-satellite-system.md#section-701) et seq.];
+
+    (iv) make recommendations to the President and others as appropriate, with respect to steps necessary to ensure the availability and appropriate utilization of the communications satellite system for general governmental purposes in consonance with section 201(a)(6) of the Communications Satellite Act of 1962 ([47 U.S.C. 721(a)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section721/a/6&num=0&edition=prelim)); 11 See References in Text note below.
+
+    (v) help attain coordinated and efficient use of the electromagnetic spectrum and the technical compatibility of the communications satellite system with existing communications facilities both in the United States and abroad;
+
+    (vi) assist in the preparation of Presidential action documents for consideration by the President as may be appropriate under section 201(a) of the Communications Satellite Act of 1962 ([47 U.S.C. 721(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section721/a&num=0&edition=prelim)), make necessary recommendations to the President in connection therewith, and keep the President informed with respect to the carrying out of the Communications Satellite Act of 1962 [[47 U.S.C. 701](./chapter-006-communications-satellite-system.md#section-701) et seq.]; and
+
+    (vii) serve as the chief point of liaison between the President and the Corporation.
+
+  (D) The authority to serve as the President’s principal adviser on telecommunications policies pertaining to the Nation’s economic and technological advancement and to the regulation of the telecommunications industry.
+
+  (E) The authority to advise the Director of the Office of Management and Budget on the development of policies relating to the procurement and management of Federal telecommunications systems.
+
+  (F) The authority to conduct studies and evaluations concerning telecommunications research and development and concerning the initiation, improvement, expansion, testing, operation, and use of Federal telecommunications systems and advising agencies of the results of such studies and evaluations.
+
+  (G) Functions which involve—
+
+    (i) developing and setting forth, in coordination with the Secretary of State and other interested agencies, plans, policies, and programs which relate to international telecommunications issues, conferences, and negotiations;
+
+    (ii) coordinating economic, technical, operational, and related preparations for United States participation in international telecommunications conferences and negotiations; and
+
+    (iii) providing advice and assistance to the Secretary of State on international telecommunications policies to strengthen the position and serve the best interests of the United States in support of the Secretary of State’s responsibility for the conduct of foreign affairs.
+
+  (H) The authority to provide for the coordination of the telecommunications activities of the executive branch and assist in the formulation of policies and standards for those activities, including (but not limited to) considerations of interoperability, privacy, security, spectrum use, and emergency readiness.
+
+  (I) The authority to develop and set forth telecommunications policies pertaining to the Nation’s economic and technological advancement and to the regulation of the telecommunications industry.
+
+  (J) The responsibility to ensure that the views of the executive branch on telecommunications matters are effectively presented to the Commission and, in coordination with the Director of the Office of Management and Budget, to the Congress.
+
+  (K) The authority to establish policies concerning spectrum assignments and use by radio stations belonging to and operated by the United States.
+
+  (L) Functions which involve—
+
+    (i) developing, in cooperation with the Commission, a comprehensive long-range plan for improved management of all electromagnetic spectrum resources;
+
+    (ii) performing analysis, engineering, and administrative functions, including the maintenance of necessary files and data bases, as necessary for the performance of assigned functions for the management of electromagnetic spectrum resources;
+
+    (iii) conducting research and analysis of electromagnetic propagation, radio systems characteristics, and operating techniques affecting the utilization of the electromagnetic spectrum in coordination with specialized, related research and analysis performed by other Federal agencies in their areas of responsibility; and
+
+    (iv) conducting research and analysis in the general field of telecommunications sciences in support of assigned functions and in support of other Government agencies.
+
+  (M) The authority to conduct studies and make recommendations concerning the impact of the convergence of computer and communications technology.
+
+  (N) The authority to coordinate Federal telecommunications assistance to State and local governments.
+
+  (O) The authority to conduct and coordinate economic and technical analyses of telecommunications policies, activities, and opportunities in support of assigned functions.
+
+  (P) The authority to contract for studies and reports relating to any aspect of assigned functions.
+
+  (Q) The authority to participate, as appropriate, in evaluating the capability of telecommunications resources, in recommending remedial actions, and in developing policy options.
+
+  (R) The authority to participate with the National Security Council and the Director of the Office of Science and Technology Policy as they carry out their responsibilities under sections 4–1, 4–2, and 4–3 of Executive Order 12046, with respect to emergency functions, the national communication system, and telecommunications planning functions.
+
+  (S) The authority to establish coordinating committees pursuant to section 10 of Executive Order 11556.
+
+  (T) The authority to establish, as permitted by law, such interagency committees and working groups composed of representatives of interested agencies and consulting with such departments and agencies as may be necessary for the effective performance of assigned functions.
+
+  (U) The responsibility to promote the best possible and most efficient use of electromagnetic spectrum resources across the Federal Government, subject to and consistent with the needs and missions of Federal agencies.
+
+(3) **Additional communications and information functions** — In addition to the functions described in paragraph (2), the Secretary under paragraph (1)—
+
+  (A) may assign to the NTIA the performance of functions under section 504(a) of the Communications Satellite Act of 1962 ([47 U.S.C. 753(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section753/a&num=0&edition=prelim));
+
+  (B) shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children’s Educational Television under [section 394 of this title](./chapter-005-wire-or-radio-communication.md#section-394); and
+
+  (C) shall assign to the NTIA responsibility for providing for the establishment, and overseeing operation, of a second-level Internet domain within the United States country code domain in accordance with [section 941 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-941).
+
+### Statutory Notes
+
+#### References in Text
+Reorganization Plan Number 1 of 1977, referred to in subsec. (b)(2), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Executive Order 12046, referred to in subsec. (b)(2), is set out as a note under [section 305 of this title](./chapter-005-wire-or-radio-communication.md#section-305).
+
+The Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iii), (vi), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, which is classified generally to chapter 6 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-006-communications-satellite-system.md#section-701) and Tables.
+
+Section 201(a)(6) of the Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iv), was classified to [section 721(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section721/a/6&num=0&edition=prelim) and was omitted from the Code.
+
+Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set out as a note under [section 305 of this title](./chapter-005-wire-or-radio-communication.md#section-305) was revoked by Ex. Ord. No. 12046, set out as a note under [section 305 of this title](./chapter-005-wire-or-radio-communication.md#section-305). Section 10 of Ex. Ord. No. 11556 related to advisory committees established by the Director of the former Office of Telecommunications Policy.
+
+#### Amendments
+2012—Subsec. (b)(2)(U). Pub. L. 112–96 added subpar. (U).
+
+2002—Subsec. (b)(3)(C). Pub. L. 107–317 added subpar. (C).
+
+#### Spectrum Information Technology Modernization Efforts
+Pub. L. 116–283, div. H, title XCII, § 9203, Jan. 1, 2021, 134 Stat. 4793, provided that: “(a) Initial Interagency Spectrum Information Technology Coordination.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Assistant Secretary of Commerce for Communications and Information, in consultation with the Policy and Plans Steering Group, shall identify a process to establish goals, including parameters to measure the achievement of such goals, for the modernization of the infrastructure of covered agencies relating to managing the use of Federal spectrum by such agencies, which shall include—“(1) the standardization of data inputs, modeling algorithms, modeling and simulation processes, analysis tools with respect to Federal spectrum, assumptions, and any other tool to ensure interoperability and functionality with respect to such infrastructure; “(2) other potential innovative technological capabilities with respect to such infrastructure, including cloud-based databases, artificial intelligence technologies, automation, and improved modeling and simulation capabilities; “(3) ways to improve the management of the use of Federal spectrum by covered agencies through such infrastructure, including by—“(A) increasing the efficiency of such infrastructure; “(B) addressing validation of usage with respect to such infrastructure; “(C) increasing the accuracy of such infrastructure; “(D) validating models used by such infrastructure; and “(E) monitoring and enforcing requirements that are imposed on covered agencies with respect to the use of Federal spectrum by covered agencies; “(4) ways to improve the ability of covered agencies to meet mission requirements in congested environments with respect to Federal spectrum, including as part of automated adjustments to operations based on changing conditions in such environments; “(5) the creation of a time-based automated mechanism—“(A) to share Federal spectrum between covered agencies to collaboratively and dynamically increase access to Federal spectrum by such agencies; and “(B) that could be scaled across Federal spectrum; and “(6) the collaboration between covered agencies necessary to ensure the interoperability of Federal spectrum. “(b) Spectrum Information Technology Modernization.—“(1) In general.—Not later than 240 days after the date of the enactment of this Act, the Assistant Secretary of Commerce for Communications and Information shall submit to Congress a report that contains a plan for the National Telecommunications and Information Administration (in this section referred to as the ‘NTIA’) to modernize and automate the infrastructure of the NTIA relating to managing the use of Federal spectrum by covered agencies so as to more efficiently manage such use. “(2) Contents.—The report required by paragraph (1) shall include—“(A) an assessment of the current, as of the date on which such report is submitted, infrastructure of the NTIA described in such paragraph; “(B) an acquisition strategy for the modernized infrastructure of the NTIA described in such paragraph, including how such modernized infrastructure will enable covered agencies to be more efficient and effective in the use of Federal spectrum; “(C) a timeline for the implementation of the modernization efforts described in such paragraph; “(D) plans detailing how the modernized infrastructure of the NTIA described in such paragraph will—“(i) enhance the security and reliability of such infrastructure so that the NTIA is in compliance with the requirements of subchapter II of chapter 35 of title 44, United States Code, with respect to such infrastructure; “(ii) improve data models and analysis tools to increase the efficiency of the spectrum use described in such paragraph; “(iii) enhance automation and workflows, and reduce the scope and level of manual effort, in order to— “(I) administer the management of the spectrum use described in such paragraph; and “(II) improve data quality and processing time; and “(iv) improve the timeliness of spectrum analyses and requests for information, including requests submitted pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code; “(E) an operations and maintenance plan with respect to the modernized infrastructure of the NTIA described in such paragraph; “(F) a strategy for coordination between the covered agencies within the Policy and Plans Steering Group, which shall include—“(i) a description of— “(I) such coordination efforts, as in effect on the date on which such report is submitted; and “(II) a plan for coordination of such efforts after the date on which such report is submitted, including with respect to the efforts described in subsection (c); “(ii) a plan for standardizing— “(I) electromagnetic spectrum analysis tools; “(II) modeling and simulation processes and technologies; and “(III) databases to provide technical interference assessments that are usable across the Federal Government as part of a common spectrum management infrastructure for covered agencies; and “(iii) a plan for each covered agency to implement a modernization plan described in subsection (c)(1) that is tailored to the particular timeline of such agency; “(G) identification of manually intensive processes involved in managing Federal spectrum and proposed enhancements to such processes; “(H) metrics to evaluate the success of the modernization efforts described in such paragraph and any similar future efforts; and “(I) an estimate of the cost of the modernization efforts described in such paragraph and any future maintenance with respect to the modernized infrastructure of the NTIA described in such paragraph, including the cost of any personnel and equipment relating to such maintenance. “(c) Covered Agency Spectrum Information Technology Modernization.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [Jan. 1, 2021], the head of each covered agency shall submit to the Assistant Secretary of Commerce for Communications and Information and the Policy and Plans Steering Group a report that describes a plan for such agency to modernize the infrastructure of such agency with respect to the use of Federal spectrum by such agency so that such modernized infrastructure of such agency is interoperable with the modernized infrastructure of the NTIA, as described in subsection (b). “(2) Contents.—Each report submitted by the head of a covered agency under paragraph (1) shall—“(A) include—“(i) an assessment of the current, as of the date on which such report is submitted, management capabilities of such agency with respect to the use of frequencies that are assigned to such agency, which shall include a description of any challenges faced by such agency with respect to such management; “(ii) a timeline for completion of the modernization efforts described in such paragraph; “(iii) a description of potential innovative technological capabilities for the management of frequencies that are assigned to such agency, as determined under subsection (a); “(iv) identification of agency-specific requirements or constraints relating to the infrastructure of such agency; “(v) identification of any existing, as of the date on which such report is submitted, systems of such agency that are duplicative of the modernized infrastructure of the NTIA, as described in subsection (b); and “(vi) with respect to the report submitted by the Secretary of Defense— “(I) a strategy for the integration of systems or the flow of data among the Armed Forces, the military departments, the Defense Agencies and Department of Defense Field Activities, and other components of the Department of Defense; “(II) a plan for the implementation of solutions to the use of Federal spectrum by the Department of Defense involving information at multiple levels of classification; and “(III) a strategy for addressing, within the modernized infrastructure of the Department of Defense described in such paragraph, the exchange of information between the Department of Defense and the NTIA in order to accomplish required processing of all Department of Defense domestic spectrum coordination and management activities; and “(B) be submitted in an unclassified format, with a classified annex, as appropriate. “(3) Notification of congress.—Upon submission of a report under paragraph (1), the head of a covered agency shall notify Congress that such report has been submitted. “(d) GAO Oversight.—The Comptroller General of the United States shall—“(1) not later than 180 days after the date of the enactment of this Act, conduct a review of the infrastructure of covered agencies, as such infrastructure exists on the date of the enactment of this Act; “(2) upon submission of all of the reports required by subsection (c), begin conducting oversight of the implementation of the modernization plans submitted by the Assistant Secretary and covered agencies under subsections (b) and (c), respectively; “(3) not later than 2 years after the date on which the Comptroller General begins conducting oversight under paragraph (2), and biennially thereafter until December 31, 2030, submit a report regarding such oversight to—“(A) with respect to the implementation of the modernization plan of the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and “(B) with respect to the implementation of the modernization plans of all covered agencies, including the Department of Defense, the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives; and “(4) until December 31, 2030, provide regular briefings to—“(A) with respect to the application of this section to the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and “(B) with respect to the application of this section to all covered agencies, including the Department of Defense, the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives. “(e) Definitions.—In this section:“(1) The term ‘covered agency’—“(A) means any Federal entity that the Assistant Secretary of Commerce for Communications and Information determines is appropriate; and “(B) includes the Department of Defense. “(2) The term ‘Federal entity’ has the meaning given such term in section 113(l) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923](./chapter-008-national-telecommunications-and-information-administration.md#section-923)(l)). “(3) The term ‘Federal spectrum’ means frequencies assigned on a primary basis to a covered agency. “(4) The term ‘infrastructure’ means information technology systems and information technologies, tools, and databases.”
+
+#### Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
+Pub. L. 110–161, div. B, title V, § 536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX, § 941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: “This section may be cited as the ‘ED 1.0 Act’. “(a) In this section:“(1) The term ‘Administrator’ means the Administrator of the National Telecommunications and Information Administration. “(2) The term ‘eligible educational institution’ means an institution that is—“(A) a historically Black college or university; “(B) a Hispanic-serving institution as that term is defined in section 502(a)(5) of the Higher Education Act of 1965 ([20 U.S.C. 1101a(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a/5&num=0&edition=prelim)); “(C) a tribally controlled college or university as that term is defined in section 2(a)(4) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 ([25 U.S.C. 1801(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a/4&num=0&edition=prelim)); “(D) an Alaska Native-serving institution as that term is defined in section 317(b)(2) of the Higher Education Act of 1965 ([20 U.S.C. 1059d(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059d/b/2&num=0&edition=prelim)); or “(E) a Native Hawaiian-serving institution as that term is defined in section 317(b)(4) of the Higher Education Act of 1965 ([20 U.S.C. 1059d(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059d/b/4&num=0&edition=prelim)). “(3) The term ‘historically Black college or university’ means a part B institution as that term is defined in section 322(2) of the Higher Education Act of 1965 ([20 U.S.C. 1061(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061/2&num=0&edition=prelim)). “(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions. The Administrator shall award not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2). “(B)(i) The Administrator shall award a total of 9 grants under this subsection. “(ii) The Administrator shall make grant payments under this subsection in the amount of $500,000. “(2)(A) In awarding grants under this subsection the Administrator shall give priority to an eligible educational institution that, according to the most recent data available (including data available from the Bureau of the Census), serves a county, or other appropriate political subdivision where no counties exist—“(i) in which 50 percent of the residents of the county, or other appropriate political subdivision where no counties exist, are members of a racial or ethnic minority; “(ii) in which less than 18 percent of the residents of the county, or other appropriate political subdivision where no counties exist, have obtained a baccalaureate degree or a higher education; “(iii) that has an unemployment rate of 7 percent or greater; “(iv) in which 20 percent or more of the residents of the county, or other appropriate political subdivision where no counties exist, live in poverty; “(v) that has a negative population growth rate; or “(vi) that has a family income of not more than $32,000. “(B) In awarding grants under this subsection the Administrator shall give the highest priority to an eligible educational institution that meets the greatest number of requirements described in clauses (i) through (vi) of subparagraph (A). “(3) An eligible educational institution receiving a grant under this subsection may use the grant funds—“(A) to acquire equipment, instrumentation, networking capability, hardware, software, digital network technology, wireless technology, or wireless infrastructure; “(B) to develop and provide educational services, including faculty development; or “(C) to develop strategic plans for information technology investments. “(4) The Administrator shall not require an eligible educational institution to provide matching funds for a grant awarded under this subsection. “(5)(A) The Administrator shall consult with the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, on a quarterly basis regarding the pilot program assisted under this subsection. “(B) Not later than 1 year after the date of enactment of this section [Dec. 26, 2007], the Administrator shall submit to the committees described in subparagraph (A) a report evaluating the progress of the pilot program assisted under this subsection. “(c) There are authorized to be appropriated to carry out this section $4,500,000 for each of fiscal years 2008 and 2009. “(d) The Administrator shall carry out this section only with amounts appropriated in advance specifically to carry out this section.”
+
+#### Study of Technology Protection Measures
+Pub. L. 106–554, § 1(a)(4) [div. B, title XVII, § 1703], Dec. 21, 2000, 114 Stat. 2763, 2763A–336, provided that: “(a) In General.—Not later than 18 months after the date of the enactment of this Act [Dec. 21, 2000], the National Telecommunications and Information Administration shall initiate a notice and comment proceeding for purposes of—“(1) evaluating whether or not currently available technology protection measures, including commercial Internet blocking and filtering software, adequately addresses the needs of educational institutions; “(2) making recommendations on how to foster the development of measures that meet such needs; and “(3) evaluating the development and effectiveness of local Internet safety policies that are currently in operation after community input. “(b) Definitions.—In this section:“(1) Technology protection measure.—The term ‘technology protection measure’ means a specific technology that blocks or filters Internet access to visual depictions that are—“(A) obscene, as that term is defined in [section 1460 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1460&num=0&edition=prelim), United States Code; “(B) child pornography, as that term is defined in [section 2256 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2256&num=0&edition=prelim), United States Code; or “(C) harmful to minors. “(2) Harmful to minors.—The term ‘harmful to minors’ means any picture, image, graphic image file, or other visual depiction that—“(A) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion; “(B) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and “(C) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors. “(3) Sexual act; sexual contact.—The terms ‘sexual act’ and ‘sexual contact’ have the meanings given such terms in [section 2246 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2246&num=0&edition=prelim), United States Code.”
+
+
+<a id="section-903"></a>
+## § 903. Spectrum management activities
+**(a) Revision of regulations** Within 180 days after October 27, 1992, the Secretary of Commerce and the NTIA shall amend the Department of Commerce spectrum management document entitled “Manual of Regulations and Procedures for Federal Radio Frequency Management” to improve Federal spectrum management activities and shall publish in the Federal Register any changes in the regulations in such document.
+
+**(b) Requirements for revisions** The amendments required by subsection (a) shall—
+
+(1) provide for a period at the beginning of each meeting of the Interdepartmental Radio Advisory Committee to be open to the public to make presentations and receive advice, and provide the public with other meaningful opportunities to make presentations and receive advice;
+
+(2) include provisions that will require (A) publication in the Federal Register of major policy proposals that are not classified and that involve spectrum management, and (B) adequate opportunity for public review and comment on those proposals;
+
+(3) include provisions that will require publication in the Federal Register of major policy decisions that are not classified and that involve spectrum management;
+
+(4) include provisions that will require that nonclassified spectrum management information be made available to the public, including access to electronic databases; and
+
+(5) establish procedures that provide for the prompt and impartial consideration of requests for access to Government spectrum by the public, which procedures shall include provisions that will require the disclosure of the status and ultimate disposition of any such request.
+
+**(c) Certification to Congress** Not later than 180 days after October 27, 1992, the Secretary of Commerce shall certify to Congress that the Secretary has complied with this section.
+
+**(d) Radio services**
+
+(1) **Assignments for radio services** — In assigning frequencies for mobile radio services and other radio services, the Secretary of Commerce shall promote efficient and cost-effective use of the spectrum to the maximum extent feasible.
+
+(2) **Authority to withhold assignments** — The Secretary of Commerce shall have the authority to withhold or refuse to assign frequencies for mobile radio service or other radio service in order to further the goal of making efficient and cost-effective use of the spectrum.
+
+(3) **Spectrum plan** — By October 1, 1993, the Secretary of Commerce shall adopt and commence implementation of a plan for Federal agencies with existing mobile radio systems to use more spectrum-efficient technologies that are at least as spectrum-efficient and cost-effective as readily available commercial mobile radio systems. The plan shall include a time schedule for implementation.
+
+(4) **Report to Congress** — By October 1, 1993, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report summarizing the plan adopted under paragraph (3), including the implementation schedule for the plan.
+
+**(e) Proof of compliance with FCC licensing requirements**
+
+(1) **Amendment to manual required** — Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) to require that—
+
+  (A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to [section 902(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902/b/2/A&num=0&edition=prelim) for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
+
+  (B) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to utilize a radio station belonging to the United States for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission.
+
+(2) **Retention of forms** — The NTIA shall maintain on file the proofs submitted under paragraph (1), or facsimiles thereof.
+
+(3) **Certification** — Within 1 year after August 10, 1993, the Secretary and the NTIA shall certify to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that—
+
+  (A) the amendments required by paragraph (1) have been accomplished; and
+
+  (B) the requirements of subparagraphs (A) and (B) of such paragraph are being enforced.
+
+### Statutory Notes
+
+#### Amendments
+1993—Subsec. (e). Pub. L. 103–66 added subsec. (e).
+
+#### Change of Name
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Authorization of Use of Spectrum By, and Provision of Spectrum Functions to, Federal Entity; Reimbursement
+Pub. L. 108–7, div. B, title II, Feb. 20, 2003, 117 Stat. 71, provided in part: “That hereafter, notwithstanding any other provision of law, NTIA [National Telecommunications and Information Administration] shall not authorize spectrum use or provide any spectrum functions pursuant to the National Telecommunications and Information Administration Organization Act, [47 U.S.C. 902–903](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902–903&num=0&edition=prelim) [[47 U.S.C. 901](./chapter-008-national-telecommunications-and-information-administration.md#section-901) et seq.], to any Federal entity without reimbursement as required by NTIA for such spectrum management costs, and Federal entities withholding payment of such cost shall not use spectrum”.
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 772.
+
+Pub. L. 106–553, § 1(a)(2) [title II], Dec. 21, 2000, 114 Stat. 2762, 2762A–72.
+
+Pub. L. 106–113, div. B, § 1000(a)(1) [title II], Nov. 29, 1999, 113 Stat. 1535, 1501A–26.
+
+Pub. L. 105–277, div. A, § 101(b) [title II], Oct. 21, 1998, 112 Stat. 2681–50, 2681–80.
+
+Pub. L. 105–119, title II, Nov. 26, 1997, 111 Stat. 2474.
+
+Pub. L. 104–208, div. A, title I, § 101(a) [title II], Sept. 30, 1996, 110 Stat. 3009, 3009–35.
+
+
+<a id="section-904"></a>
+## § 904. General administrative provisions
+**(a) Interagency functions**
+
+(1) **Agency consultation** — Federal agencies shall consult with the Assistant Secretary and the NTIA to ensure that the conduct of telecommunications activities by such agencies is consistent with the policies developed under [section 902(b)(2)(K) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902/b/2/K&num=0&edition=prelim).
+
+(2) **Report to President** — The Secretary shall timely submit to the President each year the report (including evaluations and recommendations) provided for in section 744(a) 11 See References in Text note below. of this title.
+
+(3) **Coordination with Secretary of State** — The Secretary shall coordinate with the Secretary of State the performance of the functions described in [section 902(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902/b/2/C&num=0&edition=prelim). The Corporation and concerned executive agencies shall provide the Secretary with such assistance, documents, and other cooperation as will enable the Secretary to carry out those functions.
+
+**(b) Advisory committees and informal consultations with industry** To the extent the Assistant Secretary deems it necessary to continue the Interdepartmental Radio Advisory Committee, such Committee shall serve as an advisory committee to the Assistant Secretary and the NTIA. As permitted by law, the Assistant Secretary may establish one or more telecommunications or information advisory committees (or both) composed of experts in the telecommunications and/or information areas outside the Government. The NTIA may also informally consult with industry as appropriate to carry out the most effective performance of its functions.
+
+**(c) General provisions**
+
+(1) **Regulations** — The Secretary and NTIA shall issue such regulations as may be necessary to carry out the functions assigned under this chapter.
+
+(2) **Support and assistance from other agencies** — All executive agencies are authorized and directed to cooperate with the NTIA and to furnish it with such information, support, and assistance, not inconsistent with law, as it may require in the performance of its functions.
+
+(3) **Effect on vested functions** — Nothing in this chapter reassigns any function that is, on October 27, 1992, vested by law or executive order in the Commission, or the Department of State, or any officer thereof.
+
+**(d) Reorganization**
+
+(1) **Authority to reorganize** — Subject to paragraph (2), the Secretary may reassign to another unit of the Department of Commerce a function (or portion thereof) required to be assigned to the NTIA by [section 902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902/b&num=0&edition=prelim).
+
+(2) **Limitation on authority** — The Secretary may not make any reassignment of a function (or portion thereof) required to be assigned to the NTIA by [section 902(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section902/b&num=0&edition=prelim) unless the Secretary submits to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a statement describing the proposed reassignment and containing an explanation of the reasons for the reassignment. No reassignment of any such function (or portion thereof) shall be effective until 90 legislative days after the Secretary submits that statement to such Committees. For purposes of this paragraph, the term “legislative days” includes only days on which both Houses of Congress are in session.
+
+**(e) Limitation on solicitations** Notwithstanding [section 1522 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1522&num=0&edition=prelim), neither the Secretary, the Assistant Secretary, nor any officer or employee of the NTIA shall solicit any gift or bequest of property, both real and personal, from any entity for the purpose of furthering the authorized functions of the NTIA if such solicitation would create a conflict of interest or an appearance of a conflict of interest.
+
+### Statutory Notes
+
+#### References in Text
+[Section 744(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section744/a&num=0&edition=prelim), referred to in subsec. (a)(2), was repealed by Pub. L. 103–414, title III, § 304(b)(4)(A), Oct. 25, 1994, 108 Stat. 4297.
+
+#### Change of Name
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Termination of Advisory Committees
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-905"></a>
+## § 905. Omitted
+
+### Statutory Notes
+
+#### Codification
+Section, Pub. L. 95–567, title IV, § 402, Nov. 2, 1978, 92 Stat. 2424, which required the National Telecommunications and Information Administration to submit an annual report to Congress on activities of the Administration with respect to domestic communications, international communications, Federal Government communications, spectrum plans and policies, and other matters, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, 1st item on page 55 of House Document No. 103–7.
+
+
+<a id="section-906"></a>
+## § 906. Wireless supply chain innovation and multilateral security
+**(a) Communications technology security funds**
+
+(1) **Public Wireless Supply Chain Innovation Fund**
+
+  (A) *Establishment*
+
+    (i) *In general* — There is established in the Treasury of the United States a trust fund to be known as the “Public Wireless Supply Chain Innovation Fund” (referred to in this paragraph as the “Innovation Fund”).
+
+    (ii) *Availability*
+
+      (I) *In general* — Amounts appropriated to the Innovation Fund shall remain available through the end of the tenth fiscal year beginning after the date on which funds are appropriated to the Fund.
+
+      (II) *Remainder to Treasury* — Any amounts remaining in the Innovation Fund after the end of the tenth fiscal year beginning after the date of appropriation shall be deposited in the general fund of the Treasury.
+
+  (B) *Use of Fund*
+
+    (i) *In general* — Amounts appropriated to the Innovation Fund shall be available to the Secretary, acting through the NTIA Administrator, to make grants on a competitive basis under this paragraph in such amounts as the Secretary, acting through the NTIA Administrator, determines appropriate, subject to clause (ii).
+
+    (ii) *Limitation on grant amounts* — The amount of a grant awarded under this paragraph to a recipient for a specific research focus area may not exceed $50,000,000.
+
+  (C) *Administration of Fund* — The Secretary, acting through the NTIA Administrator, in consultation with the Commission, the Under Secretary of Commerce for Standards and Technology, the Secretary of Homeland Security, the Secretary of Defense, and the Director of the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence, shall establish criteria for grants awarded under this paragraph, by the NTIA Administrator and administer the Innovation Fund, to support the following:
+
+    (i) Promoting and deploying technology, including software, hardware, and microprocessing technology, that will enhance competitiveness in the fifth-generation (commonly known as “5G”) and successor wireless technology supply chains that use open and interoperable interface radio access networks.
+
+    (ii) Accelerating commercial deployments of open interface standards-based compatible, interoperable equipment, such as equipment developed pursuant to the standards set forth by organizations such as the O-RAN Alliance, the Telecom Infra Project, 3GPP, the Open-RAN Software Community, or any successor organizations.
+
+    (iii) Promoting and deploying compatibility of new 5G equipment with future open standards-based, interoperable equipment.
+
+    (iv) Managing integration of multi-vendor network environments.
+
+    (v) Identifying objective criteria to define equipment as compliant with open standards for multi-vendor network equipment interoperability.
+
+    (vi) Promoting and deploying security features enhancing the integrity and availability of equipment in multi-vendor networks.
+
+    (vii) Promoting and deploying network function virtualization to facilitate multi-vendor interoperability and a more diverse vendor market.
+
+  (D) *Nonduplication* — To the greatest extent practicable, the Secretary, acting through the NTIA Administrator, shall ensure that any research funded by a grant awarded under this paragraph avoids duplication of other Federal or private sector research.
+
+  (E) *Timing* — Not later than one year after the date on which funds are appropriated to the Innovation Fund, the Secretary, acting through the NTIA Administrator, shall begin awarding grants under this paragraph.
+
+  (F) *Federal advisory body*
+
+    (i) *Establishment* — The Secretary, acting through the NTIA Administrator, and in consultation with the Under Secretary of Commerce for Standards and Technology, shall establish a Federal advisory committee, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), composed of government and private sector experts, to advise the Secretary and the NTIA Administrator on the administration of the Innovation Fund.
+
+    (ii) *Composition* — The advisory committee established under clause (i) shall be composed of—
+
+      (I) representatives from—
+
+        (aa) the Commission;
+
+        (bb) the Department of Defense;
+
+        (cc) the Intelligence Advanced Research Projects Activity of the Office of the Director of National Intelligence;
+
+        (dd) the National Institute of Standards and Technology;
+
+        (ee) the Department of State;
+
+        (ff) the National Science Foundation;
+
+        (gg) the Department of Homeland Security; and
+
+        (hh) the National Telecommunications and Information Administration; and
+
+      (II) other representatives from the private and public sectors, at the discretion of the NTIA Administrator.
+
+    (iii) *Duties* — The advisory committee established under clause (i) shall advise the Secretary and the NTIA Administrator on technology developments to help inform—
+
+      (I) the strategic direction of the Innovation Fund; and
+
+      (II) efforts of the Federal Government to promote a more secure, diverse, sustainable, and competitive supply chain.
+
+  (G) *Reports to Congress*
+
+    (i) *Initial report* — Not later than 180 days after January 1, 2021, the Secretary, acting through the NTIA Administrator, shall submit to the relevant committees of Congress a report with—
+
+      (I) additional recommendations on promoting the competitiveness and sustainability of trusted suppliers in the wireless supply chain; and
+
+      (II) any additional authorities needed to facilitate the timely adoption of open standards-based equipment, including authority to provide loans, loan guarantees, and other forms of credit extension that would maximize the use of funds.
+
+    (ii) *Annual report* — For each fiscal year for which amounts in the Innovation Fund are available under this paragraph, the Secretary, acting through the NTIA Administrator, shall submit to Congress a report that—
+
+      (I) describes how, and to whom (including whether recipients are majority owned and controlled by minority individuals and majority owned and controlled by women), amounts in the Innovation Fund have been deployed;
+
+      (II) details the progress of the Secretary and the NTIA Administrator in meeting the objectives described in subparagraph (C); and
+
+      (III) includes any additional information that the Secretary and the NTIA Administrator determine appropriate.
+
+(2) **Multilateral Telecommunications Security Fund**
+
+  (A) *Establishment of Fund*
+
+    (i) *In general* — There is established in the Treasury of the United States a trust fund to be known as the “Multilateral Telecommunications Security Fund”.
+
+    (ii) *Use of Fund* — Amounts appropriated to the Multilateral Telecommunications Security Fund shall be available to the Secretary of State to make expenditures under this paragraph in such amounts as the Secretary of State determines appropriate.
+
+    (iii) *Availability*
+
+      (I) *In general* — Amounts appropriated to the Multilateral Telecommunications Security Fund—
+
+        (aa) shall remain available through the end of the tenth fiscal year beginning after the date of appropriation; and
+
+        (bb) may only be allocated upon the Secretary of State reaching an arrangement or agreement with foreign government partners to participate in the common funding mechanism described in subparagraph (B).
+
+      (II) *Remainder to Treasury* — Any amounts remaining in the Multilateral Telecommunications Security Fund after the end of the tenth fiscal year beginning after January 1, 2021 shall be deposited in the general fund of the Treasury.
+
+  (B) *Administration of Fund* — The Secretary of State, in consultation with the NTIA Administrator, the Secretary of Homeland Security, the Secretary of Defense, the Secretary of the Treasury, the Director of National Intelligence, and the Commission, is authorized to establish a common funding mechanism, in coordination with foreign partners, that uses amounts from the Multilateral Telecommunications Security Fund to support the development and adoption of secure and trusted telecommunications technologies. In creating and sustaining a common funding mechanism, the Secretary of State should leverage United States funding in order to secure commitments and contributions from trusted foreign partners such as the United Kingdom, Canada, Australia, New Zealand, and Japan, and should prioritize the following objectives:
+
+    (i) Advancing research and development of secure and trusted communications technologies.
+
+    (ii) Strengthening supply chains.
+
+    (iii) Promoting the use of trusted vendors.
+
+  (C) *Annual report to Congress* — Not later than 1 year after January 1, 2021, and annually thereafter for each fiscal year during which amounts in the Multilateral Telecommunications Security Fund are available, the Secretary of State shall submit to the relevant committees of Congress a report on the status and progress of the funding mechanism established under subparagraph (B), including—
+
+    (i) any funding commitments from foreign partners, including each specific amount committed;
+
+    (ii) governing criteria for use of the Multilateral Telecommunications Security Fund;
+
+    (iii) an account of—
+
+      (I) how, and to whom, funds have been deployed;
+
+      (II) amounts remaining in the Multilateral Telecommunications Security Fund; and
+
+      (III) the progress of the Secretary of State in meeting the objective described in subparagraph (B); and
+
+    (iv) additional authorities needed to enhance the effectiveness of the Multilateral Telecommunications Security Fund in achieving the security goals of the United States.
+
+  (D) *Notifications to be provided by the Fund*
+
+    (i) *In general* — Not later than 15 days prior to the Fund making a financial commitment associated with the provision of expenditures under subparagraph (A)(ii) in an amount in excess of $1,000,000, the Secretary of State shall submit to the appropriate congressional committees a report in writing that contains the information required by clause (ii).
+
+    (ii) *Information required* — The information required by this clause includes—
+
+      (I) the amount of each such expenditure;
+
+      (II) an identification of the recipient or beneficiary; and
+
+      (III) a description of the project or activity and the purpose to be achieved of an expenditure by the Fund.
+
+    (iii) *Arrangements or agreements* — The Secretary of State shall notify the appropriate congressional committees not later than 30 days after entering into a new bilateral or multilateral arrangement or agreement described in subparagraph (A)(iii)(I)(bb).
+
+    (iv) *Appropriate congressional committees defined* — In this subparagraph, the term “appropriate congressional committees” means—
+
+      (I) the Committee on Foreign Relations of the Senate;
+
+      (II) the Committee on Appropriations of the Senate;
+
+      (III) the Committee on Foreign Affairs of the House of Representatives; and
+
+      (IV) the Committee on Appropriations of the House of Representatives.
+
+**(b) Promoting United States leadership in international organizations and communications standards-setting bodies**
+
+(1) **In general** — The Secretary of State, the Secretary of Commerce, and the Chairman of the Commission, or their designees, shall consider how to enhance representation of the United States at international forums that set standards for 5G networks and for future generations of wireless communications networks, including—
+
+  (A) the International Telecommunication Union (commonly known as “ITU”);
+
+  (B) the International Organization for Standardization (commonly known as “ISO”);
+
+  (C) the Inter-American Telecommunication Commission (commonly known as “CITEL”); and
+
+  (D) the voluntary standards organizations that develop protocols for wireless devices and other equipment, such as the 3GPP and the Institute of Electrical and Electronics Engineers (commonly known as “IEEE”).
+
+(2) **Annual report** — The Secretary of State, the Secretary of Commerce, and the Chairman of the Commission shall jointly submit to the relevant committees of Congress an annual report on the progress made under paragraph (1).
+
+**(c) Definitions** In this section:
+
+(1) The term “3GPP” means the Third Generation Partnership Project.
+
+(2) The term “5G network” means a radio network as described by 3GPP Release 15 or higher.
+
+(3) The term “Commission” means the Federal Communications Commission.
+
+(4) The term “NTIA Administrator” means the Assistant Secretary of Commerce for Communications and Information.
+
+(5) The term “Open-RAN” means the Open Radio Access Network approach to standardization adopted by the O-RAN Alliance, Telecom Infra Project, or 3GPP, or any similar set of open standards for multi-vendor network equipment interoperability.
+
+(6) The term “relevant committees of Congress” means—
+
+  (A) the Select Committee on Intelligence of the Senate;
+
+  (B) the Committee on Foreign Relations of the Senate;
+
+  (C) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+  (D) the Committee on Armed Services of the Senate;
+
+  (E) the Committee on Commerce, Science, and Transportation of the Senate;
+
+  (F) the Committee on Appropriations of the Senate;
+
+  (G) the Permanent Select Committee on Intelligence of the House of Representatives;
+
+  (H) the Committee on Foreign Affairs of the House of Representatives;
+
+  (I) the Committee on Homeland Security of the House of Representatives;
+
+  (J) the Committee on Armed Services of the House of Representatives;
+
+  (K) the Committee on Energy and Commerce of the House of Representatives; and
+
+  (L) the Committee on Appropriations of the House of Representatives.
+
+(7) The term “Secretary” means the Secretary of Commerce.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (a)(1)(F)(i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 and not as part of the National Telecommunications and Information Administration Organization Act which comprises this chapter.
+
+#### Amendments
+2022—Subsec. (a)(1)(G)(ii)(I). Pub. L. 117–167 inserted “(including whether recipients are majority owned and controlled by minority individuals and majority owned and controlled by women)” after “to whom”.
+
+
+<a id="section-921"></a>
+## § 921. Definitions
+
+As used in this subchapter:
+
+(1) The term “allocation” means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.
+
+(2) The term “assignment” means an authorization given to a station licensee to use specific frequencies or channels.
+
+(3) The term “the 1934 Act” means the Communications Act of 1934 ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+#### Spectrum Auctions
+Pub. L. 117–58, div. I, § 90008(a), (b), Nov. 15, 2021, 135 Stat. 1348, 1349, provided that: “(a) Definitions.—In this section:“(1) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(2) Covered band.—The term ‘covered band’ means the band of frequencies between 3100 and 3450 megahertz. “(3) Relevant congressional committees.—The term ‘relevant congressional committees’ means—“(A) the Committee on Armed Services of the Senate; “(B) the Committee on Armed Services of the House of Representatives; “(C) the Committee on Commerce, Science, and Transportation of the Senate; and “(D) the Committee on Energy and Commerce of the House of Representatives. “(b) 3.1–3.45 GHz Band.—“(1) Pre-auction funding.—“(A) In general.—On the date of enactment of this Act [Nov. 15, 2021], the Director of the Office of Management and Budget shall transfer $50,000,000 from the Spectrum Relocation Fund established under section 118 of the National Telecommunications and Information Administration Act ([47 U.S.C. 928](./chapter-008-national-telecommunications-and-information-administration.md#section-928)) to the Department of Defense for the purpose of research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities to improve efficiency and effectiveness of the spectrum use of the Department of Defense in order to make available electromagnetic spectrum in the covered band—“(i) for reallocation for shared Federal and non-Federal commercial licensed use; and “(ii) for auction under paragraph (3) of this subsection. “(B) Exemption.—Section 118(g) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 928(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/g&num=0&edition=prelim)) shall not apply with respect to the payment required under subparagraph (A). “(C) Report to secretary of commerce.—For purposes of paragraph (2)(A), the Secretary of Defense shall report to the Secretary of Commerce the findings of the planning activities described in subparagraph (A) of this paragraph. “(2) Identification.—“(A) In general.—Not later than 21 months after the date of enactment of this Act, in accordance with the findings of the planning activities described in paragraph (1)(A) and subject to the determination of the Secretary of Defense under subparagraph (B) of this paragraph, the Secretary of Commerce, in coordination with the Secretary of Defense, the Director of the Office of Science and Technology Policy, and relevant congressional committees, shall—“(i) determine which frequencies of electromagnetic spectrum in the covered band could be made available on a shared basis between Federal use and non-Federal commercial licensed use, subject to flexible-use service rules; and “(ii) submit to the President and the Commission a report that identifies the frequencies determined appropriate under clause (i). “(B) Required determination.—The Secretary of Commerce may identify frequencies under subparagraph (A)(ii) only if the Secretary of Defense has determined that sharing those frequencies with non-Federal users would not impact the primary mission of military spectrum users in the covered band. “(3) Auction.—Not earlier than November 30, 2024, the Commission, in consultation with the Assistant Secretary of Commerce for Communications and Information, shall begin a system of competitive bidding under section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)) to grant new licenses for the spectrum identified under paragraph (2)(A)(ii) of this subsection. “(4) Sharing of spectrum.—Not earlier than May 31, 2025, the President shall modify any assignment to a Federal Government station of the frequencies identified under clause (ii) of paragraph (2)(A) in order to accommodate shared Federal and non-Federal commercial licensed use in accordance with that paragraph. “(5) Auction proceeds to cover 110 percent of federal relocation or sharing costs.—Nothing in this subsection shall be construed to relieve the Commission from the requirements under section 309(j)(16)(B) of the Communications Act of 1934 ([47 U.S.C. 309(j)(16)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/16/B&num=0&edition=prelim)).”
+
+#### Reallocation and Auction of 3450–3550 MHZ Spectrum Band
+Pub. L. 116–260, div. FF, title IX, § 905, Dec. 27, 2020, 134 Stat. 3215, provided that: “(a) Short Title.—This section may be cited as the ‘Beat China by Harnessing Important, National Airwaves for 5G Act of 2020’ or the ‘Beat CHINA for 5G Act of 2020’. “(b) Definitions.—In this Act [probably means “this section”]—“(1) the term ‘Commission’ means the Federal Communications Commission; and “(2) the term ‘covered band’ means the band of electromagnetic spectrum between the frequencies of 3450 megahertz and 3550 megahertz, inclusive. “(c) Withdrawal or Modification of Federal Government Assignments.—The President, acting through the Assistant Secretary of Commerce for Communications and Information, shall—“(1) not later than 180 days after the date of enactment of this Act [Dec. 27, 2020], in coordination with relevant Federal users, begin the process of withdrawing or modifying the assignments to Federal Government stations of the covered band as necessary for the Commission to comply with subsection (d); and “(2) not later than 30 days after completing any necessary withdrawal or modification under paragraph (1), notify the Commission that the withdrawal or modification is complete. “(d) Reallocation and Auction.—“(1) In general.—The Commission shall—“(A) revise the non-Federal allocation for the covered band to permit flexible-use services; and “(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)), not later than December 31, 2021, begin a system of competitive bidding under that section to grant new initial licenses for the use of a portion or all of the covered band, subject to flexible-use service rules. “(2) Exemption from notification requirement.—The first sentence of section 113(g)(4)(A) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923(g)(4)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/4/A&num=0&edition=prelim)) shall not apply with respect to the system of competitive bidding required under paragraph (1)(B) of this subsection. “(3) Proceeds to cover 110 percent of federal relocation or sharing costs.—Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of section 309(j)(16)(B) of the Communications Act of 1934 ([47 U.S.C. 309(j)(16)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/16/B&num=0&edition=prelim)).”
+
+#### Identification, Reallocation, and Auction of Federal Spectrum
+Pub. L. 114–74, title X, §§ 1002–1004, Nov. 2, 2015, 129 Stat. 621, as amended by Pub. L. 114–328, div. A, title X, § 1044, Dec. 23, 2016, 130 Stat. 2394, provided that: “SEC. 1002. DEFINITIONS.“In this title [see Short Title of 2015 Amendment note set out under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901)]:“(1) Assistant secretary.—The term ‘Assistant Secretary’ means the Assistant Secretary of Commerce for Communications and Information. “(2) Commission.—The term ‘Commission’ means the Federal Communications Commission. “(3) Federal entity.—The term ‘Federal entity’ has the meaning given such term in section 113(l) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923](./chapter-008-national-telecommunications-and-information-administration.md#section-923)(l)). “(4) Secretary.—The term ‘Secretary’ means the Secretary of Commerce. “SEC. 1003. RULE OF CONSTRUCTION.“Each range of frequencies described in this title shall be construed to be inclusive of the upper and lower frequencies in the range. “SEC. 1004. IDENTIFICATION, REALLOCATION, AND AUCTION OF FEDERAL SPECTRUM.“(a) Identification of Spectrum.—Not later than January 1, 2022, the Secretary shall submit to the President and to the Commission a report identifying 30 megahertz of electromagnetic spectrum (in bands of not less than 10 megahertz of contiguous frequencies) below the frequency of 3 gigahertz (except for the spectrum between the frequencies of 1675 megahertz and 1695 megahertz) for reallocation from Federal use to non-Federal use or shared Federal and non-Federal use, or a combination thereof. “(b) Clearing of Spectrum.—The President shall—“(1) not later than January 1, 2022, begin the process of withdrawing or modifying the assignment to a Federal Government station of the electromagnetic spectrum identified under subsection (a); and “(2) not later than 30 days after completing the withdrawal or modification, notify the Commission that the withdrawal or modification is complete. “(c) Reallocation and Auction.—“(1) In general.—The Commission shall—“(A) reallocate the electromagnetic spectrum identified under subsection (a) for non-Federal use or shared Federal and non-Federal use, or a combination thereof; and “(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)), not later than July 1, 2024, begin a system of competitive bidding under such section to grant new initial licenses for the use of such spectrum, subject to flexible-use service rules. “(2) Proceeds to cover 110 percent of federal relocation or sharing costs.—Nothing in paragraph (1) shall be construed to relieve the Commission from the requirements of section 309(j)(16)(B) of the Communications Act of 1934 ([47 U.S.C. 309(j)(16)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/16/B&num=0&edition=prelim)). “(d) Protection of Certain Federal Spectrum Operations.—If the report required by subsection (a) determines that reallocation and auction of the spectrum described in the report would harm national security by impacting existing terrestrial Federal spectrum operations at the Nevada Test and Training Range, the Commission, in coordination with the Secretary shall, prior to the auction described in subsection (c)(1)(B), establish rules for licensees in such spectrum sufficient to mitigate harmful interference to such operations. “(e) Rule of Construction.—Nothing in this section shall be construed to affect any requirement under section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 ([47 U.S.C. 921](./chapter-008-national-telecommunications-and-information-administration.md#section-921) note; Public Law 106–65).”
+
+#### Study and Report on Current and Future Spectrum Use
+Pub. L. 106–553, § 1(a)(2) [title II], Dec. 21, 2000, 114 Stat. 2762, 2762A–73, provided in part that the Administrator would, after consultation with other appropriate agencies, complete and submit to Congress not later than twelve months after Dec. 21, 2000, a study of the current and future use of spectrum by these entities to protect and maintain the nation’s critical infrastructure and also provided that within six months after the release of this study, the Chairman of the Federal Ccommunication Commission was to submit a report to Congress on actions that could be taken by the Commission to address any needs identified in the study.
+
+#### Report on Progress on Spectrum Sharing
+Pub. L. 106–398, § 1 [[div. A], title XVII, § 1705], Oct. 30, 2000, 114 Stat. 1654, 1654A–366, provided that the Secretary of Defense, in consultation with the Attorney General and the Secretary of Commerce, would provide for an engineering study to identify any portion of the 138–144 megahertz band that the Department of Defense could share in various geographic regions with public safety radio services, any measures required to prevent harmful interference between Department of Defense systems and the public safety systems, and a reasonable schedule for implementation of sharing of frequencies, with an interim report due to Congress by 1 year after Oct. 30, 2000, on progress of the study, and no later than Jan. 1, 2002, a report submitted jointly by the Secretary of Commerce and the Chairman of the Federal Communication Commission on alternative frequencies available for use by public safety systems.
+
+#### Surrender of Department of Defense Spectrum
+Pub. L. 106–65, div. A, title X, § 1062(b), Oct. 5, 1999, 113 Stat. 768, provided that: “(1) In general.—If, in order to make available for other use a band of frequencies of which it is a primary user, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—“(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies and makes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and “(B) the Secretary of Commerce, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff jointly certify to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services and the Committee on Commerce [now Committee on Energy and Commerce] of the House of Representatives, that such alternative band or bands provides comparable technical characteristics to restore essential military capability that will be lost as a result of the band of frequencies to be so surrendered. “(2) Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) [enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) [enacting [section 337 of this title](./chapter-005-wire-or-radio-communication.md#section-337), amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under [section 309 of this title](./chapter-005-wire-or-radio-communication.md#section-309)], other than a band of frequencies that is reclaimed pursuant to subsection (c) [amending [section 923 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-923) and enacting provisions set out as a note below].”
+
+[Pub. L. 108–494, title II, § 206, Dec. 23, 2004, 118 Stat. 3996, provided that: “Nothing in this title [see Short Title of 2004 Amendment note set out under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901)] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) [set out above].” ]
+
+#### Reassignment to Federal Government for Use by Department of Defense of Certain Frequency Spectrum Recommended for Reallocation
+Pub. L. 106–65, div. A, title X, § 1062(c)(1), Oct. 5, 1999, 113 Stat. 768, provided that: “Notwithstanding any provision of the National Telecommunications and Information Administration Organization Act [[47 U.S.C. 901](./chapter-008-national-telecommunications-and-information-administration.md#section-901) et seq.] or the Balanced Budget Act of 1997 [Pub. L. 105–33, see Tables for classification], the President shall reclaim for exclusive Federal Government use on a primary basis by the Department of Defense— “(A) the bands of frequencies aggregating 3 megahertz located between 138 and 144 megahertz that were recommended for reallocation in the second reallocation report under section 113(a) of that Act [probably means [47 U.S.C. 923(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/a&num=0&edition=prelim)]; and “(B) the band of frequency aggregating 5 megahertz located between 1385 megahertz and 1390 megahertz, inclusive, that was so recommended for reallocation.”
+
+#### Assessment of Electromagnetic Spectrum Reallocation
+Pub. L. 102–538, title I, § 156, as added by Pub. L. 106–65, div. A, title X, § 1062(a), Oct. 5, 1999, 113 Stat. 767, required the Secretary of Commerce to convene an interagency review and assessment of the progress made in implementation of national spectrum planning, the reallocation of Federal Government spectrum to non-Federal use, and the implications for such reallocations to the affected Federal executive agencies and to submit to the President and committees of Congress, not later than Oct. 1, 2000, a report on the assessment.
+
+
+<a id="section-922"></a>
+## § 922. National spectrum allocation planning
+
+The Assistant Secretary and the Chairman of the Commission shall meet, at least biannually, to conduct joint spectrum planning with respect to the following issues:
+
+(1) the extent to which licenses for spectrum use can be issued pursuant to [section 309(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim) to increase Federal revenues;
+
+(2) the future spectrum requirements for public and private uses, including State and local government public safety agencies;
+
+(3) the spectrum allocation actions necessary to accommodate those uses; and
+
+(4) actions necessary to promote the efficient use of the spectrum, including spectrum management techniques to promote increased shared use of the spectrum that does not cause harmful interference as a means of increasing commercial access.
+
+
+<a id="section-923"></a>
+## § 923. Identification of reallocable frequencies
+**(a) Identification required** The Secretary shall, within 18 months after August 10, 1993, and within 6 months after August 5, 1997, prepare and submit to the President and the Congress a report identifying and recommending for reallocation bands of frequencies—
+
+(1) that are allocated on a primary basis for Federal Government use;
+
+(2) that are not required for the present or identifiable future needs of the Federal Government;
+
+(3) that can feasibly be made available, as of the date of submission of the report or at any time during the next 15 years, for use under the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.] (other than for Federal Government stations under section 305 of the 1934 Act [[47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)]);
+
+(4) the transfer of which (from Federal Government use) will not result in costs to the Federal Government, or losses of services or benefits to the public, that are excessive in relation to the benefits to the public that may be provided by non-Federal licensees; and
+
+(5) that are most likely to have the greatest potential for productive uses and public benefits under the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.] if allocated for non-Federal use.
+
+**(b) Minimum amount of spectrum recommended**
+
+(1) **Initial reallocation report** — In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the initial report required by subsection (a), for use other than by Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)), bands of frequencies that in the aggregate span not less than 200 megahertz, that are located below 5 gigahertz, and that meet the criteria specified in paragraphs (1) through (5) of subsection (a). Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that span in the aggregate not less than 100 megahertz.
+
+(2) **Mixed uses permitted to be counted** — Bands of frequencies which a report of the Secretary under subsection (a) or (d)(1) recommends be partially retained for use by Federal Government stations, but which are also recommended to be reallocated to be made available under the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.] for use by non-Federal stations, may be counted toward the minimum spectrum required by paragraph (1) or (3) of this subsection, except that—
+
+  (A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
+
+  (B) a band of frequencies may not be counted under this paragraph unless the assignments of the band to Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)) are limited by geographic area, by time, or by other means so as to guarantee that the potential use to be made by such Federal Government stations is substantially less (as measured by geographic area, time, or otherwise) than the potential use to be made by non-Federal stations; and
+
+  (C) the operational sharing permitted under this paragraph shall be subject to the interference regulations prescribed by the Commission pursuant to section 305(a) of the 1934 Act [[47 U.S.C. 305(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section305/a&num=0&edition=prelim)] and to coordination procedures that the Commission and the Secretary shall jointly establish and implement to ensure against harmful interference.
+
+(3) **Second reallocation report** — In accordance with the provisions of this section, the Secretary shall recommend for reallocation in the second report required by subsection (a), for use other than by Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)), a band or bands of frequencies that—
+
+  (A) in the aggregate span not less than 12 megahertz;
+
+  (B) are located below 3 gigahertz; and
+
+  (C) meet the criteria specified in paragraphs (1) through (5) of subsection (a).
+
+**(c) Criteria for identification**
+
+(1) **Needs of the Federal Government** — In determining whether a band of frequencies meets the criteria specified in subsection (a)(2), the Secretary shall—
+
+  (A) consider whether the band of frequencies is used to provide a communications service that is or could be available from a commercial provider or other vendor;
+
+  (B) seek to promote—
+
+    (i) the maximum practicable reliance on commercially available substitutes;
+
+    (ii) the sharing of frequencies (as permitted under subsection (b)(2));
+
+    (iii) the development and use of new communications technologies; and
+
+    (iv) the use of nonradiating communications systems where practicable; and
+
+  (C) seek to avoid—
+
+    (i) serious degradation of Federal Government services and operations;
+
+    (ii) excessive costs to the Federal Government and users of Federal Government services; and
+
+    (iii) excessive disruption of existing use of Federal Government frequencies by amateur radio licensees.
+
+(2) **Feasibility of use** — In determining whether a frequency band meets the criteria specified in subsection (a)(3), the Secretary shall—
+
+  (A) assume that the frequency will be assigned by the Commission under section 303 of the 1934 Act ([47 U.S.C. 303](./chapter-005-wire-or-radio-communication.md#section-303)) within 15 years;
+
+  (B) assume reasonable rates of scientific progress and growth of demand for telecommunications services;
+
+  (C) seek to include frequencies which can be used to stimulate the development of new technologies; and
+
+  (D) consider the immediate and recurring costs to reestablish services displaced by the reallocation of spectrum.
+
+(3) **Analysis of benefits** — In determining whether a band of frequencies meets the criteria specified in subsection (a)(5), the Secretary shall consider—
+
+  (A) the extent to which equipment is or will be available that is capable of utilizing the band;
+
+  (B) the proximity of frequencies that are already assigned for commercial or other non-Federal use;
+
+  (C) the extent to which, in general, commercial users could share the frequency with amateur radio licensees; and
+
+  (D) the activities of foreign governments in making frequencies available for experimentation or commercial assignments in order to support their domestic manufacturers of equipment.
+
+(4) **Power agency frequencies**
+
+  (A) *Applicability of criteria* — The criteria specified by subsection (a) shall be deemed not to be met for any purpose under this subchapter with regard to any frequency assignment to, or any frequency assignment used by, a Federal power agency for the purpose of withdrawing that assignment.
+
+  (B) *Mixed use eligibility* — The frequencies assigned to any Federal power agency may only be eligible for mixed use under subsection (b)(2) in geographically separate areas, but in those cases where a frequency is to be shared by an affected Federal power agency and a non-Federal user, such use by the non-Federal user shall not cause harmful interference to the affected Federal power agency or adversely affect the reliability of its power system.
+
+  (C) *“Federal power agency” defined* — As used in this paragraph, the term “Federal power agency” means the Tennessee Valley Authority, the Bonneville Power Administration, the Western Area Power Administration, the Southwestern Power Administration, the Southeastern Power Administration, or the Alaska Power Administration.
+
+(5) **Limitation on reallocation** — None of the frequencies recommended for reallocation in the reports required by this subsection shall have been recommended, prior to August 10, 1993, for reallocation to non-Federal use by international agreement.
+
+**(d) Procedure for identification of reallocable bands of frequencies**
+
+(1) **Submission of preliminary identification to Congress** — Within 6 months after August 10, 1993, the Secretary shall prepare, make publicly available, and submit to the President, the Congress, and the Commission a report which makes a preliminary identification of reallocable bands of frequencies which meet the criteria established by this section.
+
+(2) **Public comment** — The Secretary shall provide interested persons with the opportunity to submit, within 90 days after the date of its publication, written comment on the preliminary report required by paragraph (1). The Secretary shall immediately transmit a copy of any such comment to the Commission.
+
+(3) **Comment and recommendations from Commission** — The Commission shall, within 90 days after the conclusion of the period for comment provided pursuant to paragraph (2), submit to the Secretary the Commission’s analysis of such comments and the Commission’s recommendations for responses to such comments, together with such other comments and recommendations as the Commission deems appropriate.
+
+(4) **Direct discussions** — The Secretary shall encourage and provide opportunity for direct discussions among commercial representatives and Federal Government users of the spectrum to aid the Secretary in determining which frequencies to recommend for reallocation. The Secretary shall provide notice to the public and the Commission of any such discussions, including the name or names of any businesses or other persons represented in such discussions. A representative of the Commission (and of the Secretary at the election of the Secretary) shall be permitted to attend any such discussions. The Secretary shall provide the public and the Commission with an opportunity to comment on the results of any such discussions prior to the submission of the initial report required by subsection (a).
+
+**(e) Timetable for reallocation and limitation**
+
+(1) **Timetable required** — The Secretary shall, as part of the reports required by subsections (a) and (d)(1), include a timetable that recommends effective dates by which the President shall withdraw or limit assignments of the frequencies specified in such reports.
+
+(2) **Expedited reallocation**
+
+  (A) *Required reallocation* — The Secretary shall, as part of the report required by subsection (d)(1), specifically identify and recommend for immediate reallocation bands of frequencies that in the aggregate span not less than 50 megahertz, that meet the criteria described in subsection (a), and that can be made available for reallocation immediately upon issuance of the report required by subsection (d)(1). Such bands of frequencies shall include bands of frequencies, located below 3 gigahertz, that in the aggregate span not less than 25 megahertz.
+
+  (B) *Permitted reallocation* — The Secretary may, as part of such report, identify and recommend bands of frequencies for immediate reallocation for a mixed use pursuant to subsection (b)(2), but such bands of frequencies may not count toward the minimums required by subparagraph (A).
+
+(3) **Delayed effective dates** — In setting the recommended delayed effective dates, the Secretary shall—
+
+  (A) consider the need to reallocate bands of frequencies as early as possible, taking into account the requirements of paragraphs (1) and (2) of [section 925(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section925/b&num=0&edition=prelim);
+
+  (B) be based on the useful remaining life of equipment that has been purchased or contracted for to operate on identified frequencies;
+
+  (C) consider the need to coordinate frequency use with other nations; and
+
+  (D) take into account the relationship between the costs to the Federal Government of changing to different frequencies and the benefits that may be obtained from commercial and other non-Federal uses of the reassigned frequencies.
+
+**(f) Additional reallocation report** If the Secretary receives a notice from the Commission pursuant to section 3002(c)(5) of the Balanced Budget Act of 1997, the Secretary shall prepare and submit to the President, the Commission, and the Congress a report recommending for reallocation for use other than by Federal Government stations under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)), bands of frequencies that are suitable for the licensees identified in the Commission’s notice. The Commission shall, not later than one year after receipt of such report, prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment of such frequencies under the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.] to incumbent licensees described in the Commission’s notice.
+
+**(g) Relocation of and spectrum sharing by Federal Government stations**
+
+(1) **Eligible Federal entities** — Any Federal entity that operates a Federal Government station that incurs relocation or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928). For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
+
+(2) **Eligible frequencies** — The bands of eligible frequencies for purposes of this section are as follows:
+
+  (A) the 216–220 megahertz band, the 1432–1435 megahertz band, the 1710–1755 megahertz band, and the 2385–2390 megahertz band of frequencies; and
+
+  (B) any other band of frequencies reallocated from Federal use to non-Federal use or to shared use after January 1, 2003, that is assigned by competitive bidding pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)).
+
+(3) **Relocation or sharing costs defined**
+
+  (A) *In general* — For purposes of this section and [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928), the term “relocation or sharing costs” means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies or the sharing of spectrum frequencies (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
+
+    (i) the costs of any modification or replacement of equipment, spares, associated ancillary equipment, software, facilities, operating manuals, training, or compliance with regulations that are attributable to relocation or sharing;
+
+    (ii) the costs of all engineering, equipment, software, site acquisition, and construction, as well as any legitimate and prudent transaction expense, including term-limited Federal civil servant and contractor staff necessary to carry out the relocation or sharing activities of a Federal entity, and reasonable additional costs incurred by the Federal entity that are attributable to relocation or sharing, including increased recurring costs associated with the replacement of facilities;
+
+    (iii) the costs of research, engineering studies, economic analyses, or other expenses reasonably incurred in connection with—
+
+      (I) calculating the estimated relocation or sharing costs that are provided to the Commission pursuant to paragraph (4)(A);
+
+      (II) determining the technical or operational feasibility of relocation to 1 or more potential relocation bands; or
+
+      (III) planning for or managing a relocation or sharing arrangement (including spectrum coordination with auction winners);
+
+    (iv) the one-time costs of any modification of equipment reasonably necessary—
+
+      (I) to accommodate non-Federal use of shared frequencies; or
+
+      (II) in the case of eligible frequencies reallocated for exclusive non-Federal use and assigned through a system of competitive bidding under section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)) but with respect to which a Federal entity retains primary allocation or protected status for a period of time after the completion of the competitive bidding process, to accommodate shared Federal and non-Federal use of such frequencies for such period; and
+
+    (v) the costs associated with the accelerated replacement of systems and equipment if the acceleration is necessary to ensure the timely relocation of systems to a new frequency assignment or the timely accommodation of sharing of Federal frequencies.
+
+  (B) *Comparable capability of systems* — For purposes of subparagraph (A), comparable capability of systems—
+
+    (i) may be achieved by relocating a Federal Government station to a new frequency assignment, by relocating a Federal Government station to a different geographic location, by modifying Federal Government equipment to mitigate interference or use less spectrum, in terms of bandwidth, geography, or time, and thereby permitting spectrum sharing (including sharing among relocated Federal entities and incumbents to make spectrum available for non-Federal use) or relocation, or by utilizing an alternative technology; and
+
+    (ii) includes the acquisition of state-of-the-art replacement systems intended to meet comparable operational scope, which may include incidental increases in functionality.
+
+(4) **Notice to Commission of estimated relocation or sharing costs**
+
+  (A) The Commission shall notify the NTIA at least 18 months prior to the commencement of any auction of eligible frequencies defined in paragraph (2). At least 6 months prior to the commencement of any such auction, the NTIA, on behalf of the Federal entities and after review by the Office of Management and Budget, shall notify the Commission of estimated relocation or sharing costs and timelines for such relocation or sharing.
+
+  (B) Upon timely request of a Federal entity, the NTIA shall provide such entity with information regarding an alternative frequency assignment or assignments to which their radiocommunications operations could be relocated for purposes of calculating the estimated relocation or sharing costs and timelines to be submitted to the Commission pursuant to subparagraph (A).
+
+  (C) To the extent practicable and consistent with national security considerations, the NTIA shall provide the information required by subparagraphs (A) and (B) by the geographic location of the Federal entities’ facilities or systems and the frequency bands used by such facilities or systems.
+
+(5) **Notice to congressional committees and GAO** — The NTIA shall, at the time of providing an initial estimate of relocation or sharing costs to the Commission under paragraph (4)(A), submit to 11 So in original. Probably should be followed by “the”. Committees on Appropriations and Energy and Commerce of the House of Representatives for approval, to the Committees on Appropriations and Commerce, Science, and Transportation of the Senate for approval, and to the Comptroller General a copy of such estimate and the timelines for relocation or sharing. Unless disapproved within 30 days, the estimate shall be approved. If disapproved, the NTIA may resubmit a revised initial estimate.
+
+(6) **Implementation of procedures** — The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities’ spectrum-related operations from frequencies described in paragraph (2) to frequencies or facilities of comparable capability and to ensure the timely implementation of arrangements for the sharing of frequencies described in such paragraph. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems, the NTIA shall terminate or limit the entity’s authorization and notify the Commission that the entity’s relocation has been completed or sharing arrangement has been implemented. The NTIA shall also terminate such entity’s authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation or sharing submitted by the Director of the Office of Management and Budget under [section 928(d)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/d/2/C&num=0&edition=prelim).
+
+**(h) Development and publication of relocation or sharing transition plans**
+
+(1) **Development of transition plan by Federal entity** — Not later than 240 days before the commencement of any auction of eligible frequencies described in subsection (g)(2), a Federal entity shall submit to the NTIA and to the Technical Panel established by paragraph (3) a transition plan for the implementation by such entity of the relocation or sharing arrangement. The NTIA shall specify, after public input, a common format for all Federal entities to follow in preparing transition plans under this paragraph.
+
+(2) **Contents of transition plan** — The transition plan required by paragraph (1) shall include the following information:
+
+  (A) The use by the Federal entity of the eligible frequencies to be auctioned, current as of the date of the submission of the plan.
+
+  (B) The geographic location of the facilities or systems of the Federal entity that use such frequencies.
+
+  (C) The frequency bands used by such facilities or systems, described by geographic location.
+
+  (D) The steps to be taken by the Federal entity to relocate its spectrum use from such frequencies or to share such frequencies, including timelines for specific geographic locations in sufficient detail to indicate when use of such frequencies at such locations will be discontinued by the Federal entity or shared between the Federal entity and non-Federal users.
+
+  (E) The specific interactions between the eligible Federal entity and the NTIA needed to implement the transition plan.
+
+  (F) The name of the officer or employee of the Federal entity who is responsible for the relocation or sharing efforts of the entity and who is authorized to meet and negotiate with non-Federal users regarding the transition.
+
+  (G) The plans and timelines of the Federal entity for—
+
+    (i) using funds received from the Spectrum Relocation Fund established by [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928);
+
+    (ii) procuring new equipment and additional personnel needed for relocation or sharing;
+
+    (iii) field-testing and deploying new equipment needed for relocation or sharing; and
+
+    (iv) hiring and relying on contract personnel, if any, needed for relocation or sharing.
+
+  (H) Factors that could hinder fulfillment of the transition plan by the Federal entity.
+
+(3) **Technical Panel**
+
+  (A) *Establishment* — There is established within the NTIA a panel to be known as the Technical Panel.
+
+  (B) *Membership*
+
+    (i) *Number and appointment* — The Technical Panel shall be composed of 3 members, to be appointed as follows:
+
+      (I) One member to be appointed by the Director of the Office of Management and Budget (in this subsection referred to as “OMB”).
+
+      (II) One member to be appointed by the Assistant Secretary.
+
+      (III) One member to be appointed by the Chairman of the Commission.
+
+    (ii) *Qualifications* — Each member of the Technical Panel shall be a radio engineer or a technical expert.
+
+    (iii) *Initial appointment* — The initial members of the Technical Panel shall be appointed not later than 180 days after February 22, 2012.
+
+    (iv) *Terms* — The term of a member of the Technical Panel shall be 18 months, and no individual may serve more than 1 consecutive term.
+
+    (v) *Vacancies* — Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office. A vacancy shall be filled in the manner in which the original appointment was made.
+
+    (vi) *No compensation* — The members of the Technical Panel shall not receive any compensation for service on the Technical Panel. If any such member is an employee of the agency of the official that appointed such member to the Technical Panel, compensation in the member’s capacity as such an employee shall not be considered compensation under this clause.
+
+  (C) *Administrative support* — The NTIA shall provide the Technical Panel with the administrative support services necessary to carry out its duties under this subsection, subsection (i), and [section 928(g)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/g/2/E&num=0&edition=prelim).
+
+  (D) *Regulations* — Not later than 180 days after February 22, 2012, the NTIA shall, after public notice and comment and subject to approval by the Director of OMB, adopt regulations to govern the workings of the Technical Panel.
+
+  (E) *Certain requirements inapplicable* — The Federal Advisory Committee Act (5 U.S.C. App.) and sections 552 and 552b of title 5 shall not apply to the Technical Panel.
+
+(4) **Review of plan by Technical Panel**
+
+  (A) *In general* — Not later than 30 days after the submission of the plan under paragraph (1), the Technical Panel shall submit to the NTIA and to the Federal entity a report on the sufficiency of the plan, including whether the plan includes the information required by paragraph (2) and an assessment of the reasonableness of the proposed timelines and estimated relocation or sharing costs, including the costs of any proposed expansion of the capabilities of a Federal system in connection with relocation or sharing.
+
+  (B) *Insufficiency of plan* — If the Technical Panel finds the plan insufficient, the Federal entity shall, not later than 90 days after the submission of the report by the Technical Panel under subparagraph (A), submit to the Technical Panel a revised plan. Such revised plan shall be treated as a plan submitted under paragraph (1).
+
+(5) **Publication of transition plan** — Not later than 120 days before the commencement of the auction described in paragraph (1), the NTIA shall make the transition plan publicly available on its website.
+
+(6) **Updates of transition plan** — As the Federal entity implements the transition plan, it shall periodically update the plan to reflect any changed circumstances, including changes in estimated relocation or sharing costs or the timeline for relocation or sharing. The NTIA shall make the updates available on its website.
+
+(7) **Classified and other sensitive information**
+
+  (A) *Classified information* — If any of the information required to be included in the transition plan of a Federal entity is classified information (as defined in [section 798(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section798/b&num=0&edition=prelim)), the entity shall—
+
+    (i) include in the plan—
+
+      (I) an explanation of the exclusion of any such information, which shall be as specific as possible; and
+
+      (II) all relevant non-classified information that is available; and
+
+    (ii) discuss as a factor under paragraph (2)(H) the extent of the classified information and the effect of such information on the implementation of the relocation or sharing arrangement.
+
+  (B) *Regulations* — Not later than 180 days after February 22, 2012, the NTIA, in consultation with the Director of OMB and the Secretary of Defense, shall adopt regulations to ensure that the information publicly released under paragraph (5) or (6) does not contain classified information or other sensitive information.
+
+**(i) Dispute resolution process**
+
+(1) **In general** — If a dispute arises between a Federal entity and a non-Federal user regarding the execution, timing, or cost of the transition plan submitted by the Federal entity under subsection (h)(1), the Federal entity or the non-Federal user may request that the NTIA establish a dispute resolution board to resolve the dispute.
+
+(2) **Establishment of board**
+
+  (A) *In general* — If the NTIA receives a request under paragraph (1), it shall establish a dispute resolution board.
+
+  (B) *Membership and appointment* — The dispute resolution board shall be composed of 3 members, as follows:
+
+    (i) A representative of the Office of Management and Budget (in this subsection referred to as “OMB”), to be appointed by the Director of OMB.
+
+    (ii) A representative of the NTIA, to be appointed by the Assistant Secretary.
+
+    (iii) A representative of the Commission, to be appointed by the Chairman of the Commission.
+
+  (C) *Chair* — The representative of OMB shall be the Chair of the dispute resolution board.
+
+  (D) *Vacancies* — Any vacancy in the dispute resolution board shall be filled in the manner in which the original appointment was made.
+
+  (E) *No compensation* — The members of the dispute resolution board shall not receive any compensation for service on the board. If any such member is an employee of the agency of the official that appointed such member to the board, compensation in the member’s capacity as such an employee shall not be considered compensation under this subparagraph.
+
+  (F) *Termination of board* — The dispute resolution board shall be terminated after it rules on the dispute that it was established to resolve and the time for appeal of its decision under paragraph (7) has expired, unless an appeal has been taken under such paragraph. If such an appeal has been taken, the board shall continue to exist until the appeal process has been exhausted and the board has completed any action required by a court hearing the appeal.
+
+(3) **Procedures** — The dispute resolution board shall meet simultaneously with representatives of the Federal entity and the non-Federal user to discuss the dispute. The dispute resolution board may require the parties to make written submissions to it.
+
+(4) **Deadline for decision** — The dispute resolution board shall rule on the dispute not later than 30 days after the request was made to the NTIA under paragraph (1).
+
+(5) **Assistance from Technical Panel** — The Technical Panel established under subsection (h)(3) shall provide the dispute resolution board with such technical assistance as the board requests.
+
+(6) **Administrative support** — The NTIA shall provide the dispute resolution board with the administrative support services necessary to carry out its duties under this subsection.
+
+(7) **Appeals** — A decision of the dispute resolution board may be appealed to the United States Court of Appeals for the District of Columbia Circuit by filing a notice of appeal with that court not later than 30 days after the date of such decision. Each party shall bear its own costs and expenses, including attorneys’ fees, for any appeal under this paragraph.
+
+(8) **Regulations** — Not later than 180 days after February 22, 2012, the NTIA shall, after public notice and comment and subject to approval by OMB, adopt regulations to govern the working of any dispute resolution boards established under paragraph (2)(A) and the role of the Technical Panel in assisting any such board.
+
+(9) **Certain requirements inapplicable** — The Federal Advisory Committee Act (5 U.S.C. App.) and sections 552 and 552b of title 5 shall not apply to a dispute resolution board established under paragraph (2)(A).
+
+**(j) Relocation prioritized over sharing**
+
+(1) **In general** — In evaluating a band of frequencies for possible reallocation for exclusive non-Federal use or shared use, the NTIA shall give priority to options involving reallocation of the band for exclusive non-Federal use and shall choose options involving shared use only when it determines, in consultation with the Director of the Office of Management and Budget, that relocation of a Federal entity from the band is not feasible because of technical or cost constraints.
+
+(2) **Notification of Congress when sharing chosen** — If the NTIA determines under paragraph (1) that relocation of a Federal entity from the band is not feasible, the NTIA shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives of the determination, including the specific technical or cost constraints on which the determination is based.
+
+**(k) Federal action to expedite spectrum transfer** Any Federal Government station which operates on electromagnetic spectrum that has been identified in any reallocation report under this section shall, to the maximum extent practicable through the use of the authority granted under subsection (g) and any other applicable provision of law, take action to relocate its spectrum use to other frequencies that are reserved for Federal use or to consolidate its spectrum use with other Federal Government stations in a manner that maximizes the spectrum available for non-Federal use.
+
+**(l) “Federal entity” defined** For purposes of this section, the term “Federal entity” means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)).
+
+### Statutory Notes
+
+#### References in Text
+For definition of the 1934 Act, referred to in subsecs. (a)(3), (5), (b)(2), and (f), see [section 921(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section921/3&num=0&edition=prelim).
+
+Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f), is section 3002(c)(5) of Pub. L. 105–33, which is set out as a note under [section 925 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-925).
+
+The Federal Advisory Committee Act, referred to in subsecs. (h)(3)(E) and (i)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+2015—Subsec. (g)(1). Pub. L. 114–74, § 1005(c)(1)(A), struck out “authorized to use a band of eligible frequencies described in paragraph (2) and” after “Federal Government station” and inserted “eligible” after “auction of” and after “reallocation of”.
+
+Subsec. (g)(3)(A). Pub. L. 114–74, § 1005(c)(1)(B), substituted “or the sharing of spectrum frequencies” for “previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity”.
+
+Subsec. (h)(1). Pub. L. 114–74, § 1005(c)(2), struck out “authorized to use any such frequency” after “a Federal entity”.
+
+Subsec. (h)(3)(C). Pub. L. 114–74, § 1005(b), substituted “this subsection, subsection (i), and [section 928(g)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/g/2/E&num=0&edition=prelim)” for “this subsection and subsection (i)”.
+
+2012—Subsec. (g). Pub. L. 112–96, § 6701(a)(1)(A), substituted “Relocation of and spectrum sharing by Federal Government stations” for “Relocation of Federal Government stations” in heading.
+
+Subsec. (g)(1). Pub. L. 112–96, § 6701(a)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Any Federal entity that operates a Federal Government station assigned to a band of frequencies specified in paragraph (2) and that incurs relocation costs because of the reallocation of frequencies from Federal use to non-Federal use shall receive payment for such costs from the Spectrum Relocation Fund, in accordance with [section 928 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-928). For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) of this section that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) of this section, are eligible to receive payment under this paragraph.”
+
+Subsec. (g)(2)(B). Pub. L. 112–96, § 6701(a)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any other band of frequencies reallocated from Federal use to non-Federal use after January 1, 2003, that is assigned by competitive bidding pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)), except for bands of frequencies previously identified by the National Telecommunications and Information Administration in the Spectrum Reallocation Final Report, NTIA Special Publication 95–32 (1995).”
+
+Subsec. (g)(3). Pub. L. 112–96, § 6701(a)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) defined relocation costs.
+
+Subsec. (g)(4). Pub. L. 112–96, § 6701(a)(1)(E)(i), which directed substitution of “relocation or sharing costs” for “relocations costs” in heading, was executed by making the substitution for “relocation costs” to reflect the probable intent of Congress.
+
+Subsec. (g)(4)(A). Pub. L. 112–96, § 6701(a)(1)(E)(ii), (iii), substituted “relocation or sharing costs” for “relocation costs” and inserted “or sharing” after “such relocation”.
+
+Subsec. (g)(4)(B). Pub. L. 112–96, § 6701(a)(1)(E)(ii), substituted “relocation or sharing costs” for “relocation costs”.
+
+Subsec. (g)(5). Pub. L. 112–96, § 6701(a)(1)(F), substituted “relocation or sharing costs” for “relocation costs” and inserted “or sharing” after “for relocation”.
+
+Subsec. (g)(6). Pub. L. 112–96, § 6701(a)(1)(G), amended par. (6) generally. Prior to amendment, text read as follows: “The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities’ spectrum-related operations from frequencies defined in paragraph (2) to frequencies or facilities of comparable capability. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems by relocating to a new frequency assignment or by utilizing an alternative technology, the NTIA shall terminate the entity’s authorization and notify the Commission that the entity’s relocation has been completed. The NTIA shall also terminate such entity’s authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation submitted by the Director of the Office of Management and Budget under [section 928(d)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/d/2/B&num=0&edition=prelim).”
+
+Subsecs. (h) to (l). Pub. L. 112–96, § 6701(a)(2), (3), added subsecs. (h) to (j) and redesignated former subsecs. (h) and (i) as (k) and (l), respectively.
+
+2004—Subsec. (g). Pub. L. 108–494 added pars. (1) to (6) and struck out former pars. (1) to (3) which related to relocation of Federal Government stations in general, process for relocation, and right to reclaim.
+
+1999—Subsec. (b)(3)(A). Pub. L. 106–65 substituted “12 megahertz” for “20 megahertz”.
+
+1998—Subsec. (g)(1). Pub. L. 105–261 designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Any such Federal entity which proposes to so relocate shall notify the NTIA, which in turn shall notify the Commission, before the auction concerned of the marginal costs anticipated to be associated with such relocation or with modifications necessary to accommodate prospective licensees. The Commission in turn shall notify potential bidders of the estimated relocation or modification costs based on the geographic area covered by the proposed licenses before the auction.” for “Such payments may be in advance of relocation and may be in cash or in kind. Any such payment in cash shall be deposited in the account of such Federal entity in the Treasury of the United States or in a separate account authorized by law. Funds deposited according to this paragraph shall be available, without appropriation or fiscal year limitation, only for such expenses of the Federal entity for which such funds were deposited under this paragraph.”, and added subpars. (B) to (F).
+
+1997—Subsec. (a). Pub. L. 105–33, § 3002(e)(1), inserted “and within 6 months after August 5, 1997” after “August 10, 1993,” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 105–33, § 3002(e)(2)(A), (B), substituted “Initial reallocation report” for “In general” in heading and inserted “in the initial report required by subsection (a)” after “recommend for reallocation” in text.
+
+Subsec. (b)(2). Pub. L. 105–33, § 3002(e)(2)(C), inserted “or (3)” after “paragraph (1)” in two places.
+
+Subsec. (b)(3). Pub. L. 105–33, § 3002(e)(2)(D), added par. (3).
+
+Subsec. (d)(4). Pub. L. 105–33, § 3002(e)(3), substituted “initial report” for “final report”.
+
+Subsecs. (f) to (i). Pub. L. 105–33, § 3002(d)(1), added subsecs. (f) to (i).
+
+#### Spectrum Management Authority Retained
+Pub. L. 108–494, title II, § 208(a), Dec. 23, 2004, 118 Stat. 3996, provided that: “Except as provided with respect to the bands of frequencies identified in section 113(g)(2)(A) of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923(g)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/2/A&num=0&edition=prelim)) as amended by this title, nothing in this title [see Short Title of 2004 Amendment note set out under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901)] or the amendments made by this title shall be construed as limiting the Federal Communications Commission’s authority to allocate bands of frequencies that are reallocated from Federal use to non-Federal use for unlicensed, public safety, shared, or non-commercial use.”
+
+#### Reports on Costs of Relocations
+Pub. L. 105–261, div. A, title X, § 1064(d), Oct. 17, 1998, 112 Stat. 2133, provided that: “The head of each department or agency of the Federal Government shall include in the annual budget submission of such department or agency to the Director of the Office of Management and Budget a report assessing the costs to be incurred by such department or agency as a result of any frequency relocations of such department or agency that are anticipated under section 113 of the National Telecommunications [and] Information Administration Organization Act ([47 U.S.C. 923](./chapter-008-national-telecommunications-and-information-administration.md#section-923)) as of the date of such report.”
+
+
+<a id="section-924"></a>
+## § 924. Withdrawal or limitation of assignment to Federal Government stations
+**(a) In general** The President shall—
+
+(1) within 6 months after receipt of a report by the Secretary under subsection (a), (d)(1), or (f) of [section 923 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-923), withdraw the assignment to a Federal Government station of any frequency which the report recommends for immediate reallocation;
+
+(2) within any such 6-month period, limit the assignment to a Federal Government station of any frequency which the report recommends be made immediately available for mixed use under [section 923(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/b/2&num=0&edition=prelim);
+
+(3) by the delayed effective date recommended by the Secretary under [section 923(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/e&num=0&edition=prelim) (except as provided in subsection (b)(4) of this section), withdraw or limit the assignment to a Federal Government station of any frequency which the report recommends be reallocated or made available for mixed use on such delayed effective date;
+
+(4) assign or reassign other frequencies to Federal Government stations as necessary to adjust to such withdrawal or limitation of assignments; and
+
+(5) transmit a notice and description to the Commission and each House of Congress of the actions taken under this subsection.
+
+**(b) Exceptions**
+
+(1) **Authority to substitute** — If the President determines that a circumstance described in paragraph (2) exists, the President—
+
+  (A) may substitute an alternative frequency or frequencies for the frequency that is subject to such determination and withdraw (or limit) the assignment of that alternative frequency in the manner required by subsection (a); and
+
+  (B) shall submit a statement of the reasons for taking the action described in subparagraph (A) to the Commission, Committee on Energy and Commerce of the House of Representatives, and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(2) **Grounds for substitution** — For purposes of paragraph (1), the following circumstances are described in this paragraph:
+
+  (A) the reassignment would seriously jeopardize the national defense interests of the United States;
+
+  (B) the frequency proposed for reassignment is uniquely suited to meeting important governmental needs;
+
+  (C) the reassignment would seriously jeopardize public health or safety;
+
+  (D) the reassignment will result in costs to the Federal Government that are excessive in relation to the benefits that may be obtained from commercial or other non-Federal uses of the reassigned frequency; or
+
+  (E) the reassignment will disrupt the existing use of a Federal Government band of frequencies by amateur radio licensees.
+
+(3) **Criteria for substituted frequencies** — For purposes of paragraph (1), a frequency may not be substituted for a frequency identified and recommended by the report of the Secretary under [section 923(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/a&num=0&edition=prelim) unless the substituted frequency also meets each of the criteria specified by [section 923(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/a&num=0&edition=prelim).
+
+(4) **Delays in implementation** — If the President determines that any action cannot be completed by the delayed effective date recommended by the Secretary pursuant to [section 923(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/e&num=0&edition=prelim), or that such an action by such date would result in a frequency being unused as a consequence of the Commission’s plan under [section 925 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-925), the President may—
+
+  (A) withdraw or limit the assignment to Federal Government stations on a later date that is consistent with such plan, except that the President shall notify each committee specified in paragraph (1)(B) and the Commission of the reason that withdrawal or limitation at a later date is required; or
+
+  (B) substitute alternative frequencies pursuant to the provisions of this subsection.
+
+### Statutory Notes
+
+#### Amendments
+1997—Subsec. (a)(1). Pub. L. 105–33, § 3002(d)(2)(A), substituted “subsection (a), (d)(1), or (f)” for “subsection (a) or (d)(1)”.
+
+Subsec. (a)(2). Pub. L. 105–33, § 3002(d)(2)(B), substituted “any such 6-month period” for “either such 6-month period”.
+
+
+<a id="section-925"></a>
+## § 925. Distribution of frequencies by Commission
+**(a) Allocation and assignment of immediately available frequencies** With respect to the frequencies made available for immediate reallocation pursuant to [section 923(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/e/2&num=0&edition=prelim), the Commission, not later than 18 months after August 10, 1993, shall issue regulations to allocate such frequencies and shall propose regulations to assign such frequencies.
+
+**(b) Allocation and assignment of remaining available frequencies** With respect to the frequencies made available for reallocation pursuant to [section 923(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/e/3&num=0&edition=prelim), the Commission shall, not later than 1 year after receipt of the initial reallocation report required by [section 923(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/a&num=0&edition=prelim), prepare, submit to the President and the Congress, and implement, a plan for the allocation and assignment under the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.] of such frequencies. Such plan shall—
+
+(1) not propose the immediate allocation and assignment of all such frequencies but, taking into account the timetable recommended by the Secretary pursuant to [section 923(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/e&num=0&edition=prelim), shall propose—
+
+  (A) gradually to allocate and assign the frequencies remaining, after making the reservation required by subparagraph (B), over the course of 10 years beginning on the date of submission of such plan; and
+
+  (B) to reserve a significant portion of such frequencies for allocation and assignment beginning after the end of such 10-year period;
+
+(2) contain appropriate provisions to ensure—
+
+  (A) the availability of frequencies for new technologies and services in accordance with the policies of section 7 of the 1934 Act ([47 U.S.C. 157](./chapter-005-wire-or-radio-communication.md#section-157));
+
+  (B) the availability of frequencies to stimulate the development of such technologies; and
+
+  (C) the safety of life and property in accordance with the policies of section 1 of the 1934 Act ([47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151));
+
+(3) address (A) the feasibility of reallocating portions of the spectrum from current commercial and other non-Federal uses to provide for more efficient use of the spectrum, and (B) innovation and marketplace developments that may affect the relative efficiencies of different spectrum allocations;
+
+(4) not prevent the Commission from allocating frequencies, and assigning licenses to use frequencies, not included in the plan; and
+
+(5) not preclude the Commission from making changes to the plan in future proceedings.
+
+**(c) Allocation and assignment of frequencies identified in second reallocation report**
+
+(1) **Plan and implementation** — With respect to the frequencies made available for reallocation pursuant to [section 923(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/b/3&num=0&edition=prelim), the Commission shall, not later than one year after receipt of the second reallocation report required by [section 923(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/a&num=0&edition=prelim), prepare, submit to the President and the Congress, and implement, a plan for the immediate allocation and assignment under the 1934 Act [47 U.S.C. § 151 et seq.] of all such frequencies in accordance with section 309(j) of such Act [[47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)].
+
+(2) **Contents** — The plan prepared by the Commission under paragraph (1) shall consist of a schedule of allocation and assignment of those frequencies in accordance with section 309(j) of the 1934 Act in time for the assignment of those licenses or permits by September 30, 2002.
+
+### Statutory Notes
+
+#### References in Text
+For definition of the 1934 Act, referred to in subsecs. (b) and (c)(1), see [section 921(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section921/3&num=0&edition=prelim).
+
+#### Amendments
+1997—Subsec. (b). Pub. L. 105–33, § 3002(e)(4)(A), substituted “the initial reallocation report required” for “the report required” in introductory provisions.
+
+Subsec. (c). Pub. L. 105–33, § 3002(e)(4)(B), added subsec. (c).
+
+#### Accelerated Availability for Auction of 1,710–1,755 Megahertz From Initial Reallocation Report
+Pub. L. 105–33, title III, § 3002(b), Aug. 5, 1997, 111 Stat. 260, provided that: “The band of frequencies located at 1,710–1,755 megahertz identified in the initial reallocation report under section 113(a) of the National Telecommunications and Information Administration Act ([47 U.S.C. 923(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/a&num=0&edition=prelim)) shall, notwithstanding the timetable recommended under section 113(e) of such Act and section 115(b)(1) of such Act [[47 U.S.C. 925(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section925/b/1&num=0&edition=prelim)], be available in accordance with this subsection for assignment for commercial use. The Commission shall assign licenses for such use by competitive bidding commenced after January 1, 2001, pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)).”
+
+#### Commission Obligation To Make Additional Spectrum Available by Auction
+Pub. L. 105–33, title III, § 3002(c), Aug. 5, 1997, 111 Stat. 261, provided that: “(1) In general.—The Commission shall complete all actions necessary to permit the assignment by September 30, 2002, by competitive bidding pursuant to section 309(j) of the Communications Act of 1934 ([47 U.S.C. 309(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim)), of licenses for the use of bands of frequencies that—“(A) in the aggregate span not less than 55 megahertz; “(B) are located below 3 gigahertz; “(C) have not, as of the date of enactment of this Act [Aug. 5, 1997]—“(i) been designated by Commission regulation for assignment pursuant to such section; “(ii) been identified by the Secretary of Commerce pursuant to section 113 of the National Telecommunications and Information Administration Organization Act ([47 U.S.C. 923](./chapter-008-national-telecommunications-and-information-administration.md#section-923)); “(iii) been allocated for Federal Government use pursuant to section 305 of the Communications Act of 1934 ([47 U.S.C. 305](./chapter-005-wire-or-radio-communication.md#section-305)); “(iv) been designated for reallocation under section 337 of the Communications Act of 1934 [[47 U.S.C. 337](./chapter-005-wire-or-radio-communication.md#section-337)] (as added by this Act); or “(v) been allocated or authorized for unlicensed use pursuant to part 15 of the Commission’s regulations (47 C.F.R. Part 15), if the operation of services licensed pursuant to competitive bidding would interfere with operation of end-user products permitted under such regulations; “(D) include frequencies at 2,110–2,150 megahertz; and “(E) include 15 megahertz from within the bands of frequencies at 1,990–2,110 megahertz. “(2) Criteria for Reassignment.—In making available bands of frequencies for competitive bidding pursuant to paragraph (1), the Commission shall—“(A) seek to promote the most efficient use of the electromagnetic spectrum; “(B) consider the cost of relocating existing uses to other bands of frequencies or other means of communication; “(C) consider the needs of existing public safety radio services (as such services are described in section 309(j)(2)(A) of the Communications Act of 1934, as amended by this Act); “(D) comply with the requirements of international agreements concerning spectrum allocations; and “(E) coordinate with the Secretary of Commerce when there is any impact on Federal Government spectrum use. “(3) Use of bands at 2,110–2,150 megahertz.—The Commission shall reallocate spectrum located at 2,110–2,150 megahertz for assignment by competitive bidding unless the Commission determines that auction of other spectrum (A) better serves the public interest, convenience, and necessity, and (B) can reasonably be expected to produce greater receipts. If the Commission makes such a determination, then the Commission shall, within 2 years after the date of enactment of this Act [Aug. 5, 1997], identify an alternative 40 megahertz, and report to the Congress an identification of such alternative 40 megahertz for assignment by competitive bidding. “(4) Use of 15 megahertz from bands at 1,990–2,110 megahertz.—The Commission shall reallocate 15 megahertz from spectrum located at 1,990–2,110 megahertz for assignment by competitive bidding unless the President determines such spectrum cannot be reallocated due to the need to protect incumbent Federal systems from interference, and that allocation of other spectrum (A) better serves the public interest, convenience, and necessity, and (B) can reasonably be expected to produce comparable receipts. If the President makes such a determination, then the President shall, within 2 years after the date of enactment of this Act, identify alternative bands of frequencies totalling 15 megahertz, and report to the Congress an identification of such alternative bands for assignment by competitive bidding. “(5) Notification to the Secretary of Commerce.—The Commission shall attempt to accommodate incumbent licensees displaced under this section by relocating them to other frequencies available for allocation by the Commission. The Commission shall notify the Secretary of Commerce whenever the Commission is not able to provide for the effective relocation of an incumbent licensee to a band of frequencies available to the Commission for assignment. The notification shall include—“(A) specific information on the incumbent licensee; “(B) the bands the Commission considered for relocation of the licensee; “(C) the reasons the licensee cannot be accommodated in such bands; and “(D) the bands of frequencies identified by the Commission that are—“(i) suitable for the relocation of such licensee; and “(ii) allocated for Federal Government use, but that could be reallocated pursuant to part B of the National Telecommunications and Information Administration Organization Act (as amended by this Act) [part B (§§ 131–135) of title I of Pub. L. 102–538, see Tables for classification].”
+
+
+<a id="section-926"></a>
+## § 926. Authority to recover reassigned frequencies
+**(a) Authority of President** Subsequent to the withdrawal of assignment to Federal Government stations pursuant to [section 924 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-924), the President may reclaim reassigned frequencies for reassignment to Federal Government stations in accordance with this section.
+
+**(b) Procedure for reclaiming frequencies**
+
+(1) **Unallocated frequencies** — If the frequencies to be reclaimed have not been allocated or assigned by the Commission pursuant to the 1934 Act [[47 U.S.C. 151](./chapter-005-wire-or-radio-communication.md#section-151) et seq.], the President shall follow the procedures for substitution of frequencies established by [section 924(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section924/b&num=0&edition=prelim).
+
+(2) **Allocated frequencies** — If the frequencies to be reclaimed have been allocated or assigned by the Commission, the President shall follow the procedures for substitution of frequencies established by [section 924(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section924/b&num=0&edition=prelim), except that the statement required by [section 924(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section924/b/1/B&num=0&edition=prelim) shall include—
+
+  (A) a timetable to accommodate an orderly transition for licensees to obtain new frequencies and equipment necessary for its utilization; and
+
+  (B) an estimate of the cost of displacing spectrum users licensed by the Commission.
+
+**(c) Costs of reclaiming frequencies** The Federal Government shall bear all costs of reclaiming frequencies pursuant to this section, including the cost of equipment which is rendered unusable, the cost of relocating operations to a different frequency, and any other costs that are directly attributable to the reclaiming of the frequency pursuant to this section, and there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.
+
+**(d) Effective date of reclaimed frequencies** The Commission shall not withdraw licenses for any reclaimed frequencies until the end of the fiscal year following the fiscal year in which a statement under [section 924(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section924/b/1/B&num=0&edition=prelim) pertaining to such frequencies is received by the Commission.
+
+**(e) Effect on other law** Nothing in this section shall be construed to limit or otherwise affect the authority of the President under section 706 of the 1934 Act ([47 U.S.C. 606](./chapter-005-wire-or-radio-communication.md#section-606)).
+
+### Statutory Notes
+
+#### References in Text
+For definition of the 1934 Act, referred to in subsec. (b)(1), see [section 921(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section921/3&num=0&edition=prelim).
+
+
+<a id="section-927"></a>
+## § 927. Existing allocation and transfer authority retained
+**(a) Additional reallocation** Nothing in this subchapter prevents or limits additional reallocation of spectrum from the Federal Government to other users.
+
+**(b) Implementation of new technologies and services** Notwithstanding any other provision of this subchapter—
+
+(1) the Secretary may, consistent with [section 903(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section903/e&num=0&edition=prelim), at any time allow frequencies allocated on a primary basis for Federal Government use to be used by non-Federal licensees on a mixed-use basis for the purpose of facilitating the prompt implementation of new technologies or services and for other purposes; and
+
+(2) the Commission shall make any allocation and licensing decisions with respect to such frequencies in a timely manner and in no event later than the date required by [section 157 of this title](./chapter-005-wire-or-radio-communication.md#section-157).
+
+
+<a id="section-928"></a>
+## § 928. Spectrum Relocation Fund
+**(a) Establishment of Spectrum Relocation Fund** There is established on the books of the Treasury a separate fund to be known as the “Spectrum Relocation Fund” (in this section referred to as the “Fund”), which shall be administered by the Office of Management and Budget (in this section referred to as “OMB”), in consultation with the NTIA.
+
+**(b) Crediting of receipts** The Fund shall be credited with the amounts specified in [section 309(j)(8)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j/8/D&num=0&edition=prelim).
+
+**(c) Use of funds** The amounts in the Fund from auctions of eligible frequencies are authorized to be used to pay relocation or sharing costs of an eligible Federal entity incurring such costs with respect to relocation from or sharing of those frequencies.
+
+**(d) Fund availability**
+
+(1) **Appropriation** — There are hereby appropriated from the Fund such sums as are required to pay the relocation or sharing costs specified in subsection (c).
+
+(2) **Transfer conditions** — None of the funds provided under this subsection may be transferred to any eligible Federal entity—
+
+  (A) unless the eligible Federal entity has submitted a transition plan to the NTIA as required by paragraph (1) of [section 923(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/h&num=0&edition=prelim), the Technical Panel has found such plan sufficient under paragraph (4) of such section, and the NTIA has made available such plan on its website as required by paragraph (5) of such section;
+
+  (B) unless the Director of OMB has determined, in consultation with the NTIA, the appropriateness of such costs and the timeline for relocation or sharing; and
+
+  (C) until 30 days after the Director of OMB has submitted to the Committees on Appropriations and Energy and Commerce of the House of Representatives for approval, to the Committees on Appropriations and Commerce, Science, and Transportation of the Senate for approval, and to the Comptroller General a detailed plan describing specifically how the sums transferred from the Fund will be used to pay relocation or sharing costs in accordance with such subsection and the timeline for such relocation or sharing.
+  Unless disapproved within 30 days, the amounts in the Fund shall be available immediately. If the plan is disapproved, the Director may resubmit a revised plan.
+
+(3) **Transfers for pre-auction costs**
+
+  (A) *In general* — Subject to subparagraph (B), the Director of OMB may transfer to an eligible Federal entity, at any time (including prior to a scheduled auction), such sums as may be available in the Fund to pay relocation or sharing costs related to pre-auction estimates or research, as such costs are described in [section 923(g)(3)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/3/A/iii&num=0&edition=prelim).
+
+  (B) *Notification* — No funds may be transferred pursuant to subparagraph (A) unless—
+
+    (i) the notification provided under paragraph (2)(C) includes a certification from the Director of OMB that—
+
+      (I) funds transferred before an auction will likely allow for timely implementation of relocation or sharing, thereby increasing net expected auction proceeds by an amount not less than the time value of the amount of funds transferred; and
+
+      (II) the auction is intended to occur not later than 8 years after transfer of funds; and
+
+    (ii) the transition plan submitted by the eligible Federal entity under [section 923(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/h/1&num=0&edition=prelim) provides—
+
+      (I) to the fullest extent possible, for sharing and coordination of eligible frequencies with non-Federal users, including reasonable accommodation by the eligible Federal entity for the use of eligible frequencies by non-Federal users during the period that the entity is relocating its spectrum uses (in this clause referred to as the “transition period”);
+
+      (II) for non-Federal users to be able to use eligible frequencies during the transition period in geographic areas where the eligible Federal entity does not use such frequencies;
+
+      (III) that the eligible Federal entity will, during the transition period, make itself available for negotiation and discussion with non-Federal users not later than 30 days after a written request therefor; and
+
+      (IV) that the eligible Federal entity will, during the transition period, make available to a non-Federal user with appropriate security clearances any classified information (as defined in [section 798(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section798/b&num=0&edition=prelim)) regarding the relocation process, on a need-to-know basis, to assist the non-Federal user in the relocation process with such eligible Federal entity or other eligible Federal entities.
+
+  (C) *Applicability to certain costs*
+
+    (i) *In general* — The Director of OMB may transfer under subparagraph (A) not more than $10,000,000 for costs incurred after June 28, 2010, but before February 22, 2012.
+
+    (ii) *Supplement not supplant* — Any amounts transferred by the Director of OMB pursuant to clause (i) shall be in addition to any amounts that the Director of OMB may transfer for costs incurred on or after February 22, 2012.
+
+(4) **Reversion of unused funds** — Any amounts in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury, for the sole purpose of deficit reduction, not later than 8 years after the date of the deposit of such proceeds to the Fund, unless within 60 days in advance of the reversion of such funds, the Director of OMB, in consultation with the NTIA, notifies the congressional committees described in paragraph (2)(C) that such funds are needed to complete or to implement current or future relocation or sharing arrangements.
+
+**(e) Transfer to eligible Federal entities**
+
+(1) **Transfer**
+
+  (A) Amounts made available pursuant to subsection (d) shall be transferred to eligible Federal entities, as defined in [section 923(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/1&num=0&edition=prelim).
+
+  (B) An eligible Federal entity may receive more than one such transfer, but if the sum of the subsequent transfer or transfers exceeds 10 percent of the original transfer—
+
+    (i) such subsequent transfers are subject to prior approval by the Director of OMB as required by subsection (d)(2)(B);
+
+    (ii) the notice to the committees containing the plan required by subsection (d)(2)(C) shall be not less than 45 days prior to the date of the transfer that causes such excess above 10 percent; and
+
+    (iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
+
+  (C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
+
+  (D) At the request of an eligible Federal entity, the Director of the Office of Management and Budget (in this subsection referred to as “OMB”) may transfer the amount under subparagraph (A) immediately—
+
+    (i) after the frequencies are reallocated by competitive bidding under [section 309(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim); or
+
+    (ii) in the case of an incumbent Federal entity that is incurring relocation or sharing costs to accommodate sharing spectrum frequencies with another Federal entity, after the frequencies from which the other eligible Federal entity is relocating are reallocated by competitive bidding under [section 309(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section309/j&num=0&edition=prelim), without regard to the availability of such sums in the Fund.
+
+  (E) Prior to the deposit of proceeds into the Fund from an auction, the Director of OMB may borrow from the Treasury the amount under subparagraph (A) for a transfer under subparagraph (D). The Treasury shall immediately be reimbursed, without interest, from funds deposited into the Fund.
+
+(2) **Retransfer to fund** — An eligible Federal entity that has received such amounts shall report its expenditures to OMB and shall transfer any amounts in excess of actual relocation or sharing costs back to the Fund immediately after the NTIA has notified the Commission that the relocation of the entity or implementation of the sharing arrangement by the entity is complete, or has determined that such entity has unreasonably failed to complete such relocation or the implementation of such arrangement in accordance with the timeline required by subsection (d)(2)(B).
+
+**(f) Additional payments from Fund**
+
+(1) **Amounts available** — Notwithstanding subsections (c) through (e), after February 22, 2012, there are appropriated from the Fund and available to the Director of OMB for use in accordance with paragraph (2) not more than 10 percent of the amounts deposited in the Fund from auctions occurring after such date of licenses for the use of spectrum vacated by eligible Federal entities.
+
+(2) **Use of amounts**
+
+  (A) *In general* — The Director of OMB, in consultation with the NTIA, may use amounts made available under paragraph (1) to make payments to eligible Federal entities that are implementing a transition plan submitted under [section 923(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/h/1&num=0&edition=prelim) in order to encourage such entities to complete the implementation more quickly, thereby encouraging timely access to the eligible frequencies that are being reallocated for exclusive non-Federal use or shared use.
+
+  (B) *Conditions* — In the case of any payment by the Director of OMB under subparagraph (A)—
+
+    (i) such payment shall be based on the market value of the eligible frequencies, the timeliness with which the eligible Federal entity clears its use of such frequencies, and the need for such frequencies in order for the entity to conduct its essential missions;
+
+    (ii) the eligible Federal entity shall use such payment for the purposes specified in clauses (i) through (v) of [section 923(g)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/3/A&num=0&edition=prelim) to achieve comparable capability of systems affected by the reallocation of eligible frequencies from Federal use to exclusive non-Federal use or to shared use;
+
+    (iii) such payment may not be made if the amount remaining in the Fund after such payment will be less than 10 percent of the winning bids in the auction of the spectrum with respect to which the Federal entity is incurring relocation or sharing costs; and
+
+    (iv) such payment may not be made until 30 days after the Director of OMB has notified the congressional committees described in subsection (d)(2)(C).
+
+**(g) Additional payments for research and development and planning activities**
+
+(1) **Amounts available** — Notwithstanding subsections (c) through (e)—
+
+  (A) there are appropriated from the Fund on November 2, 2015, and available to the Director of OMB for use in accordance with paragraph (2), not more than $500,000,000 from amounts in the Fund on November 2, 2015; and
+
+  (B) there are appropriated from the Fund after November 2, 2015, and available to the Director of OMB for use in accordance with such paragraph, not more than 10 percent of the amounts deposited in the Fund after November 2, 2015.
+
+(2) **Use of amounts**
+
+  (A) *In general* — The Director of OMB may use amounts made available under paragraph (1) to make payments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
+
+  (B) *Systems that improve efficiency and effectiveness of Federal spectrum use* — For purposes of a payment under subparagraph (A) for activities with respect to systems that improve the efficiency and effectiveness of the spectrum use of Federal entities, such systems include the following:
+
+    (i) Systems that have increased functionality or that increase the ability of a Federal entity to accommodate spectrum sharing with non-Federal entities.
+
+    (ii) Systems that consolidate functions or services that have been provided using separate systems.
+
+    (iii) Non-spectrum technology or systems.
+
+  (C) *Frequencies described* — The frequencies described in this subparagraph are, with respect to a payment under subparagraph (A), frequencies that—
+
+    (i) are assigned to a Federal entity; and
+
+    (ii) at the time of the activities conducted with such payment, are not identified for auction.
+
+  (D) *Conditions* — The Director of OMB may not make a payment to a Federal entity under subparagraph (A)—
+
+    (i) unless—
+
+      (I) the Federal entity has submitted to the Technical Panel established under [section 923(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/h/3&num=0&edition=prelim) a plan describing the activities that the Federal entity will conduct with such payment;
+
+      (II) the Technical Panel has approved such plan under subparagraph (E); and
+
+      (III) the Director of OMB has submitted the plan approved under subparagraph (E) to the congressional committees described in subsection (d)(2)(C); and
+
+    (ii) until 60 days have elapsed after submission of the plan under clause (i)(III).
+
+  (E) *Review by technical panel*
+
+    (i) *In general* — Not later than 120 days after a Federal entity submits a plan under subparagraph (D)(i)(I) to the Technical Panel established under [section 923(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/h/3&num=0&edition=prelim), the Technical Panel shall approve or disapprove such plan.
+
+    (ii) *Criteria for review* — In considering whether to approve or disapprove a plan under this subparagraph, the Technical Panel shall consider whether—
+
+      (I) the activities that the Federal entity will conduct with the payment will—
+
+        (aa) increase the probability of relocation from or sharing of Federal spectrum;
+
+        (bb) facilitate an auction intended to occur not later than 8 years after the payment; and
+
+        (cc) increase the net expected auction proceeds in an amount not less than the time value of the amount of the payment; and
+
+      (II) the transfer will leave sufficient amounts in the Fund for the other purposes of the Fund.
+
+**(h) Prioritization of payments** In determining whether to make payments under subsections (f) and (g), the Director of OMB shall, to the extent practicable, prioritize payments under subsection (g).
+
+**(i) Restriction on use of Funds** No amounts in the Fund on the day before February 22, 2012, may be used for any purpose except—
+
+(1) to pay the relocation or sharing costs incurred by eligible Federal entities in order to relocate from the frequencies the auction of which generated such amounts; or
+
+(2) to pay relocation or sharing costs related to pre-auction estimates or research, in accordance with subsection (d)(3).
+
+### Statutory Notes
+
+#### Amendments
+2018—Subsec. (d)(3)(B)(i)(II). Pub. L. 115–141, § 612, substituted “8 years” for “5 years”.
+
+Subsec. (e)(1)(D), (E). Pub. L. 115–141, § 613, added subpars. (D) and (E).
+
+2015—Subsecs. (g) to (i). Pub. L. 114–74 added subsecs. (g) and (h) and redesignated former subsec. (g) as (i).
+
+2012—Pub. L. 112–96, § 6702(1), substituted “relocation or sharing costs” for “relocation costs” wherever appearing.
+
+Subsec. (c). Pub. L. 112–96, § 6702(2), amended subsec. (c) generally. Prior to amendment, text read as follows: “The amounts in the Fund from auctions of eligible frequencies are authorized to be used to pay relocation or sharing costs, as defined in [section 923(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/3&num=0&edition=prelim), of an eligible Federal entity incurring such costs with respect to relocation from those frequencies.”
+
+Subsec. (d)(2)(A). Pub. L. 112–96, § 6702(3)(A)(iv), added subpar. (A). Former subpar. (A) redesignated (B).
+
+Pub. L. 112–96, § 6702(3)(A)(i), inserted “or sharing” before the semicolon.
+
+Subsec. (d)(2)(B). Pub. L. 112–96, § 6702(3)(A)(iii), redesignated subpar. (A) as (B). Former subpar. (B) redesignated (C).
+
+Pub. L. 112–96, § 6702(3)(A)(ii), inserted “or sharing” before period at end.
+
+Subsec. (d)(2)(C). Pub. L. 112–96, § 6702(3)(A)(iii), redesignated subpar. (B) as (C).
+
+Subsec. (d)(3). Pub. L. 112–96, § 6702(3)(B), (C), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “Any auction proceeds in the Fund that are remaining after the payment of the relocation or sharing costs that are payable from the Fund shall revert to and be deposited in the general fund of the Treasury not later than 8 years after the date of the deposit of such proceeds to the Fund.”
+
+Subsec. (d)(4). Pub. L. 112–96, § 6702(3)(C), added par. (4).
+
+Subsec. (e)(1)(B)(i). Pub. L. 112–96, § 6702(4)(A)(i), substituted “subsection (d)(2)(B)” for “subsection (d)(2)(A)”.
+
+Subsec. (e)(1)(B)(ii). Pub. L. 112–96, § 6702(4)(A)(ii), substituted “subsection (d)(2)(C)” for “subsection (d)(2)(B)”.
+
+Subsec. (e)(2). Pub. L. 112–96, § 6702(4)(B), substituted “relocation of the entity or implementation of the sharing arrangement by the entity” for “entity’s relocation” and “subsection (d)(2)(B)” for “subsection (d)(2)(A)” and inserted “or the implementation of such arrangement” after “such relocation”.
+
+Subsecs. (f), (g). Pub. L. 112–96, § 6702(5), added subsecs. (f) and (g).
+
+2009—Subsec. (e)(1)(B)(ii) to (iv). Pub. L. 111–8 inserted “and” after semicolon in cl. (ii), substituted period for “; and” in cl. (iii), and struck out cl. (iv) which read as follows: “the Comptroller General shall, within 30 days after receiving such plan, review such plan and submit to such committees an assessment of the explanation for the subsequent transfer or transfers.”
+
+#### Annual Report
+Pub. L. 108–494, title II, § 207, Dec. 23, 2004, 118 Stat. 3996, provided that: “The National Telecommunications and Information Administration shall submit an annual report to the Committees on Appropriations and Energy and Commerce of the House of Representatives, the Committees on Appropriations and Commerce, Science, and Transportation of the Senate, and the Comptroller General on— “(1) the progress made in adhering to the timelines applicable to relocation from eligible frequencies required under [former] section 118(d)(2)(A) of the National Telecommunications and Information Administration Organization Act [now [47 U.S.C. 928(d)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section928/d/2/B&num=0&edition=prelim)], separately stated on a communication system-by-system basis and on an auction-by-auction basis; and “(2) with respect to each relocated communication system and auction, a statement of the estimate of relocation costs required under section 113(g)(4) of such Act [[47 U.S.C. 923(g)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section923/g/4&num=0&edition=prelim)], the actual relocations costs incurred, and the amount of such costs paid from the Spectrum Relocation Fund.”
+
+
+<a id="section-929"></a>
+## § 929. National security and other sensitive information
+**(a) Determination** If the head of an Executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)) determines that public disclosure of any information contained in a notification or report required by section 923 or 928 of this title would reveal classified national security information, or other information for which there is a legal basis for nondisclosure and the public disclosure of which would be detrimental to national security, homeland security, or public safety or would jeopardize a law enforcement investigation, the head of the Executive agency shall notify the Assistant Secretary of that determination prior to the release of such information.
+
+**(b) Inclusion in annex** The head of the Executive agency shall place the information with respect to which a determination was made under subsection (a) in a separate annex to the notification or report required by section 923 or 928 of this title. The annex shall be provided to the subcommittee of primary jurisdiction of the congressional committee of primary jurisdiction in accordance with appropriate national security stipulations but shall not be disclosed to the public or provided to any unauthorized person through any means.
+
+
+<a id="section-941"></a>
+## § 941. Child-friendly second-level Internet domain
+**(a) Responsibilities** The NTIA shall require the registry selected to operate and maintain the United States country code Internet domain to establish, operate, and maintain a second-level domain within the United States country code domain that provides access only to material that is suitable for minors and not harmful to minors (in this section referred to as the “new domain”).
+
+**(b) Conditions of contracts**
+
+(1) **Initial registry** — The NTIA shall not exercise any option periods under any contract between the NTIA and the initial registry to operate and maintain the United States country code Internet domain unless the initial registry agrees, during the 90-day period beginning upon December 4, 2002, to carry out, and to operate the new domain in accordance with, the requirements under subsection (c). Nothing in this subsection shall be construed to prevent the initial registry of the United States country code Internet domain from participating in the NTIA’s process for selecting a successor registry or to prevent the NTIA from awarding, to the initial registry, the contract to be successor registry subject to the requirements of paragraph (2).
+
+(2) **Successor registries** — The NTIA shall not enter into any contract for operating and maintaining the United States country code Internet domain with any successor registry unless such registry enters into an agreement with the NTIA, during the 90-day period after selection of such registry, that provides for the registry to carry out, and the new domain to operate in accordance with, the requirements under subsection (c).
+
+**(c) Requirements of new domain** The registry and new domain shall be subject to the following requirements:
+
+(1) Written content standards for the new domain, except that the NTIA shall not have any authority to establish such standards.
+
+(2) Written agreements with each registrar for the new domain that require that use of the new domain is in accordance with the standards and requirements of the registry.
+
+(3) Written agreements with registrars, which shall require registrars to enter into written agreements with registrants, to use the new domain in accordance with the standards and requirements of the registry.
+
+(4) Rules and procedures for enforcement and oversight that minimize the possibility that the new domain provides access to content that is not in accordance with the standards and requirements of the registry.
+
+(5) A process for removing from the new domain any content that is not in accordance with the standards and requirements of the registry.
+
+(6) A process to provide registrants to the new domain with an opportunity for a prompt, expeditious, and impartial dispute resolution process regarding any material of the registrant excluded from the new domain.
+
+(7) Continuous and uninterrupted service for the new domain during any transition to a new registry selected to operate and maintain new domain or the United States country code domain.
+
+(8) Procedures and mechanisms to promote the accuracy of contact information submitted by registrants and retained by registrars in the new domain.
+
+(9) Operationality of the new domain not later than one year after December 4, 2002.
+
+(10) Written agreements with registrars, which shall require registrars to enter into written agreements with registrants, to prohibit two-way and multiuser interactive services in the new domain, unless the registrant certifies to the registrar that such service will be offered in compliance with the content standards established pursuant to paragraph (1) and is designed to reduce the risk of exploitation of minors using such two-way and multiuser interactive services.
+
+(11) Written agreements with registrars, which shall require registrars to enter into written agreements with registrants, to prohibit hyperlinks in the new domain that take new domain users outside of the new domain.
+
+(12) Any other action that the NTIA considers necessary to establish, operate, or maintain the new domain in accordance with the purposes of this section.
+
+**(d) Option periods for initial registry** The NTIA shall grant the initial registry the option periods available under the contract between the NTIA and the initial registry to operate and maintain the United States country code Internet domain if, and may not grant such option periods unless, the NTIA finds that the initial registry has satisfactorily performed its obligations under this Act and under the contract. Nothing in this section shall preempt or alter the NTIA’s authority to terminate such contract for the operation of the United States country code Internet domain for cause or for convenience.
+
+**(e) Treatment of registry and other entities**
+
+(1) **In general** — Only to the extent that such entities carry out functions under this section, the following entities are deemed to be interactive computer services for purposes of section 230(c) of the Communications Act of 1934 ([47 U.S.C. 230(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section230/c&num=0&edition=prelim)):
+
+  (A) The registry that operates and maintains the new domain.
+
+  (B) Any entity that contracts with such registry to carry out functions to ensure that content accessed through the new domain complies with the limitations applicable to the new domain.
+
+  (C) Any registrar for the registry of the new domain that is operating in compliance with its agreement with the registry.
+
+(2) **Savings provision** — Nothing in paragraph (1) shall be construed to affect the applicability of any other provision of title II of the Communications Act of 1934 [[47 U.S.C. 201](./chapter-005-wire-or-radio-communication.md#section-201) et seq.] to the entities covered by subparagraph (A), (B), or (C) of paragraph (1).
+
+**(f) Education** The NTIA shall carry out a program to publicize the availability of the new domain and to educate the parents of minors regarding the process for utilizing the new domain in combination and coordination with hardware and software technologies that provide for filtering or blocking. The program under this subsection shall be commenced not later than 30 days after the date that the new domain first becomes operational and accessible by the public.
+
+**(g) Coordination with Federal Government** The registry selected to operate and maintain the new domain shall—
+
+(1) consult with appropriate agencies of the Federal Government regarding procedures and actions to prevent minors and families who use the new domain from being targeted by adults and other children for predatory behavior, exploitation, or illegal actions; and
+
+(2) based upon the consultations conducted pursuant to paragraph (1), establish such procedures and take such actions as the registry may deem necessary to prevent such targeting.
+The consultations, procedures, and actions required under this subsection shall be commenced not later than 30 days after the date that the new domain first becomes operational and accessible by the public.
+
+**(h) Compliance report** The registry shall prepare, on an annual basis, a report on the registry’s monitoring and enforcement procedures for the new domain. The registry shall submit each such report, setting forth the results of the review of its monitoring and enforcement procedures for the new domain, to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+**(i) Suspension of new domain** If the NTIA finds, pursuant to its own review or upon a good faith petition by the registry, that the new domain is not serving its intended purpose, the NTIA shall instruct the registry to suspend operation of the new domain until such time as the NTIA determines that the new domain can be operated as intended.
+
+**(j) Definitions** For purposes of this section, the following definitions shall apply:
+
+(1) **Harmful to minors** — The term “harmful to minors” means, with respect to material, that—
+
+  (A) the average person, applying contemporary community standards, would find, taking the material as a whole and with respect to minors, that it is designed to appeal to, or is designed to pander to, the prurient interest;
+
+  (B) the material depicts, describes, or represents, in a manner patently offensive with respect to minors, an actual or simulated sexual act or sexual contact, an actual or simulated normal or perverted sexual act, or a lewd exhibition of the genitals or post-pubescent female breast; and
+
+  (C) taken as a whole, the material lacks serious, literary, artistic, political, or scientific value for minors.
+
+(2) **Minor** — The term “minor” means any person under 13 years of age.
+
+(3) **Registry** — The term “registry” means the registry selected to operate and maintain the United States country code Internet domain.
+
+(4) **Successor registry** — The term “successor registry” means any entity that enters into a contract with the NTIA to operate and maintain the United States country code Internet domain that covers any period after the termination or expiration of the contract to operate and maintain the United States country code Internet domain, and any option periods under such contract, that was signed on October 26, 2001.
+
+(5) **Suitable for minors** — The term “suitable for minors” means, with respect to material, that it—
+
+  (A) is not psychologically or intellectually inappropriate for minors; and
+
+  (B) serves—
+
+    (i) the educational, informational, intellectual, or cognitive needs of minors; or
+
+    (ii) the social, emotional, or entertainment needs of minors.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (d), is Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, known as the Telecommunications Authorization Act of 1992. Title I of the Act, known as the National Telecommunications and Information Administration Organization Act, is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+
+The Communications Act of 1934, referred to in subsec. (e)(2), is act June 19, 1934, ch. 652, 48 Stat. 1064. Title II of the Act is classified generally to subchapter II (§ 201 et seq.) of chapter 5 of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+
+#### Findings and Purposes
+Pub. L. 107–317, § 2, Dec. 4, 2002, 116 Stat. 2766, provided that: “(a) Findings.—The Congress finds that—“(1) the World Wide Web presents a stimulating and entertaining opportunity for children to learn, grow, and develop educationally and intellectually; “(2) Internet technology also makes available an extensive amount of information that is harmful to children, as studies indicate that a significant portion of all material available on the Internet is related to pornography; “(3) young children, when trying to use the World Wide Web for positive purposes, are often presented—either mistakenly or intentionally—with material that is inappropriate for their age, which can be extremely frustrating for children, parents, and educators; “(4) exposure of children to material that is inappropriate for them, including pornography, can distort the education and development of the Nation’s youth and represents a serious harm to American families that can lead to a host of other problems for children, including inappropriate use of chat rooms, physical molestation, harassment, and legal and financial difficulties; “(5) young boys and girls, older teens, troubled youth, frequent Internet users, chat room participants, online risk takers, and those who communicate online with strangers are at greater risk for receiving unwanted sexual solicitation on the Internet; “(6) studies have shown that 19 percent of youth (ages 10 to 17) who used the Internet regularly were the targets of unwanted sexual solicitation, but less than 10 percent of the solicitations were reported to the police; “(7) children who come across illegal content should report it to the congressionally authorized CyberTipline, an online mechanism developed by the National Center for Missing and Exploited Children, for citizens to report sexual crimes against children; “(8) the CyberTipline has received more than 64,400 reports, including reports of child pornography, online enticement for sexual acts, child molestation (outside the family), and child prostitution; “(9) although the computer software and hardware industries, and other related industries, have developed innovative ways to help parents and educators restrict material that is harmful to minors through parental control protections and self-regulation, to date such efforts have not provided a national solution to the problem of minors accessing harmful material on the World Wide Web; “(10) the creation of a ‘green-light’ area within the United States country code Internet domain, that will contain only content that is appropriate for children under the age of 13, is analogous to the creation of a children’s section within a library and will promote the positive experiences of children and families in the United States; and “(11) while custody, care, and nurture of the child reside first with the parent, the protection of the physical and psychological well-being of minors by shielding them from material that is harmful to them is a compelling governmental interest. “(b) Purposes.—The purposes of this Act [see Short Title of 2002 Amendment note set out under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901)] are—“(1) to facilitate the creation of a second-level domain within the United States country code Internet domain for the location of material that is suitable for minors and not harmful to minors; and “(2) to ensure that the National Telecommunications and Information Administration oversees the creation of such a second-level domain and ensures the effective and efficient establishment and operation of the new domain.”
+
+
+<a id="section-942"></a>
+## § 942. Coordination of 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation
+**(a) 9–1–1 Implementation Coordination Office**
+
+(1) **Establishment and continuation** — The Assistant Secretary and the Administrator of the National Highway Traffic Safety Administration shall—
+
+  (A) establish and further a program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of 9–1–1 services; and
+
+  (B) establish a 9–1–1 Implementation Coordination Office to implement the provisions of this section.
+
+(2) **Management plan**
+
+  (A) *Development* — The Assistant Secretary and the Administrator shall develop a management plan for the grant program established under this section, including by developing—
+
+    (i) plans related to the organizational structure of such program; and
+
+    (ii) funding profiles for each fiscal year of the duration of such program.
+
+  (B) *Submission to Congress* — Not later than 90 days after February 22, 2012, the Assistant Secretary and the Administrator shall submit the management plan developed under subparagraph (A) to—
+
+    (i) the Committees on Commerce, Science, and Transportation and Appropriations of the Senate; and
+
+    (ii) the Committees on Energy and Commerce and Appropriations of the House of Representatives.
+
+(3) **Purpose of Office** — The Office shall—
+
+  (A) take actions, in concert with coordinators designated in accordance with subsection (b)(3)(A)(ii), to improve coordination and communication with respect to the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services;
+
+  (B) develop, collect, and disseminate information concerning practices, procedures, and technology used in the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services;
+
+  (C) advise and assist eligible entities in the preparation of implementation plans required under subsection (b)(3)(A)(iii);
+
+  (D) receive, review, and recommend the approval or disapproval of applications for grants under subsection (b); and
+
+  (E) oversee the use of funds provided by such grants in fulfilling such implementation plans.
+
+**(b) 9–1–1, E9–1–1, and Next Generation 9–1–1 implementation grants**
+
+(1) **Matching grants** — The Assistant Secretary and the Administrator, acting through the Office, shall provide grants to eligible entities for—
+
+  (A) the implementation and operation of 9–1–1 services, E9–1–1 services, migration to an IP-enabled emergency network, and adoption and operation of Next Generation 9–1–1 services and applications;
+
+  (B) the implementation of IP-enabled emergency services and applications enabled by Next Generation 9–1–1 services, including the establishment of IP backbone networks and the application layer software infrastructure needed to interconnect the multitude of emergency response organizations; and
+
+  (C) training public safety personnel, including call-takers, first responders, and other individuals and organizations who are part of the emergency response chain in 9–1–1 services.
+
+(2) **Matching requirement** — The Federal share of the cost of a project eligible for a grant under this section shall not exceed 60 percent.
+
+(3) **Coordination required** — In providing grants under paragraph (1), the Assistant Secretary and the Administrator shall require an eligible entity to certify in its application that—
+
+  (A) in the case of an eligible entity that is a State government, the entity—
+
+    (i) has coordinated its application with the public safety answering points located within the jurisdiction of such entity;
+
+    (ii) has designated a single officer or governmental body of the entity to serve as the coordinator of implementation of 9–1–1 services, except that such designation need not vest such coordinator with direct legal authority to implement 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services or to manage emergency communications operations;
+
+    (iii) has established a plan for the coordination and implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services; and
+
+    (iv) has integrated telecommunications services involved in the implementation and delivery of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services; or
+
+  (B) in the case of an eligible entity that is not a State, the entity has complied with clauses (i), (iii), and (iv) of subparagraph (A), and the State in which it is located has complied with clause (ii) of such subparagraph.
+
+(4) **Criteria** — Not later than 120 days after February 22, 2012, the Assistant Secretary and the Administrator shall issue regulations, after providing the public with notice and an opportunity to comment, prescribing the criteria for selection for grants under this section. The criteria shall include performance requirements and a timeline for completion of any project to be financed by a grant under this section. The Assistant Secretary and the Administrator shall update such regulations as necessary.
+
+**(c) Diversion of 9–1–1 charges**
+
+(1) **Designated 9–1–1 charges** — For the purposes of this subsection, the term “designated 9–1–1 charges” means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
+
+(2) **Certification** — Each applicant for a matching grant under this section shall certify to the Assistant Secretary and the Administrator at the time of application, and each applicant that receives such a grant shall certify to the Assistant Secretary and the Administrator annually thereafter during any period of time during which the funds from the grant are available to the applicant, that no portion of any designated 9–1–1 charges imposed by a State or other taxing jurisdiction within which the applicant is located are being obligated or expended for any purpose other than the purposes for which such charges are designated or presented during the period beginning 180 days immediately preceding the date of the application and continuing through the period of time during which the funds from the grant are available to the applicant.
+
+(3) **Condition of grant** — Each applicant for a grant under this section shall agree, as a condition of receipt of the grant, that if the State or other taxing jurisdiction within which the applicant is located, during any period of time during which the funds from the grant are available to the applicant, obligates or expends designated 9–1–1 charges for any purpose other than the purposes for which such charges are designated or presented, eliminates such charges, or redesignates such charges for purposes other than the implementation or operation of 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services, all of the funds from such grant shall be returned to the Office.
+
+(4) **Penalty for providing false information** — Any applicant that provides a certification under paragraph (2) knowing that the information provided in the certification was false shall—
+
+  (A) not be eligible to receive the grant under subsection (b);
+
+  (B) return any grant awarded under subsection (b) during the time that the certification was not valid; and
+
+  (C) not be eligible to receive any subsequent grants under subsection (b).
+
+**(d) Funding and termination**
+
+(1) **In general** — From the amounts made available to the Assistant Secretary and the Administrator under [section 1457(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1457/b/6&num=0&edition=prelim), the Assistant Secretary and the Administrator are authorized to provide grants under this section through the end of fiscal year 2022. Not more than 5 percent of such amounts may be obligated or expended to cover the administrative costs of carrying out this section.
+
+(2) **Termination** — Effective on October 1, 2022, the authority provided by this section terminates and this section shall have no effect.
+
+**(e) Definitions** In this section, the following definitions shall apply:
+
+(1) **9–1–1 services** — The term “9–1–1 services” includes both E9–1–1 services and Next Generation 9–1–1 services.
+
+(2) **E9–1–1 services** — The term “E9–1–1 services” means both phase I and phase II enhanced 9–1–1 services, as described in section 20.18 of the Commission’s regulations (47 C.F.R. 20.18), as in effect on February 22, 2012, or as subsequently revised by the Commission.
+
+(3) **Eligible entity**
+
+  (A) *In general* — The term “eligible entity” means a State or local government or a tribal organization (as defined in section 5304(l) of title 25).
+
+  (B) *Instrumentalities* — The term “eligible entity” includes public authorities, boards, commissions, and similar bodies created by one or more eligible entities described in subparagraph (A) to provide 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
+
+  (C) *Exception* — The term “eligible entity” does not include any entity that has failed to submit the most recently required certification under subsection (c) within 30 days after the date on which such certification is due.
+
+(4) **Emergency call** — The term “emergency call” refers to any real-time communication with a public safety answering point or other emergency management or response agency, including—
+
+  (A) through voice, text, or video and related data; and
+
+  (B) nonhuman-initiated automatic event alerts, such as alarms, telematics, or sensor data, which may also include real-time voice, text, or video communications.
+
+(5) **Next Generation 9–1–1 services** — The term “Next Generation 9–1–1 services” means an IP-based system comprised of hardware, software, data, and operational policies and procedures that—
+
+  (A) provides standardized interfaces from emergency call and message services to support emergency communications;
+
+  (B) processes all types of emergency calls, including voice, data, and multimedia information;
+
+  (C) acquires and integrates additional emergency call data useful to call routing and handling;
+
+  (D) delivers the emergency calls, messages, and data to the appropriate public safety answering point and other appropriate emergency entities;
+
+  (E) supports data or video communications needs for coordinated incident response and management; and
+
+  (F) provides broadband service to public safety answering points or other first responder entities.
+
+(6) **Office** — The term “Office” means the 9–1–1 Implementation Coordination Office.
+
+(7) **Public safety answering point** — The term “public safety answering point” has the meaning given the term in [section 222 of this title](./chapter-005-wire-or-radio-communication.md#section-222).
+
+(8) **State** — The term “State” means any State of the United States, the District of Columbia, Puerto Rico, American Samoa, Guam, the United States Virgin Islands, the Northern Mariana Islands, and any other territory or possession of the United States.
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a)(4). Pub. L. 117–58 struck out par. (4). Text read as follows: “The Assistant Secretary and the Administrator shall provide an annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services.”
+
+2012—Pub. L. 112–96 amended section generally. Prior to amendment, section established a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–911 services and created an E–911 Implementation Coordination Office.
+
+2008—Subsec. (b)(1). Pub. L. 110–283, § 102(1), inserted “and for migration to an IP-enabled emergency network” before period at end.
+
+Subsecs. (d) to (f). Pub. L. 110–283, § 102(2), (3), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+2007—Subsec. (b)(4). Pub. L. 110–53 inserted at end “Within 180 days after August 3, 2007, the Assistant Secretary and the Administrator shall jointly issue regulations updating the criteria to allow a portion of the funds to be used to give priority to grants that are requested by public safety answering points that were not capable of receiving 911 calls as of August 3, 2007, for the incremental cost of upgrading from Phase I to Phase II compliance. Such grants shall be subject to all other requirements of this section.”
+
+#### Next Generation 911
+Pub. L. 117–58, div. B, title IV, § 24113(a), Nov. 15, 2021, 135 Stat. 818, provided that: “(1) In general.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary shall implement the recommendations of the Comptroller General of the United States contained in the report entitled ‘Next Generation 911: National 911 Program Could Strengthen Efforts to Assist States’, numbered GAO–18–252, and dated January 1, 2018, by requiring that the Administrator of the National Highway Traffic Safety Administration, in collaboration with the appropriate Federal agencies, shall determine the roles and responsibilities of the Federal agencies participating in the initiative entitled ‘National NG911 Roadmap initiative’ to carry out the national-level tasks with respect which each agency has jurisdiction. “(2) Implementation plan.—The Administrator of the National Highway Traffic Safety Administration shall develop an implementation plan to support the completion of national-level tasks under the National NG911 Roadmap initiative.”
+
+#### Findings
+Pub. L. 108–494, title I, § 102, Dec. 23, 2004, 118 Stat. 3986, provided that: “The Congress finds that— “(1) for the sake of our Nation’s homeland security and public safety, a universal emergency telephone number (911) that is enhanced with the most modern and state-of-the-art telecommunications capabilities possible should be available to all citizens in all regions of the Nation; “(2) enhanced emergency communications require Federal, State, and local government resources and coordination; “(3) any funds that are collected from fees imposed on consumer bills for the purposes of funding 911 services or enhanced 911 should go only for the purposes for which the funds are collected; and “(4) enhanced 911 is a high national priority and it requires Federal leadership, working in cooperation with State and local governments and with the numerous organizations dedicated to delivering emergency communications services.”
+
+#### Purposes
+Pub. L. 108–494, title I, § 103, Dec. 23, 2004, 118 Stat. 3986, provided that: “The purposes of this title [see section 101 of title I of Pub. L. 108–494, set out as a Short Title of 2004 Amendment note under [section 901 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-901)] are— “(1) to coordinate 911 services and E–911 services, at the Federal, State, and local levels; and “(2) to ensure that funds collected on telecommunications bills for enhancing emergency 911 services are used only for the purposes for which the funds are being collected.”

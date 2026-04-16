@@ -1,0 +1,414 @@
+---
+title: 10
+chapter: '57'
+heading: DECORATIONS AND AWARDS
+section_count: 15
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
+---
+<a id="section-1121"></a>
+## § 1121. Legion of Merit: award
+
+The President, under regulations to be prescribed by him, may award a decoration called the “Legion of Merit”, having suitable appurtenances and devices and not more than four degrees, to any member of the armed forces of the United States or of any friendly foreign nation who, after September 8, 1939, has distinguished himself by exceptionally meritorious conduct in performing outstanding services.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
+| 1121 | 10:1408b(1). | July 20, 1942, ch. 508, § 2(1), 56 Stat. 662. |
+
+The words “Government of the Philippines” are omitted as covered by the words “any friendly foreign nation”. The words “There is created”, “rules and”, and “the proclamation of an emergency by the President on” are omitted as surplusage.
+
+
+<a id="section-1122"></a>
+## § 1122. Medal for Merit: award
+
+The President, under regulations to be prescribed by him, may award a decoration called the “Medal for Merit”, having distinctive appurtenances and devices and only one degree, to any civilian of any nation prosecuting the war in existence on July 20, 1942, under the joint declaration of the United Nations, as then constituted, or of any other friendly foreign nation, who, after September 8, 1939, has distinguished himself by exceptionally meritorious conduct in performing outstanding services. The Medal for Merit may be awarded to a civilian of a foreign nation but only for performing an exceptionally meritorious or courageous act in the furtherance of the war efforts of the United Nations as then constituted.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
+| 1122 | 10:1408b (less (1)). | July 20, 1942, ch. 508, § 2 (less (1)), 56 Stat. 663. |
+
+The words “in existence on July 20, 1942” are inserted for clarity and refer to the war in existence on the date of enactment of the source statute. The words “as then constituted” are inserted for clarity, since the United Nations organization in existence on July 20, 1942, was not the present United Nations organization. The words “There is created”, “rules and”, and “the proclamation of an emergency by the President on” are omitted as surplusage.
+
+#### Ex. Ord. No. 9637. Medal for Merit
+Ex. Ord. No. 9637, Oct. 3, 1945, 10 F.R. 12543, as amended by Ex. Ord. No. 9857A, May 27, 1947, 12 F.R. 3583, provided:
+
+1. The decoration of the Medal for Merit shall be awarded only by the President of the United States or at his direction. Awards of the Medal for Merit may be made to such civilians of the nations prosecuting the war under the joint declaration of the United Nations and of other friendly foreign nations as have distinguished themselves by exceptionally meritorious conduct in the performance of outstanding services since the proclamation of an emergency by the President on September 8, 1939. Awards of the Medal for Merit made to civilians of foreign nations shall be for the performance of an exceptionally meritorious or courageous act or acts in furtherance of the war efforts of the United Nations.
+
+2. There is hereby established the Medal for Merit Board, which shall be composed of three members appointed by the President, one of whom shall be designated by the President to act as Chairman of the Board.
+
+3. The Medal for Merit Board shall receive and consider proposals for the award of the decoration of the Medal for Merit and submit to the President the recommendations of the Board with respect thereto. In the case of proposed awards to civilians of foreign nations, such recommendations shall include the recommendations of the Secretary of State.
+
+4. The Medal for Merit Board is authorized to prescribe, with the approval of the President, such rules and regulations not inconsistent with the provisions of this order as may be necessary to accomplish its purposes.
+
+5. Executive Order 9331 of April 19, 1943 and the Medal for Merit Board created thereby, are superseded by this order.
+
+6. The Medal for Merit shall not be awarded for any services relating to the prosecution of World War II performed subsequent to the cessation of hostilities, as proclaimed by Proclamation No. 2714 of December 31, 1946, and no proposal for an award for such services submitted after June 30, 1947, shall be considered by the Medal for Merit Board.
+
+
+<a id="section-1123"></a>
+## § 1123. Right to wear badges of military societies
+**(a)** A member of the Army, Navy, Air Force, or Marine Corps who is a member of a military society originally composed of men who served in an armed force of the United States during the Revolutionary War, the War of 1812, the Mexican War, the Civil War, the Spanish-American War, the Philippine Insurrection, or the Chinese Relief Expedition of 1900 may wear, on occasions of ceremony, the distinctive badges adopted by that society.
+
+**(b)** A member of the Army, Navy, Air Force, or Marine Corps who is a member of the Army and Navy Union of the United States may wear, on public occasions of ceremony, the distinctive badges adopted by that society.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised section | Source (U.S. Code) | Source (Statutes at Large) |
+| 1123(a) | 10:1427 (1st sentence). 34:371 (1st sentence). | Sept. 25, 1890, J. Res. 50, 26 Stat. 681. |
+| 1123(b) | 10:1427 (less 1st sentence). | May 11, 1894, J. Res. 26, 28 Stat. 583. |
+|  | 34:371 (less 1st sentence). | Feb. 2, 1901, ch. 192, § 41, 31 Stat. 758. |
+|  |  | Jan. 12, 1903, J. Res. 2, 32 Stat. 1229. |
+|  |  | Mar. 2, 1907, J. Res. 18, 34 Stat. 1423. |
+
+In subsection (a), the words “an armed force” are substituted for the words “armies and navies”. The words “Revolutionary War”, “Civil War”, and “Philippine Insurrection” are substituted for the words “War of the Revolution”, “War of the Rebellion”, and “incident insurrection in the Philippines”, respectively, to reflect present terminology. The words “originally composed” are substituted for the words “in their own right”, to reflect an opinion of the Attorney General (see 23 Op. Atty. Gen. 454).
+
+In subsections (a) and (b), the word “member” is substituted for the words “officers and enlisted men”. The words “Navy * * * or Marine Corps” are substituted for the word “Navy”, since the word “Navy” in the source statute has, by long-standing administrative interpretation, been construed to include the Marine Corps.
+
+In subsection (b), the words “in their own right” are omitted as surplusage.
+
+
+<a id="section-1124"></a>
+## § 1124. Cash awards for disclosures, suggestions, inventions, and scientific achievements
+**(a)** The Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may authorize the payment of a cash award to, and incur necessary expense for the honorary recognition of, a member of the armed forces under his jurisdiction who by his disclosure, suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of operations or programs relating to the armed forces.
+
+**(b)** Whenever the President considers it desirable, the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, are authorized to pay a cash award to, and incur necessary expense for the honorary recognition of, a member of the armed forces who by his disclosure, suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of operations of the Government of the United States. Such award is in addition to any other award made to that member under subsection (a).
+
+**(c)** An award under this section may be paid notwithstanding the member’s death, separation, or retirement from the armed force concerned. However, the disclosure, suggestion, invention, or scientific achievement forming the basis for the award must have been made while the member was on active duty or in an active reserve status and not otherwise eligible for an award under chapter 45 of title 5.
+
+**(d)** A cash award under this section is in addition to the pay and allowances of the recipient. The acceptance of such an award shall constitute—
+
+(1) an agreement by the member that the use by the United States of any idea, method, or device for which the award is made may not be the basis of a claim against the United States by the member, his heirs, or assigns, or by any person whose claim is alleged to be derived through the member; and
+
+(2) a warranty by the member that he has not at the time of acceptance transferred, assigned, or otherwise divested himself of legal or equitable title in any property right residing in the idea, method, or device for which the award is made.
+
+**(e)** Awards to, and expenses for the honorary recognition of, members of the armed forces under this section may be paid from (1) the funds or appropriations available to the activity primarily benefiting; or (2) the several funds or appropriations of the various activities benefiting, as may be determined by the President for awards under subsection (b), and by the Secretary concerned for awards under subsection (a).
+
+**(f)** The total amount of the award, or awards, made under this section for a disclosure, suggestion, invention, or scientific achievement may not exceed $25,000, regardless of the number of persons who may be entitled to share therein.
+
+**(g)** Awards under this section shall be made under regulations to be prescribed by the Secretary of Defense, or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+**(h)** For the purposes of this section, a member of the Commissioned Corps of the National Oceanic and Atmospheric Administration or of the Public Health Service who is serving with an armed force shall be treated as if he were a member of that armed force.
+
+### Statutory Notes
+
+#### Codification
+Another section 1124 was renumbered 1126 of this title.
+
+#### Amendments
+2002—Subsecs. (a), (b), (g). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+
+1985—Pub. L. 99–145 inserted “disclosures,” and substituted “and” for “or” in section catchline, and inserted “disclosure,” before “suggestion” in subsecs. (a), (b), (c), and (f).
+
+1980—Subsec. (c). Pub. L. 96–527 authorized payment of awards to retired members of the armed forces, required the basis for awards to have been made when in an active reserve status, and required the member to be ineligible for incentive award under chapter 45 of title 5.
+
+Subsec. (g). Pub. L. 96–470 struck out provision requiring the Secretary of Defense and the Secretary of Transportation to annually report to the President, for transmittal to Congress, on progress of the awards program.
+
+Subsec. (h). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+
+1968—Subsecs. (a), (b), (g). Pub. L. 90–623 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+
+1966—Subsec. (g). Pub. L. 89–718 substituted “progress report” for “program report”.
+
+#### Effective Date of 2002 Amendment
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date of 1985 Amendment
+Pub. L. 99–145, title XII, § 1225(a)(3), Nov. 8, 1985, 99 Stat. 730, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 1985.”
+
+#### Effective Date of 1980 Amendment
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+
+#### Effective Date of 1968 Amendment
+Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
+
+#### Transfer of Functions
+For transfer of functions of Public Health Service, see note set out under [section 802 of this title](./chapter-047-uniform-code-of-military-justice.md#section-802).
+
+#### Ex. Ord. No. 11438. Procedures Governing Interdepartmental Cash Awards
+Ex. Ord. No. 11438, Dec. 3, 1968, 33 F.R. 18085, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 13286, § 63, Feb. 28, 2003, 68 F.R. 10629, provided:
+
+By virtue of the authority vested in me by section 1124(b) and (e) of title 10, United States Code, and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and as President of the United States, it is ordered as follows:
+
+Section 1. Any suggestion, invention, or scientific achievement by a member of the armed forces that contributes to the efficiency, economy, or other improvement of operations of the Government of the United States through its adoption or use by an executive department or agency other than the executive department having jurisdiction over the armed force of the member concerned may be the basis for honorary recognition or a cash award by the Secretary of Homeland Security in the case of a member of the Coast Guard when it is not operating as a service in the Navy or by the Secretary of Defense in the case of any other member of the armed forces.
+
+Sec. 2. An executive department or agency that adopts or uses the suggestion, invention, or scientific achievement of a member of the armed forces who is not under its jurisdiction may recommend to the Department of Defense or to the Department of Homeland Security, as appropriate, a cash award or honorary recognition of the member and shall justify its recommendation with appropriate documentation and explanation of how the suggestion, invention, or scientific achievement contributes to the efficiency, economy, or other improvement of the operations of the Government of the United States. Awards shall be made under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security, as appropriate. The regulations of the Department of Defense and Department of Homeland Security may include designations of officials to whom authority for receiving, evaluating, and making awards may be assigned.
+
+Sec. 3. No cash awards hereunder for a single suggestion, invention, or scientific achievement may exceed $25,000 regardless of the number of agencies or departments which may adopt or use the suggestion, invention, or scientific achievement.
+
+Sec. 4. Funds to cover the costs of cash awards to members of the armed forces shall be transferred from the account of any executive department or agency which recommends the award to the appropriate account of the Department of Homeland Security or the Department of Defense, as the case may be. When several executive departments or agencies benefit from the adoption or use of the suggestion, invention, or scientific achievement, the amount transferred from each such benefiting department or agency to the Department of Homeland Security or the Department of Defense to cover the proportionate share of the cost of the cash award shall be determined under procedures prescribed by the Office of Personnel Management in accordance with the same guidelines and standards applying to awards to civilian employees.
+
+
+<a id="section-1125"></a>
+## § 1125. Recognition for accomplishments: award of trophies
+
+The Secretary of Defense may—
+
+(1) award medals, trophies, badges, and similar devices to members, units, or agencies of an armed force under his jurisdiction for excellence in accomplishments or competitions related to that armed force; and
+
+(2) provide badges or buttons in recognition of special service, good conduct, and discharge under conditions other than dishonorable.
+
+### Statutory Notes
+
+#### Ex. Ord. No. 11545. Defense Distinguished Service Medal
+Ex. Ord. 11545, July 9, 1970, 35 F.R. 11161, provided:
+
+By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
+
+Section 1. There is hereby established a Defense Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Defense to a military officer who performed exceptionally meritorious service in a duty of great responsibility with the Office of the Secretary of Defense, the Organization of the Joint Chiefs of Staff, a specified or unified command, a Defense agency, or such other joint activity as may be designated by the Secretary of Defense.
+
+Sec. 2. The Defense Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Defense and shall be awarded under such regulations as he shall prescribe. These regulations shall place the Defense Distinguished Service Medal in an order of precedence after the Medals of Honor and the Distinguished Service Crosses of the Armed Forces and before the Distinguished Service Medals of the Armed Forces.
+
+Sec. 3. No more than one Defense Distinguished Service Medal shall be awarded to any one person, but for each succeeding exceptionally meritorious period of service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Defense.
+
+Sec. 4. The Defense Distinguished Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Defense.
+
+Richard Nixon.
+
+
+<a id="section-1126"></a>
+## § 1126. Gold star lapel button: eligibility and distribution
+**(a)** A lapel button, to be known as the gold star lapel button, shall be designed, as approved by the Secretary of Defense, to identify widows, parents, and next of kin of members of the armed forces—
+
+(1) who lost their lives during World War I, World War II, or during any subsequent period of armed hostilities in which the United States was engaged before July 1, 1958;
+
+(2) who lost or lose their lives after June 30, 1958—
+
+  (A) while engaged in an action against an enemy of the United States;
+
+  (B) while engaged in military operations involving conflict with an opposing foreign force; or
+
+  (C) while serving with friendly foreign forces engaged in an armed conflict in which the United States is not a belligerent party against an opposing armed force; or
+
+(3) who lost or lose their lives after March 28, 1973, as a result of—
+
+  (A) an international terrorist attack against the United States or a foreign nation friendly to the United States, recognized as such an attack by the Secretary of Defense; or
+
+  (B) military operations while serving outside the United States (including the commonwealths, territories, and possessions of the United States) as part of a peacekeeping force.
+
+**(b)** Under regulations to be prescribed by the Secretary of Defense, the Secretary concerned, upon application to him, shall furnish one gold star lapel button without cost to the widow and to each parent and next of kin of a member who lost or loses his or her life under any circumstances prescribed in subsection (a).
+
+**(c)** Not more than one gold star lapel button may be furnished to any one individual except that, when a gold star lapel button furnished under this section has been lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was furnished, the button may be replaced upon application and payment of an amount sufficient to cover the cost of manufacture and distribution.
+
+**(d)** In this section:
+
+(1) The term “widow” includes widower.
+
+(2) The term “parents” includes mother, father, stepmother, stepfather, mother through adoption, father through adoption, and foster parents who stood in loco parentis.
+
+(3) The term “next of kin” includes only children, brothers, sisters, half brothers, and half sisters.
+
+(4) The term “children” includes stepchildren and children through adoption.
+
+(5) The term “World War I” includes the period from April 6, 1917, to March 3, 1921.
+
+(6) The term “World War II” includes the period from September 8, 1939, to July 25, 1947, at 12 o’clock noon.
+
+(7) The term “military operations” includes those operations involving members of the armed forces assisting in United States Government sponsored training of military personnel of a foreign nation.
+
+(8) The term “peacekeeping force” includes those personnel assigned to a force engaged in a peacekeeping operation authorized by the United Nations Security Council.
+
+### Statutory Notes
+
+#### Amendments
+1993—Subsec. (a). Pub. L. 103–160, § 1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
+
+Subsec. (d)(7), (8). Pub. L. 103–160, § 1143(b), added pars. (7) and (8).
+
+1987—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+
+1983—Subsec. (a)(1). Pub. L. 98–94 substituted “who” for “Who”.
+
+
+<a id="section-1127"></a>
+## § 1127. Precedence of the award of the Purple Heart
+
+In prescribing regulations establishing the order of precedence of awards and decorations authorized to be displayed on the uniforms of members of the armed forces, the Secretary of the military department concerned shall accord the Purple Heart a position of precedence, in relation to other awards and decorations authorized to be displayed, not lower than that immediately following the bronze star.
+
+### Statutory Notes
+
+#### Amendments
+1985—Pub. L. 99–145 substituted “the bronze star” for “the lowest position accorded any award or decoration for valor”.
+
+
+<a id="section-1128"></a>
+## § 1128. Prisoner-of-war medal: issue
+**(a)** The Secretary concerned shall issue a prisoner-of-war medal to any person who, while serving in any capacity with the armed forces, was taken prisoner and held captive—
+
+(1) while engaged in an action against an enemy of the United States;
+
+(2) while engaged in military operations involving conflict with an opposing foreign force; or
+
+(3) while serving with friendly forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+
+**(b)** Under uniform regulations prescribed by the Secretary of Defense, the Secretary concerned may issue a prisoner-of-war medal to any person who, while serving in any capacity with the armed forces, was held captive under circumstances not covered by paragraph (1), (2), or (3) of subsection (a), but which the Secretary concerned finds were comparable to those circumstances under which persons have generally been held captive by enemy armed forces during periods of armed conflict.
+
+**(c)** The prisoner-of-war medal shall be of appropriate design, with ribbons and appurtenances.
+
+**(d)** In prescribing regulations establishing the order of precedence of awards and decorations authorized to be displayed on the uniforms of members of the armed forces, the Secretary concerned shall accord the prisoner-of-war medal a position of precedence, in relation to other awards and decorations authorized to be displayed—
+
+(1) immediately following decorations awarded for individual heroism, meritorious achievement, or meritorious service, and
+
+(2) before any other service medal, campaign medal, or service ribbon authorized to be displayed.
+
+**(e)** Not more than one prisoner-of-war medal may be issued to a person. However, for each succeeding service that would otherwise justify the issuance of such a medal, the Secretary concerned may issue a suitable device to be worn as the Secretary determines.
+
+**(f)** For a person to be eligible for issuance of a prisoner-of-war medal, the person’s conduct must have been honorable for the period of captivity which serves as the basis for the issuance.
+
+**(g)** If a person dies before the issuance of a prisoner-of-war medal to which he is entitled, the medal may be issued to the person’s representative, as designated by the Secretary concerned.
+
+**(h)** Under regulations to be prescribed by the Secretary concerned, a prisoner-of-war medal that is lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was issued may be replaced without charge.
+
+**(i)** The Secretary of Defense shall ensure that regulations prescribed by the Secretaries of the military departments under this section are uniform so far as practicable.
+
+### Statutory Notes
+
+#### Amendments
+2013—Subsec. (a)(2) to (4). Pub. L. 112–239, § 584(1), inserted “or” at end of par. (2), substituted period at end for “; or” in par. (3), and struck out par. (4) which read as follows: “by foreign armed forces that are hostile to the United States, under circumstances which the Secretary concerned finds to have been comparable to those under which persons have generally been held captive by enemy armed forces during periods of armed conflict.”
+
+Subsecs. (b) to (i). Pub. L. 112–239, § 584(2), (3), added subsec. (b) and redesignated former subsecs. (b) to (h) as (c) to (i), respectively.
+
+1989—Subsec. (a)(4). Pub. L. 101–189 added par. (4).
+
+#### Effective Date of 1989 Amendment
+Pub. L. 101–189, div. A, title V, § 516(b), Nov. 29, 1989, 103 Stat. 1442, provided that: “Paragraph (4) of [section 1128(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1128/a&num=0&edition=prelim), United States Code, as added by subsection (a), applies with respect to periods of captivity after April 5, 1917.”
+
+#### Effective Date
+Pub. L. 99–145, title V, § 532(b), Nov. 8, 1985, 99 Stat. 634, provided that: “[Section 1128 of title 10](./chapter-057-decorations-and-awards.md#section-1128), United States Code, as added by subsection (a), applies with respect to any person taken prisoner and held captive after April 5, 1917.”
+
+
+<a id="section-1129"></a>
+## § 1129. Purple Heart: members killed or wounded in action by friendly fire
+**(a)** For purposes of the award of the Purple Heart, the Secretary concerned shall treat a member of the armed forces described in subsection (b) in the same manner as a member who is killed or wounded in action as the result of an act of an enemy of the United States.
+
+**(b)** A member described in this subsection is a member who is killed or wounded in action by weapon fire while directly engaged in armed conflict, other than as the result of an act of an enemy of the United States, unless (in the case of a wound) the wound is the result of willful misconduct of the member.
+
+**(c)** This section applies to members of the armed forces who are killed or wounded on or after December 7, 1941. In the case of a member killed or wounded as described in subsection (b) on or after December 7, 1941, and before November 30, 1993, the Secretary concerned shall award the Purple Heart under subsection (a) in each case which is known to the Secretary before such date or for which an application is made to the Secretary in such manner as the Secretary requires.
+
+### Statutory Notes
+
+#### Amendments
+1997—Subsec. (c). Pub. L. 105–85 substituted “November 30, 1993,” for “the date of the enactment of this section,” and “before such date or” for “before the date of the enactment of this section or”.
+
+#### Award of Purple Heart to Persons Wounded While Held as Prisoners of War Before April 25, 1962
+Pub. L. 104–106, div. A, title V, § 521, Feb. 10, 1996, 110 Stat. 309, as amended by Pub. L. 108–136, div. A, title V, § 544, Nov. 24, 2003, 117 Stat. 1478, provided that: “(a) Award of Purple Heart.—For purposes of the award of the Purple Heart, the Secretary concerned (as defined in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code) shall treat a former prisoner of war who was wounded before April 25, 1962, while held as a prisoner of war (or while being taken captive) in the same manner as a former prisoner of war who is wounded on or after that date while held as a prisoner of war (or while being taken captive). “(b) Standards for Award.—An award of the Purple Heart under subsection (a) shall be made in accordance with the standards in effect on the date of the enactment of this Act [Feb. 10, 1996] for the award of the Purple Heart to persons wounded on or after April 25, 1962. “(c) Eligible Former Prisoners of War.—A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for the prisoner-of-war medal under [section 1128 of title 10](./chapter-057-decorations-and-awards.md#section-1128), United States Code. “(d) Procedures for Award.—In determining whether a former prisoner of war who submits an application for the award of the Purple Heart under subsection (a) is eligible for that award, the Secretary concerned shall apply the following procedures:“(1) Failure of the applicant to provide any documentation as required by the Secretary shall not in itself disqualify the application from being considered. “(2) In evaluating the application, the Secretary shall consider (A) historical information as to the prison camp or other circumstances in which the applicant was held captive, and (B) the length of time that the applicant was held captive. “(3) To the extent that information is readily available, the Secretary shall assist the applicant in obtaining information or identifying the sources of information referred to in paragraph (2). “(4) The Secretary shall review a completed application under this section based upon the totality of the information presented, taking into account the length of time between the period during which the applicant was held as a prisoner of war and the date of the application.”
+
+
+<a id="section-1130"></a>
+## § 1130. Consideration of proposals for decorations not previously submitted in timely fashion: procedures for review
+**(a)** Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the award or presentation of a decoration (or the upgrading of a decoration), either for an individual or a unit, that is not otherwise authorized to be presented or awarded due to limitations established by law or policy for timely submission of a recommendation for such award or presentation. Based upon such review, the Secretary shall make a determination as to the merits of approving the award or presentation of the decoration.
+
+**(b)** Upon making a determination under subsection (a) as to the merits of approving the award or presentation of the decoration, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination. If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.
+
+**(c)** Determinations under this section regarding the award or presentation of a decoration shall be made in accordance with the same procedures that apply to the approval or disapproval of the award or presentation of a decoration when a recommendation for such award or presentation is submitted in a timely manner as prescribed by law or regulation.
+
+**(d)** In this section:
+
+(1) The term “Member of Congress” means—
+
+  (A) a Senator; or
+
+  (B) a Representative in, or a Delegate or Resident Commissioner to, Congress.
+
+(2) The term “decoration” means any decoration or award that may be presented or awarded to a member or unit of the armed forces.
+
+### Statutory Notes
+
+#### Amendments
+2011—Subsec. (b). Pub. L. 112–81 inserted at end “If the determination includes a favorable recommendation for the award of the Medal of Honor, the Secretary of Defense, instead of the Secretary concerned, shall make the submission under this subsection.”
+
+2003—Pub. L. 108–136, § 1031(a)(10)(B), struck out “and recommendation” after “review” in section catchline.
+
+Subsec. (a). Pub. L. 108–136, § 1031(a)(10)(A)(i), struck out “and the other determinations necessary to comply with subsection (b)” after “of the decoration”.
+
+Subsec. (b). Pub. L. 108–136, § 1031(a)(10)(A)(ii), substituted “to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.” for “to the requesting member of Congress notice in writing of one of the following:
+
+“(1) The award or presentation of the decoration does not warrant approval on the merits.
+
+“(2) The award or presentation of the decoration warrants approval and a waiver by law of time restrictions prescribed by law is recommended.
+
+“(3) The award or presentation of the decoration warrants approval on the merits and has been approved as an exception to policy.
+
+“(4) The award or presentation of the decoration warrants approval on the merits, but a waiver of the time restrictions prescribed by law or policy is not recommended.
+
+A notice under paragraph (1) or (4) shall be accompanied by a statement of the reasons for the decision of the Secretary.”
+
+1999—Subsec. (b). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
+#### Eligibility for Armed Forces Expeditionary Medal for Participation in Operation Joint Endeavor or Operation Joint Guard
+Pub. L. 105–85, div. A, title V, § 572, Nov. 18, 1997, 111 Stat. 1756, provided that: “(a) Inclusion of Operations.—For the purpose of determining the eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the Secretary of Defense shall designate participation in Operation Joint Endeavor or Operation Joint Guard in the Republic of Bosnia and Herzegovina, and in such other areas in the region as the Secretary considers appropriate, as service in an area that meets the general requirements for the award of that medal. “(b) Individual Determination.—The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who participated in Operation Joint Endeavor or Operation Joint Guard meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. A member or former member shall be considered to have participated in Operation Joint Endeavor or Operation Joint Guard if the member—“(1) was deployed in the Republic of Bosnia and Herzegovina, or in such other area in the region as the Secretary of Defense considers appropriate, in direct support of one or both of the operations; “(2) served on board a United States naval vessel operating in the Adriatic Sea in direct support of one or both of the operations; or “(3) operated in airspace above the Republic of Bosnia and Herzegovina, or in such other area in the region as the Secretary of Defense considers appropriate, while the operations were in effect. “(c) Operations Defined.—For purposes of this section:“(1) The term ‘Operation Joint Endeavor’ means operations of the United States Armed Forces conducted in the Republic of Bosnia and Herzegovina during the period beginning on November 20, 1995, and ending on December 20, 1996, to assist in implementing the General Framework Agreement and Associated Annexes, initialed on November 21, 1995, in Dayton, Ohio. “(2) The term ‘Operation Joint Guard’ means operations of the United States Armed Forces conducted in the Republic of Bosnia and Herzegovina as a successor to Operation Joint Endeavor during the period beginning on December 20, 1996, and ending on such date as the Secretary of Defense may designate.”
+
+#### Eligibility of Certain World War II Military Organizations for Award of Unit Decorations
+Pub. L. 105–85, div. A, title V, § 576, Nov. 18, 1997, 111 Stat. 1758, authorized award of a unit decoration for any unit or other organization of the Armed Forces that had supported the planning or execution of combat operations during World War II primarily through unit personnel who had been attached to other units of the Armed Forces or of other allied armed forces, and that had not been otherwise eligible for award of the decoration by reason of not usually having been deployed as a unit in support of such operations, and required that any recommendation for such an award be submitted to the Secretary concerned not later than two years after Nov. 18, 1997.
+
+#### Authority To Award Decorations Recognizing Acts of Valor Performed in Combat During the Vietnam Conflict
+Pub. L. 104–106, div. A, title V, § 522, Feb. 10, 1996, 110 Stat. 310, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Ia Drang Valley (Pleiku) campaign, carried out by the Armed Forces in the Ia Drang Valley of Vietnam from October 23, 1965, to November 26, 1965, is illustrative of the many battles during the Vietnam conflict which pitted forces of the United States against North Vietnamese Army regulars and Viet Cong in vicious fighting. “(2) Accounts of those battles that have been published since the end of that conflict authoritatively document numerous and repeated acts of extraordinary heroism, sacrifice, and bravery on the part of members of the Armed Forces, many of which have never been officially recognized. “(3) In some of those battles, United States military units suffered substantial losses, with some units sustaining casualties in excess of 50 percent. “(4) The incidence of heavy casualties throughout the Vietnam conflict inhibited the timely collection of comprehensive and detailed information to support recommendations for awards recognizing acts of heroism, sacrifice, and bravery. “(5) Subsequent requests to the Secretaries of the military departments for review of award recommendations for such acts have been denied because of restrictions in law and regulations that require timely filing of such recommendations and documented justification. “(6) Acts of heroism, sacrifice, and bravery performed in combat by members of the Armed Forces deserve appropriate and timely recognition by the people of the United States. “(7) It is appropriate to recognize acts of heroism, sacrifice, or bravery that are belatedly, but properly, documented by persons who witnessed those acts. “(b) Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts of valor for which a request for consideration is submitted under subsection (c). “(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the Vietnam era and before the date of the enactment of this Act [Feb. 10, 1996], was authorized by law or under regulations of the Department of Defense or the military department concerned to be awarded to members of the Armed Forces for acts of valor. “(c) Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (b) that are received by the Secretary during the one-year period beginning on the date of enactment of this Act [Feb. 10, 1996]. “(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received. “(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for award of decorations to members of the Armed Forces under the Secretary’s jurisdiction for valorous acts. “(d) Report.—(1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives [now Committee on Armed Services of the House of Representatives]. “(2) The report shall include, with respect to each request for consideration received, the following information:“(A) A summary of the request for consideration. “(B) The findings resulting from the review. “(C) The final action taken on the request for consideration. “(e) Definition.—For purposes of this section:“(1) The term ‘Vietnam era’ has the meaning given that term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), United States Code. “(2) The term ‘active duty’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code.”
+
+#### Military Intelligence Personnel Prevented by Secrecy From Being Considered for Decorations and Awards
+Pub. L. 104–106, div. A, title V, § 523, Feb. 10, 1996, 110 Stat. 311, as amended by Pub. L. 105–85, div. A, title V, § 575, Nov. 18, 1997, 111 Stat. 1758, provided that: “(a) Waiver on Restrictions of Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award, to any person for an act, achievement, or service that the person performed in carrying out military intelligence duties during the period beginning on January 1, 1940, and ending on December 31, 1990. “(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the period described in paragraph (1) and before the date of the enactment of this Act [Feb. 10, 1996], was authorized by law or under the regulations of the Department of Defense or the military department concerned to be awarded to a person for an act, achievement, or service performed by that person while serving on active duty. “(b) Review of Requests for Consideration of Awards.—(1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (a) that is received by the Secretary during the period beginning on February 10, 1996, and ending on February 9, 1998. “(2) The Secretaries shall begin the review within 30 days after the date of the enactment of this Act and shall complete the review of each request for consideration not later than one year after the date on which the request is received. “(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for awarding decorations to members of the Armed Forces under the Secretary’s jurisdiction for acts, achievements, or service. “(c) Report.—(1) Upon completing the review of each such request under subsection (b), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives [now Committee on Armed Services of the House of Representatives]. “(2) The report shall include, with respect to each request for consideration reviewed, the following information:“(A) A summary of the request for consideration. “(B) The findings resulting from the review. “(C) The final action taken on the request for consideration. “(D) Administrative or legislative recommendations to improve award procedures with respect to military intelligence personnel. “(d) Definition.—For purposes of this section, the term ‘active duty’ has the meaning given such term in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code.”
+
+#### Eligibility for Armed Forces Expeditionary Medal Based Upon Service in El Salvador
+Section 525 of Pub. L. 104–106 provided that: “(a) In General.—For the purpose of determining eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the country of El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992, shall be treated as having been designated as an area and a period of time in which members of the Armed Forces participated in operations in significant numbers and otherwise met the general requirements for the award of that medal. “(b) Individual Determination.—The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who served in El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992 meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. Such determinations shall be made as expeditiously as possible after the date of the enactment of this Act [Feb. 10, 1996].”
+
+
+<a id="section-1131"></a>
+## § 1131. Purple Heart: limitation to members of the armed forces
+
+The decoration known as the Purple Heart (authorized to be awarded pursuant to Executive Order 11016) may only be awarded to a person who is a member of the armed forces at the time the person is killed or wounded under circumstances otherwise qualifying that person for award of the Purple Heart.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order 11016, referred to in text, is not classified to the Code.
+
+#### Effective Date
+Pub. L. 105–85, div. A, title V, § 571(b), Nov. 18, 1997, 111 Stat. 1756, provided that: “[Section 1131 of title 10](./chapter-057-decorations-and-awards.md#section-1131), United States Code, as added by subsection (a), shall apply with respect to persons who are killed or wounded after the end of the 180-day period beginning on the date of the enactment of this Act [Nov. 18, 1997].”
+
+
+<a id="section-1132"></a>
+## § 1132. Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies
+**(a) Prohibition.—** A member of the armed forces may not enter a Federal, State, local, or foreign correctional facility to present a decoration to a person who is incarcerated due to conviction of a serious violent felony.
+
+**(b) Definitions.—** In this section:
+
+(1) The term “decoration” means any decoration or award that may be presented or awarded to a member of the armed forces.
+
+(2) The term “serious violent felony” has the meaning given that term in [section 3559(c)(2)(F) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3559/c/2/F&num=0&edition=prelim).
+
+
+<a id="section-1133"></a>
+## § 1133. Bronze Star: limitation on persons eligible to receive
+
+The decoration known as the “Bronze Star” may only be awarded to a member of a military force who—
+
+(1) at the time of the events for which the decoration is to be awarded, was serving in a geographic area in which special pay is authorized under section 310 or paragraph (1) or (3) of [section 351(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section351/a&num=0&edition=prelim); or
+
+(2) receives special pay under section 310 or paragraph (1) or (3) of [section 351(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section351/a&num=0&edition=prelim) as a result of those events.
+
+### Statutory Notes
+
+#### Amendments
+2011—Pub. L. 111–383 amended section generally. Prior to amendment, text read as follows: “The decoration known as the ‘Bronze Star’ may only be awarded to a member of the armed forces who is in receipt of special pay under [section 310 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section310&num=0&edition=prelim) at the time of the events for which the decoration is to be awarded or who receives such pay as a result of those events.”
+
+#### Effective Date of 2011 Amendment
+Pub. L. 111–383, div. A, title V, § 571(c), Jan. 7, 2011, 124 Stat. 4223, provided that: “The amendment made by subsection (a) [amending this section] applies to the award of the Bronze Star after October 30, 2000.”
+
+
+<a id="section-1134"></a>
+## § 1134. Medal of honor: award to individual interred in Tomb of the Unknowns as representative of casualties of a war
+
+The medal of honor awarded posthumously to a deceased member of the armed forces who, as an unidentified casualty of a particular war or other armed conflict, is interred in the Tomb of the Unknowns at Arlington National Cemetery, Virginia, is awarded to the member as the representative of the members of the armed forces who died in such war or other armed conflict and whose remains have not been identified, and not to the individual personally.
+
+
+<a id="section-1135"></a>
+## § 1135. Replacement of military decorations
+**(a) Replacement.—** In addition to other authorities available to the Secretary concerned to replace a military decoration, the Secretary concerned shall replace, on a one-time basis and without charge, a military decoration upon the request of the recipient of the military decoration or the immediate next of kin of a deceased recipient.
+
+**(b) Military Decoration Defined.—** In this section, the term “decoration” means any decoration or award (other than the medal of honor) that may be presented or awarded by the President or the Secretary concerned to a member of the armed forces.

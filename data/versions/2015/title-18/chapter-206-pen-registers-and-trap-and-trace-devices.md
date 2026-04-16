@@ -1,0 +1,267 @@
+---
+title: 18
+chapter: '206'
+heading: PEN REGISTERS AND TRAP AND TRACE DEVICES
+section_count: 7
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
+---
+<a id="section-3121"></a>
+## § 3121. General prohibition on pen register and trap and trace device use; exception
+**(a) In General.—** Except as provided in this section, no person may install or use a pen register or a trap and trace device without first obtaining a court order under [section 3123 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3123) or under the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim) et seq.).
+
+**(b) Exception.—** The prohibition of subsection (a) does not apply with respect to the use of a pen register or a trap and trace device by a provider of electronic or wire communication service—
+
+(1) relating to the operation, maintenance, and testing of a wire or electronic communication service or to the protection of the rights or property of such provider, or to the protection of users of that service from abuse of service or unlawful use of service; or
+
+(2) to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or a user of that service, from fraudulent, unlawful or abusive use of service; or (3) where the consent of the user of that service has been obtained.
+
+**(c) Limitation.—** A government agency authorized to install and use a pen register or trap and trace device under this chapter or under State law shall use technology reasonably available to it that restricts the recording or decoding of electronic or other impulses to the dialing, routing, addressing, and signaling information utilized in the processing and transmitting of wire or electronic communications so as not to include the contents of any wire or electronic communications.
+
+**(d) Penalty.—** Whoever knowingly violates subsection (a) shall be fined under this title or imprisoned not more than one year, or both.
+
+### Statutory Notes
+
+#### References in Text
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2001—Subsec. (c). Pub. L. 107–56 inserted “or trap and trace device” after “pen register” and “, routing, addressing,” after “dialing” and substituted “the processing and transmitting of wire or electronic communications so as not to include the contents of any wire or electronic communications” for “call processing”.
+
+1994—Subsecs. (c), (d). Pub. L. 103–414 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date
+Pub. L. 99–508, title III, § 302, Oct. 21, 1986, 100 Stat. 1872, provided that: “(a) In General.—Except as provided in subsection (b), this title and the amendments made by this title [enacting this chapter and [section 1367 of this title](./chapter-065-malicious-mischief.md#section-1367)] shall take effect ninety days after the date of the enactment of this Act [Oct. 21, 1986] and shall, in the case of conduct pursuant to a court order or extension, apply only with respect to court orders or extensions made after this title takes effect. “(b) Special Rule for State Authorizations of Interceptions.—Any pen register or trap and trace device order or installation which would be valid and lawful without regard to the amendments made by this title shall be valid and lawful notwithstanding such amendments if such order or installation occurs during the period beginning on the date such amendments take effect and ending on the earlier of—“(1) the day before the date of the taking effect of changes in State law required in order to make orders or installations under Federal law as amended by this title; or “(2) the date two years after the date of the enactment of this Act [Oct. 21, 1986].”
+
+
+<a id="section-3122"></a>
+## § 3122. Application for an order for a pen register or a trap and trace device
+**(a) Application.—**
+
+(1) An attorney for the Government may make application for an order or an extension of an order under [section 3123 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3123) authorizing or approving the installation and use of a pen register or a trap and trace device under this chapter, in writing under oath or equivalent affirmation, to a court of competent jurisdiction.
+
+(2) Unless prohibited by State law, a State investigative or law enforcement officer may make application for an order or an extension of an order under [section 3123 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3123) authorizing or approving the installation and use of a pen register or a trap and trace device under this chapter, in writing under oath or equivalent affirmation, to a court of competent jurisdiction of such State.
+
+**(b) Contents of Application.—** An application under subsection (a) of this section shall include—
+
+(1) the identity of the attorney for the Government or the State law enforcement or investigative officer making the application and the identity of the law enforcement agency conducting the investigation; and
+
+(2) a certification by the applicant that the information likely to be obtained is relevant to an ongoing criminal investigation being conducted by that agency.
+
+
+<a id="section-3123"></a>
+## § 3123. Issuance of an order for a pen register or a trap and trace device
+**(a) In General.—**
+
+(1) **Attorney for the government.—** — Upon an application made under section 3122(a)(1), the court shall enter an ex parte order authorizing the installation and use of a pen register or trap and trace device anywhere within the United States, if the court finds that the attorney for the Government has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation. The order, upon service of that order, shall apply to any person or entity providing wire or electronic communication service in the United States whose assistance may facilitate the execution of the order. Whenever such an order is served on any person or entity not specifically named in the order, upon request of such person or entity, the attorney for the Government or law enforcement or investigative officer that is serving the order shall provide written or electronic certification that the order applies to the person or entity being served.
+
+(2) **State investigative or law enforcement officer.—** — Upon an application made under section 3122(a)(2), the court shall enter an ex parte order authorizing the installation and use of a pen register or trap and trace device within the jurisdiction of the court, if the court finds that the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.
+
+(3)
+
+  (A) Where the law enforcement agency implementing an ex parte order under this subsection seeks to do so by installing and using its own pen register or trap and trace device on a packet-switched data network of a provider of electronic communication service to the public, the agency shall ensure that a record will be maintained which will identify—
+
+    (i) any officer or officers who installed the device and any officer or officers who accessed the device to obtain information from the network;
+
+    (ii) the date and time the device was installed, the date and time the device was uninstalled, and the date, time, and duration of each time the device is accessed to obtain information;
+
+    (iii) the configuration of the device at the time of its installation and any subsequent modification thereof; and
+
+    (iv) any information which has been collected by the device.
+    To the extent that the pen register or trap and trace device can be set automatically to record this information electronically, the record shall be maintained electronically throughout the installation and use of such device.
+
+  (B) The record maintained under subparagraph (A) shall be provided ex parte and under seal to the court which entered the ex parte order authorizing the installation and use of the device within 30 days after termination of the order (including any extensions thereof).
+
+**(b) Contents of Order.—** An order issued under this section—
+
+(1) shall specify—
+
+  (A) the identity, if known, of the person to whom is leased or in whose name is listed the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied;
+
+  (B) the identity, if known, of the person who is the subject of the criminal investigation;
+
+  (C) the attributes of the communications to which the order applies, including the number or other identifier and, if known, the location of the telephone line or other facility to which the pen register or trap and trace device is to be attached or applied, and, in the case of an order authorizing installation and use of a trap and trace device under subsection (a)(2), the geographic limits of the order; and
+
+  (D) a statement of the offense to which the information likely to be obtained by the pen register or trap and trace device relates; and
+
+(2) shall direct, upon the request of the applicant, the furnishing of information, facilities, and technical assistance necessary to accomplish the installation of the pen register or trap and trace device under [section 3124 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3124).
+
+**(c) Time Period and Extensions.—**
+
+(1) An order issued under this section shall authorize the installation and use of a pen register or a trap and trace device for a period not to exceed sixty days.
+
+(2) Extensions of such an order may be granted, but only upon an application for an order under [section 3122 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3122) and upon the judicial finding required by subsection (a) of this section. The period of extension shall be for a period not to exceed sixty days.
+
+**(d) Nondisclosure of Existence of Pen Register or a Trap and Trace Device.—** An order authorizing or approving the installation and use of a pen register or a trap and trace device shall direct that—
+
+(1) the order be sealed until otherwise ordered by the court; and
+
+(2) the person owning or leasing the line or other facility to which the pen register or a trap and trace device is attached or applied, or who is obligated by the order to provide assistance to the applicant, not disclose the existence of the pen register or trap and trace device or the existence of the investigation to the listed subscriber, or to any other person, unless or until otherwise ordered by the court.
+
+### Statutory Notes
+
+#### Amendments
+2001—Subsec. (a). Pub. L. 107–56, § 216(b)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Upon an application made under [section 3122 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3122), the court shall enter an ex parte order authorizing the installation and use of a pen register or a trap and trace device within the jurisdiction of the court if the court finds that the attorney for the Government or the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.”
+
+Subsec. (b)(1)(A). Pub. L. 107–56, § 216(b)(2)(A), inserted “or other facility” after “telephone line” and “or applied” before semicolon at end.
+
+Subsec. (b)(1)(C). Pub. L. 107–56, § 216(b)(2)(B), added subpar. (C) and struck out former subpar (C) which read as follows: “the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and trace device, the geographic limits of the trap and trace order; and”.
+
+Subsec. (d)(2). Pub. L. 107–56, § 216(b)(3), inserted “or other facility” after “leasing the line” and substituted “or applied, or who is obligated by the order” for “, or who has been ordered by the court”.
+
+
+<a id="section-3124"></a>
+## § 3124. Assistance in installation and use of a pen register or a trap and trace device
+**(a) Pen Registers.—** Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to install and use a pen register under this chapter, a provider of wire or electronic communication service, landlord, custodian, or other person shall furnish such investigative or law enforcement officer forthwith all information, facilities, and technical assistance necessary to accomplish the installation of the pen register unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such assistance is directed by a court order as provided in [section 3123(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3123/b/2&num=0&edition=prelim).
+
+**(b) Trap and Trace Device.—** Upon the request of an attorney for the Government or an officer of a law enforcement agency authorized to receive the results of a trap and trace device under this chapter, a provider of a wire or electronic communication service, landlord, custodian, or other person shall install such device forthwith on the appropriate line or other facility and shall furnish such investigative or law enforcement officer all additional information, facilities and technical assistance including installation and operation of the device unobtrusively and with a minimum of interference with the services that the person so ordered by the court accords the party with respect to whom the installation and use is to take place, if such installation and assistance is directed by a court order as provided in [section 3123(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3123/b/2&num=0&edition=prelim). Unless otherwise ordered by the court, the results of the trap and trace device shall be furnished, pursuant to section 3123(b) or [section 3125 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3125), to the officer of a law enforcement agency, designated in the court order, at reasonable intervals during regular business hours for the duration of the order.
+
+**(c) Compensation.—** A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to this section shall be reasonably compensated for such reasonable expenses incurred in providing such facilities and assistance.
+
+**(d) No Cause of Action Against a Provider Disclosing Information Under This Chapter.—** No cause of action shall lie in any court against any provider of a wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with a court order under this chapter or request pursuant to [section 3125 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3125).
+
+**(e) Defense.—** A good faith reliance on a court order under this chapter, a request pursuant to [section 3125 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3125), a legislative authorization, or a statutory authorization is a complete defense against any civil or criminal action brought under this chapter or any other law.
+
+**(f) Communications Assistance Enforcement Orders.—** Pursuant to section 2522, an order may be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
+
+### Statutory Notes
+
+#### References in Text
+The Communications Assistance for Law Enforcement Act, referred to in subsec. (f), is title I of Pub. L. 103–414, Oct. 25, 1994, 108 Stat. 4279, which is classified generally to subchapter I (§ 1001 et seq.) of chapter 9 of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1001&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2001—Subsec. (b). Pub. L. 107–56, § 216(c)(6), inserted “or other facility” after “the appropriate line”.
+
+Subsec. (d). Pub. L. 107–56, § 216(c)(5), struck out “the terms of” before “a court order”.
+
+1994—Subsec. (f). Pub. L. 103–414 added subsec. (f).
+
+1990—Subsec. (b). Pub. L. 101–647 substituted “section 3123(b)” for “subsection 3123(b)”.
+
+1988—Subsec. (b). Pub. L. 100–690, §§ 7040, 7092(d), inserted “, pursuant to subsection 3123(b) or [section 3125 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3125),” after “shall be furnished” and “order” after last reference to “court”.
+
+Subsec. (d). Pub. L. 100–690, § 7092(b)(1), inserted “or request pursuant to [section 3125 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3125)” after “this chapter”.
+
+Subsec. (e). Pub. L. 100–690, § 7092(b)(2), inserted “under this chapter, a request pursuant to [section 3125 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3125)” after “court order”.
+
+#### Assistance to Law Enforcement Agencies
+Pub. L. 107–56, title II, § 222, Oct. 26, 2001, 115 Stat. 292, provided that: “Nothing in this Act [see Short Title of 2001 Amendment note set out under [section 1 of this title](./chapter-001-general-provisions.md#section-1)] shall impose any additional technical obligation or requirement on a provider of a wire or electronic communication service or other person to furnish facilities or technical assistance. A provider of a wire or electronic communication service, landlord, custodian, or other person who furnishes facilities or technical assistance pursuant to section 216 [amending this section and sections 3121, 3123, and 3127 of this title] shall be reasonably compensated for such reasonable expenditures incurred in providing such facilities or assistance.”
+
+
+<a id="section-3125"></a>
+## § 3125. Emergency pen register and trap and trace device installation
+**(a)** Notwithstanding any other provision of this chapter, any investigative or law enforcement officer, specially designated by the Attorney General, the Deputy Attorney General, the Associate Attorney General, any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General, or by the principal prosecuting attorney of any State or subdivision thereof acting pursuant to a statute of that State, who reasonably determines that—
+
+(1) an emergency situation exists that involves—
+
+  (A) immediate danger of death or serious bodily injury to any person;
+
+  (B) conspiratorial activities characteristic of organized crime;
+
+  (C) an immediate threat to a national security interest; or
+
+  (D) an ongoing attack on a protected computer (as defined in section 1030) that constitutes a crime punishable by a term of imprisonment greater than one year;
+  that requires the installation and use of a pen register or a trap and trace device before an order authorizing such installation and use can, with due diligence, be obtained, and
+
+(2) there are grounds upon which an order could be entered under this chapter to authorize such installation and use;
+may have installed and use a pen register or trap and trace device if, within forty-eight hours after the installation has occurred, or begins to occur, an order approving the installation or use is issued in accordance with [section 3123 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3123).
+
+**(b)** In the absence of an authorizing order, such use shall immediately terminate when the information sought is obtained, when the application for the order is denied or when forty-eight hours have lapsed since the installation of the pen register or trap and trace device, whichever is earlier.
+
+**(c)** The knowing installation or use by any investigative or law enforcement officer of a pen register or trap and trace device pursuant to subsection (a) without application for the authorizing order within forty-eight hours of the installation shall constitute a violation of this chapter.
+
+**(d)** A provider of a wire or electronic service, landlord, custodian, or other person who furnished facilities or technical assistance pursuant to this section shall be reasonably compensated for such reasonable expenses incurred in providing such facilities and assistance.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 3125 was renumbered [section 3126 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3126).
+
+#### Amendments
+2002—Subsec. (a)(1)(C), (D). Pub. L. 107–296 added subpars. (C) and (D).
+
+1996—Subsec. (a). Pub. L. 104–294 struck out closing quotation mark at end.
+
+1994—Subsec. (a). Pub. L. 103–322, § 330008(3)(A), (B), substituted “use;” for “use’ ” in par. (2) and directed that matter beginning with “may have installed” and ending with “[section 3123 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3123)” be realigned so that it is flush to the left margin, which was executed to text containing a period after “[section 3123 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3123)”, to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 103–322, § 330008(3)(C), substituted “provider of” for “provider for”.
+
+#### Effective Date of 2002 Amendment
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
+
+
+<a id="section-3126"></a>
+## § 3126. Reports concerning pen registers and trap and trace devices
+
+The Attorney General shall annually report to Congress on the number of pen register orders and orders for trap and trace devices applied for by law enforcement agencies of the Department of Justice, which report shall include information concerning—
+
+(1) the period of interceptions authorized by the order, and the number and duration of any extensions of the order;
+
+(2) the offense specified in the order or application, or extension of an order;
+
+(3) the number of investigations involved;
+
+(4) the number and nature of the facilities affected; and
+
+(5) the identity, including district, of the applying investigative or law enforcement agency making the application and the person authorizing the order.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 3126 was renumbered [section 3127 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3127).
+
+#### Amendments
+2000—Pub. L. 106–197 substituted “, which report shall include information concerning—” and pars. (1) to (5) for period at end.
+
+1988—Pub. L. 100–690 renumbered [section 3125 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3125) as this section.
+
+#### Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 3123
+Pub. L. 107–273, div. A, title III, § 305(a), Nov. 2, 2002, 116 Stat. 1782, provided that: “At the same time that the Attorney General submits to Congress the annual reports required by [section 3126 of title 18](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3126), United States Code, that are respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, on the number of orders under section 3123 applied for by law enforcement agencies of the Department of Justice whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program), which report shall include information concerning— “(1) the period of interceptions authorized by the order, and the number and duration of any extensions of the order; “(2) the offense specified in the order or application, or extension of an order; “(3) the number of investigations involved; “(4) the number and nature of the facilities affected; “(5) the identity of the applying investigative or law enforcement agency making the application for an order; and “(6) the specific persons authorizing the use of the DCS 1000 program (or any subsequent version of such program) in the implementation of such order.”
+
+
+<a id="section-3127"></a>
+## § 3127. Definitions for chapter
+
+As used in this chapter—
+
+(1) the terms “wire communication”, “electronic communication”, “electronic communication service”, and “contents” have the meanings set forth for such terms in [section 2510 of this title](./chapter-119-wire-and-electronic-communications-interception-and-interception-of-oral-communications.md#section-2510);
+
+(2) the term “court of competent jurisdiction” means—
+
+  (A) any district court of the United States (including a magistrate judge of such a court) or any United States court of appeals that—
+
+    (i) has jurisdiction over the offense being investigated;
+
+    (ii) is in or for a district in which the provider of a wire or electronic communication service is located;
+
+    (iii) is in or for a district in which a landlord, custodian, or other person subject to subsections (a) or (b) of [section 3124 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3124) is located; or
+
+    (iv) is acting on a request for foreign assistance pursuant to [section 3512 of this title](./chapter-223-witnesses-and-evidence.md#section-3512); or
+
+  (B) a court of general criminal jurisdiction of a State authorized by the law of that State to enter orders authorizing the use of a pen register or a trap and trace device;
+
+(3) the term “pen register” means a device or process which records or decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication, but such term does not include any device or process used by a provider or customer of a wire or electronic communication service for billing, or recording as an incident to billing, for communications services provided by such provider or any device or process used by a provider or customer of a wire communication service for cost accounting or other like purposes in the ordinary course of its business;
+
+(4) the term “trap and trace device” means a device or process which captures the incoming electronic or other impulses which identify the originating number or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;
+
+(5) the term “attorney for the Government” has the meaning given such term for the purposes of the Federal Rules of Criminal Procedure; and
+
+(6) the term “State” means a State, the District of Columbia, Puerto Rico, and any other possession or territory of the United States.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in par. (5), are set out in the Appendix to this title.
+
+#### Amendments
+2009—Par. (2)(A). Pub. L. 111–79 substituted “that—” and cls. (i) to (iv) for “having jurisdiction over the offense being investigated; or”.
+
+2001—Par. (1). Pub. L. 107–56, § 216(c)(4), struck out “and” after “ ‘electronic communication’,” and inserted “, and ‘contents’ ” after “ ‘electronic communication service’ ”.
+
+Par. (2)(A). Pub. L. 107–56, § 216(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “a district court of the United States (including a magistrate judge of such a court) or a United States Court of Appeals; or”.
+
+Par. (3). Pub. L. 107–56, § 216(c)(2), substituted “dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted, provided, however, that such information shall not include the contents of any communication” for “electronic or other impulses which identify the numbers dialed or otherwise transmitted on the telephone line to which such device is attached” and inserted “or process” after “device” wherever appearing.
+
+Par. (4). Pub. L. 107–56, § 216(c)(3), inserted “or process” after “means a device” and substituted “or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication, provided, however, that such information shall not include the contents of any communication;” for “of an instrument or device from which a wire or electronic communication was transmitted;”.
+
+1988—Pub. L. 100–690 renumbered [section 3126 of this title](./chapter-206-pen-registers-and-trap-and-trace-devices.md#section-3126) as this section.

@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "chapter-001-organization",
+    "heading": "ORGANIZATION",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-003-personnel",
+    "heading": "PERSONNEL",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-005-training",
+    "heading": "TRAINING",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-007-service-supply-and-procurement",
+    "heading": "SERVICE, SUPPLY, AND PROCUREMENT",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-009-homeland-defense-activities",
+    "heading": "HOMELAND DEFENSE ACTIVITIES",
+    "section_count": 8
+  }
+]

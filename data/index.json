@@ -1,0 +1,426 @@
+[
+  {
+    "num": 1,
+    "slug": "title-01-general-provisions",
+    "heading": "GENERAL PROVISIONS",
+    "positive_law": true,
+    "sections": 39,
+    "chapters": 3
+  },
+  {
+    "num": 2,
+    "slug": "title-02-the-congress",
+    "heading": "THE CONGRESS",
+    "positive_law": false,
+    "sections": 1612,
+    "chapters": 54
+  },
+  {
+    "num": 3,
+    "slug": "title-03-the-president",
+    "heading": "THE PRESIDENT",
+    "positive_law": true,
+    "sections": 64,
+    "chapters": 5
+  },
+  {
+    "num": 4,
+    "slug": "title-04-flag-and-seal-seat-of-government-and-the-states",
+    "heading": "FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES",
+    "positive_law": true,
+    "sections": 47,
+    "chapters": 5
+  },
+  {
+    "num": 5,
+    "slug": "title-05-government-organization-and-employees",
+    "heading": "GOVERNMENT ORGANIZATION AND EMPLOYEES",
+    "positive_law": true,
+    "sections": 1163,
+    "chapters": 63
+  },
+  {
+    "num": 6,
+    "slug": "title-06-domestic-security",
+    "heading": "DOMESTIC SECURITY",
+    "positive_law": false,
+    "sections": 569,
+    "chapters": 6
+  },
+  {
+    "num": 7,
+    "slug": "title-07-agriculture",
+    "heading": "AGRICULTURE",
+    "positive_law": false,
+    "sections": 2926,
+    "chapters": 130
+  },
+  {
+    "num": 8,
+    "slug": "title-08-aliens-and-nationality",
+    "heading": "ALIENS AND NATIONALITY",
+    "positive_law": false,
+    "sections": 376,
+    "chapters": 16
+  },
+  {
+    "num": 9,
+    "slug": "title-09-arbitration",
+    "heading": "ARBITRATION",
+    "positive_law": true,
+    "sections": 33,
+    "chapters": 4
+  },
+  {
+    "num": 10,
+    "slug": "title-10-armed-forces",
+    "heading": "ARMED FORCES",
+    "positive_law": true,
+    "sections": 4033,
+    "chapters": 350
+  },
+  {
+    "num": 11,
+    "slug": "title-11-bankruptcy",
+    "heading": "BANKRUPTCY",
+    "positive_law": true,
+    "sections": 280,
+    "chapters": 9
+  },
+  {
+    "num": 12,
+    "slug": "title-12-banks-and-banking",
+    "heading": "BANKS AND BANKING",
+    "positive_law": false,
+    "sections": 1996,
+    "chapters": 62
+  },
+  {
+    "num": 13,
+    "slug": "title-13-census",
+    "heading": "CENSUS",
+    "positive_law": true,
+    "sections": 70,
+    "chapters": 6
+  },
+  {
+    "num": 14,
+    "slug": "title-14-coast-guard",
+    "heading": "COAST GUARD",
+    "positive_law": true,
+    "sections": 449,
+    "chapters": 17
+  },
+  {
+    "num": 15,
+    "slug": "title-15-commerce-and-trade",
+    "heading": "COMMERCE AND TRADE",
+    "positive_law": false,
+    "sections": 2701,
+    "chapters": 153
+  },
+  {
+    "num": 16,
+    "slug": "title-16-conservation",
+    "heading": "CONSERVATION",
+    "positive_law": false,
+    "sections": 5095,
+    "chapters": 153
+  },
+  {
+    "num": 17,
+    "slug": "title-17-copyrights",
+    "heading": "COPYRIGHTS",
+    "positive_law": true,
+    "sections": 153,
+    "chapters": 15
+  },
+  {
+    "num": 18,
+    "slug": "title-18-crimes-and-criminal-procedure",
+    "heading": "CRIMES AND CRIMINAL PROCEDURE",
+    "positive_law": true,
+    "sections": 1399,
+    "chapters": 141
+  },
+  {
+    "num": 19,
+    "slug": "title-19-customs-duties",
+    "heading": "CUSTOMS DUTIES",
+    "positive_law": false,
+    "sections": 1111,
+    "chapters": 30
+  },
+  {
+    "num": 20,
+    "slug": "title-20-education",
+    "heading": "EDUCATION",
+    "positive_law": false,
+    "sections": 2029,
+    "chapters": 86
+  },
+  {
+    "num": 21,
+    "slug": "title-21-food-and-drugs",
+    "heading": "FOOD AND DRUGS",
+    "positive_law": false,
+    "sections": 756,
+    "chapters": 31
+  },
+  {
+    "num": 22,
+    "slug": "title-22-foreign-relations-and-intercourse",
+    "heading": "FOREIGN RELATIONS AND INTERCOURSE",
+    "positive_law": false,
+    "sections": 3478,
+    "chapters": 128
+  },
+  {
+    "num": 23,
+    "slug": "title-23-highways",
+    "heading": "HIGHWAYS",
+    "positive_law": true,
+    "sections": 172,
+    "chapters": 6
+  },
+  {
+    "num": 24,
+    "slug": "title-24-hospitals-and-asylums",
+    "heading": "HOSPITALS AND ASYLUMS",
+    "positive_law": false,
+    "sections": 162,
+    "chapters": 11
+  },
+  {
+    "num": 25,
+    "slug": "title-25-indians",
+    "heading": "INDIANS",
+    "positive_law": false,
+    "sections": 2397,
+    "chapters": 57
+  },
+  {
+    "num": 26,
+    "slug": "title-26-internal-revenue-code",
+    "heading": "INTERNAL REVENUE CODE",
+    "positive_law": false,
+    "sections": 2160,
+    "chapters": 72
+  },
+  {
+    "num": 27,
+    "slug": "title-27-intoxicating-liquors",
+    "heading": "INTOXICATING LIQUORS",
+    "positive_law": false,
+    "sections": 45,
+    "chapters": 10
+  },
+  {
+    "num": 28,
+    "slug": "title-28-judiciary-and-judicial-procedure",
+    "heading": "JUDICIARY AND JUDICIAL PROCEDURE",
+    "positive_law": true,
+    "sections": 806,
+    "chapters": 79
+  },
+  {
+    "num": 29,
+    "slug": "title-29-labor",
+    "heading": "LABOR",
+    "positive_law": false,
+    "sections": 842,
+    "chapters": 36
+  },
+  {
+    "num": 30,
+    "slug": "title-30-mineral-lands-and-mining",
+    "heading": "MINERAL LANDS AND MINING",
+    "positive_law": false,
+    "sections": 626,
+    "chapters": 34
+  },
+  {
+    "num": 31,
+    "slug": "title-31-money-and-finance",
+    "heading": "MONEY AND FINANCE",
+    "positive_law": true,
+    "sections": 498,
+    "chapters": 31
+  },
+  {
+    "num": 32,
+    "slug": "title-32-national-guard",
+    "heading": "NATIONAL GUARD",
+    "positive_law": true,
+    "sections": 78,
+    "chapters": 5
+  },
+  {
+    "num": 33,
+    "slug": "title-33-navigation-and-navigable-waters",
+    "heading": "NAVIGATION AND NAVIGABLE WATERS",
+    "positive_law": false,
+    "sections": 1569,
+    "chapters": 57
+  },
+  {
+    "num": 34,
+    "slug": "title-34-crime-control-and-law-enforcement",
+    "heading": "CRIME CONTROL AND LAW ENFORCEMENT",
+    "positive_law": false,
+    "sections": 794,
+    "chapters": 35
+  },
+  {
+    "num": 35,
+    "slug": "title-35-patents",
+    "heading": "PATENTS",
+    "positive_law": true,
+    "sections": 175,
+    "chapters": 25
+  },
+  {
+    "num": 36,
+    "slug": "title-36-patriotic-and-national-observances-ceremonies-and-organizations",
+    "heading": "PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS",
+    "positive_law": true,
+    "sections": 1173,
+    "chapters": 132
+  },
+  {
+    "num": 37,
+    "slug": "title-37-pay-and-allowances-of-the-uniformed-services",
+    "heading": "PAY AND ALLOWANCES OF THE UNIFORMED SERVICES",
+    "positive_law": true,
+    "sections": 234,
+    "chapters": 12
+  },
+  {
+    "num": 38,
+    "slug": "title-38-veterans-benefits",
+    "heading": "VETERANS’ BENEFITS",
+    "positive_law": true,
+    "sections": 1198,
+    "chapters": 47
+  },
+  {
+    "num": 39,
+    "slug": "title-39-postal-service",
+    "heading": "POSTAL SERVICE",
+    "positive_law": true,
+    "sections": 181,
+    "chapters": 22
+  },
+  {
+    "num": 40,
+    "slug": "title-40-public-buildings-property-and-works",
+    "heading": "PUBLIC BUILDINGS, PROPERTY, AND WORKS",
+    "positive_law": true,
+    "sections": 459,
+    "chapters": 45
+  },
+  {
+    "num": 41,
+    "slug": "title-41-public-contracts",
+    "heading": "PUBLIC CONTRACTS",
+    "positive_law": true,
+    "sections": 241,
+    "chapters": 9
+  },
+  {
+    "num": 42,
+    "slug": "title-42-the-public-health-and-welfare",
+    "heading": "THE PUBLIC HEALTH AND WELFARE",
+    "positive_law": false,
+    "sections": 8461,
+    "chapters": 195
+  },
+  {
+    "num": 43,
+    "slug": "title-43-public-lands",
+    "heading": "PUBLIC LANDS",
+    "positive_law": false,
+    "sections": 1464,
+    "chapters": 59
+  },
+  {
+    "num": 44,
+    "slug": "title-44-public-printing-and-documents",
+    "heading": "PUBLIC PRINTING AND DOCUMENTS",
+    "positive_law": true,
+    "sections": 356,
+    "chapters": 23
+  },
+  {
+    "num": 45,
+    "slug": "title-45-railroads",
+    "heading": "RAILROADS",
+    "positive_law": false,
+    "sections": 294,
+    "chapters": 22
+  },
+  {
+    "num": 46,
+    "slug": "title-46-shipping",
+    "heading": "SHIPPING",
+    "positive_law": true,
+    "sections": 1032,
+    "chapters": 108
+  },
+  {
+    "num": 47,
+    "slug": "title-47-telecommunications",
+    "heading": "TELECOMMUNICATIONS",
+    "positive_law": false,
+    "sections": 432,
+    "chapters": 16
+  },
+  {
+    "num": 48,
+    "slug": "title-48-territories-and-insular-possessions",
+    "heading": "TERRITORIES AND INSULAR POSSESSIONS",
+    "positive_law": false,
+    "sections": 661,
+    "chapters": 21
+  },
+  {
+    "num": 49,
+    "slug": "title-49-transportation",
+    "heading": "TRANSPORTATION",
+    "positive_law": true,
+    "sections": 1371,
+    "chapters": 114
+  },
+  {
+    "num": 50,
+    "slug": "title-50-war-and-national-defense",
+    "heading": "WAR AND NATIONAL DEFENSE",
+    "positive_law": false,
+    "sections": 1360,
+    "chapters": 62
+  },
+  {
+    "num": 51,
+    "slug": "title-51-national-and-commercial-space-programs",
+    "heading": "NATIONAL AND COMMERCIAL SPACE PROGRAMS",
+    "positive_law": true,
+    "sections": 249,
+    "chapters": 35
+  },
+  {
+    "num": 52,
+    "slug": "title-52-voting-and-elections",
+    "heading": "VOTING AND ELECTIONS",
+    "positive_law": false,
+    "sections": 171,
+    "chapters": 10
+  },
+  {
+    "num": 54,
+    "slug": "title-54-national-park-service-and-related-programs",
+    "heading": "NATIONAL PARK SERVICE AND RELATED PROGRAMS",
+    "positive_law": true,
+    "sections": 366,
+    "chapters": 4
+  }
+]

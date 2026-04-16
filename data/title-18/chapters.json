@@ -1,0 +1,707 @@
+[
+  {
+    "slug": "chapter-chapter-231-chapter-chapter-231",
+    "heading": "Chapter [CHAPTER 231",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-chapter-309-chapter-chapter-309",
+    "heading": "Chapter [CHAPTER 309",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-chapter-311-chapter-chapter-311",
+    "heading": "Chapter [CHAPTER 311",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-chapter-314-chapter-chapter-314",
+    "heading": "Chapter [CHAPTER 314",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-chapter-402-chapter-chapter-402",
+    "heading": "Chapter [CHAPTER 402",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-chapter-68-chapter-chapter-68",
+    "heading": "Chapter [CHAPTER 68",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-chapter-89-chapter-chapter-89",
+    "heading": "Chapter [CHAPTER 89",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-chapter-99-chapter-chapter-99",
+    "heading": "Chapter [CHAPTER 99",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-001-general-provisions",
+    "heading": "GENERAL PROVISIONS",
+    "section_count": 27
+  },
+  {
+    "slug": "chapter-002-aircraft-and-motor-vehicles",
+    "heading": "AIRCRAFT AND MOTOR VEHICLES",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-003-animals-birds-fish-and-plants",
+    "heading": "ANIMALS, BIRDS, FISH, AND PLANTS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-005-arson",
+    "heading": "ARSON",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-007-assault",
+    "heading": "ASSAULT",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-009-bankruptcy",
+    "heading": "BANKRUPTCY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-010-biological-weapons",
+    "heading": "BIOLOGICAL WEAPONS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-011-bribery-graft-and-conflicts-of-interest",
+    "heading": "BRIBERY, GRAFT, AND CONFLICTS OF INTEREST",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-11a-child-support",
+    "heading": "CHILD SUPPORT",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-11b-chemical-weapons",
+    "heading": "CHEMICAL WEAPONS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-012-civil-disorders",
+    "heading": "CIVIL DISORDERS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-013-civil-rights",
+    "heading": "CIVIL RIGHTS",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-015-claims-and-services-in-matters-affecting-government",
+    "heading": "CLAIMS AND SERVICES IN MATTERS AFFECTING GOVERNMENT",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-017-coins-and-currency",
+    "heading": "COINS AND CURRENCY",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-17a-common-carrier-operation-under-the-influence-of-alcohol-or-drugs",
+    "heading": "COMMON CARRIER OPERATION UNDER THE INFLUENCE OF ALCOHOL OR DRUGS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-018-congressional-cabinet-and-supreme-court-assassination-kidnapping-and-assault",
+    "heading": "CONGRESSIONAL, CABINET, AND SUPREME COURT ASSASSINATION, KIDNAPPING, AND ASSAULT",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-019-conspiracy",
+    "heading": "CONSPIRACY",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-021-contempts",
+    "heading": "CONTEMPTS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-023-contracts",
+    "heading": "CONTRACTS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-025-counterfeiting-and-forgery",
+    "heading": "COUNTERFEITING AND FORGERY",
+    "section_count": 47
+  },
+  {
+    "slug": "chapter-026-criminal-street-gangs",
+    "heading": "CRIMINAL STREET GANGS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-027-customs",
+    "heading": "CUSTOMS",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-029-elections-and-political-activities",
+    "heading": "ELECTIONS AND POLITICAL ACTIVITIES",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-031-embezzlement-and-theft",
+    "heading": "EMBEZZLEMENT AND THEFT",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-033-emblems-insignia-and-names",
+    "heading": "EMBLEMS, INSIGNIA, AND NAMES",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-035-escape-and-rescue",
+    "heading": "ESCAPE AND RESCUE",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-037-espionage-and-censorship",
+    "heading": "ESPIONAGE AND CENSORSHIP",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-039-explosives-and-other-dangerous-articles",
+    "heading": "EXPLOSIVES AND OTHER DANGEROUS ARTICLES",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-040-importation-manufacture-distribution-and-storage-of-explosive-materials",
+    "heading": "IMPORTATION, MANUFACTURE, DISTRIBUTION AND STORAGE OF EXPLOSIVE MATERIALS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-041-extortion-and-threats",
+    "heading": "EXTORTION AND THREATS",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-042-extortionate-credit-transactions",
+    "heading": "EXTORTIONATE CREDIT TRANSACTIONS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-043-false-personation",
+    "heading": "FALSE PERSONATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-044-firearms",
+    "heading": "FIREARMS",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-045-foreign-relations",
+    "heading": "FOREIGN RELATIONS",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-046-forfeiture",
+    "heading": "FORFEITURE",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-047-fraud-and-false-statements",
+    "heading": "FRAUD AND FALSE STATEMENTS",
+    "section_count": 40
+  },
+  {
+    "slug": "chapter-049-fugitives-from-justice",
+    "heading": "FUGITIVES FROM JUSTICE",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-050-gambling",
+    "heading": "GAMBLING",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-50a-genocide",
+    "heading": "GENOCIDE",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-051-homicide",
+    "heading": "HOMICIDE",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-053-indians",
+    "heading": "INDIANS",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-055-kidnapping",
+    "heading": "KIDNAPPING",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-057-labor",
+    "heading": "LABOR",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-059-liquor-traffic",
+    "heading": "LIQUOR TRAFFIC",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-061-lotteries",
+    "heading": "LOTTERIES",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-063-mail-fraud-and-other-fraud-offenses",
+    "heading": "MAIL FRAUD AND OTHER FRAUD OFFENSES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-065-malicious-mischief",
+    "heading": "MALICIOUS MISCHIEF",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-067-military-and-navy",
+    "heading": "MILITARY AND NAVY",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-069-nationality-and-citizenship",
+    "heading": "NATIONALITY AND CITIZENSHIP",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-071-obscenity",
+    "heading": "OBSCENITY",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-073-obstruction-of-justice",
+    "heading": "OBSTRUCTION OF JUSTICE",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-074-partial-birth-abortions",
+    "heading": "PARTIAL-BIRTH ABORTIONS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-075-passports-and-visas",
+    "heading": "PASSPORTS AND VISAS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-077-peonage-slavery-and-trafficking-in-persons",
+    "heading": "PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-079-perjury",
+    "heading": "PERJURY",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-081-piracy-and-privateering",
+    "heading": "PIRACY AND PRIVATEERING",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-083-postal-service",
+    "heading": "POSTAL SERVICE",
+    "section_count": 53
+  },
+  {
+    "slug": "chapter-084-presidential-and-presidential-staff-assassination-kidnapping-and-assault",
+    "heading": "PRESIDENTIAL AND PRESIDENTIAL STAFF ASSASSINATION, KIDNAPPING, AND ASSAULT",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-085-prison-made-goods",
+    "heading": "PRISON-MADE GOODS",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-087-prisons",
+    "heading": "PRISONS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-088-privacy",
+    "heading": "PRIVACY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-090-protection-of-trade-secrets",
+    "heading": "PROTECTION OF TRADE SECRETS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-90a-protection-of-unborn-children",
+    "heading": "PROTECTION OF UNBORN CHILDREN",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-091-public-lands",
+    "heading": "PUBLIC LANDS",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-093-public-officers-and-employees",
+    "heading": "PUBLIC OFFICERS AND EMPLOYEES",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-095-racketeering",
+    "heading": "RACKETEERING",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-096-racketeer-influenced-and-corrupt-organizations",
+    "heading": "RACKETEER INFLUENCED AND CORRUPT ORGANIZATIONS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-097-railroad-carriers-and-mass-transportation-systems-on-land-on-water-or-through-the-air",
+    "heading": "RAILROAD CARRIERS AND MASS TRANSPORTATION SYSTEMS ON LAND, ON WATER, OR THROUGH THE AIR",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-101-records-and-reports",
+    "heading": "RECORDS AND REPORTS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-102-riots",
+    "heading": "RIOTS",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-103-robbery-and-burglary",
+    "heading": "ROBBERY AND BURGLARY",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-105-sabotage",
+    "heading": "SABOTAGE",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-107-seamen-and-stowaways",
+    "heading": "SEAMEN AND STOWAWAYS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-109-searches-and-seizures",
+    "heading": "SEARCHES AND SEIZURES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-109a-sexual-abuse",
+    "heading": "SEXUAL ABUSE",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-109b-sex-offender-and-crimes-against-children-registry",
+    "heading": "SEX OFFENDER AND CRIMES AGAINST CHILDREN REGISTRY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-110-sexual-exploitation-and-other-abuse-of-children",
+    "heading": "SEXUAL EXPLOITATION AND OTHER ABUSE OF CHILDREN",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-110a-domestic-violence-and-stalking",
+    "heading": "DOMESTIC VIOLENCE AND STALKING",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-111-shipping",
+    "heading": "SHIPPING",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-111a-destruction-of-or-interference-with-vessels-or-maritime-facilities",
+    "heading": "DESTRUCTION OF, OR INTERFERENCE WITH, VESSELS OR MARITIME FACILITIES",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-113-stolen-property",
+    "heading": "STOLEN PROPERTY",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-113a-telemarketing-and-email-marketing-fraud",
+    "heading": "TELEMARKETING AND EMAIL MARKETING FRAUD",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-113b-terrorism",
+    "heading": "TERRORISM",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-113c-torture",
+    "heading": "TORTURE",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-114-trafficking-in-contraband-cigarettes-and-smokeless-tobacco",
+    "heading": "TRAFFICKING IN CONTRABAND CIGARETTES AND SMOKELESS TOBACCO",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-115-treason-sedition-and-subversive-activities",
+    "heading": "TREASON, SEDITION, AND SUBVERSIVE ACTIVITIES",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-117-transportation-for-illegal-sexual-activity-and-related-crimes",
+    "heading": "TRANSPORTATION FOR ILLEGAL SEXUAL ACTIVITY AND RELATED CRIMES",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-118-war-crimes",
+    "heading": "WAR CRIMES",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-119-wire-and-electronic-communications-interception-and-interception-of-oral-communications",
+    "heading": "WIRE AND ELECTRONIC COMMUNICATIONS INTERCEPTION AND INTERCEPTION OF ORAL COMMUNICATIONS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-121-stored-wire-and-electronic-communications-and-transactional-records-access",
+    "heading": "STORED WIRE AND ELECTRONIC COMMUNICATIONS AND TRANSACTIONAL RECORDS ACCESS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-123-prohibition-on-release-and-use-of-certain-personal-information-from-state-motor-vehicle-records",
+    "heading": "PROHIBITION ON RELEASE AND USE OF CERTAIN PERSONAL INFORMATION FROM STATE MOTOR VEHICLE RECORDS",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-201-general-provisions",
+    "heading": "GENERAL PROVISIONS",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-203-arrest-and-commitment",
+    "heading": "ARREST AND COMMITMENT",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-204-rewards-for-information-concerning-terrorist-acts-and-espionage",
+    "heading": "REWARDS FOR INFORMATION CONCERNING TERRORIST ACTS AND ESPIONAGE",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-205-searches-and-seizures",
+    "heading": "SEARCHES AND SEIZURES",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-206-pen-registers-and-trap-and-trace-devices",
+    "heading": "PEN REGISTERS AND TRAP AND TRACE DEVICES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-207-release-and-detention-pending-judicial-proceedings",
+    "heading": "RELEASE AND DETENTION PENDING JUDICIAL PROCEEDINGS",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-208-speedy-trial",
+    "heading": "SPEEDY TRIAL",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-209-extradition",
+    "heading": "EXTRADITION",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-211-jurisdiction-and-venue",
+    "heading": "JURISDICTION AND VENUE",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-212-military-extraterritorial-jurisdiction",
+    "heading": "MILITARY EXTRATERRITORIAL JURISDICTION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-212a-extraterritorial-jurisdiction-over-certain-offenses",
+    "heading": "EXTRATERRITORIAL JURISDICTION OVER CERTAIN OFFENSES",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-213-limitations",
+    "heading": "LIMITATIONS",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-215-grand-jury",
+    "heading": "GRAND JURY",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-216-special-grand-jury",
+    "heading": "SPECIAL GRAND JURY",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-217-indictment-and-information",
+    "heading": "INDICTMENT AND INFORMATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-219-trial-by-united-states-magistrate-judges",
+    "heading": "TRIAL BY UNITED STATES MAGISTRATE JUDGES",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-221-arraignment-pleas-and-trial",
+    "heading": "ARRAIGNMENT, PLEAS AND TRIAL",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-223-witnesses-and-evidence",
+    "heading": "WITNESSES AND EVIDENCE",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-224-protection-of-witnesses",
+    "heading": "PROTECTION OF WITNESSES",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-225-verdict",
+    "heading": "VERDICT",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-227-sentences",
+    "heading": "SENTENCES",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-228-death-sentence",
+    "heading": "DEATH SENTENCE",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-228a-post-conviction-dna-testing",
+    "heading": "POST-CONVICTION DNA TESTING",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-229-postsentence-administration",
+    "heading": "POSTSENTENCE ADMINISTRATION",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-232-miscellaneous-sentencing-provisions",
+    "heading": "MISCELLANEOUS SENTENCING PROVISIONS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-232a-special-forfeiture-of-collateral-profits-of-crime",
+    "heading": "SPECIAL FORFEITURE OF COLLATERAL PROFITS OF CRIME",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-233-contempts",
+    "heading": "CONTEMPTS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-235-appeal",
+    "heading": "APPEAL",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-237-crime-victims-rights",
+    "heading": "CRIME VICTIMS’ RIGHTS",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-238-sexual-assault-survivors-rights",
+    "heading": "SEXUAL ASSAULT SURVIVORS’ RIGHTS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-301-general-provisions",
+    "heading": "GENERAL PROVISIONS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-303-bureau-of-prisons",
+    "heading": "BUREAU OF PRISONS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-305-commitment-and-transfer",
+    "heading": "COMMITMENT AND TRANSFER",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-306-transfer-to-or-from-foreign-countries",
+    "heading": "TRANSFER TO OR FROM FOREIGN COUNTRIES",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-307-employment",
+    "heading": "EMPLOYMENT",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-313-offenders-with-mental-disease-or-defect",
+    "heading": "OFFENDERS WITH MENTAL DISEASE OR DEFECT",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-315-discharge-and-release-payments",
+    "heading": "DISCHARGE AND RELEASE PAYMENTS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-317-institutions-for-women",
+    "heading": "INSTITUTIONS FOR WOMEN",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-319-national-institute-of-corrections",
+    "heading": "NATIONAL INSTITUTE OF CORRECTIONS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-401-general-provisions",
+    "heading": "GENERAL PROVISIONS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-403-juvenile-delinquency",
+    "heading": "JUVENILE DELINQUENCY",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-601-immunity-of-witnesses",
+    "heading": "IMMUNITY OF WITNESSES",
+    "section_count": 5
+  }
+]

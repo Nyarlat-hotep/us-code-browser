@@ -1,0 +1,190 @@
+---
+title: 54
+chapter: '3001'
+heading: Chapter 3001
+section_count: 1
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&num=0&edition=prelim
+---
+<a id="section-300101"></a>
+## § 300101. Policy
+
+It is the policy of the Federal Government, in cooperation with other nations and in partnership with States, local governments, Indian tribes, Native Hawaiian organizations, and private organizations and individuals, to—
+
+(1) use measures, including financial and technical assistance, to foster conditions under which our modern society and our historic property can exist in productive harmony and fulfill the social, economic, and other requirements of present and future generations;
+
+(2) provide leadership in the preservation of the historic property of the United States and of the international community of nations and in the administration of the national preservation program;
+
+(3) administer federally owned, administered, or controlled historic property in a spirit of stewardship for the inspiration and benefit of present and future generations;
+
+(4) contribute to the preservation of nonfederally owned historic property and give maximum encouragement to organizations and individuals undertaking preservation by private means;
+
+(5) encourage the public and private preservation and utilization of all usable elements of the Nation’s historic built environment; and
+
+(6) assist State and local governments, Indian tribes and Native Hawaiian organizations, and the National Trust to expand and accelerate their historic preservation programs and activities.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 300101 | [16 U.S.C. 470–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470–1&num=0&edition=prelim). | Pub. L. 89–665, § 2, as added Pub. L. 96–515, title I, § 101(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, § 4002, Oct. 30, 1992, 106 Stat. 4753. |
+
+The words “Native Hawaiian organizations” are added for consistency in the section.
+
+In paragraph (2), the words “in partnership with States, Indian tribes, Native Hawaiians, and local governments” are omitted as unnecessary because the words are used in the introductory material of this section.
+
+#### Ex. Ord. No. 11593. Protection and Enhancement of the Cultural Environment
+Ex. Ord. No. 11593, May 13, 1971, 36 F.R. 8921, provided:
+
+By virtue of the authority vested in me as President of the United States and in furtherance of the purposes and policies of the National Environmental Policy Act of 1969 (83 Stat. 852, [42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), the National Historic Preservation Act of 1966 (80 Stat. 915, [former] [16 U.S.C. 470](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470&num=0&edition=prelim) et seq.) [see [54 U.S.C. 300101](./chapter-3001-chapter-3001.md#section-300101) et seq.], the Historic Sites Act of 1935 (49 Stat. 666, [former] [16 U.S.C. 461](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461&num=0&edition=prelim) et seq.) [see [18 U.S.C. 1866(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), [54 U.S.C. 102303](./chapter-1023-chapter-1023.md#section-102303), 102304, 320101 et seq.], and the Antiquities Act of 1906 (34 Stat. 225, 16 [former] U.S.C. 431 et seq.) [see [18 U.S.C. 1866(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/b&num=0&edition=prelim), [54 U.S.C. 320301(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301/a&num=0&edition=prelim) to (c), 320302, 320303], it is ordered as follows:
+
+Section 1. Policy. The Federal Government shall provide leadership in preserving, restoring and maintaining the historic and cultural environment of the Nation. Agencies of the executive branch of the Government (hereinafter referred to as “Federal agencies”) shall (1) administer the cultural properties under their control in a spirit of stewardship and trusteeship for future generations, (2) initiate measures necessary to direct their policies, plans and programs in such a way that federally owned sites, structures, and objects of historical, architectural or archaeological significance are preserved, restored and maintained for the inspiration and benefit of the people, and (3), in consultation with the Advisory Council on Historic Preservation ([former] [16 U.S.C. 470i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470i&num=0&edition=prelim) [see [54 U.S.C. 304101](./chapter-3041-chapter-3041.md#section-304101)]), institute procedures to assure that Federal plans and programs contribute to the preservation and enhancement of non-federally owned sites, structures and objects of historical, architectural or archaeological significance.
+
+Sec. 2. Responsibilities of Federal agencies. Consonant with the provisions of the acts cited in the first paragraph of this order, the heads of Federal agencies shall:
+
+(a) no later than July 1, 1973, with the advice of the Secretary of the Interior, and in cooperation with the liaison officer for historic preservation for the State or territory involved, locate, inventory, and nominate to the Secretary of the Interior all sites, buildings, districts, and objects under their jurisdiction or control that appear to qualify for listing on the National Register of Historic Places.
+
+(b) exercise caution during the interim period until inventories and evaluations required by subsection (a) are completed to assure that any federally owned property that might qualify for nomination is not inadvertently transferred, sold, demolished or substantially altered. The agency head shall refer any questionable actions to the Secretary of the Interior for an opinion respecting the property’s eligibility for inclusion on the National Register of Historic Places. The Secretary shall consult with the liaison officer for historic preservation for the State or territory involved in arriving at his opinion. Where, after a reasonable period in which to review and evaluate the property, the Secretary determines that the property is likely to meet the criteria prescribed for listing on the National Register of Historic Places, the Federal agency head shall reconsider the proposal in light of national environmental and preservation policy. Where, after such reconsideration, the Federal agency head proposes to transfer, sell, demolish or substantially alter the property he shall not act with respect to the property until the Advisory Council on Historic Preservation shall have been provided an opportunity to comment on the proposal.
+
+(c) initiate measures to assure that where as a result of Federal action or assistance a property listed on the National Register of Historic Places is to be substantially altered or demolished, timely steps be taken to make or have made records, including measured drawings, photographs and maps, of the property, and that copy of such records then be deposited in the Library of Congress as part of the Historic American Buildings Survey or Historic American Engineering Record for future use and reference. Agencies may call on the Department of the Interior for advice and technical assistance in the completion of the above records.
+
+(d) initiate measures and procedures to provide for the maintenance, through preservation, rehabilitation, or restoration, of federally owned and registered sites at professional standards prescribed by the Secretary of the Interior.
+
+(e) submit procedures required pursuant to subsection (d) to the Secretary of the Interior and to the Advisory Council on Historic Preservation no later than January 1, 1972, and annually thereafter, for review and comment.
+
+(f) cooperate with purchasers and transferees of a property listed on the National Register of Historic Places in the development of viable plans to use such property in a manner compatible with preservation objectives and which does not result in an unreasonable economic burden to public or private interests.
+
+Sec. 3. Responsibilities of the Secretary of the Interior. The Secretary of the Interior shall:
+
+(a) encourage State and local historic preservation officials to evaluate and survey federally owned historic properties and, where appropriate, to nominate such properties for listing on the National Register of Historic Places.
+
+(b) develop criteria and procedures to be applied by Federal agencies in the reviews and nominations required by section 2(a). Such criteria and procedures shall be developed in consultation with the affected agencies.
+
+(c) expedite action upon nominations to the National Register of Historic Places concerning federally owned properties proposed for sale, transfer, demolition or substantial alteration.
+
+(d) encourage State and Territorial liaison officers for historic preservation to furnish information upon request to Federal agencies regarding their properties which have been evaluated with respect to historic, architectural or archaeological significance and which as a result of such evaluations have not been found suitable for listing on the National Register of Historic Places.
+
+(e) develop and make available to Federal agencies and State and local governments information concerning professional methods and techniques for preserving, improving, restoring and maintaining historic properties.
+
+(f) advise Federal agencies in the evaluation, identification, preservation, improvement, restoration and maintenance of historic properties.
+
+(g) review and evaluate the plans of transferees of surplus Federal properties transferred for historic monument purposes to assure that the historic character of such properties is preserved in rehabilitation, restoration, improvement, maintenance and repair of such properties.
+
+(h) review and comment upon Federal agency procedures submitted pursuant to section 2(e) of this order.
+
+Richard Nixon.
+
+#### Ex. Ord. No. 13934. Building and Rebuilding Monuments to American Heroes
+Ex. Ord. No. 13934, July 3, 2020, 85 F.R. 41165, as amended by Ex. Ord. No. 13978, §§ 3, 4, Jan. 18, 2021, 86 F.R. 6810, 6811, revoked by Ex. Ord. 14029, § 1, May 14, 2021, 86 F.R. 27025, reinstated and amended by Ex, Ord. No. 14189, § 3(a), (c) Jan. 29, 2025, 90 F.R. 8850, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Purpose. America owes its present greatness to its past sacrifices. Because the past is always at risk of being forgotten, monuments will always be needed to honor those who came before. Since the time of our founding, Americans have raised monuments to our greatest citizens. In 1784, the legislature of Virginia commissioned the earliest statue of George Washington, a “monument of affection and gratitude” to a man who “unit[ed] to the endowment[s] of the Hero the virtues of the Patriot” and gave to the world “an Immortal Example of true Glory.” I Res. H. Del. (June 24, 1784). In our public parks and plazas, we have erected statues of great Americans who, through acts of wisdom and daring, built and preserved for us a republic of ordered liberty.
+
+These statues are silent teachers in solid form of stone and metal. They preserve the memory of our American story and stir in us a spirit of responsibility for the chapters yet unwritten. These works of art call forth gratitude for the accomplishments and sacrifices of our exceptional fellow citizens who, despite their flaws, placed their virtues, their talents, and their lives in the service of our Nation. These monuments express our noblest ideals: respect for our ancestors, love of freedom, and striving for a more perfect union. They are works of beauty, created as enduring tributes. In preserving them, we show reverence for our past, we dignify our present, and we inspire those who are to come. To build a monument is to ratify our shared national project.
+
+To destroy a monument is to desecrate our common inheritance. In recent weeks, in the midst of protests across America, many monuments have been vandalized or destroyed. Some local governments have responded by taking their monuments down. Among others, monuments to Christopher Columbus, George Washington, Thomas Jefferson, Benjamin Franklin, Francis Scott Key, Ulysses S. Grant, leaders of the abolitionist movement, the first all-volunteer African-American regiment of the Union Army in the Civil War, and American soldiers killed in the First and Second World Wars have been vandalized, destroyed, or removed.
+
+These statues are not ours alone, to be discarded at the whim of those inflamed by fashionable political passions; they belong to generations that have come before us and to generations yet unborn. My Administration will not abide an assault on our collective national memory. In the face of such acts of destruction, it is our responsibility as Americans to stand strong against this violence, and to peacefully transmit our great national story to future generations through newly commissioned monuments to American heroes.
+
+Sec. 2. Task Force for Building and Rebuilding Monuments to American Heroes. (a) There is hereby established the Interagency Task Force for Building and Rebuilding Monuments to American Heroes (Task Force). The Task Force shall be chaired by the Secretary of the Interior (Secretary), and shall include the following additional members:
+
+(i) the Administrator of General Services (Administrator);
+
+(ii) the Chairperson of the National Endowment for the Arts (NEA);
+
+(iii) the Chairperson of the National Endowment for the Humanities (NEH);
+
+(iv) the Chairman of the Advisory Council on Historic Preservation (ACHP); and
+
+(v) any officers or employees of any executive department or agency (agency) designated by the President or the Secretary.
+
+(b) The Department of the Interior shall provide funding and administrative support as may be necessary for the performance and functions of the Task Force. The Secretary shall designate an official of the Department of the Interior to serve as the Executive Director of the Task Force, responsible for coordinating its day-to-day activities.
+
+(c) The Chairpersons of the NEA and NEH and the Chairman of the ACHP shall establish cross-department initiatives within the NEA, NEH, and ACHP, respectively, to advance the purposes of the Task Force and this order and to coordinate relevant agency operations with the Task Force.
+
+Sec. 3. National Garden of American Heroes. (a) It shall be the policy of the United States to establish a statuary park named the National Garden of American Heroes (National Garden).
+
+(b) The Secretary, in consultation with the Task Force, shall identify a site suitable for the establishment of the National Garden. The Secretary shall proceed with construction of the National Garden at that site, to the extent consistent with the Secretary’s existing authorities or authority later provided by the Congress.
+
+(c) The National Garden should adhere to the criteria described in subsections (c)(i) through (c)(vi) of this section.
+
+(i) The National Garden should be composed of statues, including statues of Ansel Adams, John Adams, Samuel Adams, Muhammad Ali, Luis Walter Alvarez, Susan B. Anthony, Hannah Arendt, Louis Armstrong, Neil Armstrong, Crispus Attucks, John James Audubon, Lauren Bacall, Clara Barton, Todd Beamer, Alexander Graham Bell, Roy Benavidez, Ingrid Bergman, Irving Berlin, Humphrey Bogart, Daniel Boone, Norman Borlaug, William Bradford, Herb Brooks, Kobe Bryant, William F. Buckley, Jr., Sitting Bull, Frank Capra, Andrew Carnegie, Charles Carroll, John Carroll, George Washington Carver, Johnny Cash, Joshua Chamberlain, Whittaker Chambers, Johnny “Appleseed” Chapman, Ray Charles, Julia Child, Gordon Chung-Hoon, William Clark, Henry Clay, Samuel Clemens (Mark Twain), Roberto Clemente, Grover Cleveland, Red Cloud, William F. “Buffalo Bill” Cody, Nat King Cole, Samuel Colt, Christopher Columbus, Calvin Coolidge, James Fenimore Cooper, Davy Crockett, Benjamin O. Davis, Jr., Miles Davis, Dorothy Day, Joseph H. De Castro, Emily Dickinson, Walt Disney, William “Wild Bill” Donovan, Jimmy Doolittle, Desmond Doss, Frederick Douglass, Herbert Henry Dow, Katharine Drexel, Peter Drucker, Amelia Earhart, Thomas Edison, Jonathan Edwards, Albert Einstein, Dwight D. Eisenhower, Duke Ellington, Ralph Waldo Emerson, Medgar Evers, David Farragut, the Marquis de La Fayette, Mary Fields, Henry Ford, George Fox, Aretha Franklin, Benjamin Franklin, Milton Friedman, Robert Frost, Gabby Gabreski, Bernardo de Gálvez, Lou Gehrig, Theodor Seuss Geisel, Cass Gilbert, Ruth Bader Ginsburg, John Glenn, Barry Goldwater, Samuel Gompers, Alexander Goode, Carl Gorman, Billy Graham, Ulysses S. Grant, Nellie Gray, Nathanael Greene, Woody Guthrie, Nathan Hale, William Frederick “Bull” Halsey, Jr., Alexander Hamilton, Ira Hayes, Hans Christian Heg, Ernest Hemingway, Patrick Henry, Charlton Heston, Alfred Hitchcock, Billie Holiday, Bob Hope, Johns Hopkins, Grace Hopper, Sam Houston, Whitney Houston, Julia Ward Howe, Edwin Hubble, Daniel Inouye, Andrew Jackson, Robert H. Jackson, Mary Jackson, John Jay, Thomas Jefferson, Steve Jobs, Katherine Johnson, Barbara Jordan, Chief Joseph, Elia Kazan, Helen Keller, John F. Kennedy, Francis Scott Key, Coretta Scott King, Martin Luther King, Jr., Russell Kirk, Jeane Kirkpatrick, Henry Knox, Tadeusz Kościuszko, Harper Lee, Pierre Charles L’Enfant, Meriwether Lewis, Abraham Lincoln, Vince Lombardi, Henry Wadsworth Longfellow, Clare Boothe Luce, Douglas MacArthur, Dolley Madison, James Madison, George Marshall, Thurgood Marshall, William Mayo, Christa McAuliffe, William McKinley, Louise McManus, Herman Melville, Thomas Merton, George P. Mitchell, Maria Mitchell, William “Billy” Mitchell, Samuel Morse, Lucretia Mott, John Muir, Audie Murphy, Edward Murrow, John Neumann, Annie Oakley, Jesse Owens, Rosa Parks, George S. Patton, Jr., Charles Willson Peale, William Penn, Oliver Hazard Perry, John J. Pershing, Edgar Allan Poe, Clark Poling, John Russell Pope, Elvis Presley, Jeannette Rankin, Ronald Reagan, Walter Reed, William Rehnquist, Paul Revere, Henry Hobson Richardson, Hyman Rickover, Sally Ride, Matthew Ridgway, Jackie Robinson, Norman Rockwell, Caesar Rodney, Eleanor Roosevelt, Franklin D. Roosevelt, Theodore Roosevelt, Betsy Ross, Babe Ruth, Sacagawea, Jonas Salk, John Singer Sargent, Antonin Scalia, Norman Schwarzkopf, Junípero Serra, Elizabeth Ann Seton, Robert Gould Shaw, Fulton Sheen, Alan Shepard, Frank Sinatra, Margaret Chase Smith, Bessie Smith, Elizabeth Cady Stanton, Jimmy Stewart, Harriet Beecher Stowe, Gilbert Stuart, Anne Sullivan, William Howard Taft, Maria Tallchief, Maxwell Taylor, Tecumseh, Kateri Tekakwitha, Shirley Temple, Nikola Tesla, Jefferson Thomas, Henry David Thoreau, Jim Thorpe, Augustus Tolton, Alex Trebek, Harry S. Truman, Sojourner Truth, Harriet Tubman, Dorothy Vaughan, C. T. Vivian, John von Neumann, Thomas Ustick Walter, Sam Walton, Booker T. Washington, George Washington, John Washington, John Wayne, Ida B. Wells-Barnett, Phillis Wheatley, Walt Whitman, Laura Ingalls Wilder, Roger Williams, John Winthrop, Frank Lloyd Wright, Orville Wright, Wilbur Wright, Alvin C. York, Cy Young, and Lorenzo de Zavala.
+
+(ii) The National Garden should be opened for public access as expeditiously as possible.
+
+(iii) Statues should depict historically significant Americans, as that term is defined in section 7 of this order, who have contributed positively to America throughout our history. Examples include: the Founding Fathers, those who fought for the abolition of slavery or participated in the underground railroad, heroes of the United States Armed Forces, recipients of the Congressional Medal of Honor or Presidential Medal of Freedom, scientists and inventors, entrepreneurs, civil rights leaders, missionaries and religious leaders, pioneers and explorers, police officers and firefighters killed or injured in the line of duty, labor leaders, advocates for the poor and disadvantaged, opponents of national socialism or international socialism, former Presidents of the United States and other elected officials, judges and justices, astronauts, authors, intellectuals, artists, and teachers. None will have lived perfect lives, but all will be worth honoring, remembering, and studying.
+
+(iv) All statues in the National Garden should be lifelike or realistic representations of the persons they depict, not abstract or modernist representations.
+
+(v) The National Garden should be located on a site of natural beauty that enables visitors to enjoy nature, walk among the statues, and be inspired to learn about great figures of America’s history. The site should be proximate to at least one major population center, and the site should not cause significant disruption to the local community.
+
+(vi) As part of its civic education mission, the National Garden should also separately maintain a collection of statues for temporary display at appropriate sites around the United States that are accessible to the general public.
+
+Sec. 4. Commissioning of New Statues and Works of Art. (a) The Task Force shall examine the appropriations authority of the agencies represented on it in light of the purpose and policy of this order. Based on its examination of relevant authorities, the Task Force shall make recommendations for the use of these agencies’ appropriations.
+
+(b) To the extent appropriate and consistent with applicable law and the other provisions of this order, Task Force agencies that are authorized to provide for the commissioning of statues or monuments shall, in expending funds, give priority to projects involving the commissioning of publicly accessible statues of persons meeting the criteria described in section 3(b)(iii) of this order, with particular preference for statues of the Founding Fathers, former Presidents of the United States, leading abolitionists, and individuals involved in the discovery of America.
+
+(c) To the extent appropriate and consistent with applicable law, these agencies shall prioritize projects that will result in the installation of a statue as described in subsection (b) of this section in a community where a statue depicting a historically significant American was removed or destroyed in conjunction with the events described in section 1 of this order.
+
+(d) After consulting with the Task Force, the Administrator of General Services shall promptly revise and thereafter operate the General Service Administration’s (GSA’s) Art in Architecture (AIA) Policies and Procedures, GSA Acquisition Letter V–10–01, and Part 102–77 of title 41, Code of Federal Regulations, to prioritize the commission of works of art that portray historically significant Americans or events of American historical significance or illustrate the ideals upon which our Nation was founded. Priority should be given to public-facing monuments to former Presidents of the United States and to individuals and events relating to the discovery of America, the founding of the United States, and the abolition of slavery. Such works of art should be designed to be appreciated by the general public and by those who use and interact with Federal buildings. Priority should be given to this policy above other policies contained in Part 102–77 of title 41, Code of Federal Regulations, and revisions made pursuant to this subsection shall be made to supersede any regulatory provisions of AIA that may conflict with or otherwise impede advancing the purposes of this subsection.
+
+(e) When a statue or work of art commissioned pursuant to this section is meant to depict a historically significant American, the statue or work of art shall be a lifelike or realistic representation of that person, not an abstract or modernist representation.
+
+Sec. 5. Educational Programming. The Chairperson of the NEH shall prioritize the allocation of funding to programs and projects that educate Americans about the founding documents and founding ideals of the United States, as appropriate and to the extent consistent with applicable law, including [section 956 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section956&num=0&edition=prelim), United States Code. The founding documents include the Declaration of Independence, the Constitution, and the Federalist Papers. The founding ideals include equality under the law, respect for inalienable individual rights, and representative self-government. Within 90 days of the conclusion of each Fiscal Year from 2021 through 2026, the Chairperson shall submit a report to the President through the Assistant to the President for Domestic Policy that identifies funding allocated to programs and projects pursuant to this section.
+
+Sec. 6. Protection of National Garden and Statues Commissioned Pursuant to this Order. The Attorney General shall apply section 3 of Executive Order 13933 of June 26, 2020 (Protecting American Monuments, Memorials, and Statues and Combating Recent Criminal Violence) [[34 U.S.C. 60101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60101&num=0&edition=prelim) note prec.], with respect to violations of Federal law regarding the National Garden and all statues commissioned pursuant to this order.
+
+Sec. 7. Definition. The term “historically significant American” means an individual who made substantive contributions to America’s public life or otherwise had a substantive effect on America’s history.
+
+Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+#### Ex. Ord. No. 13978. Building the National Garden of American Heroes
+Ex. Ord. No. 13978, Jan. 18, 2021, 86 F.R. 6809, revoked by Ex. Ord. 14029, § 1, May 14, 2021, 86 F.R. 27025, reinstated by Ex, Ord. No. 14189, § 3(a), Jan. 29, 2025, 90 F.R. 8850, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Background. In Executive Order 13934 of July 3, 2020 (Building and Rebuilding Monuments to American Heroes) [set out above], I made it the policy of the United States to establish a statuary park named the National Garden of American Heroes (National Garden). To begin the process of building this new monument to our country’s greatness, I established the Interagency Task Force for Building and Rebuilding Monuments to American Heroes (Task Force) and directed its members to plan for construction of the National Garden. The Task Force has advised me it has completed the first phase of its work and is prepared to move forward. This order revises Executive Order 13934 and provides additional direction for the Task Force.
+
+Sec. 2. Purpose. The chronicles of our history show that America is a land of heroes. As I announced during my address at Mount Rushmore, the gates of a beautiful new garden will soon open to the public where the legends of America’s past will be remembered.
+
+The National Garden will be built to reflect the awesome splendor of our country’s timeless exceptionalism. It will be a place where citizens, young and old, can renew their vision of greatness and take up the challenge that I gave every American in my first address to Congress, to “[b]elieve in yourselves, believe in your future, and believe, once more, in America.”
+
+Across this Nation, belief in the greatness and goodness of America has come under attack in recent months and years by a dangerous anti-American extremism that seeks to dismantle our country’s history, institutions, and very identity. The heroes of 1776 have been desecrated, with statues of George Washington, Thomas Jefferson, and Benjamin Franklin vandalized and toppled. The dead who gave their lives to end slavery and save the Union during the Civil War have been dishonored, with monuments to Abraham Lincoln, Hans Christian Heg, and the courageous 54th Regiment left damaged and disfigured. The brave warriors who saved freedom from Nazi fascism have been disgraced with a memorial to World War II veterans defaced with the hammer and sickle of Soviet communism.
+
+The National Garden is America’s answer to this reckless attempt to erase our heroes, values, and entire way of life. On its grounds, the devastation and discord of the moment will be overcome with abiding love of country and lasting patriotism. This is the American way. When the forces of anti-Americanism have sought to burn, tear down, and destroy, patriots have built, rebuilt, and lifted up. That is our history. America responded to the razing of the White House by building it back in the same place with unbroken resolve, to the murders of Abraham Lincoln and Martin Luther King, Jr., with a national temple and the Stone of Hope, and to the terrorism of 9/11 with a new Freedom Tower. In keeping with this tradition, America is responding to the tragic toppling of monuments to our founding generation and the giants of our past by commencing a new national project for their restoration, veneration, and celebration.
+
+The National Garden will draw together and fix in the soil of a single place what Abraham Lincoln called “[t]he mystic chords of memory, stretching from every battlefield, and patriot grave, to every living heart.” In the peace and harmony of this vast outdoor park, visitors will come and learn the amazing stories of some of the greatest Americans who have ever lived. The National Garden will feature a roll call of heroes who deserve honor, recognition, and lasting tribute because of the battles they won, the ideas they championed, the diseases they cured, the lives they saved, the heights they achieved, and the hope they passed down to all of us–that united as one American people trusting in God, there is no challenge that cannot be overcome and no dream that is beyond our reach.
+
+In short, each individual has been chosen for embodying the American spirit of daring and defiance, excellence and adventure, courage and confidence, loyalty and love. Astounding the world by the sheer power of their example, each one of them has contributed indispensably to America’s noble history, the best chapters of which are still to come.
+
+Sec. 3. Honoring Additional American Heroes. [Amended Ex. Ord. 13934, set out above.]
+
+Sec. 4. Additional Amendments to Executive Order 13934. [Amended Ex. Ord. 13934, set out above.]
+
+Sec. 5. Funding. (a) The Secretary of the Interior shall provide funding, as appropriate and consistent with available appropriations and applicable law, for the establishment and maintenance of the National Garden.
+
+(b) The Chairperson of the National Endowment for the Arts and the Chairperson of the National Endowment for the Humanities, in consultation with the National Council on the Arts and the National Council on the Humanities, respectively, and the Task Force, should target spending one-twelfth of the discretionary funds available to their agencies on commissioning statues of individuals set forth in section 3(c)(i) of Executive Order 13934, as amended by section 3(b) of this order, for placement in the National Garden, as appropriate and consistent with applicable law.
+
+Sec. 6. Public Report. Until such time as the National Garden is established and includes statues of all individuals set forth in section 3(c)(i) of Executive Order 13934, as amended by section 3(b) of this order, the Task Force shall publish an annual public report describing progress on establishing the National Garden and on building statues of American heroes. This report shall include, as applicable, the steps the Task Force agencies have taken in the preceding year to prepare the National Garden to be opened for public access and listing all statues either commissioned for or placed in the National Garden.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.

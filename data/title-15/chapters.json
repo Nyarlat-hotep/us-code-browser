@@ -1,0 +1,767 @@
+[
+  {
+    "slug": "chapter-001-monopolies-and-combinations-in-restraint-of-trade",
+    "heading": "MONOPOLIES AND COMBINATIONS IN RESTRAINT OF TRADE",
+    "section_count": 62
+  },
+  {
+    "slug": "chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition",
+    "heading": "FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR METHODS OF COMPETITION",
+    "section_count": 85
+  },
+  {
+    "slug": "chapter-2a-securities-and-trust-indentures",
+    "heading": "SECURITIES AND TRUST INDENTURES",
+    "section_count": 76
+  },
+  {
+    "slug": "chapter-2b-1-securities-investor-protection",
+    "heading": "SECURITIES INVESTOR PROTECTION",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-2b-securities-exchanges",
+    "heading": "SECURITIES EXCHANGES",
+    "section_count": 95
+  },
+  {
+    "slug": "chapter-2c-public-utility-holding-companies",
+    "heading": "PUBLIC UTILITY HOLDING COMPANIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-2d-investment-companies-and-advisers",
+    "heading": "INVESTMENT COMPANIES AND ADVISERS",
+    "section_count": 93
+  },
+  {
+    "slug": "chapter-2e-omnibus-small-business-capital-formation",
+    "heading": "OMNIBUS SMALL BUSINESS CAPITAL FORMATION",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-003-trade-marks",
+    "heading": "TRADE-MARKS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-004-china-trade",
+    "heading": "CHINA TRADE",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-005-statistical-and-commercial-information",
+    "heading": "STATISTICAL AND COMMERCIAL INFORMATION",
+    "section_count": 27
+  },
+  {
+    "slug": "chapter-006-weights-and-measures-and-standard-time",
+    "heading": "WEIGHTS AND MEASURES AND STANDARD TIME",
+    "section_count": 47
+  },
+  {
+    "slug": "chapter-007-national-institute-of-standards-and-technology",
+    "heading": "NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY",
+    "section_count": 59
+  },
+  {
+    "slug": "chapter-7a-standard-reference-data-program",
+    "heading": "STANDARD REFERENCE DATA PROGRAM",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-008-falsely-stamped-gold-or-silver-or-goods-manufactured-therefrom",
+    "heading": "FALSELY STAMPED GOLD OR SILVER OR GOODS MANUFACTURED THEREFROM",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-009-national-weather-service",
+    "heading": "NATIONAL WEATHER SERVICE",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-9a-weather-modification-activities-or-attempts-reporting-requirement",
+    "heading": "WEATHER MODIFICATION ACTIVITIES OR ATTEMPTS; REPORTING REQUIREMENT",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-010-war-finance-corporation",
+    "heading": "WAR FINANCE CORPORATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-10a-collection-of-state-cigarette-taxes",
+    "heading": "COLLECTION OF STATE CIGARETTE TAXES",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-10b-state-taxation-of-income-from-interstate-commerce",
+    "heading": "STATE TAXATION OF INCOME FROM INTERSTATE COMMERCE",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-011-caustic-poisons",
+    "heading": "CAUSTIC POISONS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-012-discrimination-against-farmers-cooperative-associations-by-boards-of-trade",
+    "heading": "DISCRIMINATION AGAINST FARMERS’ COOPERATIVE ASSOCIATIONS BY BOARDS OF TRADE",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-013-textile-foundation",
+    "heading": "TEXTILE FOUNDATION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-13a-fishing-industry",
+    "heading": "FISHING INDUSTRY",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-014-reconstruction-finance-corporation",
+    "heading": "RECONSTRUCTION FINANCE CORPORATION",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-14a-aid-to-small-business",
+    "heading": "AID TO SMALL BUSINESS",
+    "section_count": 90
+  },
+  {
+    "slug": "chapter-14b-small-business-investment-program",
+    "heading": "SMALL BUSINESS INVESTMENT PROGRAM",
+    "section_count": 79
+  },
+  {
+    "slug": "chapter-015-economic-recovery",
+    "heading": "ECONOMIC RECOVERY",
+    "section_count": 46
+  },
+  {
+    "slug": "chapter-15a-interstate-transportation-of-petroleum-products",
+    "heading": "INTERSTATE TRANSPORTATION OF PETROLEUM PRODUCTS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-15b-natural-gas",
+    "heading": "NATURAL GAS",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-15c-alaska-natural-gas-transportation",
+    "heading": "ALASKA NATURAL GAS TRANSPORTATION",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-15d-alaska-natural-gas-pipeline",
+    "heading": "ALASKA NATURAL GAS PIPELINE",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-016-emergency-relief",
+    "heading": "EMERGENCY RELIEF",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-16a-emergency-petroleum-allocation",
+    "heading": "EMERGENCY PETROLEUM ALLOCATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-16b-federal-energy-administration",
+    "heading": "FEDERAL ENERGY ADMINISTRATION",
+    "section_count": 38
+  },
+  {
+    "slug": "chapter-16c-energy-supply-and-environmental-coordination",
+    "heading": "ENERGY SUPPLY AND ENVIRONMENTAL COORDINATION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-017-production-marketing-and-use-of-bituminous-coal",
+    "heading": "PRODUCTION, MARKETING, AND USE OF BITUMINOUS COAL",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-018-transportation-of-firearms",
+    "heading": "TRANSPORTATION OF FIREARMS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-019-miscellaneous",
+    "heading": "MISCELLANEOUS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-020-regulation-of-insurance",
+    "heading": "REGULATION OF INSURANCE",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-021-national-policy-on-employment-and-productivity",
+    "heading": "NATIONAL POLICY ON EMPLOYMENT AND PRODUCTIVITY",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-022-trademarks",
+    "heading": "TRADEMARKS",
+    "section_count": 65
+  },
+  {
+    "slug": "chapter-023-dissemination-of-technical-scientific-and-engineering-information",
+    "heading": "DISSEMINATION OF TECHNICAL, SCIENTIFIC AND ENGINEERING INFORMATION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-024-transportation-of-gambling-devices",
+    "heading": "TRANSPORTATION OF GAMBLING DEVICES",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-025-flammable-fabrics",
+    "heading": "FLAMMABLE FABRICS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-026-household-refrigerators",
+    "heading": "HOUSEHOLD REFRIGERATORS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-027-automobile-dealer-suits-against-manufacturers",
+    "heading": "AUTOMOBILE DEALER SUITS AGAINST MANUFACTURERS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-028-disclosure-of-automobile-information",
+    "heading": "DISCLOSURE OF AUTOMOBILE INFORMATION",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-029-manufacture-transportation-or-distribution-of-switchblade-knives",
+    "heading": "MANUFACTURE, TRANSPORTATION, OR DISTRIBUTION OF SWITCHBLADE KNIVES",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-030-hazardous-substances",
+    "heading": "HAZARDOUS SUBSTANCES",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-031-destruction-of-property-moving-in-commerce",
+    "heading": "DESTRUCTION OF PROPERTY MOVING IN COMMERCE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-032-telecasting-of-professional-sports-contests",
+    "heading": "TELECASTING OF PROFESSIONAL SPORTS CONTESTS",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-033-brake-fluid-regulation",
+    "heading": "BRAKE FLUID REGULATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-034-antitrust-civil-process",
+    "heading": "ANTITRUST CIVIL PROCESS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-035-seat-belt-regulation",
+    "heading": "SEAT BELT REGULATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-036-cigarette-labeling-and-advertising",
+    "heading": "CIGARETTE LABELING AND ADVERTISING",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-037-state-technical-services",
+    "heading": "STATE TECHNICAL SERVICES",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-038-traffic-and-motor-vehicle-safety",
+    "heading": "TRAFFIC AND MOTOR VEHICLE SAFETY",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-039-fair-packaging-and-labeling-program",
+    "heading": "FAIR PACKAGING AND LABELING PROGRAM",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-39a-special-packaging-of-household-substances-for-protection-of-children",
+    "heading": "SPECIAL PACKAGING OF HOUSEHOLD SUBSTANCES FOR PROTECTION OF CHILDREN",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-040-department-of-commerce",
+    "heading": "DEPARTMENT OF COMMERCE",
+    "section_count": 63
+  },
+  {
+    "slug": "chapter-041-consumer-credit-protection",
+    "heading": "CONSUMER CREDIT PROTECTION",
+    "section_count": 174
+  },
+  {
+    "slug": "chapter-042-interstate-land-sales",
+    "heading": "INTERSTATE LAND SALES",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-043-newspaper-preservation",
+    "heading": "NEWSPAPER PRESERVATION",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-044-protection-of-horses",
+    "heading": "PROTECTION OF HORSES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-045-emergency-loan-guarantees-to-business-enterprises",
+    "heading": "EMERGENCY LOAN GUARANTEES TO BUSINESS ENTERPRISES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-45a-chrysler-corporation-loan-guarantee",
+    "heading": "CHRYSLER CORPORATION LOAN GUARANTEE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-046-motor-vehicle-information-and-cost-savings",
+    "heading": "MOTOR VEHICLE INFORMATION AND COST SAVINGS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-46a-automobile-title-fraud",
+    "heading": "AUTOMOBILE TITLE FRAUD",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-047-consumer-product-safety",
+    "heading": "CONSUMER PRODUCT SAFETY",
+    "section_count": 55
+  },
+  {
+    "slug": "chapter-048-hobby-protection",
+    "heading": "HOBBY PROTECTION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-049-fire-prevention-and-control",
+    "heading": "FIRE PREVENTION AND CONTROL",
+    "section_count": 41
+  },
+  {
+    "slug": "chapter-050-consumer-product-warranties",
+    "heading": "CONSUMER PRODUCT WARRANTIES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-051-national-productivity-and-quality-of-working-life",
+    "heading": "NATIONAL PRODUCTIVITY AND QUALITY OF WORKING LIFE",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-052-electric-and-hybrid-vehicle-research-development-and-demonstration",
+    "heading": "ELECTRIC AND HYBRID VEHICLE RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-053-toxic-substances-control",
+    "heading": "TOXIC SUBSTANCES CONTROL",
+    "section_count": 74
+  },
+  {
+    "slug": "chapter-054-automotive-propulsion-research-and-development",
+    "heading": "AUTOMOTIVE PROPULSION RESEARCH AND DEVELOPMENT",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-055-petroleum-marketing-practices",
+    "heading": "PETROLEUM MARKETING PRACTICES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-056-national-climate-program",
+    "heading": "NATIONAL CLIMATE PROGRAM",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-56a-global-change-research",
+    "heading": "GLOBAL CHANGE RESEARCH",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-057-interstate-horseracing",
+    "heading": "INTERSTATE HORSERACING",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-57a-horseracing-integrity-and-safety",
+    "heading": "HORSERACING INTEGRITY AND SAFETY",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-058-full-employment-and-balanced-growth",
+    "heading": "FULL EMPLOYMENT AND BALANCED GROWTH",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-059-retail-policies-for-natural-gas-utilities",
+    "heading": "RETAIL POLICIES FOR NATURAL GAS UTILITIES",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-060-natural-gas-policy",
+    "heading": "NATURAL GAS POLICY",
+    "section_count": 27
+  },
+  {
+    "slug": "chapter-061-soft-drink-interbrand-competition",
+    "heading": "SOFT DRINK INTERBRAND COMPETITION",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-062-condominium-and-cooperative-conversion-protection-and-abuse-relief",
+    "heading": "CONDOMINIUM AND COOPERATIVE CONVERSION PROTECTION AND ABUSE RELIEF",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-063-technology-innovation",
+    "heading": "TECHNOLOGY INNOVATION",
+    "section_count": 37
+  },
+  {
+    "slug": "chapter-064-methane-transportation-research-development-and-demonstration",
+    "heading": "METHANE TRANSPORTATION RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-065-liability-risk-retention",
+    "heading": "LIABILITY RISK RETENTION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-066-promotion-of-export-trade",
+    "heading": "PROMOTION OF EXPORT TRADE",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-067-arctic-research-and-policy",
+    "heading": "ARCTIC RESEARCH AND POLICY",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-068-land-remote-sensing-commercialization",
+    "heading": "LAND REMOTE-SENSING COMMERCIALIZATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-069-cooperative-research",
+    "heading": "COOPERATIVE RESEARCH",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-070-comprehensive-smokeless-tobacco-health-education",
+    "heading": "COMPREHENSIVE SMOKELESS TOBACCO HEALTH EDUCATION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-071-petroleum-overcharge-distribution-and-restitution",
+    "heading": "PETROLEUM OVERCHARGE DISTRIBUTION AND RESTITUTION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-072-semiconductor-research",
+    "heading": "SEMICONDUCTOR RESEARCH",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america",
+    "heading": "CREATING HELPFUL INCENTIVES TO PRODUCE SEMICONDUCTORS FOR AMERICA",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-073-export-enhancement",
+    "heading": "EXPORT ENHANCEMENT",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-074-competitiveness-policy-council",
+    "heading": "COMPETITIVENESS POLICY COUNCIL",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-075-national-trade-data-bank",
+    "heading": "NATIONAL TRADE DATA BANK",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-076-imitation-firearms",
+    "heading": "IMITATION FIREARMS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-077-steel-and-aluminum-energy-conservation-and-technology-competitiveness",
+    "heading": "STEEL AND ALUMINUM ENERGY CONSERVATION AND TECHNOLOGY COMPETITIVENESS",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-078-superconductivity-and-competitiveness",
+    "heading": "SUPERCONDUCTIVITY AND COMPETITIVENESS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-079-metal-casting-competitiveness-research-program",
+    "heading": "METAL CASTING COMPETITIVENESS RESEARCH PROGRAM",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-080-fasteners",
+    "heading": "FASTENERS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-081-high-performance-computing",
+    "heading": "HIGH-PERFORMANCE COMPUTING",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-082-land-remote-sensing-policy",
+    "heading": "LAND REMOTE SENSING POLICY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-083-telephone-disclosure-and-dispute-resolution",
+    "heading": "TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-084-commercial-space-competitiveness",
+    "heading": "COMMERCIAL SPACE COMPETITIVENESS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-085-armored-car-industry-reciprocity",
+    "heading": "ARMORED CAR INDUSTRY RECIPROCITY",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-086-childrens-bicycle-helmet-safety",
+    "heading": "CHILDREN’S BICYCLE HELMET SAFETY",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention",
+    "heading": "TELEMARKETING AND CONSUMER FRAUD AND ABUSE PREVENTION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-87a-national-do-not-call-registry",
+    "heading": "NATIONAL DO-NOT-CALL REGISTRY",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-088-international-antitrust-enforcement-assistance",
+    "heading": "INTERNATIONAL ANTITRUST ENFORCEMENT ASSISTANCE",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-089-professional-boxing-safety",
+    "heading": "PROFESSIONAL BOXING SAFETY",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-090-propane-education-and-research",
+    "heading": "PROPANE EDUCATION AND RESEARCH",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-091-childrens-online-privacy-protection",
+    "heading": "CHILDREN’S ONLINE PRIVACY PROTECTION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-91a-promoting-a-safe-internet-for-children",
+    "heading": "PROMOTING A SAFE INTERNET FOR CHILDREN",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-092-year-2000-computer-date-change",
+    "heading": "YEAR 2000 COMPUTER DATE CHANGE",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-093-insurance",
+    "heading": "INSURANCE",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-094-privacy",
+    "heading": "PRIVACY",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-94a-visual-depiction-privacy",
+    "heading": "VISUAL DEPICTION PRIVACY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-095-microenterprise-technical-assistance-and-capacity-building-program",
+    "heading": "MICROENTERPRISE TECHNICAL ASSISTANCE AND CAPACITY BUILDING PROGRAM",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-096-electronic-signatures-in-global-and-national-commerce",
+    "heading": "ELECTRONIC SIGNATURES IN GLOBAL AND NATIONAL COMMERCE",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-097-womens-business-enterprise-development",
+    "heading": "WOMEN’S BUSINESS ENTERPRISE DEVELOPMENT",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-098-public-company-accounting-reform-and-corporate-responsibility",
+    "heading": "PUBLIC COMPANY ACCOUNTING REFORM AND CORPORATE RESPONSIBILITY",
+    "section_count": 29
+  },
+  {
+    "slug": "chapter-099-national-construction-safety-team",
+    "heading": "NATIONAL CONSTRUCTION SAFETY TEAM",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-100-cyber-security-research-and-development",
+    "heading": "CYBER SECURITY RESEARCH AND DEVELOPMENT",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-100a-cybersecurity-enhancement",
+    "heading": "CYBERSECURITY ENHANCEMENT",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-101-nanotechnology-research-and-development",
+    "heading": "NANOTECHNOLOGY RESEARCH AND DEVELOPMENT",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-102-fairness-to-contact-lens-consumers",
+    "heading": "FAIRNESS TO CONTACT LENS CONSUMERS",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-103-controlling-the-assault-of-non-solicited-pornography-and-marketing",
+    "heading": "CONTROLLING THE ASSAULT OF NON-SOLICITED PORNOGRAPHY AND MARKETING",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-104-sports-agent-responsibility-and-trust",
+    "heading": "SPORTS AGENT RESPONSIBILITY AND TRUST",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-105-protection-of-lawful-commerce-in-arms",
+    "heading": "PROTECTION OF LAWFUL COMMERCE IN ARMS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-106-pool-and-spa-safety",
+    "heading": "POOL AND SPA SAFETY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-107-protection-of-intellectual-property-rights",
+    "heading": "PROTECTION OF INTELLECTUAL PROPERTY RIGHTS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-108-state-based-insurance-reform",
+    "heading": "STATE-BASED INSURANCE REFORM",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-109-wall-street-transparency-and-accountability",
+    "heading": "WALL STREET TRANSPARENCY AND ACCOUNTABILITY",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-110-online-shopper-protection",
+    "heading": "ONLINE SHOPPER PROTECTION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-111-weather-research-and-forecasting-innovation",
+    "heading": "WEATHER RESEARCH AND FORECASTING INNOVATION",
+    "section_count": 29
+  },
+  {
+    "slug": "chapter-112-sports-medicine-licensure",
+    "heading": "SPORTS MEDICINE LICENSURE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-113-concrete-masonry-products-research-education-and-promotion",
+    "heading": "CONCRETE MASONRY PRODUCTS RESEARCH, EDUCATION, AND PROMOTION",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-114-national-quantum-initiative",
+    "heading": "NATIONAL QUANTUM INITIATIVE",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-115-perfluoroalkyl-and-polyfluoroalkyl-substances-and-emerging-contaminants",
+    "heading": "PERFLUOROALKYL AND POLYFLUOROALKYL SUBSTANCES AND EMERGING CONTAMINANTS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-116-coronavirus-economic-stabilization-cares-act",
+    "heading": "CORONAVIRUS ECONOMIC STABILIZATION (CARES ACT)",
+    "section_count": 83
+  },
+  {
+    "slug": "chapter-117-identifying-outputs-of-generative-adversarial-networks",
+    "heading": "IDENTIFYING OUTPUTS OF GENERATIVE ADVERSARIAL NETWORKS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-118-sustainable-chemistry",
+    "heading": "SUSTAINABLE CHEMISTRY",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-119-national-artificial-intelligence-initiative",
+    "heading": "NATIONAL ARTIFICIAL INTELLIGENCE INITIATIVE",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-120-minority-business-development",
+    "heading": "MINORITY BUSINESS DEVELOPMENT",
+    "section_count": 32
+  },
+  {
+    "slug": "chapter-121-flood-level-observation-operations-and-decision-support",
+    "heading": "FLOOD LEVEL OBSERVATION, OPERATIONS, AND DECISION SUPPORT",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-122-travel-and-tourism",
+    "heading": "TRAVEL AND TOURISM",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-123-protecting-americans-data-from-foreign-adversaries",
+    "heading": "PROTECTING AMERICANS’ DATA FROM FOREIGN ADVERSARIES",
+    "section_count": 1
+  }
+]

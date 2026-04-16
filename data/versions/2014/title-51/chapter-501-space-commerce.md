@@ -1,0 +1,307 @@
+---
+title: 51
+chapter: '501'
+heading: SPACE COMMERCE
+section_count: 11
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51&num=0&edition=prelim
+---
+<a id="section-50101"></a>
+## § 50101. Definitions
+
+In this chapter:
+
+(1) **Commercial provider.—** — The term “commercial provider” means any person providing space transportation services or other space-related activities, primary control of which is held by persons other than Federal, State, local, and foreign governments.
+
+(2) **Payload.—** — The term “payload” means anything that a person undertakes to transport to, from, or within outer space, or in suborbital trajectory, by means of a space transportation vehicle, but does not include the space transportation vehicle itself except for its components which are specifically designed or adapted for that payload.
+
+(3) **Space-related activities.—** — The term “space-related activities” includes research and development, manufacturing, processing, service, and other associated and support activities.
+
+(4) **Space transportation services.—** — The term “space transportation services” means the preparation of a space transportation vehicle and its payloads for transportation to, from, or within outer space, or in suborbital trajectory, and the conduct of transporting a payload to, from, or within outer space, or in suborbital trajectory.
+
+(5) **Space transportation vehicle.—** — The term “space transportation vehicle” means any vehicle constructed for the purpose of operating in, or transporting a payload to, from, or within, outer space, or in suborbital trajectory, and includes any component of such vehicle not specifically designed or adapted for a payload.
+
+(6) **State.—** — The term “State” means each of the several States of the Union, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+
+(7) **United states commercial provider.—** — The term “United States commercial provider” means a commercial provider, organized under the laws of the United States or of a State, that is—
+
+  (A) more than 50 percent owned by United States nationals; or
+
+  (B) a subsidiary of a foreign company and the Secretary of Transportation finds that—
+
+    (i) such subsidiary has in the past evidenced a substantial commitment to the United States market through—
+
+      (I) investments in the United States in long-term research, development, and manufacturing (including the manufacture of major components and subassemblies); and
+
+      (II) significant contributions to employment in the United States; and
+
+    (ii) the country or countries in which such foreign company is incorporated or organized, and, if appropriate, in which it principally conducts its business, affords reciprocal treatment to companies described in subparagraph (A) comparable to that afforded to such foreign company’s subsidiary in the United States, as evidenced by—
+
+      (I) providing comparable opportunities for companies described in subparagraph (A) to participate in Government-sponsored research and development similar to that authorized under this chapter;
+
+      (II) providing no barriers, to companies described in subparagraph (A) with respect to local investment opportunities, that are not provided to foreign companies in the United States; and
+
+      (III) providing adequate and effective protection for the intellectual property rights of companies described in subparagraph (A).
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50101 | [42 U.S.C. 14701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14701&num=0&edition=prelim). | Pub. L. 105–303, § 2, Oct. 28, 1998, 112 Stat. 2843. |
+
+The definition of “Administrator” in section 2 of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843) is omitted as unnecessary because of the definition added by [section 10101 of title 51](./chapter-101-definitions.md#section-10101).
+
+
+<a id="section-50111"></a>
+## § 50111. Commercialization of Space Station
+**(a) Policy.—** Congress declares that a priority goal of constructing the International Space Station is the economic development of Earth orbital space. Congress further declares that free and competitive markets create the most efficient conditions for promoting economic development, and should therefore govern the economic development of Earth orbital space. Congress further declares that the use of free market principles in operating, servicing, allocating the use of, and adding capabilities to the Space Station, and the resulting fullest possible engagement of commercial providers and participation of commercial users, will reduce Space Station operational costs for all partners and the Federal Government’s share of the United States burden to fund operations.
+
+**(b) Use of United States Commercially Provided Services.—**
+
+(1) **In general.—** — In order to stimulate commercial use of space, help maximize the utility and productivity of the International Space Station, and enable a commercial means of providing crew transfer and crew rescue services for the International Space Station, the Administration shall—
+
+  (A) make use of United States commercially provided International Space Station crew transfer and crew rescue services to the maximum extent practicable, if those commercial services have demonstrated the capability to meet Administration-specified ascent, entry, and International Space Station proximity operations safety requirements;
+
+  (B) limit, to the maximum extent practicable, the use of the Crew Exploration Vehicle to missions carrying astronauts beyond low Earth orbit once commercial crew transfer and crew rescue services that meet safety requirements become operational;
+
+  (C) facilitate, to the maximum extent practicable, the transfer of Administration-developed technologies to potential United States commercial crew transfer and rescue service providers, consistent with United States law; and
+
+  (D) issue a notice of intent, not later than 180 days after October 15, 2008, to enter into a funded, competitively awarded Space Act Agreement with 2 or more commercial entities for a Phase 1 Commercial Orbital Transportation Services crewed vehicle demonstration program.
+
+(2) **Congressional intent.—** — It is the intent of Congress that funding for the program described in paragraph (1)(D) shall not come at the expense of full funding of the amounts authorized under section 101(3)(A) of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4783), and for future fiscal years, for Orion Crew Exploration Vehicle development, Ares I Crew Launch Vehicle development, or International Space Station cargo delivery.
+
+(3) **Additional technologies.—** — The Administration shall make International Space Station-compatible docking adaptors and other relevant technologies available to the commercial crew providers selected to service the International Space Station.
+
+(4) **Crew transfer and crew rescue services contract.—** — If a commercial provider demonstrates the capability to provide International Space Station crew transfer and crew rescue services and to satisfy Administration ascent, entry, and International Space Station proximity operations safety requirements, the Administration shall enter into an International Space Station crew transfer and crew rescue services contract with that commercial provider for a portion of the Administration’s anticipated International Space Station crew transfer and crew rescue requirements from the time the commercial provider commences operations under contract with the Administration through calendar year 2016, with an option to extend the period of performance through calendar year 2020.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50111(a) | [42 U.S.C. 14711(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14711/a&num=0&edition=prelim). | Pub. L. 105–303, title I, § 101(a), Oct. 28, 1998, 112 Stat. 2845. |
+| 50111(b) | [42 U.S.C. 17801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17801&num=0&edition=prelim). | Pub. L. 110–422, title IX, § 902, Oct. 15, 2008, 122 Stat. 4805. |
+
+In subsection (b)(1)(D), the date “October 15, 2008” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
+
+#### References in Text
+Section 101(3)(A) of the National Aeronautics and Space Administration Authorization Act of 2008, referred to in subsec. (b)(2), is section 101(3)(A) of Pub. L. 110–422, Oct. 15, 2008, 122 Stat. 4783, which was not classified to the Code.
+
+
+<a id="section-50112"></a>
+## § 50112. Promotion of United States Global Positioning System standards
+
+In order to support and sustain the Global Positioning System in a manner that will most effectively contribute to the national security, public safety, scientific, and economic interests of the United States, Congress encourages the President to—
+
+(1) ensure the operation of the Global Positioning System on a continuous worldwide basis free of direct user fees;
+
+(2) enter into international agreements that promote cooperation with foreign governments and international organizations to—
+
+  (A) establish the Global Positioning System and its augmentations as an acceptable international standard; and
+
+  (B) eliminate any foreign barriers to applications of the Global Positioning System worldwide; and
+
+(3) provide clear direction and adequate resources to the Assistant Secretary of Commerce for Communications and Information so that on an international basis the Assistant Secretary can—
+
+  (A) achieve and sustain efficient management of the electromagnetic spectrum used by the Global Positioning System; and
+
+  (B) protect that spectrum from disruption and interference.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50112 | [42 U.S.C. 14712(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14712/b&num=0&edition=prelim). | Pub. L. 105–303, title I, § 104(b), Oct. 28, 1998, 112 Stat. 2852. |
+
+#### Finding
+Pub. L. 105–303, title I, § 104(a), Oct. 28, 1998, 112 Stat. 2852, provided that: “The Congress finds that the Global Positioning System, including satellites, signal equipment, ground stations, data links, and associated command and control facilities, has become an essential element in civil, scientific, and military space development because of the emergence of a United States commercial industry which provides Global Positioning System equipment and related services.”
+
+
+<a id="section-50113"></a>
+## § 50113. Acquisition of space science data
+**(a) Definition of Space Science Data.—** In this section, the term “space science data” includes scientific data concerning—
+
+(1) the elemental and mineralogical resources of the moon, asteroids, planets and their moons, and comets;
+
+(2) microgravity acceleration; and
+
+(3) solar storm monitoring.
+
+**(b) Acquisition From Commercial Providers.—** The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost effective, space science data from a commercial provider.
+
+**(c) Treatment of Space Science Data as Commercial Item Under Acquisition Laws.—** Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+
+**(d) Safety Standards.—** Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+
+**(e) Limitation.—** This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50113 | [42 U.S.C. 14713](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14713&num=0&edition=prelim). | Pub. L. 105–303, title I, § 105, Oct. 28, 1998, 112 Stat. 2852. |
+
+
+<a id="section-50114"></a>
+## § 50114. Administration of commercial space centers
+
+The Administrator shall administer the Commercial Space Center program in a coordinated manner from Administration headquarters in Washington, D.C.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50114 | [42 U.S.C. 14714](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14714&num=0&edition=prelim). | Pub. L. 105–303, title I, § 106, Oct. 28, 1998, 112 Stat. 2853. |
+
+
+<a id="section-50115"></a>
+## § 50115. Sources of Earth science data
+**(a) Acquisition.—** The Administrator shall, to the extent possible and while satisfying the scientific or educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost-effective, space-based and airborne Earth remote sensing data, services, distribution, and applications from a commercial provider.
+
+**(b) Treatment as Commercial Item Under Acquisition Laws.—** Acquisitions by the Administrator of the data, services, distribution, and applications referred to in subsection (a) shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, such data, services, distribution, and applications shall be considered to be a commercial item. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+
+**(c) Safety Standards.—** Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+
+**(d) Administration and Execution.—** This section shall be carried out as part of the Commercial Remote Sensing Program at the Stennis Space Center.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50115(a) | [42 U.S.C. 14715(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14715/a&num=0&edition=prelim). | Pub. L. 105–303, title I, § 107(a), (b), (d), (e), Oct. 28, 1998, 112 Stat. 2853, 2854. |
+| 50115(b) | [42 U.S.C. 14715(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14715/b&num=0&edition=prelim). |  |
+| 50115(c) | [42 U.S.C. 14715(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14715/d&num=0&edition=prelim). |  |
+| 50115(d) | [42 U.S.C. 14715(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14715/e&num=0&edition=prelim). |  |
+
+
+<a id="section-50116"></a>
+## § 50116. Commercial technology transfer program
+**(a) In General.—** The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector (“spinning out”) as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community.
+
+**(b) Program Structure.—** In carrying out the program described in subsection (a), the Administrator shall provide program participants with at least 45 days notice of any proposed changes to the structure of the Administration’s technology transfer and commercialization organizations that is in effect as of December 30, 2005.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50116 | [42 U.S.C. 16811](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16811&num=0&edition=prelim). | Pub. L. 109–155, title VI, § 621, Dec. 30, 2005, 119 Stat. 2935. |
+
+This section restates provisions originally enacted as part of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895), and not as part of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843), which is generally restated in this chapter.
+
+In subsection (a), in the last sentence, the word “Administration” is substituted for “agency” for clarity and because of the definition of “Administration” added by [section 10101 of title 51](./chapter-101-definitions.md#section-10101).
+
+In subsection (b), the date “December 30, 2005” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
+
+
+<a id="section-50131"></a>
+## § 50131. Requirement to procure commercial space transportation services
+**(a) In General.—** Except as otherwise provided in this section, the Federal Government shall acquire space transportation services from United States commercial providers whenever such services are required in the course of its activities. To the maximum extent practicable, the Federal Government shall plan missions to accommodate the space transportation services capabilities of United States commercial providers.
+
+**(b) Exceptions.—** The Federal Government shall not be required to acquire space transportation services under subsection (a) if, on a case-by-case basis, the Administrator or, in the case of a national security issue, the Secretary of the Air Force, determines that—
+
+(1) a payload requires the unique capabilities of the space shuttle;
+
+(2) cost effective space transportation services that meet specific mission requirements would not be reasonably available from United States commercial providers when required;
+
+(3) the use of space transportation services from United States commercial providers poses an unacceptable risk of loss of a unique scientific opportunity;
+
+(4) the use of space transportation services from United States commercial providers is inconsistent with national security objectives;
+
+(5) the use of space transportation services from United States commercial providers is inconsistent with international agreements for international collaborative efforts relating to science and technology;
+
+(6) it is more cost effective to transport a payload in conjunction with a test or demonstration of a space transportation vehicle owned by the Federal Government; or
+
+(7) a payload can make use of the available cargo space on a space shuttle mission as a secondary payload, and such payload is consistent with the requirements of research, development, demonstration, scientific, commercial, and educational programs authorized by the Administrator.
+
+**(c) Agreements With Foreign Entities.—** Nothing in this section shall prevent the Administrator from planning or negotiating agreements with foreign entities for the launch of Federal Government payloads for international collaborative efforts relating to science and technology.
+
+**(d) Delayed Effect.—** Subsection (a) shall not apply to space transportation services and space transportation vehicles acquired or owned by the Federal Government before October 28, 1998, or with respect to which a contract for such acquisition or ownership has been entered into before October 28, 1998.
+
+**(e) Historical Purposes.—** This section shall not be construed to prohibit the Federal Government from acquiring, owning, or maintaining space transportation vehicles solely for historical display purposes.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50131(a) | [42 U.S.C. 14731(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14731/a&num=0&edition=prelim). | Pub. L. 105–303, title II, § 201, Oct. 28, 1998, 112 Stat. 2854. |
+| 50131(b) | [42 U.S.C. 14731(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14731/b&num=0&edition=prelim) (less last sentence). |  |
+| 50131(c) | [42 U.S.C. 14731(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14731/b&num=0&edition=prelim) (last sentence). |  |
+| 50131(d) | [42 U.S.C. 14731(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14731/c&num=0&edition=prelim). |  |
+| 50131(e) | [42 U.S.C. 14731(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14731/d&num=0&edition=prelim). |  |
+
+In subsection (d), the date “October 28, 1998” is substituted for “the date of the enactment of this Act” and for “such date” to reflect the date of enactment of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843).
+
+
+<a id="section-50132"></a>
+## § 50132. Acquisition of commercial space transportation services
+**(a) Treatment of Commercial Space Transportation Services as Commercial Item Under Acquisition Laws.—** Acquisitions of space transportation services by the Federal Government shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space transportation services shall be considered to be a commercial item.
+
+**(b) Safety Standards.—** Nothing in this section shall be construed to prohibit the Federal Government from requiring compliance with applicable safety standards.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50132 | [42 U.S.C. 14732](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14732&num=0&edition=prelim). | Pub. L. 105–303, title II, § 202, Oct. 28, 1998, 112 Stat. 2855. |
+
+
+<a id="section-50133"></a>
+## § 50133. Shuttle privatization
+
+The Administrator shall prepare for an orderly transition from the Federal operation, or Federal management of contracted operation, of space transportation systems to the Federal purchase of commercial space transportation services for all nonemergency space transportation requirements for transportation to and from Earth orbit, including human, cargo, and mixed payloads. In those preparations, the Administrator shall take into account the need for short-term economies, as well as the goal of restoring the Administration’s research focus and its mandate to promote the fullest possible commercial use of space. As part of those preparations, the Administrator shall plan for the potential privatization of the space shuttle program. Such plan shall keep safety and cost effectiveness as high priorities. Nothing in this section shall prohibit the Administration from studying, designing, developing, or funding upgrades or modifications essential to the safe and economical operation of the space shuttle fleet.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50133 | [42 U.S.C. 14733(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14733/a&num=0&edition=prelim). | Pub. L. 105–303, title II, § 204(a), Oct. 28, 1998, 112 Stat. 2856. |
+
+
+<a id="section-50134"></a>
+## § 50134. Use of excess intercontinental ballistic missiles
+**(a) In General.—** The Federal Government shall not—
+
+(1) convert any missile described in subsection (c) to a space transportation vehicle configuration; or
+
+(2) transfer ownership of any such missile to another person, except as provided in subsection (b).
+
+**(b) Authorized Federal Uses.—**
+
+(1) **In general.—** — A missile described in subsection (c) may be converted for use as a space transportation vehicle by the Federal Government if, except as provided in paragraph (2) and at least 30 days before such conversion, the agency seeking to use the missile as a space transportation vehicle transmits to the Committee on Armed Services and the Committee on Science and Technology of the House of Representatives, and to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, a certification that the use of such missile—
+
+  (A) would result in cost savings to the Federal Government when compared to the cost of acquiring space transportation services from United States commercial providers;
+
+  (B) meets all mission requirements of the agency, including performance, schedule, and risk requirements;
+
+  (C) is consistent with international obligations of the United States; and
+
+  (D) is approved by the Secretary of Defense or the designee of the Secretary of Defense.
+
+(2) **Exception to requirement that certification be transmitted 30 days before conversion.—** — The requirement under paragraph (1) that the certification described in that paragraph must be transmitted at least 30 days before conversion of the missile shall not apply if the Secretary of Defense determines that compliance with that requirement would be inconsistent with meeting immediate national security requirements.
+
+**(c) Missiles Referred to.—** The missiles referred to in this section are missiles owned by the United States that—
+
+(1) were formerly used by the Department of Defense for national defense purposes as intercontinental ballistic missiles; and
+
+(2) have been declared excess to United States national defense needs and are in compliance with international obligations of the United States.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 50134 | [42 U.S.C. 14734](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14734&num=0&edition=prelim). | Pub. L. 105–303, title II, § 205, Oct. 28, 1998, 112 Stat. 2857; Pub. L. 106–65, div. A, title X, § 1067(21), Oct. 5, 1999, 113 Stat. 775. |
+
+In subsection (b)(1), in the matter before subparagraph (A), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+
+#### Change of Name
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.

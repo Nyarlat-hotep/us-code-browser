@@ -1,0 +1,713 @@
+---
+title: 35
+chapter: '14'
+heading: ISSUE OF PATENT
+section_count: 7
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35&num=0&edition=prelim
+---
+<a id="section-151"></a>
+## § 151. Issue of patent
+
+If it appears that applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee or a portion thereof, which shall be paid within three months thereafter.
+
+### Statutory Notes
+
+#### Repeal and Reenactment of Section
+Pub. L. 112–211, title II, §§ 202(b)(6), 203, Dec. 18, 2012, 126 Stat. 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is repealed and a new section 151 enacted to read as follows: § 151. Issue of patent
+
+(a) In General.—If it appears that an applicant is entitled to a patent under the law, a written notice of allowance of the application shall be given or mailed to the applicant. The notice shall specify a sum, constituting the issue fee and any required publication fee, which shall be paid within 3 months thereafter.
+
+(b) Effect of Payment.—Upon payment of this sum the patent may issue, but if payment is not timely made, the application shall be regarded as abandoned.
+
+#### Historical and Revision Notes
+Based on Title 35, U.S.C., 1946 ed., § 41 (R.S. 4885, amended (1) May 23, 1908, ch. 189, 35 Stat. 246, (2) Aug. 9, 1939, § 2, ch. 619, 53 Stat. 1293).
+
+Language is changed.
+
+#### Amendments
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in last par.
+
+1975—Pub. L. 93–601 substituted “and the delay in payment is shown to have been unavoidable,” for “within three months after the due date and sufficient cause is shown for the late payment,” in last par.
+
+1965—Pub. L. 89–83 substituted provisions requiring a notice of allowance to be sent to the applicant, the notice of allowance to specify a sum, constituting the issue fee or a portion thereof, which shall be paid within 3 months thereafter, the patent to issue upon payment of this sum, the application to be deemed abandoned if the sum is not paid, and any remaining balance of the fee to be paid within 3 months after issuance of the patent shall lapse, and permitting the Commissioner within 3 months after the due date of an unpaid fee on a showing of sufficient cause to accept late payment as though no abandonment or lapse had occurred, for provisions which required a notice of allowance to be sent to the applicant, the final fee to be paid within 6 months after the notice, the patent to be issued within 3 months from the date of the payment, and which permitted delayed payment of the issue fee up to 1 year.
+
+#### Effective Date of Repeal
+Repeal effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, see section 203 of Pub. L. 112–211, set out as an Effective Date note under [section 27 of this title](./chapter-002-proceedings-in-the-patent-and-trademark-office.md#section-27).
+
+#### Effective Date of 1999 Amendment
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
+
+#### Effective Date of 1975 Amendment
+Amendment by Pub. L. 93–601 effective Jan. 2, 1975, with examiners-in-chief in office on such date to continue with existing appointment, see section 4(b) of Pub. L. 93–601, set out as a note under [section 3 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-3).
+
+#### Effective Date of 1965 Amendment
+Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see section 7(a) of Pub. L. 89–83, set out as a note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
+#### Acceptance of Late Payment of Issue Fees by Commissioner
+Pub. L. 93–601, § 4(a), Jan. 2, 1975, 88 Stat. 1956, provided that: “The Commissioner of Patents [now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] may, in accordance with Section 3 of this Act [amending this section], accept late payment of issue fees, the payment of which was governed by the provisions of Public Law 89–93 [probably should refer to Public Law 89–83, which amended sections 41, 112, and 151 of this title and [section 1113 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1113&num=0&edition=prelim), Commerce and Trade]; Provided: the term of the patent for which late payment of such an issue fee is accepted shall expire earlier than the time specified in [Section 154 of Title 35](./chapter-014-issue-of-patent.md#section-154), United States Code by a period equal to the delay between the time the application became abandoned or the patent lapsed for failure to pay the issue fee and the time the late payment is accepted after enactment of this Act [Jan. 2, 1975]; Further Provided: no patent with respect to which the issue fee was governed by the provisions of PL 89–83 and for which a late payment of the issue fee is accepted under the authority created by Section 3 of this Act, shall abridge or affect the right of any person or his successors in business who made, purchased or used anything covered by the patent, after the date of the application became abandoned or patent lapsed for failure to pay the issue fee but prior to the grant or restoration of the patent, to continue the use of or to sell to others to be used or sold, the specific thing so made, purchased, or used. A court before which such matter is in question may provide for the continued manufacture, use or sale of the thing made, purchased or used as specified, or for the manufacture, use or sale of which substantial preparation was made after the date the application became abandoned or patent lapsed for failure to pay the fee but prior to the grant or restoration of the patent, and it may also provide for the continued practice of any process covered by the patent, practiced, or for the practice of which substantial preparation was made, after the date the application became abandoned or patent lapsed for failure to pay the issue fee but prior to the grant or restoration of the patent, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced before the grant or restoration of the patent.”
+
+
+<a id="section-152"></a>
+## § 152. Issue of patent to assignee
+
+Patents may be granted to the assignee of the inventor of record in the Patent and Trademark Office, upon the application made and the specification sworn to by the inventor, except as otherwise provided in this title.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on Title 35, U.S.C., 1946 ed., § 44 (R.S. 4895).
+
+Language is changed and the reference to reissue is omitted in view of the general provision in section 251.
+
+#### Amendments
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+
+#### Effective Date of 1975 Amendment
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under [section 1111 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1111&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-153"></a>
+## § 153. How issued
+
+Patents shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon and shall be recorded in the Patent and Trademark Office.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on Title 35, U.S.C., 1946 ed., § 39 (R.S. 4883, amended (1) Feb. 18, 1888, ch. 15, 25 Stat. 40, (2) April 11, 1903, ch. 417, 32 Stat. 95, (3) Feb. 18, 1922, ch. 58, § 5, 42 Stat. 391).
+
+The phrases referring to the attesting officers and to the recording of the patents are broadened.
+
+#### Amendments
+2002—Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+Pub. L. 107–273, § 13203(c), struck out “and attested by an officer of the Patent and Trademark Office designated by the Director,” after “signature placed thereon”.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
+
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
+
+#### Effective Date of 1999 Amendment
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
+
+#### Effective Date of 1975 Amendment
+Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under [section 1111 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1111&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-154"></a>
+## § 154. Contents and term of patent; provisional rights
+**(a) In General.—**
+
+(1) **Contents.—** — Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, of the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States, and, if the invention is a process, of the right to exclude others from using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process, referring to the specification for the particulars thereof.
+
+(2) **Term.—** — Subject to the payment of fees under this title, such grant shall be for a term beginning on the date on which the patent issues and ending 20 years from the date on which the application for the patent was filed in the United States or, if the application contains a specific reference to an earlier filed application or applications under section 120, 121, or 365(c), from the date on which the earliest such application was filed.
+
+(3) **Priority.—** — Priority under section 119, 365(a), or 365(b) shall not be taken into account in determining the term of a patent.
+
+(4) **Specification and drawing.—** — A copy of the specification and drawing shall be annexed to the patent and be a part of such patent.
+
+**(b) Adjustment of Patent Term.—**
+
+(1) **Patent term guarantees.—**
+
+  (A) *Guarantee of prompt patent and trademark office responses.—* — Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to the failure of the Patent and Trademark Office to—
+
+    (i) provide at least one of the notifications under section 132 or a notice of allowance under section 151 not later than 14 months after—
+
+      (I) the date on which an application was filed under section 111(a); or
+
+      (II) the date of commencement of the national stage under section 371 in an international application;
+
+    (ii) respond to a reply under section 132, or to an appeal taken under section 134, within 4 months after the date on which the reply was filed or the appeal was taken;
+
+    (iii) act on an application within 4 months after the date of a decision by the Patent Trial and Appeal Board under section 134 or 135 or a decision by a Federal court under section 141, 145, or 146 in a case in which allowable claims remain in the application; or
+
+    (iv) issue a patent within 4 months after the date on which the issue fee was paid under section 151 and all outstanding requirements were satisfied,
+    the term of the patent shall be extended 1 day for each day after the end of the period specified in clause (i), (ii), (iii), or (iv), as the case may be, until the action described in such clause is taken.
+
+  (B) *Guarantee of no more than 3-year application pendency.—* — Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to the failure of the United States Patent and Trademark Office to issue a patent within 3 years after the actual filing date of the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application, not including—
+
+    (i) any time consumed by continued examination of the application requested by the applicant under section 132(b);
+
+    (ii) any time consumed by a proceeding under section 135(a), any time consumed by the imposition of an order under section 181, or any time consumed by appellate review by the Patent Trial and Appeal Board or by a Federal court; or
+
+    (iii) any delay in the processing of the application by the United States Patent and Trademark Office requested by the applicant except as permitted by paragraph (3)(C),
+    the term of the patent shall be extended 1 day for each day after the end of that 3-year period until the patent is issued.
+
+  (C) *Guarantee of adjustments for delays due to derivation proceedings, secrecy orders, and appeals.—* — Subject to the limitations under paragraph (2), if the issue of an original patent is delayed due to—
+
+    (i) a proceeding under section 135(a);
+
+    (ii) the imposition of an order under section 181; or
+
+    (iii) appellate review by the Patent Trial and Appeal Board or by a Federal court in a case in which the patent was issued under a decision in the review reversing an adverse determination of patentability,
+    the term of the patent shall be extended 1 day for each day of the pendency of the proceeding, order, or review, as the case may be.
+
+(2) **Limitations.—**
+
+  (A) *In general.—* — To the extent that periods of delay attributable to grounds specified in paragraph (1) overlap, the period of any adjustment granted under this subsection shall not exceed the actual number of days the issuance of the patent was delayed.
+
+  (B) *Disclaimed term.—* — No patent the term of which has been disclaimed beyond a specified date may be adjusted under this section beyond the expiration date specified in the disclaimer.
+
+  (C) *Reduction of period of adjustment.—*
+
+    (i) The period of adjustment of the term of a patent under paragraph (1) shall be reduced by a period equal to the period of time during which the applicant failed to engage in reasonable efforts to conclude prosecution of the application.
+
+    (ii) With respect to adjustments to patent term made under the authority of paragraph (1)(B), an applicant shall be deemed to have failed to engage in reasonable efforts to conclude processing or examination of an application for the cumulative total of any periods of time in excess of 3 months that are taken to respond to a notice from the Office making any rejection, objection, argument, or other request, measuring such 3-month period from the date the notice was given or mailed to the applicant.
+
+    (iii) The Director shall prescribe regulations establishing the circumstances that constitute a failure of an applicant to engage in reasonable efforts to conclude processing or examination of an application.
+
+(3) **Procedures for patent term adjustment determination.—**
+
+  (A) The Director shall prescribe regulations establishing procedures for the application for and determination of patent term adjustments under this subsection.
+
+  (B) Under the procedures established under subparagraph (A), the Director shall—
+
+    (i) make a determination of the period of any patent term adjustment under this subsection, and shall transmit a notice of that determination no later than the date of issuance of the patent; and
+
+    (ii) provide the applicant one opportunity to request reconsideration of any patent term adjustment determination made by the Director.
+
+  (C) The Director shall reinstate all or part of the cumulative period of time of an adjustment under paragraph (2)(C) if the applicant, prior to the issuance of the patent, makes a showing that, in spite of all due care, the applicant was unable to respond within the 3-month period, but in no case shall more than three additional months for each such response beyond the original 3-month period be reinstated.
+
+  (D) The Director shall proceed to grant the patent after completion of the Director’s determination of a patent term adjustment under the procedures established under this subsection, notwithstanding any appeal taken by the applicant of such determination.
+
+(4) **Appeal of patent term adjustment determination.—**
+
+  (A) An applicant dissatisfied with the Director’s decision on the applicant’s request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy by a civil action against the Director filed in the United States District Court for the Eastern District of Virginia within 180 days after the date of the Director’s decision on the applicant’s request for reconsideration. Chapter 7 of title 5 shall apply to such action. Any final judgment resulting in a change to the period of adjustment of the patent term shall be served on the Director, and the Director shall thereafter alter the term of the patent to reflect such change.
+
+  (B) The determination of a patent term adjustment under this subsection shall not be subject to appeal or challenge by a third party prior to the grant of the patent.
+
+**(c) Continuation.—**
+
+(1) **Determination.—** — The term of a patent that is in force on or that results from an application filed before the date that is 6 months after the date of the enactment of the Uruguay Round Agreements Act shall be the greater of the 20-year term as provided in subsection (a), or 17 years from grant, subject to any terminal disclaimers.
+
+(2) **Remedies.—** — The remedies of sections 283, 284, and 285 shall not apply to acts which—
+
+  (A) were commenced or for which substantial investment was made before the date that is 6 months after the date of the enactment of the Uruguay Round Agreements Act; and
+
+  (B) became infringing by reason of paragraph (1).
+
+(3) **Remuneration.—** — The acts referred to in paragraph (2) may be continued only upon the payment of an equitable remuneration to the patentee that is determined in an action brought under chapter 28 and chapter 29 (other than those provisions excluded by paragraph (2)).
+
+**(d) Provisional Rights.—**
+
+(1) **In general.—** — In addition to other rights provided by this section, a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b), or in the case of an international application filed under the treaty defined in section 351(a) designating the United States under Article 21(2)(a) of such treaty, the date of publication of the application, and ending on the date the patent is issued—
+
+  (A)
+
+    (i) makes, uses, offers for sale, or sells in the United States the invention as claimed in the published patent application or imports such an invention into the United States; or
+
+    (ii) if the invention as claimed in the published patent application is a process, uses, offers for sale, or sells in the United States or imports into the United States products made by that process as claimed in the published patent application; and
+
+  (B) had actual notice of the published patent application and, in a case in which the right arising under this paragraph is based upon an international application designating the United States that is published in a language other than English, had a translation of the international application into the English language.
+
+(2) **Right based on substantially identical inventions.—** — The right under paragraph (1) to obtain a reasonable royalty shall not be available under this subsection unless the invention as claimed in the patent is substantially identical to the invention as claimed in the published patent application.
+
+(3) **Time limitation on obtaining a reasonable royalty.—** — The right under paragraph (1) to obtain a reasonable royalty shall be available only in an action brought not later than 6 years after the patent is issued. The right under paragraph (1) to obtain a reasonable royalty shall not be affected by the duration of the period described in paragraph (1).
+
+(4) **Requirements for international applications.—**
+
+  (A) *Effective date.—* — The right under paragraph (1) to obtain a reasonable royalty based upon the publication under the treaty defined in section 351(a) of an international application designating the United States shall commence on the date of publication under the treaty of the international application, or, if the publication under the treaty of the international application is in a language other than English, on the date on which the Patent and Trademark Office receives a translation of the publication in the English language.
+
+  (B) *Copies.—* — The Director may require the applicant to provide a copy of the international application and a translation thereof.
+
+### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 112–211, title I, §§ 102(6), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, this section is amended as follows:
+
+(1) in subsection (a)(2), by substituting “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”;
+
+(2) in subsection (a)(3), by substituting “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”; and
+
+(3) in subsection (d)(1), by inserting “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty”.
+
+See 2012 Amendment notes below.
+
+#### Historical and Revision Notes
+Based on Title 35, U.S.C., 1946 ed., § 40 (R.S. 4884, amended May 23, 1930, ch. 312, § 1, 46 Stat. 376).
+
+The reference to plants is omitted for inclusion in another section and the reference to the title is shortened since the title is of no legal significance.
+
+The wording of the granting clause is changed to “the right to exclude others from making, using, or selling”, following language used by the Supreme Court, to render the meaning clearer.
+
+“United States” is defined in section 100.
+
+#### References in Text
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+
+#### Amendments
+2013—Subsec. (b)(1)(A)(i)(II). Pub. L. 112–274, § 1(h)(1)(A), which directed substitution of “of commencement of the national stage under section 371 in an international application” for “on which an international application fulfilled the requirements of [section 371 of this title](./chapter-037-national-stage.md#section-371)”, was executed by making the substitution for “on which an international application fulfilled the requirements of section 371”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–29, § 20(j). See 2011 Amendment note below.
+
+Subsec. (b)(1)(B). Pub. L. 112–274, § 1(h)(1)(B), substituted “the application under section 111(a) in the United States or, in the case of an international application, the date of commencement of the national stage under section 371 in the international application” for “the application in the United States” in introductory provisions.
+
+Subsec. (b)(3)(B)(i). Pub. L. 112–274, § 1(h)(2), substituted “no later than the date of issuance of the patent” for “with the written notice of allowance of the application under section 151”.
+
+Subsec. (b)(4)(A). Pub. L. 112–274, § 1(h)(3), substituted “the Director’s decision on the applicant’s request for reconsideration under paragraph (3)(B)(ii) shall have exclusive remedy” for “a determination made by the Director under paragraph (3) shall have remedy” and “the date of the Director’s decision on the applicant’s request for reconsideration” for “the grant of the patent”.
+
+2012—Subsec. (a)(2). Pub. L. 112–211, § 102(6)(A)(i), substituted “section 120, 121, 365(c), or 386(c)” for “section 120, 121, or 365(c)”.
+
+Subsec. (a)(3). Pub. L. 112–211, § 102(6)(A)(ii), substituted “section 119, 365(a), 365(b), 386(a), or 386(b)” for “section 119, 365(a), or 365(b)”.
+
+Subsec. (d)(1). Pub. L. 112–211, § 102(6)(B), inserted “or an international design application filed under the treaty defined in section 381(a)(1) designating the United States under Article 5 of such treaty” after “Article 21(2)(a) of such treaty” in introductory provisions.
+
+2011—Subsec. (a)(2). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(c)”.
+
+Subsec. (a)(3). Pub. L. 112–29, § 20(j), struck out “of this title” after “365(b)”.
+
+Subsec. (b)(1)(A)(i). Pub. L. 112–29, § 20(j), in introductory provisions, struck out “of this title” after “132” and after “151”.
+
+Subsec. (b)(1)(A)(i)(I). Pub. L. 112–29, § 20(j), struck out “of this title” after “111(a)”.
+
+Subsec. (b)(1)(A)(i)(II). Pub. L. 112–29, § 20(j), struck out “of this title” after “371”.
+
+Subsec. (b)(1)(A)(iii), (B)(ii). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+
+Subsec. (b)(1)(C). Pub. L. 112–29, § 3(j)(2)(B), amended heading generally. Prior to amendment, heading read as follows: “Guarantee or adjustments for delays due to interferences, secrecy orders, and appeals”.
+
+Subsec. (b)(1)(C)(iii). Pub. L. 112–29, § 3(j)(1), substituted “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”.
+
+Subsec. (b)(4)(A). Pub. L. 112–29, § 9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+
+Subsec. (c)(2). Pub. L. 112–29, § 20(j), in introductory provisions, struck out “of this title” after “285”.
+
+Subsec. (c)(3). Pub. L. 112–29, § 20(j), struck out “of this title” after “excluded by paragraph (2))”.
+
+2002—Subsec. (b)(4)(A). Pub. L. 107–273, § 13206(a)(8), struck out “, United States Code,” after “title 5”.
+
+Subsec. (d)(4)(A). Pub. L. 107–273, § 13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent and Trademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
+
+1999—Pub. L. 106–113, § 1000(a)(9) [title IV, § 4504(1)], inserted “; provisional rights” after “patent” in section catchline.
+
+Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4402(a)], amended heading and text of subsec. (b) generally. Prior to amendment, text provided for interference delay or secrecy orders, extensions for appellate review, a limitations period, and a maximum period of 5 years duration for all extensions.
+
+Subsec. (d). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4504(2)], added subsec. (d).
+
+1996—Subsec. (c)(2). Pub. L. 104–295 substituted “acts” for “Acts” in introductory provisions.
+
+1994—Pub. L. 103–465 amended section catchline and text generally. Prior to amendment, text read as follows: “Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, for the term of seventeen years, subject to the payment of fees as provided for in this title, of the right to exclude others from making, using, or selling the invention throughout the United States and, if the invention is a process, of the right to exclude others from using or selling throughout the United States, or importing into the United States, products made by that process,, referring to the specification for the particulars thereof. A copy of the specification and drawings shall be annexed to the patent and be a part thereof.”
+
+1988—Pub. L. 100–418 inserted “and, if the invention is a process, of the right to exclude others from using or selling throughout the United States, or importing into the United States, products made by that process,” after “United States”.
+
+1980—Pub. L. 96–517 substituted “payment of fees” for “payment of issue fees”.
+
+1965—Pub. L. 89–83 added “subject to the payment of issue fees as provided for in this title”.
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 112–274 effective Jan. 14, 2013, and applicable to proceedings commenced on or after such date, see section 1(n) of Pub. L. 112–274, set out as a note under [section 5 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-5).
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–211 effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, see section 103 of Pub. L. 112–211, set out as a note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+
+#### Effective Date of 2011 Amendment
+Amendment by section 3(j)(1), (2)(B) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under [section 100 of this title](./chapter-010-patentability-of-inventions.md#section-100).
+
+Amendment by section 9(a) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to any civil action commenced on or after that date, see section 9(b) of Pub. L. 112–29, set out as a note under [section 1071 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1071&num=0&edition=prelim), Commerce and Trade.
+
+Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under [section 2 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-2).
+
+#### Effective Date of 1999 Amendment
+Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4405(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that: “The amendments made by sections 4402 and 4404 [amending this section, sections 156 and 282 of this title, and [section 1295 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1295&num=0&edition=prelim), Judiciary and Judicial Procedure] shall take effect on the date that is 6 months after the date of the enactment of this Act [Nov. 29, 1999] and, except for a design patent application filed under chapter 16 of title 35, United States Code, shall apply to any application filed on or after the date that is 6 months after the date of the enactment of this Act.”
+
+Amendment by section 1000(a)(9) [title IV, § 4504] of Pub. L. 106–113 effective Nov. 29, 2000, applicable only to applications (including international applications designating the United States) filed on or after that date, and additionally applicable to any pending application filed before Nov. 29, 2000, if such pending application is published pursuant to a request of the applicant under such procedures as may be established by the Director, see section 1000(a)(9) [title IV, § 4508] of Pub. L. 106–113, as amended, set out as a note under [section 10 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-10).
+
+#### Effective Date of 1994 Amendment
+Pub. L. 103–465, title V, § 534, Dec. 8, 1994, 108 Stat. 4990, provided that: “(a) In General.—Subject to subsection (b), the amendments made by this subtitle [subtitle C (§§ 531–534) of title V of Pub. L. 103–465, amending this section and sections 41, 104, 111, 119, 156, 172, 173, 252, 262, 271, 272, 287, 292, 295, 307, 365, and 373 of this title] take effect on the date that is one year after the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995]. “(b) Patent Applications.—“(1) In general.—Subject to paragraph (2), the amendments made by section 532 [amending this section and sections 41, 111, 119, 156, 172, 173, 365, and 373 of this title] take effect on the date that is 6 months after the date of the enactment of this Act [Dec. 8, 1994] and shall apply to all patent applications filed in the United States on or after the effective date. “(2) Section 154(a)(1).—[Section 154(a)(1) of title 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section154/a/1&num=0&edition=prelim), United States Code, as amended by section 532(a)(1) of this Act, shall take effect on the effective date described in subsection (a). “(3) Earliest filing.—The term of a patent granted on an application that is filed on or after the effective date described in subsection (a) and that contains a specific reference to an earlier application filed under the provisions of section 120, 121, or 365(c) of title 35, United States Code, shall be measured from the filing date of the earliest filed application.”
+
+#### Effective Date of 1988 Amendment
+Amendment by Pub. L. 100–418 effective 6 months after Aug. 23, 1988, and, subject to enumerated exceptions, applicable only with respect to products made or imported after such effective date, see section 9006 of Pub. L. 100–418, set out as a note under [section 271 of this title](./chapter-028-infringement-of-patents.md#section-271).
+
+#### Effective Date of 1980 Amendment
+Amendment by Pub. L. 96–517 effective Dec. 12, 1980, see section 8(a) of Pub. L. 96–517, set out as a note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
+#### Effective Date of 1965 Amendment
+Amendment by Pub. L. 89–83 effective three months after July 24, 1965, see section 7(a) of Pub. L. 89–83, set out as a note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41).
+
+#### Regulations
+Pub. L. 103–465, title V, § 532(a)(2), Dec. 8, 1994, 108 Stat. 4985, authorized the Commissioner of Patents and Trademarks to prescribe regulations for further limited reexamination of applications pending 2 years or longer and for examination of more than 1 independent and distinct invention in applications pending 3 years or longer, as of the effective date of [section 154(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35-section154/a/2&num=0&edition=prelim), and to establish appropriate related fees.
+
+
+<a id="section-155-155a"></a>
+## § 155, 155A. Repealed. Pub. L. 112–29, § 20(k), Sept. 16, 2011, 125 Stat. 335]
+
+### Statutory Notes
+
+Section 155, added Pub. L. 97–414, § 11(a), Jan. 4, 1983, 96 Stat. 2065; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(6), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to patent term extension.
+
+Section 155A, added Pub. L. 98–127, § 4(a), Oct. 13, 1983, 97 Stat. 832; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(7), (10)(A)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906, related to patent term restoration.
+
+#### Effective Date of Repeal
+Repeal effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment note under [section 2 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-2).
+
+
+<a id="section-156"></a>
+## § 156. Extension of patent term
+**(a)** The term of a patent which claims a product, a method of using a product, or a method of manufacturing a product shall be extended in accordance with this section from the original expiration date of the patent, which shall include any patent term adjustment granted under section 154(b), if—
+
+(1) the term of the patent has not expired before an application is submitted under subsection (d)(1) for its extension;
+
+(2) the term of the patent has never been extended under subsection (e)(1) of this section;
+
+(3) an application for extension is submitted by the owner of record of the patent or its agent and in accordance with the requirements of paragraphs (1) through (4) of subsection (d);
+
+(4) the product has been subject to a regulatory review period before its commercial marketing or use;
+
+(5)
+
+  (A) except as provided in subparagraph (B) or (C), the permission for the commercial marketing or use of the product after such regulatory review period is the first permitted commercial marketing or use of the product under the provision of law under which such regulatory review period occurred;
+
+  (B) in the case of a patent which claims a method of manufacturing the product which primarily uses recombinant DNA technology in the manufacture of the product, the permission for the commercial marketing or use of the product after such regulatory review period is the first permitted commercial marketing or use of a product manufactured under the process claimed in the patent; or
+
+  (C) for purposes of subparagraph (A), in the case of a patent which—
+
+    (i) claims a new animal drug or a veterinary biological product which (I) is not covered by the claims in any other patent which has been extended, and (II) has received permission for the commercial marketing or use in non-food-producing animals and in food-producing animals, and
+
+    (ii) was not extended on the basis of the regulatory review period for use in non-food-producing animals,
+    the permission for the commercial marketing or use of the drug or product after the regulatory review period for use in food-producing animals is the first permitted commercial marketing or use of the drug or product for administration to a food-producing animal.
+The product referred to in paragraphs (4) and (5) is hereinafter in this section referred to as the “approved product”.
+
+**(b)** Except as provided in subsection (d)(5)(F), the rights derived from any patent the term of which is extended under this section shall during the period during which the term of the patent is extended—
+
+(1) in the case of a patent which claims a product, be limited to any use approved for the product—
+
+  (A) before the expiration of the term of the patent—
+
+    (i) under the provision of law under which the applicable regulatory review occurred, or
+
+    (ii) under the provision of law under which any regulatory review described in paragraph (1), (4), or (5) of subsection (g) occurred, and
+
+  (B) on or after the expiration of the regulatory review period upon which the extension of the patent was based;
+
+(2) in the case of a patent which claims a method of using a product, be limited to any use claimed by the patent and approved for the product—
+
+  (A) before the expiration of the term of the patent—
+
+    (i) under any provision of law under which an applicable regulatory review occurred, and
+
+    (ii) under the provision of law under which any regulatory review described in paragraph (1), (4), or (5) of subsection (g) occurred, and
+
+  (B) on or after the expiration of the regulatory review period upon which the extension of the patent was based; and
+
+(3) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make—
+
+  (A) the approved product, or
+
+  (B) the product if it has been subject to a regulatory review period described in paragraph (1), (4), or (5) of subsection (g).
+As used in this subsection, the term “product” includes an approved product.
+
+**(c)** The term of a patent eligible for extension under subsection (a) shall be extended by the time equal to the regulatory review period for the approved product which period occurs after the date the patent is issued, except that—
+
+(1) each period of the regulatory review period shall be reduced by any period determined under subsection (d)(2)(B) during which the applicant for the patent extension did not act with due diligence during such period of the regulatory review period;
+
+(2) after any reduction required by paragraph (1), the period of extension shall include only one-half of the time remaining in the periods described in paragraphs (1)(B)(i), (2)(B)(i), (3)(B)(i), (4)(B)(i), and (5)(B)(i) of subsection (g);
+
+(3) if the period remaining in the term of a patent after the date of the approval of the approved product under the provision of law under which such regulatory review occurred when added to the regulatory review period as revised under paragraphs (1) and (2) exceeds fourteen years, the period of extension shall be reduced so that the total of both such periods does not exceed fourteen years; and
+
+(4) in no event shall more than one patent be extended under subsection (e)(1) for the same regulatory review period for any product.
+
+**(d)**
+
+(1) To obtain an extension of the term of a patent under this section, the owner of record of the patent or its agent shall submit an application to the Director. Except as provided in paragraph (5), such an application may only be submitted within the sixty-day period beginning on the date the product received permission under the provision of law under which the applicable regulatory review period occurred for commercial marketing or use. The application shall contain—
+
+  (A) the identity of the approved product and the Federal statute under which regulatory review occurred;
+
+  (B) the identity of the patent for which an extension is being sought and the identity of each claim of such patent which claims the approved product or a method of using or manufacturing the approved product;
+
+  (C) information to enable the Director to determine under subsections (a) and (b) the eligibility of a patent for extension and the rights that will be derived from the extension and information to enable the Director and the Secretary of Health and Human Services or the Secretary of Agriculture to determine the period of the extension under subsection (g);
+
+  (D) a brief description of the activities undertaken by the applicant during the applicable regulatory review period with respect to the approved product and the significant dates applicable to such activities; and
+
+  (E) such patent or other information as the Director may require.
+  For purposes of determining the date on which a product receives permission under the second sentence of this paragraph, if such permission is transmitted after 4:30 P.M., Eastern Time, on a business day, or is transmitted on a day that is not a business day, the product shall be deemed to receive such permission on the next business day. For purposes of the preceding sentence, the term “business day” means any Monday, Tuesday, Wednesday, Thursday, or Friday, excluding any legal holiday under [section 6103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6103&num=0&edition=prelim).
+
+(2)
+
+  (A) Within 60 days of the submittal of an application for extension of the term of a patent under paragraph (1), the Director shall notify—
+
+    (i) the Secretary of Agriculture if the patent claims a drug product or a method of using or manufacturing a drug product and the drug product is subject to the Virus-Serum-Toxin Act, and
+
+    (ii) the Secretary of Health and Human Services if the patent claims any other drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act,
+    of the extension application and shall submit to the Secretary who is so notified a copy of the application. Not later than 30 days after the receipt of an application from the Director, the Secretary receiving the application shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Director of the determination, and shall publish in the Federal Register a notice of such determination.
+
+  (B)
+
+    (i) If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulations promulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Director 11 So in original. Probably should be “Commissioner”. of Food and Drugs. For a product subject to the Virus-Serum-Toxin Act, the Secretary of Agriculture may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Assistant Secretary for Marketing and Inspection Services.
+
+    (ii) The Secretary making a determination under clause (i) shall notify the Director of the determination and shall publish in the Federal Register a notice of such determination together with the factual and legal basis for such determination. Any interested person may request, within the 60-day period beginning on the publication of a determination, the Secretary making the determination to hold an informal hearing on the determination. If such a request is made within such period, such Secretary shall hold such hearing not later than 30 days after the date of the request, or at the request of the person making the request, not later than 60 days after such date. The Secretary who is holding the hearing shall provide notice of the hearing to the owner of the patent involved and to any interested person and provide the owner and any interested person an opportunity to participate in the hearing. Within 30 days after the completion of the hearing, such Secretary shall affirm or revise the determination which was the subject of the hearing and shall notify the Director of any revision of the determination and shall publish any such revision in the Federal Register.
+
+(3) For the purposes of paragraph (2)(B), the term “due diligence” means that degree of attention, continuous directed effort, and timeliness as may reasonably be expected from, and are ordinarily exercised by, a person during a regulatory review period.
+
+(4) An application for the extension of the term of a patent is subject to the disclosure requirements prescribed by the Director.
+
+(5)
+
+  (A) If the owner of record of the patent or its agent reasonably expects that the applicable regulatory review period described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), or (5)(B)(ii) of subsection (g) that began for a product that is the subject of such patent may extend beyond the expiration of the patent term in effect, the owner or its agent may submit an application to the Director for an interim extension during the period beginning 6 months, and ending 15 days, before such term is due to expire. The application shall contain—
+
+    (i) the identity of the product subject to regulatory review and the Federal statute under which such review is occurring;
+
+    (ii) the identity of the patent for which interim extension is being sought and the identity of each claim of such patent which claims the product under regulatory review or a method of using or manufacturing the product;
+
+    (iii) information to enable the Director to determine under subsection (a)(1), (2), and (3) the eligibility of a patent for extension;
+
+    (iv) a brief description of the activities undertaken by the applicant during the applicable regulatory review period to date with respect to the product under review and the significant dates applicable to such activities; and
+
+    (v) such patent or other information as the Director may require.
+
+  (B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, including the identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
+
+  (C) The owner of record of a patent, or its agent, for which an interim extension has been granted under subparagraph (B), may apply for not more than 4 subsequent interim extensions under this paragraph, except that, in the case of a patent subject to subsection (g)(6)(C), the owner of record of the patent, or its agent, may apply for only 1 subsequent interim extension under this paragraph. Each such subsequent application shall be made during the period beginning 60 days before, and ending 30 days before, the expiration of the preceding interim extension.
+
+  (D) Each certificate of interim extension under this paragraph shall be recorded in the official file of the patent and shall be considered part of the original patent.
+
+  (E) Any interim extension granted under this paragraph shall terminate at the end of the 60-day period beginning on the date on which the product involved receives permission for commercial marketing or use, except that, if within that 60-day period the applicant notifies the Director of such permission and submits any additional information under paragraph (1) of this subsection not previously contained in the application for interim extension, the patent shall be further extended, in accordance with the provisions of this section—
+
+    (i) for not to exceed 5 years from the date of expiration of the original patent term; or
+
+    (ii) if the patent is subject to subsection (g)(6)(C), from the date on which the product involved receives approval for commercial marketing or use.
+
+  (F) The rights derived from any patent the term of which is extended under this paragraph shall, during the period of interim extension—
+
+    (i) in the case of a patent which claims a product, be limited to any use then under regulatory review;
+
+    (ii) in the case of a patent which claims a method of using a product, be limited to any use claimed by the patent then under regulatory review; and
+
+    (iii) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make the product then under regulatory review.
+
+**(e)**
+
+(1) A determination that a patent is eligible for extension may be made by the Director solely on the basis of the representations contained in the application for the extension. If the Director determines that a patent is eligible for extension under subsection (a) and that the requirements of paragraphs (1) through (4) of subsection (d) have been complied with, the Director shall issue to the applicant for the extension of the term of the patent a certificate of extension, under seal, for the period prescribed by subsection (c). Such certificate shall be recorded in the official file of the patent and shall be considered as part of the original patent.
+
+(2) If the term of a patent for which an application has been submitted under subsection (d)(1) would expire before a certificate of extension is issued or denied under paragraph (1) respecting the application, the Director shall extend, until such determination is made, the term of the patent for periods of up to one year if he determines that the patent is eligible for extension.
+
+**(f)** For purposes of this section:
+
+(1) The term “product” means:
+
+  (A) A drug product.
+
+  (B) Any medical device, food additive, or color additive subject to regulation under the Federal Food, Drug, and Cosmetic Act.
+
+(2) The term “drug product” means the active ingredient of—
+
+  (A) a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act), or
+
+  (B) a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Virus-Serum-Toxin Act) which is not primarily manufactured using recombinant DNA, recombinant RNA, hybridoma technology, or other processes involving site specific genetic manipulation techniques,
+  including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.
+
+(3) The term “major health or environmental effects test” means a test which is reasonably related to the evaluation of the health or environmental effects of a product, which requires at least six months to conduct, and the data from which is submitted to receive permission for commercial marketing or use. Periods of analysis or evaluation of test results are not to be included in determining if the conduct of a test required at least six months.
+
+(4)
+
+  (A) Any reference to section 351 is a reference to section 351 of the Public Health Service Act.
+
+  (B) Any reference to section 503, 505, 512, or 515 is a reference to section 503, 505, 512, or 515 of the Federal Food, Drug, and Cosmetic Act.
+
+  (C) Any reference to the Virus-Serum-Toxin Act is a reference to the Act of March 4, 1913 ([21 U.S.C. 151–158](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151–158&num=0&edition=prelim)).
+
+(5) The term “informal hearing” has the meaning prescribed for such term by section 201(y) 22 See References in Text note below. of the Federal Food, Drug, and Cosmetic Act.
+
+(6) The term “patent” means a patent issued by the United States Patent and Trademark Office.
+
+(7) The term “date of enactment” as used in this section means September 24, 1984, for a human drug product, a medical device, food additive, or color additive.
+
+(8) The term “date of enactment” as used in this section means the date of enactment of the Generic Animal Drug and Patent Term Restoration Act for an animal drug or a veterinary biological product.
+
+**(g)** For purposes of this section, the term “regulatory review period” has the following meanings:
+
+(1)
+
+  (A) In the case of a product which is a new drug, antibiotic drug, or human biological product, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
+
+  (B) The regulatory review period for a new drug, antibiotic drug, or human biological product is the sum of—
+
+    (i) the period beginning on the date an exemption under subsection (i) of section 505 or subsection (d) of section 507 2 became effective for the approved product and ending on the date an application was initially submitted for such drug product under section 351, 505, or 507,2 and
+
+    (ii) the period beginning on the date the application was initially submitted for the approved product under section 351, subsection (b) of section 505, or section 507 2 and ending on the date such application was approved under such section.
+
+(2)
+
+  (A) In the case of a product which is a food additive or color additive, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
+
+  (B) The regulatory review period for a food or color additive is the sum of—
+
+    (i) the period beginning on the date a major health or environmental effects test on the additive was initiated and ending on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and
+
+    (ii) the period beginning on the date a petition was initially submitted with respect to the product under the Federal Food, Drug, and Cosmetic Act requesting the issuance of a regulation for use of the product, and ending on the date such regulation became effective or, if objections were filed to such regulation, ending on the date such objections were resolved and commercial marketing was permitted or, if commercial marketing was permitted and later revoked pending further proceedings as a result of such objections, ending on the date such proceedings were finally resolved and commercial marketing was permitted.
+
+(3)
+
+  (A) In the case of a product which is a medical device, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
+
+  (B) The regulatory review period for a medical device is the sum of—
+
+    (i) the period beginning on the date a clinical investigation on humans involving the device was begun and ending on the date an application was initially submitted with respect to the device under section 515, and
+
+    (ii) the period beginning on the date an application was initially submitted with respect to the device under section 515 and ending on the date such application was approved under such Act or the period beginning on the date a notice of completion of a product development protocol was initially submitted under section 515(f)(5) and ending on the date the protocol was declared completed under section 515(f)(6).
+
+(4)
+
+  (A) In the case of a product which is a new animal drug, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
+
+  (B) The regulatory review period for a new animal drug product is the sum of—
+
+    (i) the period beginning on the earlier of the date a major health or environmental effects test on the drug was initiated or the date an exemption under subsection (j) of section 512 became effective for the approved new animal drug product and ending on the date an application was initially submitted for such animal drug product under section 512, and
+
+    (ii) the period beginning on the date the application was initially submitted for the approved animal drug product under subsection (b) of section 512 and ending on the date such application was approved under such section.
+
+(5)
+
+  (A) In the case of a product which is a veterinary biological product, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
+
+  (B) The regulatory period for a veterinary biological product is the sum of—
+
+    (i) the period beginning on the date the authority to prepare an experimental biological product under the Virus-Serum-Toxin Act became effective and ending on the date an application for a license was submitted under the Virus-Serum-Toxin Act, and
+
+    (ii) the period beginning on the date an application for a license was initially submitted for approval under the Virus-Serum-Toxin Act and ending on the date such license was issued.
+
+(6) A period determined under any of the preceding paragraphs is subject to the following limitations:
+
+  (A) If the patent involved was issued after the date of the enactment of this section, the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
+
+  (B) If the patent involved was issued before the date of the enactment of this section and—
+
+    (i) no request for an exemption described in paragraph (1)(B) or (4)(B) was submitted and no request for the authority described in paragraph (5)(B) was submitted,
+
+    (ii) no major health or environmental effects test described in paragraph (2)(B) or (4)(B) was initiated and no petition for a regulation or application for registration described in such paragraph was submitted, or
+
+    (iii) no clinical investigation described in paragraph (3) was begun or product development protocol described in such paragraph was submitted,
+    before such date for the approved product the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
+
+  (C) If the patent involved was issued before the date of the enactment of this section and if an action described in subparagraph (B) was taken before the date of the enactment of this section with respect to the approved product and the commercial marketing or use of the product has not been approved before such date, the period of extension determined on the basis of the regulatory review period determined under such paragraph may not exceed two years or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years.
+
+**(h)** The Director may establish such fees as the Director determines appropriate to cover the costs to the Office of receiving and acting upon applications under this section.
+
+### Statutory Notes
+
+#### References in Text
+The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151&num=0&edition=prelim) and Tables.
+
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), and (g)(2)(B), (3)(B)(ii), (6)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
+The Public Health Service Act, referred to in subsecs. (d)(2)(B)(i) and (f)(2)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+Sections 503, 505, 512, and 515 of the Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (f)(4)(B) and (g)(1)(B), (3)(B), are classified, respectively, to sections 353, 355, 360b, and 360e of Title 21, Food and Drugs. Section 507 of the Act, referred to in subsec. (g)(1)(B), was classified to [section 357 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section357&num=0&edition=prelim), prior to repeal by Pub. L. 105–115, title I, § 125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
+
+Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(5), which is classified to [section 321 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim), was subsequently amended, and section 201(y) no longer defines the term “informal hearing”. However, such term is defined elsewhere in that section.
+
+Section 351 of the Public Health Service Act, referred to in subsecs. (f)(4)(A) and (g)(1)(B)(i), (ii), is classified to [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare.
+
+The date of enactment of the Generic Animal Drug and Patent Term Restoration Act, referred to in subsec. (f)(8), is the date of enactment of Pub. L. 100–670, which was approved Nov. 16, 1988.
+
+The date of the enactment of this section, referred to in subsec. (g)(6), is the date of the enactment of Pub. L. 98–417, which was approved Sept. 24, 1984.
+
+#### Amendments
+2011—Subsec. (d)(1). Pub. L. 112–29 inserted concluding provisions.
+
+2002—Subsec. (b)(3)(B). Pub. L. 107–273, § 13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
+
+Subsec. (d). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+
+Subsec. (d)(2)(B)(i). Pub. L. 107–273, § 13206(a)(9)(B), substituted “below the Office” for “below the office”.
+
+Subsec. (e). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+
+Subsec. (g)(6)(B)(iii). Pub. L. 107–273, § 13206(a)(9)(C), substituted “submitted” for “submittted”.
+
+Subsec. (h). Pub. L. 107–273, § 13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)]. See 1999 Amendment note below.
+
+1999—Subsec. (a). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4404], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
+
+Subsecs. (d), (e), (h). Pub. L. 106–113, § 1000(a)(9) [title IV, § 4732(a)(10)(A)], as amended by Pub. L. 107–273, § 13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
+
+1997—Subsec. (f)(4)(B). Pub. L. 105–115, § 125(b)(2)(P), struck out “507,” after “505,” in two places.
+
+1994—Subsec. (a)(2). Pub. L. 103–465 inserted “under subsection (e)(1) of this section” after “extended”.
+
+1993—Subsec. (a)(1). Pub. L. 103–179, § 6(1)(A), substituted “subsection (d)(1)” for “subsection (d)”.
+
+Subsec. (a)(3). Pub. L. 103–179, § 6(1)(B), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
+
+Subsec. (b). Pub. L. 103–179, § 6(2), substituted “Except as provided in subsection (d)(5)(F), the rights” for “The rights” in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 103–179, § 5(1), substituted “extended under subsection (e)(1)” for “extended”.
+
+Subsec. (d)(1). Pub. L. 103–179, § 5(2), substituted “Except as provided in paragraph (5), such” for “Such” in second sentence.
+
+Subsec. (d)(5). Pub. L. 103–179, § 5(3), added par. (5).
+
+Subsec. (e)(1). Pub. L. 103–179, § 6(3)(A), substituted “paragraphs (1) through (4) of subsection (d)” for “subsection (d)”.
+
+Subsec. (e)(2). Pub. L. 103–179, § 6(3)(B), substituted “subsection (d)(1)” for “subsection (d)”.
+
+1988—Subsec. (a)(5)(A). Pub. L. 100–670, § 201(a)(1), inserted “or (C)” after “in subparagraph (B)”.
+
+Subsec. (a)(5)(C). Pub. L. 100–670, § 201(a)(2), (3), added subpar. (C).
+
+Subsec. (b). Pub. L. 100–670, § 201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
+
+“(1) in the case of a patent which claims a product, be limited to any use approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred;
+
+“(2) in the case of a patent which claims a method of using a product, be limited to any use claimed by the patent and approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred; and
+
+“(3) in the case of a patent which claims a method of manufacturing a product, be limited to the method of manufacturing as used to make the approved product.”
+
+Subsec. (c)(2). Pub. L. 100–670, § 201(c), substituted “(3)(B)(i), (4)(B)(i), and (5)(B)(i)” for “and (3)(B)(i)”.
+
+Subsec. (d)(1)(C). Pub. L. 100–670, § 201(d), inserted “or the Secretary of Agriculture” after “and Human Services”.
+
+Subsec. (d)(2)(A). Pub. L. 100–670, § 201(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Within sixty days of the submittal of an application for extension of the term of a patent under paragraph (1), the Commissioner shall notify the Secretary of Health and Human Services if the patent claims any human drug product, a medical device, or a food additive or color additive or a method of using or manufacturing such a product, device, or additive and if the product, device, and additive are subject to the Federal Food, Drug, and Cosmetic Act, of the extension application and shall submit to the Secretary a copy of the application. Not later than thirty days after the receipt of an application from the Commissioner, the Secretary shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Commissioner of the determination, and shall publish in the Federal Register a notice of such determination.”
+
+Subsec. (d)(2)(B). Pub. L. 100–670, § 201(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+“(i) If a petition is submitted to the Secretary under subparagraph (A), not later than one hundred and eighty days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary shall, in accordance with regulations promulgated by the Secretary determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary shall make such determination not later than ninety days after the receipt of such a petition. The Secretary may not delegate the authority to make the determination prescribed by this subparagraph to an office below the Office of the Commissioner of Food and Drugs.
+
+“(ii) The Secretary shall notify the Commissioner of the determination and shall publish in the Federal Register a notice of such determination together with the factual and legal basis for such determination. Any interested person may request, within the sixty-day period beginning on the publication of a determination, the Secretary to hold an informal hearing on the determination. If such a request is made within such period, the Secretary shall hold such hearing not later than thirty days after the date of the request, or at the request of the person making the request, not later than sixty days after such date. The Secretary shall provide notice of the hearing to the owner of the patent involved and to any interested person and provide the owner and any interested person an opportunity to participate in the hearing. Within thirty days after the completion of the hearing, the Secretary shall affirm or revise the determination which was the subject of the hearing and notify the Commissioner of any revision of the determination and shall publish any such revision in the Federal Register.”
+
+Subsec. (f)(1)(A). Pub. L. 100–670, § 201(g)(1), struck out “human” before “drug product”.
+
+Subsec. (f)(2). Pub. L. 100–670, § 201(g)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘human drug product’ means the active ingredient of a new drug, antibiotic drug, or human biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act and the Public Health Service Act) including any salt or ester of the active ingredient, as a single entity or in combination with another active ingredient.”
+
+Subsec. (f)(4)(B), (C). Pub. L. 100–670, § 201(g)(2), which directed general amendment of subpars. (B) and (C) of par. (4), was executed by amending subpar. (B) generally, and adding subpar. (C) as probable intent of Congress in light of absence of subpar. (C) in par. (4). Prior to amendment, subpar. (B) read as follows: “Any reference to section 503, 505, 507, or 515 is a reference to section 503, 505, 507, or 515 of the Federal Food, Drug, and Cosmetic Act.”
+
+Subsec. (f)(7), (8). Pub. L. 100–670, § 201(g)(3), added pars. (7) and (8).
+
+Subsec. (g)(1)(A). Pub. L. 100–670, § 201(h)(1)(A), (2), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” and “paragraph (6)” for “paragraph (4)”.
+
+Subsec. (g)(1)(B). Pub. L. 100–670, § 201(h)(1)(B), substituted “new drug, antibiotic drug, or human biological product” for “human drug product” in introductory provisions and “product” for “human drug product” in cls. (i) and (ii).
+
+Subsec. (g)(2)(A), (3)(A). Pub. L. 100–670, § 201(h)(3), substituted “paragraph (6)” for “paragraph (4)”.
+
+Subsec. (g)(4), (5). Pub. L. 100–670, § 201(h)(4), added pars. (4) and (5). Former par. (4) redesignated (6).
+
+Subsec. (g)(6). Pub. L. 100–670, § 201(h)(4), redesignated former par. (4) as (6).
+
+Subsec. (g)(6)(B)(i). Pub. L. 100–670, § 201(h)(5)(A), substituted “paragraph (1)(B) or (4)(B) was submitted and no request for the authority described in paragraph (5)(B) was submitted” for “paragraph (1)(B) was submitted”.
+
+Subsec. (g)(6)(B)(ii). Pub. L. 100–670, § 201(h)(5)(B), substituted “paragraph (2)(B) or (4)(B)” for “paragraph (2)”.
+
+Subsec. (g)(6)(C). Pub. L. 100–670, § 201(h)(5)(C), inserted “or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years” after “exceed two years”.
+
+#### Effective Date of 2011 Amendment
+Pub. L. 112–29, § 37(b), Sept. 16, 2011, 125 Stat. 341, provided that: “The amendment made by subsection (a) [amending this section] shall apply to any application for extension of a patent term under [section 156 of title 35](./chapter-014-issue-of-patent.md#section-156), United States Code, that is pending on, that is filed after, or as to which a decision regarding the application is subject to judicial review on, the date of the enactment of this Act [Sept. 16, 2011].”
+
+#### Effective Date of 1999 Amendment
+Amendment by section 1000(a)(9) [title IV, § 4404] of Pub. L. 106–113 effective on date that is 6 months after Nov. 29, 1999, and, except for design patent application filed under chapter 16 of this title, applicable to any application filed on or after such date, see section 1000(a)(9) [title IV, § 4405(a)] of Pub. L. 106–113, set out as a note under [section 154 of this title](./chapter-014-issue-of-patent.md#section-154).
+
+Amendment by section 1000(a)(9) [title IV, § 4732(a)(10)(A)] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) [title IV, § 4731] of Pub. L. 106–113, set out as a note under [section 1 of this title](./chapter-001-establishment-officers-and-employees-functions.md#section-1).
+
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applicable to all patent applications filed in the United States on or after that effective date, with provisions relating to earliest filed patent application, see section 534(b)(1), (3) of Pub. L. 103–465, set out as a note under [section 154 of this title](./chapter-014-issue-of-patent.md#section-154).
+
+
+<a id="section-157"></a>
+## § 157. Repealed. Pub. L. 112–29, § 3(e)(1), Sept. 16, 2011, 125 Stat. 287]
+
+### Statutory Notes
+
+Section, added Pub. L. 98–622, title I, § 102(a), Nov. 8, 1984, 98 Stat. 3383; amended Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, § 4732(a)(10)(A), (11)], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, 1501A–583; Pub. L. 107–273, div. C, title III, § 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, § 20(j), Sept. 16, 2011, 125 Stat. 335, related to statutory invention registration.
+
+#### Effective Date of Repeal
+Repeal effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to any request for a statutory invention registration filed on or after that effective date, see section 3(e)(3) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment note under [section 111 of this title](./chapter-011-application-for-patent.md#section-111).

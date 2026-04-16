@@ -1,0 +1,977 @@
+[
+  {
+    "slug": "chapter-001-the-public-health-service",
+    "heading": "THE PUBLIC HEALTH SERVICE",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-1a-the-public-health-service-supplemental-provisions",
+    "heading": "THE PUBLIC HEALTH SERVICE; SUPPLEMENTAL PROVISIONS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-002-sanitation-and-quarantine",
+    "heading": "SANITATION AND QUARANTINE",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-003-leprosy",
+    "heading": "LEPROSY",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-3a-cancer",
+    "heading": "CANCER",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-004-viruses-serums-toxins-antitoxins-etc",
+    "heading": "VIRUSES, SERUMS, TOXINS, ANTITOXINS, ETC.",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-005-maternity-and-infancy-welfare-and-hygiene",
+    "heading": "MATERNITY AND INFANCY WELFARE AND HYGIENE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-006-the-childrens-bureau",
+    "heading": "THE CHILDREN’S BUREAU",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-6a-public-health-service",
+    "heading": "PUBLIC HEALTH SERVICE",
+    "section_count": 1519
+  },
+  {
+    "slug": "chapter-007-social-security",
+    "heading": "SOCIAL SECURITY",
+    "section_count": 641
+  },
+  {
+    "slug": "chapter-7a-temporary-unemployment-compensation-program",
+    "heading": "TEMPORARY UNEMPLOYMENT COMPENSATION PROGRAM",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-008-low-income-housing",
+    "heading": "LOW-INCOME HOUSING",
+    "section_count": 88
+  },
+  {
+    "slug": "chapter-8a-slum-clearance-urban-renewal-and-farm-housing",
+    "heading": "SLUM CLEARANCE, URBAN RENEWAL, AND FARM HOUSING",
+    "section_count": 69
+  },
+  {
+    "slug": "chapter-8b-public-works-or-facilities",
+    "heading": "PUBLIC WORKS OR FACILITIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-8c-open-space-land",
+    "heading": "OPEN-SPACE LAND",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-009-housing-of-persons-engaged-in-national-defense",
+    "heading": "HOUSING OF PERSONS ENGAGED IN NATIONAL DEFENSE",
+    "section_count": 80
+  },
+  {
+    "slug": "chapter-010-federal-security-agency",
+    "heading": "FEDERAL SECURITY AGENCY",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-011-compensation-for-disability-or-death-to-persons-employed-at-military-air-and-naval-bases-outside-united-states",
+    "heading": "COMPENSATION FOR DISABILITY OR DEATH TO PERSONS EMPLOYED AT MILITARY, AIR, AND NAVAL BASES OUTSIDE UNITED STATES",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-012-compensation-for-injury-death-or-detention-of-employees-of-contractors-with-united-states-outside-united-states",
+    "heading": "COMPENSATION FOR INJURY, DEATH, OR DETENTION OF EMPLOYEES OF CONTRACTORS WITH UNITED STATES OUTSIDE UNITED STATES",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-013-school-lunch-programs",
+    "heading": "SCHOOL LUNCH PROGRAMS",
+    "section_count": 37
+  },
+  {
+    "slug": "chapter-13a-child-nutrition",
+    "heading": "CHILD NUTRITION",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-014-development-and-control-of-atomic-energy",
+    "heading": "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-015-disaster-relief",
+    "heading": "DISASTER RELIEF",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-15a-reciprocal-fire-protection-agreements",
+    "heading": "RECIPROCAL FIRE PROTECTION AGREEMENTS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-15b-air-pollution-control",
+    "heading": "AIR POLLUTION CONTROL",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-016-national-science-foundation",
+    "heading": "NATIONAL SCIENCE FOUNDATION",
+    "section_count": 113
+  },
+  {
+    "slug": "chapter-16a-grants-for-support-of-scientific-research",
+    "heading": "GRANTS FOR SUPPORT OF SCIENTIFIC RESEARCH",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-16b-contracts-for-scientific-and-technological-research",
+    "heading": "CONTRACTS FOR SCIENTIFIC AND TECHNOLOGICAL RESEARCH",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-017-federal-employment-service",
+    "heading": "FEDERAL EMPLOYMENT SERVICE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-018-youth-medals",
+    "heading": "YOUTH MEDALS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-019-saline-and-salt-waters",
+    "heading": "SALINE AND SALT WATERS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-19a-water-resources-research-program",
+    "heading": "WATER RESOURCES RESEARCH PROGRAM",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-19b-water-resources-planning",
+    "heading": "WATER RESOURCES PLANNING",
+    "section_count": 55
+  },
+  {
+    "slug": "chapter-020-elective-franchise",
+    "heading": "ELECTIVE FRANCHISE",
+    "section_count": 69
+  },
+  {
+    "slug": "chapter-20a-civil-rights-commission",
+    "heading": "CIVIL RIGHTS COMMISSION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-021-civil-rights",
+    "heading": "CIVIL RIGHTS",
+    "section_count": 94
+  },
+  {
+    "slug": "chapter-21a-privacy-protection",
+    "heading": "PRIVACY PROTECTION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-21b-religious-freedom-restoration",
+    "heading": "RELIGIOUS FREEDOM RESTORATION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-21c-protection-of-religious-exercise-in-land-use-and-by-institutionalized-persons",
+    "heading": "PROTECTION OF RELIGIOUS EXERCISE IN LAND USE AND BY INSTITUTIONALIZED PERSONS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-21d-detainee-treatment",
+    "heading": "DETAINEE TREATMENT",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-21e-privacy-and-civil-liberties-protection-and-oversight",
+    "heading": "PRIVACY AND CIVIL LIBERTIES PROTECTION AND OVERSIGHT",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information",
+    "heading": "PROHIBITING EMPLOYMENT DISCRIMINATION ON THE BASIS OF GENETIC INFORMATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-21g-pregnant-worker-fairness",
+    "heading": "PREGNANT WORKER FAIRNESS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-022-indian-hospitals-and-health-facilities",
+    "heading": "INDIAN HOSPITALS AND HEALTH FACILITIES",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-023-development-and-control-of-atomic-energy",
+    "heading": "DEVELOPMENT AND CONTROL OF ATOMIC ENERGY",
+    "section_count": 257
+  },
+  {
+    "slug": "chapter-024-disposal-of-atomic-energy-communities",
+    "heading": "DISPOSAL OF ATOMIC ENERGY COMMUNITIES",
+    "section_count": 54
+  },
+  {
+    "slug": "chapter-025-federal-flood-insurance",
+    "heading": "FEDERAL FLOOD INSURANCE",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-026-national-space-program",
+    "heading": "NATIONAL SPACE PROGRAM",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-26a-national-space-grant-college-and-fellowship-program",
+    "heading": "NATIONAL SPACE GRANT COLLEGE AND FELLOWSHIP PROGRAM",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-26b-biomedical-research-in-space",
+    "heading": "BIOMEDICAL RESEARCH IN SPACE",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-027-loan-service-of-captioned-films-and-educational-media-for-handicapped",
+    "heading": "LOAN SERVICE OF CAPTIONED FILMS AND EDUCATIONAL MEDIA FOR HANDICAPPED",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-028-area-redevelopment-program",
+    "heading": "AREA REDEVELOPMENT PROGRAM",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-029-juvenile-delinquency-and-youth-offenses-control",
+    "heading": "JUVENILE DELINQUENCY AND YOUTH OFFENSES CONTROL",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-030-manpower-development-and-training-program",
+    "heading": "MANPOWER DEVELOPMENT AND TRAINING PROGRAM",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-031-public-works-acceleration-program",
+    "heading": "PUBLIC WORKS ACCELERATION PROGRAM",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-032-third-party-liability-for-hospital-and-medical-care",
+    "heading": "THIRD PARTY LIABILITY FOR HOSPITAL AND MEDICAL CARE",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-033-community-mental-health-centers",
+    "heading": "COMMUNITY MENTAL HEALTH CENTERS",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-034-economic-opportunity-program",
+    "heading": "ECONOMIC OPPORTUNITY PROGRAM",
+    "section_count": 112
+  },
+  {
+    "slug": "chapter-035-programs-for-older-americans",
+    "heading": "PROGRAMS FOR OLDER AMERICANS",
+    "section_count": 127
+  },
+  {
+    "slug": "chapter-35a-community-service-employment-for-older-americans",
+    "heading": "COMMUNITY SERVICE EMPLOYMENT FOR OLDER AMERICANS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-036-compensation-of-con-demnees-in-development-programs",
+    "heading": "COMPENSATION OF CON­DEMNEES IN DEVELOPMENT PROGRAMS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-037-community-facilities-and-advance-land-acquisition",
+    "heading": "COMMUNITY FACILITIES AND ADVANCE LAND ACQUISITION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-038-public-works-and-economic-development",
+    "heading": "PUBLIC WORKS AND ECONOMIC DEVELOPMENT",
+    "section_count": 61
+  },
+  {
+    "slug": "chapter-039-solid-waste-disposal",
+    "heading": "SOLID WASTE DISPOSAL",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-040-soil-information-assistance-for-community-planning-and-resource-development",
+    "heading": "SOIL INFORMATION ASSISTANCE FOR COMMUNITY PLANNING AND RESOURCE DEVELOPMENT",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-041-demonstration-cities-and-metropolitan-development-program",
+    "heading": "DEMONSTRATION CITIES AND METROPOLITAN DEVELOPMENT PROGRAM",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-042-narcotic-addict-rehabilitation",
+    "heading": "NARCOTIC ADDICT REHABILITATION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-043-department-of-health-and-human-services",
+    "heading": "DEPARTMENT OF HEALTH AND HUMAN SERVICES",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-044-department-of-housing-and-urban-development",
+    "heading": "DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-045-fair-housing",
+    "heading": "FAIR HOUSING",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-046-justice-system-improvement",
+    "heading": "JUSTICE SYSTEM IMPROVEMENT",
+    "section_count": 251
+  },
+  {
+    "slug": "chapter-047-juvenile-delinquency-prevention-and-control",
+    "heading": "JUVENILE DELINQUENCY PREVENTION AND CONTROL",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-048-guarantees-for-financing-new-community-land-development",
+    "heading": "GUARANTEES FOR FINANCING NEW COMMUNITY LAND DEVELOPMENT",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-049-national-housing-partnerships",
+    "heading": "NATIONAL HOUSING PARTNERSHIPS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-050-national-flood-insurance",
+    "heading": "NATIONAL FLOOD INSURANCE",
+    "section_count": 77
+  },
+  {
+    "slug": "chapter-051-design-and-construction-of-public-buildings-to-accommodate-physically-handicapped",
+    "heading": "DESIGN AND CONSTRUCTION OF PUBLIC BUILDINGS TO ACCOMMODATE PHYSICALLY HANDICAPPED",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-052-intergovernmental-cooperation",
+    "heading": "INTERGOVERNMENTAL COOPERATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-52a-joint-funding-simplification",
+    "heading": "JOINT FUNDING SIMPLIFICATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-053-advisory-commission-on-intergovernmental-relations",
+    "heading": "ADVISORY COMMISSION ON INTERGOVERNMENTAL RELATIONS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-054-cabinet-committee-on-opportunities-for-spanish-speaking-people",
+    "heading": "CABINET COMMITTEE ON OPPORTUNITIES FOR SPANISH-SPEAKING PEOPLE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-055-national-environmental-policy",
+    "heading": "NATIONAL ENVIRONMENTAL POLICY",
+    "section_count": 64
+  },
+  {
+    "slug": "chapter-056-environmental-quality-improvement",
+    "heading": "ENVIRONMENTAL QUALITY IMPROVEMENT",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-057-environmental-pollution-study",
+    "heading": "ENVIRONMENTAL POLLUTION STUDY",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-058-disaster-relief",
+    "heading": "DISASTER RELIEF",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-059-national-urban-policy-and-new-community-development",
+    "heading": "NATIONAL URBAN POLICY AND NEW COMMUNITY DEVELOPMENT",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program",
+    "heading": "COMPREHENSIVE ALCOHOL ABUSE AND ALCOHOLISM PREVENTION, TREATMENT, AND REHABILITATION PROGRAM",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs",
+    "heading": "UNIFORM RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION POLICIES FOR FEDERAL AND FEDERALLY ASSISTED PROGRAMS",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-062-intergovernmental-personnel-program",
+    "heading": "INTERGOVERNMENTAL PERSONNEL PROGRAM",
+    "section_count": 29
+  },
+  {
+    "slug": "chapter-063-lead-based-paint-poisoning-prevention",
+    "heading": "LEAD-BASED PAINT POISONING PREVENTION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-63a-residential-lead-based-paint-hazard-reduction",
+    "heading": "RESIDENTIAL LEAD-BASED PAINT HAZARD REDUCTION",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-064-public-service-employment-programs",
+    "heading": "PUBLIC SERVICE EMPLOYMENT PROGRAMS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-065-noise-control",
+    "heading": "NOISE CONTROL",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-066-domestic-volunteer-services",
+    "heading": "DOMESTIC VOLUNTEER SERVICES",
+    "section_count": 65
+  },
+  {
+    "slug": "chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform",
+    "heading": "CHILD ABUSE PREVENTION AND TREATMENT AND ADOPTION REFORM",
+    "section_count": 42
+  },
+  {
+    "slug": "chapter-068-disaster-relief",
+    "heading": "DISASTER RELIEF",
+    "section_count": 113
+  },
+  {
+    "slug": "chapter-069-community-development",
+    "heading": "COMMUNITY DEVELOPMENT",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-070-manufactured-home-construction-and-safety-standards",
+    "heading": "MANUFACTURED HOME CONSTRUCTION AND SAFETY STANDARDS",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-071-solar-energy",
+    "heading": "SOLAR ENERGY",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-072-juvenile-justice-and-delinquency-prevention",
+    "heading": "JUVENILE JUSTICE AND DELINQUENCY PREVENTION",
+    "section_count": 91
+  },
+  {
+    "slug": "chapter-073-development-of-energy-sources",
+    "heading": "DEVELOPMENT OF ENERGY SOURCES",
+    "section_count": 39
+  },
+  {
+    "slug": "chapter-074-nonnuclear-energy-research-and-development",
+    "heading": "NONNUCLEAR ENERGY RESEARCH AND DEVELOPMENT",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-075-programs-for-individuals-with-developmental-disabilities",
+    "heading": "PROGRAMS FOR INDIVIDUALS WITH DEVELOPMENTAL DISABILITIES",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-076-age-discrimination-in-federally-assisted-programs",
+    "heading": "AGE DISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-077-energy-conservation",
+    "heading": "ENERGY CONSERVATION",
+    "section_count": 146
+  },
+  {
+    "slug": "chapter-078-national-petroleum-reserve-in-alaska",
+    "heading": "NATIONAL PETROLEUM RESERVE IN ALASKA",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-079-science-and-technology-policy-organization-and-priorities",
+    "heading": "SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION AND PRIORITIES",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-080-public-works-employment",
+    "heading": "PUBLIC WORKS EMPLOYMENT",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-081-energy-conservation-and-resource-renewal",
+    "heading": "ENERGY CONSERVATION AND RESOURCE RENEWAL",
+    "section_count": 40
+  },
+  {
+    "slug": "chapter-082-solid-waste-disposal",
+    "heading": "SOLID WASTE DISPOSAL",
+    "section_count": 118
+  },
+  {
+    "slug": "chapter-083-energy-extension-service",
+    "heading": "ENERGY EXTENSION SERVICE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-084-department-of-energy",
+    "heading": "DEPARTMENT OF ENERGY",
+    "section_count": 236
+  },
+  {
+    "slug": "chapter-085-air-pollution-prevention-and-control",
+    "heading": "AIR POLLUTION PREVENTION AND CONTROL",
+    "section_count": 185
+  },
+  {
+    "slug": "chapter-086-earthquake-hazards-reduction",
+    "heading": "EARTHQUAKE HAZARDS REDUCTION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-087-water-research-and-development",
+    "heading": "WATER RESEARCH AND DEVELOPMENT",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-088-uranium-mill-tailings-radiation-control",
+    "heading": "URANIUM MILL TAILINGS RADIATION CONTROL",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-089-congregate-housing-services",
+    "heading": "CONGREGATE HOUSING SERVICES",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-090-neighborhood-and-city-reinvestment-self-help-and-revitalization",
+    "heading": "NEIGHBORHOOD AND CITY REINVESTMENT, SELF-HELP AND REVITALIZATION",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-091-national-energy-conservation-policy",
+    "heading": "NATIONAL ENERGY CONSERVATION POLICY",
+    "section_count": 73
+  },
+  {
+    "slug": "chapter-092-powerplant-and-industrial-fuel-use",
+    "heading": "POWERPLANT AND INDUSTRIAL FUEL USE",
+    "section_count": 49
+  },
+  {
+    "slug": "chapter-093-emergency-energy-conservation",
+    "heading": "EMERGENCY ENERGY CONSERVATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-094-low-income-energy-assistance",
+    "heading": "LOW-INCOME ENERGY ASSISTANCE",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-095-united-states-synthetic-fuels-corporation",
+    "heading": "UNITED STATES SYNTHETIC FUELS CORPORATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-096-biomass-energy-and-alcohol-fuels",
+    "heading": "BIOMASS ENERGY AND ALCOHOL FUELS",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-097-acid-precipitation-program-and-carbon-dioxide-study",
+    "heading": "ACID PRECIPITATION PROGRAM AND CARBON DIOXIDE STUDY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-098-ocean-thermal-energy-conversion-research-and-development",
+    "heading": "OCEAN THERMAL ENERGY CONVERSION RESEARCH AND DEVELOPMENT",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-099-ocean-thermal-energy-conversion",
+    "heading": "OCEAN THERMAL ENERGY CONVERSION",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-100-wind-energy-systems",
+    "heading": "WIND ENERGY SYSTEMS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-101-magnetic-fusion-energy-engineering",
+    "heading": "MAGNETIC FUSION ENERGY ENGINEERING",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-102-mental-health-systems",
+    "heading": "MENTAL HEALTH SYSTEMS",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-103-comprehensive-environmental-response-compensation-and-liability",
+    "heading": "COMPREHENSIVE ENVIRONMENTAL RESPONSE, COMPENSATION, AND LIABILITY",
+    "section_count": 48
+  },
+  {
+    "slug": "chapter-104-nuclear-safety-research-development-and-demonstration",
+    "heading": "NUCLEAR SAFETY RESEARCH, DEVELOPMENT, AND DEMONSTRATION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-105-community-services-programs",
+    "heading": "COMMUNITY SERVICES PROGRAMS",
+    "section_count": 93
+  },
+  {
+    "slug": "chapter-106-community-services-block-grant-program",
+    "heading": "COMMUNITY SERVICES BLOCK GRANT PROGRAM",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-107-consumer-patient-radiation-health-and-safety",
+    "heading": "CONSUMER-PATIENT RADIATION HEALTH AND SAFETY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-108-nuclear-waste-policy",
+    "heading": "NUCLEAR WASTE POLICY",
+    "section_count": 92
+  },
+  {
+    "slug": "chapter-109-water-resources-research",
+    "heading": "WATER RESOURCES RESEARCH",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-109a-membrane-processes-research",
+    "heading": "MEMBRANE PROCESSES RESEARCH",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-109b-secure-water",
+    "heading": "SECURE WATER",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-110-family-violence-prevention-and-services",
+    "heading": "FAMILY VIOLENCE PREVENTION AND SERVICES",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-111-emergency-federal-law-enforcement-assistance",
+    "heading": "EMERGENCY FEDERAL LAW ENFORCEMENT ASSISTANCE",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-112-victim-compensation-and-assistance",
+    "heading": "VICTIM COMPENSATION AND ASSISTANCE",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-113-state-justice-institute",
+    "heading": "STATE JUSTICE INSTITUTE",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-114-protection-and-advocacy-for-individuals-with-mental-illness",
+    "heading": "PROTECTION AND ADVOCACY FOR INDIVIDUALS WITH MENTAL ILLNESS",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-115-child-development-associate-scholarship-assistance-program",
+    "heading": "CHILD DEVELOPMENT ASSOCIATE SCHOLARSHIP ASSISTANCE PROGRAM",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-116-emergency-planning-and-community-right-to-know",
+    "heading": "EMERGENCY PLANNING AND COMMUNITY RIGHT-TO-KNOW",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-117-encouraging-good-faith-professional-review-activities",
+    "heading": "ENCOURAGING GOOD FAITH PROFESSIONAL REVIEW ACTIVITIES",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-118-alzheimers-disease-and-related-dementias-research",
+    "heading": "ALZHEIMER’S DISEASE AND RELATED DEMENTIAS RESEARCH",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-119-homeless-assistance",
+    "heading": "HOMELESS ASSISTANCE",
+    "section_count": 77
+  },
+  {
+    "slug": "chapter-120-enterprise-zone-development",
+    "heading": "ENTERPRISE ZONE DEVELOPMENT",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-121-international-child-abduction-remedies",
+    "heading": "INTERNATIONAL CHILD ABDUCTION REMEDIES",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-122-native-hawaiian-health-care",
+    "heading": "NATIVE HAWAIIAN HEALTH CARE",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-123-drug-abuse-education-and-prevention",
+    "heading": "DRUG ABUSE EDUCATION AND PREVENTION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-124-public-housing-drug-elimination",
+    "heading": "PUBLIC HOUSING DRUG ELIMINATION",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-125-renewable-energy-and-energy-efficiency-technology-competitiveness",
+    "heading": "RENEWABLE ENERGY AND ENERGY EFFICIENCY TECHNOLOGY COMPETITIVENESS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-126-equal-opportunity-for-individuals-with-disabilities",
+    "heading": "EQUAL OPPORTUNITY FOR INDIVIDUALS WITH DISABILITIES",
+    "section_count": 52
+  },
+  {
+    "slug": "chapter-127-coordinated-services-for-children-youth-and-families",
+    "heading": "COORDINATED SERVICES FOR CHILDREN, YOUTH, AND FAMILIES",
+    "section_count": 29
+  },
+  {
+    "slug": "chapter-128-hydrogen-research-development-and-demonstration-program",
+    "heading": "HYDROGEN RESEARCH, DEVELOPMENT, AND DEMONSTRATION PROGRAM",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-129-national-and-community-service",
+    "heading": "NATIONAL AND COMMUNITY SERVICE",
+    "section_count": 127
+  },
+  {
+    "slug": "chapter-130-national-affordable-housing",
+    "heading": "NATIONAL AFFORDABLE HOUSING",
+    "section_count": 99
+  },
+  {
+    "slug": "chapter-131-housing-opportunities-for-persons-with-aids",
+    "heading": "HOUSING OPPORTUNITIES FOR PERSONS WITH AIDS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-132-victims-of-child-abuse",
+    "heading": "VICTIMS OF CHILD ABUSE",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-133-pollution-prevention",
+    "heading": "POLLUTION PREVENTION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-134-energy-policy",
+    "heading": "ENERGY POLICY",
+    "section_count": 150
+  },
+  {
+    "slug": "chapter-135-residency-and-service-requirements-in-federally-assisted-housing",
+    "heading": "RESIDENCY AND SERVICE REQUIREMENTS IN FEDERALLY ASSISTED HOUSING",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-136-violent-crime-control-and-law-enforcement",
+    "heading": "VIOLENT CRIME CONTROL AND LAW ENFORCEMENT",
+    "section_count": 235
+  },
+  {
+    "slug": "chapter-137-management-of-rechargeable-batteries-and-batteries-containing-mercury",
+    "heading": "MANAGEMENT OF RECHARGEABLE BATTERIES AND BATTERIES CONTAINING MERCURY",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-138-assisted-suicide-funding-restriction",
+    "heading": "ASSISTED SUICIDE FUNDING RESTRICTION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-139-volunteer-protection",
+    "heading": "VOLUNTEER PROTECTION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-140-criminal-justice-identification-information-and-communication",
+    "heading": "CRIMINAL JUSTICE IDENTIFICATION, INFORMATION, AND COMMUNICATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-140a-jennifers-law",
+    "heading": "JENNIFER’S LAW",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-141-commercial-space-opportunities-and-transportation-services",
+    "heading": "COMMERCIAL SPACE OPPORTUNITIES AND TRANSPORTATION SERVICES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-142-poison-control-center-enhancement-and-awareness",
+    "heading": "POISON CONTROL CENTER ENHANCEMENT AND AWARENESS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-143-intercountry-adoptions",
+    "heading": "INTERCOUNTRY ADOPTIONS",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-144-developmental-disabilities-assistance-and-bill-of-rights",
+    "heading": "DEVELOPMENTAL DISABILITIES ASSISTANCE AND BILL OF RIGHTS",
+    "section_count": 48
+  },
+  {
+    "slug": "chapter-145-public-safety-officer-medal-of-valor-and-tributes",
+    "heading": "PUBLIC SAFETY OFFICER MEDAL OF VALOR AND TRIBUTES",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-145a-law-enforcement-congressional-badge-of-bravery",
+    "heading": "LAW ENFORCEMENT CONGRESSIONAL BADGE OF BRAVERY",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-146-election-administration-improvement",
+    "heading": "ELECTION ADMINISTRATION IMPROVEMENT",
+    "section_count": 76
+  },
+  {
+    "slug": "chapter-147-prison-rape-elimination",
+    "heading": "PRISON RAPE ELIMINATION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-148-windstorm-impact-reduction",
+    "heading": "WINDSTORM IMPACT REDUCTION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-149-national-energy-policy-and-programs",
+    "heading": "NATIONAL ENERGY POLICY AND PROGRAMS",
+    "section_count": 285
+  },
+  {
+    "slug": "chapter-150-national-aeronautics-and-space-programs-2005",
+    "heading": "NATIONAL AERONAUTICS AND SPACE PROGRAMS, 2005",
+    "section_count": 41
+  },
+  {
+    "slug": "chapter-151-child-protection-and-safety",
+    "heading": "CHILD PROTECTION AND SAFETY",
+    "section_count": 53
+  },
+  {
+    "slug": "chapter-152-energy-independence-and-security",
+    "heading": "ENERGY INDEPENDENCE AND SECURITY",
+    "section_count": 145
+  },
+  {
+    "slug": "chapter-153-community-safety-through-recidivism-prevention",
+    "heading": "COMMUNITY SAFETY THROUGH RECIDIVISM PREVENTION",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-154-combating-child-exploitation",
+    "heading": "COMBATING CHILD EXPLOITATION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-155-aeronautics-and-space-activities",
+    "heading": "AERONAUTICS AND SPACE ACTIVITIES",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-156-health-information-technology",
+    "heading": "HEALTH INFORMATION TECHNOLOGY",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-157-quality-affordable-health-care-for-all-americans",
+    "heading": "QUALITY, AFFORDABLE HEALTH CARE FOR ALL AMERICANS",
+    "section_count": 45
+  },
+  {
+    "slug": "chapter-158-support-for-pregnant-and-parenting-teens-and-women",
+    "heading": "SUPPORT FOR PREGNANT AND PARENTING TEENS AND WOMEN",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-159-space-exploration-technology-and-science",
+    "heading": "SPACE EXPLORATION, TECHNOLOGY, AND SCIENCE",
+    "section_count": 45
+  },
+  {
+    "slug": "chapter-160-treatment-of-certain-payments-in-eugenics-compensation",
+    "heading": "TREATMENT OF CERTAIN PAYMENTS IN EUGENICS COMPENSATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-161-department-of-energy-research-and-innovation",
+    "heading": "DEPARTMENT OF ENERGY RESEARCH AND INNOVATION",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-162-energy-infrastructure",
+    "heading": "ENERGY INFRASTRUCTURE",
+    "section_count": 48
+  },
+  {
+    "slug": "chapter-163-research-and-development-competition-and-innovation",
+    "heading": "RESEARCH AND DEVELOPMENT, COMPETITION, AND INNOVATION",
+    "section_count": 145
+  },
+  {
+    "slug": "chapter-164-speak-out-act",
+    "heading": "SPEAK OUT ACT",
+    "section_count": 4
+  }
+]

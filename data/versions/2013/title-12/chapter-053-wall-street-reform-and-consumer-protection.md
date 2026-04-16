@@ -1,0 +1,8972 @@
+---
+title: 12
+chapter: '53'
+heading: WALL STREET REFORM AND CONSUMER PROTECTION
+section_count: 140
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
+---
+<a id="section-5301"></a>
+## § 5301. Regulations
+**(a) In general** The Secretary is authorized to promulgate regulations to implement and administer the grant programs and undertakings authorized by this subchapter.
+
+**(b) Regulatory authority** Regulations prescribed under this section may contain such classifications, differentiations, or other provisions, and may provide for such adjustments and exceptions for any class of grant programs, undertakings, or eligible entities, as, in the judgment of the Secretary, are necessary or proper to effectuate the purposes of this subchapter, to prevent circumvention or evasion of this subchapter, or to facilitate compliance with this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5302"></a>
+## § 5302. Evaluation and reports to Congress
+
+For each fiscal year in which a program or project is carried out under this subchapter, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a description of the activities funded, amounts distributed, and measurable results, as appropriate and available.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5303"></a>
+## § 5303. Enhanced compensation structure reporting
+**(a) Enhanced disclosure and reporting of compensation arrangements**
+
+(1) **In general** — Not later than 9 months after July 21, 2010, the appropriate Federal regulators jointly shall prescribe regulations or guidelines to require each covered financial institution to disclose to the appropriate Federal regulator the structures of all incentive-based compensation arrangements offered by such covered financial institutions sufficient to determine whether the compensation structure—
+
+  (A) provides an executive officer, employee, director, or principal shareholder of the covered financial institution with excessive compensation, fees, or benefits; or
+
+  (B) could lead to material financial loss to the covered financial institution.
+
+(2) **Rules of construction** — Nothing in this section shall be construed as requiring the reporting of the actual compensation of particular individuals. Nothing in this section shall be construed to require a covered financial institution that does not have an incentive-based payment arrangement to make the disclosures required under this subsection.
+
+**(b) Prohibition on certain compensation arrangements** Not later than 9 months after July 21, 2010, the appropriate Federal regulators shall jointly prescribe regulations or guidelines that prohibit any types of incentive-based payment arrangement, or any feature of any such arrangement, that the regulators determine encourages inappropriate risks by covered financial institutions—
+
+(1) by providing an executive officer, employee, director, or principal shareholder of the covered financial institution with excessive compensation, fees, or benefits; or
+
+(2) that could lead to material financial loss to the covered financial institution.
+
+**(c) Standards** The appropriate Federal regulators shall—
+
+(1) ensure that any standards for compensation established under subsections (a) or (b) are comparable to the standards established under section 1831p–1 11 See References in Text note below. of this title for insured depository institutions; and
+
+(2) in establishing such standards under such subsections, take into consideration the compensation standards described in [section 1831p–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831p–1/c&num=0&edition=prelim).
+
+**(d) Enforcement** The provisions of this section and the regulations issued under this section shall be enforced under section 505 of the Gramm-Leach-Bliley Act [[15 U.S.C. 6805](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6805&num=0&edition=prelim)] and, for purposes of such section, a violation of this section or such regulations shall be treated as a violation of subtitle A of title V of such Act [[15 U.S.C. 6801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801&num=0&edition=prelim) et seq.].
+
+**(e) Definitions** As used in this section—
+
+(1) the term “appropriate Federal regulator” means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, the National Credit Union Administration Board, the Securities and Exchange Commission, the Federal Housing Finance Agency; and
+
+(2) the term “covered financial institution” means—
+
+  (A) a depository institution or depository institution holding company, as such terms are defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813);
+
+  (B) a broker-dealer registered under section 78o of title 15;
+
+  (C) a credit union, as described in [section 461(b)(1)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section461/b/1/A/iv&num=0&edition=prelim);
+
+  (D) an investment advisor, as such term is defined in [section 80b–2(a)(11) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2/a/11&num=0&edition=prelim);
+
+  (E) the Federal National Mortgage Association;
+
+  (F) the Federal Home Loan Mortgage Corporation; and
+
+  (G) any other financial institution that the appropriate Federal regulators, jointly, by rule, determine should be treated as a covered financial institution for purposes of this section.
+
+**(f) Exemption for certain financial institutions** The requirements of this section shall not apply to covered financial institutions with assets of less than $1,000,000,000.
+
+### Statutory Notes
+
+#### References in Text
+[Section 1831p–1 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831p-1), referred to in subsec. (c)(1), was in the original “section of the Federal Deposit Insurance Act ([12 U.S.C. 2](./chapter-001-the-comptroller-of-the-currency.md#section-2) 1831p–1)”, and was translated as reading “section 39 of the Federal Deposit Insurance Act”, which is classified to [section 1831p–1 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831p-1), to reflect the probable intent of Congress.
+
+The Gramm-Leach-Bliley Act, referred to in subsec. (d), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Subtitle A (§§ 501–510) of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5311"></a>
+## § 5311. Leverage and risk-based capital requirements
+**(a) Definitions** For purposes of this section, the following definitions shall apply:
+
+(1) **Generally applicable leverage capital requirements** — The term “generally applicable leverage capital requirements” means—
+
+  (A) the minimum ratios of tier 1 capital to average total assets, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
+
+  (B) includes the regulatory capital components in the numerator of that capital requirement, average total assets in the denominator of that capital requirement, and the required ratio of the numerator to the denominator.
+
+(2) **Generally applicable risk-based capital requirements** — The term “generally applicable risk-based capital requirements” means—
+
+  (A) the risk-based capital requirements, as established by the appropriate Federal banking agencies to apply to insured depository institutions under the prompt corrective action regulations implementing section 1831o of this title, regardless of total consolidated asset size or foreign financial exposure; and
+
+  (B) includes the regulatory capital components in the numerator of those capital requirements, the risk-weighted assets in the denominator of those capital requirements, and the required ratio of the numerator to the denominator.
+
+(3) **Definition of depository institution holding company** — The term “depository institution holding company” means a bank holding company or a savings and loan holding company (as those terms are defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)) that is organized in the United States, including any bank or savings and loan holding company that is owned or controlled by a foreign organization, but does not include the foreign organization.
+
+**(b) Minimum capital requirements**
+
+(1) **Minimum leverage capital requirements** — The appropriate Federal banking agencies shall establish minimum leverage capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum leverage capital requirements established under this paragraph shall not be less than the generally applicable leverage capital requirements, which shall serve as a floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable leverage capital requirements that were in effect for insured depository institutions as of July 21, 2010.
+
+(2) **Minimum risk-based capital requirements** — The appropriate Federal banking agencies shall establish minimum risk-based capital requirements on a consolidated basis for insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors. The minimum risk-based capital requirements established under this paragraph shall not be less than the generally applicable risk-based capital requirements, which shall serve as a floor for any capital requirements that the agency may require, nor quantitatively lower than the generally applicable risk-based capital requirements that were in effect for insured depository institutions as of July 21, 2010.
+
+(3) **Investments in financial subsidiaries** — For purposes of this section, investments in financial subsidiaries that insured depository institutions are required to deduct from regulatory capital under [section 24a of this title](./chapter-002-national-banks.md#section-24a) or [section 1831w(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831w/a/2&num=0&edition=prelim) need not be deducted from regulatory capital by depository institution holding companies or nonbank financial companies supervised by the Board of Governors, unless such capital deduction is required by the Board of Governors or the primary financial regulatory agency in the case of nonbank financial companies supervised by the Board of Governors.
+
+(4) **Effective dates and phase-in periods**
+
+  (A) *Debt or equity instruments on or after May 19, 2010* — For debt or equity instruments issued on or after May 19, 2010, by depository institution holding companies or by nonbank financial companies supervised by the Board of Governors, this section shall be deemed to have become effective as of May 19, 2010.
+
+  (B) *Debt or equity instruments issued before May 19, 2010* — For debt or equity instruments issued before May 19, 2010, by depository institution holding companies or by nonbank financial companies supervised by the Board of Governors, any regulatory capital deductions required under this section shall be phased in incrementally over a period of 3 years, with the phase-in period to begin on January 1, 2013, except as set forth in subparagraph (C).
+
+  (C) *Debt or equity instruments of smaller institutions* — For debt or equity instruments issued before May 19, 2010, by depository institution holding companies with total consolidated assets of less than $15,000,000,000 as of December 31, 2009, and by organizations that were mutual holding companies on May 19, 2010, the capital deductions that would be required for other institutions under this section are not required as a result of this section.
+
+  (D) *Depository institution holding companies not previously supervised by the Board of Governors* — For any depository institution holding company that was not supervised by the Board of Governors as of May 19, 2010, the requirements of this section, except as set forth in subparagraphs (A) and (B), shall be effective 5 years after July 21, 2010 11 So in original. Probably should be followed by a period.
+
+  (E) *Certain bank holding company subsidiaries of foreign banking organizations* — For bank holding company subsidiaries of foreign banking organizations that have relied on Supervision and Regulation Letter SR-01-1 issued by the Board of Governors (as in effect on May 19, 2010), the requirements of this section, except as set forth in subparagraph (A), shall be effective 5 years after July 21, 2010.
+
+(5) **Exceptions** — This section shall not apply to—
+
+  (A) debt or equity instruments issued to the United States or any agency or instrumentality thereof pursuant to the Emergency Economic Stabilization Act of 2008 [[12 U.S.C. 5201](./chapter-052-emergency-economic-stabilization.md#section-5201) et seq.], and prior to October 4, 2010;
+
+  (B) any Federal home loan bank; or
+
+  (C) any small bank holding company that is subject to the Small Bank Holding Company Policy Statement of the Board of Governors, as in effect on May 19, 2010.
+
+(6) **Study and report on small institution access to capital**
+
+  (A) *Study required* — The Comptroller General of the United States, after consultation with the Federal banking agencies, shall conduct a study of access to capital by smaller insured depository institutions.
+
+  (B) *Scope* — For purposes of this study required by subparagraph (A), the term “smaller insured depository institution” means an insured depository institution with total consolidated assets of $5,000,000,000 or less.
+
+  (C) *Report to Congress* — Not later than 18 months after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report summarizing the results of the study conducted under subparagraph (A), together with any recommendations for legislative or regulatory action that would enhance the access to capital of smaller insured depository institutions, in a manner that is consistent with safe and sound banking operations.
+
+(7) **Capital requirements to address activities that pose risks to the financial system**
+
+  (A) *In general* — Subject to the recommendations of the Council, in accordance with [section 5330 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5330), the Federal banking agencies shall develop capital requirements applicable to insured depository institutions, depository institution holding companies, and nonbank financial companies supervised by the Board of Governors that address the risks that the activities of such institutions pose, not only to the institution engaging in the activity, but to other public and private stakeholders in the event of adverse performance, disruption, or failure of the institution or the activity.
+
+  (B) *Content* — Such rules shall address, at a minimum, the risks arising from—
+
+    (i) significant volumes of activity in derivatives, securitized products purchased and sold, financial guarantees purchased and sold, securities borrowing and lending, and repurchase agreements and reverse repurchase agreements;
+
+    (ii) concentrations in assets for which the values presented in financial reports are based on models rather than historical cost or prices deriving from deep and liquid 2-way markets; and
+
+    (iii) concentrations in market share for any activity that would substantially disrupt financial markets if the institution is forced to unexpectedly cease the activity.
+
+### Statutory Notes
+
+#### References in Text
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title](./chapter-052-emergency-economic-stabilization.md#section-5201) and Tables.
+
+
+<a id="section-5321"></a>
+## § 5321. Definitions
+
+As used in this Act, the following definitions shall apply, except as the context otherwise requires or as otherwise specifically provided in this Act:
+
+(1) **Affiliate** — The term “affiliate” has the same meaning as in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+(2) **Appropriate Federal banking agency** — On and after the transfer date, the term “appropriate Federal banking agency” has the same meaning as in [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim), as amended by title III.11 See References in Text note below.
+
+(3) **Board of Governors** — The term “Board of Governors” means the Board of Governors of the Federal Reserve System.
+
+(4) **Bureau** — The term “Bureau” means the Bureau of Consumer Financial Protection established under title X.1
+
+(5) **Commission** — The term “Commission” means the Securities and Exchange Commission, except in the context of the Commodity Futures Trading Commission.
+
+(6) **Commodity futures terms** — The terms “futures commission merchant”, “swap”, “swap dealer”, “swap execution facility”, “derivatives clearing organization”, “board of trade”, “commodity trading advisor”, “commodity pool”, and “commodity pool operator” have the same meanings as given the terms in section 1a of the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.) [[7 U.S.C. 1a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1a&num=0&edition=prelim)].
+
+(7) **Corporation** — The term “Corporation” means the Federal Deposit Insurance Corporation.
+
+(8) **Council** — The term “Council” means the Financial Stability Oversight Council established under subchapter I.
+
+(9) **Credit union** — The term “credit union” means a Federal credit union, State credit union, or State-chartered credit union, as those terms are defined in [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
+
+(10) **Federal banking agency** — The term—
+
+  (A) “Federal banking agency” means, individually, the Board of Governors, the Office of the Comptroller of the Currency, and the Corporation; and
+
+  (B) “Federal banking agencies” means all of the agencies referred to in subparagraph (A), collectively.
+
+(11) **Functionally regulated subsidiary** — The term “functionally regulated subsidiary” has the same meaning as in [section 1844(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1844/c/5&num=0&edition=prelim).
+
+(12) **Primary financial regulatory agency** — The term “primary financial regulatory agency” means—
+
+  (A) the appropriate Federal banking agency, with respect to institutions described in [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim), except to the extent that an institution is or the activities of an institution are otherwise described in subparagraph (B), (C), (D), or (E);
+
+  (B) the Securities and Exchange Commission, with respect to—
+
+    (i) any broker or dealer that is registered with the Commission under the Securities Exchange Act of 1934 [[15 U.S.C. 78a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) et seq.], with respect to the activities of the broker or dealer that require the broker or dealer to be registered under that Act;
+
+    (ii) any investment company that is registered with the Commission under the Investment Company Act of 1940 [[15 U.S.C. 80a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–1&num=0&edition=prelim) et seq.], with respect to the activities of the investment company that require the investment company to be registered under that Act;
+
+    (iii) any investment adviser that is registered with the Commission under the Investment Advisers Act of 1940 [[15 U.S.C. 80b–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–1&num=0&edition=prelim) et seq.], with respect to the investment advisory activities of such company and activities that are incidental to such advisory activities;
+
+    (iv) any clearing agency registered with the Commission under the Securities Exchange Act of 1934, with respect to the activities of the clearing agency that require the agency to be registered under such Act;
+
+    (v) any nationally recognized statistical rating organization registered with the Commission under the Securities Exchange Act of 1934;
+
+    (vi) any transfer agent registered with the Commission under the Securities Exchange Act of 1934;
+
+    (vii) any exchange registered as a national securities exchange with the Commission under the Securities Exchange Act of 1934;
+
+    (viii) any national securities association registered with the Commission under the Securities Exchange Act of 1934;
+
+    (ix) any securities information processor registered with the Commission under the Securities Exchange Act of 1934;
+
+    (x) the Municipal Securities Rulemaking Board established under the Securities Exchange Act of 1934;
+
+    (xi) the Public Company Accounting Oversight Board established under the Sarbanes-Oxley Act of 2002 ([15 U.S.C. 7211](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7211&num=0&edition=prelim) et seq.);
+
+    (xii) the Securities Investor Protection Corporation established under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.); and
+
+    (xiii) any security-based swap execution facility, security-based swap data repository, security-based swap dealer or major security-based swap participant registered with the Commission under the Securities Exchange Act of 1934, with respect to the security-based swap activities of the person that require such person to be registered under such Act;
+
+  (C) the Commodity Futures Trading Commission, with respect to—
+
+    (i) any futures commission merchant registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), with respect to the activities of the futures commission merchant that require the futures commission merchant to be registered under that Act;
+
+    (ii) any commodity pool operator registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), with respect to the activities of the commodity pool operator that require the commodity pool operator to be registered under that Act, or a commodity pool, as defined in that Act;
+
+    (iii) any commodity trading advisor or introducing broker registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), with respect to the activities of the commodity trading advisor or introducing broker that require the commodity trading adviser or introducing broker to be registered under that Act;
+
+    (iv) any derivatives clearing organization registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), with respect to the activities of the derivatives clearing organization that require the derivatives clearing organization to be registered under that Act;
+
+    (v) any board of trade designated as a contract market by the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.);
+
+    (vi) any futures association registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.);
+
+    (vii) any retail foreign exchange dealer registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), with respect to the activities of the retail foreign exchange dealer that require the retail foreign exchange dealer to be registered under that Act;
+
+    (viii) any swap execution facility, swap data repository, swap dealer, or major swap participant registered with the Commodity Futures Trading Commission under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.) with respect to the swap activities of the person that require such person to be registered under that Act; and
+
+    (ix) any registered entity under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), with respect to the activities of the registered entity that require the registered entity to be registered under that Act;
+
+  (D) the State insurance authority of the State in which an insurance company is domiciled, with respect to the insurance activities and activities that are incidental to such insurance activities of an insurance company that is subject to supervision by the State insurance authority under State insurance law; and
+
+  (E) the Federal Housing Finance Agency, with respect to Federal Home Loan Banks or the Federal Home Loan Bank System, and with respect to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
+
+(13) **Prudential standards** — The term “prudential standards” means enhanced supervision and regulatory standards developed by the Board of Governors under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+(14) **Secretary** — The term “Secretary” means the Secretary of the Treasury.
+
+(15) **Securities terms** — The—
+
+  (A) terms “broker”, “dealer”, “issuer”, “nationally recognized statistical rating organization”, “security”, and “securities laws” have the same meanings as in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim));
+
+  (B) term “investment adviser” has the same meaning as in section 202 of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2&num=0&edition=prelim)); and
+
+  (C) term “investment company” has the same meaning as in section 3 of the Investment Company Act of 1940 ([15 U.S.C. 80a–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3&num=0&edition=prelim)).
+
+(16) **State** — The term “State” means any State, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
+
+(17) **Transfer date** — The term “transfer date” means the date established under [section 5411 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5411).
+
+(18) **Other incorporated definitions**
+
+  (A) *Federal Deposit Insurance Act* — The terms “bank”, “bank holding company”, “control”, “deposit”, “depository institution”, “Federal depository institution”, “Federal savings association”, “foreign bank”, “including”, “insured branch”, “insured depository institution”, “national member bank”, “national nonmember bank”, “savings association”, “State bank”, “State depository institution”, “State member bank”, “State nonmember bank”, “State savings association”, and “subsidiary” have the same meanings as in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+  (B) *Holding companies* — The term—
+
+    (i) “bank holding company” has the same meaning as in [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841);
+
+    (ii) “financial holding company” has the same meaning as in [section 1841(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/p&num=0&edition=prelim); and
+
+    (iii) “savings and loan holding company” has the same meaning as in [section 1467a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+Title III, referred to in par. (2), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. Section 312(c)(1) of title III of Pub. L. 111–203 amended [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim).
+
+Title X, referred to in par. (4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note below and Tables.
+
+Subchapter I, referred to in par. (8), was in the original “title I”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note below and Tables.
+
+The Securities Exchange Act of 1934, referred to in par. (12)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+
+The Investment Company Act of 1940, referred to in par. (12)(B)(ii), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+
+The Investment Advisers Act of 1940, referred to in par. (12)(B)(iii), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
+
+The Sarbanes-Oxley Act of 2002, referred to in par. (12)(B)(xi), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, which is classified principally to chapter 98 (§ 7201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 7201 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7201&num=0&edition=prelim) and Tables.
+
+The Securities Investor Protection Act of 1970, referred to in par. (12)(B)(xii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+
+The Commodity Exchange Act, referred to in par. (12)(C), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Pub. L. 111–203, § 4, July 21, 2010, 124 Stat. 1390, provided that: “Except as otherwise specifically provided in this Act [see Short Title note below] or the amendments made by this Act, this Act and such amendments shall take effect 1 day after the date of enactment of this Act [July 21, 2010].”
+
+#### Short Title
+Pub. L. 111–203, § 1(a), July 21, 2010, 124 Stat. 1376, provided that: “This Act [see Tables for classification] may be cited as the ‘Dodd-Frank Wall Street Reform and Consumer Protection Act’.”
+
+Pub. L. 111–203, title I, § 101, July 21, 2010, 124 Stat. 1391, provided that: “This title [enacting subchapter I of this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78o of Title 15, Commerce and Trade] may be cited as the ‘Financial Stability Act of 2010’.”
+
+Pub. L. 111–203, title III, § 300, July 21, 2010, 124 Stat. 1520, provided that: “This title [enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealing [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Enhancing Financial Institution Safety and Soundness Act of 2010’.”
+
+Pub. L. 111–203, title VIII, § 801, July 21, 2010, 124 Stat. 1802, provided that: “This title [enacting subchapter IV of this chapter] may be cited as the ‘Payment, Clearing, and Settlement Supervision Act of 2010’.”
+
+Pub. L. 111–203, title X, § 1001, July 21, 2010, 124 Stat. 1955, provided that: “This title [see Tables for classification] may be cited as the ‘Consumer Financial Protection Act of 2010’.”
+
+Pub. L. 111–203, title XII, § 1201, July 21, 2010, 124 Stat. 2129, provided that: “This title [enacting subchapter VII of this chapter and [section 4719 of this title](./chapter-047-community-development-banking.md#section-4719)] may be cited as the ‘Improving Access to Mainstream Financial Institutions Act of 2010’.”
+
+
+<a id="section-5322"></a>
+## § 5322. Severability
+
+If any provision of this Act, an amendment made by this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstance shall not be affected thereby.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5323"></a>
+## § 5323. Antitrust savings clause
+
+Nothing in this Act, or any amendment made by this Act, shall be construed to modify, impair, or supersede the operation of any of the antitrust laws, unless otherwise specified. For purposes of this section, the term “antitrust laws” has the same meaning as in subsection (a) of [section 12 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim), except that such term includes [section 45 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45&num=0&edition=prelim), to the extent that such section 45 applies to unfair methods of competition.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5324"></a>
+## § 5324. Definitions
+**(a) In general** For purposes of this subchapter, unless the context otherwise requires, the following definitions shall apply:
+
+(1) **Bank holding company** — The term “bank holding company” has the same meaning as in section 2 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841)). A foreign bank or company that is treated as a bank holding company for purposes of the Bank Holding Company Act of 1956 [[12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841) et seq.], pursuant to [section 3106(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3106/a&num=0&edition=prelim), shall be treated as a bank holding company for purposes of this subchapter.
+
+(2) **Chairperson** — The term “Chairperson” means the Chairperson of the Council.
+
+(3) **Member agency** — The term “member agency” means an agency represented by a voting member of the Council.
+
+(4) **Nonbank financial company definitions**
+
+  (A) *Foreign nonbank financial company* — The term “foreign nonbank financial company” means a company (other than a company that is, or is treated in the United States as, a bank holding company) that is—
+
+    (i) incorporated or organized in a country other than the United States; and
+
+    (ii) predominantly engaged in, including through a branch in the United States, financial activities, as defined in paragraph (6).
+
+  (B) *U.S. nonbank financial company* — The term “U.S. nonbank financial company” means a company (other than a bank holding company, a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 ([12 U.S.C. 2001](./chapter-023-farm-credit-system.md#section-2001) et seq.), or a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swap execution facility, or security-based swap data repository registered with the Commission, or a board of trade designated as a contract market (or parent thereof), or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility or a swap data repository registered with the Commodity Futures Trading Commission), that is—
+
+    (i) incorporated or organized under the laws of the United States or any State; and
+
+    (ii) predominantly engaged in financial activities, as defined in paragraph (6).
+
+  (C) *Nonbank financial company* — The term “nonbank financial company” means a U.S. nonbank financial company and a foreign nonbank financial company.
+
+  (D) *Nonbank financial company supervised by the Board of Governors* — The term “nonbank financial company supervised by the Board of Governors” means a nonbank financial company that the Council has determined under [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) shall be supervised by the Board of Governors.
+
+(5) **Office of Financial Research** — The term “Office of Financial Research” means the office established under [section 5342 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5342).
+
+(6) **Predominantly engaged** — A company is “predominantly engaged in financial activities” if—
+
+  (A) the annual gross revenues derived by the company and all of its subsidiaries from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 [[12 U.S.C. 1843(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim)]) and, if applicable, from the ownership or control of one or more insured depository institutions, represents 85 percent or more of the consolidated annual gross revenues of the company; or
+
+  (B) the consolidated assets of the company and all of its subsidiaries related to activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956) and, if applicable, related to the ownership or control of one or more insured depository institutions, represents 85 percent or more of the consolidated assets of the company.
+
+(7) **Significant institutions** — The terms “significant nonbank financial company” and “significant bank holding company” have the meanings given those terms by rule of the Board of Governors, but in no instance shall the term “significant nonbank financial company” include those entities that are excluded under paragraph (4)(B).
+
+**(b) Definitional criteria** The Board of Governors shall establish, by regulation, the requirements for determining if a company is predominantly engaged in financial activities, as defined in subsection (a)(6).
+
+**(c) Foreign nonbank financial companies** For purposes of the application of parts A and C (other than [section 5323(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5323/b&num=0&edition=prelim)) with respect to a foreign nonbank financial company, references in this subchapter to “company” or “subsidiary” include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Bank Holding Company Act of 1956, referred to in subsec. (a)(1), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+
+The Farm Credit Act of 1971, referred to in subsec. (a)(4)(B), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-023-farm-credit-system.md#section-2001) and Tables.
+
+Part C, referred to in subsec. (c), was in the original “subtitle C”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to part C (§ 5361 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
+
+#### Effective Date
+Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+#### Short Title
+This subchapter known as the “Financial Stability Act of 2010”, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5325"></a>
+## § 5325. Financial Stability Oversight Council established
+**(a) Establishment** Effective on July 21, 2010, there is established the Financial Stability Oversight Council.
+
+**(b) Membership** The Council shall consist of the following members:
+
+(1) **Voting members** — The voting members, who shall each have 1 vote on the Council shall be—
+
+  (A) the Secretary of the Treasury, who shall serve as Chairperson of the Council;
+
+  (B) the Chairman of the Board of Governors;
+
+  (C) the Comptroller of the Currency;
+
+  (D) the Director of the Bureau;
+
+  (E) the Chairman of the Commission;
+
+  (F) the Chairperson of the Corporation;
+
+  (G) the Chairperson of the Commodity Futures Trading Commission;
+
+  (H) the Director of the Federal Housing Finance Agency;
+
+  (I) the Chairman of the National Credit Union Administration Board; and
+
+  (J) an independent member appointed by the President, by and with the advice and consent of the Senate, having insurance expertise.
+
+(2) **Nonvoting members** — The nonvoting members, who shall serve in an advisory capacity as a nonvoting member of the Council, shall be—
+
+  (A) the Director of the Office of Financial Research;
+
+  (B) the Director of the Federal Insurance Office;
+
+  (C) a State insurance commissioner, to be designated by a selection process determined by the State insurance commissioners;
+
+  (D) a State banking supervisor, to be designated by a selection process determined by the State banking supervisors; and
+
+  (E) a State securities commissioner (or an officer performing like functions), to be designated by a selection process determined by such State securities commissioners.
+
+(3) **Nonvoting member participation** — The nonvoting members of the Council shall not be excluded from any of the proceedings, meetings, discussions, or deliberations of the Council, except that the Chairperson may, upon an affirmative vote of the member agencies, exclude the nonvoting members from any of the proceedings, meetings, discussions, or deliberations of the Council when necessary to safeguard and promote the free exchange of confidential supervisory information.
+
+**(c) Terms; vacancy**
+
+(1) **Terms** — The independent member of the Council shall serve for a term of 6 years, and each nonvoting member described in subparagraphs (C), (D), and (E) of subsection (b)(2) shall serve for a term of 2 years.
+
+(2) **Vacancy** — Any vacancy on the Council shall be filled in the manner in which the original appointment was made.
+
+(3) **Acting officials may serve** — In the event of a vacancy in the office of the head of a member agency or department, and pending the appointment of a successor, or during the absence or disability of the head of a member agency or department, the acting head of the member agency or department shall serve as a member of the Council in the place of that agency or department head.
+
+**(d) Technical and professional advisory committees** The Council may appoint such special advisory, technical, or professional committees as may be useful in carrying out the functions of the Council, including an advisory committee consisting of State regulators, and the members of such committees may be members of the Council, or other persons, or both.
+
+**(e) Meetings**
+
+(1) **Timing** — The Council shall meet at the call of the Chairperson or a majority of the members then serving, but not less frequently than quarterly.
+
+(2) **Rules for conducting business** — The Council shall adopt such rules as may be necessary for the conduct of the business of the Council. Such rules shall be rules of agency organization, procedure, or practice for purposes of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+**(f) Voting** Unless otherwise specified, the Council shall make all decisions that it is authorized or required to make by a majority vote of the voting members then serving.
+
+**(g) Nonapplicability of FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council, or to any special advisory, technical, or professional committee appointed by the Council, except that, if an advisory, technical, or professional committee has one or more members who are not employees of or affiliated with the United States Government, the Council shall publish a list of the names of the members of such committee.
+
+**(h) Assistance from Federal agencies** Any department or agency of the United States may provide to the Council and any special advisory, technical, or professional committee appointed by the Council, such services, funds, facilities, staff, and other support services as the Council may determine advisable.
+
+**(i) Compensation of members**
+
+(1) **Federal employee members** — All members of the Council who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+
+(2) **Omitted**
+
+**(j) Detail of Government employees** Any employee of the Federal Government may be detailed to the Council without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege. An employee of the Federal Government detailed to the Council shall report to and be subject to oversight by the Council during the assignment to the Council, and shall be compensated by the department or agency from which the employee was detailed.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+Section is comprised of section 111 of Pub. L. 111–203. Subsec. (i)(2) of section 111 of Pub. L. 111–203 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-5326"></a>
+## § 5326. Council authority
+**(a) Purposes and duties of the Council**
+
+(1) **In general** — The purposes of the Council are—
+
+  (A) to identify risks to the financial stability of the United States that could arise from the material financial distress or failure, or ongoing activities, of large, interconnected bank holding companies or nonbank financial companies, or that could arise outside the financial services marketplace;
+
+  (B) to promote market discipline, by eliminating expectations on the part of shareholders, creditors, and counterparties of such companies that the Government will shield them from losses in the event of failure; and
+
+  (C) to respond to emerging threats to the stability of the United States financial system.
+
+(2) **Duties** — The Council shall, in accordance with this subchapter—
+
+  (A) collect information from member agencies, other Federal and State financial regulatory agencies, the Federal Insurance Office and, if necessary to assess risks to the United States financial system, direct the Office of Financial Research to collect information from bank holding companies and nonbank financial companies;
+
+  (B) provide direction to, and request data and analyses from, the Office of Financial Research to support the work of the Council;
+
+  (C) monitor the financial services marketplace in order to identify potential threats to the financial stability of the United States;
+
+  (D) to 11 So in original. The word “to” probably should not appear. monitor domestic and international financial regulatory proposals and developments, including insurance and accounting issues, and to advise Congress and make recommendations in such areas that will enhance the integrity, efficiency, competitiveness, and stability of the U.S. financial markets;
+
+  (E) facilitate information sharing and coordination among the member agencies and other Federal and State agencies regarding domestic financial services policy development, rulemaking, examinations, reporting requirements, and enforcement actions;
+
+  (F) recommend to the member agencies general supervisory priorities and principles reflecting the outcome of discussions among the member agencies;
+
+  (G) identify gaps in regulation that could pose risks to the financial stability of the United States;
+
+  (H) require supervision by the Board of Governors for nonbank financial companies that may pose risks to the financial stability of the United States in the event of their material financial distress or failure, or because of their activities pursuant to [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323);
+
+  (I) make recommendations to the Board of Governors concerning the establishment of heightened prudential standards for risk-based capital, leverage, liquidity, contingent capital, resolution plans and credit exposure reports, concentration limits, enhanced public disclosures, and overall risk management for nonbank financial companies and large, interconnected bank holding companies supervised by the Board of Governors;
+
+  (J) identify systemically important financial market utilities and payment, clearing, and settlement activities (as that term is defined in subchapter IV);
+
+  (K) make recommendations to primary financial regulatory agencies to apply new or heightened standards and safeguards for financial activities or practices that could create or increase risks of significant liquidity, credit, or other problems spreading among bank holding companies, nonbank financial companies, and United States financial markets;
+
+  (L) review and, as appropriate, may submit comments to the Commission and any standard-setting body with respect to an existing or proposed accounting principle, standard, or procedure;
+
+  (M) provide a forum for—
+
+    (i) discussion and analysis of emerging market developments and financial regulatory issues; and
+
+    (ii) resolution of jurisdictional disputes among the members of the Council; and
+
+  (N) annually report to and testify before Congress on—
+
+    (i) the activities of the Council;
+
+    (ii) significant financial market and regulatory developments, including insurance and accounting regulations and standards, along with an assessment of those developments on the stability of the financial system;
+
+    (iii) potential emerging threats to the financial stability of the United States;
+
+    (iv) all determinations made under [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) or subchapter IV, and the basis for such determinations;
+
+    (v) all recommendations made under [section 5329 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5329) and the result of such recommendations; and
+
+    (vi) recommendations—
+
+      (I) to enhance the integrity, efficiency, competitiveness, and stability of United States financial markets;
+
+      (II) to promote market discipline; and
+
+      (III) to maintain investor confidence.
+
+**(b) Statements by voting members of the Council** At the time at which each report is submitted under subsection (a), each voting member of the Council shall—
+
+(1) if such member believes that the Council, the Government, and the private sector are taking all reasonable steps to ensure financial stability and to mitigate systemic risk that would negatively affect the economy, submit a signed statement to Congress stating such belief; or
+
+(2) if such member does not believe that all reasonable steps described under paragraph (1) are being taken, submit a signed statement to Congress stating what actions such member believes need to be taken in order to ensure that all reasonable steps described under paragraph (1) are taken.
+
+**(c) Testimony by the Chairperson** The Chairperson shall appear before the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at an annual hearing, after the report is submitted under subsection (a)—
+
+(1) to discuss the efforts, activities, objectives, and plans of the Council; and
+
+(2) to discuss and answer questions concerning such report.
+
+**(d) Authority to obtain information**
+
+(1) **In general** — The Council may receive, and may request the submission of, any data or information from the Office of Financial Research, member agencies, and the Federal Insurance Office, as necessary—
+
+  (A) to monitor the financial services marketplace to identify potential risks to the financial stability of the United States; or
+
+  (B) to otherwise carry out any of the provisions of this subchapter.
+
+(2) **Submissions by the office and member agencies** — Notwithstanding any other provision of law, the Office of Financial Research, any member agency, and the Federal Insurance Office, are authorized to submit information to the Council.
+
+(3) **Financial data collection**
+
+  (A) *In general* — The Council, acting through the Office of Financial Research, may require the submission of periodic and other reports from any nonbank financial company or bank holding company for the purpose of assessing the extent to which a financial activity or financial market in which the nonbank financial company or bank holding company participates, or the nonbank financial company or bank holding company itself, poses a threat to the financial stability of the United States.
+
+  (B) *Mitigation of report burden* — Before requiring the submission of reports from any nonbank financial company or bank holding company that is regulated by a member agency or any primary financial regulatory agency, the Council, acting through the Office of Financial Research, shall coordinate with such agencies and shall, whenever possible, rely on information available from the Office of Financial Research or such agencies.
+
+  (C) *Mitigation in case of foreign financial companies* — Before requiring the submission of reports from a company that is a foreign nonbank financial company or foreign-based bank holding company, the Council shall, acting through the Office of Financial Research, to the extent appropriate, consult with the appropriate foreign regulator of such company and, whenever possible, rely on information already being collected by such foreign regulator, with English translation.
+
+(4) **Back-up examination by the Board of Governors** — If the Council is unable to determine whether the financial activities of a U.S. nonbank financial company pose a threat to the financial stability of the United States, based on information or reports obtained under paragraphs (1) and (3), discussions with management, and publicly available information, the Council may request the Board of Governors, and the Board of Governors is authorized, to conduct an examination of the U.S. nonbank financial company for the sole purpose of determining whether the nonbank financial company should be supervised by the Board of Governors for purposes of this subchapter.
+
+(5) **Confidentiality**
+
+  (A) *In general* — The Council, the Office of Financial Research, and the other member agencies shall maintain the confidentiality of any data, information, and reports submitted under this subchapter.
+
+  (B) *Retention of privilege* — The submission of any nonpublicly available data or information under this subsection and part B shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+
+  (C) *Freedom of Information Act* — [Section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), including the exceptions thereunder, shall apply to any data or information submitted under this subsection and part B.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a)(2) and (d)(1)(B), (4), (5)(A), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5327"></a>
+## § 5327. Authority to require supervision and regulation of certain nonbank financial companies
+**(a) U.S. nonbank financial companies supervised by the Board of Governors**
+
+(1) **Determination** — The Council, on a nondelegable basis and by a vote of not fewer than ⅔ of the voting members then serving, including an affirmative vote by the Chairperson, may determine that a U.S. nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the U.S. nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the U.S. nonbank financial company, could pose a threat to the financial stability of the United States.
+
+(2) **Considerations** — In making a determination under paragraph (1), the Council shall consider—
+
+  (A) the extent of the leverage of the company;
+
+  (B) the extent and nature of the off-balance-sheet exposures of the company;
+
+  (C) the extent and nature of the transactions and relationships of the company with other significant nonbank financial companies and significant bank holding companies;
+
+  (D) the importance of the company as a source of credit for households, businesses, and State and local governments and as a source of liquidity for the United States financial system;
+
+  (E) the importance of the company as a source of credit for low-income, minority, or underserved communities, and the impact that the failure of such company would have on the availability of credit in such communities;
+
+  (F) the extent to which assets are managed rather than owned by the company, and the extent to which ownership of assets under management is diffuse;
+
+  (G) the nature, scope, size, scale, concentration, interconnectedness, and mix of the activities of the company;
+
+  (H) the degree to which the company is already regulated by 1 or more primary financial regulatory agencies;
+
+  (I) the amount and nature of the financial assets of the company;
+
+  (J) the amount and types of the liabilities of the company, including the degree of reliance on short-term funding; and
+
+  (K) any other risk-related factors that the Council deems appropriate.
+
+**(b) Foreign nonbank financial companies supervised by the Board of Governors**
+
+(1) **Determination** — The Council, on a nondelegable basis and by a vote of not fewer than ⅔ of the voting members then serving, including an affirmative vote by the Chairperson, may determine that a foreign nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards, in accordance with this subchapter, if the Council determines that material financial distress at the foreign nonbank financial company, or the nature, scope, size, scale, concentration, interconnectedness, or mix of the activities of the foreign nonbank financial company, could pose a threat to the financial stability of the United States.
+
+(2) **Considerations** — In making a determination under paragraph (1), the Council shall consider—
+
+  (A) the extent of the leverage of the company;
+
+  (B) the extent and nature of the United States related off-balance-sheet exposures of the company;
+
+  (C) the extent and nature of the transactions and relationships of the company with other significant nonbank financial companies and significant bank holding companies;
+
+  (D) the importance of the company as a source of credit for United States households, businesses, and State and local governments and as a source of liquidity for the United States financial system;
+
+  (E) the importance of the company as a source of credit for low-income, minority, or underserved communities in the United States, and the impact that the failure of such company would have on the availability of credit in such communities;
+
+  (F) the extent to which assets are managed rather than owned by the company and the extent to which ownership of assets under management is diffuse;
+
+  (G) the nature, scope, size, scale, concentration, interconnectedness, and mix of the activities of the company;
+
+  (H) the extent to which the company is subject to prudential standards on a consolidated basis in its home country that are administered and enforced by a comparable foreign supervisory authority;
+
+  (I) the amount and nature of the United States financial assets of the company;
+
+  (J) the amount and nature of the liabilities of the company used to fund activities and operations in the United States, including the degree of reliance on short-term funding; and
+
+  (K) any other risk-related factors that the Council deems appropriate.
+
+**(c) Antievasion**
+
+(1) **Determinations** — In order to avoid evasion of this subchapter, the Council, on its own initiative or at the request of the Board of Governors, may determine, on a nondelegable basis and by a vote of not fewer than ⅔ of the voting members then serving, including an affirmative vote by the Chairperson, that—
+
+  (A) material financial distress related to, or the nature, scope, size, scale, concentration, interconnectedness, or mix of, the financial activities conducted directly or indirectly by a company incorporated or organized under the laws of the United States or any State or the financial activities in the United States of a company incorporated or organized in a country other than the United States would pose a threat to the financial stability of the United States, based on consideration of the factors in subsection (a)(2) or (b)(2), as applicable;
+
+  (B) the company is organized or operates in such a manner as to evade the application of this subchapter; and
+
+  (C) such financial activities of the company shall be supervised by the Board of Governors and subject to prudential standards in accordance with this subchapter, consistent with paragraph (3).
+
+(2) **Report** — Upon making a determination under paragraph (1), the Council shall submit a report to the appropriate committees of Congress detailing the reasons for making such determination.
+
+(3) **Consolidated supervision of only financial activities; establishment of an intermediate holding company**
+
+  (A) *Establishment of an intermediate holding company* — Upon a determination under paragraph (1), the company that is the subject of the determination may establish an intermediate holding company in which the financial activities of such company and its subsidiaries shall be conducted (other than the activities described in [section 5367(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5367/b/2&num=0&edition=prelim)) in compliance with any regulations or guidance provided by the Board of Governors. Such intermediate holding company shall be subject to the supervision of the Board of Governors and to prudential standards under this subchapter as if the intermediate holding company were a nonbank financial company supervised by the Board of Governors.
+
+  (B) *Action of the Board of Governors* — To facilitate the supervision of the financial activities subject to the determination in paragraph (1), the Board of Governors may require a company to establish an intermediate holding company, as provided for in [section 5367 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5367), which would be subject to the supervision of the Board of Governors and to prudential standards under this subchapter, as if the intermediate holding company were a nonbank financial company supervised by the Board of Governors.
+
+(4) **Notice and opportunity for hearing and final determination; judicial review** — Subsections (d) through (h) shall apply to determinations made by the Council pursuant to paragraph (1) in the same manner as such subsections apply to nonbank financial companies.
+
+(5) **Covered financial activities** — For purposes of this subsection, the term “financial activities”—
+
+  (A) means activities that are financial in nature (as defined in [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim));
+
+  (B) includes the ownership or control of one or more insured depository institutions; and
+
+  (C) does not include internal financial activities conducted for the company or any affiliate thereof, including internal treasury, investment, and employee benefit functions.
+
+(6) **Only financial activities subject to prudential supervision** — Nonfinancial activities of the company shall not be subject to supervision by the Board of Governors and prudential standards of the Board. For purposes of this Act, the financial activities that are the subject of the determination in paragraph (1) shall be subject to the same requirements as a nonbank financial company supervised by the Board of Governors. Nothing in this paragraph shall prohibit or limit the authority of the Board of Governors to apply prudential standards under this subchapter to the financial activities that are subject to the determination in paragraph (1).
+
+**(d) Reevaluation and rescission** The Council shall—
+
+(1) not less frequently than annually, reevaluate each determination made under subsections (a) and (b) with respect to such nonbank financial company supervised by the Board of Governors; and
+
+(2) rescind any such determination, if the Council, by a vote of not fewer than ⅔ of the voting members then serving, including an affirmative vote by the Chairperson, determines that the nonbank financial company no longer meets the standards under subsection (a) or (b), as applicable.
+
+**(e) Notice and opportunity for hearing and final determination**
+
+(1) **In general** — The Council shall provide to a nonbank financial company written notice of a proposed determination of the Council, including an explanation of the basis of the proposed determination of the Council, that a nonbank financial company shall be supervised by the Board of Governors and shall be subject to prudential standards in accordance with this subchapter.
+
+(2) **Hearing** — Not later than 30 days after the date of receipt of any notice of a proposed determination under paragraph (1), the nonbank financial company may request, in writing, an opportunity for a written or oral hearing before the Council to contest the proposed determination. Upon receipt of a timely request, the Council shall fix a time (not later than 30 days after the date of receipt of the request) and place at which such company may appear, personally or through counsel, to submit written materials (or, at the sole discretion of the Council, oral testimony and oral argument).
+
+(3) **Final determination** — Not later than 60 days after the date of a hearing under paragraph (2), the Council shall notify the nonbank financial company of the final determination of the Council, which shall contain a statement of the basis for the decision of the Council.
+
+(4) **No hearing requested** — If a nonbank financial company does not make a timely request for a hearing, the Council shall notify the nonbank financial company, in writing, of the final determination of the Council under subsection (a) or (b), as applicable, not later than 10 days after the date by which the company may request a hearing under paragraph (2).
+
+**(f) Emergency exception**
+
+(1) **In general** — The Council may waive or modify the requirements of subsection (e) with respect to a nonbank financial company, if the Council determines, by a vote of not fewer than ⅔ of the voting members then serving, including an affirmative vote by the Chairperson, that such waiver or modification is necessary or appropriate to prevent or mitigate threats posed by the nonbank financial company to the financial stability of the United States.
+
+(2) **Notice** — The Council shall provide notice of a waiver or modification under this subsection to the nonbank financial company concerned as soon as practicable, but not later than 24 hours after the waiver or modification is granted.
+
+(3) **International coordination** — In making a determination under paragraph (1), the Council shall consult with the appropriate home country supervisor, if any, of the foreign nonbank financial company that is being considered for such a determination.
+
+(4) **Opportunity for hearing** — The Council shall allow a nonbank financial company to request, in writing, an opportunity for a written or oral hearing before the Council to contest a waiver or modification under this subsection, not later than 10 days after the date of receipt of notice of the waiver or modification by the company. Upon receipt of a timely request, the Council shall fix a time (not later than 15 days after the date of receipt of the request) and place at which the nonbank financial company may appear, personally or through counsel, to submit written materials (or, at the sole discretion of the Council, oral testimony and oral argument).
+
+(5) **Notice of final determination** — Not later than 30 days after the date of any hearing under paragraph (4), the Council shall notify the subject nonbank financial company of the final determination of the Council under this subsection, which shall contain a statement of the basis for the decision of the Council.
+
+**(g) Consultation** The Council shall consult with the primary financial regulatory agency, if any, for each nonbank financial company or subsidiary of a nonbank financial company that is being considered for supervision by the Board of Governors under this section before the Council makes any final determination with respect to such nonbank financial company under subsection (a), (b), or (c).
+
+**(h) Judicial review** If the Council makes a final determination under this section with respect to a nonbank financial company, such nonbank financial company may, not later than 30 days after the date of receipt of the notice of final determination under subsection (d)(2), (e)(3), or (f)(5), bring an action in the United States district court for the judicial district in which the home office of such nonbank financial company is located, or in the United States District Court for the District of Columbia, for an order requiring that the final determination be rescinded, and the court shall, upon review, dismiss such action or direct the final determination to be rescinded. Review of such an action shall be limited to whether the final determination made under this section was arbitrary and capricious.
+
+**(i) International coordination** In exercising its duties under this subchapter with respect to foreign nonbank financial companies, foreign-based bank holding companies, and cross-border activities and markets, the Council shall consult with appropriate foreign regulatory authorities, to the extent appropriate.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a)(1), (b)(1), (c)(1), (3), (6), (e)(1), and (i), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+This Act, referred to in subsec. (c)(6), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5328"></a>
+## § 5328. Registration of nonbank financial companies supervised by the Board of Governors
+
+Not later than 180 days after the date of a final Council determination under [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) that a nonbank financial company is to be supervised by the Board of Governors, such company shall register with the Board of Governors, on forms prescribed by the Board of Governors, which shall include such information as the Board of Governors, in consultation with the Council, may deem necessary or appropriate to carry out this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5329"></a>
+## § 5329. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
+**(a) In general**
+
+(1) **Purpose** — In order to prevent or mitigate risks to the financial stability of the United States that could arise from the material financial distress, failure, or ongoing activities of large, interconnected financial institutions, the Council may make recommendations to the Board of Governors concerning the establishment and refinement of prudential standards and reporting and disclosure requirements applicable to nonbank financial companies supervised by the Board of Governors and large, interconnected bank holding companies, that—
+
+  (A) are more stringent than those applicable to other nonbank financial companies and bank holding companies that do not present similar risks to the financial stability of the United States; and
+
+  (B) increase in stringency, based on the considerations identified in subsection (b)(3).
+
+(2) **Recommended application of required standards** — In making recommendations under this section, the Council may—
+
+  (A) differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Council deems appropriate; or
+
+  (B) recommend an asset threshold that is higher than $50,000,000,000 for the application of any standard described in subsections (c) through (g).
+
+**(b) Development of prudential standards**
+
+(1) **In general** — The recommendations of the Council under subsection (a) may include—
+
+  (A) risk-based capital requirements;
+
+  (B) leverage limits;
+
+  (C) liquidity requirements;
+
+  (D) resolution plan and credit exposure report requirements;
+
+  (E) concentration limits;
+
+  (F) a contingent capital requirement;
+
+  (G) enhanced public disclosures;
+
+  (H) short-term debt limits; and
+
+  (I) overall risk management requirements.
+
+(2) **Prudential standards for foreign financial companies** — In making recommendations concerning the standards set forth in paragraph (1) that would apply to foreign nonbank financial companies supervised by the Board of Governors or foreign-based bank holding companies, the Council shall—
+
+  (A) give due regard to the principle of national treatment and equality of competitive opportunity; and
+
+  (B) take into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
+
+(3) **Considerations** — In making recommendations concerning prudential standards under paragraph (1), the Council shall—
+
+  (A) take into account differences among nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a), based on—
+
+    (i) the factors described in subsections (a) and (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323);
+
+    (ii) whether the company owns an insured depository institution;
+
+    (iii) nonfinancial activities and affiliations of the company; and
+
+    (iv) any other factors that the Council determines appropriate;
+
+  (B) to the extent possible, ensure that small changes in the factors listed in subsections (a) and (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) would not result in sharp, discontinuous changes in the prudential standards established under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365); and
+
+  (C) adapt its recommendations as appropriate in light of any predominant line of business of such company, including assets under management or other activities for which particular standards may not be appropriate.
+
+**(c) Contingent capital**
+
+(1) **Study required** — The Council shall conduct a study of the feasibility, benefits, costs, and structure of a contingent capital requirement for nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a), which study shall include—
+
+  (A) an evaluation of the degree to which such requirement would enhance the safety and soundness of companies subject to the requirement, promote the financial stability of the United States, and reduce risks to United States taxpayers;
+
+  (B) an evaluation of the characteristics and amounts of contingent capital that should be required;
+
+  (C) an analysis of potential prudential standards that should be used to determine whether the contingent capital of a company would be converted to equity in times of financial stress;
+
+  (D) an evaluation of the costs to companies, the effects on the structure and operation of credit and other financial markets, and other economic effects of requiring contingent capital;
+
+  (E) an evaluation of the effects of such requirement on the international competitiveness of companies subject to the requirement and the prospects for international coordination in establishing such requirement; and
+
+  (F) recommendations for implementing regulations.
+
+(2) **Report** — The Council shall submit a report to Congress regarding the study required by paragraph (1) not later than 2 years after July 21, 2010.
+
+(3) **Recommendations**
+
+  (A) *In general* — Subsequent to submitting a report to Congress under paragraph (2), the Council may make recommendations to the Board of Governors to require any nonbank financial company supervised by the Board of Governors and any bank holding company described in subsection (a) to maintain a minimum amount of contingent capital that is convertible to equity in times of financial stress.
+
+  (B) *Factors to consider* — In making recommendations under this subsection, the Council shall consider—
+
+    (i) an appropriate transition period for implementation of a conversion under this subsection;
+
+    (ii) the factors described in subsection (b)(3);
+
+    (iii) capital requirements applicable to a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), and subsidiaries thereof;
+
+    (iv) results of the study required by paragraph (1); and
+
+    (v) any other factor that the Council deems appropriate.
+
+**(d) Resolution plan and credit exposure reports**
+
+(1) **Resolution plan** — The Council may make recommendations to the Board of Governors concerning the requirement that each nonbank financial company supervised by the Board of Governors and each bank holding company described in subsection (a) report periodically to the Council, the Board of Governors, and the Corporation, the plan of such company for rapid and orderly resolution in the event of material financial distress or failure.
+
+(2) **Credit exposure report** — The Council may make recommendations to the Board of Governors concerning the advisability of requiring each nonbank financial company supervised by the Board of Governors and bank holding company described in subsection (a) to report periodically to the Council, the Board of Governors, and the Corporation on—
+
+  (A) the nature and extent to which the company has credit exposure to other significant nonbank financial companies and significant bank holding companies; and
+
+  (B) the nature and extent to which other such significant nonbank financial companies and significant bank holding companies have credit exposure to that company.
+
+**(e) Concentration limits** In order to limit the risks that the failure of any individual company could pose to nonbank financial companies supervised by the Board of Governors or bank holding companies described in subsection (a), the Council may make recommendations to the Board of Governors to prescribe standards to limit such risks, as set forth in [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
+
+**(f) Enhanced public disclosures** The Council may make recommendations to the Board of Governors to require periodic public disclosures by bank holding companies described in subsection (a) and by nonbank financial companies supervised by the Board of Governors, in order to support market evaluation of the risk profile, capital adequacy, and risk management capabilities thereof.
+
+**(g) Short-term debt limits** The Council may make recommendations to the Board of Governors to require short-term debt limits to mitigate the risks that an over-accumulation of such debt could pose to bank holding companies described in subsection (a), nonbank financial companies supervised by the Board of Governors, or the financial system.
+
+
+<a id="section-5330"></a>
+## § 5330. Reports
+**(a) In general** Subject to subsection (b), the Council, acting through the Office of Financial Research, may require a bank holding company with total consolidated assets of $50,000,000,000 or greater or a nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, to submit certified reports to keep the Council informed as to—
+
+(1) the financial condition of the company;
+
+(2) systems for monitoring and controlling financial, operating, and other risks;
+
+(3) transactions with any subsidiary that is a depository institution; and
+
+(4) the extent to which the activities and operations of the company and any subsidiary thereof, could, under adverse circumstances, have the potential to disrupt financial markets or affect the overall financial stability of the United States.
+
+**(b) Use of existing reports**
+
+(1) **In general** — For purposes of compliance with subsection (a), the Council, acting through the Office of Financial Research, shall, to the fullest extent possible, use—
+
+  (A) reports that a bank holding company, nonbank financial company supervised by the Board of Governors, or any functionally regulated subsidiary of such company has been required to provide to other Federal or State regulatory agencies or to a relevant foreign supervisory authority;
+
+  (B) information that is otherwise required to be reported publicly; and
+
+  (C) externally audited financial statements.
+
+(2) **Availability** — Each bank holding company described in subsection (a) and nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, shall provide to the Council, at the request of the Council, copies of all reports referred to in paragraph (1).
+
+(3) **Confidentiality** — The Council shall maintain the confidentiality of the reports obtained under subsection (a) and paragraph (1)(A) of this subsection.
+
+
+<a id="section-5331"></a>
+## § 5331. Treatment of certain companies that cease to be bank holding companies
+**(a) Applicability** This section shall apply to—
+
+(1) any entity that—
+
+  (A) was a bank holding company having total consolidated assets equal to or greater than $50,000,000,000 as of January 1, 2010; and
+
+  (B) received financial assistance under or participated in the Capital Purchase Program established under the Troubled Asset Relief Program authorized by the Emergency Economic Stabilization Act of 2008 [[12 U.S.C. 5201](./chapter-052-emergency-economic-stabilization.md#section-5201) et seq.]; and
+
+(2) any successor entity (as defined by the Board of Governors, in consultation with the Council) to an entity described in paragraph (1).
+
+**(b) Treatment** If an entity described in subsection (a) ceases to be a bank holding company at any time after January 1, 2010, then such entity shall be treated as a nonbank financial company supervised by the Board of Governors, as if the Council had made a determination under [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) with respect to that entity.
+
+**(c) Appeal**
+
+(1) **Request for hearing** — An entity may request, in writing, an opportunity for a written or oral hearing before the Council to appeal its treatment as a nonbank financial company supervised by the Board of Governors in accordance with this section. Upon receipt of the request, the Council shall fix a time (not later than 30 days after the date of receipt of the request) and place at which such entity may appear, personally or through counsel, to submit written materials (or, at the sole discretion of the Council, oral testimony and oral argument).
+
+(2) **Decision**
+
+  (A) *Proposed decision* — A Council decision to grant an appeal under this subsection shall be made by a vote of not fewer than ⅔ of the voting members then serving, including an affirmative vote by the Chairperson. Not later than 60 days after the date of a hearing under paragraph (1), the Council shall submit a report to, and may testify before, the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the proposed decision of the Council regarding an appeal under paragraph (1), which report shall include a statement of the basis for the proposed decision of the Council.
+
+  (B) *Notice of final decision* — The Council shall notify the subject entity of the final decision of the Council regarding an appeal under paragraph (1), which notice shall contain a statement of the basis for the final decision of the Council, not later than 60 days after the later of—
+
+    (i) the date of the submission of the report under subparagraph (A); or
+
+    (ii) if, not later than 1 year after the date of submission of the report under subparagraph (A), the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives holds one or more hearings regarding such report, the date of the last such hearing.
+
+  (C) *Considerations* — In making a decision regarding an appeal under paragraph (1), the Council shall consider whether the company meets the standards under section 5323(a) or 5323(b) of this title, as applicable, and the definition of the term “nonbank financial company” under [section 5311 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5311). The decision of the Council shall be final, subject to the review under paragraph (3).
+
+(3) **Review** — If the Council denies an appeal under this subsection, the Council shall, not less frequently than annually, review and reevaluate the decision.
+
+### Statutory Notes
+
+#### References in Text
+The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(1)(B), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title](./chapter-052-emergency-economic-stabilization.md#section-5201) and Tables.
+
+
+<a id="section-5332"></a>
+## § 5332. Council funding
+
+Any expenses of the Council shall be treated as expenses of, and paid by, the Office of Financial Research.
+
+
+<a id="section-5333"></a>
+## § 5333. Resolution of supervisory jurisdictional disputes among member agencies
+**(a) Request for Council recommendation** The Council shall seek to resolve a dispute among 2 or more member agencies, if—
+
+(1) a member agency has a dispute with another member agency about the respective jurisdiction over a particular bank holding company, nonbank financial company, or financial activity or product (excluding matters for which another dispute mechanism specifically has been provided under title X); 11 See References in Text note below.
+
+(2) the Council determines that the disputing agencies cannot, after a demonstrated good faith effort, resolve the dispute without the intervention of the Council; and
+
+(3) any of the member agencies involved in the dispute—
+
+  (A) provides all other disputants prior notice of the intent to request dispute resolution by the Council; and
+
+  (B) requests in writing, not earlier than 14 days after providing the notice described in subparagraph (A), that the Council seek to resolve the dispute.
+
+**(b) Council recommendation** The Council shall seek to resolve each dispute described in subsection (a)—
+
+(1) within a reasonable time after receiving the dispute resolution request;
+
+(2) after consideration of relevant information provided by each agency party to the dispute; and
+
+(3) by agreeing with 1 of the disputants regarding the entirety of the matter, or by determining a compromise position.
+
+**(c) Form of recommendation** Any Council recommendation under this section shall—
+
+(1) be in writing;
+
+(2) include an explanation of the reasons therefor; and
+
+(3) be approved by the affirmative vote of ⅔ of the voting members of the Council then serving.
+
+**(d) Nonbinding effect** Any recommendation made by the Council under subsection (c) shall not be binding on the Federal agencies that are parties to the dispute.
+
+### Statutory Notes
+
+#### References in Text
+Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5341"></a>
+## § 5341. Additional standards applicable to activities or practices for financial stability purposes
+**(a) In general** The Council may provide for more stringent regulation of a financial activity by issuing recommendations to the primary financial regulatory agencies to apply new or heightened standards and safeguards, including standards enumerated in [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), for a financial activity or practice conducted by bank holding companies or nonbank financial companies under their respective jurisdictions, if the Council determines that the conduct, scope, nature, size, scale, concentration, or interconnectedness of such activity or practice could create or increase the risk of significant liquidity, credit, or other problems spreading among bank holding companies and nonbank financial companies, financial markets of the United States, or low-income, minority, or underserved communities.
+
+**(b) Procedure for recommendations to regulators**
+
+(1) **Notice and opportunity for comment** — The Council shall consult with the primary financial regulatory agencies and provide notice to the public and opportunity for comment for any proposed recommendation that the primary financial regulatory agencies apply new or heightened standards and safeguards for a financial activity or practice.
+
+(2) **Criteria** — The new or heightened standards and safeguards for a financial activity or practice recommended under paragraph (1)—
+
+  (A) shall take costs to long-term economic growth into account; and
+
+  (B) may include prescribing the conduct of the activity or practice in specific ways (such as by limiting its scope, or applying particular capital or risk management requirements to the conduct of the activity) or prohibiting the activity or practice.
+
+**(c) Implementation of recommended standards**
+
+(1) **Role of primary financial regulatory agency**
+
+  (A) *In general* — Each primary financial regulatory agency may impose, require reports regarding, examine for compliance with, and enforce standards in accordance with this section with respect to those entities for which it is the primary financial regulatory agency.
+
+  (B) *Rule of construction* — The authority under this paragraph is in addition to, and does not limit, any other authority of a primary financial regulatory agency. Compliance by an entity with actions taken by a primary financial regulatory agency under this section shall be enforceable in accordance with the statutes governing the respective jurisdiction of the primary financial regulatory agency over the entity, as if the agency action were taken under those statutes.
+
+(2) **Imposition of standards** — The primary financial regulatory agency shall impose the standards recommended by the Council in accordance with subsection (a), or similar standards that the Council deems acceptable, or shall explain in writing to the Council, not later than 90 days after the date on which the Council issues the recommendation, why the agency has determined not to follow the recommendation of the Council.
+
+**(d) Report to Congress** The Council shall report to Congress on—
+
+(1) any recommendations issued by the Council under this section;
+
+(2) the implementation of, or failure to implement, such recommendation on the part of a primary financial regulatory agency; and
+
+(3) in any case in which no primary financial regulatory agency exists for the nonbank financial company conducting financial activities or practices referred to in subsection (a), recommendations for legislation that would prevent such activities or practices from threatening the stability of the financial system of the United States.
+
+**(e) Effect of rescission of identification**
+
+(1) **Notice** — The Council may recommend to the relevant primary financial regulatory agency that a financial activity or practice no longer requires any standards or safeguards implemented under this section.
+
+(2) **Determination of primary financial regulatory agency to continue**
+
+  (A) *In general* — Upon receipt of a recommendation under paragraph (1), a primary financial regulatory agency that has imposed standards under this section shall determine whether such standards should remain in effect.
+
+  (B) *Appeal process* — Each primary financial regulatory agency that has imposed standards under this section shall promulgate regulations to establish a procedure under which entities under its jurisdiction may appeal a determination by such agency under this paragraph that standards imposed under this section should remain in effect.
+
+
+<a id="section-5342"></a>
+## § 5342. Mitigation of risks to financial stability
+**(a) Mitigatory actions** If the Board of Governors determines that a bank holding company with total consolidated assets of $50,000,000,000 or more, or a nonbank financial company supervised by the Board of Governors, poses a grave threat to the financial stability of the United States, the Board of Governors, upon an affirmative vote of not fewer than ⅔ of the voting members of the Council then serving, shall—
+
+(1) limit the ability of the company to merge with, acquire, consolidate with, or otherwise become affiliated with another company;
+
+(2) restrict the ability of the company to offer a financial product or products;
+
+(3) require the company to terminate one or more activities;
+
+(4) impose conditions on the manner in which the company conducts 1 or more activities; or
+
+(5) if the Board of Governors determines that the actions described in paragraphs (1) through (4) are inadequate to mitigate a threat to the financial stability of the United States in its recommendation, require the company to sell or otherwise transfer assets or off-balance-sheet items to unaffiliated entities.
+
+**(b) Notice and hearing**
+
+(1) **In general** — The Board of Governors, in consultation with the Council, shall provide to a company described in subsection (a) written notice that such company is being considered for mitigatory action pursuant to this section, including an explanation of the basis for, and description of, the proposed mitigatory action.
+
+(2) **Hearing** — Not later than 30 days after the date of receipt of notice under paragraph (1), the company may request, in writing, an opportunity for a written or oral hearing before the Board of Governors to contest the proposed mitigatory action. Upon receipt of a timely request, the Board of Governors shall fix a time (not later than 30 days after the date of receipt of the request) and place at which such company may appear, personally or through counsel, to submit written materials (or, at the discretion of the Board of Governors, in consultation with the Council, oral testimony and oral argument).
+
+(3) **Decision** — Not later than 60 days after the date of a hearing under paragraph (2), or not later than 60 days after the provision of a notice under paragraph (1) if no hearing was held, the Board of Governors shall notify the company of the final decision of the Board of Governors, including the results of the vote of the Council, as described in subsection (a).
+
+**(c) Factors for consideration** The Board of Governors and the Council shall take into consideration the factors set forth in subsection (a) or (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323), as applicable, in making any determination under subsection (a).
+
+**(d) Application to foreign financial companies** The Board of Governors may prescribe regulations regarding the application of this section to foreign nonbank financial companies supervised by the Board of Governors and foreign-based bank holding companies—
+
+(1) giving due regard to the principle of national treatment and equality of competitive opportunity; and
+
+(2) taking into account the extent to which the foreign nonbank financial company or foreign-based bank holding company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
+
+
+<a id="section-5343"></a>
+## § 5343. GAO audit of Council
+**(a) Authority to audit** The Comptroller General of the United States may audit the activities of—
+
+(1) the Council; and
+
+(2) any person or entity acting on behalf of or under the authority of the Council, to the extent that such activities relate to work for the Council by such person or entity.
+
+**(b) Access to information**
+
+(1) **In general** — Notwithstanding any other provision of law, the Comptroller General shall, upon request and at such reasonable time and in such reasonable form as the Comptroller General may request, have access to—
+
+  (A) any records or other information under the control of or used by the Council;
+
+  (B) any records or other information under the control of a person or entity acting on behalf of or under the authority of the Council, to the extent that such records or other information is relevant to an audit under subsection (a); and
+
+  (C) the officers, directors, employees, financial advisors, staff, working groups, and agents and representatives of the Council (as related to the activities on behalf of the Council of such agent or representative), at such reasonable times as the Comptroller General may request.
+
+(2) **Copies** — The Comptroller General may make and retain copies of such books, accounts, and other records, access to which is granted under this section, as the Comptroller General considers appropriate.
+
+
+<a id="section-5344"></a>
+## § 5344. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth
+**(a) Study required**
+
+(1) **In general** — The Chairperson of the Council shall carry out a study of the economic impact of possible financial services regulatory limitations intended to reduce systemic risk. Such study shall estimate the benefits and costs on the efficiency of capital markets, on the financial sector, and on national economic growth, of—
+
+  (A) explicit or implicit limits on the maximum size of banks, bank holding companies, and other large financial institutions;
+
+  (B) limits on the organizational complexity and diversification of large financial institutions;
+
+  (C) requirements for operational separation between business units of large financial institutions in order to expedite resolution in case of failure;
+
+  (D) limits on risk transfer between business units of large financial institutions;
+
+  (E) requirements to carry contingent capital or similar mechanisms;
+
+  (F) limits on commingling of commercial and financial activities by large financial institutions;
+
+  (G) segregation requirements between traditional financial activities and trading or other high-risk operations in large financial institutions; and
+
+  (H) other limitations on the activities or structure of large financial institutions that may be useful to limit systemic risk.
+
+(2) **Recommendations** — The study required by this section shall include recommendations for the optimal structure of any limits considered in subparagraphs (A) through (E), in order to maximize their effectiveness and minimize their economic impact.
+
+**(b) Report** Not later than the end of the 180-day period beginning on July 21, 2010, and not later than every 5 years thereafter, the Chairperson shall issue a report to the Congress containing any findings and determinations made in carrying out the study required under subsection (a).
+
+
+<a id="section-5345"></a>
+## § 5345. Definitions
+
+For purposes of this part—
+
+(1) the terms “Office” and “Director” mean the Office of Financial Research established under this part and the Director thereof, respectively;
+
+(2) the term “financial company” has the same meaning as in subchapter II, and includes an insured depository institution and an insurance company;
+
+(3) the term “Data Center” means the data center established under [section 5344 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5344);
+
+(4) the term “Research and Analysis Center” means the research and analysis center established under [section 5344 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5344);
+
+(5) the term “financial transaction data” means the structure and legal description of a financial contract, with sufficient detail to describe the rights and obligations between counterparties and make possible an independent valuation;
+
+(6) the term “position data”—
+
+  (A) means data on financial assets or liabilities held on the balance sheet of a financial company, where positions are created or changed by the execution of a financial transaction; and
+
+  (B) includes information that identifies counterparties, the valuation by the financial company of the position, and information that makes possible an independent valuation of the position;
+
+(7) the term “financial contract” means a legally binding agreement between 2 or more counterparties, describing rights and obligations relating to the future delivery of items of intrinsic or extrinsic value among the counterparties; and
+
+(8) the term “financial instrument” means a financial contract in which the terms and conditions are publicly available, and the roles of one or more of the counterparties are assignable without the consent of any of the other counterparties (including common stock of a publicly traded company, government bonds, or exchange traded futures and options contracts).
+
+### Statutory Notes
+
+#### References in Text
+Subchapter II, referred to in par. (2), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5346"></a>
+## § 5346. Office of Financial Research established
+**(a) Establishment** There is established within the Department of the Treasury the Office of Financial Research.
+
+**(b) Director**
+
+(1) **In general** — The Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(2) **Term of service** — The Director shall serve for a term of 6 years, except that, in the event that a successor is not nominated and confirmed by the end of the term of service of a Director, the Director may continue to serve until such time as the next Director is appointed and confirmed.
+
+(3) **Executive level** — The Director shall be compensated at Level III of the Executive Schedule.
+
+(4) **Prohibition on dual service** — The individual serving in the position of Director may not, during such service, also serve as the head of any financial regulatory agency.
+
+(5) **Responsibilities, duties, and authority** — The Director shall have sole discretion in the manner in which the Director fulfills the responsibilities and duties and exercises the authorities described in this part.
+
+**(c) Budget** The Director, in consultation with the Chairperson, shall establish the annual budget of the Office.
+
+**(d) Office personnel**
+
+(1) **In general** — The Director, in consultation with the Chairperson, may fix the number of, and appoint and direct, all employees of the Office.
+
+(2) **Compensation** — The Director, in consultation with the Chairperson, shall fix, adjust, and administer the pay for all employees of the Office, without regard to chapter 51 or subchapter III of chapter 53 of title 5, relating to classification of positions and General Schedule pay rates.
+
+(3) **, (4) Omitted**
+
+**(e) Assistance from Federal agencies** Any department or agency of the United States may provide to the Office and any special advisory, technical, or professional committees appointed by the Office, such services, funds, facilities, staff, and other support services as the Office may determine advisable. Any Federal Government employee may be detailed to the Office without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+**(f) Procurement of temporary and intermittent services** The Director may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim) at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for Level V of the Executive Schedule under section 5316 of such title.
+
+**(g) Post-employment prohibitions** The Secretary, with the concurrence of the Director of the Office of Government Ethics, shall issue regulations prohibiting the Director and any employee of the Office who has had access to the transaction or position data maintained by the Data Center or other business confidential information about financial entities required to report to the Office from being employed by or providing advice or consulting services to a financial company, for a period of 1 year after last having had access in the course of official duties to such transaction or position data or business confidential information, regardless of whether that entity is required to report to the Office. For employees whose access to business confidential information was limited, the regulations may provide, on a case-by-case basis, for a shorter period of post-employment prohibition, provided that the shorter period does not compromise business confidential information.
+
+**(h) Technical and professional advisory committees** The Office, in consultation with the Chairperson, may appoint such special advisory, technical, or professional committees as may be useful in carrying out the functions of the Office, and the members of such committees may be staff of the Office, or other persons, or both.
+
+**(i) Fellowship program** The Office, in consultation with the Chairperson, may establish and maintain an academic and professional fellowship program, under which qualified academics and professionals shall be invited to spend not longer than 2 years at the Office, to perform research and to provide advanced training for Office personnel.
+
+### Statutory Notes
+
+#### References in Text
+Level III of the Executive Schedule, referred to in subsec. (b)(3), is set out in [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
+
+#### Codification
+Section is comprised of section 152 of Pub. L. 111–203. Subsecs. (d)(3), (4) and (j) of section 152 amended [section 1833b of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1833b) and sections 3132 and 5314 of Title 5, Government Organization and Employees, respectively.
+
+
+<a id="section-5361"></a>
+## § 5361. Purpose and duties of the Office
+**(a) Purpose and duties** The purpose of the Office is to support the Council in fulfilling the purposes and duties of the Council, as set forth in part A, and to support member agencies, by—
+
+(1) collecting data on behalf of the Council, and providing such data to the Council and member agencies;
+
+(2) standardizing the types and formats of data reported and collected;
+
+(3) performing applied research and essential long-term research;
+
+(4) developing tools for risk measurement and monitoring;
+
+(5) performing other related services;
+
+(6) making the results of the activities of the Office available to financial regulatory agencies; and
+
+(7) assisting such member agencies in determining the types and formats of data authorized by this Act to be collected by such member agencies.
+
+**(b) Administrative authority** The Office may—
+
+(1) share data and information, including software developed by the Office, with the Council, member agencies, and the Bureau of Economic Analysis, which shared data, information, and software—
+
+  (A) shall be maintained with at least the same level of security as is used by the Office; and
+
+  (B) may not be shared with any individual or entity without the permission of the Council;
+
+(2) sponsor and conduct research projects; and
+
+(3) assist, on a reimbursable basis, with financial analyses undertaken at the request of other Federal agencies that are not member agencies.
+
+**(c) Rulemaking authority**
+
+(1) **Scope** — The Office, in consultation with the Chairperson, shall issue rules, regulations, and orders only to the extent necessary to carry out the purposes and duties described in paragraphs (1), (2), and (7) of subsection (a).
+
+(2) **Standardization** — Member agencies, in consultation with the Office, shall implement regulations promulgated by the Office under paragraph (1) to standardize the types and formats of data reported and collected on behalf of the Council, as described in subsection (a)(2). If a member agency fails to implement such regulations prior to the expiration of the 3-year period following the date of publication of final regulations, the Office, in consultation with the Chairperson, may implement such regulations with respect to the financial entities under the jurisdiction of the member agency. This paragraph shall not supersede or interfere with the independent authority of a member agency under other law to collect data, in such format and manner as the member agency requires.
+
+**(d) Testimony**
+
+(1) **In general** — The Director of the Office shall report to and testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives annually on the activities of the Office, including the work of the Data Center and the Research and Analysis Center, and the assessment of the Office of significant financial market developments and potential emerging threats to the financial stability of the United States.
+
+(2) **No prior review** — No officer or agency of the United States shall have any authority to require the Director to submit the testimony required under paragraph (1) or other congressional testimony to any officer or agency of the United States for approval, comment, or review prior to the submission of such testimony. Any such testimony to Congress shall include a statement that the views expressed therein are those of the Director and do not necessarily represent the views of the President.
+
+**(e) Additional reports** The Director may provide additional reports to Congress concerning the financial stability of the United States. The Director shall notify the Council of any such additional reports provided to Congress.
+
+**(f) Subpoena**
+
+(1) **In general** — The Director may require from a financial company, by subpoena, the production of the data requested under subsection (a)(1) and [section 5344(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5344/b/1&num=0&edition=prelim), but only upon a written finding by the Director that—
+
+  (A) such data is required to carry out the functions described under this part; and
+
+  (B) the Office has coordinated with the relevant primary financial regulatory agency, as required under [section 5344(b)(1)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5344/b/1/B/ii&num=0&edition=prelim).
+
+(2) **Format** — Subpoenas under paragraph (1) shall bear the signature of the Director, and shall be served by any person or class of persons designated by the Director for that purpose.
+
+(3) **Enforcement** — In the case of contumacy or failure to obey a subpoena, the subpoena shall be enforceable by order of any appropriate district court of the United States. Any failure to obey the order of the court may be punished by the court as a contempt of court.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (a)(7), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5362"></a>
+## § 5362. Organizational structure; responsibilities of primary programmatic units
+**(a) In general** There are established within the Office, to carry out the programmatic responsibilities of the Office—
+
+(1) the Data Center; and
+
+(2) the Research and Analysis Center.
+
+**(b) Data Center**
+
+(1) **General duties**
+
+  (A) *Data collection* — The Data Center, on behalf of the Council, shall collect, validate, and maintain all data necessary to carry out the duties of the Data Center, as described in this part. The data assembled shall be obtained from member agencies, commercial data providers, publicly available data sources, and financial entities under subparagraph (B).
+
+  (B) *Authority*
+
+    (i) *In general* — The Office may, as determined by the Council or by the Director in consultation with the Council, require the submission of periodic and other reports from any financial company for the purpose of assessing the extent to which a financial activity or financial market in which the financial company participates, or the financial company itself, poses a threat to the financial stability of the United States.
+
+    (ii) *Mitigation of report burden* — Before requiring the submission of a report from any financial company that is regulated by a member agency, any primary financial regulatory agency, a foreign supervisory authority, or the Office shall coordinate with such agencies or authority, and shall, whenever possible, rely on information available from such agencies or authority.
+
+    (iii) *Collection of financial transaction and position data* — The Office shall collect, on a schedule determined by the Director, in consultation with the Council, financial transaction data and position data from financial companies.
+
+  (C) *Rulemaking* — The Office shall promulgate regulations pursuant to subsections (a)(1), (a)(2), (a)(7), and (c)(1) of [section 5343 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5343) regarding the type and scope of the data to be collected by the Data Center under this paragraph.
+
+(2) **Responsibilities**
+
+  (A) *Publication* — The Data Center shall prepare and publish, in a manner that is easily accessible to the public—
+
+    (i) a financial company reference database;
+
+    (ii) a financial instrument reference database; and
+
+    (iii) formats and standards for Office data, including standards for reporting financial transaction and position data to the Office.
+
+  (B) *Confidentiality* — The Data Center shall not publish any confidential data under subparagraph (A).
+
+(3) **Information security** — The Director shall ensure that data collected and maintained by the Data Center are kept secure and protected against unauthorized disclosure.
+
+(4) **Catalog of financial entities and instruments** — The Data Center shall maintain a catalog of the financial entities and instruments reported to the Office.
+
+(5) **Availability to the Council and member agencies** — The Data Center shall make data collected and maintained by the Data Center available to the Council and member agencies, as necessary to support their regulatory responsibilities.
+
+(6) **Other authority** — The Office shall, after consultation with the member agencies, provide certain data to financial industry participants and to the general public to increase market transparency and facilitate research on the financial system, to the extent that intellectual property rights are not violated, business confidential information is properly protected, and the sharing of such information poses no significant threats to the financial system of the United States.
+
+**(c) Research and Analysis Center**
+
+(1) **11 So in original. No par. (2) has been enacted. General duties** — The Research and Analysis Center, on behalf of the Council, shall develop and maintain independent analytical capabilities and computing resources—
+
+  (A) to develop and maintain metrics and reporting systems for risks to the financial stability of the United States;
+
+  (B) to monitor, investigate, and report on changes in systemwide risk levels and patterns to the Council and Congress;
+
+  (C) to conduct, coordinate, and sponsor research to support and improve regulation of financial entities and markets;
+
+  (D) to evaluate and report on stress tests or other stability-related evaluations of financial entities overseen by the member agencies;
+
+  (E) to maintain expertise in such areas as may be necessary to support specific requests for advice and assistance from financial regulators;
+
+  (F) to investigate disruptions and failures in the financial markets, report findings, and make recommendations to the Council based on those findings;
+
+  (G) to conduct studies and provide advice on the impact of policies related to systemic risk; and
+
+  (H) to promote best practices for financial risk management.
+
+**(d) Reporting responsibilities**
+
+(1) **Required reports** — Not later than 2 years after July 21, 2010, and not later than 120 days after the end of each fiscal year thereafter, the Office shall prepare and submit a report to Congress.
+
+(2) **Content** — Each report required by this subsection shall assess the state of the United States financial system, including—
+
+  (A) an analysis of any threats to the financial stability of the United States;
+
+  (B) the status of the efforts of the Office in meeting the mission of the Office; and
+
+  (C) key findings from the research and analysis of the financial system by the Office.
+
+
+<a id="section-5363"></a>
+## § 5363. Funding
+**(a) Financial Research Fund**
+
+(1) **Fund established** — There is established in the Treasury of the United States a separate fund to be known as the “Financial Research Fund”.
+
+(2) **Fund receipts** — All amounts provided to the Office under subsection (c),11 So in original. Comma probably should not appear. and all assessments that the Office receives under subsection (d) shall be deposited into the Financial Research Fund.
+
+(3) **Investments authorized**
+
+  (A) *Amounts in fund may be invested* — The Director may request the Secretary to invest the portion of the Financial Research Fund that is not, in the judgment of the Director, required to meet the needs of the Office.
+
+  (B) *Eligible investments* — Investments shall be made by the Secretary in obligations of the United States or obligations that are guaranteed as to principal and interest by the United States, with maturities suitable to the needs of the Financial Research Fund, as determined by the Director.
+
+(4) **Interest and proceeds credited** — The interest on, and the proceeds from the sale or redemption of, any obligations held in the Financial Research Fund shall be credited to and form a part of the Financial Research Fund.
+
+**(b) Use of funds**
+
+(1) **In general** — Funds obtained by, transferred to, or credited to the Financial Research Fund shall be immediately available to the Office, and shall remain available until expended, to pay the expenses of the Office in carrying out the duties and responsibilities of the Office.
+
+(2) **Fees, assessments, and other funds not Government funds** — Funds obtained by, transferred to, or credited to the Financial Research Fund shall not be construed to be Government funds or appropriated moneys.
+
+(3) **Amounts not subject to apportionment** — Notwithstanding any other provision of law, amounts in the Financial Research Fund shall not be subject to apportionment for purposes of chapter 15 of title 31, or under any other authority, or for any other purpose.
+
+**(c) Interim funding** During the 2-year period following July 21, 2010, the Board of Governors shall provide to the Office an amount sufficient to cover the expenses of the Office.
+
+**(d) Permanent self-funding** Beginning 2 years after July 21, 2010, the Secretary shall establish, by regulation, and with the approval of the Council, an assessment schedule, including the assessment base and rates, applicable to bank holding companies with total consolidated assets of $50,000,000,000 or greater and nonbank financial companies supervised by the Board of Governors, that takes into account differences among such companies, based on the considerations for establishing the prudential standards under [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), to collect assessments equal to the total expenses of the Office.
+
+
+<a id="section-5364"></a>
+## § 5364. Transition oversight
+**(a) Purpose** The purpose of this section is to ensure that the Office—
+
+(1) has an orderly and organized startup;
+
+(2) attracts and retains a qualified workforce; and
+
+(3) establishes comprehensive employee training and benefits programs.
+
+**(b) Reporting requirement**
+
+(1) **In general** — The Office shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that includes the plans described in paragraph (2).
+
+(2) **Plans** — The plans described in this paragraph are as follows:
+
+  (A) *Training and workforce development plan* — The Office shall submit a training and workforce development plan that includes, to the extent practicable—
+
+    (i) identification of skill and technical expertise needs and actions taken to meet those requirements;
+
+    (ii) steps taken to foster innovation and creativity;
+
+    (iii) leadership development and succession planning; and
+
+    (iv) effective use of technology by employees.
+
+  (B) *Workplace flexibility plan* — The Office shall submit a workforce flexibility plan that includes, to the extent practicable—
+
+    (i) telework;
+
+    (ii) flexible work schedules;
+
+    (iii) phased retirement;
+
+    (iv) reemployed annuitants;
+
+    (v) part-time work;
+
+    (vi) job sharing;
+
+    (vii) parental leave benefits and childcare assistance;
+
+    (viii) domestic partner benefits;
+
+    (ix) other workplace flexibilities; or
+
+    (x) any combination of the items described in clauses (i) through (ix).
+
+  (C) *Recruitment and retention plan* — The Office shall submit a recruitment and retention plan that includes, to the extent practicable, provisions relating to—
+
+    (i) the steps necessary to target highly qualified applicant pools with diverse backgrounds;
+
+    (ii) streamlined employment application processes;
+
+    (iii) the provision of timely notification of the status of employment applications to applicants; and
+
+    (iv) the collection of information to measure indicators of hiring effectiveness.
+
+**(c) Expiration** The reporting requirement under subsection (b) shall terminate 5 years after July 21, 2010.
+
+**(d) Rule of construction** Nothing in this section may be construed to affect—
+
+(1) a collective bargaining agreement, as that term is defined in [section 7103(a)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a/8&num=0&edition=prelim), that is in effect on July 21, 2010; or
+
+(2) the rights of employees under chapter 71 of title 5.
+
+
+<a id="section-5365"></a>
+## § 5365. Reports by and examinations of nonbank financial companies by the Board of Governors
+**(a) Reports**
+
+(1) **In general** — The Board of Governors may require each nonbank financial company supervised by the Board of Governors, and any subsidiary thereof, to submit reports under oath, to keep the Board of Governors informed as to—
+
+  (A) the financial condition of the company or subsidiary, systems of the company or subsidiary for monitoring and controlling financial, operating, and other risks, and the extent to which the activities and operations of the company or subsidiary pose a threat to the financial stability of the United States; and
+
+  (B) compliance by the company or subsidiary with the requirements of this subchapter.
+
+(2) **Use of existing reports and information** — In carrying out subsection (a), the Board of Governors shall, to the fullest extent possible, use—
+
+  (A) reports and supervisory information that a nonbank financial company or subsidiary thereof has been required to provide to other Federal or State regulatory agencies;
+
+  (B) information otherwise obtainable from Federal or State regulatory agencies;
+
+  (C) information that is otherwise required to be reported publicly; and
+
+  (D) externally audited financial statements of such company or subsidiary.
+
+(3) **Availability** — Upon the request of the Board of Governors, a nonbank financial company supervised by the Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
+
+**(b) Examinations**
+
+(1) **In general** — Subject to paragraph (2), the Board of Governors may examine any nonbank financial company supervised by the Board of Governors and any subsidiary of such company, to inform the Board of Governors of—
+
+  (A) the nature of the operations and financial condition of the company and such subsidiary;
+
+  (B) the financial, operational, and other risks of the company or such subsidiary that may pose a threat to the safety and soundness of such company or subsidiary or to the financial stability of the United States;
+
+  (C) the systems for monitoring and controlling such risks; and
+
+  (D) compliance by the company or such subsidiary with the requirements of this subchapter.
+
+(2) **Use of examination reports and information** — For purposes of this subsection, the Board of Governors shall, to the fullest extent possible, rely on reports of examination of any subsidiary depository institution or functionally regulated subsidiary made by the primary financial regulatory agency for that subsidiary, and on information described in subsection (a)(2).
+
+**(c) Coordination with primary financial regulatory agency** The Board of Governors shall—
+
+(1) provide reasonable notice to, and consult with, the primary financial regulatory agency for any subsidiary before requiring a report or commencing an examination of such subsidiary under this section; and
+
+(2) avoid duplication of examination activities, reporting requirements, and requests for information, to the fullest extent possible.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a)(1)(B) and (b)(1)(D), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5366"></a>
+## § 5366. Enforcement
+**(a) In general** Except as provided in subsection (b), a nonbank financial company supervised by the Board of Governors and any subsidiaries of such company (other than any depository institution subsidiary) shall be subject to the provisions of subsections (b) through (n) of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818), in the same manner and to the same extent as if the company were a bank holding company, as provided in [section 1818(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/b/3&num=0&edition=prelim).
+
+**(b) Enforcement authority for functionally regulated subsidiaries**
+
+(1) **Referral** — If the Board of Governors determines that a condition, practice, or activity of a depository institution subsidiary or functionally regulated subsidiary of a nonbank financial company supervised by the Board of Governors does not comply with the regulations or orders prescribed by the Board of Governors under this Act, or otherwise poses a threat to the financial stability of the United States, the Board of Governors may recommend, in writing, to the primary financial regulatory agency for the subsidiary that such agency initiate a supervisory action or enforcement proceeding. The recommendation shall be accompanied by a written explanation of the concerns giving rise to the recommendation.
+
+(2) **Back-up authority of the Board of Governors** — If, during the 60-day period beginning on the date on which the primary financial regulatory agency receives a recommendation under paragraph (1), the primary financial regulatory agency does not take supervisory or enforcement action against a subsidiary that is acceptable to the Board of Governors, the Board of Governors (upon a vote of its members) may take the recommended supervisory or enforcement action, as if the subsidiary were a bank holding company subject to supervision by the Board of Governors.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (b)(1), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5367"></a>
+## § 5367. Acquisitions
+**(a) Acquisitions of banks; treatment as a bank holding company** For purposes of [section 1842 of this title](./chapter-017-bank-holding-companies.md#section-1842), a nonbank financial company supervised by the Board of Governors shall be deemed to be, and shall be treated as, a bank holding company.
+
+**(b) Acquisition of nonbank companies**
+
+(1) **Prior notice for large acquisitions** — Notwithstanding [section 1843(k)(6)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k/6/B&num=0&edition=prelim), a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors shall not acquire direct or indirect ownership or control of any voting shares of any company (other than an insured depository institution) that is engaged in activities described in [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim) having total consolidated assets of $10,000,000,000 or more, without providing written notice to the Board of Governors in advance of the transaction.
+
+(2) **Exemptions** — The prior notice requirement in paragraph (1) shall not apply with regard to the acquisition of shares that would qualify for the exemptions in [section 1843(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/c&num=0&edition=prelim) or [section 1843(k)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k/4/E&num=0&edition=prelim).
+
+(3) **Notice procedures** — The notice procedures set forth in [section 1843(j)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/1&num=0&edition=prelim), without regard to [section 1843(j)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/3&num=0&edition=prelim), shall apply to an acquisition of any company (other than an insured depository institution) by a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors, as described in paragraph (1), including any such company engaged in activities described in [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim).
+
+(4) **Standards for review** — In addition to the standards provided in [section 1843(j)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/j/2&num=0&edition=prelim), the Board of Governors shall consider the extent to which the proposed acquisition would result in greater or more concentrated risks to global or United States financial stability or the United States economy.
+
+(5) **Hart-Scott-Rodino filing requirement** — Solely for purposes of [section 18a(c)(8) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section18a/c/8&num=0&edition=prelim), the transactions subject to the requirements of paragraph (1) shall be treated as if Board of Governors approval is not required.
+
+
+<a id="section-5368"></a>
+## § 5368. Prohibition against management interlocks between certain financial companies
+
+A nonbank financial company supervised by the Board of Governors shall be treated as a bank holding company for purposes of the Depository Institutions 11 So in original. Probably should be “Institution”. Management Interlocks Act ([12 U.S.C. 3201](./chapter-033-depository-institution-management-interlocks.md#section-3201) et seq.), except that the Board of Governors shall not exercise the authority provided in section 7 of that Act ([12 U.S.C. 3207](./chapter-033-depository-institution-management-interlocks.md#section-3207)) to permit service by a management official of a nonbank financial company supervised by the Board of Governors as a management official of any bank holding company with total consolidated assets equal to or greater than $50,000,000,000, or other nonaffiliated nonbank financial company supervised by the Board of Governors (other than to provide a temporary exemption for interlocks resulting from a merger, acquisition, or consolidation).
+
+### Statutory Notes
+
+#### References in Text
+The Depository Institution Management Interlocks Act, referred to in text, is title II of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3672, which is classified principally to chapter 33 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-033-depository-institution-management-interlocks.md#section-3201) and Tables.
+
+
+<a id="section-5369"></a>
+## § 5369. Enhanced supervision and prudential standards for nonbank financial companies supervised by the Board of Governors and certain bank holding companies
+**(a) In general**
+
+(1) **Purpose** — In order to prevent or mitigate risks to the financial stability of the United States that could arise from the material financial distress or failure, or ongoing activities, of large, interconnected financial institutions, the Board of Governors shall, on its own or pursuant to recommendations by the Council under [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), establish prudential standards for nonbank financial companies supervised by the Board of Governors and bank holding companies with total consolidated assets equal to or greater than $50,000,000,000 that—
+
+  (A) are more stringent than the standards and requirements applicable to nonbank financial companies and bank holding companies that do not present similar risks to the financial stability of the United States; and
+
+  (B) increase in stringency, based on the considerations identified in subsection (b)(3).
+
+(2) **Tailored application**
+
+  (A) *In general* — In prescribing more stringent prudential standards under this section, the Board of Governors may, on its own or pursuant to a recommendation by the Council in accordance with [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), differentiate among companies on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Board of Governors deems appropriate.
+
+  (B) *Adjustment of threshold for application of certain standards* — The Board of Governors may, pursuant to a recommendation by the Council in accordance with [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), establish an asset threshold above $50,000,000,000 for the application of any standard established under subsections (c) through (g).
+
+**(b) Development of prudential standards**
+
+(1) **In general**
+
+  (A) *Required standards* — The Board of Governors shall establish prudential standards for nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a), that shall include—
+
+    (i) risk-based capital requirements and leverage limits, unless the Board of Governors, in consultation with the Council, determines that such requirements are not appropriate for a company subject to more stringent prudential standards because of the activities of such company (such as investment company activities or assets under management) or structure, in which case, the Board of Governors shall apply other standards that result in similarly stringent risk controls;
+
+    (ii) liquidity requirements;
+
+    (iii) overall risk management requirements;
+
+    (iv) resolution plan and credit exposure report requirements; and
+
+    (v) concentration limits.
+
+  (B) *Additional standards authorized* — The Board of Governors may establish additional prudential standards for nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a), that include—
+
+    (i) a contingent capital requirement;
+
+    (ii) enhanced public disclosures;
+
+    (iii) short-term debt limits; and
+
+    (iv) such other prudential standards as the Board or Governors, on its own or pursuant to a recommendation made by the Council in accordance with [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), determines are appropriate.
+
+(2) **Standards for foreign financial companies** — In applying the standards set forth in paragraph (1) to any foreign nonbank financial company supervised by the Board of Governors or foreign-based bank holding company, the Board of Governors shall—
+
+  (A) give due regard to the principle of national treatment and equality of competitive opportunity; and
+
+  (B) take into account the extent to which the foreign financial company is subject on a consolidated basis to home country standards that are comparable to those applied to financial companies in the United States.
+
+(3) **Considerations** — In prescribing prudential standards under paragraph (1), the Board of Governors shall—
+
+  (A) take into account differences among nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a), based on—
+
+    (i) the factors described in subsections (a) and (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323);
+
+    (ii) whether the company owns an insured depository institution;
+
+    (iii) nonfinancial activities and affiliations of the company; and
+
+    (iv) any other risk-related factors that the Board of Governors determines appropriate;
+
+  (B) to the extent possible, ensure that small changes in the factors listed in subsections (a) and (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) would not result in sharp, discontinuous changes in the prudential standards established under paragraph (1) of this subsection;
+
+  (C) take into account any recommendations of the Council under [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325); and
+
+  (D) adapt the required standards as appropriate in light of any predominant line of business of such company, including assets under management or other activities for which particular standards may not be appropriate.
+
+(4) **Consultation** — Before imposing prudential standards or any other requirements pursuant to this section, including notices of deficiencies in resolution plans and more stringent requirements or divestiture orders resulting from such notices, that are likely to have a significant impact on a functionally regulated subsidiary or depository institution subsidiary of a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), the Board of Governors shall consult with each Council member that primarily supervises any such subsidiary with respect to any such standard or requirement.
+
+(5) **Report** — The Board of Governors shall submit an annual report to Congress regarding the implementation of the prudential standards required pursuant to paragraph (1), including the use of such standards to mitigate risks to the financial stability of the United States.
+
+**(c) Contingent capital**
+
+(1) **In general** — Subsequent to submission by the Council of a report to Congress under [section 5325(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5325/c&num=0&edition=prelim), the Board of Governors may issue regulations that require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to maintain a minimum amount of contingent capital that is convertible to equity in times of financial stress.
+
+(2) **Factors to consider** — In issuing regulations under this subsection, the Board of Governors shall consider—
+
+  (A) the results of the study undertaken by the Council, and any recommendations of the Council, under [section 5325(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5325/c&num=0&edition=prelim);
+
+  (B) an appropriate transition period for implementation of contingent capital under this subsection;
+
+  (C) the factors described in subsection (b)(3)(A);
+
+  (D) capital requirements applicable to the nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), and subsidiaries thereof; and
+
+  (E) any other factor that the Board of Governors deems appropriate.
+
+**(d) Resolution plan and credit exposure reports**
+
+(1) **Resolution plan** — The Board of Governors shall require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to report periodically to the Board of Governors, the Council, and the Corporation the plan of such company for rapid and orderly resolution in the event of material financial distress or failure, which shall include—
+
+  (A) information regarding the manner and extent to which any insured depository institution affiliated with the company is adequately protected from risks arising from the activities of any nonbank subsidiaries of the company;
+
+  (B) full descriptions of the ownership structure, assets, liabilities, and contractual obligations of the company;
+
+  (C) identification of the cross-guarantees tied to different securities, identification of major counterparties, and a process for determining to whom the collateral of the company is pledged; and
+
+  (D) any other information that the Board of Governors and the Corporation jointly require by rule or order.
+
+(2) **Credit exposure report** — The Board of Governors shall require each nonbank financial company supervised by the Board of Governors and bank holding companies described in subsection (a) to report periodically to the Board of Governors, the Council, and the Corporation on—
+
+  (A) the nature and extent to which the company has credit exposure to other significant nonbank financial companies and significant bank holding companies; and
+
+  (B) the nature and extent to which other significant nonbank financial companies and significant bank holding companies have credit exposure to that company.
+
+(3) **Review** — The Board of Governors and the Corporation shall review the information provided in accordance with this subsection by each nonbank financial company supervised by the Board of Governors and bank holding company described in subsection (a).
+
+(4) **Notice of deficiencies** — If the Board of Governors and the Corporation jointly determine, based on their review under paragraph (3), that the resolution plan of a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a) is not credible or would not facilitate an orderly resolution of the company under title 11—
+
+  (A) the Board of Governors and the Corporation shall notify the company of the deficiencies in the resolution plan; and
+
+  (B) the company shall resubmit the resolution plan within a timeframe determined by the Board of Governors and the Corporation, with revisions demonstrating that the plan is credible and would result in an orderly resolution under title 11, including any proposed changes in business operations and corporate structure to facilitate implementation of the plan.
+
+(5) **Failure to resubmit credible plan**
+
+  (A) *In general* — If a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a) fails to timely resubmit the resolution plan as required under paragraph (4), with such revisions as are required under subparagraph (B), the Board of Governors and the Corporation may jointly impose more stringent capital, leverage, or liquidity requirements, or restrictions on the growth, activities, or operations of the company, or any subsidiary thereof, until such time as the company resubmits a plan that remedies the deficiencies.
+
+  (B) *Divestiture* — The Board of Governors and the Corporation, in consultation with the Council, may jointly direct a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), by order, to divest certain assets or operations identified by the Board of Governors and the Corporation, to facilitate an orderly resolution of such company under title 11, in the event of the failure of such company, in any case in which—
+
+    (i) the Board of Governors and the Corporation have jointly imposed more stringent requirements on the company pursuant to subparagraph (A); and
+
+    (ii) the company has failed, within the 2-year period beginning on the date of the imposition of such requirements under subparagraph (A), to resubmit the resolution plan with such revisions as were required under paragraph (4)(B).
+
+(6) **No limiting effect** — A resolution plan submitted in accordance with this subsection shall not be binding on a bankruptcy court, a receiver appointed under subchapter II, or any other authority that is authorized or required to resolve the nonbank financial company supervised by the Board, any bank holding company, or any subsidiary or affiliate of the foregoing.
+
+(7) **No private right of action** — No private right of action may be based on any resolution plan submitted in accordance with this subsection.
+
+(8) **Rules** — Not later than 18 months after July 21, 2010, the Board of Governors and the Corporation shall jointly issue final rules implementing this subsection.
+
+**(e) Concentration limits**
+
+(1) **Standards** — In order to limit the risks that the failure of any individual company could pose to a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), the Board of Governors, by regulation, shall prescribe standards that limit such risks.
+
+(2) **Limitation on credit exposure** — The regulations prescribed by the Board of Governors under paragraph (1) shall prohibit each nonbank financial company supervised by the Board of Governors and bank holding company described in subsection (a) from having credit exposure to any unaffiliated company that exceeds 25 percent of the capital stock and surplus (or such lower amount as the Board of Governors may determine by regulation to be necessary to mitigate risks to the financial stability of the United States) of the company.
+
+(3) **Credit exposure** — For purposes of paragraph (2), “credit exposure” to a company means—
+
+  (A) all extensions of credit to the company, including loans, deposits, and lines of credit;
+
+  (B) all repurchase agreements and reverse repurchase agreements with the company, and all securities borrowing and lending transactions with the company, to the extent that such transactions create credit exposure for the nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a);
+
+  (C) all guarantees, acceptances, or letters of credit (including endorsement or standby letters of credit) issued on behalf of the company;
+
+  (D) all purchases of or investment in securities issued by the company;
+
+  (E) counterparty credit exposure to the company in connection with a derivative transaction between the nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a) and the company; and
+
+  (F) any other similar transactions that the Board of Governors, by regulation, determines to be a credit exposure for purposes of this section.
+
+(4) **Attribution rule** — For purposes of this subsection, any transaction by a nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a) with any person is a transaction with a company, to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, that company.
+
+(5) **Rulemaking** — The Board of Governors may issue such regulations and orders, including definitions consistent with this section, as may be necessary to administer and carry out this subsection.
+
+(6) **Exemptions** — This subsection shall not apply to any Federal home loan bank. The Board of Governors may, by regulation or order, exempt transactions, in whole or in part, from the definition of the term “credit exposure” for purposes of this subsection, if the Board of Governors finds that the exemption is in the public interest and is consistent with the purpose of this subsection.
+
+(7) **Transition period**
+
+  (A) *In general* — This subsection and any regulations and orders of the Board of Governors under this subsection shall not be effective until 3 years after July 21, 2010.
+
+  (B) *Extension authorized* — The Board of Governors may extend the period specified in subparagraph (A) for not longer than an additional 2 years.
+
+**(f) Enhanced public disclosures** The Board of Governors may prescribe, by regulation, periodic public disclosures by nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a) in order to support market evaluation of the risk profile, capital adequacy, and risk management capabilities thereof.
+
+**(g) Short-term debt limits**
+
+(1) **In general** — In order to mitigate the risks that an over-accumulation of short-term debt could pose to financial companies and to the stability of the United States financial system, the Board of Governors may, by regulation, prescribe a limit on the amount of short-term debt, including off-balance sheet exposures, that may be accumulated by any bank holding company described in subsection (a) and any nonbank financial company supervised by the Board of Governors.
+
+(2) **Basis of limit** — Any limit prescribed under paragraph (1) shall be based on the short-term debt of the company described in paragraph (1) as a percentage of capital stock and surplus of the company or on such other measure as the Board of Governors considers appropriate.
+
+(3) **Short-term debt defined** — For purposes of this subsection, the term “short-term debt” means such liabilities with short-dated maturity that the Board of Governors identifies, by regulation, except that such term does not include insured deposits.
+
+(4) **Rulemaking authority** — In addition to prescribing regulations under paragraphs (1) and (3), the Board of Governors may prescribe such regulations, including definitions consistent with this subsection, and issue such orders, as may be necessary to carry out this subsection.
+
+(5) **Authority to issue exemptions and adjustments** — Notwithstanding the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841) et seq.), the Board of Governors may, if it determines such action is necessary to ensure appropriate heightened prudential supervision, with respect to a company described in paragraph (1) that does not control an insured depository institution, issue to such company an exemption from or adjustment to the limit prescribed under paragraph (1).
+
+**(h) Risk committee**
+
+(1) **Nonbank financial companies supervised by the Board of Governors** — The Board of Governors shall require each nonbank financial company supervised by the Board of Governors that is a publicly traded company to establish a risk committee, as set forth in paragraph (3), not later than 1 year after the date of receipt of a notice of final determination under [section 5323(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5323/e/3&num=0&edition=prelim) with respect to such nonbank financial company supervised by the Board of Governors.
+
+(2) **Certain bank holding companies**
+
+  (A) *Mandatory regulations* — The Board of Governors shall issue regulations requiring each bank holding company that is a publicly traded company and that has total consolidated assets of not less than $10,000,000,000 to establish a risk committee, as set forth in paragraph (3).
+
+  (B) *Permissive regulations* — The Board of Governors may require each bank holding company that is a publicly traded company and that has total consolidated assets of less than $10,000,000,000 to establish a risk committee, as set forth in paragraph (3), as determined necessary or appropriate by the Board of Governors to promote sound risk management practices.
+
+(3) **Risk committee** — A risk committee required by this subsection shall—
+
+  (A) be responsible for the oversight of the enterprise-wide risk management practices of the nonbank financial company supervised by the Board of Governors or bank holding company described in subsection (a), as applicable;
+
+  (B) include such number of independent directors as the Board of Governors may determine appropriate, based on the nature of operations, size of assets, and other appropriate criteria related to the nonbank financial company supervised by the Board of Governors or a bank holding company described in subsection (a), as applicable; and
+
+  (C) include at least 1 risk management expert having experience in identifying, assessing, and managing risk exposures of large, complex firms.
+
+(4) **Rulemaking** — The Board of Governors shall issue final rules to carry out this subsection, not later than 1 year after the transfer date, to take effect not later than 15 months after the transfer date.
+
+**(i) Stress tests**
+
+(1) **By the Board of Governors**
+
+  (A) *Annual tests required* — The Board of Governors, in coordination with the appropriate primary financial regulatory agencies and the Federal Insurance Office, shall conduct annual analyses in which nonbank financial companies supervised by the Board of Governors and bank holding companies described in subsection (a) are subject to evaluation of whether such companies have the capital, on a total consolidated basis, necessary to absorb losses as a result of adverse economic conditions.
+
+  (B) *Test parameters and consequences* — The Board of Governors—
+
+    (i) shall provide for at least 3 different sets of conditions under which the evaluation required by this subsection shall be conducted, including baseline, adverse, and severely adverse;
+
+    (ii) may require the tests described in subparagraph (A) at bank holding companies and nonbank financial companies, in addition to those for which annual tests are required under subparagraph (A);
+
+    (iii) may develop and apply such other analytic techniques as are necessary to identify, measure, and monitor risks to the financial stability of the United States;
+
+    (iv) shall require the companies described in subparagraph (A) to update their resolution plans required under subsection (d)(1), as the Board of Governors determines appropriate, based on the results of the analyses; and
+
+    (v) shall publish a summary of the results of the tests required under subparagraph (A) or clause (ii) of this subparagraph.
+
+(2) **By the company**
+
+  (A) *Requirement* — A nonbank financial company supervised by the Board of Governors and a bank holding company described in subsection (a) shall conduct semiannual stress tests. All other financial companies that have total consolidated assets of more than $10,000,000,000 and are regulated by a primary Federal financial regulatory agency shall conduct annual stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
+
+  (B) *Report* — A company required to conduct stress tests under subparagraph (A) shall submit a report to the Board of Governors and to its primary financial regulatory agency at such time, in such form, and containing such information as the primary financial regulatory agency shall require.
+
+  (C) *Regulations* — Each Federal primary financial regulatory agency, in coordination with the Board of Governors and the Federal Insurance Office, shall issue consistent and comparable regulations to implement this paragraph that shall—
+
+    (i) define the term “stress test” for purposes of this paragraph;
+
+    (ii) establish methodologies for the conduct of stress tests required by this paragraph that shall provide for at least 3 different sets of conditions, including baseline, adverse, and severely adverse;
+
+    (iii) establish the form and content of the report required by subparagraph (B); and
+
+    (iv) require companies subject to this paragraph to publish a summary of the results of the required stress tests.
+
+**(j) Leverage limitation**
+
+(1) **Requirement** — The Board of Governors shall require a bank holding company with total consolidated assets equal to or greater than $50,000,000,000 or a nonbank financial company supervised by the Board of Governors to maintain a debt to equity ratio of no more than 15 to 1, upon a determination by the Council that such company poses a grave threat to the financial stability of the United States and that the imposition of such requirement is necessary to mitigate the risk that such company poses to the financial stability of the United States. Nothing in this paragraph shall apply to a Federal home loan bank.
+
+(2) **Considerations** — In making a determination under this subsection, the Council shall consider the factors described in subsections (a) and (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) and any other risk-related factors that the Council deems appropriate.
+
+(3) **Regulations** — The Board of Governors shall promulgate regulations to establish procedures and timelines for complying with the requirements of this subsection.
+
+**(k) Inclusion of off-balance-sheet activities in computing capital requirements**
+
+(1) **In general** — In the case of any bank holding company described in subsection (a) or nonbank financial company supervised by the Board of Governors, the computation of capital for purposes of meeting capital requirements shall take into account any off-balance-sheet activities of the company.
+
+(2) **Exemptions** — If the Board of Governors determines that an exemption from the requirement under paragraph (1) is appropriate, the Board of Governors may exempt a company, or any transaction or transactions engaged in by such company, from the requirements of paragraph (1).
+
+(3) **Off-balance-sheet activities defined** — For purposes of this subsection, the term “off-balance-sheet activities” means an existing liability of a company that is not currently a balance sheet liability, but may become one upon the happening of some future event, including the following transactions, to the extent that they may create a liability:
+
+  (A) Direct credit substitutes in which a bank substitutes its own credit for a third party, including standby letters of credit.
+
+  (B) Irrevocable letters of credit that guarantee repayment of commercial paper or tax-exempt securities.
+
+  (C) Risk participations in bankers’ acceptances.
+
+  (D) Sale and repurchase agreements.
+
+  (E) Asset sales with recourse against the seller.
+
+  (F) Interest rate swaps.
+
+  (G) Credit swaps.
+
+  (H) Commodities contracts.
+
+  (I) Forward contracts.
+
+  (J) Securities contracts.
+
+  (K) Such other activities or transactions as the Board of Governors may, by rule, define.
+
+### Statutory Notes
+
+#### References in Text
+Subchapter II, referred to in subsec. (d)(6), was in the original “title II”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to subchapter II (§ 5381 et seq.) of this chapter. For complete classification of title II to the Code, see Tables.
+
+The Bank Holding Company Act of 1956, referred to in subsec. (g)(5), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+
+
+<a id="section-5370"></a>
+## § 5370. Early remediation requirements
+**(a) In general** The Board of Governors, in consultation with the Council and the Corporation, shall prescribe regulations establishing requirements to provide for the early remediation of financial distress of a nonbank financial company supervised by the Board of Governors or a bank holding company described in [section 5365(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365/a&num=0&edition=prelim), except that nothing in this subsection authorizes the provision of financial assistance from the Federal Government.
+
+**(b) Purpose of the early remediation requirements** The purpose of the early remediation requirements under subsection (a) shall be to establish a series of specific remedial actions to be taken by a nonbank financial company supervised by the Board of Governors or a bank holding company described in [section 5365(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5365/a&num=0&edition=prelim) that is experiencing increasing financial distress, in order to minimize the probability that the company will become insolvent and the potential harm of such insolvency to the financial stability of the United States.
+
+**(c) Remediation requirements** The regulations prescribed by the Board of Governors under subsection (a) shall—
+
+(1) define measures of the financial condition of the company, including regulatory capital, liquidity measures, and other forward-looking indicators; and
+
+(2) establish requirements that increase in stringency as the financial condition of the company declines, including—
+
+  (A) requirements in the initial stages of financial decline, including limits on capital distributions, acquisitions, and asset growth; and
+
+  (B) requirements at later stages of financial decline, including a capital restoration plan and capital-raising requirements, limits on transactions with affiliates, management changes, and asset sales.
+
+
+<a id="section-5371"></a>
+## § 5371. Affiliations
+**(a) Affiliations** Nothing in this part shall be construed to require a nonbank financial company supervised by the Board of Governors, or a company that controls a nonbank financial company supervised by the Board of Governors, to conform the activities thereof to the requirements of [section 1843 of this title](./chapter-017-bank-holding-companies.md#section-1843).
+
+**(b) Requirement**
+
+(1) **In general**
+
+  (A) *Board authority* — If a nonbank financial company supervised by the Board of Governors conducts activities other than those that are determined to be financial in nature or incidental thereto under [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim), the Board of Governors may require such company to establish and conduct all or a portion of such activities that are determined to be financial in nature or incidental thereto in or through an intermediate holding company established pursuant to regulation of the Board of Governors, not later than 90 days (or such longer period as the Board of Governors may deem appropriate) after the date on which the nonbank financial company supervised by the Board of Governors is notified of the determination of the Board of Governors under this section.
+
+  (B) *Necessary actions* — Notwithstanding subparagraph (A), the Board of Governors shall require a nonbank financial company supervised by the Board of Governors to establish an intermediate holding company if the Board of Governors makes a determination that the establishment of such intermediate holding company is necessary to—
+
+    (i) appropriately supervise activities that are determined to be financial in nature or incidental thereto; or
+
+    (ii) to 11 So in original. The word “to” probably should not appear. ensure that supervision by the Board of Governors does not extend to the commercial activities of such nonbank financial company.
+
+(2) **Internal financial activities** — For purposes of this subsection, activities that are determined to be financial in nature or incidental thereto under [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim), as described in paragraph (1), shall not include internal financial activities, including internal treasury, investment, and employee benefit functions. With respect to any internal financial activity engaged in for the company or an affiliate and a non-affiliate of such company during the year prior to July 21, 2010, such company (or an affiliate that is not an intermediate holding company or subsidiary of an intermediate holding company) may continue to engage in such activity, as long as not less than 2/3 of the assets or 2/3 of the revenues generated from the activity are from or attributable to such company or an affiliate, subject to review by the Board of Governors, to determine whether engaging in such activity presents undue risk to such company or to the financial stability of the United States.
+
+(3) **Source of strength** — A company that directly or indirectly controls an intermediate holding company established under this section shall serve as a source of strength to its subsidiary intermediate holding company.
+
+(4) **Parent company reports** — The Board of Governors may, from time to time, require reports under oath from a company that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposes of ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company pursuant to paragraph (3) and enforcing such compliance.
+
+(5) **Limited parent company enforcement**
+
+  (A) *In general* — In addition to any other authority of the Board of Governors, the Board of Governors may enforce compliance with the provisions of this subsection that are applicable to any company described in paragraph (1) that controls an intermediate holding company under section 8 of the Federal Deposit Insurance Act [[12 U.S.C. 1818](./chapter-016-federal-deposit-insurance-corporation.md#section-1818)], and such company shall be subject to such section (solely for such purposes) in the same manner and to the same extent as if such company were a bank holding company.
+
+  (B) *Application of other Act* — Any violation of this subsection by any company that controls an intermediate holding company may also be treated as a violation of the Federal Deposit Insurance Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.] for purposes of subparagraph (A).
+
+  (C) *No effect on other authority* — No provision of this paragraph shall be construed as limiting any authority of the Board of Governors or any other Federal agency under any other provision of law.
+
+**(c) Regulations** The Board of Governors—
+
+(1) shall promulgate regulations to establish the criteria for determining whether to require a nonbank financial company supervised by the Board of Governors to establish an intermediate holding company under subsection (b); and
+
+(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
+
+### Statutory Notes
+
+#### References in Text
+This part, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
+
+The Federal Deposit Insurance Act, referred to in subsec. (b)(5)(B), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+
+<a id="section-5372"></a>
+## § 5372. Regulations
+
+The Board of Governors shall have authority to issue regulations to implement parts A and C and the amendments made thereunder. Except as otherwise specified in part A or C, not later than 18 months after the effective date of this Act, the Board of Governors shall issue final regulations to implement parts A and C, and the amendments made thereunder.
+
+### Statutory Notes
+
+#### References in Text
+Part C, referred to in text, was in the original “subtitle C”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
+
+The effective date of this Act, referred to in text, is 1 day after July 21, 2010, except as otherwise specifically provided in Pub. L. 111–203, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5373"></a>
+## § 5373. Avoiding duplication
+
+The Board of Governors shall take any action that the Board of Governors deems appropriate to avoid imposing requirements under this part that are duplicative of requirements applicable to bank holding companies and nonbank financial companies under other provisions of law.
+
+### Statutory Notes
+
+#### References in Text
+This part, referred to in text, was in the original “this subtitle”, meaning subtitle C (§§ 161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to this part. For complete classification of subtitle C to the Code, see Tables.
+
+
+<a id="section-5374"></a>
+## § 5374. Safe harbor
+**(a) Regulations** The Board of Governors shall promulgate regulations on behalf of, and in consultation with, the Council setting forth the criteria for exempting certain types or classes of U.S. nonbank financial companies or foreign nonbank financial companies from supervision by the Board of Governors.
+
+**(b) Considerations** In developing the criteria under subsection (a), the Board of Governors shall take into account the factors for consideration described in subsections (a) and (b) of [section 5323 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5323) in determining whether a U.S. nonbank financial company or foreign nonbank financial company shall be supervised by the Board of Governors.
+
+**(c) Rule of construction** Nothing in this section shall be construed to require supervision by the Board of Governors of a U.S. nonbank financial company or foreign nonbank financial company, if such company does not meet the criteria for exemption established under subsection (a).
+
+**(d) Revisions**
+
+(1) **In general** — The Board of Governors shall, in consultation with the Council, review the regulations promulgated under subsection (a), not less frequently than every 5 years, and based upon the review, the Board of Governors may revise such regulations on behalf of, and in consultation with, the Council to update as necessary the criteria set forth in such regulations.
+
+(2) **Transition period** — No revisions under paragraph (1) shall take effect before the end of the 2-year period after the date of publication of such revisions in final form.
+
+**(e) Report** The Chairman of the Board of Governors and the Chairperson of the Council shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives not later than 30 days after the date of the issuance in final form of regulations under subsection (a), or any subsequent revision to such regulations under subsection (d), as applicable. Such report shall include, at a minimum, the rationale for exemption and empirical evidence to support the criteria for exemption.
+
+
+<a id="section-5381"></a>
+## § 5381. Rule of construction
+
+Nothing in this Act shall be construed to limit or curtail the Corporation’s current authority to examine or bring enforcement actions with respect to any insured depository institution or institution-affiliated party.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5382"></a>
+## § 5382. International policy coordination
+**(a) By the President** The President, or a designee of the President, may coordinate through all available international policy channels, similar policies as those found in United States law relating to limiting the scope, nature, size, scale, concentration, and interconnectedness of financial companies, in order to protect financial stability and the global economy.
+
+**(b) By the Council** The Chairperson of the Council, in consultation with the other members of the Council, shall regularly consult with the financial regulatory entities and other appropriate organizations of foreign governments or international organizations on matters relating to systemic risk to the international financial system.
+
+**(c) By the Board of Governors and the Secretary** The Board of Governors and the Secretary shall consult with their foreign counterparts and through appropriate multilateral organizations to encourage comprehensive and robust prudential supervision and regulation for all highly leveraged and interconnected financial companies.
+
+
+<a id="section-5383"></a>
+## § 5383. Rule of construction
+
+No regulation or standard imposed under this subchapter may be construed in a manner that would lessen the stringency of the requirements of any applicable primary financial regulatory agency or any other Federal or State agency that are otherwise applicable. This subchapter, and the rules and regulations or orders prescribed pursuant to this subchapter, do not divest any such agency of any authority derived from any other applicable law.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5384"></a>
+## § 5384. Definitions
+**(a) In general** In this subchapter, the following definitions shall apply:
+
+(1) **Administrative expenses of the receiver** — The term “administrative expenses of the receiver” includes—
+
+  (A) the actual, necessary costs and expenses incurred by the Corporation as receiver for a covered financial company in liquidating a covered financial company; and
+
+  (B) any obligations that the Corporation as receiver for a covered financial company determines are necessary and appropriate to facilitate the smooth and orderly liquidation of the covered financial company.
+
+(2) **Bankruptcy Code** — The term “Bankruptcy Code” means title 11.
+
+(3) **Bridge financial company** — The term “bridge financial company” means a new financial company organized by the Corporation in accordance with [section 5390(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/h&num=0&edition=prelim) for the purpose of resolving a covered financial company.
+
+(4) **Claim** — The term “claim” means any right to payment, whether or not such right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
+
+(5) **Company** — The term “company” has the same meaning as in [section 1841(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/b&num=0&edition=prelim), except that such term includes any company described in paragraph (11), the majority of the securities of which are owned by the United States or any State.
+
+(6) **Court** — The term “Court” means the United States District Court for the District of Columbia, unless the context otherwise requires.
+
+(7) **Covered broker or dealer** — The term “covered broker or dealer” means a covered financial company that is a broker or dealer that—
+
+  (A) is registered with the Commission under section 78o(b) of title 15; and
+
+  (B) is a member of SIPC.
+
+(8) **Covered financial company** — The term “covered financial company”—
+
+  (A) means a financial company for which a determination has been made under [section 5383(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/b&num=0&edition=prelim); and
+
+  (B) does not include an insured depository institution.
+
+(9) **Covered subsidiary** — The term “covered subsidiary” means a subsidiary of a covered financial company, other than—
+
+  (A) an insured depository institution;
+
+  (B) an insurance company; or
+
+  (C) a covered broker or dealer.
+
+(10) **Definitions relating to covered brokers and dealers** — The terms “customer”, “customer name securities”, “customer property”, and “net equity” in the context of a covered broker or dealer, have the same meanings as in section 78lll of title 15.
+
+(11) **Financial company** — The term “financial company” means any company that—
+
+  (A) is incorporated or organized under any provision of Federal law or the laws of any State;
+
+  (B) is—
+
+    (i) a bank holding company, as defined in [section 1841(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/a&num=0&edition=prelim);
+
+    (ii) a nonbank financial company supervised by the Board of Governors;
+
+    (iii) any company that is predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim) other than a company described in clause (i) or (ii); or
+
+    (iv) any subsidiary of any company described in any of clauses (i) through (iii) that is predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim) (other than a subsidiary that is an insured depository institution or an insurance company); and
+
+  (C) is not a Farm Credit System institution chartered under and subject to the provisions of the Farm Credit Act of 1971, as amended ([12 U.S.C. 2001](./chapter-023-farm-credit-system.md#section-2001) et seq.), a governmental entity, or a regulated entity, as defined under [section 4502(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4502/20&num=0&edition=prelim).
+
+(12) **Fund** — The term “Fund” means the Orderly Liquidation Fund established under [section 5390(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n&num=0&edition=prelim).
+
+(13) **Insurance company** — The term “insurance company” means any entity that is—
+
+  (A) engaged in the business of insurance;
+
+  (B) subject to regulation by a State insurance regulator; and
+
+  (C) covered by a State law that is designed to specifically deal with the rehabilitation, liquidation, or insolvency of an insurance company.
+
+(14) **Nonbank financial company** — The term “nonbank financial company” has the same meaning as in [section 5311(a)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5311/a/4/C&num=0&edition=prelim).
+
+(15) **Nonbank financial company supervised by the Board of Governors** — The term “nonbank financial company supervised by the Board of Governors” has the same meaning as in [section 5311(a)(4)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5311/a/4/D&num=0&edition=prelim).
+
+(16) **SIPC** — The term “SIPC” means the Securities Investor Protection Corporation.
+
+**(b) Definitional criteria** For purpose of the definition of the term “financial company” under subsection (a)(11), no company shall be deemed to be predominantly engaged in activities that the Board of Governors has determined are financial in nature or incidental thereto for purposes of [section 1843(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim), if the consolidated revenues of such company from such activities constitute less than 85 percent of the total consolidated revenues of such company, as the Corporation, in consultation with the Secretary, shall establish by regulation. In determining whether a company is a financial company under this subchapter, the consolidated revenues derived from the ownership or control of a depository institution shall be included.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+The Farm Credit Act of 1971, referred to in subsec. (a)(11)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-023-farm-credit-system.md#section-2001) and Tables.
+
+#### Effective Date
+Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5385"></a>
+## § 5385. Judicial review
+**(a) Commencement of orderly liquidation**
+
+(1) **Petition to District Court**
+
+  (A) *District Court review*
+
+    (i) *Petition to District Court* — Subsequent to a determination by the Secretary under [section 5383 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5383) that a financial company satisfies the criteria in [section 5383(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/b&num=0&edition=prelim), the Secretary shall notify the Corporation and the covered financial company. If the board of directors (or body performing similar functions) of the covered financial company acquiesces or consents to the appointment of the Corporation as receiver, the Secretary shall appoint the Corporation as receiver. If the board of directors (or body performing similar functions) of the covered financial company does not acquiesce or consent to the appointment of the Corporation as receiver, the Secretary shall petition the United States District Court for the District of Columbia for an order authorizing the Secretary to appoint the Corporation as receiver.
+
+    (ii) *Form and content of order* — The Secretary shall present all relevant findings and the recommendation made pursuant to [section 5383(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/a&num=0&edition=prelim) to the Court. The petition shall be filed under seal.
+
+    (iii) *Determination* — On a strictly confidential basis, and without any prior public disclosure, the Court, after notice to the covered financial company and a hearing in which the covered financial company may oppose the petition, shall determine whether the determination of the Secretary that the covered financial company is in default or in danger of default and satisfies the definition of a financial company under [section 5381(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5381/a/11&num=0&edition=prelim) is arbitrary and capricious.
+
+    (iv) *Issuance of order* — If the Court determines that the determination of the Secretary that the covered financial company is in default or in danger of default and satisfies the definition of a financial company under [section 5381(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5381/a/11&num=0&edition=prelim)—
+
+      (I) is not arbitrary and capricious, the Court shall issue an order immediately authorizing the Secretary to appoint the Corporation as receiver of the covered financial company; or
+
+      (II) is arbitrary and capricious, the Court shall immediately provide to the Secretary a written statement of each reason supporting its determination, and afford the Secretary an immediate opportunity to amend and refile the petition under clause (i).
+
+    (v) *Petition granted by operation of law* — If the Court does not make a determination within 24 hours of receipt of the petition—
+
+      (I) the petition shall be granted by operation of law;
+
+      (II) the Secretary shall appoint the Corporation as receiver; and
+
+      (III) liquidation under this subchapter shall automatically and without further notice or action be commenced and the Corporation may immediately take all actions authorized under this subchapter.
+
+  (B) *Effect of determination* — The determination of the Court under subparagraph (A) shall be final, and shall be subject to appeal only in accordance with paragraph (2). The decision shall not be subject to any stay or injunction pending appeal. Upon conclusion of its proceedings under subparagraph (A), the Court shall provide immediately for the record a written statement of each reason supporting the decision of the Court, and shall provide copies thereof to the Secretary and the covered financial company.
+
+  (C) *Criminal penalties* — A person who recklessly discloses a determination of the Secretary under [section 5383(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/b&num=0&edition=prelim) or a petition of the Secretary under subparagraph (A), or the pendency of court proceedings as provided for under subparagraph (A), shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both.
+
+(2) **Appeal of decisions of the District Court**
+
+  (A) *Appeal to Court of Appeals*
+
+    (i) *In general* — Subject to clause (ii), the United States Court of Appeals for the District of Columbia Circuit shall have jurisdiction of an appeal of a final decision of the Court filed by the Secretary or a covered financial company, through its board of directors, notwithstanding [section 5390(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/a/1/A/i&num=0&edition=prelim), not later than 30 days after the date on which the decision of the Court is rendered or deemed rendered under this subsection.
+
+    (ii) *Condition of jurisdiction* — The Court of Appeals shall have jurisdiction of an appeal by a covered financial company only if the covered financial company did not acquiesce or consent to the appointment of a receiver by the Secretary under paragraph (1)(A).
+
+    (iii) *Expedition* — The Court of Appeals shall consider any appeal under this subparagraph on an expedited basis.
+
+    (iv) *Scope of review* — For an appeal taken under this subparagraph, review shall be limited to whether the determination of the Secretary that a covered financial company is in default or in danger of default and satisfies the definition of a financial company under [section 5381(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5381/a/11&num=0&edition=prelim) is arbitrary and capricious.
+
+  (B) *Appeal to the Supreme Court*
+
+    (i) *In general* — A petition for a writ of certiorari to review a decision of the Court of Appeals under subparagraph (A) may be filed by the Secretary or the covered financial company, through its board of directors, notwithstanding [section 5390(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/a/1/A/i&num=0&edition=prelim), with the Supreme Court of the United States, not later than 30 days after the date of the final decision of the Court of Appeals, and the Supreme Court shall have discretionary jurisdiction to review such decision.
+
+    (ii) *Written statement* — In the event of a petition under clause (i), the Court of Appeals shall immediately provide for the record a written statement of each reason for its decision.
+
+    (iii) *Expedition* — The Supreme Court shall consider any petition under this subparagraph on an expedited basis.
+
+    (iv) *Scope of review* — Review by the Supreme Court under this subparagraph shall be limited to whether the determination of the Secretary that the covered financial company is in default or in danger of default and satisfies the definition of a financial company under [section 5381(a)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5381/a/11&num=0&edition=prelim) is arbitrary and capricious.
+
+**(b) Establishment and transmittal of rules and procedures**
+
+(1) **In general** — Not later than 6 months after July 21, 2010, the Court shall establish such rules and procedures as may be necessary to ensure the orderly conduct of proceedings, including rules and procedures to ensure that the 24-hour deadline is met and that the Secretary shall have an ongoing opportunity to amend and refile petitions under subsection (a)(1).
+
+(2) **Publication of rules** — The rules and procedures established under paragraph (1), and any modifications of such rules and procedures, shall be recorded and shall be transmitted to—
+
+  (A) the Committee on the Judiciary of the Senate;
+
+  (B) the Committee on Banking, Housing, and Urban Affairs of the Senate;
+
+  (C) the Committee on the Judiciary of the House of Representatives; and
+
+  (D) the Committee on Financial Services of the House of Representatives.
+
+**(c) Provisions applicable to financial companies**
+
+(1) **Bankruptcy Code** — Except as provided in this subsection, the provisions of the Bankruptcy Code and rules issued thereunder or otherwise applicable insolvency law, and not the provisions of this subchapter, shall apply to financial companies that are not covered financial companies for which the Corporation has been appointed as receiver.
+
+(2) **This subchapter** — The provisions of this subchapter shall exclusively apply to and govern all matters relating to covered financial companies for which the Corporation is appointed as receiver, and no provisions of the Bankruptcy Code or the rules issued thereunder shall apply in such cases, except as expressly provided in this subchapter.
+
+**(d) Time limit on receivership authority**
+
+(1) **Baseline period** — Any appointment of the Corporation as receiver under this section shall terminate at the end of the 3-year period beginning on the date on which such appointment is made.
+
+(2) **Extension of time limit** — The time limit established in paragraph (1) may be extended by the Corporation for up to 1 additional year, if the Chairperson of the Corporation determines and certifies in writing to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that continuation of the receivership is necessary—
+
+  (A) to—
+
+    (i) maximize the net present value return from the sale or other disposition of the assets of the covered financial company; or
+
+    (ii) minimize the amount of loss realized upon the sale or other disposition of the assets of the covered financial company; and
+
+  (B) to protect the stability of the financial system of the United States.
+
+(3) **Second extension of time limit**
+
+  (A) *In general* — The time limit under this subsection, as extended under paragraph (2), may be extended for up to 1 additional year, if the Chairperson of the Corporation, with the concurrence of the Secretary, submits the certifications described in paragraph (2).
+
+  (B) *Additional report required* — Not later than 30 days after the date of commencement of the extension under subparagraph (A), the Corporation shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives describing the need for the extension and the specific plan of the Corporation to conclude the receivership before the end of the second extension.
+
+(4) **Ongoing litigation** — The time limit under this subsection, as extended under paragraph (3), may be further extended solely for the purpose of completing ongoing litigation in which the Corporation as receiver is a party, provided that the appointment of the Corporation as receiver shall terminate not later than 90 days after the date of completion of such litigation, if—
+
+  (A) the Council determines that the Corporation used its best efforts to conclude the receivership in accordance with its plan before the end of the time limit described in paragraph (3);
+
+  (B) the Council determines that the completion of longer-term responsibilities in the form of ongoing litigation justifies the need for an extension; and
+
+  (C) the Corporation submits a report approved by the Council not later than 30 days after the date of the determinations by the Council under subparagraphs (A) and (B) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, describing—
+
+    (i) the ongoing litigation justifying the need for an extension; and
+
+    (ii) the specific plan of the Corporation to complete the litigation and conclude the receivership.
+
+(5) **Regulations** — The Corporation may issue regulations governing the termination of receiverships under this subchapter.
+
+(6) **No liability** — The Corporation and the Deposit Insurance Fund shall not be liable for unresolved claims arising from the receivership after the termination of the receivership.
+
+**(e) Study of bankruptcy and orderly liquidation process for financial companies**
+
+(1) **Study**
+
+  (A) *In general* — The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor the activities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
+
+  (B) *Issues to be studied* — In conducting the study under subparagraph (A), the Administrative Office of the United States Courts and the Comptroller General of the United States each shall evaluate—
+
+    (i) the effectiveness of chapter 7 or chapter 11 of the Bankruptcy Code in facilitating the orderly liquidation or reorganization of financial companies;
+
+    (ii) ways to maximize the efficiency and effectiveness of the Court; and
+
+    (iii) ways to make the orderly liquidation process under the Bankruptcy Code for financial companies more effective.
+
+(2) **Reports** — Not later than 1 year after July 21, 2010, in each successive year until the third year, and every fifth year after that date, the Administrative Office of the United States Courts and the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate and the Committee on Financial Services and the Committee on the Judiciary of the House of Representatives separate reports summarizing the results of the studies conducted under paragraph (1).
+
+**(f) Study of international coordination relating to bankruptcy process for financial companies**
+
+(1) **Study**
+
+  (A) *In general* — The Comptroller General of the United States shall conduct a study regarding international coordination relating to the orderly liquidation of financial companies under the Bankruptcy Code.
+
+  (B) *Issues to be studied* — In conducting the study under subparagraph (A), the Comptroller General of the United States shall evaluate, with respect to the bankruptcy process for financial companies—
+
+    (i) the extent to which international coordination currently exists;
+
+    (ii) current mechanisms and structures for facilitating international cooperation;
+
+    (iii) barriers to effective international coordination; and
+
+    (iv) ways to increase and make more effective international coordination.
+
+(2) **Report** — Not later than 1 year after July 21, 2010, the Comptroller General of the United States shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate and the Committee on Financial Services and the Committee on the Judiciary of the House of Representatives and the Secretary a report summarizing the results of the study conducted under paragraph (1).
+
+**(g) Study of prompt corrective action implementation by the appropriate Federal agencies**
+
+(1) **Study** — The Comptroller General of the United States shall conduct a study regarding the implementation of prompt corrective action by the appropriate Federal banking agencies.
+
+(2) **Issues to be studied** — In conducting the study under paragraph (1), the Comptroller General shall evaluate—
+
+  (A) the effectiveness of implementation of prompt corrective action by the appropriate Federal banking agencies and the resolution of insured depository institutions by the Corporation; and
+
+  (B) ways to make prompt corrective action a more effective tool to resolve the insured depository institutions at the least possible long-term cost to the Deposit Insurance Fund.
+
+(3) **Report to Council** — Not later than 1 year after July 21, 2010, the Comptroller General shall submit a report to the Council on the results of the study conducted under this subsection.
+
+(4) **Council report of action** — Not later than 6 months after the date of receipt of the report from the Comptroller General under paragraph (3), the Council shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on actions taken in response to the report, including any recommendations made to the Federal primary financial regulatory agencies under [section 5330 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5330).
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5386"></a>
+## § 5386. Systemic risk determination
+**(a) Written recommendation and determination**
+
+(1) **Vote required**
+
+  (A) *In general* — On their own initiative, or at the request of the Secretary, the Corporation and the Board of Governors shall consider whether to make a written recommendation described in paragraph (2) with respect to whether the Secretary should appoint the Corporation as receiver for a financial company. Such recommendation shall be made upon a vote of not fewer than ⅔ of the members of the Board of Governors then serving and ⅔ of the members of the board of directors of the Corporation then serving.
+
+  (B) *Cases involving brokers or dealers* — In the case of a broker or dealer, or in which the largest United States subsidiary (as measured by total assets as of the end of the previous calendar quarter) of a financial company is a broker or dealer, the Commission and the Board of Governors, at the request of the Secretary, or on their own initiative, shall consider whether to make the written recommendation described in paragraph (2) with respect to the financial company. Subject to the requirements in paragraph (2), such recommendation shall be made upon a vote of not fewer than ⅔ of the members of the Board of Governors then serving and ⅔ of the members of the Commission then serving, and in consultation with the Corporation.
+
+  (C) *Cases involving insurance companies* — In the case of an insurance company, or in which the largest United States subsidiary (as measured by total assets as of the end of the previous calendar quarter) of a financial company is an insurance company, the Director of the Federal Insurance Office and the Board of Governors, at the request of the Secretary or on their own initiative, shall consider whether to make the written recommendation described in paragraph (2) with respect to the financial company. Subject to the requirements in paragraph (2), such recommendation shall be made upon a vote of not fewer than ⅔ of the Board of Governors then serving and the affirmative approval of the Director of the Federal Insurance Office, and in consultation with the Corporation.
+
+(2) **Recommendation required** — Any written recommendation pursuant to paragraph (1) shall contain—
+
+  (A) an evaluation of whether the financial company is in default or in danger of default;
+
+  (B) a description of the effect that the default of the financial company would have on financial stability in the United States;
+
+  (C) a description of the effect that the default of the financial company would have on economic conditions or financial stability for low income, minority, or underserved communities;
+
+  (D) a recommendation regarding the nature and the extent of actions to be taken under this subchapter regarding the financial company;
+
+  (E) an evaluation of the likelihood of a private sector alternative to prevent the default of the financial company;
+
+  (F) an evaluation of why a case under the Bankruptcy Code is not appropriate for the financial company;
+
+  (G) an evaluation of the effects on creditors, counterparties, and shareholders of the financial company and other market participants; and
+
+  (H) an evaluation of whether the company satisfies the definition of a financial company under [section 5381 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5381).
+
+**(b) Determination by the Secretary** Notwithstanding any other provision of Federal or State law, the Secretary shall take action in accordance with [section 5382(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5382/a/1/A&num=0&edition=prelim), if, upon the written recommendation under subsection (a), the Secretary (in consultation with the President) determines that—
+
+(1) the financial company is in default or in danger of default;
+
+(2) the failure of the financial company and its resolution under otherwise applicable Federal or State law would have serious adverse effects on financial stability in the United States;
+
+(3) no viable private sector alternative is available to prevent the default of the financial company;
+
+(4) any effect on the claims or interests of creditors, counterparties, and shareholders of the financial company and other market participants as a result of actions to be taken under this subchapter is appropriate, given the impact that any action taken under this subchapter would have on financial stability in the United States;
+
+(5) any action under [section 5384 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5384) would avoid or mitigate such adverse effects, taking into consideration the effectiveness of the action in mitigating potential adverse effects on the financial system, the cost to the general fund of the Treasury, and the potential to increase excessive risk taking on the part of creditors, counterparties, and shareholders in the financial company;
+
+(6) a Federal regulatory agency has ordered the financial company to convert all of its convertible debt instruments that are subject to the regulatory order; and
+
+(7) the company satisfies the definition of a financial company under [section 5381 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5381).
+
+**(c) Documentation and review**
+
+(1) **In general** — The Secretary shall—
+
+  (A) document any determination under subsection (b);
+
+  (B) retain the documentation for review under paragraph (2); and
+
+  (C) notify the covered financial company and the Corporation of such determination.
+
+(2) **Report to Congress** — Not later than 24 hours after the date of appointment of the Corporation as receiver for a covered financial company, the Secretary shall provide written notice of the recommendations and determinations reached in accordance with subsections (a) and (b) to the Majority Leader and the Minority Leader of the Senate and the Speaker and the Minority Leader of the House of Representatives, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives, which shall consist of a summary of the basis for the determination, including, to the extent available at the time of the determination—
+
+  (A) the size and financial condition of the covered financial company;
+
+  (B) the sources of capital and credit support that were available to the covered financial company;
+
+  (C) the operations of the covered financial company that could have had a significant impact on financial stability, markets, or both;
+
+  (D) identification of the banks and financial companies which may be able to provide the services offered by the covered financial company;
+
+  (E) any potential international ramifications of resolution of the covered financial company under other applicable insolvency law;
+
+  (F) an estimate of the potential effect of the resolution of the covered financial company under other applicable insolvency law on the financial stability of the United States;
+
+  (G) the potential effect of the appointment of a receiver by the Secretary on consumers;
+
+  (H) the potential effect of the appointment of a receiver by the Secretary on the financial system, financial markets, and banks and other financial companies; and
+
+  (I) whether resolution of the covered financial company under other applicable insolvency law would cause banks or other financial companies to experience severe liquidity distress.
+
+(3) **Reports to Congress and the public**
+
+  (A) *In general* — Not later than 60 days after the date of appointment of the Corporation as receiver for a covered financial company, the Corporation shall file a report with the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
+
+    (i) setting forth information on the financial condition of the covered financial company as of the date of the appointment, including a description of its assets and liabilities;
+
+    (ii) describing the plan of, and actions taken by, the Corporation to wind down the covered financial company;
+
+    (iii) explaining each instance in which the Corporation waived any applicable requirements of part 366 of title 12, Code of Federal Regulations (or any successor thereto) with respect to conflicts of interest by any person in the private sector who was retained to provide services to the Corporation in connection with such receivership;
+
+    (iv) describing the reasons for the provision of any funding to the receivership out of the Fund;
+
+    (v) setting forth the expected costs of the orderly liquidation of the covered financial company;
+
+    (vi) setting forth the identity of any claimant that is treated in a manner different from other similarly situated claimants under subsection (b)(4), (d)(4), or (h)(5)(E), the amount of any additional payment to such claimant under subsection (d)(4), and the reason for any such action; and
+
+    (vii) which report the Corporation shall publish on an online website maintained by the Corporation, subject to maintaining appropriate confidentiality.
+
+  (B) *Amendments* — The Corporation shall, on a timely basis, not less frequently than quarterly, amend or revise and resubmit the reports prepared under this paragraph, as necessary.
+
+  (C) *Congressional testimony* — The Corporation and the primary financial regulatory agency, if any, of the financial company for which the Corporation was appointed receiver under this subchapter shall appear before Congress, if requested, not later than 30 days after the date on which the Corporation first files the reports required under subparagraph (A).
+
+(4) **Default or in danger of default** — For purposes of this subchapter, a financial company shall be considered to be in default or in danger of default if, as determined in accordance with subsection (b)—
+
+  (A) a case has been, or likely will promptly be, commenced with respect to the financial company under the Bankruptcy Code;
+
+  (B) the financial company has incurred, or is likely to incur, losses that will deplete all or substantially all of its capital, and there is no reasonable prospect for the company to avoid such depletion;
+
+  (C) the assets of the financial company are, or are likely to be, less than its obligations to creditors and others; or
+
+  (D) the financial company is, or is likely to be, unable to pay its obligations (other than those subject to a bona fide dispute) in the normal course of business.
+
+(5) **GAO review** — The Comptroller General of the United States shall review and report to Congress on any determination under subsection (b), that results in the appointment of the Corporation as receiver, including—
+
+  (A) the basis for the determination;
+
+  (B) the purpose for which any action was taken pursuant thereto;
+
+  (C) the likely effect of the determination and such action on the incentives and conduct of financial companies and their creditors, counterparties, and shareholders; and
+
+  (D) the likely disruptive effect of the determination and such action on the reasonable expectations of creditors, counterparties, and shareholders, taking into account the impact any action under this subchapter would have on financial stability in the United States, including whether the rights of such parties will be disrupted.
+
+**(d) Corporation policies and procedures** As soon as is practicable after July 21, 2010, the Corporation shall establish policies and procedures that are acceptable to the Secretary governing the use of funds available to the Corporation to carry out this subchapter, including the terms and conditions for the provision and use of funds under sections 5384(d), 5390(h)(2)(G)(iv), and 5390(h)(9) of this title.
+
+**(e) Treatment of insurance companies and insurance company subsidiaries**
+
+(1) **In general** — Notwithstanding subsection (b), if an insurance company is a covered financial company or a subsidiary or affiliate of a covered financial company, the liquidation or rehabilitation of such insurance company, and any subsidiary or affiliate of such company that is not excepted under paragraph (2), shall be conducted as provided under applicable State law.
+
+(2) **Exception for subsidiaries and affiliates** — The requirement of paragraph (1) shall not apply with respect to any subsidiary or affiliate of an insurance company that is not itself an insurance company.
+
+(3) **Backup authority** — Notwithstanding paragraph (1), with respect to a covered financial company described in paragraph (1), if, after the end of the 60-day period beginning on the date on which a determination is made under [section 5382(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5382/a&num=0&edition=prelim) with respect to such company, the appropriate regulatory agency has not filed the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State, the Corporation shall have the authority to stand in the place of the appropriate regulatory agency and file the appropriate judicial action in the appropriate State court to place such company into orderly liquidation under the laws and requirements of the State.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a) to (d), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5387"></a>
+## § 5387. Orderly liquidation of covered financial companies
+**(a) Purpose of orderly liquidation authority** It is the purpose of this subchapter to provide the necessary authority to liquidate failing financial companies that pose a significant risk to the financial stability of the United States in a manner that mitigates such risk and minimizes moral hazard. The authority provided in this subchapter shall be exercised in the manner that best fulfills such purpose, so that—
+
+(1) creditors and shareholders will bear the losses of the financial company;
+
+(2) management responsible for the condition of the financial company will not be retained; and
+
+(3) the Corporation and other appropriate agencies will take all steps necessary and appropriate to assure that all parties, including management, directors, and third parties, having responsibility for the condition of the financial company bear losses consistent with their responsibility, including actions for damages, restitution, and recoupment of compensation and other gains not compatible with such responsibility.
+
+**(b) Corporation as receiver** Upon the appointment of the Corporation under [section 5382 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5382), the Corporation shall act as the receiver for the covered financial company, with all of the rights and obligations set forth in this subchapter.
+
+**(c) Consultation** The Corporation, as receiver—
+
+(1) shall consult with the primary financial regulatory agency or agencies of the covered financial company and its covered subsidiaries for purposes of ensuring an orderly liquidation of the covered financial company;
+
+(2) may consult with, or under subsection (a)(1)(B)(v) or (a)(1)(L) of [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390), acquire the services of, any outside experts, as appropriate to inform and aid the Corporation in the orderly liquidation process;
+
+(3) shall consult with the primary financial regulatory agency or agencies of any subsidiaries of the covered financial company that are not covered subsidiaries, and coordinate with such regulators regarding the treatment of such solvent subsidiaries and the separate resolution of any such insolvent subsidiaries under other governmental authority, as appropriate; and
+
+(4) shall consult with the Commission and the Securities Investor Protection Corporation in the case of any covered financial company for which the Corporation has been appointed as receiver that is a broker or dealer registered with the Commission under section 78o(b) of title 15 and is a member of the Securities Investor Protection Corporation, for the purpose of determining whether to transfer to a bridge financial company organized by the Corporation as receiver, without consent of any customer, customer accounts of the covered financial company.
+
+**(d) Funding for orderly liquidation** Upon its appointment as receiver for a covered financial company, and thereafter as the Corporation may, in its discretion, determine to be necessary or appropriate, the Corporation may make available to the receivership, subject to the conditions set forth in [section 5386 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5386) and subject to the plan described in [section 5390(n)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n/9&num=0&edition=prelim), funds for the orderly liquidation of the covered financial company. All funds provided by the Corporation under this subsection shall have a priority of claims under subparagraph (A) or (B) of [section 5390(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/b/1&num=0&edition=prelim), as applicable, including funds used for—
+
+(1) making loans to, or purchasing any debt obligation of, the covered financial company or any covered subsidiary;
+
+(2) purchasing or guaranteeing against loss the assets of the covered financial company or any covered subsidiary, directly or through an entity established by the Corporation for such purpose;
+
+(3) assuming or guaranteeing the obligations of the covered financial company or any covered subsidiary to 1 or more third parties;
+
+(4) taking a lien on any or all assets of the covered financial company or any covered subsidiary, including a first priority lien on all unencumbered assets of the covered financial company or any covered subsidiary to secure repayment of any transactions conducted under this subsection;
+
+(5) selling or transferring all, or any part, of such acquired assets, liabilities, or obligations of the covered financial company or any covered subsidiary; and
+
+(6) making payments pursuant to subsections (b)(4), (d)(4), and (h)(5)(E) of [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390).
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5388"></a>
+## § 5388. Orderly liquidation of covered brokers and dealers
+**(a) Appointment of SIPC as trustee**
+
+(1) **Appointment** — Upon the appointment of the Corporation as receiver for any covered broker or dealer, the Corporation shall appoint, without any need for court approval, the Securities Investor Protection Corporation to act as trustee for the liquidation under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) of the covered broker or dealer.
+
+(2) **Actions by SIPC**
+
+  (A) *Filing* — Upon appointment of SIPC under paragraph (1), SIPC shall promptly file with any Federal district court of competent jurisdiction specified in section 78u or 78aa of title 15, an application for a protective decree under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) as to the covered broker or dealer. The Federal district court shall accept and approve the filing, including outside of normal business hours, and shall immediately issue the protective decree as to the covered broker or dealer.
+
+  (B) *Administration by SIPC* — Following entry of the protective decree, and except as otherwise provided in this section, the determination of claims and the liquidation of assets retained in the receivership of the covered broker or dealer and not transferred to the bridge financial company shall be administered under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) by SIPC, as trustee for the covered broker or dealer.
+
+  (C) *Definition of filing date* — For purposes of the liquidation proceeding, the term “filing date” means the date on which the Corporation is appointed as receiver of the covered broker or dealer.
+
+  (D) *Determination of claims* — As trustee for the covered broker or dealer, SIPC shall determine and satisfy, consistent with this subchapter and with the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), all claims against the covered broker or dealer arising on or before the filing date.
+
+**(b) Powers and duties of SIPC**
+
+(1) **In general** — Except as provided in this section, upon its appointment as trustee for the liquidation of a covered broker or dealer, SIPC shall have all of the powers and duties provided by the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), including, without limitation, all rights of action against third parties, and shall conduct such liquidation in accordance with the terms of the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), except that SIPC shall have no powers or duties with respect to assets and liabilities transferred by the Corporation from the covered broker or dealer to any bridge financial company established in accordance with this subchapter.
+
+(2) **Limitation of powers** — The exercise by SIPC of powers and functions as trustee under subsection (a) shall not impair or impede the exercise of the powers and duties of the Corporation with regard to—
+
+  (A) any action, except as otherwise provided in this subchapter—
+
+    (i) to make funds available under [section 5384(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5384/d&num=0&edition=prelim);
+
+    (ii) to organize, establish, operate, or terminate any bridge financial company;
+
+    (iii) to transfer assets and liabilities;
+
+    (iv) to enforce or repudiate contracts; or
+
+    (v) to take any other action relating to such bridge financial company under [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390); or
+
+  (B) determining claims under subsection (e).
+
+(3) **Protective decree** — SIPC and the Corporation, in consultation with the Commission, shall jointly determine the terms of the protective decree to be filed by SIPC with any court of competent jurisdiction under section 78u or 78aa of title 15, as required by subsection (a).
+
+(4) **Qualified financial contracts** — Notwithstanding any provision of the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) to the contrary (including section 5(b)(2)(C) of that Act ([15 U.S.C. 78eee(b)(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78eee/b/2/C&num=0&edition=prelim))), the rights and obligations of any party to a qualified financial contract (as that term is defined in [section 5390(c)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/c/8&num=0&edition=prelim)) to which a covered broker or dealer for which the Corporation has been appointed receiver is a party shall be governed exclusively by [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390), including the limitations and restrictions contained in [section 5390(c)(10)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/c/10/B&num=0&edition=prelim).
+
+**(c) Limitation on court action** Except as otherwise provided in this subchapter, no court may take any action, including any action pursuant to the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) or the Bankruptcy Code, to restrain or affect the exercise of powers or functions of the Corporation as receiver for a covered broker or dealer and any claims against the Corporation as such receiver shall be determined in accordance with subsection (e) and such claims shall be limited to money damages.
+
+**(d) Actions by Corporation as receiver**
+
+(1) **In general** — Notwithstanding any other provision of this subchapter, no action taken by the Corporation as receiver with respect to a covered broker or dealer shall—
+
+  (A) adversely affect the rights of a customer to customer property or customer name securities;
+
+  (B) diminish the amount or timely payment of net equity claims of customers; or
+
+  (C) otherwise impair the recoveries provided to a customer under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.).
+
+(2) **Net proceeds** — The net proceeds from any transfer, sale, or disposition of assets of the covered broker or dealer, or proceeds thereof by the Corporation as receiver for the covered broker or dealer shall be for the benefit of the estate of the covered broker or dealer, as provided in this subchapter.
+
+**(e) Claims against the Corporation as receiver** Any claim against the Corporation as receiver for a covered broker or dealer for assets transferred to a bridge financial company established with respect to such covered broker or dealer—
+
+(1) shall be determined in accordance with [section 5390(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/a/2&num=0&edition=prelim); and
+
+(2) may be reviewed by the appropriate district or territorial court of the United States in accordance with [section 5390(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/a/5&num=0&edition=prelim).
+
+**(f) Satisfaction of customer claims**
+
+(1) **Obligations to customers** — Notwithstanding any other provision of this subchapter, all obligations of a covered broker or dealer or of any bridge financial company established with respect to such covered broker or dealer to a customer relating to, or net equity claims based upon, customer property or customer name securities shall be promptly discharged by SIPC, the Corporation, or the bridge financial company, as applicable, by the delivery of securities or the making of payments to or for the account of such customer, in a manner and in an amount at least as beneficial to the customer as would have been the case had the actual proceeds realized from the liquidation of the covered broker or dealer under this subchapter been distributed in a proceeding under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) without the appointment of the Corporation as receiver and without any transfer of assets or liabilities to a bridge financial company, and with a filing date as of the date on which the Corporation is appointed as receiver.
+
+(2) **Satisfaction of claims by SIPC** — SIPC, as trustee for a covered broker or dealer, shall satisfy customer claims in the manner and amount provided under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), as if the appointment of the Corporation as receiver had not occurred, and with a filing date as of the date on which the Corporation is appointed as receiver. The Corporation shall satisfy customer claims, to the extent that a customer would have received more securities or cash with respect to the allocation of customer property had the covered financial company been subject to a proceeding under the Securities Investor Protection Act ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) without the appointment of the Corporation as receiver, and with a filing date as of the date on which the Corporation is appointed as receiver.
+
+**(g) Priorities**
+
+(1) **Customer property** — As trustee for a covered broker or dealer, SIPC shall allocate customer property and deliver customer name securities in accordance with section 8(c) of the Securities Investor Protection Act of 1970 ([15 U.S.C. 78fff–2(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78fff–2/c&num=0&edition=prelim)).
+
+(2) **Other claims** — All claims other than those described in paragraph (1) (including any unpaid claim by a customer for the allowed net equity claim of such customer from customer property) shall be paid in accordance with the priorities in [section 5390(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/b&num=0&edition=prelim).
+
+**(h) Rulemaking** The Commission and the Corporation, after consultation with SIPC, shall jointly issue rules to implement this section.
+
+### Statutory Notes
+
+#### References in Text
+The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+
+This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5389"></a>
+## § 5389. Mandatory terms and conditions for all orderly liquidation actions
+
+In taking action under this subchapter, the Corporation shall—
+
+(1) determine that such action is necessary for purposes of the financial stability of the United States, and not for the purpose of preserving the covered financial company;
+
+(2) ensure that the shareholders of a covered financial company do not receive payment until after all other claims and the Fund are fully paid;
+
+(3) ensure that unsecured creditors bear losses in accordance with the priority of claim provisions in [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390);
+
+(4) ensure that management responsible for the failed condition of the covered financial company is removed (if such management has not already been removed at the time at which the Corporation is appointed receiver);
+
+(5) ensure that the members of the board of directors (or body performing similar functions) responsible for the failed condition of the covered financial company are removed, if such members have not already been removed at the time the Corporation is appointed as receiver; and
+
+(6) not take an equity interest in or become a shareholder of any covered financial company or any covered subsidiary.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5390"></a>
+## § 5390. Directors not liable for acquiescing in appointment of receiver
+
+The members of the board of directors (or body performing similar functions) of a covered financial company shall not be liable to the shareholders or creditors thereof for acquiescing in or consenting in good faith to the appointment of the Corporation as receiver for the covered financial company under [section 5383 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5383).
+
+
+<a id="section-5391"></a>
+## § 5391. Dismissal and exclusion of other actions
+**(a) In general** Effective as of the date of the appointment of the Corporation as receiver for the covered financial company under [section 5382 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5382) or the appointment of SIPC as trustee for a covered broker or dealer under [section 5385 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5385), as applicable, any case or proceeding commenced with respect to the covered financial company under the Bankruptcy Code or the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) shall be dismissed, upon notice to the bankruptcy court (with respect to a case commenced under the Bankruptcy Code), and upon notice to SIPC (with respect to a covered broker or dealer) and no such case or proceeding may be commenced with respect to a covered financial company at any time while the orderly liquidation is pending.
+
+**(b) Revesting of assets** Effective as of the date of appointment of the Corporation as receiver, the assets of a covered financial company shall, to the extent they have vested in any entity other than the covered financial company as a result of any case or proceeding commenced with respect to the covered financial company under the Bankruptcy Code, the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), or any similar provision of State liquidation or insolvency law applicable to the covered financial company, revest in the covered financial company.
+
+**(c) Limitation** Notwithstanding subsections (a) and (b), any order entered or other relief granted by a bankruptcy court prior to the date of appointment of the Corporation as receiver shall continue with the same validity as if an orderly liquidation had not been commenced.
+
+### Statutory Notes
+
+#### References in Text
+The Securities Investor Protection Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+
+
+<a id="section-5392"></a>
+## § 5392. Rulemaking; non-conflicting law
+
+The Corporation shall, in consultation with the Council, prescribe such rules or regulations as the Corporation considers necessary or appropriate to implement this subchapter, including rules and regulations with respect to the rights, interests, and priorities of creditors, counterparties, security entitlement holders, or other persons with respect to any covered financial company or any assets or other property of or held by such covered financial company, and address the potential for conflicts of interest between or among individual receiverships established under this subchapter or under the Federal Deposit Insurance Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.]. To the extent possible, the Corporation shall seek to harmonize applicable rules and regulations promulgated under this section with the insolvency laws that would otherwise apply to a covered financial company.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+
+<a id="section-5393"></a>
+## § 5393. Powers and duties of the Corporation
+**(a) Powers and authorities**
+
+(1) **General powers**
+
+  (A) *Successor to covered financial company* — The Corporation shall, upon appointment as receiver for a covered financial company under this subchapter, succeed to—
+
+    (i) all rights, titles, powers, and privileges of the covered financial company and its assets, and of any stockholder, member, officer, or director of such company; and
+
+    (ii) title to the books, records, and assets of any previous receiver or other legal custodian of such covered financial company.
+
+  (B) *Operation of the covered financial company during the period of orderly liquidation* — The Corporation, as receiver for a covered financial company, may—
+
+    (i) take over the assets of and operate the covered financial company with all of the powers of the members or shareholders, the directors, and the officers of the covered financial company, and conduct all business of the covered financial company;
+
+    (ii) collect all obligations and money owed to the covered financial company;
+
+    (iii) perform all functions of the covered financial company, in the name of the covered financial company;
+
+    (iv) manage the assets and property of the covered financial company, consistent with maximization of the value of the assets in the context of the orderly liquidation; and
+
+    (v) provide by contract for assistance in fulfilling any function, activity, action, or duty of the Corporation as receiver.
+
+  (C) *Functions of covered financial company officers, directors, and shareholders* — The Corporation may provide for the exercise of any function by any member or stockholder, director, or officer of any covered financial company for which the Corporation has been appointed as receiver under this subchapter.
+
+  (D) *Additional powers as receiver* — The Corporation shall, as receiver for a covered financial company, and subject to all legally enforceable and perfected security interests and all legally enforceable security entitlements in respect of assets held by the covered financial company, liquidate, and wind-up 11 So in original. Probably should be “wind up”. the affairs of a covered financial company, including taking steps to realize upon the assets of the covered financial company, in such manner as the Corporation deems appropriate, including through the sale of assets, the transfer of assets to a bridge financial company established under subsection (h), or the exercise of any other rights or privileges granted to the receiver under this section.
+
+  (E) *Additional powers with respect to failing subsidiaries of a covered financial company*
+
+    (i) *In general* — In any case in which a receiver is appointed for a covered financial company under [section 5382 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5382), the Corporation may appoint itself as receiver of any covered subsidiary of the covered financial company that is organized under Federal law or the laws of any State, if the Corporation and the Secretary jointly determine that—
+
+      (I) the covered subsidiary is in default or in danger of default;
+
+      (II) such action would avoid or mitigate serious adverse effects on the financial stability or economic conditions of the United States; and
+
+      (III) such action would facilitate the orderly liquidation of the covered financial company.
+
+    (ii) *Treatment as covered financial company* — If the Corporation is appointed as receiver of a covered subsidiary of a covered financial company under clause (i), the covered subsidiary shall thereafter be considered a covered financial company under this subchapter, and the Corporation shall thereafter have all the powers and rights with respect to that covered subsidiary as it has with respect to a covered financial company under this subchapter.
+
+  (F) *Organization of bridge companies* — The Corporation, as receiver for a covered financial company, may organize a bridge financial company under subsection (h).
+
+  (G) *Merger; transfer of assets and liabilities*
+
+    (i) *In general* — Subject to clauses (ii) and (iii), the Corporation, as receiver for a covered financial company, may—
+
+      (I) merge the covered financial company with another company; or
+
+      (II) transfer any asset or liability of the covered financial company (including any assets and liabilities held by the covered financial company for security entitlement holders, any customer property, or any assets and liabilities associated with any trust or custody business) without obtaining any approval, assignment, or consent with respect to such transfer.
+
+    (ii) *Federal agency approval; antitrust review* — With respect to a transaction described in clause (i)(I) that requires approval by a Federal agency—
+
+      (I) the transaction may not be consummated before the 5th calendar day after the date of approval by the Federal agency responsible for such approval;
+
+      (II) if, in connection with any such approval, a report on competitive factors is required, the Federal agency responsible for such approval shall promptly notify the Attorney General of the United States of the proposed transaction, and the Attorney General shall provide the required report not later than 10 days after the date of the request; and
+
+      (III) if notification under [section 18a of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section18a&num=0&edition=prelim) is required with respect to such transaction, then the required waiting period shall end on the 15th day after the date on which the Attorney General and the Federal Trade Commission receive such notification, unless the waiting period is terminated earlier under subsection (b)(2) of such section 18a, or is extended pursuant to subsection (e)(2) of such section 18a.
+
+    (iii) *Setoff* — Subject to the other provisions of this subchapter, any transferee of assets from a receiver, including a bridge financial company, shall be subject to such claims or rights as would prevail over the rights of such transferee in such assets under applicable noninsolvency law.
+
+  (H) *Payment of valid obligations* — The Corporation, as receiver for a covered financial company, shall, to the extent that funds are available, pay all valid obligations of the covered financial company that are due and payable at the time of the appointment of the Corporation as receiver, in accordance with the prescriptions and limitations of this subchapter.
+
+  (I) *Applicable noninsolvency law* — Except as may otherwise be provided in this subchapter, the applicable noninsolvency law shall be determined by the noninsolvency choice of law rules otherwise applicable to the claims, rights, titles, persons, or entities at issue.
+
+  (J) *Subpoena authority*
+
+    (i) *In general* — The Corporation, as receiver for a covered financial company, may, for purposes of carrying out any power, authority, or duty with respect to the covered financial company (including determining any claim against the covered financial company and determining and realizing upon any asset of any person in the course of collecting money due the covered financial company), exercise any power established under [section 1818(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/n&num=0&edition=prelim), as if the Corporation were the appropriate Federal banking agency for the covered financial company, and the covered financial company were an insured depository institution.
+
+    (ii) *Rule of construction* — This subparagraph may not be construed as limiting any rights that the Corporation, in any capacity, might otherwise have to exercise any powers described in clause (i) or under any other provision of law.
+
+  (K) *Incidental powers* — The Corporation, as receiver for a covered financial company, may exercise all powers and authorities specifically granted to receivers under this subchapter, and such incidental powers as shall be necessary to carry out such powers under this subchapter.
+
+  (L) *Utilization of private sector* — In carrying out its responsibilities in the management and disposition of assets from the covered financial company, the Corporation, as receiver for a covered financial company, may utilize the services of private persons, including real estate and loan portfolio asset management, property management, auction marketing, legal, and brokerage services, if such services are available in the private sector, and the Corporation determines that utilization of such services is practicable, efficient, and cost effective.
+
+  (M) *Shareholders and creditors of covered financial company* — Notwithstanding any other provision of law, the Corporation, as receiver for a covered financial company, shall succeed by operation of law to the rights, titles, powers, and privileges described in subparagraph (A), and shall terminate all rights and claims that the stockholders and creditors of the covered financial company may have against the assets of the covered financial company or the Corporation arising out of their status as stockholders or creditors, except for their right to payment, resolution, or other satisfaction of their claims, as permitted under this section. The Corporation shall ensure that shareholders and unsecured creditors bear losses, consistent with the priority of claims provisions under this section.
+
+  (N) *Coordination with foreign financial authorities* — The Corporation, as receiver for a covered financial company, shall coordinate, to the maximum extent possible, with the appropriate foreign financial authorities regarding the orderly liquidation of any covered financial company that has assets or operations in a country other than the United States.
+
+  (O) *Restriction on transfers*
+
+    (i) *Selection of accounts for transfer* — If the Corporation establishes one or more bridge financial companies with respect to a covered broker or dealer, the Corporation shall transfer to one of such bridge financial companies, all customer accounts of the covered broker or dealer, and all associated customer name securities and customer property, unless the Corporation, after consulting with the Commission and SIPC, determines that—
+
+      (I) the customer accounts, customer name securities, and customer property are likely to be promptly transferred to another broker or dealer that is registered with the Commission under section 78o(b) of title 15 and is a member of SIPC; or
+
+      (II) the transfer of the accounts to a bridge financial company would materially interfere with the ability of the Corporation to avoid or mitigate serious adverse effects on financial stability or economic conditions in the United States.
+
+    (ii) *Transfer of property* — SIPC, as trustee for the liquidation of the covered broker or dealer, and the Commission shall provide any and all reasonable assistance necessary to complete such transfers by the Corporation.
+
+    (iii) *Customer consent and court approval not required* — Neither customer consent nor court approval shall be required to transfer any customer accounts or associated customer name securities or customer property to a bridge financial company in accordance with this section.
+
+    (iv) *Notification of SIPC and sharing of information* — The Corporation shall identify to SIPC the customer accounts and associated customer name securities and customer property transferred to the bridge financial company. The Corporation and SIPC shall cooperate in the sharing of any information necessary for each entity to discharge its obligations under this subchapter and under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.) including by providing access to the books and records of the covered financial company and any bridge financial company established in accordance with this subchapter.
+
+(2) **Determination of claims**
+
+  (A) *In general* — The Corporation, as receiver for a covered financial company, shall report on claims, as set forth in [section 5383(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/c/3&num=0&edition=prelim). Subject to paragraph (4) of this subsection, the Corporation, as receiver for a covered financial company, shall determine claims in accordance with the requirements of this subsection and regulations prescribed under [section 5389 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5389).
+
+  (B) *Notice requirements* — The Corporation, as receiver for a covered financial company, in any case involving the liquidation or winding up of the affairs of a covered financial company, shall—
+
+    (i) promptly publish a notice to the creditors of the covered financial company to present their claims, together with proof, to the receiver by a date specified in the notice, which shall be not earlier than 90 days after the date of publication of such notice; and
+
+    (ii) republish such notice 1 month and 2 months, respectively, after the date of publication under clause (i).
+
+  (C) *Mailing required* — The Corporation as receiver shall mail a notice similar to the notice published under clause (i) or (ii) of subparagraph (B), at the time of such publication, to any creditor shown on the books and records of the covered financial company—
+
+    (i) at the last address of the creditor appearing in such books;
+
+    (ii) in any claim filed by the claimant; or
+
+    (iii) upon discovery of the name and address of a claimant not appearing on the books and records of the covered financial company, not later than 30 days after the date of the discovery of such name and address.
+
+(3) **Procedures for resolution of claims**
+
+  (A) *Decision period*
+
+    (i) *In general* — Prior to the 180th day after the date on which a claim against a covered financial company is filed with the Corporation as receiver, or such later date as may be agreed as provided in clause (ii), the Corporation shall notify the claimant whether it allows or disallows the claim, in accordance with subparagraphs (B), (C), and (D).
+
+    (ii) *Extension of time* — By written agreement executed not later than 180 days after the date on which a claim against a covered financial company is filed with the Corporation, the period described in clause (i) may be extended by written agreement between the claimant and the Corporation. Failure to notify the claimant of any disallowance within the time period set forth in clause (i), as it may be extended by agreement under this clause, shall be deemed to be a disallowance of such claim, and the claimant may file or continue an action in court, as provided in paragraph (4).
+
+    (iii) *Mailing of notice sufficient* — The requirements of clause (i) shall be deemed to be satisfied if the notice of any decision with respect to any claim is mailed to the last address of the claimant which appears—
+
+      (I) on the books, records, or both of the covered financial company;
+
+      (II) in the claim filed by the claimant; or
+
+      (III) in documents submitted in proof of the claim.
+
+    (iv) *Contents of notice of disallowance* — If the Corporation as receiver disallows any claim filed under clause (i), the notice to the claimant shall contain—
+
+      (I) a statement of each reason for the disallowance; and
+
+      (II) the procedures required to file or continue an action in court, as provided in paragraph (4).
+
+  (B) *Allowance of proven claim* — The receiver shall allow any claim received by the receiver on or before the date specified in the notice under paragraph (2)(B)(i), which is proved to the satisfaction of the receiver.
+
+  (C) *Disallowance of claims filed after end of filing period*
+
+    (i) *In general* — Except as provided in clause (ii), claims filed after the date specified in the notice published under paragraph (2)(B)(i) shall be disallowed, and such disallowance shall be final.
+
+    (ii) *Certain exceptions* — Clause (i) shall not apply with respect to any claim filed by a claimant after the date specified in the notice published under paragraph (2)(B)(i), and such claim may be considered by the receiver under subparagraph (B), if—
+
+      (I) the claimant did not receive notice of the appointment of the receiver in time to file such claim before such date; and
+
+      (II) such claim is filed in time to permit payment of such claim.
+
+  (D) *Authority to disallow claims*
+
+    (i) *In general* — The Corporation may disallow any portion of any claim by a creditor or claim of a security, preference, setoff, or priority which is not proved to the satisfaction of the Corporation.
+
+    (ii) *Payments to undersecured creditors* — In the case of a claim against a covered financial company that is secured by any property or other asset of such covered financial company, the receiver—
+
+      (I) may treat the portion of such claim which exceeds an amount equal to the fair market value of such property or other asset as an unsecured claim; and
+
+      (II) may not make any payment with respect to such unsecured portion of the claim, other than in connection with the disposition of all claims of unsecured creditors of the covered financial company.
+
+    (iii) *Exceptions* — No provision of this paragraph shall apply with respect to—
+
+      (I) any extension of credit from any Federal reserve bank, or the Corporation, to any covered financial company; or
+
+      (II) subject to clause (ii), any legally enforceable and perfected security interest in the assets of the covered financial company securing any such extension of credit.
+
+  (E) *Legal effect of filing*
+
+    (i) *Statute of limitations tolled* — For purposes of any applicable statute of limitations, the filing of a claim with the receiver shall constitute a commencement of an action.
+
+    (ii) *No prejudice to other actions* — Subject to paragraph (8), the filing of a claim with the receiver shall not prejudice any right of the claimant to continue any action which was filed before the date of appointment of the receiver for the covered financial company.
+
+(4) **Judicial determination of claims**
+
+  (A) *In general* — Subject to subparagraph (B), a claimant may file suit on a claim (or continue an action commenced before the date of appointment of the Corporation as receiver) in the district or territorial court of the United States for the district within which the principal place of business of the covered financial company is located (and such court shall have jurisdiction to hear such claim).
+
+  (B) *Timing* — A claim under subparagraph (A) may be filed before the end of the 60-day period beginning on the earlier of—
+
+    (i) the end of the period described in paragraph (3)(A)(i) (or, if extended by agreement of the Corporation and the claimant, the period described in paragraph (3)(A)(ii)) with respect to any claim against a covered financial company for which the Corporation is receiver; or
+
+    (ii) the date of any notice of disallowance of such claim pursuant to paragraph (3)(A)(i).
+
+  (C) *Statute of limitations* — If any claimant fails to file suit on such claim (or to continue an action on such claim commenced before the date of appointment of the Corporation as receiver) prior to the end of the 60-day period described in subparagraph (B), the claim shall be deemed to be disallowed (other than any portion of such claim which was allowed by the receiver) as of the end of such period, such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+
+(5) **Expedited determination of claims**
+
+  (A) *Procedure required* — The Corporation shall establish a procedure for expedited relief outside of the claims process established under paragraph (3), for any claimant that alleges—
+
+    (i) having a legally valid and enforceable or perfected security interest in property of a covered financial company or control of any legally valid and enforceable security entitlement in respect of any asset held by the covered financial company for which the Corporation has been appointed receiver; and
+
+    (ii) that irreparable injury will occur if the claims procedure established under paragraph (3) is followed.
+
+  (B) *Determination period* — Prior to the end of the 90-day period beginning on the date on which a claim is filed in accordance with the procedures established pursuant to subparagraph (A), the Corporation shall—
+
+    (i) determine—
+
+      (I) whether to allow or disallow such claim, or any portion thereof; or
+
+      (II) whether such claim should be determined pursuant to the procedures established pursuant to paragraph (3);
+
+    (ii) notify the claimant of the determination; and
+
+    (iii) if the claim is disallowed, provide a statement of each reason for the disallowance and the procedure for obtaining a judicial determination.
+
+  (C) *Period for filing or renewing suit* — Any claimant who files a request for expedited relief shall be permitted to file suit (or continue a suit filed before the date of appointment of the Corporation as receiver 22 So in original. A closing parenthesis probably should appear after “receiver”. seeking a determination of the rights of the claimant with respect to such security interest (or such security entitlement) after the earlier of—
+
+    (i) the end of the 90-day period beginning on the date of the filing of a request for expedited relief; or
+
+    (ii) the date on which the Corporation denies the claim or a portion thereof.
+
+  (D) *Statute of limitations* — If an action described in subparagraph (C) is not filed, or the motion to renew a previously filed suit is not made, before the end of the 30-day period beginning on the date on which such action or motion may be filed in accordance with subparagraph (C), the claim shall be deemed to be disallowed as of the end of such period (other than any portion of such claim which was allowed by the receiver), such disallowance shall be final, and the claimant shall have no further rights or remedies with respect to such claim.
+
+  (E) *Legal effect of filing*
+
+    (i) *Statute of limitations tolled* — For purposes of any applicable statute of limitations, the filing of a claim with the receiver shall constitute a commencement of an action.
+
+    (ii) *No prejudice to other actions* — Subject to paragraph (8), the filing of a claim with the receiver shall not prejudice any right of the claimant to continue any action which was filed before the appointment of the Corporation as receiver for the covered financial company.
+
+(6) **Agreements against interest of the receiver** — No agreement that tends to diminish or defeat the interest of the Corporation as receiver in any asset acquired by the receiver under this section shall be valid against the receiver, unless such agreement—
+
+  (A) is in writing;
+
+  (B) was executed by an authorized officer or representative of the covered financial company, or confirmed in the ordinary course of business by the covered financial company; and
+
+  (C) has been, since the time of its execution, an official record of the company or the party claiming under the agreement provides documentation, acceptable to the receiver, of such agreement and its authorized execution or confirmation by the covered financial company.
+
+(7) **Payment of claims**
+
+  (A) *In general* — Subject to subparagraph (B), the Corporation as receiver may, in its discretion and to the extent that funds are available, pay creditor claims, in such manner and amounts as are authorized under this section, which are—
+
+    (i) allowed by the receiver;
+
+    (ii) approved by the receiver pursuant to a final determination pursuant to paragraph (3) or (5), as applicable; or
+
+    (iii) determined by the final judgment of a court of competent jurisdiction.
+
+  (B) *Limitation* — A creditor shall, in no event, receive less than the amount that the creditor is entitled to receive under paragraphs (2) and (3) of subsection (d), as applicable.
+
+  (C) *Payment of dividends on claims* — The Corporation as receiver may, in its sole discretion, and to the extent otherwise permitted by this section, pay dividends on proven claims at any time, and no liability shall attach to the Corporation as receiver, by reason of any such payment or for failure to pay dividends to a claimant whose claim is not proved at the time of any such payment.
+
+  (D) *Rulemaking by the Corporation* — The Corporation may prescribe such rules, including definitions of terms, as the Corporation deems appropriate to establish an interest rate for or to make payments of post-insolvency interest to creditors holding proven claims against the receivership estate of a covered financial company, except that no such interest shall be paid until the Corporation as receiver has satisfied the principal amount of all creditor claims.
+
+(8) **Suspension of legal actions**
+
+  (A) *In general* — After the appointment of the Corporation as receiver for a covered financial company, the Corporation may request a stay in any judicial action or proceeding in which such covered financial company is or becomes a party, for a period of not to exceed 90 days.
+
+  (B) *Grant of stay by all courts required* — Upon receipt of a request by the Corporation pursuant to subparagraph (A), the court shall grant such stay as to all parties.
+
+(9) **Additional rights and duties**
+
+  (A) *Prior final adjudication* — The Corporation shall abide by any final, non-appealable judgment of any court of competent jurisdiction that was rendered before the appointment of the Corporation as receiver.
+
+  (B) *Rights and remedies of receiver* — In the event of any appealable judgment, the Corporation as receiver shall—
+
+    (i) have all the rights and remedies available to the covered financial company (before the date of appointment of the Corporation as receiver under [section 5382 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5382)) and the Corporation, including removal to Federal court and all appellate rights; and
+
+    (ii) not be required to post any bond in order to pursue such remedies.
+
+  (C) *No attachment or execution* — No attachment or execution may be issued by any court upon assets in the possession of the Corporation as receiver for a covered financial company.
+
+  (D) *Limitation on judicial review* — Except as otherwise provided in this subchapter, no court shall have jurisdiction over—
+
+    (i) any claim or action for payment from, or any action seeking a determination of rights with respect to, the assets of any covered financial company for which the Corporation has been appointed receiver, including any assets which the Corporation may acquire from itself as such receiver; or
+
+    (ii) any claim relating to any act or omission of such covered financial company or the Corporation as receiver.
+
+  (E) *Disposition of assets* — In exercising any right, power, privilege, or authority as receiver in connection with any covered financial company for which the Corporation is acting as receiver under this section, the Corporation shall, to the greatest extent practicable, conduct its operations in a manner that—
+
+    (i) maximizes the net present value return from the sale or disposition of such assets;
+
+    (ii) minimizes the amount of any loss realized in the resolution of cases;
+
+    (iii) mitigates the potential for serious adverse effects to the financial system;
+
+    (iv) ensures timely and adequate competition and fair and consistent treatment of offerors; and
+
+    (v) prohibits discrimination on the basis of race, sex, or ethnic group in the solicitation and consideration of offers.
+
+(10) **Statute of limitations for actions brought by receiver**
+
+  (A) *In general* — Notwithstanding any provision of any contract, the applicable statute of limitations with regard to any action brought by the Corporation as receiver for a covered financial company shall be—
+
+    (i) in the case of any contract claim, the longer of—
+
+      (I) the 6-year period beginning on the date on which the claim accrues; or
+
+      (II) the period applicable under State law; and
+
+    (ii) in the case of any tort claim, the longer of—
+
+      (I) the 3-year period beginning on the date on which the claim accrues; or
+
+      (II) the period applicable under State law.
+
+  (B) *Date on which a claim accrues* — For purposes of subparagraph (A), the date on which the statute of limitations begins to run on any claim described in subparagraph (A) shall be the later of—
+
+    (i) the date of the appointment of the Corporation as receiver under this subchapter; or
+
+    (ii) the date on which the cause of action accrues.
+
+  (C) *Revival of expired State causes of action*
+
+    (i) *In general* — In the case of any tort claim described in clause (ii) for which the applicable statute of limitations under State law has expired not more than 5 years before the date of appointment of the Corporation as receiver for a covered financial company, the Corporation may bring an action as receiver on such claim without regard to the expiration of the statute of limitations.
+
+    (ii) *Claims described* — A tort claim referred to in clause (i) is a claim arising from fraud, intentional misconduct resulting in unjust enrichment, or intentional misconduct resulting in substantial loss to the covered financial company.
+
+(11) **Avoidable transfers**
+
+  (A) *Fraudulent transfers* — The Corporation, as receiver for any covered financial company, may avoid a transfer of any interest of the covered financial company in property, or any obligation incurred by the covered financial company, that was made or incurred at or within 2 years before the date on which the Corporation was appointed receiver, if—
+
+    (i) the covered financial company voluntarily or involuntarily—
+
+      (I) made such transfer or incurred such obligation with actual intent to hinder, delay, or defraud any entity to which the covered financial company was or became, on or after the date on which such transfer was made or such obligation was incurred, indebted; or
+
+      (II) received less than a reasonably equivalent value in exchange for such transferor obligation; and
+
+    (ii) the covered financial company voluntarily or involuntarily—
+
+      (I) was insolvent on the date that such transfer was made or such obligation was incurred, or became insolvent as a result of such transfer or obligation;
+
+      (II) was engaged in business or a transaction, or was about to engage in business or a transaction, for which any property remaining with the covered financial company was an unreasonably small capital;
+
+      (III) intended to incur, or believed that the covered financial company would incur, debts that would be beyond the ability of the covered financial company to pay as such debts matured; or
+
+      (IV) made such transfer to or for the benefit of an insider, or incurred such obligation to or for the benefit of an insider, under an employment contract and not in the ordinary course of business.
+
+  (B) *Preferential transfers* — The Corporation as receiver for any covered financial company may avoid a transfer of an interest of the covered financial company in property—
+
+    (i) to or for the benefit of a creditor;
+
+    (ii) for or on account of an antecedent debt that was owed by the covered financial company before the transfer was made;
+
+    (iii) that was made while the covered financial company was insolvent;
+
+    (iv) that was made—
+
+      (I) 90 days or less before the date on which the Corporation was appointed receiver; or
+
+      (II) more than 90 days, but less than 1 year before the date on which the Corporation was appointed receiver, if such creditor at the time of the transfer was an insider; and
+
+    (v) that enables the creditor to receive more than the creditor would receive if—
+
+      (I) the covered financial company had been liquidated under chapter 7 of the Bankruptcy Code;
+
+      (II) the transfer had not been made; and
+
+      (III) the creditor received payment of such debt to the extent provided by the provisions of chapter 7 of the Bankruptcy Code.
+
+  (C) *Post-receivership transactions* — The Corporation as receiver for any covered financial company may avoid a transfer of property of the receivership that occurred after the Corporation was appointed receiver that was not authorized under this subchapter by the Corporation as receiver.
+
+  (D) *Right of recovery* — To the extent that a transfer is avoided under subparagraph (A), (B), or (C), the Corporation may recover, for the benefit of the covered financial company, the property transferred or, if a court so orders, the value of such property (at the time of such transfer) from—
+
+    (i) the initial transferee of such transfer or the person for whose benefit such transfer was made; or
+
+    (ii) any immediate or mediate transferee of any such initial transferee.
+
+  (E) *Rights of transferee or obligee* — The Corporation may not recover under subparagraph (D)(ii) from—
+
+    (i) any transferee that takes for value, including in satisfaction of or to secure a present or antecedent debt, in good faith, and without knowledge of the voidability of the transfer avoided; or
+
+    (ii) any immediate or mediate good faith transferee of such transferee.
+
+  (F) *Defenses* — Subject to the other provisions of this subchapter—
+
+    (i) a transferee or obligee from which the Corporation seeks to recover a transfer or to avoid an obligation under subparagraph (A), (B), (C), or (D) shall have the same defenses available to a transferee or obligee from which a trustee seeks to recover a transfer or avoid an obligation under sections 547, 548, and 549 of the Bankruptcy Code; and
+
+    (ii) the authority of the Corporation to recover a transfer or avoid an obligation shall be subject to subsections (b) and (c) of section 546, section 547(c), and section 548(c) of the Bankruptcy Code.
+
+  (G) *Rights under this section* — The rights of the Corporation as receiver under this section shall be superior to any rights of a trustee or any other party (other than a Federal agency) under the Bankruptcy Code.
+
+  (H) *Rules of construction; definitions* — For purposes of—
+
+    (i) subparagraphs (A) and (B)—
+
+      (I) the term “insider” has the same meaning as in section 101(31) of the Bankruptcy Code;
+
+      (II) a transfer is made when such transfer is so perfected that a bona fide purchaser from the covered financial company against whom applicable law permits such transfer to be perfected cannot acquire an interest in the property transferred that is superior to the interest in such property of the transferee, but if such transfer is not so perfected before the date on which the Corporation is appointed as receiver for the covered financial company, such transfer is made immediately before the date of such appointment; and
+
+      (III) the term “value” means property, or satisfaction or securing of a present or antecedent debt of the covered financial company, but does not include an unperformed promise to furnish support to the covered financial company; and
+
+    (ii) subparagraph (B)—
+
+      (I) the covered financial company is presumed to have been insolvent on and during the 90-day period immediately preceding the date of appointment of the Corporation as receiver; and
+
+      (II) the term “insolvent” has the same meaning as in section 101(32) of the Bankruptcy Code.
+
+(12) **Setoff**
+
+  (A) *Generally* — Except as otherwise provided in this subchapter, any right of a creditor to offset a mutual debt owed by the creditor to any covered financial company that arose before the Corporation was appointed as receiver for the covered financial company against a claim of such creditor may be asserted if enforceable under applicable noninsolvency law, except to the extent that—
+
+    (i) the claim of the creditor against the covered financial company is disallowed;
+
+    (ii) the claim was transferred, by an entity other than the covered financial company, to the creditor—
+
+      (I) after the Corporation was appointed as receiver of the covered financial company; or
+
+      (II)
+
+        (aa) after the 90-day period preceding the date on which the Corporation was appointed as receiver for the covered financial company; and
+
+        (bb) while the covered financial company was insolvent (except for a setoff in connection with a qualified financial contract); or
+
+    (iii) the debt owed to the covered financial company was incurred by the covered financial company—
+
+      (I) after the 90-day period preceding the date on which the Corporation was appointed as receiver for the covered financial company;
+
+      (II) while the covered financial company was insolvent; and
+
+      (III) for the purpose of obtaining a right of setoff against the covered financial company (except for a setoff in connection with a qualified financial contract).
+
+  (B) *Insufficiency*
+
+    (i) *In general* — Except with respect to a setoff in connection with a qualified financial contract, if a creditor offsets a mutual debt owed to the covered financial company against a claim of the covered financial company on or within the 90-day period preceding the date on which the Corporation is appointed as receiver for the covered financial company, the Corporation may recover from the creditor the amount so offset, to the extent that any insufficiency on the date of such setoff is less than the insufficiency on the later of—
+
+      (I) the date that is 90 days before the date on which the Corporation is appointed as receiver for the covered financial company; or
+
+      (II) the first day on which there is an insufficiency during the 90-day period preceding the date on which the Corporation is appointed as receiver for the covered financial company.
+
+    (ii) *Definition of insufficiency* — In this subparagraph, the term “insufficiency” means the amount, if any, by which a claim against the covered financial company exceeds a mutual debt owed to the covered financial company by the holder of such claim.
+
+  (C) *Insolvency* — The term “insolvent” has the same meaning as in section 101(32) of the Bankruptcy Code.
+
+  (D) *Presumption of insolvency* — For purposes of this paragraph, the covered financial company is presumed to have been insolvent on and during the 90-day period preceding the date of appointment of the Corporation as receiver.
+
+  (E) *Limitation* — Nothing in this paragraph (12) shall be the basis for any right of setoff where no such right exists under applicable noninsolvency law.
+
+  (F) *Priority claim* — Except as otherwise provided in this subchapter, the Corporation as receiver for the covered financial company may sell or transfer any assets free and clear of the setoff rights of any party, except that such party shall be entitled to a claim, subordinate to the claims payable under subparagraphs (A), (B), (C), and (D) of subsection (b)(1), but senior to all other unsecured liabilities defined in subsection (b)(1)(E), in an amount equal to the value of such setoff rights.
+
+(13) **Attachment of assets and other injunctive relief** — Subject to paragraph (14), any court of competent jurisdiction may, at the request of the Corporation as receiver for a covered financial company, issue an order in accordance with Rule 65 of the Federal Rules of Civil Procedure, including an order placing the assets of any person designated by the Corporation under the control of the court and appointing a trustee to hold such assets.
+
+(14) **Standards**
+
+  (A) *Showing* — Rule 65 of the Federal Rules of Civil Procedure shall apply with respect to any proceeding under paragraph (13), without regard to the requirement that the applicant show that the injury, loss, or damage is irreparable and immediate.
+
+  (B) *State proceeding* — If, in the case of any proceeding in a State court, the court determines that rules of civil procedure available under the laws of the State provide substantially similar protections of the right of the parties to due process as provided under Rule 65 (as modified with respect to such proceeding by subparagraph (A)), the relief sought by the Corporation pursuant to paragraph (14) may be requested under the laws of such State.
+
+(15) **Treatment of claims arising from breach of contracts executed by the Corporation as receiver** — Notwithstanding any other provision of this subchapter, any final and non-appealable judgment for monetary damages entered against the Corporation as receiver for a covered financial company for the breach of an agreement executed or approved by the Corporation after the date of its appointment shall be paid as an administrative expense of the receiver. Nothing in this paragraph shall be construed to limit the power of a receiver to exercise any rights under contract or law, including to terminate, breach, cancel, or otherwise discontinue such agreement.
+
+(16) **Accounting and recordkeeping requirements**
+
+  (A) *In general* — The Corporation as receiver for a covered financial company shall, consistent with the accounting and reporting practices and procedures established by the Corporation, maintain a full accounting of each receivership or other disposition of any covered financial company.
+
+  (B) *Annual accounting or report* — With respect to each receivership to which the Corporation is appointed, the Corporation shall make an annual accounting or report, as appropriate, available to the Secretary and the Comptroller General of the United States.
+
+  (C) *Availability of reports* — Any report prepared pursuant to subparagraph (B) and [section 5383(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/c/3&num=0&edition=prelim) shall be made available to the public by the Corporation.
+
+  (D) *Recordkeeping requirement*
+
+    (i) *In general* — The Corporation shall prescribe such regulations and establish such retention schedules as are necessary to maintain the documents and records of the Corporation generated in exercising the authorities of this subchapter and the records of a covered financial company for which the Corporation is appointed receiver, with due regard for—
+
+      (I) the avoidance of duplicative record retention; and
+
+      (II) the expected evidentiary needs of the Corporation as receiver for a covered financial company and the public regarding the records of covered financial companies.
+
+    (ii) *Retention of records* — Unless otherwise required by applicable Federal law or court order, the Corporation may not, at any time, destroy any records that are subject to clause (i).
+
+    (iii) *Records defined* — As used in this subparagraph, the terms “records” and “records of a covered financial company” mean any document, book, paper, map, photograph, microfiche, microfilm, computer or electronically-created record generated or maintained by the covered financial company in the course of and necessary to its transaction of business.
+
+**(b) Priority of expenses and unsecured claims**
+
+(1) **In general** — Unsecured claims against a covered financial company, or the Corporation as receiver for such covered financial company under this section, that are proven to the satisfaction of the receiver shall have priority in the following order:
+
+  (A) Administrative expenses of the receiver.
+
+  (B) Any amounts owed to the United States, unless the United States agrees or consents otherwise.
+
+  (C) Wages, salaries, or commissions, including vacation, severance, and sick leave pay earned by an individual (other than an individual described in subparagraph (G)), but only to the extent of $11,725 for each individual (as indexed for inflation, by regulation of the Corporation) earned not later than 180 days before the date of appointment of the Corporation as receiver.
+
+  (D) Contributions owed to employee benefit plans arising from services rendered not later than 180 days before the date of appointment of the Corporation as receiver, to the extent of the number of employees covered by each such plan, multiplied by $11,725 (as indexed for inflation, by regulation of the Corporation), less the aggregate amount paid to such employees under subparagraph (C), plus the aggregate amount paid by the receivership on behalf of such employees to any other employee benefit plan.
+
+  (E) Any other general or senior liability of the covered financial company (which is not a liability described under subparagraph (F), (G), or (H)).
+
+  (F) Any obligation subordinated to general creditors (which is not an obligation described under subparagraph (G) or (H)).
+
+  (G) Any wages, salaries, or commissions, including vacation, severance, and sick leave pay earned, owed to senior executives and directors of the covered financial company.
+
+  (H) Any obligation to shareholders, members, general partners, limited partners, or other persons, with interests in the equity of the covered financial company arising as a result of their status as shareholders, members, general partners, limited partners, or other persons with interests in the equity of the covered financial company.
+
+(2) **Post-receivership financing priority** — In the event that the Corporation, as receiver for a covered financial company, is unable to obtain unsecured credit for the covered financial company from commercial sources, the Corporation as receiver may obtain credit or incur debt on the part of the covered financial company, which shall have priority over any or all administrative expenses of the receiver under paragraph (1)(A).
+
+(3) **Claims of the United States** — Unsecured claims of the United States shall, at a minimum, have a higher priority than liabilities of the covered financial company that count as regulatory capital.
+
+(4) **Creditors similarly situated** — All claimants of a covered financial company that are similarly situated under paragraph (1) shall be treated in a similar manner, except that the Corporation may take any action (including making payments, subject to subsection (o)(1)(D)(i)) that does not comply with this subsection, if—
+
+  (A) the Corporation determines that such action is necessary—
+
+    (i) to maximize the value of the assets of the covered financial company;
+
+    (ii) to initiate and continue operations essential to implementation of the receivership or any bridge financial company;
+
+    (iii) to maximize the present value return from the sale or other disposition of the assets of the covered financial company; or
+
+    (iv) to minimize the amount of any loss realized upon the sale or other disposition of the assets of the covered financial company; and
+
+  (B) all claimants that are similarly situated under paragraph (1) receive not less than the amount provided in paragraphs (2) and (3) of subsection (d).
+
+(5) **Secured claims unaffected** — This section shall not affect secured claims or security entitlements in respect of assets or property held by the covered financial company, except to the extent that the security is insufficient to satisfy the claim, and then only with regard to the difference between the claim and the amount realized from the security.
+
+(6) **Priority of expenses and unsecured claims in the orderly liquidation of SIPC member** — Where the Corporation is appointed as receiver for a covered broker or dealer, unsecured claims against such covered broker or dealer, or the Corporation as receiver for such covered broker or dealer under this section, that are proven to the satisfaction of the receiver under [section 5385(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5385/e&num=0&edition=prelim), shall have the priority prescribed in paragraph (1), except that—
+
+  (A) SIPC shall be entitled to recover administrative expenses incurred in performing its responsibilities under [section 5385 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5385) on an equal basis with the Corporation, in accordance with paragraph (1)(A);
+
+  (B) the Corporation shall be entitled to recover any amounts paid to customers or to SIPC pursuant to [section 5385(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5385/f&num=0&edition=prelim), in accordance with paragraph (1)(B);
+
+  (C) SIPC shall be entitled to recover any amounts paid out of the SIPC Fund to meet its obligations under [section 5385 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5385) and under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), which claim shall be subordinate to the claims payable under subparagraphs (A) and (B) of paragraph (1), but senior to all other claims; and
+
+  (D) the Corporation may, after paying any proven claims to customers under [section 5385 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5385) and the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), and as provided above, pay dividends on other proven claims, in its discretion, and to the extent that funds are available, in accordance with the priorities set forth in paragraph (1).
+
+**(c) Provisions relating to contracts entered into before appointment of receiver**
+
+(1) **Authority to repudiate contracts** — In addition to any other rights that a receiver may have, the Corporation as receiver for any covered financial company may disaffirm or repudiate any contract or lease—
+
+  (A) to which the covered financial company is a party;
+
+  (B) the performance of which the Corporation as receiver, in the discretion of the Corporation, determines to be burdensome; and
+
+  (C) the disaffirmance or repudiation of which the Corporation as receiver determines, in the discretion of the Corporation, will promote the orderly administration of the affairs of the covered financial company.
+
+(2) **Timing of repudiation** — The Corporation, as receiver for any covered financial company, shall determine whether or not to exercise the rights of repudiation under this section within a reasonable period of time.
+
+(3) **Claims for damages for repudiation**
+
+  (A) *In general* — Except as provided in paragraphs (4), (5), and (6) and in subparagraphs (C), (D), and (E) of this paragraph, the liability of the Corporation as receiver for a covered financial company for the disaffirmance or repudiation of any contract pursuant to paragraph (1) shall be—
+
+    (i) limited to actual direct compensatory damages; and
+
+    (ii) determined as of—
+
+      (I) the date of the appointment of the Corporation as receiver; or
+
+      (II) in the case of any contract or agreement referred to in paragraph (8), the date of the disaffirmance or repudiation of such contract or agreement.
+
+  (B) *No liability for other damages* — For purposes of subparagraph (A), the term “actual direct compensatory damages” does not include—
+
+    (i) punitive or exemplary damages;
+
+    (ii) damages for lost profits or opportunity; or
+
+    (iii) damages for pain and suffering.
+
+  (C) *Measure of damages for repudiation of qualified financial contracts* — In the case of any qualified financial contract or agreement to which paragraph (8) applies, compensatory damages shall be—
+
+    (i) deemed to include normal and reasonable costs of cover or other reasonable measures of damages utilized in the industries for such contract and agreement claims; and
+
+    (ii) paid in accordance with this paragraph and subsection (d), except as otherwise specifically provided in this subsection.
+
+  (D) *Measure of damages for repudiation or disaffirmance of debt obligation* — In the case of any debt for borrowed money or evidenced by a security, actual direct compensatory damages shall be no less than the amount lent plus accrued interest plus any accreted original issue discount as of the date the Corporation was appointed receiver of the covered financial company and, to the extent that an allowed secured claim is secured by property the value of which is greater than the amount of such claim and any accrued interest through the date of repudiation or disaffirmance, such accrued interest pursuant to paragraph (1).
+
+  (E) *Measure of damages for repudiation or disaffirmance of contingent obligation* — In the case of any contingent obligation of a covered financial company consisting of any obligation under a guarantee, letter of credit, loan commitment, or similar credit obligation, the Corporation may, by rule or regulation, prescribe that actual direct compensatory damages shall be no less than the estimated value of the claim as of the date the Corporation was appointed receiver of the covered financial company, as such value is measured based on the likelihood that such contingent claim would become fixed and the probable magnitude thereof.
+
+(4) **Leases under which the covered financial company is the lessee**
+
+  (A) *In general* — If the Corporation as receiver disaffirms or repudiates a lease under which the covered financial company is the lessee, the receiver shall not be liable for any damages (other than damages determined pursuant to subparagraph (B)) for the disaffirmance or repudiation of such lease.
+
+  (B) *Payments of rent* — Notwithstanding subparagraph (A), the lessor under a lease to which subparagraph (A) would otherwise apply shall—
+
+    (i) be entitled to the contractual rent accruing before the later of the date on which—
+
+      (I) the notice of disaffirmance or repudiation is mailed; or
+
+      (II) the disaffirmance or repudiation becomes effective, unless the lessor is in default or breach of the terms of the lease;
+
+    (ii) have no claim for damages under any acceleration clause or other penalty provision in the lease; and
+
+    (iii) have a claim for any unpaid rent, subject to all appropriate offsets and defenses, due as of the date of the appointment which shall be paid in accordance with this paragraph and subsection (d).
+
+(5) **Leases under which the covered financial company is the lessor**
+
+  (A) *In general* — If the Corporation as receiver for a covered financial company repudiates an unexpired written lease of real property of the covered financial company under which the covered financial company is the lessor and the lessee is not, as of the date of such repudiation, in default, the lessee under such lease may either—
+
+    (i) treat the lease as terminated by such repudiation; or
+
+    (ii) remain in possession of the leasehold interest for the balance of the term of the lease, unless the lessee defaults under the terms of the lease after the date of such repudiation.
+
+  (B) *Provisions applicable to lessee remaining in possession* — If any lessee under a lease described in subparagraph (A) remains in possession of a leasehold interest pursuant to clause (ii) of subparagraph (A)—
+
+    (i) the lessee—
+
+      (I) shall continue to pay the contractual rent pursuant to the terms of the lease after the date of the repudiation of such lease; and
+
+      (II) may offset against any rent payment which accrues after the date of the repudiation of the lease, any damages which accrue after such date due to the nonperformance of any obligation of the covered financial company under the lease after such date; and
+
+    (ii) the Corporation as receiver shall not be liable to the lessee for any damages arising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II).
+
+(6) **Contracts for the sale of real property**
+
+  (A) *In general* — If the receiver repudiates any contract (which meets the requirements of subsection (a)(6)) for the sale of real property, and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
+
+    (i) treat the contract as terminated by such repudiation; or
+
+    (ii) remain in possession of such real property.
+
+  (B) *Provisions applicable to purchaser remaining in possession* — If any purchaser of real property under any contract described in subparagraph (A) remains in possession of such property pursuant to clause (ii) of subparagraph (A)—
+
+    (i) the purchaser—
+
+      (I) shall continue to make all payments due under the contract after the date of the repudiation of the contract; and
+
+      (II) may offset against any such payments any damages which accrue after such date due to the nonperformance (after such date) of any obligation of the covered financial company under the contract; and
+
+    (ii) the Corporation as receiver shall—
+
+      (I) not be liable to the purchaser for any damages arising after such date as a result of the repudiation, other than the amount of any offset allowed under clause (i)(II);
+
+      (II) deliver title to the purchaser in accordance with the provisions of the contract; and
+
+      (III) have no obligation under the contract other than the performance required under subclause (II).
+
+  (C) *Assignment and sale allowed*
+
+    (i) *In general* — No provision of this paragraph shall be construed as limiting the right of the Corporation as receiver to assign the contract described in subparagraph (A) and sell the property, subject to the contract and the provisions of this paragraph.
+
+    (ii) *No liability after assignment and sale* — If an assignment and sale described in clause (i) is consummated, the Corporation as receiver shall have no further liability under the contract described in subparagraph (A) or with respect to the real property which was the subject of such contract.
+
+(7) **Provisions applicable to service contracts**
+
+  (A) *Services performed before appointment* — In the case of any contract for services between any person and any covered financial company for which the Corporation has been appointed receiver, any claim of such person for services performed before the date of appointment shall be—
+
+    (i) a claim to be paid in accordance with subsections (a), (b), and (d); and
+
+    (ii) deemed to have arisen as of the date on which the receiver was appointed.
+
+  (B) *Services performed after appointment and prior to repudiation* — If, in the case of any contract for services described in subparagraph (A), the Corporation as receiver accepts performance by the other person before making any determination to exercise the right of repudiation of such contract under this section—
+
+    (i) the other party shall be paid under the terms of the contract for the services performed; and
+
+    (ii) the amount of such payment shall be treated as an administrative expense of the receivership.
+
+  (C) *Acceptance of performance no bar to subsequent repudiation* — The acceptance by the Corporation as receiver for services referred to in subparagraph (B) in connection with a contract described in subparagraph (B) shall not affect the right of the Corporation as receiver to repudiate such contract under this section at any time after such performance.
+
+(8) **Certain qualified financial contracts**
+
+  (A) *Rights of parties to contracts* — Subject to subsection (a)(8) and paragraphs (9) and (10) of this subsection, and notwithstanding any other provision of this section, any other provision of Federal law, or the law of any State, no person shall be stayed or prohibited from exercising—
+
+    (i) any right that such person has to cause the termination, liquidation, or acceleration of any qualified financial contract with a covered financial company which arises upon the date of appointment of the Corporation as receiver for such covered financial company or at any time after such appointment;
+
+    (ii) any right under any security agreement or arrangement or other credit enhancement related to one or more qualified financial contracts described in clause (i); or
+
+    (iii) any right to offset or net out any termination value, payment amount, or other transfer obligation arising under or in connection with 1 or more contracts or agreements described in clause (i), including any master agreement for such contracts or agreements.
+
+  (B) *Applicability of other provisions* — Subsection (a)(8) shall apply in the case of any judicial action or proceeding brought against the Corporation as receiver referred to in subparagraph (A), or the subject covered financial company, by any party to a contract or agreement described in subparagraph (A)(i) with such covered financial company.
+
+  (C) *Certain transfers not avoidable*
+
+    (i) *In general* — Notwithstanding subsection (a)(11), (a)(12), or (c)(12), [section 91 of this title](./chapter-002-national-banks.md#section-91), or any other provision of Federal or State law relating to the avoidance of preferential or fraudulent transfers, the Corporation, whether acting as the Corporation or as receiver for a covered financial company, may not avoid any transfer of money or other property in connection with any qualified financial contract with a covered financial company.
+
+    (ii) *Exception for certain transfers* — Clause (i) shall not apply to any transfer of money or other property in connection with any qualified financial contract with a covered financial company if the transferee had actual intent to hinder, delay, or defraud such company, the creditors of such company, or the Corporation as receiver appointed for such company.
+
+  (D) *Certain contracts and agreements defined* — For purposes of this subsection, the following definitions shall apply:
+
+    (i) *Qualified financial contract* — The term “qualified financial contract” means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Corporation determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
+
+    (ii) *Securities contract* — The term “securities contract”—
+
+      (I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in clause (v));
+
+      (II) does not include any purchase, sale, or repurchase obligation under a participation in a commercial mortgage loan unless the Corporation determines by regulation, resolution, or order to include any such agreement within the meaning of such term;
+
+      (III) means any option entered into on a national securities exchange relating to foreign currencies;
+
+      (IV) means the guarantee (including by novation) by or to any securities clearing agency of any settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, certificates of deposit or mortgage loans or interests therein (including any interest therein or based on the value thereof) or an option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such settlement is in connection with any agreement or transaction referred to in subclauses (I) through (XII) (other than subclause (II)));
+
+      (V) means any margin loan;
+
+      (VI) means any extension of credit for the clearance or settlement of securities transactions;
+
+      (VII) means any loan transaction coupled with a securities collar transaction, any prepaid securities forward transaction, or any total return swap transaction coupled with a securities sale transaction;
+
+      (VIII) means any other agreement or transaction that is similar to any agreement or transaction referred to in this clause;
+
+      (IX) means any combination of the agreements or transactions referred to in this clause;
+
+      (X) means any option to enter into any agreement or transaction referred to in this clause;
+
+      (XI) means a master agreement that provides for an agreement or transaction referred to in any of subclauses (I) through (X), other than subclause (II), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this clause, except that the master agreement shall be considered to be a securities contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in any of subclauses (I) through (X), other than subclause (II); and
+
+      (XII) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
+
+    (iii) *Commodity contract* — The term “commodity contract” means—
+
+      (I) with respect to a futures commission merchant, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
+
+      (II) with respect to a foreign futures commission merchant, a foreign future;
+
+      (III) with respect to a leverage transaction merchant, a leverage transaction;
+
+      (IV) with respect to a clearing organization, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization, or commodity option traded on, or subject to the rules of, a contract market or board of trade that is cleared by such clearing organization;
+
+      (V) with respect to a commodity options dealer, a commodity option;
+
+      (VI) any other agreement or transaction that is similar to any agreement or transaction referred to in this clause;
+
+      (VII) any combination of the agreements or transactions referred to in this clause;
+
+      (VIII) any option to enter into any agreement or transaction referred to in this clause;
+
+      (IX) a master agreement that provides for an agreement or transaction referred to in any of subclauses (I) through (VIII), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a commodity contract under this clause, except that the master agreement shall be considered to be a commodity contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in any of subclauses (I) through (VIII); or
+
+      (X) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this clause, including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in this clause.
+
+    (iv) *Forward contract* — The term “forward contract” means—
+
+      (I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date that is more than 2 days after the date on which the contract is entered into, including a repurchase or reverse repurchase transaction (whether or not such repurchase or reverse repurchase transaction is a “repurchase agreement”, as defined in clause (v)), consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
+
+      (II) any combination of agreements or transactions referred to in subclauses (I) and (III);
+
+      (III) any option to enter into any agreement or transaction referred to in subclause (I) or (II);
+
+      (IV) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), or (III), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a forward contract under this clause, except that the master agreement shall be considered to be a forward contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), or (III); or
+
+      (V) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (II), (III), or (IV), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
+
+    (v) *Repurchase agreement* — The term “repurchase agreement” (which definition also applies to a reverse repurchase agreement)—
+
+      (I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage related securities (as such term is defined in section 3 of the Securities Exchange Act of 1934 [[15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim)]), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities (which, for purposes of this clause, means a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the Board of Governors), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
+
+      (II) does not include any repurchase obligation under a participation in a commercial mortgage loan, unless the Corporation determines, by regulation, resolution, or order to include any such participation within the meaning of such term;
+
+      (III) means any combination of agreements or transactions referred to in subclauses (I) and (IV);
+
+      (IV) means any option to enter into any agreement or transaction referred to in subclause (I) or (III);
+
+      (V) means a master agreement that provides for an agreement or transaction referred to in subclause (I), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a repurchase agreement under this clause, except that the master agreement shall be considered to be a repurchase agreement under this subclause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (III), or (IV); and
+
+      (VI) means any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (III), (IV), or (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
+
+    (vi) *Swap agreement* — The term “swap agreement” means—
+
+      (I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange, precious metals, or other commodity agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; weather swap, option, future, or forward agreement; an emissions swap, option, future, or forward agreement; or an inflation swap, option, future, or forward agreement;
+
+      (II) any agreement or transaction that is similar to any other agreement or transaction referred to in this clause and that is of a type that has been, is presently, or in the future becomes, the subject of recurrent dealings in the swap or other derivatives markets (including terms and conditions incorporated by reference in such agreement) and that is a forward, swap, future, option, or spot transaction on one or more rates, currencies, commodities, equity securities or other equity instruments, debt securities or other debt instruments, quantitative measures associated with an occurrence, extent of an occurrence, or contingency associated with a financial, commercial, or economic consequence, or economic or financial indices or measures of economic or financial risk or value;
+
+      (III) any combination of agreements or transactions referred to in this clause;
+
+      (IV) any option to enter into any agreement or transaction referred to in this clause;
+
+      (V) a master agreement that provides for an agreement or transaction referred to in subclause (I), (II), (III), or (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
+
+      (VI) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in any of subclauses (I) through (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such clause.
+
+    (vii) *Definitions relating to default* — When used in this paragraph and paragraphs (9) and (10)—
+
+      (I) the term “default” means, with respect to a covered financial company, any adjudication or other official decision by any court of competent jurisdiction, or other public authority pursuant to which the Corporation has been appointed receiver; and
+
+      (II) the term “in danger of default” means a covered financial company with respect to which the Corporation or appropriate State authority has determined that—
+
+        (aa) in the opinion of the Corporation or such authority—
+
+          (AA) the covered financial company is not likely to be able to pay its obligations in the normal course of business; and
+
+          (BB) there is no reasonable prospect that the covered financial company will be able to pay such obligations without Federal assistance; or
+
+        (bb) in the opinion of the Corporation or such authority—
+
+          (AA) the covered financial company has incurred or is likely to incur losses that will deplete all or substantially all of its capital; and
+
+          (BB) there is no reasonable prospect that the capital will be replenished without Federal assistance.
+
+    (viii) *Treatment of master agreement as one agreement* — Any master agreement for any contract or agreement described in any of clauses (i) through (vi) (or any master agreement for such master agreement or agreements), together with all supplements to such master agreement, shall be treated as a single agreement and a single qualified financial contact. If a master agreement contains provisions relating to agreements or transactions that are not themselves qualified financial contracts, the master agreement shall be deemed to be a qualified financial contract only with respect to those transactions that are themselves qualified financial contracts.
+
+    (ix) *Transfer* — The term “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the equity of redemption of the covered financial company.
+
+    (x) *Person* — The term “person” includes any governmental entity in addition to any entity included in the definition of such term in section 1, title 1.
+
+  (E) *Clarification* — No provision of law shall be construed as limiting the right or power of the Corporation, or authorizing any court or agency to limit or delay, in any manner, the right or power of the Corporation to transfer any qualified financial contract or to disaffirm or repudiate any such contract in accordance with this subsection.
+
+  (F) *Walkaway clauses not effective*
+
+    (i) *In general* — Notwithstanding the provisions of subparagraph (A) of this paragraph and sections 403 and 404 of the Federal Deposit Insurance Corporation Improvement Act of 1991 [[12 U.S.C. 4403](./chapter-045-payment-system-risk-reduction.md#section-4403), 4404], no walkaway clause shall be enforceable in a qualified financial contract of a covered financial company in default.
+
+    (ii) *Limited suspension of certain obligations* — In the case of a qualified financial contract referred to in clause (i), any payment or delivery obligations otherwise due from a party pursuant to the qualified financial contract shall be suspended from the time at which the Corporation is appointed as receiver until the earlier of—
+
+      (I) the time at which such party receives notice that such contract has been transferred pursuant to paragraph (10)(A); or
+
+      (II) 5:00 p.m. (eastern time) on the business day following the date of the appointment of the Corporation as receiver.
+
+    (iii) *Walkaway clause defined* — For purposes of this subparagraph, the term “walkaway clause” means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist, solely because of the status of such party as a nondefaulting party in connection with the insolvency of a covered financial company that is a party to the contract or the appointment of or the exercise of rights or powers by the Corporation as receiver for such covered financial company, and not as a result of the exercise by a party of any right to offset, setoff, or net obligations that exist under the contract, any other contract between those parties, or applicable law.
+
+  (G) *Certain obligations to clearing organizations* — In the event that the Corporation has been appointed as receiver for a covered financial company which is a party to any qualified financial contract cleared by or subject to the rules of a clearing organization (as defined in paragraph (9)(D)), the receiver shall use its best efforts to meet all margin, collateral, and settlement obligations of the covered financial company that arise under qualified financial contracts (other than any margin, collateral, or settlement obligation that is not enforceable against the receiver under paragraph (8)(F)(i) or paragraph (10)(B)), as required by the rules of the clearing organization when due. Notwithstanding any other provision of this subchapter, if the receiver fails to satisfy any such margin, collateral, or settlement obligations under the rules of the clearing organization, the clearing organization shall have the immediate right to exercise, and shall not be stayed from exercising, all of its rights and remedies under its rules and applicable law with respect to any qualified financial contract of the covered financial company, including, without limitation, the right to liquidate all positions and collateral of such covered financial company under the company’s qualified financial contracts, and suspend or cease to act for such covered financial company, all in accordance with the rules of the clearing organization.
+
+  (H) *Recordkeeping*
+
+    (i) *Joint rulemaking* — The Federal primary financial regulatory agencies shall jointly prescribe regulations requiring that financial companies maintain such records with respect to qualified financial contracts (including market valuations) that the Federal primary financial regulatory agencies determine to be necessary or appropriate in order to assist the Corporation as receiver for a covered financial company in being able to exercise its rights and fulfill its obligations under this paragraph or paragraph (9) or (10).
+
+    (ii) *Time frame* — The Federal primary financial regulatory agencies shall prescribe joint final or interim final regulations not later than 24 months after July 21, 2010.
+
+    (iii) *Back-up rulemaking authority* — If the Federal primary financial regulatory agencies do not prescribe joint final or interim final regulations within the time frame in clause (ii), the Chairperson of the Council shall prescribe, in consultation with the Corporation, the regulations required by clause (i).
+
+    (iv) *Categorization and tiering* — The joint regulations prescribed under clause (i) shall, as appropriate, differentiate among financial companies by taking into consideration their size, risk, complexity, leverage, frequency and dollar amount of qualified financial contracts, interconnectedness to the financial system, and any other factors deemed appropriate.
+
+(9) **Transfer of qualified financial contracts**
+
+  (A) *In general* — In making any transfer of assets or liabilities of a covered financial company in default, which includes any qualified financial contract, the Corporation as receiver for such covered financial company shall either—
+
+    (i) transfer to one financial institution, other than a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed or which is otherwise the subject of a bankruptcy or insolvency proceeding—
+
+      (I) all qualified financial contracts between any person or any affiliate of such person and the covered financial company in default;
+
+      (II) all claims of such person or any affiliate of such person against such covered financial company under any such contract (other than any claim which, under the terms of any such contract, is subordinated to the claims of general unsecured creditors of such company);
+
+      (III) all claims of such covered financial company against such person or any affiliate of such person under any such contract; and
+
+      (IV) all property securing or any other credit enhancement for any contract described in subclause (I) or any claim described in subclause (II) or (III) under any such contract; or
+
+    (ii) transfer none of the qualified financial contracts, claims, property or other credit enhancement referred to in clause (i) (with respect to such person and any affiliate of such person).
+
+  (B) *Transfer to foreign bank, financial institution, or branch or agency thereof* — In transferring any qualified financial contracts and related claims and property under subparagraph (A)(i), the Corporation as receiver for the covered financial company shall not make such transfer to a foreign bank, financial institution organized under the laws of a foreign country, or a branch or agency of a foreign bank or financial institution unless, under the law applicable to such bank, financial institution, branch or agency, to the qualified financial contracts, and to any netting contract, any security agreement or arrangement or other credit enhancement related to one or more qualified financial contracts, the contractual rights of the parties to such qualified financial contracts, netting contracts, security agreements or arrangements, or other credit enhancements are enforceable substantially to the same extent as permitted under this section.
+
+  (C) *Transfer of contracts subject to the rules of a clearing organization* — In the event that the Corporation as receiver for a financial institution transfers any qualified financial contract and related claims, property, or credit enhancement pursuant to subparagraph (A)(i) and such contract is cleared by or subject to the rules of a clearing organization, the clearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
+
+  (D) *Definitions* — For purposes of this paragraph—
+
+    (i) the term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, a bridge financial company, or any other institution determined by the Corporation, by regulation, to be a financial institution; and
+
+    (ii) the term “clearing organization” has the same meaning as in section 402 of the Federal Deposit Insurance Corporation Improvement Act of 1991 [[12 U.S.C. 4402](./chapter-045-payment-system-risk-reduction.md#section-4402)].
+
+(10) **Notification of transfer**
+
+  (A) *In general*
+
+    (i) *Notice* — The Corporation shall provide notice in accordance with clause (ii), if—
+
+      (I) the Corporation as receiver for a covered financial company in default or in danger of default transfers any assets or liabilities of the covered financial company; and
+
+      (II) the transfer includes any qualified financial contract.
+
+    (ii) *Timing* — The Corporation as receiver for a covered financial company shall notify any person who is a party to any contract described in clause (i) of such transfer not later than 5:00 p.m. (eastern time) on the business day following the date of the appointment of the Corporation as receiver.
+
+  (B) *Certain rights not enforceable*
+
+    (i) *Receivership* — A person who is a party to a qualified financial contract with a covered financial company may not exercise any right that such person has to terminate, liquidate, or net such contract under paragraph (8)(A) solely by reason of or incidental to the appointment under this section of the Corporation as receiver for the covered financial company (or the insolvency or financial condition of the covered financial company for which the Corporation has been appointed as receiver)—
+
+      (I) until 5:00 p.m. (eastern time) on the business day following the date of the appointment; or
+
+      (II) after the person has received notice that the contract has been transferred pursuant to paragraph (9)(A).
+
+    (ii) *Notice* — For purposes of this paragraph, the Corporation as receiver for a covered financial company shall be deemed to have notified a person who is a party to a qualified financial contract with such covered financial company, if the Corporation has taken steps reasonably calculated to provide notice to such person by the time specified in subparagraph (A).
+
+  (C) *Treatment of bridge financial company* — For purposes of paragraph (9), a bridge financial company shall not be considered to be a financial institution for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed, or which is otherwise the subject of a bankruptcy or insolvency proceeding.
+
+  (D) *Business day defined* — For purposes of this paragraph, the term “business day” means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+
+(11) **Disaffirmance or repudiation of qualified financial contracts** — In exercising the rights of disaffirmance or repudiation of the Corporation as receiver with respect to any qualified financial contract to which a covered financial company is a party, the Corporation shall either—
+
+  (A) disaffirm or repudiate all qualified financial contracts between—
+
+    (i) any person or any affiliate of such person; and
+
+    (ii) the covered financial company in default; or
+
+  (B) disaffirm or repudiate none of the qualified financial contracts referred to in subparagraph (A) (with respect to such person or any affiliate of such person).
+
+(12) **Certain security and customer interests not avoidable** — No provision of this subsection shall be construed as permitting the avoidance of any—
+
+  (A) legally enforceable or perfected security interest in any of the assets of any covered financial company, except in accordance with subsection (a)(11); or
+
+  (B) legally enforceable interest in customer property, security entitlements in respect of assets or property held by the covered financial company for any security entitlement holder.
+
+(13) **Authority to enforce contracts**
+
+  (A) *In general* — The Corporation, as receiver for a covered financial company, may enforce any contract, other than a liability insurance contract of a director or officer, a financial institution bond entered into by the covered financial company, notwithstanding any provision of the contract providing for termination, default, acceleration, or exercise of rights upon, or solely by reason of, insolvency, the appointment of or the exercise of rights or powers by the Corporation as receiver, the filing of the petition pursuant to [section 5382(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5382/a/1&num=0&edition=prelim), or the issuance of the recommendations or determination, or any actions or events occurring in connection therewith or as a result thereof, pursuant to [section 5383 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5383).
+
+  (B) *Certain rights not affected* — No provision of this paragraph may be construed as impairing or affecting any right of the Corporation as receiver to enforce or recover under a liability insurance contract of a director or officer or financial institution bond under other applicable law.
+
+  (C) *Consent requirement and ipso facto clauses*
+
+    (i) *In general* — Except as otherwise provided by this section, no person may exercise any right or power to terminate, accelerate, or declare a default under any contract to which the covered financial company is a party (and no provision in any such contract providing for such default, termination, or acceleration shall be enforceable), or to obtain possession of or exercise control over any property of the covered financial company or affect any contractual rights of the covered financial company, without the consent of the Corporation as receiver for the covered financial company during the 90 day period beginning from the appointment of the Corporation as receiver.
+
+    (ii) *Exceptions* — No provision of this subparagraph shall apply to a director or officer liability insurance contract or a financial institution bond, to the rights of parties to certain qualified financial contracts pursuant to paragraph (8), or to the rights of parties to netting contracts pursuant to subtitle A of title IV of the Federal Deposit Insurance Corporation Improvement Act of 1991 ([12 U.S.C. 4401](./chapter-045-payment-system-risk-reduction.md#section-4401) et seq.), or shall be construed as permitting the Corporation as receiver to fail to comply with otherwise enforceable provisions of such contract.
+
+  (D) *Contracts to extend credit* — Notwithstanding any other provision in this subchapter, if the Corporation as receiver enforces any contract to extend credit to the covered financial company or bridge financial company, any valid and enforceable obligation to repay such debt shall be paid by the Corporation as receiver, as an administrative expense of the receivership.
+
+(14) **Exception for Federal reserve banks and Corporation security interest** — No provision of this subsection shall apply with respect to—
+
+  (A) any extension of credit from any Federal reserve bank or the Corporation to any covered financial company; or
+
+  (B) any security interest in the assets of the covered financial company securing any such extension of credit.
+
+(15) **Savings clause** — The meanings of terms used in this subsection are applicable for purposes of this subsection only, and shall not be construed or applied so as to challenge or affect the characterization, definition, or treatment of any similar terms under any other statute, regulation, or rule, including the Gramm-Leach-Bliley Act, the Legal Certainty for Bank Products Act of 2000 [[7 U.S.C. 27](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section27&num=0&edition=prelim) to 27f], the securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934 [[15 U.S.C. 78c(a)(47)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/47&num=0&edition=prelim)]), and the Commodity Exchange Act [[7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.].
+
+(16) **Enforcement of contracts guaranteed by the covered financial company**
+
+  (A) *In general* — The Corporation, as receiver for a covered financial company or as receiver for a subsidiary of a covered financial company (including an insured depository institution) shall have the power to enforce contracts of subsidiaries or affiliates of the covered financial company, the obligations under which are guaranteed or otherwise supported by or linked to the covered financial company, notwithstanding any contractual right to cause the termination, liquidation, or acceleration of such contracts based solely on the insolvency, financial condition, or receivership of the covered financial company, if—
+
+    (i) such guaranty or other support and all related assets and liabilities are transferred to and assumed by a bridge financial company or a third party (other than a third party for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed, or which is otherwise the subject of a bankruptcy or insolvency proceeding) within the same period of time as the Corporation is entitled to transfer the qualified financial contracts of such covered financial company; or
+
+    (ii) the Corporation, as receiver, otherwise provides adequate protection with respect to such obligations.
+
+  (B) *Rule of construction* — For purposes of this paragraph, a bridge financial company shall not be considered to be a third party for which a conservator, receiver, trustee in bankruptcy, or other legal custodian has been appointed, or which is otherwise the subject of a bankruptcy or insolvency proceeding.
+
+**(d) Valuation of claims in default**
+
+(1) **In general** — Notwithstanding any other provision of Federal law or the law of any State, and regardless of the method utilized by the Corporation for a covered financial company, including transactions authorized under subsection (h), this subsection shall govern the rights of the creditors of any such covered financial company.
+
+(2) **Maximum liability** — The maximum liability of the Corporation, acting as receiver for a covered financial company or in any other capacity, to any person having a claim against the Corporation as receiver or the covered financial company for which the Corporation is appointed shall equal the amount that such claimant would have received if—
+
+  (A) the Corporation had not been appointed receiver with respect to the covered financial company; and
+
+  (B) the covered financial company had been liquidated under chapter 7 of the Bankruptcy Code, or any similar provision of State insolvency law applicable to the covered financial company.
+
+(3) **Special provision for orderly liquidation by SIPC** — The maximum liability of the Corporation, acting as receiver or in its corporate capacity for any covered broker or dealer to any customer of such covered broker or dealer, with respect to customer property of such customer, shall be—
+
+  (A) equal to the amount that such customer would have received with respect to such customer property in a case initiated by SIPC under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.); and
+
+  (B) determined as of the close of business on the date on which the Corporation is appointed as receiver.
+
+(4) **Additional payments authorized**
+
+  (A) *In general* — Subject to subsection (o)(1)(D)(i), the Corporation, with the approval of the Secretary, may make additional payments or credit additional amounts to or with respect to or for the account of any claimant or category of claimants of the covered financial company, if the Corporation determines that such payments or credits are necessary or appropriate to minimize losses to the Corporation as receiver from the orderly liquidation of the covered financial company under this section.
+
+  (B) *Limitations*
+
+    (i) *Prohibition* — The Corporation shall not make any payments or credit amounts to any claimant or category of claimants that would result in any claimant receiving more than the face value amount of any claim that is proven to the satisfaction of the Corporation.
+
+    (ii) *No obligation* — Notwithstanding any other provision of Federal or State law, or the Constitution of any State, the Corporation shall not be obligated, as a result of having made any payment under subparagraph (A) or credited any amount described in subparagraph (A) to or with respect to, or for the account, of any claimant or category of claimants, to make payments to any other claimant or category of claimants.
+
+  (C) *Manner of payment* — The Corporation may make payments or credit amounts under subparagraph (A) directly to the claimants or may make such payments or credit such amounts to a company other than a covered financial company or a bridge financial company established with respect thereto in order to induce such other company to accept liability for such claims.
+
+**(e) Limitation on court action** Except as provided in this subchapter, no court may take any action to restrain or affect the exercise of powers or functions of the receiver hereunder, and any remedy against the Corporation or receiver shall be limited to money damages determined in accordance with this subchapter.
+
+**(f) Liability of directors and officers**
+
+(1) **In general** — A director or officer of a covered financial company may be held personally liable for monetary damages in any civil action described in paragraph (2) by, on behalf of, or at the request or direction of the Corporation, which action is prosecuted wholly or partially for the benefit of the Corporation—
+
+  (A) acting as receiver for such covered financial company;
+
+  (B) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed by the Corporation as receiver; or
+
+  (C) acting based upon a suit, claim, or cause of action purchased from, assigned by, or otherwise conveyed in whole or in part by a covered financial company or its affiliate in connection with assistance provided under this subchapter.
+
+(2) **Actions covered** — Paragraph (1) shall apply with respect to actions for gross negligence, including any similar conduct or conduct that demonstrates a greater disregard of a duty of care (than gross negligence) including intentional tortious conduct, as such terms are defined and determined under applicable State law.
+
+(3) **Savings clause** — Nothing in this subsection shall impair or affect any right of the Corporation under other applicable law.
+
+**(g) Damages** In any proceeding related to any claim against a director, officer, employee, agent, attorney, accountant, or appraiser of a covered financial company, or any other party employed by or providing services to a covered financial company, recoverable damages determined to result from the improvident or otherwise improper use or investment of any assets of the covered financial company shall include principal losses and appropriate interest.
+
+**(h) Bridge financial companies**
+
+(1) **Organization**
+
+  (A) *Purpose* — The Corporation, as receiver for one or more covered financial companies or in anticipation of being appointed receiver for one or more covered financial companies, may organize one or more bridge financial companies in accordance with this subsection.
+
+  (B) *Authorities* — Upon the creation of a bridge financial company under subparagraph (A) with respect to a covered financial company, such bridge financial company may—
+
+    (i) assume such liabilities (including liabilities associated with any trust or custody business, but excluding any liabilities that count as regulatory capital) of such covered financial company as the Corporation may, in its discretion, determine to be appropriate;
+
+    (ii) purchase such assets (including assets associated with any trust or custody business) of such covered financial company as the Corporation may, in its discretion, determine to be appropriate; and
+
+    (iii) perform any other temporary function which the Corporation may, in its discretion, prescribe in accordance with this section.
+
+(2) **Charter and establishment**
+
+  (A) *Establishment* — Except as provided in subparagraph (H), where the covered financial company is a covered broker or dealer, the Corporation, as receiver for a covered financial company, may grant a Federal charter to and approve articles of association for one or more bridge financial company or companies, with respect to such covered financial company which shall, by operation of law and immediately upon issuance of its charter and approval of its articles of association, be established and operate in accordance with, and subject to, such charter, articles, and this section.
+
+  (B) *Management* — Upon its establishment, a bridge financial company shall be under the management of a board of directors appointed by the Corporation.
+
+  (C) *Articles of association* — The articles of association and organization certificate of a bridge financial company shall have such terms as the Corporation may provide, and shall be executed by such representatives as the Corporation may designate.
+
+  (D) *Terms of charter; rights and privileges* — Subject to and in accordance with the provisions of this subsection, the Corporation shall—
+
+    (i) establish the terms of the charter of a bridge financial company and the rights, powers, authorities, and privileges of a bridge financial company granted by the charter or as an incident thereto; and
+
+    (ii) provide for, and establish the terms and conditions governing, the management (including the bylaws and the number of directors of the board of directors) and operations of the bridge financial company.
+
+  (E) *Transfer of rights and privileges of covered financial company*
+
+    (i) *In general* — Notwithstanding any other provision of Federal or State law, the Corporation may provide for a bridge financial company to succeed to and assume any rights, powers, authorities, or privileges of the covered financial company with respect to which the bridge financial company was established and, upon such determination by the Corporation, the bridge financial company shall immediately and by operation of law succeed to and assume such rights, powers, authorities, and privileges.
+
+    (ii) *Effective without approval* — Any succession to or assumption by a bridge financial company of rights, powers, authorities, or privileges of a covered financial company under clause (i) or otherwise shall be effective without any further approval under Federal or State law, assignment, or consent with respect thereto.
+
+  (F) *Corporate governance and election and designation of body of law* — To the extent permitted by the Corporation and consistent with this section and any rules, regulations, or directives issued by the Corporation under this section, a bridge financial company may elect to follow the corporate governance practices and procedures that are applicable to a corporation incorporated under the general corporation law of the State of Delaware, or the State of incorporation or organization of the covered financial company with respect to which the bridge financial company was established, as such law may be amended from time to time.
+
+  (G) *Capital*
+
+    (i) *Capital not required* — Notwithstanding any other provision of Federal or State law, a bridge financial company may, if permitted by the Corporation, operate without any capital or surplus, or with such capital or surplus as the Corporation may in its discretion determine to be appropriate.
+
+    (ii) *No contribution by the Corporation required* — The Corporation is not required to pay capital into a bridge financial company or to issue any capital stock on behalf of a bridge financial company established under this subsection.
+
+    (iii) *Authority* — If the Corporation determines that such action is advisable, the Corporation may cause capital stock or other securities of a bridge financial company established with respect to a covered financial company to be issued and offered for sale in such amounts and on such terms and conditions as the Corporation may, in its discretion, determine.
+
+    (iv) *Operating funds in lieu of capital and implementation plan* — Upon the organization of a bridge financial company, and thereafter as the Corporation may, in its discretion, determine to be necessary or advisable, the Corporation may make available to the bridge financial company, subject to the plan described in subsection (n)(9), funds for the operation of the bridge financial company in lieu of capital.
+
+  (H) *Bridge brokers or dealers*
+
+    (i) *In general* — The Corporation, as receiver for a covered broker or dealer, may approve articles of association for one or more bridge financial companies with respect to such covered broker or dealer, which bridge financial company or companies shall, by operation of law and immediately upon approval of its articles of association—
+
+      (I) be established and deemed registered with the Commission under the Securities Exchange Act of 1934 [[15 U.S.C. 78a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) et seq.] and a member of SIPC;
+
+      (II) operate in accordance with such articles and this section; and
+
+      (III) succeed to any and all registrations and memberships of the covered financial company with or in any self-regulatory organizations.
+
+    (ii) *Other requirements* — Except as provided in clause (i), and notwithstanding any other provision of this section, the bridge financial company shall be subject to the Federal securities laws and all requirements with respect to being a member of a self-regulatory organization, unless exempted from any such requirements by the Commission, as is necessary or appropriate in the public interest or for the protection of investors.
+
+    (iii) *Treatment of customers* — Except as otherwise provided by this subchapter, any customer of the covered broker or dealer whose account is transferred to a bridge financial company shall have all the rights, privileges, and protections under [section 5385(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5385/f&num=0&edition=prelim) and under the Securities Investor Protection Act of 1970 ([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.), that such customer would have had if the account were not transferred from the covered financial company under this subparagraph.
+
+    (iv) *Operation of bridge brokers or dealers* — Notwithstanding any other provision of this subchapter, the Corporation shall not operate any bridge financial company created by the Corporation under this subchapter with respect to a covered broker or dealer in such a manner as to adversely affect the ability of customers to promptly access their customer property in accordance with applicable law.
+
+(3) **Interests in and assets and obligations of covered financial company** — Notwithstanding paragraph (1) or (2) or any other provision of law—
+
+  (A) a bridge financial company shall assume, acquire, or succeed to the assets or liabilities of a covered financial company (including the assets or liabilities associated with any trust or custody business) only to the extent that such assets or liabilities are transferred by the Corporation to the bridge financial company in accordance with, and subject to the restrictions set forth in, paragraph (1)(B); and
+
+  (B) a bridge financial company shall not assume, acquire, or succeed to any obligation that a covered financial company for which the Corporation has been appointed receiver may have to any shareholder, member, general partner, limited partner, or other person with an interest in the equity of the covered financial company that arises as a result of the status of that person having an equity claim in the covered financial company.
+
+(4) **Bridge financial company treated as being in default for certain purposes** — A bridge financial company shall be treated as a covered financial company in default at such times and for such purposes as the Corporation may, in its discretion, determine.
+
+(5) **Transfer of assets and liabilities**
+
+  (A) *Authority of Corporation* — The Corporation, as receiver for a covered financial company, may transfer any assets and liabilities of a covered financial company (including any assets or liabilities associated with any trust or custody business) to one or more bridge financial companies, in accordance with and subject to the restrictions of paragraph (1).
+
+  (B) *Subsequent transfers* — At any time after the establishment of a bridge financial company with respect to a covered financial company, the Corporation, as receiver, may transfer any assets and liabilities of such covered financial company as the Corporation may, in its discretion, determine to be appropriate in accordance with and subject to the restrictions of paragraph (1).
+
+  (C) *Treatment of trust or custody business* — For purposes of this paragraph, the trust or custody business, including fiduciary appointments, held by any covered financial company is included among its assets and liabilities.
+
+  (D) *Effective without approval* — The transfer of any assets or liabilities, including those associated with any trust or custody business of a covered financial company, to a bridge financial company shall be effective without any further approval under Federal or State law, assignment, or consent with respect thereto.
+
+  (E) *Equitable treatment of similarly situated creditors* — The Corporation shall treat all creditors of a covered financial company that are similarly situated under subsection (b)(1), in a similar manner in exercising the authority of the Corporation under this subsection to transfer any assets or liabilities of the covered financial company to one or more bridge financial companies established with respect to such covered financial company, except that the Corporation may take any action (including making payments, subject to subsection (o)(1)(D)(i)) that does not comply with this subparagraph, if—
+
+    (i) the Corporation determines that such action is necessary—
+
+      (I) to maximize the value of the assets of the covered financial company;
+
+      (II) to maximize the present value return from the sale or other disposition of the assets of the covered financial company; or
+
+      (III) to minimize the amount of any loss realized upon the sale or other disposition of the assets of the covered financial company; and
+
+    (ii) all creditors that are similarly situated under subsection (b)(1) receive not less than the amount provided under paragraphs (2) and (3) of subsection (d).
+
+  (F) *Limitation on transfer of liabilities* — Notwithstanding any other provision of law, the aggregate amount of liabilities of a covered financial company that are transferred to, or assumed by, a bridge financial company from a covered financial company may not exceed the aggregate amount of the assets of the covered financial company that are transferred to, or purchased by, the bridge financial company from the covered financial company.
+
+(6) **Stay of judicial action** — Any judicial action to which a bridge financial company becomes a party by virtue of its acquisition of any assets or assumption of any liabilities of a covered financial company shall be stayed from further proceedings for a period of not longer than 45 days (or such longer period as may be agreed to upon the consent of all parties) at the request of the bridge financial company.
+
+(7) **Agreements against interest of the bridge financial company** — No agreement that tends to diminish or defeat the interest of the bridge financial company in any asset of a covered financial company acquired by the bridge financial company shall be valid against the bridge financial company, unless such agreement—
+
+  (A) is in writing;
+
+  (B) was executed by an authorized officer or representative of the covered financial company or confirmed in the ordinary course of business by the covered financial company; and
+
+  (C) has been on the official record of the company, since the time of its execution, or with which, the party claiming under the agreement provides documentation of such agreement and its authorized execution or confirmation by the covered financial company that is acceptable to the receiver.
+
+(8) **No Federal status**
+
+  (A) *Agency status* — A bridge financial company is not an agency, establishment, or instrumentality of the United States.
+
+  (B) *Employee status* — Representatives for purposes of paragraph (1)(B), directors, officers, employees, or agents of a bridge financial company are not, solely by virtue of service in any such capacity, officers or employees of the United States. Any employee of the Corporation or of any Federal instrumentality who serves at the request of the Corporation as a representative for purposes of paragraph (1)(B), director, officer, employee, or agent of a bridge financial company shall not—
+
+    (i) solely by virtue of service in any such capacity lose any existing status as an officer or employee of the United States for purposes of title 5 or any other provision of law; or
+
+    (ii) receive any salary or benefits for service in any such capacity with respect to a bridge financial company in addition to such salary or benefits as are obtained through employment with the Corporation or such Federal instrumentality.
+
+(9) **Funding authorized** — The Corporation may, subject to the plan described in subsection (n)(9), provide funding to facilitate any transaction described in subparagraph (A), (B), (C), or (D) of paragraph (13) with respect to any bridge financial company, or facilitate the acquisition by a bridge financial company of any assets, or the assumption of any liabilities, of a covered financial company for which the Corporation has been appointed receiver.
+
+(10) **Exempt tax status** — Notwithstanding any other provision of Federal or State law, a bridge financial company, its franchise, property, and income shall be exempt from all taxation now or hereafter imposed by the United States, by any territory, dependency, or possession thereof, or by any State, county, municipality, or local taxing authority.
+
+(11) **Federal agency approval; antitrust review** — If a transaction involving the merger or sale of a bridge financial company requires approval by a Federal agency, the transaction may not be consummated before the 5th calendar day after the date of approval by the Federal agency responsible for such approval with respect thereto. If, in connection with any such approval a report on competitive factors from the Attorney General is required, the Federal agency responsible for such approval shall promptly notify the Attorney General of the proposed transaction and the Attorney General shall provide the required report within 10 days of the request. If a notification is required under [section 18a of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section18a&num=0&edition=prelim) with respect to such transaction, the required waiting period shall end on the 15th day after the date on which the Attorney General and the Federal Trade Commission receive such notification, unless the waiting period is terminated earlier under [section 18a(b)(2) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section18a/b/2&num=0&edition=prelim), or extended under [section 18a(e)(2) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section18a/e/2&num=0&edition=prelim).
+
+(12) **Duration of bridge financial company** — Subject to paragraphs (13) and (14), the status of a bridge financial company as such shall terminate at the end of the 2-year period following the date on which it was granted a charter. The Corporation may, in its discretion, extend the status of the bridge financial company as such for no more than 3 additional 1-year periods.
+
+(13) **Termination of bridge financial company status** — The status of any bridge financial company as such shall terminate upon the earliest of—
+
+  (A) the date of the merger or consolidation of the bridge financial company with a company that is not a bridge financial company;
+
+  (B) at the election of the Corporation, the sale of a majority of the capital stock of the bridge financial company to a company other than the Corporation and other than another bridge financial company;
+
+  (C) the sale of 80 percent, or more, of the capital stock of the bridge financial company to a person other than the Corporation and other than another bridge financial company;
+
+  (D) at the election of the Corporation, either the assumption of all or substantially all of the liabilities of the bridge financial company by a company that is not a bridge financial company, or the acquisition of all or substantially all of the assets of the bridge financial company by a company that is not a bridge financial company, or other entity as permitted under applicable law; and
+
+  (E) the expiration of the period provided in paragraph (12), or the earlier dissolution of the bridge financial company, as provided in paragraph (15).
+
+(14) **Effect of termination events**
+
+  (A) *Merger or consolidation* — A merger or consolidation, described in paragraph (13)(A) shall be conducted in accordance with, and shall have the effect provided in, the provisions of applicable law. For the purpose of effecting such a merger or consolidation, the bridge financial company shall be treated as a corporation organized under the laws of the State of Delaware (unless the law of another State has been selected by the bridge financial company in accordance with paragraph (2)(F)), and the Corporation shall be treated as the sole shareholder thereof, notwithstanding any other provision of State or Federal law.
+
+  (B) *Charter conversion* — Following the sale of a majority of the capital stock of the bridge financial company, as provided in paragraph (13)(B), the Corporation may amend the charter of the bridge financial company to reflect the termination of the status of the bridge financial company as such, whereupon the company shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal or State law, such State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers, and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
+
+  (C) *Sale of stock* — Following the sale of 80 percent or more of the capital stock of a bridge financial company, as provided in paragraph (13)(C), the company shall have all of the rights, powers, and privileges under its constituent documents and applicable Federal or State law. In connection therewith, the Corporation may take such steps as may be necessary or convenient to reincorporate the bridge financial company under the laws of a State and, notwithstanding any provisions of Federal or State law, the State-chartered corporation shall be deemed to succeed by operation of law to such rights, titles, powers and interests of the bridge financial company as the Corporation may provide, with the same effect as if the bridge financial company had merged with the State-chartered corporation under provisions of the corporate laws of such State.
+
+  (D) *Assumption of liabilities and sale of assets* — Following the assumption of all or substantially all of the liabilities of the bridge financial company, or the sale of all or substantially all of the assets of the bridge financial company, as provided in paragraph (13)(D), at the election of the Corporation, the bridge financial company may retain its status as such for the period provided in paragraph (12) or may be dissolved at the election of the Corporation.
+
+  (E) *Amendments to charter* — Following the consummation of a transaction described in subparagraph (A), (B), (C), or (D) of paragraph (13), the charter of the resulting company shall be amended to reflect the termination of bridge financial company status, if appropriate.
+
+(15) **Dissolution of bridge financial company**
+
+  (A) *In general* — Notwithstanding any other provision of Federal or State law, if the status of a bridge financial company as such has not previously been terminated by the occurrence of an event specified in subparagraph (A), (B), (C), or (D) of paragraph (13)—
+
+    (i) the Corporation may, in its discretion, dissolve the bridge financial company in accordance with this paragraph at any time; and
+
+    (ii) the Corporation shall promptly commence dissolution proceedings in accordance with this paragraph upon the expiration of the 2-year period following the date on which the bridge financial company was chartered, or any extension thereof, as provided in paragraph (12).
+
+  (B) *Procedures* — The Corporation shall remain the receiver for a bridge financial company for the purpose of dissolving the bridge financial company. The Corporation as receiver for a bridge financial company shall wind up the affairs of the bridge financial company in conformity with the provisions of law relating to the liquidation of covered financial companies under this subchapter. With respect to any such bridge financial company, the Corporation as receiver shall have all the rights, powers, and privileges and shall perform the duties related to the exercise of such rights, powers, or privileges granted by law to the Corporation as receiver for a covered financial company under this subchapter and, notwithstanding any other provision of law, in the exercise of such rights, powers, and privileges, the Corporation shall not be subject to the direction or supervision of any State agency or other Federal agency.
+
+(16) **Authority to obtain credit**
+
+  (A) *In general* — A bridge financial company may obtain unsecured credit and issue unsecured debt.
+
+  (B) *Inability to obtain credit* — If a bridge financial company is unable to obtain unsecured credit or issue unsecured debt, the Corporation may authorize the obtaining of credit or the issuance of debt by the bridge financial company—
+
+    (i) with priority over any or all of the obligations of the bridge financial company;
+
+    (ii) secured by a lien on property of the bridge financial company that is not otherwise subject to a lien; or
+
+    (iii) secured by a junior lien on property of the bridge financial company that is subject to a lien.
+
+  (C) *Limitations*
+
+    (i) *In general* — The Corporation, after notice and a hearing, may authorize the obtaining of credit or the issuance of debt by a bridge financial company that is secured by a senior or equal lien on property of the bridge financial company that is subject to a lien, only if—
+
+      (I) the bridge financial company is unable to otherwise obtain such credit or issue such debt; and
+
+      (II) there is adequate protection of the interest of the holder of the lien on the property with respect to which such senior or equal lien is proposed to be granted.
+
+    (ii) *Hearing* — The hearing required pursuant to this subparagraph shall be before a court of the United States, which shall have jurisdiction to conduct such hearing and to authorize a bridge financial company to obtain secured credit under clause (i).
+
+  (D) *Burden of proof* — In any hearing under this paragraph, the Corporation has the burden of proof on the issue of adequate protection.
+
+  (E) *Qualified financial contracts* — No credit or debt obtained or issued by a bridge financial company may contain terms that impair the rights of a counterparty to a qualified financial contract upon a default by the bridge financial company, other than the priority of such counterparty’s unsecured claim (after the exercise of rights) relative to the priority of the bridge financial company’s obligations in respect of such credit or debt, unless such counterparty consents in writing to any such impairment.
+
+(17) **Effect on debts and liens** — The reversal or modification on appeal of an authorization under this subsection to obtain credit or issue debt, or of a grant under this section of a priority or a lien, does not affect the validity of any debt so issued, or any priority or lien so granted, to an entity that extended such credit in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and the issuance of such debt, or the granting of such priority or lien, were stayed pending appeal.
+
+**(i) Sharing records** If the Corporation has been appointed as receiver for a covered financial company, other Federal regulators shall make all records relating to the covered financial company available to the Corporation, which may be used by the Corporation in any manner that the Corporation determines to be appropriate.
+
+**(j) Expedited procedures for certain claims**
+
+(1) **Time for filing notice of appeal** — The notice of appeal of any order, whether interlocutory or final, entered in any case brought by the Corporation against a director, officer, employee, agent, attorney, accountant, or appraiser of the covered financial company, or any other person employed by or providing services to a covered financial company, shall be filed not later than 30 days after the date of entry of the order. The hearing of the appeal shall be held not later than 120 days after the date of the notice of appeal. The appeal shall be decided not later than 180 days after the date of the notice of appeal.
+
+(2) **Scheduling** — The court shall expedite the consideration of any case brought by the Corporation against a director, officer, employee, agent, attorney, accountant, or appraiser of a covered financial company or any other person employed by or providing services to a covered financial company. As far as practicable, the court shall give such case priority on its docket.
+
+(3) **Judicial discretion** — The court may modify the schedule and limitations stated in paragraphs (1) and (2) in a particular case, based on a specific finding that the ends of justice that would be served by making such a modification would outweigh the best interest of the public in having the case resolved expeditiously.
+
+**(k) Foreign investigations** The Corporation, as receiver for any covered financial company, and for purposes of carrying out any power, authority, or duty with respect to a covered financial company—
+
+(1) may request the assistance of any foreign financial authority and provide assistance to any foreign financial authority in accordance with [section 1818(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/v&num=0&edition=prelim), as if the covered financial company were an insured depository institution, the Corporation were the appropriate Federal banking agency for the company, and any foreign financial authority were the foreign banking authority; and
+
+(2) may maintain an office to coordinate foreign investigations or investigations on behalf of foreign financial authorities.
+
+**(l) Prohibition on entering secrecy agreements and protective orders** The Corporation may not enter into any agreement or approve any protective order which prohibits the Corporation from disclosing the terms of any settlement of an administrative or other action for damages or restitution brought by the Corporation in its capacity as receiver for a covered financial company.
+
+**(m) Liquidation of certain covered financial companies or bridge financial companies**
+
+(1) **In general** — Except as specifically provided in this section, and notwithstanding any other provision of law, the Corporation, in connection with the liquidation of any covered financial company or bridge financial company with respect to which the Corporation has been appointed as receiver, shall—
+
+  (A) in the case of any covered financial company or bridge financial company that is a stockbroker, but is not a member of the Securities Investor Protection Corporation, apply the provisions of subchapter III of chapter 7 of the Bankruptcy Code, in respect of the distribution to any customer of all customer name security and customer property and member property, as if such covered financial company or bridge financial company were a debtor for purposes of such subchapter; or
+
+  (B) in the case of any covered financial company or bridge financial company that is a commodity broker, apply the provisions of subchapter IV of chapter 7 33 So in original. Probably should be followed by “of”. the Bankruptcy Code, in respect of the distribution to any customer of all customer property and member property, as if such covered financial company or bridge financial company were a debtor for purposes of such subchapter.
+
+(2) **Definitions** — For purposes of this subsection—
+
+  (A) the terms “customer”, “customer name security”, and “customer property and member property” have the same meanings as in sections 741 and 761 of title 11; and
+
+  (B) the terms “commodity broker” and “stockbroker” have the same meanings as in section 101 of the Bankruptcy Code.
+
+**(n) Orderly Liquidation Fund**
+
+(1) **Establishment** — There is established in the Treasury of the United States a separate fund to be known as the “Orderly Liquidation Fund”, which shall be available to the Corporation to carry out the authorities contained in this subchapter, for the cost of actions authorized by this subchapter, including the orderly liquidation of covered financial companies, payment of administrative expenses, the payment of principal and interest by the Corporation on obligations issued under paragraph (5), and the exercise of the authorities of the Corporation under this subchapter.
+
+(2) **Proceeds** — Amounts received by the Corporation, including assessments received under subsection (o), proceeds of obligations issued under paragraph (5), interest and other earnings from investments, and repayments to the Corporation by covered financial companies, shall be deposited into the Fund.
+
+(3) **Management** — The Corporation shall manage the Fund in accordance with this subsection and the policies and procedures established under [section 5383(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/d&num=0&edition=prelim).
+
+(4) **Investments** — At the request of the Corporation, the Secretary may invest such portion of amounts held in the Fund that are not, in the judgment of the Corporation, required to meet the current needs of the Corporation, in obligations of the United States having suitable maturities, as determined by the Corporation. The interest on and the proceeds from the sale or redemption of such obligations shall be credited to the Fund.
+
+(5) **Authority to issue obligations**
+
+  (A) *Corporation authorized to issue obligations* — Upon appointment by the Secretary of the Corporation as receiver for a covered financial company, the Corporation is authorized to issue obligations to the Secretary.
+
+  (B) *Secretary authorized to purchase obligations* — The Secretary may, under such terms and conditions as the Secretary may require, purchase or agree to purchase any obligations issued under subparagraph (A), and for such purpose, the Secretary is authorized to use as a public debt transaction the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under chapter 31 of title 31 are extended to include such purchases.
+
+  (C) *Interest rate* — Each purchase of obligations by the Secretary under this paragraph shall be upon such terms and conditions as to yield a return at a rate determined by the Secretary, taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity, plus an interest rate surcharge to be determined by the Secretary, which shall be greater than the difference between—
+
+    (i) the current average rate on an index of corporate obligations of comparable maturity; and
+
+    (ii) the current average rate on outstanding marketable obligations of the United States of comparable maturity.
+
+  (D) *Secretary authorized to sell obligations* — The Secretary may sell, upon such terms and conditions as the Secretary shall determine, any of the obligations acquired under this paragraph.
+
+  (E) *Public debt transactions* — All purchases and sales by the Secretary of such obligations under this paragraph shall be treated as public debt transactions of the United States, and the proceeds from the sale of any obligations acquired by the Secretary under this paragraph shall be deposited into the Treasury of the United States as miscellaneous receipts.
+
+(6) **Maximum obligation limitation** — The Corporation may not, in connection with the orderly liquidation of a covered financial company, issue or incur any obligation, if, after issuing or incurring the obligation, the aggregate amount of such obligations outstanding under this subsection for each covered financial company would exceed—
+
+  (A) an amount that is equal to 10 percent of the total consolidated assets of the covered financial company, based on the most recent financial statement available, during the 30-day period immediately following the date of appointment of the Corporation as receiver (or a shorter time period if the Corporation has calculated the amount described under subparagraph (B)); and
+
+  (B) the amount that is equal to 90 percent of the fair value of the total consolidated assets of each covered financial company that are available for repayment, after the time period described in subparagraph (A).
+
+(7) **Rulemaking** — The Corporation and the Secretary shall jointly, in consultation with the Council, prescribe regulations governing the calculation of the maximum obligation limitation defined in this paragraph.
+
+(8) **Rule of construction**
+
+  (A) *In general* — Nothing in this section shall be construed to affect the authority of the Corporation under subsection (a) or (b) of [section 1824 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1824) or [section 1825(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1825/c/5&num=0&edition=prelim), the management of the Deposit Insurance Fund by the Corporation, or the resolution of insured depository institutions, provided that—
+
+    (i) the authorities of the Corporation contained in this subchapter shall not be used to assist the Deposit Insurance Fund or to assist any financial company under applicable law other than this Act;
+
+    (ii) the authorities of the Corporation relating to the Deposit Insurance Fund, or any other responsibilities of the Corporation under applicable law other than this subchapter, shall not be used to assist a covered financial company pursuant to this subchapter; and
+
+    (iii) the Deposit Insurance Fund may not be used in any manner to otherwise circumvent the purposes of this subchapter.
+
+  (B) *Valuation* — For purposes of determining the amount of obligations under this subsection—
+
+    (i) the Corporation shall include as an obligation any contingent liability of the Corporation pursuant to this subchapter; and
+
+    (ii) the Corporation shall value any contingent liability at its expected cost to the Corporation.
+
+(9) **Orderly liquidation and repayment plans**
+
+  (A) *Orderly liquidation plan* — Amounts in the Fund shall be available to the Corporation with regard to a covered financial company for which the Corporation is appointed receiver after the Corporation has developed an orderly liquidation plan that is acceptable to the Secretary with regard to such covered financial company, including the provision and use of funds, including taking any actions specified under [section 5384(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5384/d&num=0&edition=prelim) and subsection (h)(2)(G)(iv) and (h)(9) of this section, and payments to third parties. The orderly liquidation plan shall take into account actions to avoid or mitigate potential adverse effects on low income, minority, or underserved communities affected by the failure of the covered financial company, and shall provide for coordination with the primary financial regulatory agencies, as appropriate, to ensure that such actions are taken. The Corporation may, at any time, amend any orderly liquidation plan approved by the Secretary with the concurrence of the Secretary.
+
+  (B) *Mandatory repayment plan*
+
+    (i) *In general* — No amount authorized under paragraph (6)(B) may be provided by the Secretary to the Corporation under paragraph (5), unless an agreement is in effect between the Secretary and the Corporation that—
+
+      (I) provides a specific plan and schedule to achieve the repayment of the outstanding amount of any borrowing under paragraph (5); and
+
+      (II) demonstrates that income to the Corporation from the liquidated assets of the covered financial company and assessments under subsection (o) will be sufficient to amortize the outstanding balance within the period established in the repayment schedule and pay the interest accruing on such balance within the time provided in subsection (o)(1)(B).
+
+    (ii) *Consultation with and report to Congress* — The Secretary and the Corporation shall—
+
+      (I) consult with the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the terms of any repayment schedule agreement; and
+
+      (II) submit a copy of the repayment schedule agreement to the Committees described in subclause (I) before the end of the 30-day period beginning on the date on which any amount is provided by the Secretary to the Corporation under paragraph (5).
+
+(10) **Implementation expenses**
+
+  (A) *In general* — Reasonable implementation expenses of the Corporation incurred after July 21, 2010, shall be treated as expenses of the Council.
+
+  (B) *Requests for reimbursement* — The Corporation shall periodically submit a request for reimbursement for implementation expenses to the Chairperson of the Council, who shall arrange for prompt reimbursement to the Corporation of reasonable implementation expenses.
+
+  (C) *Definition* — As used in this paragraph, the term “implementation expenses”—
+
+    (i) means costs incurred by the Corporation beginning on July 21, 2010, as part of its efforts to implement this subchapter that do not relate to a particular covered financial company; and
+
+    (ii) includes the costs incurred in connection with the development of policies, procedures, rules, and regulations and other planning activities of the Corporation consistent with carrying out this subchapter.
+
+**(o) Assessments**
+
+(1) **Risk-based assessments**
+
+  (A) *Eligible financial companies defined* — For purposes of this subsection, the term “eligible financial company” means any bank holding company with total consolidated assets equal to or greater than $50,000,000,000 and any nonbank financial company supervised by the Board of Governors.
+
+  (B) *Assessments* — The Corporation shall charge one or more risk-based assessments in accordance with the provisions of subparagraph (D), if such assessments are necessary to pay in full the obligations issued by the Corporation to the Secretary under this subchapter within 60 months of the date of issuance of such obligations.
+
+  (C) *Extensions authorized* — The Corporation may, with the approval of the Secretary, extend the time period under subparagraph (B), if the Corporation determines that an extension is necessary to avoid a serious adverse effect on the financial system of the United States.
+
+  (D) *Application of assessments* — To meet the requirements of subparagraph (B), the Corporation shall—
+
+    (i) impose assessments, as soon as practicable, on any claimant that received additional payments or amounts from the Corporation pursuant to subsection (b)(4), (d)(4), or (h)(5)(E), except for payments or amounts necessary to initiate and continue operations essential to implementation of the receivership or any bridge financial company, to recover on a cumulative basis, the entire difference between—
+
+      (I) the aggregate value the claimant received from the Corporation on a claim pursuant to this subchapter (including pursuant to subsection 44 So in original. Probably should be “subsections”. (b)(4), (d)(4), and (h)(5)(E)), as of the date on which such value was received; and
+
+      (II) the value the claimant was entitled to receive from the Corporation on such claim solely from the proceeds of the liquidation of the covered financial company under this subchapter; and
+
+    (ii) if the amounts to be recovered on a cumulative basis under clause (i) are insufficient to meet the requirements of subparagraph (B), after taking into account the considerations set forth in paragraph (4), impose assessments on—
+
+      (I) eligible financial companies; and
+
+      (II) financial companies with total consolidated assets equal to or greater than $50,000,000,000 that are not eligible financial companies.
+
+  (E) *Provision of financing* — Payments or amounts necessary to initiate and continue operations essential to implementation of the receivership or any bridge financial company described in subparagraph (D)(i) shall not include the provision of financing, as defined by rule of the Corporation, to third parties.
+
+(2) **Graduated assessment rate** — The Corporation shall impose assessments on a graduated basis, with financial companies having greater assets and risk being assessed at a higher rate.
+
+(3) **Notification and payment** — The Corporation shall notify each financial company of that company’s assessment under this subsection. Any financial company subject to assessment under this subsection shall pay such assessment in accordance with the regulations prescribed pursuant to paragraph (6).
+
+(4) **Risk-based assessment considerations** — In imposing assessments under paragraph (1)(D)(ii), the Corporation shall use a risk matrix. The Council shall make a recommendation to the Corporation on the risk matrix to be used in imposing such assessments, and the Corporation shall take into account any such recommendation in the establishment of the risk matrix to be used to impose such assessments. In recommending or establishing such risk matrix, the Council and the Corporation, respectively, shall take into account—
+
+  (A) economic conditions generally affecting financial companies so as to allow assessments to increase during more favorable economic conditions and to decrease during less favorable economic conditions;
+
+  (B) any assessments imposed on a financial company or an affiliate of a financial company that—
+
+    (i) is an insured depository institution, assessed pursuant to section 1817 or 1823(c)(4)(G) of this title;
+
+    (ii) is a member of the Securities Investor Protection Corporation, assessed pursuant to section 4 of the Securities Investor Protection Act of 1970 ([15 U.S.C. 78ddd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78ddd&num=0&edition=prelim));
+
+    (iii) is an insured credit union, assessed pursuant to [section 1782(c)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1782/c/1/A/i&num=0&edition=prelim); or
+
+    (iv) is an insurance company, assessed pursuant to applicable State law to cover (or reimburse payments made to cover) the costs of the rehabilitation, liquidation, or other State insolvency proceeding with respect to 1 or more insurance companies;
+
+  (C) the risks presented by the financial company to the financial system and the extent to which the financial company has benefitted, or likely would benefit, from the orderly liquidation of a financial company under this subchapter, including—
+
+    (i) the amount, different categories, and concentrations of assets of the financial company and its affiliates, including both on-balance sheet and off-balance sheet assets;
+
+    (ii) the activities of the financial company and its affiliates;
+
+    (iii) the relevant market share of the financial company and its affiliates;
+
+    (iv) the extent to which the financial company is leveraged;
+
+    (v) the potential exposure to sudden calls on liquidity precipitated by economic distress;
+
+    (vi) the amount, maturity, volatility, and stability of the company’s financial obligations to, and relationship with, other financial companies;
+
+    (vii) the amount, maturity, volatility, and stability of the liabilities of the company, including the degree of reliance on short-term funding, taking into consideration existing systems for measuring a company’s risk-based capital;
+
+    (viii) the stability and variety of the company’s sources of funding;
+
+    (ix) the company’s importance as a source of credit for households, businesses, and State and local governments and as a source of liquidity for the financial system;
+
+    (x) the extent to which assets are simply managed and not owned by the financial company and the extent to which ownership of assets under management is diffuse; and
+
+    (xi) the amount, different categories, and concentrations of liabilities, both insured and uninsured, contingent and noncontingent, including both on-balance sheet and off-balance sheet liabilities, of the financial company and its affiliates;
+
+  (D) any risks presented by the financial company during the 10-year period immediately prior to the appointment of the Corporation as receiver for the covered financial company that contributed to the failure of the covered financial company; and
+
+  (E) such other risk-related factors as the Corporation, or the Council, as applicable, may determine to be appropriate.
+
+(5) **Collection of information** — The Corporation may impose on covered financial companies such collection of information requirements as the Corporation deems necessary to carry out this subsection after the appointment of the Corporation as receiver under this subchapter.
+
+(6) **Rulemaking**
+
+  (A) *In general* — The Corporation shall prescribe regulations to carry out this subsection. The Corporation shall consult with the Secretary in the development and finalization of such regulations.
+
+  (B) *Equitable treatment* — The regulations prescribed under subparagraph (A) shall take into account the differences in risks posed to the financial stability of the United States by financial companies, the differences in the liability structures of financial companies, and the different bases for other assessments that such financial companies may be required to pay, to ensure that assessed financial companies are treated equitably and that assessments under this subsection reflect such differences.
+
+**(p) Unenforceability of certain agreements**
+
+(1) **In general** — No provision described in paragraph (2) shall be enforceable against or impose any liability on any person, as such enforcement or liability shall be contrary to public policy.
+
+(2) **Prohibited provisions** — A provision described in this paragraph is any term contained in any existing or future standstill, confidentiality, or other agreement that, directly or indirectly—
+
+  (A) affects, restricts, or limits the ability of any person to offer to acquire or acquire;
+
+  (B) prohibits any person from offering to acquire or acquiring; or
+
+  (C) prohibits any person from using any previously disclosed information in connection with any such offer to acquire or acquisition of,
+  all or part of any covered financial company, including any liabilities, assets, or interest therein, in connection with any transaction in which the Corporation exercises its authority under this subchapter.
+
+**(q) Other exemptions**
+
+(1) **In general** — When acting as a receiver under this subchapter—
+
+  (A) the Corporation, including its franchise, its capital, reserves and surplus, and its income, shall be exempt from all taxation imposed by any State, county, municipality, or local taxing authority, except that any real property of the Corporation shall be subject to State, territorial, county, municipal, or local taxation to the same extent according to its value as other real property is taxed, except that, notwithstanding the failure of any person to challenge an assessment under State law of the value of such property, such value, and the tax thereon, shall be determined as of the period for which such tax is imposed;
+
+  (B) no property of the Corporation shall be subject to levy, attachment, garnishment, foreclosure, or sale without the consent of the Corporation, nor shall any involuntary lien attach to the property of the Corporation; and
+
+  (C) the Corporation shall not be liable for any amounts in the nature of penalties or fines, including those arising from the failure of any person to pay any real property, personal property, probate, or recording tax or any recording or filing fees when due; and
+
+  (D) the Corporation shall be exempt from all prosecution by the United States or any State, county, municipality, or local authority for any criminal offense arising under Federal, State, county, municipal, or local law, which was allegedly committed by the covered financial company, or persons acting on behalf of the covered financial company, prior to the appointment of the Corporation as receiver.
+
+(2) **Limitation** — Paragraph (1) shall not apply with respect to any tax imposed (or other amount arising) under the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.].
+
+**(r) Certain sales of assets prohibited**
+
+(1) **Persons who engaged in improper conduct with, or caused losses to, covered financial companies** — The Corporation shall prescribe regulations which, at a minimum, shall prohibit the sale of assets of a covered financial company by the Corporation to—
+
+  (A) any person who—
+
+    (i) has defaulted, or was a member of a partnership or an officer or director of a corporation that has defaulted, on 1 or more obligations, the aggregate amount of which exceeds $1,000,000, to such covered financial company;
+
+    (ii) has been found to have engaged in fraudulent activity in connection with any obligation referred to in clause (i); and
+
+    (iii) proposes to purchase any such asset in whole or in part through the use of the proceeds of a loan or advance of credit from the Corporation or from any covered financial company;
+
+  (B) any person who participated, as an officer or director of such covered financial company or of any affiliate of such company, in a material way in any transaction that resulted in a substantial loss to such covered financial company; or
+
+  (C) any person who has demonstrated a pattern or practice of defalcation regarding obligations to such covered financial company.
+
+(2) **Convicted debtors** — Except as provided in paragraph (3), a person may not purchase any asset of such institution from the receiver, if that person—
+
+  (A) has been convicted of an offense under section 215, 656, 657, 1005, 1006, 1007, 1008, 1014, 1032, 1341, 1343, or 1344 of title 18, or of conspiring to commit such an offense, affecting any covered financial company; and
+
+  (B) is in default on any loan or other extension of credit from such covered financial company which, if not paid, will cause substantial loss to the Fund or the Corporation.
+
+(3) **Settlement of claims** — Paragraphs (1) and (2) shall not apply to the sale or transfer by the Corporation of any asset of any covered financial company to any person, if the sale or transfer of the asset resolves or settles, or is part of the resolution or settlement, of 1 or more claims that have been, or could have been, asserted by the Corporation against the person.
+
+(4) **Definition of default** — For purposes of this subsection, the term “default” means a failure to comply with the terms of a loan or other obligation to such an extent that the property securing the obligation is foreclosed upon.
+
+**(s) Recoupment of compensation from senior executives and directors**
+
+(1) **In general** — The Corporation, as receiver of a covered financial company, may recover from any current or former senior executive or director substantially responsible for the failed condition of the covered financial company any compensation received during the 2-year period preceding the date on which the Corporation was appointed as the receiver of the covered financial company, except that, in the case of fraud, no time limit shall apply.
+
+(2) **Cost considerations** — In seeking to recover any such compensation, the Corporation shall weigh the financial and deterrent benefits of such recovery against the cost of executing the recovery.
+
+(3) **Rulemaking** — The Corporation shall promulgate regulations to implement the requirements of this subsection, including defining the term “compensation” to mean any financial remuneration, including salary, bonuses, incentives, benefits, severance, deferred compensation, or golden parachute benefits, and any profits realized from the sale of the securities of the covered financial company.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+The Securities Investor Protection Act of 1970, referred to in subsecs. (a)(1)(O)(iv), (b)(6)(C), (D), (d)(3)(A), and (h)(2)(H)(iii), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+
+The Federal Rules of Civil Procedure, referred to in subsec. (a)(13), (14), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (c)(13)(C)(ii), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. Subtitle A of title IV of the Act is classified generally to subchapter I (§ 4401 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+The Gramm-Leach-Bliley Act, referred to in subsec. (c)(15), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(15), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+
+The Commodity Exchange Act, referred to in subsec. (c)(15), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+
+The Securities Exchange Act of 1934, referred to in subsec. (h)(2)(H)(i)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+
+This Act, referred to in subsec. (n)(8)(A)(i), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Internal Revenue Code of 1986, referred to in subsec. (q)(2), is classified generally to Title 26, Internal Revenue Code.
+
+
+<a id="section-5394"></a>
+## § 5394. Inspector General reviews
+**(a) to (c) Omitted**
+
+**(d) FDIC Inspector General reviews**
+
+(1) **Scope** — The Inspector General of the Corporation shall conduct, supervise, and coordinate audits and investigations of the liquidation of any covered financial company by the Corporation as receiver under this subchapter, including collecting and summarizing—
+
+  (A) a description of actions taken by the Corporation as receiver;
+
+  (B) a description of any material sales, transfers, mergers, obligations, purchases, and other material transactions entered into by the Corporation;
+
+  (C) an evaluation of the adequacy of the policies and procedures of the Corporation under [section 5383(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5383/d&num=0&edition=prelim) and orderly liquidation plan under section 5390(n)(14) 11 See References in Text note below. of this title;
+
+  (D) an evaluation of the utilization by the Corporation of the private sector in carrying out its functions, including the adequacy of any conflict-of-interest reviews; and
+
+  (E) an evaluation of the overall performance of the Corporation in liquidating the covered financial company, including administrative costs, timeliness of liquidation process, and impact on the financial system.
+
+(2) **Frequency** — Not later than 6 months after the date of appointment of the Corporation as receiver under this subchapter and every 6 months thereafter, the Inspector General of the Corporation shall conduct the audit and investigation described in paragraph (1).
+
+(3) **Reports and testimony** — The Inspector General of the Corporation shall include in the semiannual reports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and evaluations under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
+
+(4) **Funding**
+
+  (A) *Initial funding* — The expenses of the Inspector General of the Corporation in carrying out this subsection shall be considered administrative expenses of the receivership.
+
+  (B) *Additional funding* — If the maximum amount available to the Corporation as receiver under this subchapter is insufficient to enable the Inspector General of the Corporation to carry out the duties under this subsection, the Corporation shall pay such additional amounts from assessments imposed under [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390).
+
+(5) **Termination of responsibilities** — The duties and responsibilities of the Inspector General of the Corporation under this subsection shall terminate 1 year after the date of termination of the receivership under this subchapter.
+
+**(e) Treasury Inspector General reviews**
+
+(1) **Scope** — The Inspector General of the Department of the Treasury shall conduct, supervise, and coordinate audits and investigations of actions taken by the Secretary related to the liquidation of any covered financial company under this subchapter, including collecting and summarizing—
+
+  (A) a description of actions taken by the Secretary under this subchapter;
+
+  (B) an analysis of the approval by the Secretary of the policies and procedures of the Corporation under [section 5383 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5383) and acceptance of the orderly liquidation plan of the Corporation under [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390); and
+
+  (C) an assessment of the terms and conditions underlying the purchase by the Secretary of obligations of the Corporation under [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390).
+
+(2) **Frequency** — Not later than 6 months after the date of appointment of the Corporation as receiver under this subchapter and every 6 months thereafter, the Inspector General of the Department of the Treasury shall conduct the audit and investigation described in paragraph (1).
+
+(3) **Reports and testimony** — The Inspector General of the Department of the Treasury shall include in the semiannual reports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
+
+(4) **Termination of responsibilities** — The duties and responsibilities of the Inspector General of the Department of the Treasury under this subsection shall terminate 1 year after the date on which the obligations purchased by the Secretary from the Corporation under [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390) are fully redeemed.
+
+**(f) Primary financial regulatory agency Inspector General reviews**
+
+(1) **Scope** — Upon the appointment of the Corporation as receiver for a covered financial company supervised by a Federal primary financial regulatory agency or the Board of Governors under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365), the Inspector General of the agency or the Board of Governors shall make a written report reviewing the supervision by the agency or the Board of Governors of the covered financial company, which shall—
+
+  (A) evaluate the effectiveness of the agency or the Board of Governors in carrying out its supervisory responsibilities with respect to the covered financial company;
+
+  (B) identify any acts or omissions on the part of agency or Board of Governors officials that contributed to the covered financial company being in default or in danger of default;
+
+  (C) identify any actions that could have been taken by the agency or the Board of Governors that would have prevented the company from being in default or in danger of default; and
+
+  (D) recommend appropriate administrative or legislative action.
+
+(2) **Reports and testimony** — Not later than 1 year after the date of appointment of the Corporation as receiver under this subchapter, the Inspector General of the Federal primary financial regulatory agency or the Board of Governors shall provide the report required by paragraph (1) to such agency or the Board of Governors, and along with such agency or the Board of Governors, as applicable, shall appear before the appropriate committees of Congress, if requested, to present the report required by paragraph (1). Not later than 90 days after the date of receipt of the report required by paragraph (1), such agency or the Board of Governors, as applicable, shall provide a written report to Congress describing any actions taken in response to the recommendations in the report, and if no such actions were taken, describing the reasons why no actions were taken.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (d)(1), (2), (4)(B), (5), (e)(1), (2), and (f)(2), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+[Section 5390(n)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n/14&num=0&edition=prelim), referred to in subsec. (d)(1)(C), probably means section 5390(n)(9), because [section 5390(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n&num=0&edition=prelim) does not contain a par. (14) and [section 5390(n)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n/9&num=0&edition=prelim) relates to orderly liquidation plans.
+
+The Inspector General Act of 1978, referred to in subsecs. (d)(3) and (e)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+Section is comprised of section 211 of Pub. L. 111–203. Subsecs. (a) to (c) of section 211 of Pub. L. 111–203 amended [section 4403 of this title](./chapter-045-payment-system-risk-reduction.md#section-4403) and [section 1032 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1032&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+
+<a id="section-5401"></a>
+## § 5401. Disposition of affairs
+**(a) Authority of Director** During the 90-day period beginning on the transfer date, the Director of the Office of Thrift Supervision—
+
+(1) shall, solely for the purpose of winding up the affairs of the Office of Thrift Supervision relating to any function transferred to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors under this title— 11 See References in Text note below.
+
+  (A) manage the employees of the Office of Thrift Supervision who have not yet been transferred and provide for the payment of the compensation and benefits of the employees that accrue before the date on which the employees are transferred under this title; 1 and
+
+  (B) manage any property of the Office of Thrift Supervision, until the date on which the property is transferred under [section 5433 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5433); and
+
+(2) may take any other action necessary to wind up the affairs of the Office of Thrift Supervision.
+
+**(b) Status of Director**
+
+(1) **In general** — Notwithstanding the transfer of functions under this part, during the 90-day period beginning on the transfer date, the Director of the Office of Thrift Supervision shall retain and may exercise any authority vested in the Director of the Office of Thrift Supervision on the day before the transfer date, only to the extent necessary—
+
+  (A) to wind up the Office of Thrift Supervision; and
+
+  (B) to carry out the transfer under this part during such 90-day period.
+
+(2) **Other provisions** — For purposes of paragraph (1), the Director of the Office of Thrift Supervision shall, during the 90-day period beginning on the transfer date, continue to be—
+
+  (A) treated as an officer of the United States; and
+
+  (B) entitled to receive compensation at the same annual rate of basic pay that the Director of the Office of Thrift Supervision received on the day before the transfer date.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in subsec. (a)(1), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5402"></a>
+## § 5402. Continuation of services
+
+Any agency, department, or other instrumentality of the United States, and any successor to any such agency, department, or instrumentality, that was, before the transfer date, providing support services to the Office of Thrift Supervision in connection with functions transferred to the Office of the Comptroller of the Currency, the Corporation or the Board of Governors under this title,11 See References in Text note below. shall—
+
+(1) continue to provide such services, subject to reimbursement by the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, until the transfer of functions under this title 1 is complete; and
+
+(2) consult with the Comptroller of the Currency, the Chairperson of the Corporation, or the Chairman of the Board of Governors, as appropriate, to coordinate and facilitate a prompt and orderly transition.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5411"></a>
+## § 5411. Prohibition of circumvention and prevention of conflicts of interest
+**(a) No other funding** Funds for the orderly liquidation of any covered financial company under this subchapter shall only be provided as specified under this subchapter.
+
+**(b) Limit on governmental actions** No governmental entity may take any action to circumvent the purposes of this subchapter.
+
+**(c) Conflict of interest** In the event that the Corporation is appointed receiver for more than 1 covered financial company or is appointed receiver for a covered financial company and receiver for any insured depository institution that is an affiliate of such covered financial company, the Corporation shall take appropriate action, as necessary to avoid any conflicts of interest that may arise in connection with multiple receiverships.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5412"></a>
+## § 5412. Ban on certain activities by senior executives and directors
+**(a) Prohibition authority** The Board of Governors or, if the covered financial company was not supervised by the Board of Governors, the Corporation, may exercise the authority provided by this section.
+
+**(b) Authority to issue order** The appropriate agency described in subsection (a) may take any action authorized by subsection (c), if the agency determines that—
+
+(1) a senior executive or a director of the covered financial company, prior to the appointment of the Corporation as receiver, has, directly or indirectly—
+
+  (A) violated—
+
+    (i) any law or regulation;
+
+    (ii) any cease-and-desist order which has become final;
+
+    (iii) any condition imposed in writing by a Federal agency in connection with any action on any application, notice, or request by such company or senior executive; or
+
+    (iv) any written agreement between such company and such agency;
+
+  (B) engaged or participated in any unsafe or unsound practice in connection with any financial company; or
+
+  (C) committed or engaged in any act, omission, or practice which constitutes a breach of the fiduciary duty of such senior executive or director;
+
+(2) by reason of the violation, practice, or breach described in any subparagraph of paragraph (1), such senior executive or director has received financial gain or other benefit by reason of such violation, practice, or breach and such violation, practice, or breach contributed to the failure of the company; and
+
+(3) such violation, practice, or breach—
+
+  (A) involves personal dishonesty on the part of such senior executive or director; or
+
+  (B) demonstrates willful or continuing disregard by such senior executive or director for the safety or soundness of such company.
+
+**(c) Authorized actions**
+
+(1) **In general** — The appropriate agency for a financial company, as described in subsection (a), may serve upon a senior executive or director described in subsection (b) a written notice of the intention of the agency to prohibit any further participation by such person, in any manner, in the conduct of the affairs of any financial company for a period of time determined by the appropriate agency to be commensurate with such violation, practice, or breach, provided such period shall be not less than 2 years.
+
+(2) **Procedures** — The due process requirements and other procedures under section 8(e) of the Federal Deposit Insurance Act ([12 U.S.C. 1818(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/e&num=0&edition=prelim)) shall apply to actions under this section as if the covered financial company were an insured depository institution and the senior executive or director were an institution-affiliated party, as those terms are defined in that Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.].
+
+**(d) Regulations** The Corporation and the Board of Governors, in consultation with the Council, shall jointly prescribe rules or regulations to administer and carry out this section, including rules, regulations, or guidelines to further define the term senior executive for the purposes of this section.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Deposit Insurance Act, referred to in subsec. (c)(2), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. The terms “insured depository institution” and “institution-affiliated party” are defined in section 3 of the Act, which is classified to [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813). For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+
+<a id="section-5413"></a>
+## § 5413. Prohibition on taxpayer funding
+**(a) Liquidation required** All financial companies put into receivership under this subchapter shall be liquidated. No taxpayer funds shall be used to prevent the liquidation of any financial company under this subchapter.
+
+**(b) Recovery of funds** All funds expended in the liquidation of a financial company under this subchapter shall be recovered from the disposition of assets of such financial company, or shall be the responsibility of the financial sector, through assessments.
+
+**(c) No losses to taxpayers** Taxpayers shall bear no losses from the exercise of any authority under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+
+
+<a id="section-5414"></a>
+## § 5414. Purposes
+
+The purposes of this title 11 See References in Text note below. are—
+
+(1) to provide for the safe and sound operation of the banking system of the United States;
+
+(2) to preserve and protect the dual system of Federal and State-chartered depository institutions;
+
+(3) to ensure the fair and appropriate supervision of each depository institution, regardless of the size or type of charter of the depository institution; and
+
+(4) to streamline and rationalize the supervision of depository institutions and the holding companies of depository institutions.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5415"></a>
+## § 5415. Definition
+
+In this title,11 See References in Text note below. the term “transferred employee” means, as the context requires, an employee transferred to the Office of the Comptroller of the Currency or the Corporation under [section 5432 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5432).
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5416"></a>
+## § 5416. Transfer date
+**(a) Transfer date** Except as provided in subsection (b), the term “transfer date” means the date that is 1 year after July 21, 2010.
+
+**(b) Extension permitted**
+
+(1) **Notice required** — The Secretary, in consultation with the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chairman of the Board of Governors, and the Chairperson of the Corporation, may extend the period under subsection (a) and designate a transfer date that is not later than 18 months after July 21, 2010, if the Secretary transmits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
+
+  (A) a written determination that commencement of the orderly process to implement this title 11 See References in Text note below. is not feasible by the date that is 1 year after July 21, 2010;
+
+  (B) an explanation of why an extension is necessary to commence the process of orderly implementation of this title; 1
+
+  (C) the transfer date designated under this subsection; and
+
+  (D) a description of the steps that will be taken to initiate the process of an orderly and timely implementation of this title 1 within the extended time period.
+
+(2) **Publication of notice** — Not later than 270 days after July 21, 2010, the Secretary shall publish in the Federal Register notice of any transfer date designated under paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (b)(1)(B), (D), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5431"></a>
+## § 5431. Powers and duties transferred
+**(a) Effective date** This section, and the amendments made by this section, shall take effect on the transfer date.
+
+**(b) Functions of the Office of Thrift Supervision**
+
+(1) **Savings and loan holding company functions transferred**
+
+  (A) *Transfer of functions* — There are transferred to the Board of Governors all functions of the Office of Thrift Supervision and the Director of the Office of Thrift Supervision (including the authority to issue orders) relating to—
+
+    (i) the supervision of—
+
+      (I) any savings and loan holding company; and
+
+      (II) any subsidiary (other than a depository institution) of a savings and loan holding company; and
+
+    (ii) all rulemaking authority of the Office of Thrift Supervision and the Director of the Office of Thrift Supervision relating to savings and loan holding companies.
+
+  (B) *Powers, authorities, rights, and duties* — The Board of Governors shall succeed to all powers, authorities, rights, and duties that were vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision on the day before the transfer date relating to the functions and authority transferred under subparagraph (A).
+
+(2) **All other functions transferred**
+
+  (A) *Board of Governors* — All rulemaking authority of the Office of Thrift Supervision and the Director of the Office of Thrift Supervision under [section 1468 of this title](./chapter-012-savings-associations.md#section-1468) relating to transactions with affiliates and extensions of credit to executive officers, directors, and principal shareholders and under [section 1464(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464/q&num=0&edition=prelim) relating to tying arrangements is transferred to the Board of Governors.
+
+  (B) *Comptroller of the Currency* — Except as provided in paragraph (1) and subparagraph (A)—
+
+    (i) there are transferred to the Office of the Comptroller of the Currency and the Comptroller of the Currency—
+
+      (I) all functions of the Office of Thrift Supervision and the Director of the Office of Thrift Supervision, respectively, relating to Federal savings associations; and
+
+      (II) all rulemaking authority of the Office of Thrift Supervision and the Director of the Office of Thrift Supervision, respectively, relating to savings associations; and
+
+    (ii) the Office of the Comptroller of the Currency and the Comptroller of the Currency shall succeed to all powers, authorities, rights, and duties that were vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision, respectively, on the day before the transfer date relating to the functions and authority transferred under clause (i).
+
+  (C) *Corporation* — Except as provided in paragraph (1) and subparagraphs (A) and (B)—
+
+    (i) all functions of the Office of Thrift Supervision and the Director of the Office of Thrift Supervision relating to State savings associations are transferred to the Corporation; and
+
+    (ii) the Corporation shall succeed to all powers, authorities, rights, and duties that were vested in the Office of Thrift Supervision and the Director of the Office of Thrift Supervision on the day before the transfer date relating to the functions transferred under clause (i).
+
+**(c) Omitted**
+
+**(d) Consumer protection** Nothing in this section may be construed to limit or otherwise affect the transfer of powers under title X.11 See References in Text note below.
+
+### Statutory Notes
+
+#### References in Text
+Title X, referred to in subsec. (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Codification
+Section is comprised of section 312 of Pub. L. 111–203. Subsec. (c) of section 312 of Pub. L. 111–203 amended [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+
+<a id="section-5432"></a>
+## § 5432. Abolishment
+
+Effective 90 days after the transfer date, the Office of Thrift Supervision and the position of Director of the Office of Thrift Supervision are abolished.
+
+
+<a id="section-5433"></a>
+## § 5433. Savings provisions
+**(a) Office of Thrift Supervision**
+
+(1) **Existing rights, duties, and obligations not affected** — Sections 5412(b) and 5413 of this title shall not affect the validity of any right, duty, or obligation of the United States, the Director of the Office of Thrift Supervision, the Office of Thrift Supervision, or any other person, that existed on the day before the transfer date.
+
+(2) **Continuation of suits** — This title 11 See References in Text note below. shall not abate any action or proceeding commenced by or against the Director of the Office of Thrift Supervision or the Office of Thrift Supervision before the transfer date, except that—
+
+  (A) for any action or proceeding arising out of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Board of Governors by this title,1 the Board of Governors shall be substituted for the Office of Thrift Supervision or the Director of the Office of Thrift Supervision as a party to the action or proceeding on and after the transfer date;
+
+  (B) for any action or proceeding arising out of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Office of the Comptroller of the Currency or the Comptroller of the Currency by this title,1 the Office of the Comptroller of the Currency or the Comptroller of the Currency shall be substituted for the Office of Thrift Supervision or the Director of the Office of Thrift Supervision, as the case may be, as a party to the action or proceeding on and after the transfer date; and
+
+  (C) for any action or proceeding arising out of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Corporation by this title,1 the Corporation shall be substituted for the Office of Thrift Supervision or the Director of the Office of Thrift Supervision as a party to the action or proceeding on and after the transfer date.
+
+**(b) Continuation of existing OTS orders, resolutions, determinations, agreements, regulations, etc.** All orders, resolutions, determinations, agreements, and regulations, interpretative rules, other interpretations, guidelines, procedures, and other advisory materials, that have been issued, made, prescribed, or allowed to become effective by the Office of Thrift Supervision or the Director of the Office of Thrift Supervision, or by a court of competent jurisdiction, in the performance of functions that are transferred by this title 1 and that are in effect on the day before the transfer date, shall continue in effect according to the terms of such orders, resolutions, determinations, agreements, and regulations, interpretative rules, other interpretations, guidelines, procedures, and other advisory materials, and shall be enforceable by or against—
+
+(1) the Board of Governors, in the case of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Board of Governors, until modified, terminated, set aside, or superseded in accordance with applicable law by the Board of Governors, by any court of competent jurisdiction, or by operation of law;
+
+(2) the Office of the Comptroller of the Currency or the Comptroller of the Currency, in the case of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Office of the Comptroller of the Currency or the Comptroller of the Currency, respectively, until modified, terminated, set aside, or superseded in accordance with applicable law by the Office of the Comptroller of the Currency or the Comptroller of the Currency, by any court of competent jurisdiction, or by operation of law; and
+
+(3) the Corporation, in the case of a function of the Office of Thrift Supervision or the Director of the Office of Thrift Supervision transferred to the Corporation, until modified, terminated, set aside, or superseded in accordance with applicable law by the Corporation, by any court of competent jurisdiction, or by operation of law.
+
+**(c) Identification of regulations continued**
+
+(1) **By the Board of Governors** — Not later than the transfer date, the Board of Governors shall—
+
+  (A) identify the regulations continued under subsection (b) that will be enforced by the Board of Governors; and
+
+  (B) publish a list of the regulations identified under subparagraph (A) in the Federal Register.
+
+(2) **By Office of the Comptroller of the Currency** — Not later than the transfer date, the Office of the Comptroller of the Currency shall—
+
+  (A) after consultation with the Corporation, identify the regulations continued under subsection (b) that will be enforced by the Office of the Comptroller of the Currency; and
+
+  (B) publish a list of the regulations identified under subparagraph (A) in the Federal Register.
+
+(3) **By the Corporation** — Not later than the transfer date, the Corporation shall—
+
+  (A) after consultation with the Office of the Comptroller of the Currency, identify the regulations continued under subsection (b) that will be enforced by the Corporation; and
+
+  (B) publish a list of the regulations identified under subparagraph (A) in the Federal Register.
+
+**(d) Status of regulations proposed or not yet effective**
+
+(1) **Proposed regulations** — Any proposed regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision in performing functions transferred by this title,1 has proposed before the transfer date but has not published as a final regulation before such date, shall be deemed to be a proposed regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the proposed regulation.
+
+(2) **Regulations not yet effective** — Any interim or final regulation of the Office of Thrift Supervision, which the Office of Thrift Supervision, in performing functions transferred by this title,1 has published before the transfer date but which has not become effective before that date, shall become effective as a regulation of the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, according to the terms of the interim or final regulation, unless modified, terminated, set aside, or superseded in accordance with applicable law by the Office of the Comptroller of the Currency or the Board of Governors, as appropriate, by any court of competent jurisdiction, or by operation of law.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsecs. (a)(2), (b), and (d), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5434"></a>
+## § 5434. References in Federal law to Federal banking agencies
+
+On and after the transfer date, any reference in Federal law to the Director of the Office of Thrift Supervision or the Office of Thrift Supervision, in connection with any function of the Director of the Office of Thrift Supervision or the Office of Thrift Supervision transferred under [section 5412(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5412/b&num=0&edition=prelim) or any other provision of this subtitle, shall be deemed to be a reference to the Comptroller of the Currency, the Office of the Comptroller of the Currency, the Chairperson of the Corporation, the Corporation, the Chairman of the Board of Governors, or the Board of Governors, as appropriate and consistent with the amendments made in subtitle E.
+
+### Statutory Notes
+
+#### References in Text
+This subtitle, referred to in text, is subtitle A (§§ 311–319) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, which enacted this part and sections 4b and 16 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+Subtitle E, referred to in text, is subtitle E (§ 351–378) of title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1546. For complete classification of subtitle E to the Code, see Tables.
+
+
+<a id="section-5435"></a>
+## § 5435. Contracting and leasing authority
+
+Notwithstanding chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 or any other provision of law (except the full and open competition requirements of the Competition in Contracting Act), the Office of the Comptroller of the Currency may—
+
+(1) enter into and perform contracts, execute instruments, and acquire real property (or property interest) as the Comptroller deems necessary to carry out the duties and responsibilities of the Office of the Comptroller of the Currency; and
+
+(2) hold, maintain, sell, lease, or otherwise dispose of the property (or property interest) acquired under paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+The Competition in Contracting Act, referred to in text, probably means the Competition in Contracting Act of 1984, which is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Act note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim), Public Contracts, and Tables.
+
+#### Codification
+In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section251&num=0&edition=prelim) et seq.)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+
+<a id="section-5436"></a>
+## § 5436. Interim use of funds, personnel, and property of the Office of Thrift Supervision
+**(a) In general** Before the transfer date, the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors shall—
+
+(1) consult and cooperate with the Office of Thrift Supervision to facilitate the orderly transfer of functions to the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors in accordance with this title; 11 See References in Text note below.
+
+(2) determine jointly, from time to time—
+
+  (A) the amount of funds necessary to pay any expenses associated with the transfer of functions (including expenses for personnel, property, and administrative services) during the period beginning on July 21, 2010, and ending on the transfer date;
+
+  (B) which personnel are appropriate to facilitate the orderly transfer of functions by this title; 1 and
+
+  (C) what property and administrative services are necessary to support the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors during the period beginning on July 21, 2010, and ending on the transfer date; and
+
+(3) take such actions as may be necessary to provide for the orderly implementation of this title.1
+
+**(b) Agency consultation** When requested jointly by the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors to do so before the transfer date, the Office of Thrift Supervision shall—
+
+(1) pay to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, as applicable, from funds obtained by the Office of Thrift Supervision through assessments, fees, or other charges that the Office of Thrift Supervision is authorized by law to impose, such amounts as the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly determine to be necessary under subsection (a);
+
+(2) detail to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, as applicable, such personnel as the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly determine to be appropriate under subsection (a); and
+
+(3) make available to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, as applicable, such property and provide to the Office of the Comptroller of the Currency, the Corporation, or the Board of Governors, as applicable, such administrative services as the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly determine to be necessary under subsection (a).
+
+**(c) Notice required** The Office of the Comptroller of the Currency, the Corporation, and the Board of Governors shall jointly give the Office of Thrift Supervision reasonable prior notice of any request that the Office of the Comptroller of the Currency, the Corporation, and the Board of Governors jointly intend to make under subsection (b).
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (a), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5437"></a>
+## § 5437. Transfer of employees
+**(a) In general**
+
+(1) **Office of Thrift Supervision employees**
+
+  (A) *In general* — Except as provided in [section 5584 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5584), all employees of the Office of Thrift Supervision shall be transferred to the Office of the Comptroller of the Currency or the Corporation for employment in accordance with this section.
+
+  (B) *Allocating employees for transfer to receiving agencies* — The Director of the Office of Thrift Supervision, the Comptroller of the Currency, and the Chairperson of the Corporation shall—
+
+    (i) jointly determine the number of employees of the Office of Thrift Supervision necessary to perform or support the functions that are transferred to the Office of the Comptroller of the Currency or the Corporation by this title; 11 See References in Text note below. and
+
+    (ii) consistent with the determination under clause (i), jointly identify employees of the Office of Thrift Supervision for transfer to the Office of the Comptroller of the Currency or the Corporation.
+
+(2) **Employees transferred; service periods credited** — For purposes of this section, periods of service with a Federal home loan bank, a joint office of Federal home loan banks, or a Federal reserve bank shall be credited as periods of service with a Federal agency.
+
+(3) **Appointment authority for excepted service transferred**
+
+  (A) *In general* — Except as provided in subparagraph (B), any appointment authority of the Office of Thrift Supervision under Federal law that relates to the functions transferred under [section 5412 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5412), including the regulations of the Office of Personnel Management, for filling the positions of employees in the excepted service shall be transferred to the Comptroller of the Currency or the Chairperson of the Corporation, as appropriate.
+
+  (B) *Declining transfers allowed* — The Comptroller of the Currency or the Chairperson of the Corporation may decline to accept a transfer of authority under subparagraph (A) (and the employees appointed under that authority) to the extent that such authority relates to positions excepted from the competitive service because of their confidential, policy-making, policy-determining, or policy-advocating character.
+
+(4) **Additional appointment authority** — Notwithstanding any other provision of law, the Office of the Comptroller of the Currency and the Corporation may appoint transferred employees to positions in the Office of the Comptroller of the Currency or the Corporation, respectively.
+
+**(b) Timing of transfers and position assignments** Each employee to be transferred under subsection (a)(1) shall—
+
+(1) be transferred not later than 90 days after the transfer date; and
+
+(2) receive notice of the position assignment of the employee not later than 120 days after the effective date of the transfer of the employee.
+
+**(c) Transfer of functions**
+
+(1) **In general** — Notwithstanding any other provision of law, the transfer of employees under this part shall be deemed a transfer of functions for the purpose of [section 3503 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3503&num=0&edition=prelim).
+
+(2) **Priority** — If any provision of this part conflicts with any protection provided to a transferred employee under [section 3503 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3503&num=0&edition=prelim), the provisions of this part shall control.
+
+**(d) Employee status and eligibility** The transfer of functions and employees under this part, and the abolishment of the Office of Thrift Supervision under [section 5413 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5413), shall not affect the status of the transferred employees as employees of an agency of the United States under any provision of law.
+
+**(e) Equal status and tenure positions**
+
+(1) **Status and tenure** — Each transferred employee from the Office of Thrift Supervision shall be placed in a position at the Office of the Comptroller of the Currency or the Corporation with the same status and tenure as the transferred employee held on the day before the date on which the employee was transferred.
+
+(2) **Functions** — To the extent practicable, each transferred employee shall be placed in a position at the Office of the Comptroller of the Currency or the Corporation, as applicable, responsible for the same functions and duties as the transferred employee had on the day before the date on which the employee was transferred, in accordance with the expertise and preferences of the transferred employee.
+
+**(f) No additional certification requirements** An examiner who is a transferred employee shall not be subject to any additional certification requirements before being placed in a comparable position at the Office of the Comptroller of the Currency or the Corporation, if the examiner carries out examinations of the same type of institutions as an employee of the Office of the Comptroller of the Currency or the Corporation as the employee was responsible for carrying out before the date on which the employee was transferred.
+
+**(g) Personnel actions limited**
+
+(1) **Protection**
+
+  (A) *In general* — Except as provided in paragraph (2), each affected employee shall not, during the 30-month period beginning on the transfer date, be involuntarily separated, or involuntarily reassigned outside his or her locality pay area.
+
+  (B) *Affected employees* — For purposes of this paragraph, the term “affected employee” means—
+
+    (i) an employee transferred from the Office of Thrift Supervision holding a permanent position on the day before the transfer date; and
+
+    (ii) an employee of the Office of the Comptroller of the Currency or the Corporation holding a permanent position on the day before the transfer date.
+
+(2) **Exceptions** — Paragraph (1) does not limit the right of the Office of the Comptroller of the Currency or the Corporation to—
+
+  (A) separate an employee for cause or for unacceptable performance;
+
+  (B) terminate an appointment to a position excepted from the competitive service because of its confidential policy-making, policy-determining, or policy-advocating character; or
+
+  (C) reassign an employee outside such employee’s locality pay area when the Office of the Comptroller of the Currency or the Corporation determines that the reassignment is necessary for the efficient operation of the agency.
+
+**(h) Pay**
+
+(1) **30-month protection** — Except as provided in paragraph (2), during the 30-month period beginning on the date on which the employee was transferred under this part, a transferred employee shall be paid at a rate that is not less than the basic rate of pay, including any geographic differential, that the transferred employee received during the pay period immediately preceding the date on which the employee was transferred. Notwithstanding the preceding sentence, if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the transfer, the Agency may reduce the rate of basic pay on the date the rate would have been reduced but for the transfer, and the protected rate for the remainder of the 30-month period will be the reduced rate that would have applied but for the transfer.
+
+(2) **Exceptions** — The Comptroller of the Currency or the Corporation may reduce the rate of basic pay of a transferred employee—
+
+  (A) for cause, including for unacceptable performance; or
+
+  (B) with the consent of the transferred employee.
+
+(3) **Protection only while employed** — This subsection shall apply to a transferred employee only during the period that the transferred employee remains employed by Office of the Comptroller of the Currency or the Corporation.
+
+(4) **Pay increases permitted** — Nothing in this subsection shall limit the authority of the Comptroller of the Currency or the Chairperson of the Corporation to increase the pay of a transferred employee.
+
+**(i) Benefits**
+
+(1) **Retirement benefits for transferred employees**
+
+  (A) *In general*
+
+    (i) *Continuation of existing retirement plan* — Each transferred employee shall remain enrolled in the retirement plan of the transferred employee, for as long as the transferred employee is employed by the Office of the Comptroller of the Currency or the Corporation.
+
+    (ii) *Employer’s contribution* — The Comptroller of the Currency or the Chairperson of the Corporation, as appropriate, shall pay any employer contributions to the existing retirement plan of each transferred employee, as required under each such existing retirement plan.
+
+  (B) *Definition* — In this paragraph, the term “existing retirement plan” means, with respect to a transferred employee, the retirement plan (including the Financial Institutions Retirement Fund), and any associated thrift savings plan, of the agency from which the employee was transferred in which the employee was enrolled on the day before the date on which the employee was transferred.
+
+(2) **Benefits other than retirement benefits**
+
+  (A) *During first year*
+
+    (i) *Existing plans continue* — During the 1-year period following the transfer date, each transferred employee may retain membership in any employee benefit program (other than a retirement benefit program) of the agency from which the employee was transferred under this title,1 including any dental, vision, long term care, or life insurance program to which the employee belonged on the day before the transfer date.
+
+    (ii) *Employer’s contribution* — The Office of the Comptroller of the Currency or the Corporation, as appropriate, shall pay any employer cost required to extend coverage in the benefit program to the transferred employee as required under that program or negotiated agreements.
+
+  (B) *Dental, vision, or life insurance after first year* — If, after the 1-year period beginning on the transfer date, the Office of the Comptroller of the Currency or the Corporation determines that the Office of the Comptroller of the Currency or the Corporation, as the case may be, will not continue to participate in any dental, vision, or life insurance program of an agency from which an employee was transferred, a transferred employee who is a member of the program may, before the decision takes effect and without regard to any regularly scheduled open season, elect to enroll in—
+
+    (i) the enhanced dental benefits program established under chapter 89A of title 5;
+
+    (ii) the enhanced vision benefits established under chapter 89B of title 5; and
+
+    (iii) the Federal Employees’ Group Life Insurance Program established under chapter 87 of title 5, without regard to any requirement of insurability.
+
+  (C) *Long term care insurance after 1st year* — If, after the 1-year period beginning on the transfer date, the Office of the Comptroller of the Currency or the Corporation determines that the Office of the Comptroller of the Currency or the Corporation, as appropriate, will not continue to participate in any long term care insurance program of an agency from which an employee transferred, a transferred employee who is a member of such a program may, before the decision takes effect, elect to apply for coverage under the Federal Long Term Care Insurance Program established under chapter 90 of title 5 under the underwriting requirements applicable to a new active workforce member, as described in part 875 of title 5, Code of Federal Regulations (or any successor thereto).
+
+  (D) *Contribution of transferred employee*
+
+    (i) *In general* — Subject to clause (ii), a transferred employee who is enrolled in a plan under the Federal Employees Health Benefits Program shall pay any employee contribution required under the plan.
+
+    (ii) *Cost differential* — The Office of the Comptroller of the Currency or the Corporation, as applicable, shall pay any difference in cost between the employee contribution required under the plan provided to transferred employees by the agency from which the employee transferred on July 21, 2010, and the plan provided by the Office of the Comptroller of the Currency or the Corporation, as the case may be, under this section.
+
+    (iii) *Funds transfer* — The Office of the Comptroller of the Currency or the Corporation, as the case may be, shall transfer to the Employees Health Benefits Fund established under [section 8909 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8909&num=0&edition=prelim), an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing any benefits under this subparagraph that are not otherwise paid for by a transferred employee under clause (i).
+
+  (E) *Special provisions to ensure continuation of life insurance benefits*
+
+    (i) *In general* — An annuitant, as defined in [section 8901 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901&num=0&edition=prelim), who is enrolled in a life insurance plan administered by an agency from which employees are transferred under this title 1 on the day before the transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b), 8714a, 8714b, or 8714c of title 5, or by a life insurance plan established by the Office of the Comptroller of the Currency or the Corporation, as applicable, without regard to any regularly scheduled open season or any requirement of insurability.
+
+    (ii) *Contribution of transferred employee*
+
+      (I) *In general* — Subject to subclause (II), a transferred employee enrolled in a life insurance plan under this subparagraph shall pay any employee contribution required by the plan.
+
+      (II) *Cost differential* — The Office of the Comptroller of the Currency or the Corporation, as the case may be, shall pay any difference in cost between the benefits provided by the agency from which the employee transferred on July 21, 2010, and the benefits provided under this section.
+
+      (III) *Funds transfer* — The Office of the Comptroller of the Currency or the Corporation, as the case may be, shall transfer to the Federal Employees’ Group Life Insurance Fund established under [section 8714 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8714&num=0&edition=prelim), an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Federal Employees’ Group Life Insurance Fund for the cost to the Federal Employees’ Group Life Insurance Fund of providing benefits under this subparagraph not otherwise paid for by a transferred employee under subclause (I).
+
+      (IV) *Credit for time enrolled in other plans* — For any transferred employee, enrollment in a life insurance plan administered by the agency from which the employee transferred, immediately before enrollment in a life insurance plan under chapter 87 of title 5, shall be considered as enrollment in a life insurance plan under that chapter for purposes of [section 8706(b)(1)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8706/b/1/A&num=0&edition=prelim).
+
+**(j) Incorporation into agency pay system** Not later than 30 months after the transfer date, the Comptroller of the Currency and the Chairperson of the Corporation shall place each transferred employee into the established pay system and structure of the appropriate employing agency.
+
+**(k) Equitable treatment** In administering the provisions of this section, the Comptroller of the Currency and the Chairperson of the Corporation—
+
+(1) may not take any action that would unfairly disadvantage a transferred employee relative to any other employee of the Office of the Comptroller of the Currency or the Corporation on the basis of prior employment by the Office of Thrift Supervision;
+
+(2) may take such action as is appropriate in an individual case to ensure that a transferred employee receives equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time for prior periods of service with any Federal agency of the transferred employee;
+
+(3) shall, jointly with the Director of the Office of Thrift Supervision, develop and adopt procedures and safeguards designed to ensure that the requirements of this subsection are met; and
+
+(4) shall conduct a study detailing the position assignments of all employees transferred pursuant to subsection (a), describing the procedures and safeguards adopted pursuant to paragraph (3), and demonstrating that the requirements of this subsection have been met; and shall, not later than 365 days after the transfer date, submit a copy of such study to Congress.
+
+**(l) Reorganization**
+
+(1) **In general** — If the Comptroller of the Currency or the Chairperson of the Corporation determines, during the 2-year period beginning 1 year after the transfer date, that a reorganization of the staff of the Office of the Comptroller of the Currency or the Corporation, respectively, is required, the reorganization shall be deemed a “major reorganization” for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5.
+
+(2) **Service credit** — For purposes of this subsection, periods of service with a Federal home loan bank or a joint office of Federal home loan banks shall be credited as periods of service with a Federal agency.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsecs. (a)(1)(B)(i) and (i)(2)(A)(i), (E)(i), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5451"></a>
+## § 5451. Property transferred
+**(a) Property defined** For purposes of this section, the term “property” includes all real property (including leaseholds) and all personal property, including computers, furniture, fixtures, equipment, books, accounts, records, reports, files, memoranda, paper, reports of examination, work papers, and correspondence related to such reports, and any other information or materials.
+
+**(b) Property of the Office of Thrift Supervision**
+
+(1) **In general** — No later than 90 days after the transfer date, all property of the Office of Thrift Supervision (other than property described under paragraph (b)(2)) that the Comptroller of the Currency and the Chairperson of the Corporation jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Office of the Comptroller of the Currency or the Corporation under this title,11 See References in Text note below. shall be transferred to the Office of the Comptroller of the Currency or the Corporation in a manner consistent with the transfer of employees under this part.
+
+(2) **Personal property** — All books, accounts, records, reports, files, memoranda, papers, documents, reports of examination, work papers, and correspondence of the Office of Thrift Supervision that the Comptroller of the Currency, the Chairperson of the Corporation, and the Chairman of the Board of Governors jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Board of Governors under this title 1 shall be transferred to the Board of Governors in a manner consistent with the purposes of this title.1
+
+**(c) Contracts related to property transferred** Each contract, agreement, lease, license, permit, and similar arrangement relating to property transferred to the Office of the Comptroller of the Currency or the Corporation by this section shall be transferred to the Office of the Comptroller of the Currency or the Corporation, as appropriate, together with the property to which it relates.
+
+**(d) Preservation of property** Property identified for transfer under this section shall not be altered, destroyed, or deleted before transfer under this section.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (b), is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520, known as the Enhancing Financial Institution Safety and Soundness Act of 2010, which enacted this subchapter and sections 4b and 16 of this title, amended sections 1, 11, 248, 461, 481, 482, 1438, 1462, 1462a, 1463, to 1464, 1466a, 1467, 1467a, 1468, 1468a, to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, repealed [section 1441a of this title](./chapter-011-federal-home-loan-banks.md#section-1441a), enacted provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and [section 906 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906&num=0&edition=prelim), and amended provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and [section 509 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section509&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of title III to the Code, see Short title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5452"></a>
+## § 5452. Funds transferred
+
+The funds that, on the day before the transfer date, the Director of the Office of Thrift Supervision (in consultation with the Comptroller of the Currency, the Chairperson of the Corporation, and the Chairman of the Board of Governors) determines are not necessary to dispose of the affairs of the Office of Thrift Supervision under [section 5435 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5435) and are available to the Office of Thrift Supervision to pay the expenses of the Office of Thrift Supervision—
+
+(1) relating to the functions of the Office of Thrift Supervision transferred under [section 5412(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5412/b/2/B&num=0&edition=prelim), shall be transferred to the Office of the Comptroller of the Currency on the transfer date;
+
+(2) relating to the functions of the Office of Thrift Supervision transferred under [section 5412(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5412/b/2/C&num=0&edition=prelim), shall be transferred to the Corporation on the transfer date; and
+
+(3) relating to the functions of the Office of Thrift Supervision transferred under [section 5412(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5412/b/1/A&num=0&edition=prelim), shall be transferred to the Board of Governors on the transfer date.
+
+
+<a id="section-5461"></a>
+## § 5461. Implementation plan and reports
+**(a) Plan submission** Within 180 days of July 21, 2010, the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision, shall jointly submit a plan to the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Financial Services of the House of Representatives, and the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors detailing the steps the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision will take to implement the provisions of sections 301 through 326,11 See References in Text note below. and the provisions of the amendments made by such sections.
+
+**(b) Inspectors General review of the plan** Within 60 days of receiving the plan required under subsection (a), the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors shall jointly provide a written report to the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision and shall submit a copy to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives detailing whether the plan conforms with the provisions of sections 301 through 326,1 and the provisions of the amendments made by such sections, including—
+
+(1) whether the plan sufficiently takes into consideration the orderly transfer of personnel;
+
+(2) whether the plan describes procedures and safeguards to ensure that the Office of Thrift Supervision employees are not unfairly disadvantaged relative to employees of the Office of the Comptroller of the Currency and the Corporation;
+
+(3) whether the plan sufficiently takes into consideration the orderly transfer of authority and responsibilities;
+
+(4) whether the plan sufficiently takes into consideration the effective transfer of funds;
+
+(5) whether the plan sufficiently takes in 22 So in original. Probably should be “into”. consideration the orderly transfer of property; and
+
+(6) any additional recommendations for an orderly and effective process.
+
+**(c) Implementation reports** Not later than 6 months after the date on which the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives receives the report required under subsection (b), and every 6 months thereafter until all aspects of the plan have been implemented, the Inspectors General of the Department of the Treasury, the Corporation, and the Board of Governors shall jointly provide a written report on the status of the implementation of the plan to the Board of Governors, the Corporation, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision and shall submit a copy to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+### Statutory Notes
+
+#### References in Text
+Sections 301 through 326, referred to in subsecs. (a) and (b), are sections 301 to 326 of Pub. L. 111–203, which enacted sections 4b, 16, and 5401 to 5436 of this title, amended sections 1, 11, 248, 481, 482, 1813, and 1820 of this title and [section 3502 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), Public Printing and Documents, and enacted provisions set out as notes under sections 1 and 16 of this title.
+
+
+<a id="section-5462"></a>
+## § 5462. Branching
+
+Notwithstanding the Federal Deposit Insurance Act ([12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.), the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841) et seq.), or any other provision of Federal or State law, a savings association that becomes a bank may—
+
+(1) continue to operate any branch or agency that the savings association operated immediately before the savings association became a bank; and
+
+(2) establish, acquire, and operate additional branches and agencies at any location within any State in which the savings association operated a branch immediately before the savings association became a bank, if the law of the State in which the branch is located, or is to be located, would permit establishment of the branch if the bank were a State bank chartered by such State.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+
+
+<a id="section-5463"></a>
+## § 5463. Office of Minority and Women Inclusion
+**(a) Office of Minority and Women Inclusion**
+
+(1) **Establishment**
+
+  (A) *In general* — Except as provided in subparagraph (B), not later than 6 months after July 21, 2010, each agency shall establish an Office of Minority and Women Inclusion that shall be responsible for all matters of the agency relating to diversity in management, employment, and business activities.
+
+  (B) *Bureau* — The Bureau shall establish an Office of Minority and Women Inclusion not later than 6 months after the designated transfer date established under [section 5582 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5582).
+
+(2) **Transfer of responsibilities** — Each agency that, on the day before July 21, 2010, assigned the responsibilities described in paragraph (1) (or comparable responsibilities) to another office of the agency shall ensure that such responsibilities are transferred to the Office.
+
+(3) **Duties with respect to civil rights laws** — The responsibilities described in paragraph (1) do not include enforcement of statutes, regulations, or executive orders pertaining to civil rights, except each Director shall coordinate with the agency administrator, or the designee of the agency administrator, regarding the design and implementation of any remedies resulting from violations of such statutes, regulations, or executive orders.
+
+**(b) Director**
+
+(1) **In general** — The Director of each Office shall be appointed by, and shall report to, the agency administrator. The position of Director shall be a career reserved position in the Senior Executive Service, as that position is defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim), or an equivalent designation.
+
+(2) **Duties** — Each Director shall develop standards for—
+
+  (A) equal employment opportunity and the racial, ethnic, and gender diversity of the workforce and senior management of the agency;
+
+  (B) increased participation of minority-owned and women-owned businesses in the programs and contracts of the agency, including standards for coordinating technical assistance to such businesses; and
+
+  (C) assessing the diversity policies and practices of entities regulated by the agency.
+
+(3) **Other duties** — Each Director shall advise the agency administrator on the impact of the policies and regulations of the agency on minority-owned and women-owned businesses.
+
+(4) **Rule of construction** — Nothing in paragraph (2)(C) may be construed to mandate any requirement on or otherwise affect the lending policies and practices of any regulated entity, or to require any specific action based on the findings of the assessment.
+
+**(c) Inclusion in all levels of business activities**
+
+(1) **In general** — The Director of each Office shall develop and implement standards and procedures to ensure, to the maximum extent possible, the fair inclusion and utilization of minorities, women, and minority-owned and women-owned businesses in all business and activities of the agency at all levels, including in procurement, insurance, and all types of contracts.
+
+(2) **Contracts** — The procedures established by each agency for review and evaluation of contract proposals and for hiring service providers shall include, to the extent consistent with applicable law, a component that gives consideration to the diversity of the applicant. Such procedure shall include a written statement, in a form and with such content as the Director shall prescribe, that a contractor shall ensure, to the maximum extent possible, the fair inclusion of women and minorities in the workforce of the contractor and, as applicable, subcontractors.
+
+(3) **Termination**
+
+  (A) *Determination* — The standards and procedures developed and implemented under this subsection shall include a procedure for the Director to make a determination whether an agency contractor, and, as applicable, a subcontractor has failed to make a good faith effort to include minorities and women in their workforce.
+
+  (B) *Effect of determination*
+
+    (i) *Recommendation to agency administrator* — Upon a determination described in subparagraph (A), the Director shall make a recommendation to the agency administrator that the contract be terminated.
+
+    (ii) *Action by agency administrator* — Upon receipt of a recommendation under clause (i), the agency administrator may—
+
+      (I) terminate the contract;
+
+      (II) make a referral to the Office of Federal Contract Compliance Programs of the Department of Labor; or
+
+      (III) take other appropriate action.
+
+**(d) Applicability** This section shall apply to all contracts of an agency for services of any kind, including the services of financial institutions, investment banking firms, mortgage banking firms, asset management firms, brokers, dealers, financial services entities, underwriters, accountants, investment consultants, and providers of legal services. The contracts referred to in this subsection include all contracts for all business and activities of an agency, at all levels, including contracts for the issuance or guarantee of any debt, equity, or security, the sale of assets, the management of the assets of the agency, the making of equity investments by the agency, and the implementation by the agency of programs to address economic recovery.
+
+**(e) Reports** Each Office shall submit to Congress an annual report regarding the actions taken by the agency and the Office pursuant to this section, which shall include—
+
+(1) a statement of the total amounts paid by the agency to contractors since the previous report;
+
+(2) the percentage of the amounts described in paragraph (1) that were paid to contractors described in subsection (c)(1);
+
+(3) the successes achieved and challenges faced by the agency in operating minority and women outreach programs;
+
+(4) the challenges the agency may face in hiring qualified minority and women employees and contracting with qualified minority-owned and women-owned businesses; and
+
+(5) any other information, findings, conclusions, and recommendations for legislative or agency action, as the Director determines appropriate.
+
+**(f) Diversity in agency workforce** Each agency shall take affirmative steps to seek diversity in the workforce of the agency at all levels of the agency in a manner consistent with applicable law. Such steps shall include—
+
+(1) recruiting at historically black colleges and universities, Hispanic-serving institutions, women’s colleges, and colleges that typically serve majority minority populations;
+
+(2) sponsoring and recruiting at job fairs in urban communities;
+
+(3) placing employment advertisements in newspapers and magazines oriented toward minorities and women;
+
+(4) partnering with organizations that are focused on developing opportunities for minorities and women to place talented young minorities and women in industry internships, summer employment, and full-time positions;
+
+(5) where feasible, partnering with inner-city high schools, girls’ high schools, and high schools with majority minority populations to establish or enhance financial literacy programs and provide mentoring; and
+
+(6) any other mass media communications that the Office determines necessary.
+
+**(g) Definitions** For purposes of this section, the following definitions shall apply:
+
+(1) **Agency** — The term “agency” means—
+
+  (A) the Departmental Offices of the Department of the Treasury;
+
+  (B) the Corporation;
+
+  (C) the Federal Housing Finance Agency;
+
+  (D) each of the Federal reserve banks;
+
+  (E) the Board;
+
+  (F) the National Credit Union Administration;
+
+  (G) the Office of the Comptroller of the Currency;
+
+  (H) the Commission; and
+
+  (I) the Bureau.
+
+(2) **Agency administrator** — The term “agency administrator” means the head of an agency.
+
+(3) **Minority** — The term “minority” has the same meaning as in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 ([12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) note).
+
+(4) **Minority-owned business** — The term “minority-owned business” has the same meaning as in [section 1441a(r)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/r/4/A&num=0&edition=prelim), as in effect on the day before the transfer date.
+
+(5) **Office** — The term “Office” means the Office of Minority and Women Inclusion established by an agency under subsection (a).
+
+(6) **Women-owned business** — The term “women-owned business” has the meaning given the term “women’s business” in [section 1441a(r)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/r/4/B&num=0&edition=prelim), as in effect on the day before the transfer date.
+
+### Statutory Notes
+
+#### References in Text
+Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (g)(3), is section 1204(c) of Pub. L. 101–73, which is set out as a note under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811).
+
+
+<a id="section-5464"></a>
+## § 5464. Findings and purposes
+**(a) Findings** Congress finds the following:
+
+(1) The proper functioning of the financial markets is dependent upon safe and efficient arrangements for the clearing and settlement of payment, securities, and other financial transactions.
+
+(2) Financial market utilities that conduct or support multilateral payment, clearing, or settlement activities may reduce risks for their participants and the broader financial system, but such utilities may also concentrate and create new risks and thus must be well designed and operated in a safe and sound manner.
+
+(3) Payment, clearing, and settlement activities conducted by financial institutions also present important risks to the participating financial institutions and to the financial system.
+
+(4) Enhancements to the regulation and supervision of systemically important financial market utilities and the conduct of systemically important payment, clearing, and settlement activities by financial institutions are necessary—
+
+  (A) to provide consistency;
+
+  (B) to promote robust risk management and safety and soundness;
+
+  (C) to reduce systemic risks; and
+
+  (D) to support the stability of the broader financial system.
+
+**(b) Purpose** The purpose of this subchapter is to mitigate systemic risk in the financial system and promote financial stability by—
+
+(1) authorizing the Board of Governors to promote uniform standards for the—
+
+  (A) management of risks by systemically important financial market utilities; and
+
+  (B) conduct of systemically important payment, clearing, and settlement activities by financial institutions;
+
+(2) providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important financial market utilities;
+
+(3) strengthening the liquidity of systemically important financial market utilities; and
+
+(4) providing the Board of Governors an enhanced role in the supervision of risk management standards for systemically important payment, clearing, and settlement activities by financial institutions.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 111–203, title VIII, § 814, July 21, 2010, 124 Stat. 1822, provided that: “This title [enacting this subchapter] is effective as of the date of enactment of this Act [July 21, 2010].”
+
+#### Short Title
+This subchapter known as the “Payment, Clearing, and Settlement Supervision Act of 2010”, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5465"></a>
+## § 5465. Definitions
+
+In this subchapter, the following definitions shall apply:
+
+(1) **Appropriate financial regulator** — The term “appropriate financial regulator” means—
+
+  (A) the primary financial regulatory agency, as defined in [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301);
+
+  (B) the National Credit Union Administration, with respect to any insured credit union under the Federal Credit Union Act ([12 U.S.C. 1751](./chapter-014-federal-credit-unions.md#section-1751) et seq.); and
+
+  (C) the Board of Governors, with respect to organizations operating under section 25A of the Federal Reserve Act ([12 U.S.C. 611](./chapter-006-foreign-banking.md#section-611)), and any other financial institution engaged in a designated activity.
+
+(2) **Designated activity** — The term “designated activity” means a payment, clearing, or settlement activity that the Council has designated as systemically important under [section 5463 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5463).
+
+(3) **Designated clearing entity** — The term “designated clearing entity” means a designated financial market utility that is a derivatives clearing organization registered under section 5b of the Commodity Exchange Act ([7 U.S.C. 7a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7a–1&num=0&edition=prelim)) or a clearing agency registered with the Securities and Exchange Commission under section 17A of the Securities Exchange Act of 1934 ([15 U.S.C. 78q–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78q–1&num=0&edition=prelim)).
+
+(4) **Designated financial market utility** — The term “designated financial market utility” means a financial market utility that the Council has designated as systemically important under [section 5463 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5463).
+
+(5) **Financial institution**
+
+  (A) *In general* — The term “financial institution” means—
+
+    (i) a depository institution, as defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813);
+
+    (ii) a branch or agency of a foreign bank, as defined in [section 3101 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3101);
+
+    (iii) an organization operating under section 25 or 25A of the Federal Reserve Act ([12 U.S.C. 601–604a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section601–604a&num=0&edition=prelim) and 611 through 631);
+
+    (iv) a credit union, as defined in section 101 of the Federal Credit Union Act ([12 U.S.C. 1752](./chapter-014-federal-credit-unions.md#section-1752)); 11 See References in Text note below.
+
+    (v) a broker or dealer, as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim));
+
+    (vi) an investment company, as defined in [section 80a–3 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3&num=0&edition=prelim);
+
+    (vii) an insurance company, as defined in [section 80a–2 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2&num=0&edition=prelim);
+
+    (viii) an investment adviser, as defined in [section 80b–2 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–2&num=0&edition=prelim);
+
+    (ix) a futures commission merchant, commodity trading advisor, or commodity pool operator, as defined in section 1a of the Commodity Exchange Act ([7 U.S.C. 1a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1a&num=0&edition=prelim)); and
+
+    (x) any company engaged in activities that are financial in nature or incidental to a financial activity, as described in section 4 of the Bank Holding Company Act of 1956 ([12 U.S.C. 1843(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1843/k&num=0&edition=prelim)).
+
+  (B) *Exclusions* — The term “financial institution” does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 ([15 U.S.C. 78a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) et seq.), or designated clearing entities, provided that the exclusions in this subparagraph apply only with respect to the activities that require the entity to be so registered.
+
+(6) **Financial market utility**
+
+  (A) *Inclusion* — The term “financial market utility” means any person that manages or operates a multilateral system for the purpose of transferring, clearing, or settling payments, securities, or other financial transactions among financial institutions or between financial institutions and the person.
+
+  (B) *Exclusions* — The term “financial market utility” does not include—
+
+    (i) designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act ([7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.), or national securities exchanges, national securities associations, alternative trading systems, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 ([15 U.S.C. 78a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) et seq.), solely by reason of their providing facilities for comparison of data respecting the terms of settlement of securities or futures transactions effected on such exchange or by means of any electronic system operated or controlled by such entities, provided that the exclusions in this clause apply only with respect to the activities that require the entity to be so registered; and
+
+    (ii) any broker, dealer, transfer agent, or investment company, or any futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator, solely by reason of functions performed by such institution as part of brokerage, dealing, transfer agency, or investment company activities, or solely by reason of acting on behalf of a financial market utility or a participant therein in connection with the furnishing by the financial market utility of services to its participants or the use of services of the financial market utility by its participants, provided that services performed by such institution do not constitute critical risk management or processing functions of the financial market utility.
+
+(7) **Payment, clearing, or settlement activity**
+
+  (A) *In general* — The term “payment, clearing, or settlement activity” means an activity carried out by 1 or more financial institutions to facilitate the completion of financial transactions, but shall not include any offer or sale of a security under the Securities Act of 1933 ([15 U.S.C. 77a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) et seq.), or any quotation, order entry, negotiation, or other pre-trade activity or execution activity.
+
+  (B) *Financial transaction* — For the purposes of subparagraph (A), the term “financial transaction” includes—
+
+    (i) funds transfers;
+
+    (ii) securities contracts;
+
+    (iii) contracts of sale of a commodity for future delivery;
+
+    (iv) forward contracts;
+
+    (v) repurchase agreements;
+
+    (vi) swaps;
+
+    (vii) security-based swaps;
+
+    (viii) swap agreements;
+
+    (ix) security-based swap agreements;
+
+    (x) foreign exchange contracts;
+
+    (xi) financial derivatives contracts; and
+
+    (xii) any similar transaction that the Council determines to be a financial transaction for purposes of this subchapter.
+
+  (C) *Included activities* — When conducted with respect to a financial transaction, payment, clearing, and settlement activities may include—
+
+    (i) the calculation and communication of unsettled financial transactions between counterparties;
+
+    (ii) the netting of transactions;
+
+    (iii) provision and maintenance of trade, contract, or instrument information;
+
+    (iv) the management of risks and activities associated with continuing financial transactions;
+
+    (v) transmittal and storage of payment instructions;
+
+    (vi) the movement of funds;
+
+    (vii) the final settlement of financial transactions; and
+
+    (viii) other similar functions that the Council may determine.
+
+  (D) *Exclusion* — Payment, clearing, and settlement activities shall not include public reporting of swap transaction data under section 727 or 763(i) of the Wall Street Transparency and Accountability Act of 2010.
+
+(8) **Supervisory Agency**
+
+  (A) *In general* — The term “Supervisory Agency” means the Federal agency that has primary jurisdiction over a designated financial market utility under Federal banking, securities, or commodity futures laws, as follows:
+
+    (i) The Securities and Exchange Commission, with respect to a designated financial market utility that is a clearing agency registered with the Securities and Exchange Commission.
+
+    (ii) The Commodity Futures Trading Commission, with respect to a designated financial market utility that is a derivatives clearing organization registered with the Commodity Futures Trading Commission.
+
+    (iii) The appropriate Federal banking agency, with respect to a designated financial market utility that is an institution described in [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim).
+
+    (iv) The Board of Governors, with respect to a designated financial market utility that is otherwise not subject to the jurisdiction of any agency listed in clauses (i), (ii), and (iii).
+
+  (B) *Multiple agency jurisdiction* — If a designated financial market utility is subject to the jurisdictional supervision of more than 1 agency listed in subparagraph (A), then such agencies should agree on 1 agency to act as the Supervisory Agency, and if such agencies cannot agree on which agency has primary jurisdiction, the Council shall decide which agency is the Supervisory Agency for purposes of this subchapter.
+
+(9) **Systemically important and systemic importance** — The terms “systemically important” and “systemic importance” mean a situation where the failure of or a disruption to the functioning of a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Credit Union Act, referred to in par. (1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. Section 101 of the Act, classified to [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752), does not contain a definition of “credit union”. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
+
+Sections 25 and 25A of the Federal Reserve Act, referred to in pars. (1)(C) and (5)(A)(iii), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
+
+The Commodity Exchange Act, referred to in pars. (5)(B) and (6)(B)(i), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+
+The Securities Exchange Act of 1934, referred to in pars. (5)(B) and (6)(B)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+
+The Securities Act of 1933, referred to in par. (7)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+
+Sections 727 and 763(i) of the Wall Street Transparency and Accountability Act of 2010, referred to in par. (7)(D), are sections 727 and 763(i) of Pub. L. 111–203, which amended [section 2 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2&num=0&edition=prelim), Agriculture, and [section 78m of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), Commerce and Trade, respectively, effective on the later of 360 days after July 21, 2010, or, to the extent it requires a rulemaking, not less than 60 days after publication of the final rule or regulation.
+
+
+<a id="section-5466"></a>
+## § 5466. Designation of systemic importance
+**(a) Designation**
+
+(1) **Financial stability oversight council** — The Council, on a nondelegable basis and by a vote of not fewer than ⅔ of members then serving, including an affirmative vote by the Chairperson of the Council, shall designate those financial market utilities or payment, clearing, or settlement activities that the Council determines are, or are likely to become, systemically important.
+
+(2) **Considerations** — In determining whether a financial market utility or payment, clearing, or settlement activity is, or is likely to become, systemically important, the Council shall take into consideration the following:
+
+  (A) The aggregate monetary value of transactions processed by the financial market utility or carried out through the payment, clearing, or settlement activity.
+
+  (B) The aggregate exposure of the financial market utility or a financial institution engaged in payment, clearing, or settlement activities to its counterparties.
+
+  (C) The relationship, interdependencies, or other interactions of the financial market utility or payment, clearing, or settlement activity with other financial market utilities or payment, clearing, or settlement activities.
+
+  (D) The effect that the failure of or a disruption to the financial market utility or payment, clearing, or settlement activity would have on critical markets, financial institutions, or the broader financial system.
+
+  (E) Any other factors that the Council deems appropriate.
+
+**(b) Rescission of designation**
+
+(1) **In general** — The Council, on a nondelegable basis and by a vote of not fewer than ⅔ of members then serving, including an affirmative vote by the Chairperson of the Council, shall rescind a designation of systemic importance for a designated financial market utility or designated activity if the Council determines that the utility or activity no longer meets the standards for systemic importance.
+
+(2) **Effect of rescission** — Upon rescission, the financial market utility or financial institutions conducting the activity will no longer be subject to the provisions of this subchapter or any rules or orders prescribed under this subchapter.
+
+**(c) Consultation and notice and opportunity for hearing**
+
+(1) **Consultation** — Before making any determination under subsection (a) or (b), the Council shall consult with the relevant Supervisory Agency and the Board of Governors.
+
+(2) **Advance notice and opportunity for hearing**
+
+  (A) *In general* — Before making any determination under subsection (a) or (b), the Council shall provide the financial market utility or, in the case of a payment, clearing, or settlement activity, financial institutions with advance notice of the proposed determination of the Council.
+
+  (B) *Notice in Federal Register* — The Council shall provide such advance notice to financial institutions by publishing a notice in the Federal Register.
+
+  (C) *Requests for hearing* — Within 30 days from the date of any notice of the proposed determination of the Council, the financial market utility or, in the case of a payment, clearing, or settlement activity, a financial institution engaged in the designated activity may request, in writing, an opportunity for a written or oral hearing before the Council to demonstrate that the proposed designation or rescission of designation is not supported by substantial evidence.
+
+  (D) *Written submissions* — Upon receipt of a timely request, the Council shall fix a time, not more than 30 days after receipt of the request, unless extended at the request of the financial market utility or financial institution, and place at which the financial market utility or financial institution may appear, personally or through counsel, to submit written materials, or, at the sole discretion of the Council, oral testimony or oral argument.
+
+(3) **Emergency exception**
+
+  (A) *Waiver or modification by vote of the Council* — The Council may waive or modify the requirements of paragraph (2) if the Council determines, by an affirmative vote of not fewer than ⅔ of members then serving, including an affirmative vote by the Chairperson of the Council, that the waiver or modification is necessary to prevent or mitigate an immediate threat to the financial system posed by the financial market utility or the payment, clearing, or settlement activity.
+
+  (B) *Notice of waiver or modification* — The Council shall provide notice of the waiver or modification to the financial market utility concerned or, in the case of a payment, clearing, or settlement activity, to financial institutions, as soon as practicable, which shall be no later than 24 hours after the waiver or modification in the case of a financial market utility and 3 business days in the case of financial institutions. The Council shall provide the notice to financial institutions by posting a notice on the website of the Council and by publishing a notice in the Federal Register.
+
+**(d) Notification of final determination**
+
+(1) **After hearing** — Within 60 days of any hearing under subsection (c)(2), the Council shall notify the financial market utility or financial institutions of the final determination of the Council in writing, which shall include findings of fact upon which the determination of the Council is based.
+
+(2) **When no hearing requested** — If the Council does not receive a timely request for a hearing under subsection (c)(2), the Council shall notify the financial market utility or financial institutions of the final determination of the Council in writing not later than 30 days after the expiration of the date by which a financial market utility or a financial institution could have requested a hearing. All notices to financial institutions under this subsection shall be published in the Federal Register.
+
+**(e) Extension of time periods** The Council may extend the time periods established in subsections (c) and (d) as the Council determines to be necessary or appropriate.
+
+
+<a id="section-5467"></a>
+## § 5467. Standards for systemically important financial market utilities and payment, clearing, or settlement activities
+**(a) Authority to prescribe standards**
+
+(1) **Board of Governors** — Except as provided in paragraph (2), the Board of Governors, by rule or order, and in consultation with the Council and the Supervisory Agencies, shall prescribe risk management standards, taking into consideration relevant international standards and existing prudential requirements, governing—
+
+  (A) the operations related to the payment, clearing, and settlement activities of designated financial market utilities; and
+
+  (B) the conduct of designated activities by financial institutions.
+
+(2) **Special procedures for designated clearing entities and designated activities of certain financial institutions**
+
+  (A) *CFTC and Commission* — The Commodity Futures Trading Commission and the Commission may each prescribe regulations, in consultation with the Council and the Board of Governors, containing risk management standards, taking into consideration relevant international standards and existing prudential requirements, for those designated clearing entities and financial institutions engaged in designated activities for which each is the Supervisory Agency or the appropriate financial regulator, governing—
+
+    (i) the operations related to payment, clearing, and settlement activities of such designated clearing entities; and
+
+    (ii) the conduct of designated activities by such financial institutions.
+
+  (B) *Review and determination* — The Board of Governors may determine that existing prudential requirements of the Commodity Futures Trading Commission, the Commission, or both (including requirements prescribed pursuant to subparagraph (A)) with respect to designated clearing entities and financial institutions engaged in designated activities for which the Commission or the Commodity Futures Trading Commission is the Supervisory Agency or the appropriate financial regulator are insufficient to prevent or mitigate significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States.
+
+  (C) *Written determination* — Any determination by the Board of Governors under subparagraph (B) shall be provided in writing to the Commodity Futures Trading Commission or the Commission, as applicable, and the Council, and shall explain why existing prudential requirements, considered as a whole, are insufficient to ensure that the operations and activities of the designated clearing entities or the activities of financial institutions described in subparagraph (B) will not pose significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. The Board of Governors’ determination shall contain a detailed analysis supporting its findings and identify the specific prudential requirements that are insufficient.
+
+  (D) *CFTC and Commission response* — The Commodity Futures Trading Commission or the Commission, as applicable, shall within 60 days either object to the Board of Governors’ determination with a detailed analysis as to why existing prudential requirements are sufficient, or submit an explanation to the Council and the Board of Governors describing the actions to be taken in response to the Board of Governors’ determination.
+
+  (E) *Authorization* — Upon an affirmative vote by not fewer than 2/3 of members then serving on the Council, the Council shall either find that the response submitted under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such risk management standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient.” 11 So in original. The closing quotation marks probably should not appear.
+
+**(b) Objectives and principles** The objectives and principles for the risk management standards prescribed under subsection (a) shall be to—
+
+(1) promote robust risk management;
+
+(2) promote safety and soundness;
+
+(3) reduce systemic risks; and
+
+(4) support the stability of the broader financial system.
+
+**(c) Scope** The standards prescribed under subsection (a) may address areas such as—
+
+(1) risk management policies and procedures;
+
+(2) margin and collateral requirements;
+
+(3) participant or counterparty default policies and procedures;
+
+(4) the ability to complete timely clearing and settlement of financial transactions;
+
+(5) capital and financial resource requirements for designated financial market utilities; and
+
+(6) other areas that are necessary to achieve the objectives and principles in subsection (b).
+
+**(d) Limitation on scope** Except as provided in subsections (e) and (f) of [section 5466 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5466), nothing in this subchapter shall be construed to permit the Council or the Board of Governors to take any action or exercise any authority granted to the Commodity Futures Trading Commission under [section 2(h) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h&num=0&edition=prelim) or the Securities and Exchange Commission under [section 78c–3(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a&num=0&edition=prelim), including—
+
+(1) the approval of, disapproval of, or stay of the clearing requirement for any group, category, type, or class of swaps that a designated clearing entity may accept for clearing;
+
+(2) the determination that any group, category, type, or class of swaps shall be subject to the mandatory clearing requirement of [section 2(h)(1) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h/1&num=0&edition=prelim) or [section 78c–3(a)(1) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a/1&num=0&edition=prelim);
+
+(3) the determination that any person is exempt from the mandatory clearing requirement of [section 2(h)(1) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2/h/1&num=0&edition=prelim) or [section 78c–3(a)(1) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c–3/a/1&num=0&edition=prelim); or
+
+(4) any authority granted to the Commodity Futures Trading Commission or the Securities and Exchange Commission with respect to transaction reporting or trade execution.
+
+**(e) Threshold level** The standards prescribed under subsection (a) governing the conduct of designated activities by financial institutions shall, where appropriate, establish a threshold as to the level or significance of engagement in the activity at which a financial institution will become subject to the standards with respect to that activity.
+
+**(f) Compliance required** Designated financial market utilities and financial institutions subject to the standards prescribed under subsection (a) for a designated activity shall conduct their operations in compliance with the applicable risk management standards.
+
+
+<a id="section-5468"></a>
+## § 5468. Operations of designated financial market utilities
+**(a) Federal Reserve account and services** The Board of Governors may authorize a Federal Reserve Bank to establish and maintain an account for a designated financial market utility and provide the services listed in section 11A(b) of the Federal Reserve Act ([12 U.S.C. 248a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section248a/b&num=0&edition=prelim)) and deposit accounts under the first undesignated paragraph of section 13 of the Federal Reserve Act ([12 U.S.C. 342](./chapter-003-federal-reserve-system.md#section-342)) to the designated financial market utility that the Federal Reserve Bank is authorized under the Federal Reserve Act [[12 U.S.C. 221](./chapter-003-federal-reserve-system.md#section-221) et seq.] to provide to a depository institution, subject to any applicable rules, orders, standards, or guidelines prescribed by the Board of Governors.
+
+**(b) Advances** The Board of Governors may authorize a Federal Reserve bank under section 10B of the Federal Reserve Act ([12 U.S.C. 347b](./chapter-003-federal-reserve-system.md#section-347b)) to provide to a designated financial market utility discount and borrowing privileges only in unusual or exigent circumstances, upon the affirmative vote of a majority of the Board of Governors then serving (or such other number in accordance with the provisions of section 11(r)(2) of the Federal Reserve Act ([12 U.S.C. 248(r)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section248/r/2&num=0&edition=prelim)) 11 So in original. Another closing parenthesis probably should appear. after consultation with the Secretary, and upon a showing by the designated financial market utility that it is unable to secure adequate credit accommodations from other banking institutions. All such discounts and borrowing privileges shall be subject to such other limitations, restrictions, and regulations as the Board of Governors may prescribe. Access to discount and borrowing privileges under section 10B of the Federal Reserve Act as authorized in this section does not require a designated financial market utility to be or become a bank or bank holding company.
+
+**(c) Earnings on Federal Reserve balances** A Federal Reserve Bank may pay earnings on balances maintained by or on behalf of a designated financial market utility in the same manner and to the same extent as the Federal Reserve Bank may pay earnings to a depository institution under the Federal Reserve Act [[12 U.S.C. 221](./chapter-003-federal-reserve-system.md#section-221) et seq.], subject to any applicable rules, orders, standards, or guidelines prescribed by the Board of Governors.
+
+**(d) Reserve requirements** The Board of Governors may exempt a designated financial market utility from, or modify any, reserve requirements under section 19 of the Federal Reserve Act ([12 U.S.C. 461](./chapter-003-federal-reserve-system.md#section-461)) applicable to a designated financial market utility.
+
+**(e) Changes to rules, procedures, or operations**
+
+(1) **Advance notice**
+
+  (A) *Advance notice of proposed changes required* — A designated financial market utility shall provide notice 60 days in advance notice 22 So in original. The word “notice” probably should not appear. to its Supervisory Agency of any proposed change to its rules, procedures, or operations that could, as defined in rules of each Supervisory Agency, materially affect, the nature or level of risks presented by the designated financial market utility.
+
+  (B) *Terms and standards prescribed by the Supervisory Agencies* — Each Supervisory Agency, in consultation with the Board of Governors, shall prescribe regulations that define and describe the standards for determining when notice is required to be provided under subparagraph (A).
+
+  (C) *Contents of notice* — The notice of a proposed change shall describe—
+
+    (i) the nature of the change and expected effects on risks to the designated financial market utility, its participants, or the market; and
+
+    (ii) how the designated financial market utility plans to manage any identified risks.
+
+  (D) *Additional information* — The Supervisory Agency may require a designated financial market utility to provide any information necessary to assess the effect the proposed change would have on the nature or level of risks associated with the designated financial market utility’s payment, clearing, or settlement activities and the sufficiency of any proposed risk management techniques.
+
+  (E) *Notice of objection* — The Supervisory Agency shall notify the designated financial market utility of any objection regarding the proposed change within 60 days from the later of—
+
+    (i) the date that the notice of the proposed change is received; or
+
+    (ii) the date any further information requested for consideration of the notice is received.
+
+  (F) *Change not allowed if objection* — A designated financial market utility shall not implement a change to which the Supervisory Agency has an objection.
+
+  (G) *Change allowed if no objection within 60 days* — A designated financial market utility may implement a change if it has not received an objection to the proposed change within 60 days of the later of—
+
+    (i) the date that the Supervisory Agency receives the notice of proposed change; or
+
+    (ii) the date the Supervisory Agency receives any further information it requests for consideration of the notice.
+
+  (H) *Review extension for novel or complex issues* — The Supervisory Agency may, during the 60-day review period, extend the review period for an additional 60 days for proposed changes that raise novel or complex issues, subject to the Supervisory Agency providing the designated financial market utility with prompt written notice of the extension. Any extension under this subparagraph will extend the time periods under subparagraphs (E) and (G).
+
+  (I) *Change allowed earlier if notified of no objection* — A designated financial market utility may implement a change in less than 60 days from the date of receipt of the notice of proposed change by the Supervisory Agency, or the date the Supervisory Agency receives any further information it requested, if the Supervisory Agency notifies the designated financial market utility in writing that it does not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Supervisory Agency.
+
+(2) **Emergency changes**
+
+  (A) *In general* — A designated financial market utility may implement a change that would otherwise require advance notice under this subsection if it determines that—
+
+    (i) an emergency exists; and
+
+    (ii) immediate implementation of the change is necessary for the designated financial market utility to continue to provide its services in a safe and sound manner.
+
+  (B) *Notice required within 24 hours* — The designated financial market utility shall provide notice of any such emergency change to its Supervisory Agency, as soon as practicable, which shall be no later than 24 hours after implementation of the change.
+
+  (C) *Contents of emergency notice* — In addition to the information required for changes requiring advance notice, the notice of an emergency change shall describe—
+
+    (i) the nature of the emergency; and
+
+    (ii) the reason the change was necessary for the designated financial market utility to continue to provide its services in a safe and sound manner.
+
+  (D) *Modification or rescission of change may be required* — The Supervisory Agency may require modification or rescission of the change if it finds that the change is not consistent with the purposes of this Act or any applicable rules, orders, or standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim).
+
+(3) **Copying the Board of Governors** — The Supervisory Agency shall provide the Board of Governors concurrently with a complete copy of any notice, request, or other information it issues, submits, or receives under this subsection.
+
+(4) **Consultation with Board of Governors** — Before taking any action on, or completing its review of, a change proposed by a designated financial market utility, the Supervisory Agency shall consult with the Board of Governors.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Reserve Act, referred to in subsecs. (a) and (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+
+This Act, referred to in subsec. (e)(2)(D), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5469"></a>
+## § 5469. Examination of and enforcement actions against designated financial market utilities
+**(a) Examination** Notwithstanding any other provision of law and subject to subsection (d), the Supervisory Agency shall conduct examinations of a designated financial market utility at least once annually in order to determine the following:
+
+(1) The nature of the operations of, and the risks borne by, the designated financial market utility.
+
+(2) The financial and operational risks presented by the designated financial market utility to financial institutions, critical markets, or the broader financial system.
+
+(3) The resources and capabilities of the designated financial market utility to monitor and control such risks.
+
+(4) The safety and soundness of the designated financial market utility.
+
+(5) The designated financial market utility’s compliance with—
+
+  (A) this subchapter; and
+
+  (B) the rules and orders prescribed under this subchapter.
+
+**(b) Service providers** Whenever a service integral to the operation of a designated financial market utility is performed for the designated financial market utility by another entity, whether an affiliate or non-affiliate and whether on or off the premises of the designated financial market utility, the Supervisory Agency may examine whether the provision of that service is in compliance with applicable law, rules, orders, and standards to the same extent as if the designated financial market utility were performing the service on its own premises.
+
+**(c) Enforcement** For purposes of enforcing the provisions of this subchapter, a designated financial market utility shall be subject to, and the appropriate Supervisory Agency shall have authority under the provisions of subsections (b) through (n) of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818) in the same manner and to the same extent as if the designated financial market utility was an insured depository institution and the Supervisory Agency was the appropriate Federal banking agency for such insured depository institution.
+
+**(d) Board of Governors involvement in examinations**
+
+(1) **Board of Governors consultation on examination planning** — The Supervisory Agency shall consult annually with the Board of Governors regarding the scope and methodology of any examination conducted under subsections (a) and (b). The Supervisory Agency shall lead all examinations conducted under subsections (a) and (b) 11 So in original. Probably should be followed by a period.
+
+(2) **Board of Governors participation in examination** — The Board of Governors may, in its discretion, participate in any examination led by a Supervisory Agency and conducted under subsections (a) and (b).
+
+**(e) Board of Governors enforcement recommendations**
+
+(1) **Recommendation** — The Board of Governors may, after consulting with the Council and the Supervisory Agency, at any time recommend to the Supervisory Agency that such agency take enforcement action against a designated financial market utility in order to prevent or mitigate significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. Any such recommendation for enforcement action shall provide a detailed analysis supporting the recommendation of the Board of Governors.
+
+(2) **Consideration** — The Supervisory Agency shall consider the recommendation of the Board of Governors and submit a response to the Board of Governors within 60 days.
+
+(3) **Binding arbitration** — If the Supervisory Agency rejects, in whole or in part, the recommendation of the Board of Governors, the Board of Governors may refer the recommendation to the Council for a binding decision on whether an enforcement action is warranted.
+
+(4) **Enforcement action** — Upon an affirmative vote by a majority of the Council in favor of the Board of Governors’ recommendation under paragraph (3), the Council may require the Supervisory Agency to—
+
+  (A) exercise the enforcement authority referenced in subsection (c); and
+
+  (B) take enforcement action against the designated financial market utility.
+
+**(f) Emergency enforcement actions by the Board of Governors**
+
+(1) **Imminent risk of substantial harm** — The Board of Governors may, after consulting with the Supervisory Agency and upon an affirmative vote by a majority the Council, take enforcement action against a designated financial market utility if the Board of Governors has reasonable cause to conclude that—
+
+  (A) either—
+
+    (i) an action engaged in, or contemplated by, a designated financial market utility (including any change proposed by the designated financial market utility to its rules, procedures, or operations that would otherwise be subject to [section 5465(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5465/e&num=0&edition=prelim)) poses an imminent risk of substantial harm to financial institutions, critical markets, or the broader financial system of the United States; or
+
+    (ii) the condition of a designated financial market utility poses an imminent risk of substantial harm to financial institutions, critical markets, or the broader financial system; and
+
+  (B) the imminent risk of substantial harm precludes the Board of Governors’ use of the procedures in subsection (e).
+
+(2) **Enforcement authority** — For purposes of taking enforcement action under paragraph (1), a designated financial market utility shall be subject to, and the Board of Governors shall have authority under 22 So in original. Probably should be followed by a comma. the provisions of subsections (b) through (n) of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818) in the same manner and to the same extent as if the designated financial market utility was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+
+
+<a id="section-5470"></a>
+## § 5470. Examination of and enforcement actions against financial institutions subject to standards for designated activities
+**(a) Examination** The appropriate financial regulator is authorized to examine a financial institution subject to the standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) for a designated activity in order to determine the following:
+
+(1) The nature and scope of the designated activities engaged in by the financial institution.
+
+(2) The financial and operational risks the designated activities engaged in by the financial institution may pose to the safety and soundness of the financial institution.
+
+(3) The financial and operational risks the designated activities engaged in by the financial institution may pose to other financial institutions, critical markets, or the broader financial system.
+
+(4) The resources available to and the capabilities of the financial institution to monitor and control the risks described in paragraphs (2) and (3).
+
+(5) The financial institution’s compliance with this subchapter and the rules and orders prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim).
+
+**(b) Enforcement** For purposes of enforcing the provisions of this subchapter, and the rules and orders prescribed under this section, a financial institution subject to the standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) for a designated activity shall be subject to, and the appropriate financial regulator shall have authority under 11 So in original. Probably should be followed by a comma. the provisions of subsections (b) through (n) of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818) in the same manner and to the same extent as if the financial institution was an insured depository institution and the appropriate financial regulator was the appropriate Federal banking agency for such insured depository institution.
+
+**(c) Technical assistance** The Board of Governors shall consult with and provide such technical assistance as may be required by the appropriate financial regulators to ensure that the rules and orders prescribed under this subchapter are interpreted and applied in as consistent and uniform a manner as practicable.
+
+**(d) Delegation**
+
+(1) **Examination**
+
+  (A) *Request to Board of Governors* — The appropriate financial regulator may request the Board of Governors to conduct or participate in an examination of a financial institution subject to the standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) for a designated activity in order to assess the compliance of such financial institution with—
+
+    (i) this subchapter; or
+
+    (ii) the rules or orders prescribed under this subchapter.
+
+  (B) *Examination by Board of Governors* — Upon receipt of an appropriate written request, the Board of Governors will conduct the examination under such terms and conditions to which the Board of Governors and the appropriate financial regulator mutually agree.
+
+(2) **Enforcement**
+
+  (A) *Request to Board of Governors* — The appropriate financial regulator may request the Board of Governors to enforce this subchapter or the rules or orders prescribed under this subchapter against a financial institution that is subject to the standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) for a designated activity.
+
+  (B) *Enforcement by Board of Governors* — Upon receipt of an appropriate written request, the Board of Governors shall determine whether an enforcement action is warranted, and, if so, it shall enforce compliance with this subchapter or the rules or orders prescribed under this subchapter and, if so, the financial institution shall be subject to, and the Board of Governors shall have authority under 1 the provisions of subsections (b) through (n) of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818) in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+
+**(e) Back-up authority of the Board of Governors**
+
+(1) **Examination and enforcement** — Notwithstanding any other provision of law, the Board of Governors may—
+
+  (A) conduct an examination of the type described in subsection (a) of any financial institution that is subject to the standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) for a designated activity; and
+
+  (B) enforce the provisions of this subchapter or any rules or orders prescribed under this subchapter against any financial institution that is subject to the standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) for a designated activity.
+
+(2) **Limitations**
+
+  (A) *Examination* — The Board of Governors may exercise the authority described in paragraph (1)(A) only if the Board of Governors has—
+
+    (i) reasonable cause to believe that a financial institution is not in compliance with this subchapter or the rules or orders prescribed under this subchapter with respect to a designated activity;
+
+    (ii) notified, in writing, the appropriate financial regulator and the Council of its belief under clause (i) with supporting documentation included;
+
+    (iii) requested the appropriate financial regulator to conduct a prompt examination of the financial institution;
+
+    (iv) either—
+
+      (I) not been afforded a reasonable opportunity to participate in an examination of the financial institution by the appropriate financial regulator within 30 days after the date of the Board’s notification under clause (ii); or
+
+      (II) reasonable cause to believe that the financial institution’s noncompliance with this subchapter or the rules or orders prescribed under this subchapter poses a substantial risk to other financial institutions, critical markets, or the broader financial system, subject to the Board of Governors affording the appropriate financial regulator a reasonable opportunity to participate in the examination; and
+
+    (v) obtained the approval of the Council upon an affirmative vote by a majority of the Council.
+
+  (B) *Enforcement* — The Board of Governors may exercise the authority described in paragraph (1)(B) only if the Board of Governors has—
+
+    (i) reasonable cause to believe that a financial institution is not in compliance with this subchapter or the rules or orders prescribed under this subchapter with respect to a designated activity;
+
+    (ii) notified, in writing, the appropriate financial regulator and the Council of its belief under clause (i) with supporting documentation included and with a recommendation that the appropriate financial regulator take 1 or more specific enforcement actions against the financial institution;
+
+    (iii) either—
+
+      (I) not been notified, in writing, by the appropriate financial regulator of the commencement of an enforcement action recommended by the Board of Governors against the financial institution within 60 days from the date of the notification under clause (ii); or
+
+      (II) reasonable cause to believe that the financial institution’s noncompliance with this subchapter or the rules or orders prescribed under this subchapter poses significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States, subject to the Board of Governors notifying the appropriate financial regulator of the Board’s enforcement action; and
+
+    (iv) obtained the approval of the Council upon an affirmative vote by a majority of the Council.
+
+(3) **Enforcement provisions** — For purposes of taking enforcement action under paragraph (1), the financial institution shall be subject to, and the Board of Governors shall have authority under 1 the provisions of subsections (b) through (n) of [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818) in the same manner and to the same extent as if the financial institution was an insured depository institution and the Board of Governors was the appropriate Federal banking agency for such insured depository institution.
+
+
+<a id="section-5471"></a>
+## § 5471. Requests for information, reports, or records
+**(a) Information to assess systemic importance**
+
+(1) **Financial market utilities** — The Council is authorized to require any financial market utility to submit such information as the Council may require for the sole purpose of assessing whether that financial market utility is systemically important, but only if the Council has reasonable cause to believe that the financial market utility meets the standards for systemic importance set forth in [section 5463 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5463).
+
+(2) **Financial institutions engaged in payment, clearing, or settlement activities** — The Council is authorized to require any financial institution to submit such information as the Council may require for the sole purpose of assessing whether any payment, clearing, or settlement activity engaged in or supported by a financial institution is systemically important, but only if the Council has reasonable cause to believe that the activity meets the standards for systemic importance set forth in [section 5463 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5463).
+
+**(b) Reporting after designation**
+
+(1) **Designated financial market utilities** — The Board of Governors and the Council may each require a designated financial market utility to submit reports or data to the Board of Governors and the Council in such frequency and form as deemed necessary by the Board of Governors or the Council in order to assess the safety and soundness of the utility and the systemic risk that the utility’s operations pose to the financial system.
+
+(2) **Financial institutions subject to standards for designated activities** — The Board of Governors and the Council may each require 1 or more financial institutions subject to the standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) for a designated activity to submit, in such frequency and form as deemed necessary by the Board of Governors or the Council, reports and data to the Board of Governors and the Council solely with respect to the conduct of the designated activity and solely to assess whether—
+
+  (A) the rules, orders, or standards prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) with respect to the designated activity appropriately address the risks to the financial system presented by such activity; and
+
+  (B) the financial institutions are in compliance with this subchapter and the rules and orders prescribed under [section 5464(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a&num=0&edition=prelim) with respect to the designated activity.
+
+(3) **Limitation** — The Board of Governors may, upon an affirmative vote by a majority of the Council, prescribe regulations under this section that impose a recordkeeping or reporting requirement on designated clearing entities or financial institutions engaged in designated activities that are subject to standards that have been prescribed under [section 5464(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5464/a/2&num=0&edition=prelim).
+
+**(c) Coordination with appropriate Federal Supervisory Agency**
+
+(1) **Advance coordination** — Before requesting any material information from, or imposing reporting or recordkeeping requirements on, any financial market utility or any financial institution engaged in a payment, clearing, or settlement activity, the Board of Governors or the Council shall coordinate with the Supervisory Agency for a financial market utility or the appropriate financial regulator for a financial institution to determine if the information is available from or may be obtained by the agency in the form, format, or detail required by the Board of Governors or the Council.
+
+(2) **Supervisory reports** — Notwithstanding any other provision of law, the Supervisory Agency, the appropriate financial regulator, and the Board of Governors are authorized to disclose to each other and the Council copies of its examination reports or similar reports regarding any financial market utility or any financial institution engaged in payment, clearing, or settlement activities.
+
+**(d) Timing of response from appropriate Federal Supervisory Agency** If the information, report, records, or data requested by the Board of Governors or the Council under subsection (c)(1) are not provided in full by the Supervisory Agency or the appropriate financial regulator in less than 15 days after the date on which the material is requested, the Board of Governors or the Council may request the information or impose recordkeeping or reporting requirements directly on such persons as provided in subsections (a) and (b) with notice to the agency.
+
+**(e) Sharing of information**
+
+(1) **Material concerns** — Notwithstanding any other provision of law, the Board of Governors, the Council, the appropriate financial regulator, and any Supervisory Agency are authorized to—
+
+  (A) promptly notify each other of material concerns about a designated financial market utility or any financial institution engaged in designated activities; and
+
+  (B) share appropriate reports, information, or data relating to such concerns.
+
+(2) **Other information** — Notwithstanding any other provision of law, the Board of Governors, the Council, the appropriate financial regulator, or any Supervisory Agency may, under such terms and conditions as it deems appropriate, provide confidential supervisory information and other information obtained under this subchapter to each other, and to the Secretary, Federal Reserve Banks, State financial institution supervisory agencies, foreign financial supervisors, foreign central banks, and foreign finance ministries, subject to reasonable assurances of confidentiality, provided, however, that no person or entity receiving information pursuant to this section may disseminate such information to entities or persons other than those listed in this paragraph without complying with applicable law, including [section 12 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section12&num=0&edition=prelim).
+
+**(f) Privilege maintained** The Board of Governors, the Council, the appropriate financial regulator, and any Supervisory Agency providing reports or data under this section shall not be deemed to have waived any privilege applicable to those reports or data, or any portion thereof, by providing the reports or data to the other party or by permitting the reports or data, or any copies thereof, to be used by the other party.
+
+**(g) Disclosure exemption** Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the Supervisory Agencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim). For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
+
+
+<a id="section-5472"></a>
+## § 5472. Rulemaking
+
+The Board of Governors, the Supervisory Agencies, and the Council are authorized to prescribe such rules and issue such orders as may be necessary to administer and carry out their respective authorities and duties granted under this subchapter and prevent evasions thereof.
+
+
+<a id="section-5481"></a>
+## § 5481. Transition oversight
+**(a) Purpose** The purpose of this section is to ensure that the Bureau—
+
+(1) has an orderly and organized startup;
+
+(2) attracts and retains a qualified workforce; and
+
+(3) establishes comprehensive employee training and benefits programs.
+
+**(b) Reporting requirement**
+
+(1) **In general** — The Bureau shall submit an annual report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that includes the plans described in paragraph (2).
+
+(2) **Plans** — The plans described in this paragraph are as follows:
+
+  (A) *Training and workforce development plan* — The Bureau shall submit a training and workforce development plan that includes, to the extent practicable—
+
+    (i) identification of skill and technical expertise needs and actions taken to meet those requirements;
+
+    (ii) steps taken to foster innovation and creativity;
+
+    (iii) leadership development and succession planning; and
+
+    (iv) effective use of technology by employees.
+
+  (B) *Workplace flexibilities plan* — The Bureau shall submit a workforce flexibility plan that includes, to the extent practicable—
+
+    (i) telework;
+
+    (ii) flexible work schedules;
+
+    (iii) phased retirement;
+
+    (iv) reemployed annuitants;
+
+    (v) part-time work;
+
+    (vi) job sharing;
+
+    (vii) parental leave benefits and childcare assistance;
+
+    (viii) domestic partner benefits;
+
+    (ix) other workplace flexibilities; or
+
+    (x) any combination of the items described in clauses (i) through (ix).
+
+  (C) *Recruitment and retention plan* — The Bureau shall submit a recruitment and retention plan that includes, to the extent practicable, provisions relating to—
+
+    (i) the steps necessary to target highly qualified applicant pools with diverse backgrounds;
+
+    (ii) streamlined employment application processes;
+
+    (iii) the provision of timely notification of the status of employment applications to applicants; and
+
+    (iv) the collection of information to measure indicators of hiring effectiveness.
+
+**(c) Expiration** The reporting requirement under subsection (b) shall terminate 5 years after July 21, 2010.
+
+**(d) Rule of construction** Nothing in this section may be construed to affect—
+
+(1) a collective bargaining agreement, as that term is defined in [section 7103(a)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7103/a/8&num=0&edition=prelim), that is in effect on July 21, 2010; or
+
+(2) the rights of employees under chapter 71 of title 5.
+
+**(e) Participation in examinations** In order to prepare the Bureau to conduct examinations under [section 5515 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5515) upon the designated transfer date, the Bureau and the applicable prudential regulator may agree to include, on a sampling basis, examiners on examinations of the compliance with Federal consumer financial law of institutions described in [section 5515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/a&num=0&edition=prelim) conducted by the prudential regulators prior to the designated transfer date.
+
+
+<a id="section-5491"></a>
+## § 5491. Other authority
+
+Unless otherwise provided by its terms, this subchapter does not divest any appropriate financial regulator, any Supervisory Agency, or any other Federal or State agency, of any authority derived from any other applicable law, except that any standards prescribed by the Board of Governors under [section 5464 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5464) shall supersede any less stringent requirements established under other authority to the extent of any conflict.
+
+
+<a id="section-5492"></a>
+## § 5492. Consultation
+**(a) CFTC** The Commodity Futures Trading Commission shall consult with the Board of Governors—
+
+(1) prior to exercising its authorities under sections 2(h)(2)(C), 2(h)(3)(A), 2(h)(3)(C), 2(h)(4)(A), and 2(h)(4)(B) of title 7, as amended by the Wall Street Transparency and Accountability Act of 2010;
+
+(2) with respect to any rule or rule amendment of a derivatives clearing organization for which a stay of certification has been issued under section 745(b)(3) 11 See References in Text note below. of the Wall Street Transparency and Accountability Act of 2010; and
+
+(3) prior to exercising its rulemaking authorities under section 728 of the Wall Street Transparency and Accountability Act of 2010 [[7 U.S.C. 24a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section24a&num=0&edition=prelim)].
+
+**(b) SEC** The Commission shall consult with the Board of Governors—
+
+(1) prior to exercising its authorities under sections 78c–3(a)(2)(C), 78c–3(a)(3)(A), 78c–3(a)(3)(C), 78c–3(a)(4)(A), and 78c–3(a)(4)(B) of title 15, as amended by the Wall Street Transparency and Accountability Act of 2010;
+
+(2) with respect to any proposed rule change of a clearing agency for which an extension of the time for review has been designated under [section 78s(b)(2) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78s/b/2&num=0&edition=prelim); and
+
+(3) prior to exercising its rulemaking authorities under [section 78m(n) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m/n&num=0&edition=prelim), as added by section 763(i) of the Wall Street Transparency and Accountability Act of 2010.
+
+### Statutory Notes
+
+#### References in Text
+The Wall Street Transparency and Accountability Act of 2010, referred to in subsecs. (a) and (b), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641. Section 728 of the Act amended the act of Sept. 21, 1922, ch. 369, to add a new section 21 which is classified to [section 24a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section24a&num=0&edition=prelim), Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 8301 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8301&num=0&edition=prelim), Commerce and Trade, and Tables.
+
+Section 745(b)(3) of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (a)(2), probably means section 5c(c)(3) of the Commodity Exchange Act, which is classified to [section 7a–2(c)(3) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7a–2/c/3&num=0&edition=prelim), Agriculture. Section 745(b) of the Wall Street Transparency and Accountability Act of 2010, which is section 745(b) of Pub. L. 111–203, added subsec. (c) of [section 7a–2 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7a–2&num=0&edition=prelim) and struck out former subsec. (c) of that section. [Section 7a–2(c)(3) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7a–2/c/3&num=0&edition=prelim) relates to stays of the certification for rules. Section 745(b) of Pub. L. 111–203 does not contain a par. (3).
+
+
+<a id="section-5493"></a>
+## § 5493. Common framework for designated clearing entity risk management
+
+The Commodity Futures Trading Commission and the Commission shall coordinate with the Board of Governors to jointly develop risk management supervision programs for designated clearing entities. Not later than 1 year after July 21, 2010, the Commodity Futures Trading Commission, the Commission, and the Board of Governors shall submit a joint report to the Committee on Banking, Housing, and Urban Affairs and the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Committee on Financial Services and the Committee on Agriculture of the House of Representatives recommendations 11 So in original. Probably should be preceded by “with”. for—
+
+(1) improving consistency in the designated clearing entity oversight programs of the Commission and the Commodity Futures Trading Commission;
+
+(2) promoting robust risk management by designated clearing entities;
+
+(3) promoting robust risk management oversight by regulators of designated clearing entities; and
+
+(4) improving regulators’ ability to monitor the potential effects of designated clearing entity risk management on the stability of the financial system of the United States.
+
+
+<a id="section-5494"></a>
+## § 5494. Definitions
+
+Except as otherwise provided in this title,11 See References in Text note below. for purposes of this title,1 the following definitions shall apply:
+
+(1) **Affiliate** — The term “affiliate” means any person that controls, is controlled by, or is under common control with another person.
+
+(2) **Bureau** — The term “Bureau” means the Bureau of Consumer Financial Protection.
+
+(3) **Business of insurance** — The term “business of insurance” means the writing of insurance or the reinsuring of risks by an insurer, including all acts necessary to such writing or reinsuring and the activities relating to the writing of insurance or the reinsuring of risks conducted by persons who act as, or are, officers, directors, agents, or employees of insurers or who are other persons authorized to act on behalf of such persons.
+
+(4) **Consumer** — The term “consumer” means an individual or an agent, trustee, or representative acting on behalf of an individual.
+
+(5) **Consumer financial product or service** — The term “consumer financial product or service” means any financial product or service that is described in one or more categories under—
+
+  (A) paragraph (15) and is offered or provided for use by consumers primarily for personal, family, or household purposes; or
+
+  (B) clause (i), (iii), (ix), or (x) of paragraph (15)(A), and is delivered, offered, or provided in connection with a consumer financial product or service referred to in subparagraph (A).
+
+(6) **Covered person** — The term “covered person” means—
+
+  (A) any person that engages in offering or providing a consumer financial product or service; and
+
+  (B) any affiliate of a person described in subparagraph (A) if such affiliate acts as a service provider to such person.
+
+(7) **Credit** — The term “credit” means the right granted by a person to a consumer to defer payment of a debt, incur debt and defer its payment, or purchase property or services and defer payment for such purchase.
+
+(8) **Deposit-taking activity** — The term “deposit-taking activity” means—
+
+  (A) the acceptance of deposits, maintenance of deposit accounts, or the provision of services related to the acceptance of deposits or the maintenance of deposit accounts;
+
+  (B) the acceptance of funds, the provision of other services related to the acceptance of funds, or the maintenance of member share accounts by a credit union; or
+
+  (C) the receipt of funds or the equivalent thereof, as the Bureau may determine by rule or order, received or held by a covered person (or an agent for a covered person) for the purpose of facilitating a payment or transferring funds or value of funds between a consumer and a third party.
+
+(9) **Designated transfer date** — The term “designated transfer date” means the date established under [section 5582 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5582).
+
+(10) **Director** — The term “Director” means the Director of the Bureau.
+
+(11) **Electronic conduit services** — The term “electronic conduit services”—
+
+  (A) means the provision, by a person, of electronic data transmission, routing, intermediate or transient storage, or connections to a telecommunications system or network; and
+
+  (B) does not include a person that provides electronic conduit services if, when providing such services, the person—
+
+    (i) selects or modifies the content of the electronic data;
+
+    (ii) transmits, routes, stores, or provides connections for electronic data, including financial data, in a manner that such financial data is differentiated from other types of data of the same form that such person transmits, routes, or stores, or with respect to which, provides connections; or
+
+    (iii) is a payee, payor, correspondent, or similar party to a payment transaction with a consumer.
+
+(12) **Enumerated consumer laws** — Except as otherwise specifically provided in [section 5519 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5519), subtitle G or subtitle H, the term “enumerated consumer laws” means—
+
+  (A) the Alternative Mortgage Transaction Parity Act of 1982 ([12 U.S.C. 3801](./chapter-039-alternative-mortgage-transactions.md#section-3801) et seq.);
+
+  (B) the Consumer Leasing Act of 1976 ([15 U.S.C. 1667](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1667&num=0&edition=prelim) et seq.);
+
+  (C) the Electronic Fund Transfer Act ([15 U.S.C. 1693](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693&num=0&edition=prelim) et seq.), except with respect to section 920 of that Act [[15 U.S.C. 1693](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693&num=0&edition=prelim)o–2];
+
+  (D) the Equal Credit Opportunity Act ([15 U.S.C. 1691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691&num=0&edition=prelim) et seq.);
+
+  (E) the Fair Credit Billing Act ([15 U.S.C. 1666](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1666&num=0&edition=prelim) et seq.);
+
+  (F) the Fair Credit Reporting Act ([15 U.S.C. 1681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim) et seq.), except with respect to sections 615(e) and 628 of that Act ([15 U.S.C. 1681m(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681m/e&num=0&edition=prelim), 1681w);
+
+  (G) the Home Owners 22 So in original. Probably should be “Homeowners”. Protection Act of 1998 ([12 U.S.C. 4901](./chapter-049-homeowners-protection.md#section-4901) et seq.);
+
+  (H) the Fair Debt Collection Practices Act ([15 U.S.C. 1692](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1692&num=0&edition=prelim) et seq.);
+
+  (I) subsections (b) through (f) of section 43 of the Federal Deposit Insurance Act ([12 U.S.C. 1831t(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1831t/c&num=0&edition=prelim)[(b)]–(f));
+
+  (J) sections 502 through 509 of the Gramm-Leach-Bliley Act ([15 U.S.C. 6802–680](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6802–680&num=0&edition=prelim)9) except for section 505 [[15 U.S.C. 6805](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6805&num=0&edition=prelim)] as it applies to section 501(b) [[15 U.S.C. 6801(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6801/b&num=0&edition=prelim)];
+
+  (K) the Home Mortgage Disclosure Act of 1975 ([12 U.S.C. 2801](./chapter-029-home-mortgage-disclosure.md#section-2801) et seq.);
+
+  (L) the Home Ownership and Equity Protection Act of 1994 ([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) note);
+
+  (M) the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2601](./chapter-027-real-estate-settlement-procedures.md#section-2601) et seq.);
+
+  (N) the S.A.F.E. Mortgage Licensing Act of 2008 ([12 U.S.C. 5101](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5101) et seq.);
+
+  (O) the Truth in Lending Act ([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) et seq.);
+
+  (P) the Truth in Savings Act ([12 U.S.C. 4301](./chapter-044-truth-in-savings.md#section-4301) et seq.);
+
+  (Q) section 626 of the Omnibus Appropriations Act, 2009 (Public Law 111–8) [[12 U.S.C. 5538](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5538)]; and
+
+  (R) the Interstate Land Sales Full Disclosure Act ([15 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1701&num=0&edition=prelim)).
+
+(13) **Fair lending** — The term “fair lending” means fair, equitable, and nondiscriminatory access to credit for consumers.
+
+(14) **Federal consumer financial law** — The term “Federal consumer financial law” means the provisions of this title,1 the enumerated consumer laws, the laws for which authorities are transferred under subtitles F and H, and any rule or order prescribed by the Bureau under this title,1 an enumerated consumer law, or pursuant to the authorities transferred under subtitles F and H. The term does not include the Federal Trade Commission Act [[15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.].
+
+(15) **Financial product or service**
+
+  (A) *In general* — The term “financial product or service” means—
+
+    (i) extending credit and servicing loans, including acquiring, purchasing, selling, brokering, or other extensions of credit (other than solely extending commercial credit to a person who originates consumer credit transactions);
+
+    (ii) extending or brokering leases of personal or real property that are the functional equivalent of purchase finance arrangements, if—
+
+      (I) the lease is on a non-operating basis;
+
+      (II) the initial term of the lease is at least 90 days; and
+
+      (III) in the case of a lease involving real property, at the inception of the initial lease, the transaction is intended to result in ownership of the leased property to be transferred to the lessee, subject to standards prescribed by the Bureau;
+
+    (iii) providing real estate settlement services, except such services excluded under subparagraph (C), or performing appraisals of real estate or personal property;
+
+    (iv) engaging in deposit-taking activities, transmitting or exchanging funds, or otherwise acting as a custodian of funds or any financial instrument for use by or on behalf of a consumer;
+
+    (v) selling, providing, or issuing stored value or payment instruments, except that, in the case of a sale of, or transaction to reload, stored value, only if the seller exercises substantial control over the terms or conditions of the stored value provided to the consumer where, for purposes of this clause—
+
+      (I) a seller shall not be found to exercise substantial control over the terms or conditions of the stored value if the seller is not a party to the contract with the consumer for the stored value product, and another person is principally responsible for establishing the terms or conditions of the stored value; and
+
+      (II) advertising the nonfinancial goods or services of the seller on the stored value card or device is not in itself an exercise of substantial control over the terms or conditions;
+
+    (vi) providing check cashing, check collection, or check guaranty services;
+
+    (vii) providing payments or other financial data processing products or services to a consumer by any technological means, including processing or storing financial or banking data for any payment instrument, or through any payments systems or network used for processing payments data, including payments made through an online banking system or mobile telecommunications network, except that a person shall not be deemed to be a covered person with respect to financial data processing solely because the person—
+
+      (I) is a merchant, retailer, or seller of any nonfinancial good or service who engages in financial data processing by transmitting or storing payments data about a consumer exclusively for purpose of initiating payments instructions by the consumer to pay such person for the purchase of, or to complete a commercial transaction for, such nonfinancial good or service sold directly by such person to the consumer; or
+
+      (II) provides access to a host server to a person for purposes of enabling that person to establish and maintain a website;
+
+    (viii) providing financial advisory services (other than services relating to securities provided by a person regulated by the Commission or a person regulated by a State securities Commission, but only to the extent that such person acts in a regulated capacity) to consumers on individual financial matters or relating to proprietary financial products or services (other than by publishing any bona fide newspaper, news magazine, or business or financial publication of general and regular circulation, including publishing market data, news, or data analytics or investment information or recommendations that are not tailored to the individual needs of a particular consumer), including—
+
+      (I) providing credit counseling to any consumer; and
+
+      (II) providing services to assist a consumer with debt management or debt settlement, modifying the terms of any extension of credit, or avoiding foreclosure;
+
+    (ix) collecting, analyzing, maintaining, or providing consumer report information or other account information, including information relating to the credit history of consumers, used or expected to be used in connection with any decision regarding the offering or provision of a consumer financial product or service, except to the extent that—
+
+      (I) a person—
+
+        (aa) collects, analyzes, or maintains information that relates solely to the transactions between a consumer and such person;
+
+        (bb) provides the information described in item (aa) to an affiliate of such person; or
+
+        (cc) provides information that is used or expected to be used solely in any decision regarding the offering or provision of a product or service that is not a consumer financial product or service, including a decision for employment, government licensing, or a residential lease or tenancy involving a consumer; and
+
+      (II) the information described in subclause (I)(aa) is not used by such person or affiliate in connection with any decision regarding the offering or provision of a consumer financial product or service to the consumer, other than credit described in [section 5517(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5517/a/2/A&num=0&edition=prelim);
+
+    (x) collecting debt related to any consumer financial product or service; and
+
+    (xi) such other financial product or service as may be defined by the Bureau, by regulation, for purposes of this title,1 if the Bureau finds that such financial product or service is—
+
+      (I) entered into or conducted as a subterfuge or with a purpose to evade any Federal consumer financial law; or
+
+      (II) permissible for a bank or for a financial holding company to offer or to provide under any provision of a Federal law or regulation applicable to a bank or a financial holding company, and has, or likely will have, a material impact on consumers.
+
+  (B) *Rule of construction*
+
+    (i) *In general* — For purposes of subparagraph (A)(xi)(II), and subject to clause (ii) of this subparagraph, the following activities provided to a covered person shall not, for purposes of this title,1 be considered incidental or complementary to a financial activity permissible for a financial holding company to engage in under any provision of a Federal law or regulation applicable to a financial holding company:
+
+      (I) Providing information products or services to a covered person for identity authentication.
+
+      (II) Providing information products or services for fraud or identify theft detection, prevention, or investigation.
+
+      (III) Providing document retrieval or delivery services.
+
+      (IV) Providing public records information retrieval.
+
+      (V) Providing information products or services for anti-money laundering activities.
+
+    (ii) *Limitation* — Nothing in clause (i) may be construed as modifying or limiting the authority of the Bureau to exercise any—
+
+      (I) examination or enforcement powers authority under this title 1 with respect to a covered person or service provider engaging in an activity described in subparagraph (A)(ix); or
+
+      (II) powers authorized by this title 1 to prescribe rules, issue orders, or take other actions under any enumerated consumer law or law for which the authorities are transferred under subtitle F or H.
+
+  (C) *Exclusions* — The term “financial product or service” does not include—
+
+    (i) the business of insurance; or
+
+    (ii) electronic conduit services.
+
+(16) **Foreign exchange** — The term “foreign exchange” means the exchange, for compensation, of currency of the United States or of a foreign government for currency of another government.
+
+(17) **Insured credit union** — The term “insured credit union” has the same meaning as in [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
+
+(18) **Payment instrument** — The term “payment instrument” means a check, draft, warrant, money order, traveler’s check, electronic instrument, or other instrument, payment of funds, or monetary value (other than currency).
+
+(19) **Person** — The term “person” means an individual, partnership, company, corporation, association (incorporated or unincorporated), trust, estate, cooperative organization, or other entity.
+
+(20) **Person regulated by the Commodity Futures Trading Commission** — The term “person regulated by the Commodity Futures Trading Commission” means any person that is registered, or required by statute or regulation to be registered, with the Commodity Futures Trading Commission, but only to the extent that the activities of such person are subject to the jurisdiction of the Commodity Futures Trading Commission under the Commodity Exchange Act [[7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.].
+
+(21) **Person regulated by the Commission** — The term “person regulated by the Commission” means a person who is—
+
+  (A) a broker or dealer that is required to be registered under the Securities Exchange Act of 1934 [[15 U.S.C. 78a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) et seq.];
+
+  (B) an investment adviser that is registered under the Investment Advisers Act of 1940 [[15 U.S.C. 80b–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–1&num=0&edition=prelim) et seq.];
+
+  (C) an investment company that is required to be registered under the Investment Company Act of 1940 [[15 U.S.C. 80a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–1&num=0&edition=prelim) et seq.], and any company that has elected to be regulated as a business development company under that Act;
+
+  (D) a national securities exchange that is required to be registered under the Securities Exchange Act of 1934;
+
+  (E) a transfer agent that is required to be registered under the Securities Exchange Act of 1934;
+
+  (F) a clearing corporation that is required to be registered under the Securities Exchange Act of 1934;
+
+  (G) any self-regulatory organization that is required to be registered with the Commission;
+
+  (H) any nationally recognized statistical rating organization that is required to be registered with the Commission;
+
+  (I) any securities information processor that is required to be registered with the Commission;
+
+  (J) any municipal securities dealer that is required to be registered with the Commission;
+
+  (K) any other person that is required to be registered with the Commission under the Securities Exchange Act of 1934; and
+
+  (L) any employee, agent, or contractor acting on behalf of, registered with, or providing services to, any person described in any of subparagraphs (A) through (K), but only to the extent that any person described in any of subparagraphs (A) through (K), or the employee, agent, or contractor of such person, acts in a regulated capacity.
+
+(22) **Person regulated by a State insurance regulator** — The term “person regulated by a State insurance regulator” means any person that is engaged in the business of insurance and subject to regulation by any State insurance regulator, but only to the extent that such person acts in such capacity.
+
+(23) **Person that performs income tax preparation activities for consumers** — The term “person that performs income tax preparation activities for consumers” means—
+
+  (A) any tax return preparer (as defined in [section 7701(a)(36) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701/a/36&num=0&edition=prelim)), regardless of whether compensated, but only to the extent that the person acts in such capacity;
+
+  (B) any person regulated by the Secretary under [section 330 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section330&num=0&edition=prelim), but only to the extent that the person acts in such capacity; and
+
+  (C) any authorized IRS e-file Providers (as defined for purposes of [section 7216 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7216&num=0&edition=prelim)), but only to the extent that the person acts in such capacity.
+
+(24) **Prudential regulator** — The term “prudential regulator” means—
+
+  (A) in the case of an insured depository institution or depository institution holding company (as defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)), or subsidiary of such institution or company, the appropriate Federal banking agency, as that term is defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813); and
+
+  (B) in the case of an insured credit union, the National Credit Union Administration.
+
+(25) **Related person** — The term “related person”—
+
+  (A) shall apply only with respect to a covered person that is not a bank holding company (as that term is defined in [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841)), credit union, or depository institution;
+
+  (B) shall be deemed to mean a covered person for all purposes of any provision of Federal consumer financial law; and
+
+  (C) means—
+
+    (i) any director, officer, or employee charged with managerial responsibility for, or controlling shareholder of, or agent for, such covered person;
+
+    (ii) any shareholder, consultant, joint venture partner, or other person, as determined by the Bureau (by rule or on a case-by-case basis) who materially participates in the conduct of the affairs of such covered person; and
+
+    (iii) any independent contractor (including any attorney, appraiser, or accountant) who knowingly or recklessly participates in any—
+
+      (I) violation of any provision of law or regulation; or
+
+      (II) breach of a fiduciary duty.
+
+(26) **Service provider**
+
+  (A) *In general* — The term “service provider” means any person that provides a material service to a covered person in connection with the offering or provision by such covered person of a consumer financial product or service, including a person that—
+
+    (i) participates in designing, operating, or maintaining the consumer financial product or service; or
+
+    (ii) processes transactions relating to the consumer financial product or service (other than unknowingly or incidentally transmitting or processing financial data in a manner that such data is undifferentiated from other types of data of the same form as the person transmits or processes).
+
+  (B) *Exceptions* — The term “service provider” does not include a person solely by virtue of such person offering or providing to a covered person—
+
+    (i) a support service of a type provided to businesses generally or a similar ministerial service; or
+
+    (ii) time or space for an advertisement for a consumer financial product or service through print, newspaper, or electronic media.
+
+  (C) *Rule of construction* — A person that is a service provider shall be deemed to be a covered person to the extent that such person engages in the offering or provision of its own consumer financial product or service.
+
+(27) **State** — The term “State” means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any federally recognized Indian tribe, as defined by the Secretary of the Interior under [section 479a–1(a) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a–1/a&num=0&edition=prelim).
+
+(28) **Stored value**
+
+  (A) *In general* — The term “stored value” means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storage on electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
+
+  (B) *Exclusion* — Notwithstanding subparagraph (A), the term “stored value” does not include a special purpose card or certificate, which shall be defined for purposes of this paragraph as funds or monetary value represented in any electronic format, whether or not specially encrypted, that is—
+
+    (i) issued by a merchant, retailer, or other seller of nonfinancial goods or services;
+
+    (ii) redeemable only for transactions with the merchant, retailer, or seller of nonfinancial goods or services or with an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services;
+
+    (iii) issued in a specified amount that, except in the case of a card or product used solely for telephone services, may not be increased or reloaded;
+
+    (iv) purchased on a prepaid basis in exchange for payment; and
+
+    (v) honored upon presentation to such merchant, retailer, or seller of nonfinancial goods or services or an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services, only for any nonfinancial goods or services.
+
+(29) **Transmitting or exchanging funds** — The term “transmitting or exchanging funds” means receiving currency, monetary value, or payment instruments from a consumer for the purpose of exchanging or transmitting the same by any means, including transmission by wire, facsimile, electronic transfer, courier, the Internet, or through bill payment services or through other businesses that facilitate third-party transfers within the United States or to or from the United States.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+Subtitle G, referred to in par. (12), is subtitle G (§§ 1071–1079A) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2056. For complete classification of subtitle G to the Code, see Tables.
+
+Subtitle H, referred to in pars. (12) and (15)(B)(ii)(II), is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
+
+The Alternative Mortgage Transaction Parity Act of 1982, referred to in par. (12)(A), is title VIII of Pub. L. 97–320, Oct. 15, 1982, 96 Stat. 1545, which is classified generally to chapter 39 (§ 3801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of this title](./chapter-039-alternative-mortgage-transactions.md#section-3801) and Tables.
+
+The Consumer Leasing Act of 1976, referred to in par. (12)(B), is Pub. L. 94–240, Mar. 23, 1976, 90 Stat. 257. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim), Commerce and Trade, and Tables.
+
+The Electronic Fund Transfer Act, referred to in par. (12)(C), is title IX of Pub. L. 90–321, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, which is classified generally to subchapter VI (§ 1693 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Equal Credit Opportunity Act, referred to in par. (12)(D), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Fair Credit Billing Act, referred to in par. (12)(E), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which enacted sections 1666 to 1666i and 1666j of Title 15, Commerce and Trade, amended sections 1601, 1602, 1610, 1631, 1632, and 1637 of Title 15, and enacted provisions set out as a note under [section 1666 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1666&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Fair Credit Reporting Act, referred to in par. (12)(F), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Homeowners Protection Act of 1998, referred to in par. (12)(G), is Pub. L. 105–216, July 29, 1998, 112 Stat. 897, which is classified principally to chapter 49 (§ 4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901) and Tables.
+
+The Fair Debt Collection Practices Act, referred to in par. (12)(H), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of this title](./chapter-029-home-mortgage-disclosure.md#section-2801) and Tables.
+
+The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L), is subtitle B (§§ 151–158) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2190, which enacted sections 1639 and 1648 of Title 15, Commerce and Trade, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of Title 15, and enacted provisions set out as notes under sections 1601 and 1602 of Title 15. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Real Estate Settlement Procedures Act of 1974, referred to in par. (12)(M), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601) and Tables.
+
+The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5101) and Tables.
+
+The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Truth in Savings Act, referred to in par. (12)(P), is subtitle F (§§ 261–274) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which is classified generally to chapter 44 (§ 4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4301 of this title](./chapter-044-truth-in-savings.md#section-4301) and Tables.
+
+Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is section 626 of div. D of Pub. L. 111–8. Subsecs. (a) and (b) of section 626 are classified to [section 5538 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5538), and subsec. (c) of section 626 amended [section 1639 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639&num=0&edition=prelim), Commerce and Trade.
+
+The Interstate Land Sales Full Disclosure Act, referred to in par. (12)(R), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1701&num=0&edition=prelim) and Tables.
+
+Subtitle F, referred to in pars. (14) and (15)(B)(ii)(II), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+
+The Federal Trade Commission Act, referred to in par. (14), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+
+The Commodity Exchange Act, referred to in par. (20), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+
+The Securities Exchange Act of 1934, referred to in par. (21)(A), (D) to (F), and (K), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+
+The Investment Advisers Act of 1940, referred to in par. (21)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
+
+The Investment Company Act of 1940, referred to in par. (21)(C), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+#### Designation as Enumerated Consumer Law Under the Purview of the Bureau of Consumer Financial Protection
+Pub. L. 111–203, title XIV, § 1400(b), July 21, 2010, 124 Stat. 2136, provided that: “Subtitles A, B, C, and E [subtitles A (§§ 1401–1406), B (§§ 1411–1422), C (§§ 1431–1433), and E (§§ 1461–1465) of title XIV of Pub. L. 111–203, enacting sections 1638a, 1639b to 1639d, 1639f, and 1639g of Title 15, Commerce and Trade, amending [section 2605 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2605), sections 1602, 1607, 1638, 1639 to 1639d, and 1640 of Title 15, and enacting provisions set out as notes under sections 1601 and 1639b to 1639d of Title 15] and sections 1471 [enacting [section 1639h of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639h&num=0&edition=prelim)], 1472 [enacting [section 1639e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1639e&num=0&edition=prelim) and amending [section 1604 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1604&num=0&edition=prelim)], 1475 [amending [section 2603 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2603)], and 1476 [not classified to the Code], and the amendments made by such subtitles and sections, shall be enumerated consumer laws, as defined in section 1002 [[12 U.S.C. 5481](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481)], and come under the purview of the Bureau of Consumer Financial Protection for purposes of title X [see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301)], including the transfer of functions and personnel under subtitle F of title X [§§ 1061–1067, enacting part F of this subchapter] and the savings provisions of such subtitle.”
+
+
+<a id="section-5495"></a>
+## § 5495. Establishment of the Bureau of Consumer Financial Protection
+**(a) Bureau established** There is established in the Federal Reserve System, an independent bureau to be known as the “Bureau of Consumer Financial Protection”, which shall regulate the offering and provision of consumer financial products or services under the Federal consumer financial laws. The Bureau shall be considered an Executive agency, as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim). Except as otherwise provided expressly by law, all Federal laws dealing with public or Federal contracts, property, works, officers, employees, budgets, or funds, including the provisions of chapters 5 and 7 of title 5, shall apply to the exercise of the powers of the Bureau.
+
+**(b) Director and Deputy Director**
+
+(1) **In general** — There is established the position of the Director, who shall serve as the head of the Bureau.
+
+(2) **Appointment** — Subject to paragraph (3), the Director shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(3) **Qualification** — The President shall nominate the Director from among individuals who are citizens of the United States.
+
+(4) **Compensation** — The Director shall be compensated at the rate prescribed for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim).
+
+(5) **Deputy Director** — There is established the position of Deputy Director, who shall—
+
+  (A) be appointed by the Director; and
+
+  (B) serve as acting Director in the absence or unavailability of the Director.
+
+**(c) Term**
+
+(1) **In general** — The Director shall serve for a term of 5 years.
+
+(2) **Expiration of term** — An individual may serve as Director after the expiration of the term for which appointed, until a successor has been appointed and qualified.
+
+(3) **Removal for cause** — The President may remove the Director for inefficiency, neglect of duty, or malfeasance in office.
+
+**(d) Service restriction** No Director or Deputy Director may hold any office, position, or employment in any Federal reserve bank, Federal home loan bank, covered person, or service provider during the period of service of such person as Director or Deputy Director.
+
+**(e) Offices** The principal office of the Bureau shall be in the District of Columbia. The Director may establish regional offices of the Bureau, including in cities in which the Federal reserve banks, or branches of such banks, are located, in order to carry out the responsibilities assigned to the Bureau under the Federal consumer financial laws.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 111–203, title X, § 1018, July 21, 2010, 124 Stat. 1979, provided that: “This subtitle [subtitle A (§§ 1011–1018), enacting this part and amending [section 9702 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9702&num=0&edition=prelim), Education] shall become effective on the date of enactment of this Act [July 21, 2010].”
+
+
+<a id="section-5496"></a>
+## § 5496. Executive and administrative powers
+**(a) Powers of the Bureau** The Bureau is authorized to establish the general policies of the Bureau with respect to all executive and administrative functions, including—
+
+(1) the establishment of rules for conducting the general business of the Bureau, in a manner not inconsistent with this title; 11 See References in Text note below.
+
+(2) to bind the Bureau and enter into contracts;
+
+(3) directing the establishment and maintenance of divisions or other offices within the Bureau, in order to carry out the responsibilities under the Federal consumer financial laws, and to satisfy the requirements of other applicable law;
+
+(4) to coordinate and oversee the operation of all administrative, enforcement, and research activities of the Bureau;
+
+(5) to adopt and use a seal;
+
+(6) to determine the character of and the necessity for the obligations and expenditures of the Bureau;
+
+(7) the appointment and supervision of personnel employed by the Bureau;
+
+(8) the distribution of business among personnel appointed and supervised by the Director and among administrative units of the Bureau;
+
+(9) the use and expenditure of funds;
+
+(10) implementing the Federal consumer financial laws through rules, orders, guidance, interpretations, statements of policy, examinations, and enforcement actions; and
+
+(11) performing such other functions as may be authorized or required by law.
+
+**(b) Delegation of authority** The Director of the Bureau may delegate to any duly authorized employee, representative, or agent any power vested in the Bureau by law.
+
+**(c) Autonomy of the Bureau**
+
+(1) **Coordination with the Board of Governors** — Notwithstanding any other provision of law applicable to the supervision or examination of persons with respect to Federal consumer financial laws, the Board of Governors may delegate to the Bureau the authorities to examine persons subject to the jurisdiction of the Board of Governors for compliance with the Federal consumer financial laws.
+
+(2) **Autonomy** — Notwithstanding the authorities granted to the Board of Governors under the Federal Reserve Act [[12 U.S.C. 221](./chapter-003-federal-reserve-system.md#section-221) et seq.], the Board of Governors may not—
+
+  (A) intervene in any matter or proceeding before the Director, including examinations or enforcement actions, unless otherwise specifically provided by law;
+
+  (B) appoint, direct, or remove any officer or employee of the Bureau; or
+
+  (C) merge or consolidate the Bureau, or any of the functions or responsibilities of the Bureau, with any division or office of the Board of Governors or the Federal reserve banks.
+
+(3) **Rules and orders** — No rule or order of the Bureau shall be subject to approval or review by the Board of Governors. The Board of Governors may not delay or prevent the issuance of any rule or order of the Bureau.
+
+(4) **Recommendations and testimony** — No officer or agency of the United States shall have any authority to require the Director or any other officer of the Bureau to submit legislative recommendations, or testimony or comments on legislation, to any officer or agency of the United States for approval, comments, or review prior to the submission of such recommendations, testimony, or comments to the Congress, if such recommendations, testimony, or comments to the Congress include a statement indicating that the views expressed therein are those of the Director or such officer, and do not necessarily reflect the views of the Board of Governors or the President.
+
+(5) **Clarification of autonomy of the Bureau in legal proceedings** — The Bureau shall not be liable under any provision of law for any action or inaction of the Board of Governors, and the Board of Governors shall not be liable under any provision of law for any action or inaction of the Bureau.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Federal Reserve Act, referred to in subsec. (c)(2), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+
+
+<a id="section-5496a"></a>
+## § 5496a. Administration
+**(a) Personnel**
+
+(1) **Appointment**
+
+  (A) *In general* — The Director may fix the number of, and appoint and direct, all employees of the Bureau, in accordance with the applicable provisions of title 5.
+
+  (B) *Employees of the Bureau* — The Director is authorized to employ attorneys, compliance examiners, compliance supervision analysts, economists, statisticians, and other employees as may be deemed necessary to conduct the business of the Bureau. Unless otherwise provided expressly by law, any individual appointed under this section shall be an employee as defined in [section 2105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim) and subject to the provisions of such title and other laws generally applicable to the employees of an Executive agency.
+
+  (C) *Waiver authority*
+
+    (i) *In general* — In making any appointment under subparagraph (A), the Director may waive the requirements of chapter 33 of title 5, and the regulations implementing such chapter, to the extent necessary to appoint employees on terms and conditions that are consistent with those set forth in section 11(1) of the Federal Reserve Act ([12 U.S.C. 248(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section248/1&num=0&edition=prelim)),11 See References in Text note below. while providing for—
+
+      (I) fair, credible, and transparent methods of establishing qualification requirements for, recruitment for, and appointments to positions;
+
+      (II) fair and open competition and equitable treatment in the consideration and selection of individuals to positions;
+
+      (III) fair, credible, and transparent methods of assigning, reassigning, detailing, transferring, and promoting employees.
+
+    (ii) *Veterans preferences* — In implementing this subparagraph, the Director shall comply with the provisions of section 2302(b)(11),1 regarding veterans’ preference requirements, in a manner consistent with that in which such provisions are applied under chapter 33 of title 5. The authority under this subparagraph to waive the requirements of that chapter 33 shall expire 5 years after July 21, 2010.
+
+(2) **Compensation** — Notwithstanding any otherwise applicable provision of title 5 concerning compensation, including the provisions of chapter 51 and chapter 53, the following provisions shall apply with respect to employees of the Bureau:
+
+  (A) The rates of basic pay for all employees of the Bureau may be set and adjusted by the Director.
+
+  (B) The Director shall at all times provide compensation (including benefits) to each class of employees that, at a minimum, are comparable to the compensation and benefits then being provided by the Board of Governors for the corresponding class of employees.
+
+  (C) All such employees shall be compensated (including benefits) on terms and conditions that are consistent with the terms and conditions set forth in section 248(l) of this title.
+
+(3) **Bureau participation in Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan**
+
+  (A) *Employee election* — Employees appointed to the Bureau may elect to participate in either—
+
+    (i) both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, under the same terms on which such participation is offered to employees of the Board of Governors who participate in such plans and under the terms and conditions specified under [section 5584(i)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5584/i/1/C&num=0&edition=prelim); or
+
+    (ii) the Civil Service Retirement System under chapter 83 of title 5 or the Federal Employees Retirement System under chapter 84 of title 5, if previously covered under one of those Federal employee retirement systems.
+
+  (B) *Election period* — Bureau employees shall make an election under this paragraph not later than 1 year after the date of appointment by, or transfer under part F to, the Bureau. Participation in, and benefit accruals under, any other retirement plan established or maintained by the Federal Government shall end not later than the date on which participation in, and benefit accruals under, the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan begin.
+
+  (C) *Employer contribution* — The Bureau shall pay an employer contribution to the Federal Reserve System Retirement Plan, in the amount established as an employer contribution under the Federal Employees Retirement System, as established under chapter 84 of title 5 for each Bureau employee who elects to participate in the Federal Reserve System Retirement Plan. The Bureau shall pay an employer contribution to the Federal Reserve System Thrift Plan for each Bureau employee who elects to participate in such plan, as required under the terms of such plan.
+
+  (D) *Controlled group status* — The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim).
+
+(4) **Labor-management relations** — Chapter 71 of title 5 shall apply to the Bureau and the employees of the Bureau.
+
+(5) **Agency ombudsman**
+
+  (A) *Establishment required* — Not later than 180 days after the designated transfer date, the Bureau shall appoint an ombudsman.
+
+  (B) *Duties of ombudsman* — The ombudsman appointed in accordance with subparagraph (A) shall—
+
+    (i) act as a liaison between the Bureau and any affected person with respect to any problem that such party may have in dealing with the Bureau, resulting from the regulatory activities of the Bureau; and
+
+    (ii) assure that safeguards exist to encourage complainants to come forward and preserve confidentiality.
+
+**(b) Specific functional units**
+
+(1) **Research** — The Director shall establish a unit whose functions shall include researching, analyzing, and reporting on—
+
+  (A) developments in markets for consumer financial products or services, including market areas of alternative consumer financial products or services with high growth rates and areas of risk to consumers;
+
+  (B) access to fair and affordable credit for traditionally underserved communities;
+
+  (C) consumer awareness, understanding, and use of disclosures and communications regarding consumer financial products or services;
+
+  (D) consumer awareness and understanding of costs, risks, and benefits of consumer financial products or services;
+
+  (E) consumer behavior with respect to consumer financial products or services, including performance on mortgage loans; and
+
+  (F) experiences of traditionally underserved consumers, including un-banked and under-banked consumers.
+
+(2) **Community affairs** — The Director shall establish a unit whose functions shall include providing information, guidance, and technical assistance regarding the offering and provision of consumer financial products or services to traditionally underserved consumers and communities.
+
+(3) **Collecting and tracking complaints**
+
+  (A) *In general* — The Director shall establish a unit whose functions shall include establishing a single, toll-free telephone number, a website, and a database or utilizing an existing database to facilitate the centralized collection of, monitoring of, and response to consumer complaints regarding consumer financial products or services. The Director shall coordinate with the Federal Trade Commission or other Federal agencies to route complaints to such agencies, where appropriate.
+
+  (B) *Routing calls to States* — To the extent practicable, State agencies may receive appropriate complaints from the systems established under subparagraph (A), if—
+
+    (i) the State agency system has the functional capacity to receive calls or electronic reports routed by the Bureau systems;
+
+    (ii) the State agency has satisfied any conditions of participation in the system that the Bureau may establish, including treatment of personally identifiable information and sharing of information on complaint resolution or related compliance procedures and resources; and
+
+    (iii) participation by the State agency includes measures necessary to provide for protection of personally identifiable information that conform to the standards for protection of the confidentiality of personally identifiable information and for data integrity and security that apply to the Federal agencies described in subparagraph (D).
+
+  (C) *Reports to the Congress* — The Director shall present an annual report to Congress not later than March 31 of each year on the complaints received by the Bureau in the prior year regarding consumer financial products and services. Such report shall include information and analysis about complaint numbers, complaint types, and, where applicable, information about resolution of complaints.
+
+  (D) *Data sharing required* — To facilitate preparation of the reports required under subparagraph (C), supervision and enforcement activities, and monitoring of the market for consumer financial products and services, the Bureau shall share consumer complaint information with prudential regulators, the Federal Trade Commission, other Federal agencies, and State agencies, subject to the standards applicable to Federal agencies for protection of the confidentiality of personally identifiable information and for data security and integrity. The prudential regulators, the Federal Trade Commission, and other Federal agencies shall share data relating to consumer complaints regarding consumer financial products and services with the Bureau, subject to the standards applicable to Federal agencies for protection of confidentiality of personally identifiable information and for data security and integrity.
+
+**(c) Office of Fair Lending and Equal Opportunity**
+
+(1) **Establishment** — The Director shall establish within the Bureau the Office of Fair Lending and Equal Opportunity.
+
+(2) **Functions** — The Office of Fair Lending and Equal Opportunity shall have such powers and duties as the Director may delegate to the Office, including—
+
+  (A) providing oversight and enforcement of Federal laws intended to ensure the fair, equitable, and nondiscriminatory access to credit for both individuals and communities that are enforced by the Bureau, including the Equal Credit Opportunity Act [[15 U.S.C. 1691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1691&num=0&edition=prelim) et seq.] and the Home Mortgage Disclosure Act [[12 U.S.C. 2801](./chapter-029-home-mortgage-disclosure.md#section-2801) et seq.];
+
+  (B) coordinating fair lending efforts of the Bureau with other Federal agencies and State regulators, as appropriate, to promote consistent, efficient, and effective enforcement of Federal fair lending laws;
+
+  (C) working with private industry, fair lending, civil rights, consumer and community advocates on the promotion of fair lending compliance and education; and
+
+  (D) providing annual reports to Congress on the efforts of the Bureau to fulfill its fair lending mandate.
+
+(3) **Administration of Office** — There is established the position of Assistant Director of the Bureau for Fair Lending and Equal Opportunity, who—
+
+  (A) shall be appointed by the Director; and
+
+  (B) shall carry out such duties as the Director may delegate to such Assistant Director.
+
+**(d) Office of Financial Education**
+
+(1) **Establishment** — The Director shall establish an Office of Financial Education, which shall be responsible for developing and implementing initiatives intended to educate and empower consumers to make better informed financial decisions.
+
+(2) **Other duties** — The Office of Financial Education shall develop and implement a strategy to improve the financial literacy of consumers that includes measurable goals and objectives, in consultation with the Financial Literacy and Education Commission, consistent with the National Strategy for Financial Literacy, through activities including providing opportunities for consumers to access—
+
+  (A) financial counseling, including community-based financial counseling, where practicable;
+
+  (B) information to assist with the evaluation of credit products and the understanding of credit histories and scores;
+
+  (C) savings, borrowing, and other services found at mainstream financial institutions;
+
+  (D) activities intended to—
+
+    (i) prepare the consumer for educational expenses and the submission of financial aid applications, and other major purchases;
+
+    (ii) reduce debt; and
+
+    (iii) improve the financial situation of the consumer;
+
+  (E) assistance in developing long-term savings strategies; and
+
+  (F) wealth building and financial services during the preparation process to claim earned income tax credits and Federal benefits.
+
+(3) **Coordination** — The Office of Financial Education shall coordinate with other units within the Bureau in carrying out its functions, including—
+
+  (A) working with the Community Affairs Office to implement the strategy to improve financial literacy of consumers; and
+
+  (B) working with the research unit established by the Director to conduct research related to consumer financial education and counseling.
+
+(4) **Report** — Not later than 24 months after the designated transfer date, and annually thereafter, the Director shall submit a report on its financial literacy activities and strategy to improve financial literacy of consumers to—
+
+  (A) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+
+  (B) the Committee on Financial Services of the House of Representatives.
+
+(5) **, (6) Omitted**
+
+(7) **Study and report on financial literacy program**
+
+  (A) *In general* — The Comptroller General of the United States shall conduct a study to identify—
+
+    (i) the feasibility of certification of persons providing the programs or performing the activities described in paragraph (2), including recognizing outstanding programs, and developing guidelines and resources for community-based practitioners, including—
+
+      (I) a potential certification process and standards for certification;
+
+      (II) appropriate certifying entities;
+
+      (III) resources required for funding such a process; and
+
+      (IV) a cost-benefit analysis of such certification;
+
+    (ii) technological resources intended to collect, analyze, evaluate, or promote financial literacy and counseling programs;
+
+    (iii) effective methods, tools, and strategies intended to educate and empower consumers about personal finance management; and
+
+    (iv) recommendations intended to encourage the development of programs that effectively improve financial education outcomes and empower consumers to make better informed financial decisions based on findings.
+
+  (B) *Report* — Not later than 1 year after July 21, 2010, the Comptroller General of the United States shall submit a report on the results of the study conducted under this paragraph to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+**(e) Office of Service Member Affairs**
+
+(1) **In general** — The Director shall establish an Office of Service Member Affairs, which shall be responsible for developing and implementing initiatives for service members and their families intended to—
+
+  (A) educate and empower service members and their families to make better informed decisions regarding consumer financial products and services;
+
+  (B) coordinate with the unit of the Bureau established under subsection (b)(3), in order to monitor complaints by service members and their families and responses to those complaints by the Bureau or other appropriate Federal or State agency; and
+
+  (C) coordinate efforts among Federal and State agencies, as appropriate, regarding consumer protection measures relating to consumer financial products and services offered to, or used by, service members and their families.
+
+(2) **Coordination**
+
+  (A) *Regional services* — The Director is authorized to assign employees of the Bureau as may be deemed necessary to conduct the business of the Office of Service Member Affairs, including by establishing and maintaining the functions of the Office in regional offices of the Bureau located near military bases, military treatment facilities, or other similar military facilities.
+
+  (B) *Agreements* — The Director is authorized to enter into memoranda of understanding and similar agreements with the Department of Defense, including any branch or agency as authorized by the department, in order to carry out the business of the Office of Service Member Affairs.
+
+(3) **Definition** — As used in this subsection, the term “service member” means any member of the United States Armed Forces and any member of the National Guard or Reserves.
+
+**(f) Timing** The Office of Fair Lending and Equal Opportunity, the Office of Financial Education, and the Office of Service Member Affairs shall each be established not later than 1 year after the designated transfer date.
+
+**(g) Office of Financial Protection for Older Americans**
+
+(1) **Establishment** — Before the end of the 180-day period beginning on the designated transfer date, the Director shall establish the Office of Financial Protection for Older Americans, the functions of which shall include activities designed to facilitate the financial literacy of individuals who have attained the age of 62 years or more (in this subsection, referred to as “seniors”) on protection from unfair, deceptive, and abusive practices and on current and future financial choices, including through the dissemination of materials to seniors on such topics.
+
+(2) **Assistant director** — The Office of Financial Protection for Older Americans (in this subsection referred to as the “Office”) shall be headed by an assistant director.
+
+(3) **Duties** — The Office shall—
+
+  (A) develop goals for programs that provide seniors financial literacy and counseling, including programs that—
+
+    (i) help seniors recognize warning signs of unfair, deceptive, or abusive practices, protect themselves from such practices;
+
+    (ii) provide one-on-one financial counseling on issues including long-term savings and later-life economic security; and
+
+    (iii) provide personal consumer credit advocacy to respond to consumer problems caused by unfair, deceptive, or abusive practices;
+
+  (B) monitor certifications or designations of financial advisors who advise seniors and alert the Commission and State regulators of certifications or designations that are identified as unfair, deceptive, or abusive;
+
+  (C) not later than 18 months after the date of the establishment of the Office, submit to Congress and the Commission any legislative and regulatory recommendations on the best practices for—
+
+    (i) disseminating information regarding the legitimacy of certifications of financial advisers who advise seniors;
+
+    (ii) methods in which a senior can identify the financial advisor most appropriate for the senior’s needs; and
+
+    (iii) methods in which a senior can verify a financial advisor’s credentials;
+
+  (D) conduct research to identify best practices and effective methods, tools, technology and strategies to educate and counsel seniors about personal finance management with a focus on—
+
+    (i) protecting themselves from unfair, deceptive, and abusive practices;
+
+    (ii) long-term savings; and
+
+    (iii) planning for retirement and long-term care;
+
+  (E) coordinate consumer protection efforts of seniors with other Federal agencies and State regulators, as appropriate, to promote consistent, effective, and efficient enforcement; and
+
+  (F) work with community organizations, non-profit organizations, and other entities that are involved with educating or assisting seniors (including the National Education and Resource Center on Women and Retirement Planning).
+
+### Statutory Notes
+
+#### References in Text
+Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), probably means section 11(l) of the Federal Reserve Act, which is classified to section 248(l) of this title.
+
+Section 2302(b)(11), referred to in subsec. (a)(1)(C)(ii), probably means [section 2302(b)(11) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/11&num=0&edition=prelim), Government Organization and Employees.
+
+The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, and is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of this title](./chapter-029-home-mortgage-disclosure.md#section-2801) and Tables.
+
+#### Codification
+Section is comprised of section 1013 of Pub. L. 111–203. Subsec. (d)(5), (6) of section 1013 of Pub. L. 111–203 amended [section 9702 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9702&num=0&edition=prelim), Education.
+
+
+<a id="section-5496b"></a>
+## § 5496b. Consumer Advisory Board
+**(a) Establishment required** The Director shall establish a Consumer Advisory Board to advise and consult with the Bureau in the exercise of its functions under the Federal consumer financial laws, and to provide information on emerging practices in the consumer financial products or services industry, including regional trends, concerns, and other relevant information.
+
+**(b) Membership** In appointing the members of the Consumer Advisory Board, the Director shall seek to assemble experts in consumer protection, financial services, community development, fair lending and civil rights, and consumer financial products or services and representatives of depository institutions that primarily serve underserved communities, and representatives of communities that have been significantly impacted by higher-priced mortgage loans, and seek representation of the interests of covered persons and consumers, without regard to party affiliation. Not fewer than 6 members shall be appointed upon the recommendation of the regional Federal Reserve Bank Presidents, on a rotating basis.
+
+**(c) Meetings** The Consumer Advisory Board shall meet from time to time at the call of the Director, but, at a minimum, shall meet at least twice in each year.
+
+**(d) Compensation and travel expenses** Members of the Consumer Advisory Board who are not full-time employees of the United States shall—
+
+(1) be entitled to receive compensation at a rate fixed by the Director while attending meetings of the Consumer Advisory Board, including travel time; and
+
+(2) be allowed travel expenses, including transportation and subsistence, while away from their homes or regular places of business.
+
+
+<a id="section-5497"></a>
+## § 5497. Coordination
+
+The Bureau shall coordinate with the Commission, the Commodity Futures Trading Commission, the Federal Trade Commission, and other Federal agencies and State regulators, as appropriate, to promote consistent regulatory treatment of consumer financial and investment products and services.
+
+
+<a id="section-5511"></a>
+## § 5511. Appearances before and reports to Congress
+**(a) Appearances before Congress** The Director of the Bureau shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services and the Committee on Energy and Commerce of the House of Representatives at semi-annual hearings regarding the reports required under subsection (b).
+
+**(b) Reports required** The Bureau shall, concurrent with each semi-annual hearing referred to in subsection (a), prepare and submit to the President and to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services and the Committee on Energy and Commerce of the House of Representatives, a report, beginning with the session following the designated transfer date. The Bureau may also submit such report to the Committee on Commerce, Science, and Transportation of the Senate.
+
+**(c) Contents** The reports required by subsection (b) shall include—
+
+(1) a discussion of the significant problems faced by consumers in shopping for or obtaining consumer financial products or services;
+
+(2) a justification of the budget request of the previous year;
+
+(3) a list of the significant rules and orders adopted by the Bureau, as well as other significant initiatives conducted by the Bureau, during the preceding year and the plan of the Bureau for rules, orders, or other initiatives to be undertaken during the upcoming period;
+
+(4) an analysis of complaints about consumer financial products or services that the Bureau has received and collected in its central database on complaints during the preceding year;
+
+(5) a list, with a brief statement of the issues, of the public supervisory and enforcement actions to which the Bureau was a party during the preceding year;
+
+(6) the actions taken regarding rules, orders, and supervisory actions with respect to covered persons which are not credit unions or depository institutions;
+
+(7) an assessment of significant actions by State attorneys general or State regulators relating to Federal consumer financial law;
+
+(8) an analysis of the efforts of the Bureau to fulfill the fair lending mission of the Bureau; and
+
+(9) an analysis of the efforts of the Bureau to increase workforce and contracting diversity consistent with the procedures established by the Office of Minority and Women Inclusion.
+
+
+<a id="section-5512"></a>
+## § 5512. Annual audits
+**(a) Annual independent audit** The Bureau shall order an annual independent audit of the operations and budget of the Bureau.
+
+**(b) Annual GAO audit** The Comptroller General of the United States shall conduct an annual audit of the Bureau’s financial statements in accordance with generally accepted government accounting standards.
+
+### Statutory Notes
+
+#### Initial Audits
+Pub. L. 112–10, div. B, title V, § 1573(c), Apr. 15, 2011, 125 Stat. 139, provided that: “The initial audits described under section 1016A of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5496a](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5496a)] shall be completed not later than the end of the 180-day period beginning on the date of the enactment of this Act [Apr. 15, 2011].”
+
+
+<a id="section-5513"></a>
+## § 5513. GAO study of financial regulations
+**(a) Study** Not later than the end of the 180-day period beginning on the date of the enactment of this Act, and annually thereafter, the Comptroller General of the United States shall conduct a study of financial services regulations, including activities of the Bureau. Such study shall include an analysis of—
+
+(1) the impact of regulation on the financial marketplace, including the effects on the safety and soundness of regulated entities, cost and availability of credit, savings realized by consumers, reductions in consumer paperwork burden, changes in personal and small business bankruptcy filings, and costs of compliance with rules, including whether relevant Federal agencies are applying sound cost-benefit analysis in promulgating rules;
+
+(2) efforts to avoid duplicative or conflicting rulemakings, including an evaluation of the consultative process under subparagraphs (B) and (C) of [section 5512(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5512/b/2&num=0&edition=prelim), information requests, and examinations; and
+
+(3) other matters related to the operations of financial services regulations deemed by the Comptroller General to be appropriate.
+
+**(b) Report** Not later than the end of the 30-day period following the completion of a study conducted pursuant to subsection (a), the Comptroller General shall issue a report to the Congress containing a detailed description of all findings and conclusions made by the Comptroller General in carrying out such study, together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 112–10, which enacted this section and was approved Apr. 15, 2011.
+
+
+<a id="section-5514"></a>
+## § 5514. Funding; penalties and fines
+**(a) Transfer of funds from Board Of Governors**
+
+(1) **In general** — Each year (or quarter of such year), beginning on the designated transfer date, and each quarter thereafter, the Board of Governors shall transfer to the Bureau from the combined earnings of the Federal Reserve System, the amount determined by the Director to be reasonably necessary to carry out the authorities of the Bureau under Federal consumer financial law, taking into account such other sums made available to the Bureau from the preceding year (or quarter of such year).
+
+(2) **Funding cap**
+
+  (A) *In general* — Notwithstanding paragraph (1), and in accordance with this paragraph, the amount that shall be transferred to the Bureau in each fiscal year shall not exceed a fixed percentage of the total operating expenses of the Federal Reserve System, as reported in the Annual Report, 2009, of the Board of Governors, equal to—
+
+    (i) 10 percent of such expenses in fiscal year 2011;
+
+    (ii) 11 percent of such expenses in fiscal year 2012; and
+
+    (iii) 12 percent of such expenses in fiscal year 2013, and in each year thereafter.
+
+  (B) *Adjustment of amount* — The dollar amount referred to in subparagraph (A)(iii) shall be adjusted annually, using the percent increase, if any, in the employment cost index for total compensation for State and local government workers published by the Federal Government, or the successor index thereto, for the 12-month period ending on September 30 of the year preceding the transfer.
+
+  (C) *Reviewability* — Notwithstanding any other provision in this title,11 See References in Text note below. the funds derived from the Federal Reserve System pursuant to this subsection shall not be subject to review by the Committees on Appropriations of the House of Representatives and the Senate.
+
+(3) **Transition period** — Beginning on July 21, 2010, and until the designated transfer date, the Board of Governors shall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.
+
+(4) **Budget and financial management**
+
+  (A) *Financial operating plans and forecasts* — The Director shall provide to the Director of the Office of Management and Budget copies of the financial operating plans and forecasts of the Director, as prepared by the Director in the ordinary course of the operations of the Bureau, and copies of the quarterly reports of the financial condition and results of operations of the Bureau, as prepared by the Director in the ordinary course of the operations of the Bureau.
+
+  (B) *Financial statements* — The Bureau shall prepare annually a statement of—
+
+    (i) assets and liabilities and surplus or deficit;
+
+    (ii) income and expenses; and
+
+    (iii) sources and application of funds.
+
+  (C) *Financial management systems* — The Bureau shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements and applicable Federal accounting standards.
+
+  (D) *Assertion of internal controls* — The Director shall provide to the Comptroller General of the United States an assertion as to the effectiveness of the internal controls that apply to financial reporting by the Bureau, using the standards established in [section 3512(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3512/c&num=0&edition=prelim).
+
+  (E) *Rule of construction* — This subsection may not be construed as implying any obligation on the part of the Director to consult with or obtain the consent or approval of the Director of the Office of Management and Budget with respect to any report, plan, forecast, or other information referred to in subparagraph (A) or any jurisdiction or oversight over the affairs or operations of the Bureau.
+
+  (F) *Financial statements* — The financial statements of the Bureau shall not be consolidated with the financial statements of either the Board of Governors or the Federal Reserve System.
+
+(5) **Audit of the Bureau**
+
+  (A) *In general* — The Comptroller General shall annually audit the financial transactions of the Bureau in accordance with the United States generally accepted government auditing standards, as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where accounts of the Bureau are normally kept. The representatives of the Government Accountability Office shall have access to the personnel and to all books, accounts, documents, papers, records (including electronic records), reports, files, and all other papers, automated data, things, or property belonging to or under the control of or used or employed by the Bureau pertaining to its financial transactions and necessary to facilitate the audit, and such representatives shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. All such books, accounts, documents, records, reports, files, papers, and property of the Bureau shall remain in possession and custody of the Bureau. The Comptroller General may obtain and duplicate any such books, accounts, documents, records, working papers, automated data and files, or other information relevant to such audit without cost to the Comptroller General, and the right of access of the Comptroller General to such information shall be enforceable pursuant to [section 716(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section716/c&num=0&edition=prelim).
+
+  (B) *Report* — The Comptroller General shall submit to the Congress a report of each annual audit conducted under this subsection. The report to the Congress shall set forth the scope of the audit and shall include the statement of assets and liabilities and surplus or deficit, the statement of income and expenses, the statement of sources and application of funds, and such comments and information as may be deemed necessary to inform Congress of the financial operations and condition of the Bureau, together with such recommendations with respect thereto as the Comptroller General may deem advisable. A copy of each report shall be furnished to the President and to the Bureau at the time submitted to the Congress.
+
+  (C) *Assistance and costs* — For the purpose of conducting an audit under this subsection, the Comptroller General may, in the discretion of the Comptroller General, employ by contract, without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), professional services of firms and organizations of certified public accountants for temporary periods or for special purposes. Upon the request of the Comptroller General, the Director of the Bureau shall transfer to the Government Accountability Office from funds available, the amount requested by the Comptroller General to cover the full costs of any audit and report conducted by the Comptroller General. The Comptroller General shall credit funds transferred to the account established for salaries and expenses of the Government Accountability Office, and such amount shall be available upon receipt and without fiscal year limitation to cover the full costs of the audit and report.
+
+**(b) Consumer Financial Protection Fund**
+
+(1) **Separate fund in Federal Reserve established** — There is established in the Federal Reserve a separate fund, to be known as the “Bureau of Consumer Financial Protection Fund” (referred to in this section as the “Bureau Fund”). The Bureau Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose.
+
+(2) **Fund receipts** — All amounts transferred to the Bureau under subsection (a) shall be deposited into the Bureau Fund.
+
+(3) **Investment authority**
+
+  (A) *Amounts in Bureau Fund may be invested* — The Bureau may request the Board of Governors to direct the investment of the portion of the Bureau Fund that is not, in the judgment of the Bureau, required to meet the current needs of the Bureau.
+
+  (B) *Eligible investments* — Investments authorized by this paragraph shall be made in obligations of the United States or obligations that are guaranteed as to principal and interest by the United States, with maturities suitable to the needs of the Bureau Fund, as determined by the Bureau.
+
+  (C) *Interest and proceeds credited* — The interest on, and the proceeds from the sale or redemption of, any obligations held in the Bureau Fund shall be credited to the Bureau Fund.
+
+**(c) Use of funds**
+
+(1) **In general** — Funds obtained by, transferred to, or credited to the Bureau Fund shall be immediately available to the Bureau and under the control of the Director, and shall remain available until expended, to pay the expenses of the Bureau in carrying out its duties and responsibilities. The compensation of the Director and other employees of the Bureau and all other expenses thereof may be paid from, obtained by, transferred to, or credited to the Bureau Fund under this section.
+
+(2) **Funds that are not Government funds** — Funds obtained by or transferred to the Bureau Fund shall not be construed to be Government funds or appropriated monies.
+
+(3) **Amounts not subject to apportionment** — Notwithstanding any other provision of law, amounts in the Bureau Fund and in the Civil Penalty Fund established under subsection (d) shall not be subject to apportionment for purposes of chapter 15 of title 31 or under any other authority.
+
+**(d) Penalties and fines**
+
+(1) **Establishment of victims relief fund** — There is established in the Federal Reserve a separate fund, to be known as the “Consumer Financial Civil Penalty Fund” (referred to in this section as the “Civil Penalty Fund”). The Civil Penalty Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose. If the Bureau obtains a civil penalty against any person in any judicial or administrative action under Federal consumer financial laws, the Bureau shall deposit into the Civil Penalty Fund, the amount of the penalty collected.
+
+(2) **Payment to victims** — Amounts in the Civil Penalty Fund shall be available to the Bureau, without fiscal year limitation, for payments to the victims of activities for which civil penalties have been imposed under the Federal consumer financial laws. To the extent that such victims cannot be located or such payments are otherwise not practicable, the Bureau may use such funds for the purpose of consumer education and financial literacy programs.
+
+**(e) Authorization of appropriations; annual report**
+
+(1) **Determination regarding need for appropriated funds**
+
+  (A) *In general* — The Director is authorized to determine that sums available to the Bureau under this section will not be sufficient to carry out the authorities of the Bureau under Federal consumer financial law for the upcoming year.
+
+  (B) *Report required* — When making a determination under subparagraph (A), the Director shall prepare a report regarding the funding of the Bureau, including the assets and liabilities of the Bureau, and the extent to which the funding needs of the Bureau are anticipated to exceed the level of the amount set forth in subsection (a)(2). The Director shall submit the report to the President and to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
+
+(2) **Authorization of appropriations** — If the Director makes the determination and submits the report pursuant to paragraph (1), there are hereby authorized to be appropriated to the Bureau, for the purposes of carrying out the authorities granted in Federal consumer financial law, $200,000,000 for each of fiscal years 2010, 2011, 2012, 2013, and 2014.
+
+(3) **Apportionment** — Notwithstanding any other provision of law, the amounts in paragraph (2) shall be subject to apportionment under [section 1517 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1517&num=0&edition=prelim) and restrictions that generally apply to the use of appropriated funds in title 31 and other laws.
+
+(4) **Annual report** — The Director shall prepare and submit a report, on an annual basis, to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives regarding the financial operating plans and forecasts of the Director, the financial condition and results of operations of the Bureau, and the sources and application of funds of the Bureau, including any funds appropriated in accordance with this subsection.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (a)(2)(C), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Codification
+In subsec. (a)(5)(C), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+
+<a id="section-5515"></a>
+## § 5515. Purpose, objectives, and functions
+**(a) Purpose** The Bureau shall seek to implement and, where applicable, enforce Federal consumer financial law consistently for the purpose of ensuring that all consumers have access to markets for consumer financial products and services and that markets for consumer financial products and services are fair, transparent, and competitive.
+
+**(b) Objectives** The Bureau is authorized to exercise its authorities under Federal consumer financial law for the purposes of ensuring that, with respect to consumer financial products and services—
+
+(1) consumers are provided with timely and understandable information to make responsible decisions about financial transactions;
+
+(2) consumers are protected from unfair, deceptive, or abusive acts and practices and from discrimination;
+
+(3) outdated, unnecessary, or unduly burdensome regulations are regularly identified and addressed in order to reduce unwarranted regulatory burdens;
+
+(4) Federal consumer financial law is enforced consistently, without regard to the status of a person as a depository institution, in order to promote fair competition; and
+
+(5) markets for consumer financial products and services operate transparently and efficiently to facilitate access and innovation.
+
+**(c) Functions** The primary functions of the Bureau are—
+
+(1) conducting financial education programs;
+
+(2) collecting, investigating, and responding to consumer complaints;
+
+(3) collecting, researching, monitoring, and publishing information relevant to the functioning of markets for consumer financial products and services to identify risks to consumers and the proper functioning of such markets;
+
+(4) subject to sections 5514 through 5516 of this title, supervising covered persons for compliance with Federal consumer financial law, and taking appropriate enforcement action to address violations of Federal consumer financial law;
+
+(5) issuing rules, orders, and guidance implementing Federal consumer financial law; and
+
+(6) performing such support activities as may be necessary or useful to facilitate the other functions of the Bureau.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 111–203, title X, § 1029A, July 21, 2010, 124 Stat. 2005, provided that: “This subtitle [subtitle B (§§ 1021–1029A), enacting this part] shall become effective on the designated transfer date, except that sections 1022, 1024, and 1025(e) [[12 U.S.C. 5512](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5512), 5514, and 5515(e)] shall become effective on the date of enactment of this Act [July 21, 2010].”
+
+[The term “designated transfer date” is defined in [section 5481(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481/9&num=0&edition=prelim) as the date established under [section 5582 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5582).]
+
+
+<a id="section-5516"></a>
+## § 5516. Rulemaking authority
+**(a) In general** The Bureau is authorized to exercise its authorities under Federal consumer financial law to administer, enforce, and otherwise implement the provisions of Federal consumer financial law.
+
+**(b) Rulemaking, orders, and guidance**
+
+(1) **General authority** — The Director may prescribe rules and issue orders and guidance, as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectives of the Federal consumer financial laws, and to prevent evasions thereof.
+
+(2) **Standards for rulemaking** — In prescribing a rule under the Federal consumer financial laws—
+
+  (A) the Bureau shall consider—
+
+    (i) the potential benefits and costs to consumers and covered persons, including the potential reduction of access by consumers to consumer financial products or services resulting from such rule; and
+
+    (ii) the impact of proposed rules on covered persons, as described in [section 5516 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5516), and the impact on consumers in rural areas;
+
+  (B) the Bureau shall consult with the appropriate prudential regulators or other Federal agencies prior to proposing a rule and during the comment process regarding consistency with prudential, market, or systemic objectives administered by such agencies; and
+
+  (C) if, during the consultation process described in subparagraph (B), a prudential regulator provides the Bureau with a written objection to the proposed rule of the Bureau or a portion thereof, the Bureau shall include in the adopting release a description of the objection and the basis for the Bureau decision, if any, regarding such objection, except that nothing in this clause shall be construed as altering or limiting the procedures under [section 5513 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5513) that may apply to any rule prescribed by the Bureau.
+
+(3) **Exemptions**
+
+  (A) *In general* — The Bureau, by rule, may conditionally or unconditionally exempt any class of covered persons, service providers, or consumer financial products or services, from any provision of this title,11 See References in Text note below. or from any rule issued under this title,1 as the Bureau determines necessary or appropriate to carry out the purposes and objectives of this title,1 taking into consideration the factors in subparagraph (B).
+
+  (B) *Factors* — In issuing an exemption, as permitted under subparagraph (A), the Bureau shall, as appropriate, take into consideration—
+
+    (i) the total assets of the class of covered persons;
+
+    (ii) the volume of transactions involving consumer financial products or services in which the class of covered persons engages; and
+
+    (iii) existing provisions of law which are applicable to the consumer financial product or service and the extent to which such provisions provide consumers with adequate protections.
+
+(4) **Exclusive rulemaking authority**
+
+  (A) *In general* — Notwithstanding any other provisions of Federal law and except as provided in [section 5581(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/5&num=0&edition=prelim), to the extent that a provision of Federal consumer financial law authorizes the Bureau and another Federal agency to issue regulations under that provision of law for purposes of assuring compliance with Federal consumer financial law and any regulations thereunder, the Bureau shall have the exclusive authority to prescribe rules subject to those provisions of law.
+
+  (B) *Deference* — Notwithstanding any power granted to any Federal agency or to the Council under this title,1 and subject to [section 5581(b)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/5/E&num=0&edition=prelim), the deference that a court affords to the Bureau with respect to a determination by the Bureau regarding the meaning or interpretation of any provision of a Federal consumer financial law shall be applied as if the Bureau were the only agency authorized to apply, enforce, interpret, or administer the provisions of such Federal consumer financial law.
+
+**(c) Monitoring**
+
+(1) **In general** — In order to support its rulemaking and other functions, the Bureau shall monitor for risks to consumers in the offering or provision of consumer financial products or services, including developments in markets for such products or services.
+
+(2) **Considerations** — In allocating its resources to perform the monitoring required by this section, the Bureau may consider, among other factors—
+
+  (A) likely risks and costs to consumers associated with buying or using a type of consumer financial product or service;
+
+  (B) understanding by consumers of the risks of a type of consumer financial product or service;
+
+  (C) the legal protections applicable to the offering or provision of a consumer financial product or service, including the extent to which the law is likely to adequately protect consumers;
+
+  (D) rates of growth in the offering or provision of a consumer financial product or service;
+
+  (E) the extent, if any, to which the risks of a consumer financial product or service may disproportionately affect traditionally underserved consumers; or
+
+  (F) the types, number, and other pertinent characteristics of covered persons that offer or provide the consumer financial product or service.
+
+(3) **Significant findings**
+
+  (A) *In general* — The Bureau shall publish not fewer than 1 report of significant findings of its monitoring required by this subsection in each calendar year, beginning with the first calendar year that begins at least 1 year after the designated transfer date.
+
+  (B) *Confidential information* — The Bureau may make public such information obtained by the Bureau under this section as is in the public interest, through aggregated reports or other appropriate formats designed to protect confidential information in accordance with paragraphs (4), (6), (8), and (9).
+
+(4) **Collection of information**
+
+  (A) *In general* — In conducting any monitoring or assessment required by this section, the Bureau shall have the authority to gather information from time to time regarding the organization, business conduct, markets, and activities of covered persons and service providers.
+
+  (B) *Methodology* — In order to gather information described in subparagraph (A), the Bureau may—
+
+    (i) gather and compile information from a variety of sources, including examination reports concerning covered persons or service providers, consumer complaints, voluntary surveys and voluntary interviews of consumers, surveys and interviews with covered persons and service providers, and review of available databases; and
+
+    (ii) require covered persons and service providers participating in consumer financial services markets to file with the Bureau, under oath or otherwise, in such form and within such reasonable period of time as the Bureau may prescribe by rule or order, annual or special reports, or answers in writing to specific questions, furnishing information described in paragraph (4), as necessary for the Bureau to fulfill the monitoring, assessment, and reporting responsibilities imposed by Congress.
+
+  (C) *Limitation* — The Bureau may not use its authorities under this paragraph to obtain records from covered persons and service providers participating in consumer financial services markets for purposes of gathering or analyzing the personally identifiable financial information of consumers.
+
+(5) **Limited information gathering** — In order to assess whether a nondepository is a covered person, as defined in [section 5481 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481), the Bureau may require such nondepository to file with the Bureau, under oath or otherwise, in such form and within such reasonable period of time as the Bureau may prescribe by rule or order, annual or special reports, or answers in writing to specific questions.
+
+(6) **Confidentiality rules**
+
+  (A) *Rulemaking* — The Bureau shall prescribe rules regarding the confidential treatment of information obtained from persons in connection with the exercise of its authorities under Federal consumer financial law.
+
+  (B) *Access by the Bureau to reports of other regulators*
+
+    (i) *Examination and financial condition reports* — Upon providing reasonable assurances of confidentiality, the Bureau shall have access to any report of examination or financial condition made by a prudential regulator or other Federal agency having jurisdiction over a covered person or service provider, and to all revisions made to any such report.
+
+    (ii) *Provision of other reports to the Bureau* — In addition to the reports described in clause (i), a prudential regulator or other Federal agency having jurisdiction over a covered person or service provider may, in its discretion, furnish to the Bureau any other report or other confidential supervisory information concerning any insured depository institution, credit union, or other entity examined by such agency under authority of any provision of Federal law.
+
+  (C) *Access by other regulators to reports of the Bureau*
+
+    (i) *Examination reports* — Upon providing reasonable assurances of confidentiality, a prudential regulator, a State regulator, or any other Federal agency having jurisdiction over a covered person or service provider shall have access to any report of examination made by the Bureau with respect to such person, and to all revisions made to any such report.
+
+    (ii) *Provision of other reports to other regulators* — In addition to the reports described in clause (i), the Bureau may, in its discretion, furnish to a prudential regulator or other agency having jurisdiction over a covered person or service provider any other report or other confidential supervisory information concerning such person examined by the Bureau under the authority of any other provision of Federal law.
+
+(7) **Registration**
+
+  (A) *In general* — The Bureau may prescribe rules regarding registration requirements applicable to a covered person, other than an insured depository institution, insured credit union, or related person.
+
+  (B) *Registration information* — Subject to rules prescribed by the Bureau, the Bureau may publicly disclose registration information to facilitate the ability of consumers to identify covered persons that are registered with the Bureau.
+
+  (C) *Consultation with State agencies* — In developing and implementing registration requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (including coordinated or combined systems for registration), where appropriate.
+
+(8) **Privacy considerations** — In collecting information from any person, publicly releasing information held by the Bureau, or requiring covered persons to publicly report information, the Bureau shall take steps to ensure that proprietary, personal, or confidential consumer information that is protected from public disclosure under section 552(b) or 552a of title 5 or any other provision of law, is not made public under this title.1
+
+(9) **Consumer privacy**
+
+  (A) *In general* — The Bureau may not obtain from a covered person or service provider any personally identifiable financial information about a consumer from the financial records of the covered person or service provider, except—
+
+    (i) if the financial records are reasonably described in a request by the Bureau and the consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
+
+    (ii) as may be specifically permitted or required under other applicable provisions of law and in accordance with the Right to Financial Privacy Act of 1978 ([12 U.S.C. 3401](./chapter-035-right-to-financial-privacy.md#section-3401) et seq.).
+
+  (B) *Treatment of covered person or service provider* — With respect to the application of any provision of the Right to Financial Privacy Act of 1978,22 So in original. The comma probably should not appear. to a disclosure by a covered person or service provider subject to this subsection, the covered person or service provider shall be treated as if it were a “financial institution”, as defined in section 1101 of that Act ([12 U.S.C. 3401](./chapter-035-right-to-financial-privacy.md#section-3401)).
+
+**(d) Assessment of significant rules**
+
+(1) **In general** — The Bureau shall conduct an assessment of each significant rule or order adopted by the Bureau under Federal consumer financial law. The assessment shall address, among other relevant factors, the effectiveness of the rule or order in meeting the purposes and objectives of this title 1 and the specific goals stated by the Bureau. The assessment shall reflect available evidence and any data that the Bureau reasonably may collect.
+
+(2) **Reports** — The Bureau shall publish a report of its assessment under this subsection not later than 5 years after the effective date of the subject rule or order.
+
+(3) **Public comment required** — Before publishing a report of its assessment, the Bureau shall invite public comment on recommendations for modifying, expanding, or eliminating the newly adopted significant rule or order.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in subsecs. (b)(3)(A), (4)(B), (c)(8), and (d)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Right to Financial Privacy Act of 1978, referred to in subsec. (c)(9)(A)(ii), (B), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of this title](./chapter-035-right-to-financial-privacy.md#section-3401) and Tables.
+
+#### Effective Date
+Section effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5517"></a>
+## § 5517. Review of Bureau regulations
+**(a) Review of Bureau regulations** On the petition of a member agency of the Council, the Council may set aside a final regulation prescribed by the Bureau, or any provision thereof, if the Council decides, in accordance with subsection (c), that the regulation or provision would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk.
+
+**(b) Petition**
+
+(1) **Procedure** — An agency represented by a member of the Council may petition the Council, in writing, and in accordance with rules prescribed pursuant to subsection (f), to stay the effectiveness of, or set aside, a regulation if the member agency filing the petition—
+
+  (A) has in good faith attempted to work with the Bureau to resolve concerns regarding the effect of the rule on the safety and soundness of the United States banking system or the stability of the financial system of the United States; and
+
+  (B) files the petition with the Council not later than 10 days after the date on which the regulation has been published in the Federal Register.
+
+(2) **Publication** — Any petition filed with the Council under this section shall be published in the Federal Register and transmitted contemporaneously with filing to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+
+**(c) Stays and set asides**
+
+(1) **Stay**
+
+  (A) *In general* — Upon the request of any member agency, the Chairperson of the Council may stay the effectiveness of a regulation for the purpose of allowing appropriate consideration of the petition by the Council.
+
+  (B) *Expiration* — A stay issued under this paragraph shall expire on the earlier of—
+
+    (i) 90 days after the date of filing of the petition under subsection (b); or
+
+    (ii) the date on which the Council makes a decision under paragraph (3).
+
+(2) **No adverse inference** — After the expiration of any stay imposed under this section, no inference shall be drawn regarding the validity or enforceability of a regulation which was the subject of the petition.
+
+(3) **Vote**
+
+  (A) *In general* — The decision to issue a stay of, or set aside, any regulation under this section shall be made only with the affirmative vote in accordance with subparagraph (B) of ⅔ of the members of the Council then serving.
+
+  (B) *Authorization to vote* — A member of the Council may vote to stay the effectiveness of, or set aside, a final regulation prescribed by the Bureau only if the agency or department represented by that member has—
+
+    (i) considered any relevant information provided by the agency submitting the petition and by the Bureau; and
+
+    (ii) made an official determination, at a public meeting where applicable, that the regulation which is the subject of the petition would put the safety and soundness of the United States banking system or the stability of the financial system of the United States at risk.
+
+(4) **Decisions to set aside**
+
+  (A) *Effect of decision* — A decision by the Council to set aside a regulation prescribed by the Bureau, or provision thereof, shall render such regulation, or provision thereof, unenforceable.
+
+  (B) *Timely action required* — The Council may not issue a decision to set aside a regulation, or provision thereof, which is the subject of a petition under this section after the expiration of the later of—
+
+    (i) 45 days following the date of filing of the petition, unless a stay is issued under paragraph (1); or
+
+    (ii) the expiration of a stay issued by the Council under this section.
+
+  (C) *Separate authority* — The issuance of a stay under this section does not affect the authority of the Council to set aside a regulation.
+
+(5) **Dismissal due to inaction** — A petition under this section shall be deemed dismissed if the Council has not issued a decision to set aside a regulation, or provision thereof, within the period for timely action under paragraph (4)(B).
+
+(6) **Publication of decision** — Any decision under this subsection to issue a stay of, or set aside, a regulation or provision thereof shall be published by the Council in the Federal Register as soon as practicable after the decision is made, with an explanation of the reasons for the decision.
+
+(7) **Rulemaking procedures inapplicable** — The notice and comment procedures under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) shall not apply to any decision under this section of the Council to issue a stay of, or set aside, a regulation.
+
+(8) **Judicial review of decisions by the Council** — A decision by the Council to set aside a regulation prescribed by the Bureau, or provision thereof, shall be subject to review under chapter 7 of title 5.
+
+**(d) Application of other law** Nothing in this section shall be construed as altering, limiting, or restricting the application of any other provision of law, except as otherwise specifically provided in this section, including chapter 5 and chapter 7 of title 5, to a regulation which is the subject of a petition filed under this section.
+
+**(e) Savings clause** Nothing in this section shall be construed as limiting or restricting the Bureau from engaging in a rulemaking in accordance with applicable law.
+
+**(f) Implementing rules** The Council shall prescribe procedural rules to implement this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5518"></a>
+## § 5518. Supervision of nondepository covered persons
+**(a) Scope of coverage**
+
+(1) **Applicability** — Notwithstanding any other provision of this title,11 See References in Text note below. and except as provided in paragraph (3), this section shall apply to any covered person who—
+
+  (A) offers or provides origination, brokerage, or servicing of loans secured by real estate for use by consumers primarily for personal, family, or household purposes, or loan modification or foreclosure relief services in connection with such loans;
+
+  (B) is a larger participant of a market for other consumer financial products or services, as defined by rule in accordance with paragraph (2);
+
+  (C) the Bureau has reasonable cause to determine, by order, after notice to the covered person and a reasonable opportunity for such covered person to respond, based on complaints collected through the system under [section 5493(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5493/b/3&num=0&edition=prelim) or information from other sources, that such covered person is engaging, or has engaged, in conduct that poses risks to consumers with regard to the offering or provision of consumer financial products or services;
+
+  (D) offers or provides to a consumer any private education loan, as defined in [section 1650 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650&num=0&edition=prelim), notwithstanding [section 5517(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5517/a/2/A&num=0&edition=prelim) and subject to [section 5517(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5517/a/2/C&num=0&edition=prelim); or
+
+  (E) offers or provides to a consumer a payday loan.
+
+(2) **Rulemaking to define covered persons subject to this section** — The Bureau shall consult with the Federal Trade Commission prior to issuing a rule, in accordance with paragraph (1)(B), to define covered persons subject to this section. The Bureau shall issue its initial rule not later than 1 year after the designated transfer date.
+
+(3) **Rules of construction**
+
+  (A) *Certain persons excluded* — This section shall not apply to persons described in section 5515(a) or 5516(a) of this title.
+
+  (B) *Activity levels* — For purposes of computing activity levels under paragraph (1) or rules issued thereunder, activities of affiliated companies (other than insured depository institutions or insured credit unions) shall be aggregated.
+
+**(b) Supervision**
+
+(1) **In general** — The Bureau shall require reports and conduct examinations on a periodic basis of persons described in subsection (a)(1) for purposes of—
+
+  (A) assessing compliance with the requirements of Federal consumer financial law;
+
+  (B) obtaining information about the activities and compliance systems or procedures of such person; and
+
+  (C) detecting and assessing risks to consumers and to markets for consumer financial products and services.
+
+(2) **Risk-based supervision program** — The Bureau shall exercise its authority under paragraph (1) in a manner designed to ensure that such exercise, with respect to persons described in subsection (a)(1), is based on the assessment by the Bureau of the risks posed to consumers in the relevant product markets and geographic markets, and taking into consideration, as applicable—
+
+  (A) the asset size of the covered person;
+
+  (B) the volume of transactions involving consumer financial products or services in which the covered person engages;
+
+  (C) the risks to consumers created by the provision of such consumer financial products or services;
+
+  (D) the extent to which such institutions are subject to oversight by State authorities for consumer protection; and
+
+  (E) any other factors that the Bureau determines to be relevant to a class of covered persons.
+
+(3) **Coordination** — To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including establishing their respective schedules for examining persons described in subsection (a)(1) and requirements regarding reports to be submitted by such persons.
+
+(4) **Use of existing reports** — The Bureau shall, to the fullest extent possible, use—
+
+  (A) reports pertaining to persons described in subsection (a)(1) that have been provided or required to have been provided to a Federal or State agency; and
+
+  (B) information that has been reported publicly.
+
+(5) **Preservation of authority** — Nothing in this title 1 may be construed as limiting the authority of the Director to require reports from persons described in subsection (a)(1), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
+
+(6) **Reports of tax law noncompliance** — The Bureau shall provide the Commissioner of Internal Revenue with any report of examination or related information identifying possible tax law noncompliance.
+
+(7) **Registration, recordkeeping and other requirements for certain persons**
+
+  (A) *In general* — The Bureau shall prescribe rules to facilitate supervision of persons described in subsection (a)(1) and assessment and detection of risks to consumers.
+
+  (B) *Recordkeeping* — The Bureau may require a person described in subsection (a)(1), to generate, provide, or retain records for the purposes of facilitating supervision of such persons and assessing and detecting risks to consumers.
+
+  (C) *Requirements concerning obligations* — The Bureau may prescribe rules regarding a person described in subsection (a)(1), to ensure that such persons are legitimate entities and are able to perform their obligations to consumers. Such requirements may include background checks for principals, officers, directors, or key personnel and bonding or other appropriate financial requirements.
+
+  (D) *Consultation with State agencies* — In developing and implementing requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (including coordinated or combined systems for registration), where appropriate.
+
+**(c) Enforcement authority**
+
+(1) **The Bureau to have enforcement authority** — Except as provided in paragraph (3) and [section 5581 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5581), with respect to any person described in subsection (a)(1), to the extent that Federal law authorizes the Bureau and another Federal agency to enforce Federal consumer financial law, the Bureau shall have exclusive authority to enforce that Federal consumer financial law.
+
+(2) **Referral** — Any Federal agency authorized to enforce a Federal consumer financial law described in paragraph (1) may recommend in writing to the Bureau that the Bureau initiate an enforcement proceeding, as the Bureau is authorized by that Federal law or by this title.1
+
+(3) **Coordination with the Federal Trade Commission**
+
+  (A) *In general* — The Bureau and the Federal Trade Commission shall negotiate an agreement for coordinating with respect to enforcement actions by each agency regarding the offering or provision of consumer financial products or services by any covered person that is described in subsection (a)(1), or service providers thereto. The agreement shall include procedures for notice to the other agency, where feasible, prior to initiating a civil action to enforce any Federal law regarding the offering or provision of consumer financial products or services.
+
+  (B) *Civil actions* — Whenever a civil action has been filed by, or on behalf of, the Bureau or the Federal Trade Commission for any violation of any provision of Federal law described in subparagraph (A), or any regulation prescribed under such provision of law—
+
+    (i) the other agency may not, during the pendency of that action, institute a civil action under such provision of law against any defendant named in the complaint in such pending action for any violation alleged in the complaint; and
+
+    (ii) the Bureau or the Federal Trade Commission may intervene as a party in any such action brought by the other agency, and, upon intervening—
+
+      (I) be heard on all matters arising in such enforcement action; and
+
+      (II) file petitions for appeal in such actions.
+
+  (C) *Agreement terms* — The terms of any agreement negotiated under subparagraph (A) may modify or supersede the provisions of subparagraph (B).
+
+  (D) *Deadline* — The agencies shall reach the agreement required under subparagraph (A) not later than 6 months after the designated transfer date.
+
+**(d) Exclusive rulemaking and examination authority** Notwithstanding any other provision of Federal law and except as provided in [section 5581 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5581), to the extent that Federal law authorizes the Bureau and another Federal agency to issue regulations or guidance, conduct examinations, or require reports from a person described in subsection (a)(1) under such law for purposes of assuring compliance with Federal consumer financial law and any regulations thereunder, the Bureau shall have the exclusive authority to prescribe rules, issue guidance, conduct examinations, require reports, or issue exemptions with regard to a person described in subsection (a)(1), subject to those provisions of law.
+
+**(e) Service providers** A service provider to a person described in subsection (a)(1) shall be subject to the authority of the Bureau under this section, to the same extent as if such service provider were engaged in a service relationship with a bank, and the Bureau were an appropriate Federal banking agency under [section 1867(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1867/c&num=0&edition=prelim). In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator, as applicable.
+
+**(f) Preservation of Farm Credit Administration authority** No provision of this title 1 may be construed as modifying, limiting, or otherwise affecting the authority of the Farm Credit Administration.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in subsecs. (a)(1), (b)(5), (c)(2), and (f), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5519"></a>
+## § 5519. Supervision of very large banks, savings associations, and credit unions
+**(a) Scope of coverage** This section shall apply to any covered person that is—
+
+(1) an insured depository institution with total assets of more than $10,000,000,000 and any affiliate thereof; or
+
+(2) an insured credit union with total assets of more than $10,000,000,000 and any affiliate thereof.
+
+**(b) Supervision**
+
+(1) **In general** — The Bureau shall have exclusive authority to require reports and conduct examinations on a periodic basis of persons described in subsection (a) for purposes of—
+
+  (A) assessing compliance with the requirements of Federal consumer financial laws;
+
+  (B) obtaining information about the activities subject to such laws and the associated compliance systems or procedures of such persons; and
+
+  (C) detecting and assessing associated risks to consumers and to markets for consumer financial products and services.
+
+(2) **Coordination** — To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including consultation regarding their respective schedules for examining such persons described in subsection (a) and requirements regarding reports to be submitted by such persons.
+
+(3) **Use of existing reports** — The Bureau shall, to the fullest extent possible, use—
+
+  (A) reports pertaining to a person described in subsection (a) that have been provided or required to have been provided to a Federal or State agency; and
+
+  (B) information that has been reported publicly.
+
+(4) **Preservation of authority** — Nothing in this title 11 See References in Text note below. may be construed as limiting the authority of the Director to require reports from a person described in subsection (a), as permitted under paragraph (1), regarding information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
+
+(5) **Reports of tax law noncompliance** — The Bureau shall provide the Commissioner of Internal Revenue with any report of examination or related information identifying possible tax law noncompliance.
+
+**(c) Primary enforcement authority**
+
+(1) **The Bureau to have primary enforcement authority** — To the extent that the Bureau and another Federal agency are authorized to enforce a Federal consumer financial law, the Bureau shall have primary authority to enforce that Federal consumer financial law with respect to any person described in subsection (a).
+
+(2) **Referral** — Any Federal agency, other than the Federal Trade Commission, that is authorized to enforce a Federal consumer financial law may recommend, in writing, to the Bureau that the Bureau initiate an enforcement proceeding with respect to a person described in subsection (a), as the Bureau is authorized to do by that Federal consumer financial law.
+
+(3) **Backup enforcement authority of other Federal agency** — If the Bureau does not, before the end of the 120-day period beginning on the date on which the Bureau receives a recommendation under paragraph (2), initiate an enforcement proceeding, the other agency referred to in paragraph (2) may initiate an enforcement proceeding, including performing follow up supervisory and support functions incidental thereto, to assure compliance with such proceeding.
+
+**(d) Service providers** A service provider to a person described in subsection (a) shall be subject to the authority of the Bureau under this section, to the same extent as if the Bureau were an appropriate Federal banking agency under [section 1867(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1867/c&num=0&edition=prelim). In conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
+
+**(e) Simultaneous and coordinated supervisory action**
+
+(1) **Examinations** — A prudential regulator and the Bureau shall, with respect to each insured depository institution, insured credit union, or other covered person described in subsection (a) that is supervised by the prudential regulator and the Bureau, respectively—
+
+  (A) coordinate the scheduling of examinations of the insured depository institution, insured credit union, or other covered person described in subsection (a);
+
+  (B) conduct simultaneous examinations of each insured depository institution or insured credit union, unless such institution requests examinations to be conducted separately;
+
+  (C) share each draft report of examination with the other agency and permit the receiving agency a reasonable opportunity (which shall not be less than a period of 30 days after the date of receipt) to comment on the draft report before such report is made final; and
+
+  (D) prior to issuing a final report of examination or taking supervisory action, take into consideration concerns, if any, raised in the comments made by the other agency.
+
+(2) **Coordination with State bank supervisors** — The Bureau shall pursue arrangements and agreements with State bank supervisors to coordinate examinations, consistent with paragraph (1).
+
+(3) **Avoidance of conflict in supervision**
+
+  (A) *Request* — If the proposed supervisory determinations of the Bureau and a prudential regulator (in this section referred to collectively as the “agencies”) are conflicting, an insured depository institution, insured credit union, or other covered person described in subsection (a) may request the agencies to coordinate and present a joint statement of coordinated supervisory action.
+
+  (B) *Joint statement* — The agencies shall provide a joint statement under subparagraph (A), not later than 30 days after the date of receipt of the request of the insured depository institution, credit union, or covered person described in subsection (a).
+
+(4) **Appeals to governing panel**
+
+  (A) *In general* — If the agencies do not resolve the conflict or issue a joint statement required by subparagraph (B), or if either of the agencies takes or attempts to take any supervisory action relating to the request for the joint statement without the consent of the other agency, an insured depository institution, insured credit union, or other covered person described in subsection (a) may institute an appeal to a governing panel, as provided in this subsection, not later than 30 days after the expiration of the period during which a joint statement is required to be filed under paragraph (3)(B).
+
+  (B) *Composition of governing panel* — The governing panel for an appeal under this paragraph shall be composed of—
+
+    (i) a representative from the Bureau and a representative of the prudential regulator, both of whom—
+
+      (I) have not participated in the material supervisory determinations under appeal; and
+
+      (II) do not directly or indirectly report to the person who participated materially in the supervisory determinations under appeal; and
+
+    (ii) one individual representative, to be determined on a rotating basis, from among the Board of Governors, the Corporation, the National Credit Union Administration, and the Office of the Comptroller of the Currency, other than any agency involved in the subject dispute.
+
+  (C) *Conduct of appeal* — In an appeal under this paragraph—
+
+    (i) the insured depository institution, insured credit union, or other covered person described in subsection (a)—
+
+      (I) shall include in its appeal all the facts and legal arguments pertaining to the matter; and
+
+      (II) may, through counsel, employees, or representatives, appear before the governing panel in person or by telephone; and
+
+    (ii) the governing panel—
+
+      (I) may request the insured depository institution, insured credit union, or other covered person described in subsection (a), the Bureau, or the prudential regulator to produce additional information relevant to the appeal; and
+
+      (II) by a majority vote of its members, shall provide a final determination, in writing, not later than 30 days after the date of filing of an informationally complete appeal, or such longer period as the panel and the insured depository institution, insured credit union, or other covered person described in subsection (a) may jointly agree.
+
+  (D) *Public availability of determinations* — A governing panel shall publish all information contained in a determination by the governing panel, with appropriate redactions of information that would be subject to an exemption from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim).
+
+  (E) *Prohibition against retaliation* — The Bureau and the prudential regulators shall prescribe rules to provide safeguards from retaliation against the insured depository institution, insured credit union, or other covered person described in subsection (a) instituting an appeal under this paragraph, as well as their officers and employees.
+
+  (F) *Limitation* — The process provided in this paragraph shall not apply to a determination by a prudential regulator to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the case may be, or a decision to take action pursuant to section 1831o of this title or [section 1790a of this title](./chapter-014-federal-credit-unions.md#section-1790a), as applicable.
+
+  (G) *Effect on other authority* — Nothing in this section shall modify or limit the authority of the Bureau to interpret, or take enforcement action under, any Federal consumer financial law, or the authority of a prudential regulator to interpret or take enforcement action under any other provision of Federal law for safety and soundness purposes.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (b)(4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, except that subsec. (e) of this section is effective July 21, 2010, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5531"></a>
+## § 5531. Other banks, savings associations, and credit unions
+**(a) Scope of coverage** This section shall apply to any covered person that is—
+
+(1) an insured depository institution with total assets of $10,000,000,000 or less; or
+
+(2) an insured credit union with total assets of $10,000,000,000 or less.
+
+**(b) Reports** The Director may require reports from a person described in subsection (a), as necessary to support the role of the Bureau in implementing Federal consumer financial law, to support its examination activities under subsection (c), and to assess and detect risks to consumers and consumer financial markets.
+
+(1) **Use of existing reports** — The Bureau shall, to the fullest extent possible, use—
+
+  (A) reports pertaining to a person described in subsection (a) that have been provided or required to have been provided to a Federal or State agency; and
+
+  (B) information that has been reported publicly.
+
+(2) **Preservation of authority** — Nothing in this subsection may be construed as limiting the authority of the Director from requiring from a person described in subsection (a), as permitted under paragraph (1), information owned or under the control of such person, regardless of whether such information is maintained, stored, or processed by another person.
+
+(3) **Reports of tax law noncompliance** — The Bureau shall provide the Commissioner of Internal Revenue with any report of examination or related information identifying possible tax law noncompliance.
+
+**(c) Examinations**
+
+(1) **In general** — The Bureau may, at its discretion, include examiners on a sampling basis of the examinations performed by the prudential regulator to assess compliance with the requirements of Federal consumer financial law of persons described in subsection (a).
+
+(2) **Agency coordination** — The prudential regulator shall—
+
+  (A) provide all reports, records, and documentation related to the examination process for any institution included in the sample referred to in paragraph (1) to the Bureau on a timely and continual basis;
+
+  (B) involve such Bureau examiner in the entire examination process for such person; and
+
+  (C) consider input of the Bureau concerning the scope of an examination, conduct of the examination, the contents of the examination report, the designation of matters requiring attention, and examination ratings.
+
+**(d) Enforcement**
+
+(1) **In general** — Except for requiring reports under subsection (b), the prudential regulator is authorized to enforce the requirements of Federal consumer financial laws and, with respect to a covered person described in subsection (a), shall have exclusive authority (relative to the Bureau) to enforce such laws.
+
+(2) **Coordination with prudential regulator**
+
+  (A) *Referral* — When the Bureau has reason to believe that a person described in subsection (a) has engaged in a material violation of a Federal consumer financial law, the Bureau shall notify the prudential regulator in writing and recommend appropriate action to respond.
+
+  (B) *Response* — Upon receiving a recommendation under subparagraph (A), the prudential regulator shall provide a written response to the Bureau not later than 60 days thereafter.
+
+**(e) Service providers** A service provider to a substantial number of persons described in subsection (a) shall be subject to the authority of the Bureau under [section 5515 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5515) to the same extent as if the Bureau were an appropriate Federal bank agency under [section 1867(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1867/c&num=0&edition=prelim). When conducting any examination or requiring any report from a service provider subject to this subsection, the Bureau shall coordinate with the appropriate prudential regulator.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5532"></a>
+## § 5532. Limitations on authorities of the Bureau; preservation of authorities
+**(a) Exclusion for merchants, retailers, and other sellers of nonfinancial goods or services**
+
+(1) **Sale or brokerage of nonfinancial good or service** — The Bureau may not exercise any rulemaking, supervisory, enforcement or other authority under this title 11 See References in Text note below. with respect to a person who is a merchant, retailer, or seller of any nonfinancial good or service and is engaged in the sale or brokerage of such nonfinancial good or service, except to the extent that such person is engaged in offering or providing any consumer financial product or service, or is otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
+
+(2) **Offering or provision of certain consumer financial products or services in connection with the sale or brokerage of nonfinancial good or service**
+
+  (A) *In general* — Except as provided in subparagraph (B), and subject to subparagraph (C), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title 1 with respect to a merchant, retailer, or seller of nonfinancial goods or services, but only to the extent that such person—
+
+    (i) extends credit directly to a consumer, in a case in which the good or service being provided is not itself a consumer financial product or service (other than credit described in this subparagraph), exclusively for the purpose of enabling that consumer to purchase such nonfinancial good or service directly from the merchant, retailer, or seller;
+
+    (ii) directly, or through an agreement with another person, collects debt arising from credit extended as described in clause (i); or
+
+    (iii) sells or conveys debt described in clause (i) that is delinquent or otherwise in default.
+
+  (B) *Applicability* — Subparagraph (A) does not apply to any credit transaction or collection of debt, other than as described in subparagraph (C)(i), arising from a transaction described in subparagraph (A)—
+
+    (i) in which the merchant, retailer, or seller of nonfinancial goods or services assigns, sells or otherwise conveys to another person such debt owed by the consumer (except for a sale of debt that is delinquent or otherwise in default, as described in subparagraph (A)(iii));
+
+    (ii) in which the credit extended significantly exceeds the market value of the nonfinancial good or service provided, or the Bureau otherwise finds that the sale of the nonfinancial good or service is done as a subterfuge, so as to evade or circumvent the provisions of this title; 1 or
+
+    (iii) in which the merchant, retailer, or seller of nonfinancial goods or services regularly extends credit and the credit is subject to a finance charge.
+
+  (C) *Limitations*
+
+    (i) *In general* — Notwithstanding subparagraph (B), subparagraph (A) shall apply with respect to a merchant, retailer, or seller of nonfinancial goods or services that is not engaged significantly in offering or providing consumer financial products or services.
+
+    (ii) *Exception* — Subparagraph (A) and clause (i) of this subparagraph do not apply to any merchant, retailer, or seller of nonfinancial goods or services—
+
+      (I) if such merchant, retailer, or seller of nonfinancial goods or services is engaged in a transaction described in subparagraph (B)(i) or (B)(ii); or
+
+      (II) to the extent that such merchant, retailer, or seller is subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H, but the Bureau may exercise such authority only with respect to that law.
+
+  (D) *Rules*
+
+    (i) *Authority of other agencies* — No provision of this title 1 shall be construed as modifying, limiting, or superseding the supervisory or enforcement authority of the Federal Trade Commission or any other agency (other than the Bureau) with respect to credit extended, or the collection of debt arising from such extension, directly by a merchant or retailer to a consumer exclusively for the purpose of enabling that consumer to purchase nonfinancial goods or services directly from the merchant or retailer.
+
+    (ii) *Small businesses* — A merchant, retailer, or seller of nonfinancial goods or services that would otherwise be subject to the authority of the Bureau solely by virtue of the application of subparagraph (B)(iii) shall be deemed not to be engaged significantly in offering or providing consumer financial products or services under subparagraph (C)(i), if such person—
+
+      (I) only extends credit for the sale of nonfinancial goods or services, as described in subparagraph (A)(i);
+
+      (II) retains such credit on its own accounts (except to sell or convey such debt that is delinquent or otherwise in default); and
+
+      (III) meets the relevant industry size threshold to be a small business concern, based on annual receipts, pursuant to section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)) and the implementing rules thereunder.
+
+    (iii) *Initial year* — A merchant, retailer, or seller of nonfinancial goods or services shall be deemed to meet the relevant industry size threshold described in clause (ii)(III) during the first year of operations of that business concern if, during that year, the receipts of that business concern reasonably are expected to meet that size threshold.
+
+    (iv) *Other standards for small business* — With respect to a merchant, retailer, or seller of nonfinancial goods or services that is a classified on a basis other than annual receipts for the purposes of section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)) and the implementing rules thereunder, such merchant, retailer, or seller shall be deemed to meet the relevant industry size threshold described in clause (ii)(III) if such merchant, retailer, or seller meets the relevant industry size threshold to be a small business concern based on the number of employees, or other such applicable measure, established under that Act [[15 U.S.C. 631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) et seq.].
+
+  (E) *Exception from State enforcement* — To the extent that the Bureau may not exercise authority under this subsection with respect to a merchant, retailer, or seller of nonfinancial goods or services, no action by a State attorney general or State regulator with respect to a claim made under this title 1 may be brought under sub[section 5552(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5552/a&num=0&edition=prelim), with respect to an activity described in any of clauses (i) through (iii) of subparagraph (A) by such merchant, retailer, or seller of nonfinancial goods or services.
+
+**(b) Exclusion for real estate brokerage activities**
+
+(1) **Real estate brokerage activities excluded** — Without limiting subsection (a), and except as permitted in paragraph (2), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority under this title 1 with respect to a person that is licensed or registered as a real estate broker or real estate agent, in accordance with State law, to the extent that such person—
+
+  (A) acts as a real estate agent or broker for a buyer, seller, lessor, or lessee of real property;
+
+  (B) brings together parties interested in the sale, purchase, lease, rental, or exchange of real property;
+
+  (C) negotiates, on behalf of any party, any portion of a contract relating to the sale, purchase, lease, rental, or exchange of real property (other than in connection with the provision of financing with respect to any such transaction); or
+
+  (D) offers to engage in any activity, or act in any capacity, described in subparagraph (A), (B), or (C).
+
+(2) **Description of activities** — The Bureau may exercise rulemaking, supervisory, enforcement, or other authority under this title 1 with respect to a person described in paragraph (1) when such person is—
+
+  (A) engaged in an activity of offering or providing any consumer financial product or service, except that the Bureau may exercise such authority only with respect to that activity; or
+
+  (B) otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H, but the Bureau may exercise such authority only with respect to that law.
+
+**(c) Exclusion for manufactured home retailers and modular home retailers**
+
+(1) **In general** — The Director may not exercise any rulemaking, supervisory, enforcement, or other authority over a person to the extent that—
+
+  (A) such person is not described in paragraph (2); and
+
+  (B) such person—
+
+    (i) acts as an agent or broker for a buyer or seller of a manufactured home or a modular home;
+
+    (ii) facilitates the purchase by a consumer of a manufactured home or modular home, by negotiating the purchase price or terms of the sales contract (other than providing financing with respect to such transaction); or
+
+    (iii) offers to engage in any activity described in clause (i) or (ii).
+
+(2) **Description of activities** — A person is described in this paragraph to the extent that such person is engaged in the offering or provision of any consumer financial product or service or is otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
+
+(3) **Definitions** — For purposes of this subsection, the following definitions shall apply:
+
+  (A) *Manufactured home* — The term “manufactured home” has the same meaning as in [section 5402 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5402&num=0&edition=prelim).
+
+  (B) *Modular home* — The term “modular home” means a house built in a factory in 2 or more modules that meet the State or local building codes where the house will be located, and where such modules are transported to the building site, installed on foundations, and completed.
+
+**(d) Exclusion for accountants and tax preparers**
+
+(1) **In general** — Except as permitted in paragraph (2), the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority over—
+
+  (A) any person that is a certified public accountant, permitted to practice as a certified public accounting firm, or certified or licensed for such purpose by a State, or any individual who is employed by or holds an ownership interest with respect to a person described in this subparagraph, when such person is performing or offering to perform—
+
+    (i) customary and usual accounting activities, including the provision of accounting, tax, advisory, or other services that are subject to the regulatory authority of a State board of accountancy or a Federal authority; or
+
+    (ii) other services that are incidental to such customary and usual accounting activities, to the extent that such incidental services are not offered or provided—
+
+      (I) by the person separate and apart from such customary and usual accounting activities; or
+
+      (II) to consumers who are not receiving such customary and usual accounting activities; or
+
+  (B) any person, other than a person described in subparagraph (A) 22 So in original. Probably should be followed by a comma. that performs income tax preparation activities for consumers.
+
+(2) **Description of activities**
+
+  (A) *In general* — Paragraph (1) shall not apply to any person described in paragraph (1)(A) or (1)(B) to the extent that such person is engaged in any activity which is not a customary and usual accounting activity described in paragraph (1)(A) or incidental thereto but which is the offering or provision of any consumer financial product or service, except to the extent that a person described in paragraph (1)(A) is engaged in an activity which is a customary and usual accounting activity described in paragraph (1)(A), or incidental thereto.
+
+  (B) *Not a customary and usual accounting activity* — For purposes of this subsection, extending or brokering credit is not a customary and usual accounting activity, or incidental thereto.
+
+  (C) *Rule of construction* — For purposes of subparagraphs (A) and (B), a person described in paragraph (1)(A) shall not be deemed to be extending credit, if such person is only extending credit directly to a consumer, exclusively for the purpose of enabling such consumer to purchase services described in clause (i) or (ii) of paragraph (1)(A) directly from such person, and such credit is—
+
+    (i) not subject to a finance charge; and
+
+    (ii) not payable by written agreement in more than 4 installments.
+
+  (D) *Other limitations* — Paragraph (1) does not apply to any person described in paragraph (1)(A) or (1)(B) that is otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
+
+**(e) Exclusion for practice of law**
+
+(1) **In general** — Except as provided under paragraph (2), the Bureau may not exercise any supervisory or enforcement authority with respect to an activity engaged in by an attorney as part of the practice of law under the laws of a State in which the attorney is licensed to practice law.
+
+(2) **Rule of construction** — Paragraph (1) shall not be construed so as to limit the exercise by the Bureau of any supervisory, enforcement, or other authority regarding the offering or provision of a consumer financial product or service described in any subparagraph of [section 5481(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481/5&num=0&edition=prelim)—
+
+  (A) that is not offered or provided as part of, or incidental to, the practice of law, occurring exclusively within the scope of the attorney-client relationship; or
+
+  (B) that is otherwise offered or provided by the attorney in question with respect to any consumer who is not receiving legal advice or services from the attorney in connection with such financial product or service.
+
+(3) **Existing authority** — Paragraph (1) shall not be construed so as to limit the authority of the Bureau with respect to any attorney, to the extent that such attorney is otherwise subject to any of the enumerated consumer laws or the authorities transferred under subtitle F or H.
+
+**(f) Exclusion for persons regulated by a State insurance regulator**
+
+(1) **In general** — No provision of this title 1 shall be construed as altering, amending, or affecting the authority of any State insurance regulator to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by a State insurance regulator. Except as provided in paragraph (2), the Bureau shall have no authority to exercise any power to enforce this title 1 with respect to a person regulated by a State insurance regulator.
+
+(2) **Description of activities** — Paragraph (1) does not apply to any person described in such paragraph to the extent that such person is engaged in the offering or provision of any consumer financial product or service or is otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
+
+(3) **State insurance authority under Gramm-Leach-Bliley** — Notwithstanding paragraph (2), the Bureau shall not exercise any authorities that are granted a State insurance authority under [section 6805(a)(6) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6805/a/6&num=0&edition=prelim) with respect to a person regulated by a State insurance authority.
+
+**(g) Exclusion for employee benefit and compensation plans and certain other arrangements under title 26**
+
+(1) **Preservation of authority of other agencies** — No provision of this title 1 shall be construed as altering, amending, or affecting the authority of the Secretary of the Treasury, the Secretary of Labor, or the Commissioner of Internal Revenue to adopt regulations, initiate enforcement proceedings, or take any actions with respect to any specified plan or arrangement.
+
+(2) **Activities not constituting the offering or provision of any consumer financial product or service** — For purposes of this title,1 a person shall not be treated as having engaged in the offering or provision of any consumer financial product or service solely because such person is—
+
+  (A) a specified plan or arrangement;
+
+  (B) engaged in the activity of establishing or maintaining, for the benefit of employees of such person (or for members of an employee organization), any specified plan or arrangement; or
+
+  (C) engaged in the activity of establishing or maintaining a qualified tuition program under [section 529(b)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section529/b/1&num=0&edition=prelim) offered by a State or other prepaid tuition program offered by a State.
+
+(3) **Limitation on Bureau authority**
+
+  (A) *In general* — Except as provided under subparagraphs (B) and (C), the Bureau may not exercise any rulemaking or enforcement authority with respect to products or services that relate to any specified plan or arrangement.
+
+  (B) *Bureau action pursuant to agency request*
+
+    (i) *Agency request* — The Secretary and the Secretary of Labor may jointly issue a written request to the Bureau regarding implementation of appropriate consumer protection standards under this title 1 with respect to the provision of services relating to any specified plan or arrangement.
+
+    (ii) *Agency response* — In response to a request by the Bureau, the Secretary and the Secretary of Labor shall jointly issue a written response, not later than 90 days after receipt of such request, to grant or deny the request of the Bureau regarding implementation of appropriate consumer protection standards under this title 1 with respect to the provision of services relating to any specified plan or arrangement.
+
+    (iii) *Scope of Bureau action* — Subject to a request or response pursuant to clause (i) or clause (ii) by the agencies made under this subparagraph, the Bureau may exercise rulemaking authority, and may act to enforce a rule prescribed pursuant to such request or response, in accordance with the provisions of this title.1 A request or response made by the Secretary and the Secretary of Labor under this subparagraph shall describe the basis for, and scope of, appropriate consumer protection standards to be implemented under this title 1 with respect to the provision of services relating to any specified plan or arrangement.
+
+  (C) *Description of products or services* — To the extent that a person engaged in providing products or services relating to any specified plan or arrangement is subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H, subparagraph (A) shall not apply with respect to that law.
+
+(4) **Specified plan or arrangement** — For purposes of this subsection, the term “specified plan or arrangement” means any plan, account, or arrangement described in section 220, 223, 401(a), 403(a), 403(b), 408, 408A, 529, or 530 of title 26, or any employee benefit or compensation plan or arrangement, including a plan that is subject to title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.], or any prepaid tuition program offered by a State.
+
+**(h) Persons regulated by a State securities commission**
+
+(1) **In general** — No provision of this title 1 shall be construed as altering, amending, or affecting the authority of any securities commission (or any agency or office performing like functions) of any State to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State. Except as permitted in paragraph (2) and subsection (f), the Bureau shall have no authority to exercise any power to enforce this title 1 with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State, but only to the extent that the person acts in such regulated capacity.
+
+(2) **Description of activities** — Paragraph (1) shall not apply to any person to the extent such person is engaged in the offering or provision of any consumer financial product or service, or is otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
+
+**(i) Exclusion for persons regulated by the Commission**
+
+(1) **In general** — No provision of this title 1 may be construed as altering, amending, or affecting the authority of the Commission to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Commission. The Bureau shall have no authority to exercise any power to enforce this title 1 with respect to a person regulated by the Commission.
+
+(2) **Consultation and coordination** — Notwithstanding paragraph (1), the Commission shall consult and coordinate, where feasible, with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding an investment product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title 1 or under any other law. In carrying out this paragraph, the agencies shall negotiate an agreement to establish procedures for such coordination, including procedures for providing advance notice to the Bureau when the Commission is initiating a rulemaking.
+
+**(j) Exclusion for persons regulated by the Commodity Futures Trading Commission**
+
+(1) **In general** — No provision of this title 1 shall be construed as altering, amending, or affecting the authority of the Commodity Futures Trading Commission to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Commodity Futures Trading Commission. The Bureau shall have no authority to exercise any power to enforce this title 1 with respect to a person regulated by the Commodity Futures Trading Commission.
+
+(2) **Consultation and coordination** — Notwithstanding paragraph (1), the Commodity Futures Trading Commission shall consult and coordinate with the Bureau with respect to any rule (including any advance notice of proposed rulemaking) regarding a product or service that is the same type of product as, or that competes directly with, a consumer financial product or service that is subject to the jurisdiction of the Bureau under this title 1 or under any other law.
+
+**(k) Exclusion for persons regulated by the Farm Credit Administration**
+
+(1) **In general** — No provision of this title 1 shall be construed as altering, amending, or affecting the authority of the Farm Credit Administration to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by the Farm Credit Administration. The Bureau shall have no authority to exercise any power to enforce this title 1 with respect to a person regulated by the Farm Credit Administration.
+
+(2) **Definition** — For purposes of this subsection, the term “person regulated by the Farm Credit Administration” means any Farm Credit System institution that is chartered and subject to the provisions of the Farm Credit Act of 1971 ([12 U.S.C. 2001](./chapter-023-farm-credit-system.md#section-2001) et seq.).
+
+**(l) Exclusion for activities relating to charitable contributions**
+
+(1) **In general** — The Director and the Bureau may not exercise any rulemaking, supervisory, enforcement, or other authority, including authority to order penalties, over any activities related to the solicitation or making of voluntary contributions to a tax-exempt organization as recognized by the Internal Revenue Service, by any agent, volunteer, or representative of such organizations to the extent the organization, agent, volunteer, or representative thereof is soliciting or providing advice, information, education, or instruction to any donor or potential donor relating to a contribution to the organization.
+
+(2) **Limitation** — The exclusion in paragraph (1) does not apply to other activities not described in paragraph (1) that are the offering or provision of any consumer financial product or service, or are otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
+
+**(m) Insurance** The Bureau may not define as a financial product or service, by regulation or otherwise, engaging in the business of insurance.
+
+**(n) Limited authority of the Bureau** Notwithstanding subsections (a) through (h) and (l), a person subject to or described in one or more of such provisions—
+
+(1) may be a service provider; and
+
+(2) may be subject to requests from, or requirements imposed by, the Bureau regarding information in order to carry out the responsibilities and functions of the Bureau and in accordance with section 5512, 5562, or 5563 of this title.
+
+**(o) No authority to impose usury limit** No provision of this title 1 shall be construed as conferring authority on the Bureau to establish a usury limit applicable to an extension of credit offered or made by a covered person to a consumer, unless explicitly authorized by law.
+
+**(p) Attorney General** No provision of this title,1 including [section 5514(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5514/c/1&num=0&edition=prelim), shall affect the authorities of the Attorney General under otherwise applicable provisions of law.
+
+**(q) Secretary of the Treasury** No provision of this title 1 shall affect the authorities of the Secretary, including with respect to prescribing rules, initiating enforcement proceedings, or taking other actions with respect to a person that performs income tax preparation activities for consumers.
+
+**(r) Deposit insurance and share insurance** Nothing in this title 1 shall affect the authority of the Corporation under the Federal Deposit Insurance Act [[12 U.S.C. 1811](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) et seq.] or the National Credit Union Administration Board under the Federal Credit Union Act [[12 U.S.C. 1751](./chapter-014-federal-credit-unions.md#section-1751) et seq.] as to matters related to deposit insurance and share insurance, respectively.
+
+**(s) Fair Housing Act** No provision of this title 1 shall be construed as affecting any authority arising under the Fair Housing Act [[42 U.S.C. 3601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) et seq.].
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+Subtitle F, referred to in text, is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+
+Subtitle H, referred to text, is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
+
+The Small Business Act, referred to in subsec. (a)(2)(D)(iv), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
+
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (g)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+
+The Farm Credit Act of 1971, referred to in subsec. (k)(2), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§ 2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-023-farm-credit-system.md#section-2001) and Tables.
+
+The Federal Deposit Insurance Act, referred to in subsec. (r), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+
+The Federal Credit Union Act, referred to in subsec. (r), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
+
+The Fair Housing Act, referred to in subsec. (s), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5533"></a>
+## § 5533. Authority to restrict mandatory pre-dispute arbitration
+**(a) Study and report** The Bureau shall conduct a study of, and shall provide a report to Congress concerning, the use of agreements providing for arbitration of any future dispute between covered persons and consumers in connection with the offering or providing of consumer financial products or services.
+
+**(b) Further authority** The Bureau, by regulation, may prohibit or impose conditions or limitations on the use of an agreement between a covered person and a consumer for a consumer financial product or service providing for arbitration of any future dispute between the parties, if the Bureau finds that such a prohibition or imposition of conditions or limitations is in the public interest and for the protection of consumers. The findings in such rule shall be consistent with the study conducted under subsection (a).
+
+**(c) Limitation** The authority described in subsection (b) may not be construed to prohibit or restrict a consumer from entering into a voluntary arbitration agreement with a covered person after a dispute has arisen.
+
+**(d) Effective date** Notwithstanding any other provision of law, any regulation prescribed by the Bureau under subsection (b) shall apply, consistent with the terms of the regulation, to any agreement between a consumer and a covered person entered into after the end of the 180-day period beginning on the effective date of the regulation, as established by the Bureau.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5534"></a>
+## § 5534. Exclusion for auto dealers
+**(a) Sale, servicing, and leasing of motor vehicles excluded** Except as permitted in subsection (b), the Bureau may not exercise any rulemaking, supervisory, enforcement or any other authority, including any authority to order assessments, over a motor vehicle dealer that is predominantly engaged in the sale and servicing of motor vehicles, the leasing and servicing of motor vehicles, or both.
+
+**(b) Certain functions excepted** Subsection (a) shall not apply to any person, to the extent that such person—
+
+(1) provides consumers with any services related to residential or commercial mortgages or self-financing transactions involving real property;
+
+(2) operates a line of business—
+
+  (A) that involves the extension of retail credit or retail leases involving motor vehicles; and
+
+  (B) in which—
+
+    (i) the extension of retail credit or retail leases are provided directly to consumers; and
+
+    (ii) the contract governing such extension of retail credit or retail leases is not routinely assigned to an unaffiliated third party finance or leasing source; or
+
+(3) offers or provides a consumer financial product or service not involving or related to the sale, financing, leasing, rental, repair, refurbishment, maintenance, or other servicing of motor vehicles, motor vehicle parts, or any related or ancillary product or service.
+
+**(c) Preservation of authorities of other agencies** Except as provided in subsections (b) and (d), nothing in this title,11 See References in Text note below. including subtitle F, shall be construed as modifying, limiting, or superseding the operation of any provision of Federal law, or otherwise affecting the authority of the Board of Governors, the Federal Trade Commission, or any other Federal agency, with respect to a person described in subsection (a).
+
+**(d) Federal Trade Commission authority** Notwithstanding [section 57a of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a&num=0&edition=prelim), the Federal Trade Commission is authorized to prescribe rules under sections 45 and 57a(a)(1)(B) of title 15.22 So in original. The period probably should be a comma. in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), with respect to a person described in subsection (a).
+
+**(e) Coordination with Office of Service Member Affairs** The Board of Governors and the Federal Trade Commission shall coordinate with the Office of Service Member Affairs, to ensure that—
+
+(1) service members and their families are educated and empowered to make better informed decisions regarding consumer financial products and services offered by motor vehicle dealers, with a focus on motor vehicle dealers in the proximity of military installations; and
+
+(2) complaints by service members and their families concerning such motor vehicle dealers are effectively monitored and responded to, and where appropriate, enforcement action is pursued by the authorized agencies.
+
+**(f) Definitions** For purposes of this section, the following definitions shall apply:
+
+(1) **Motor vehicle** — The term “motor vehicle” means—
+
+  (A) any self-propelled vehicle designed for transporting persons or property on a street, highway, or other road;
+
+  (B) recreational boats and marine equipment;
+
+  (C) motorcycles;
+
+  (D) motor homes, recreational vehicle trailers, and slide-in campers, as those terms are defined in sections 571.3 and 575.103 (d) of title 49, Code of Federal Regulations, or any successor thereto; and
+
+  (E) other vehicles that are titled and sold through dealers.
+
+(2) **Motor vehicle dealer** — The term “motor vehicle dealer” means any person or resident in the United States, or any territory of the United States, who—
+
+  (A) is licensed by a State, a territory of the United States, or the District of Columbia to engage in the sale of motor vehicles; and
+
+  (B) takes title to, holds an ownership in, or takes physical custody of motor vehicles.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (c), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+Subtitle F, referred to in subsec. (c), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1029A of Pub. L. 111–203, set out as a note under [section 5511 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511).
+
+
+<a id="section-5535"></a>
+## § 5535. Prohibiting unfair, deceptive, or abusive acts or practices
+**(a) In general** The Bureau may take any action authorized under part E to prevent a covered person or service provider from committing or engaging in an unfair, deceptive, or abusive act or practice under Federal law in connection with any transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service.
+
+**(b) Rulemaking** The Bureau may prescribe rules applicable to a covered person or service provider identifying as unlawful unfair, deceptive, or abusive acts or practices in connection with any transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service. Rules under this section may include requirements for the purpose of preventing such acts or practices.
+
+**(c) Unfairness**
+
+(1) **In general** — The Bureau shall have no authority under this section to declare an act or practice in connection with a transaction with a consumer for a consumer financial product or service, or the offering of a consumer financial product or service, to be unlawful on the grounds that such act or practice is unfair, unless the Bureau has a reasonable basis to conclude that—
+
+  (A) the act or practice causes or is likely to cause substantial injury to consumers which is not reasonably avoidable by consumers; and
+
+  (B) such substantial injury is not outweighed by countervailing benefits to consumers or to competition.
+
+(2) **Consideration of public policies** — In determining whether an act or practice is unfair, the Bureau may consider established public policies as evidence to be considered with all other evidence. Such public policy considerations may not serve as a primary basis for such determination.
+
+**(d) Abusive** The Bureau shall have no authority under this section to declare an act or practice abusive in connection with the provision of a consumer financial product or service, unless the act or practice—
+
+(1) materially interferes with the ability of a consumer to understand a term or condition of a consumer financial product or service; or
+
+(2) takes unreasonable advantage of—
+
+  (A) a lack of understanding on the part of the consumer of the material risks, costs, or conditions of the product or service;
+
+  (B) the inability of the consumer to protect the interests of the consumer in selecting or using a consumer financial product or service; or
+
+  (C) the reasonable reliance by the consumer on a covered person to act in the interests of the consumer.
+
+**(e) Consultation** In prescribing rules under this section, the Bureau shall consult with the Federal banking agencies, or other Federal agencies, as appropriate, concerning the consistency of the proposed rule with prudential, market, or systemic objectives administered by such agencies.
+
+**(f) Consideration of seasonal income** The rules of the Bureau under this section shall provide, with respect to an extension of credit secured by residential real estate or a dwelling, if documented income of the borrower, including income from a small business, is a repayment source for an extension of credit secured by residential real estate or a dwelling, the creditor may consider the seasonality and irregularity of such income in the underwriting of and scheduling of payments for such credit.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 111–203, title X, § 1037, July 21, 2010, 124 Stat. 2011, provided that: “This subtitle [subtitle C (§§ 1031–1037), enacting this part] shall take effect on the designated transfer date.”
+
+[The term “designated transfer date” is defined in [section 5481(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481/9&num=0&edition=prelim) as the date established under [section 5582 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5582).]
+
+
+<a id="section-5536"></a>
+## § 5536. Disclosures
+**(a) In general** The Bureau may prescribe rules to ensure that the features of any consumer financial product or service, both initially and over the term of the product or service, are fully, accurately, and effectively disclosed to consumers in a manner that permits consumers to understand the costs, benefits, and risks associated with the product or service, in light of the facts and circumstances.
+
+**(b) Model disclosures**
+
+(1) **In general** — Any final rule prescribed by the Bureau under this section requiring disclosures may include a model form that may be used at the option of the covered person for provision of the required disclosures.
+
+(2) **Format** — A model form issued pursuant to paragraph (1) shall contain a clear and conspicuous disclosure that, at a minimum—
+
+  (A) uses plain language comprehensible to consumers;
+
+  (B) contains a clear format and design, such as an easily readable type font; and
+
+  (C) succinctly explains the information that must be communicated to the consumer.
+
+(3) **Consumer testing** — Any model form issued pursuant to this subsection shall be validated through consumer testing.
+
+**(c) Basis for rulemaking** In prescribing rules under this section, the Bureau shall consider available evidence about consumer awareness, understanding of, and responses to disclosures or communications about the risks, costs, and benefits of consumer financial products or services.
+
+**(d) Safe harbor** Any covered person that uses a model form included with a rule issued under this section shall be deemed to be in compliance with the disclosure requirements of this section with respect to such model form.
+
+**(e) Trial disclosure programs**
+
+(1) **In general** — The Bureau may permit a covered person to conduct a trial program that is limited in time and scope, subject to specified standards and procedures, for the purpose of providing trial disclosures to consumers that are designed to improve upon any model form issued pursuant to subsection (b)(1), or any other model form issued to implement an enumerated statute, as applicable.
+
+(2) **Safe harbor** — The standards and procedures issued by the Bureau shall be designed to encourage covered persons to conduct trial disclosure programs. For the purposes of administering this subsection, the Bureau may establish a limited period during which a covered person conducting a trial disclosure program shall be deemed to be in compliance with, or may be exempted from, a requirement of a rule or an enumerated consumer law.
+
+(3) **Public disclosure** — The rules of the Bureau shall provide for public disclosure of trial disclosure programs, which public disclosure may be limited, to the extent necessary to encourage covered persons to conduct effective trials.
+
+**(f) Combined mortgage loan disclosure** Not later than 1 year after the designated transfer date, the Bureau shall propose for public comment rules and model disclosures that combine the disclosures required under the Truth in Lending Act [[15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) et seq.] and sections 2603 and 2604 of this title, into a single, integrated disclosure for mortgage loan transactions covered by those laws, unless the Bureau determines that any proposal issued by the Board of Governors and the Secretary of Housing and Urban Development carries out the same purpose.
+
+### Statutory Notes
+
+#### References in Text
+The Truth in Lending Act, referred to in subsec. (f), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).
+
+
+<a id="section-5537"></a>
+## § 5537. Consumer rights to access information
+**(a) In general** Subject to rules prescribed by the Bureau, a covered person shall make available to a consumer, upon request, information in the control or possession of the covered person concerning the consumer financial product or service that the consumer obtained from such covered person, including information relating to any transaction, series of transactions, or to the account including costs, charges and usage data. The information shall be made available in an electronic form usable by consumers.
+
+**(b) Exceptions** A covered person may not be required by this section to make available to the consumer—
+
+(1) any confidential commercial information, including an algorithm used to derive credit scores or other risk scores or predictors;
+
+(2) any information collected by the covered person for the purpose of preventing fraud or money laundering, or detecting, or making any report regarding other unlawful or potentially unlawful conduct;
+
+(3) any information required to be kept confidential by any other provision of law; or
+
+(4) any information that the covered person cannot retrieve in the ordinary course of its business with respect to that information.
+
+**(c) No duty to maintain records** Nothing in this section shall be construed to impose any duty on a covered person to maintain or keep any information about a consumer.
+
+**(d) Standardized formats for data** The Bureau, by rule, shall prescribe standards applicable to covered persons to promote the development and use of standardized formats for information, including through the use of machine readable files, to be made available to consumers under this section.
+
+**(e) Consultation** The Bureau shall, when prescribing any rule under this section, consult with the Federal banking agencies and the Federal Trade Commission to ensure, to the extent appropriate, that the rules—
+
+(1) impose substantively similar requirements on covered persons;
+
+(2) take into account conditions under which covered persons do business both in the United States and in other countries; and
+
+(3) do not require or promote the use of any particular technology in order to develop systems for compliance.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).
+
+
+<a id="section-5538"></a>
+## § 5538. Response to consumer complaints and inquiries
+**(a) Timely regulator response to consumers** The Bureau shall establish, in consultation with the appropriate Federal regulatory agencies, reasonable procedures to provide a timely response to consumers, in writing where appropriate, to complaints against, or inquiries concerning, a covered person, including—
+
+(1) steps that have been taken by the regulator in response to the complaint or inquiry of the consumer;
+
+(2) any responses received by the regulator from the covered person; and
+
+(3) any follow-up actions or planned follow-up actions by the regulator in response to the complaint or inquiry of the consumer.
+
+**(b) Timely response to regulator by covered person** A covered person subject to supervision and primary enforcement by the Bureau pursuant to [section 5515 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5515) shall provide a timely response, in writing where appropriate, to the Bureau, the prudential regulators, and any other agency having jurisdiction over such covered person concerning a consumer complaint or inquiry, including—
+
+(1) steps that have been taken by the covered person to respond to the complaint or inquiry of the consumer;
+
+(2) responses received by the covered person from the consumer; and
+
+(3) follow-up actions or planned follow-up actions by the covered person to respond to the complaint or inquiry of the consumer.
+
+**(c) Provision of information to consumers**
+
+(1) **In general** — A covered person subject to supervision and primary enforcement by the Bureau pursuant to [section 5515 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5515) shall, in a timely manner, comply with a consumer request for information in the control or possession of such covered person concerning the consumer financial product or service that the consumer obtained from such covered person, including supporting written documentation, concerning the account of the consumer.
+
+(2) **Exceptions** — A covered person subject to supervision and primary enforcement by the Bureau pursuant to [section 5515 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5515), a prudential regulator, and any other agency having jurisdiction over a covered person subject to supervision and primary enforcement by the Bureau pursuant to [section 5515 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5515) may not be required by this section to make available to the consumer—
+
+  (A) any confidential commercial information, including an algorithm used to derive credit scores or other risk scores or predictors;
+
+  (B) any information collected by the covered person for the purpose of preventing fraud or money laundering, or detecting or making any report regarding other unlawful or potentially unlawful conduct;
+
+  (C) any information required to be kept confidential by any other provision of law; or
+
+  (D) any nonpublic or confidential information, including confidential supervisory information.
+
+**(d) Agreements with other agencies** The Bureau shall enter into a memorandum of understanding with any affected Federal regulatory agency regarding procedures by which any covered person, and the prudential regulators, and any other agency having jurisdiction over a covered person, including the Secretary of the Department of Housing and Urban Development and the Secretary of Education, shall comply with this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).
+
+
+<a id="section-5551"></a>
+## § 5551. Private Education Loan Ombudsman
+**(a) Establishment** The Secretary, in consultation with the Director, shall designate a Private Education Loan Ombudsman (in this section referred to as the “Ombudsman”) within the Bureau, to provide timely assistance to borrowers of private education loans.
+
+**(b) Public information** The Secretary and the Director shall disseminate information about the availability and functions of the Ombudsman to borrowers and potential borrowers, as well as institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in private education student loan programs.
+
+**(c) Functions of Ombudsman** The Ombudsman designated under this subsection shall—
+
+(1) in accordance with regulations of the Director, receive, review, and attempt to resolve informally complaints from borrowers of loans described in subsection (a), including, as appropriate, attempts to resolve such complaints in collaboration with the Department of Education and with institutions of higher education, lenders, guaranty agencies, loan servicers, and other participants in private education loan programs;
+
+(2) not later than 90 days after the designated transfer date, establish a memorandum of understanding with the student loan ombudsman established under [section 1018(f) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1018/f&num=0&edition=prelim), to ensure coordination in providing assistance to and serving borrowers seeking to resolve complaints related to their private education or Federal student loans;
+
+(3) compile and analyze data on borrower complaints regarding private education loans; and
+
+(4) make appropriate recommendations to the Director, the Secretary, the Secretary of Education, the Committee on Banking, Housing, and Urban Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Financial Services and the Committee on Education and Labor of the House of Representatives.
+
+**(d) Annual reports**
+
+(1) **In general** — The Ombudsman shall prepare an annual report that describes the activities, and evaluates the effectiveness of the Ombudsman during the preceding year.
+
+(2) **Submission** — The report required by paragraph (1) shall be submitted on the same date annually to the Secretary, the Secretary of Education, the Committee on Banking, Housing, and Urban Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Financial Services and the Committee on Education and Labor of the House of Representatives.
+
+**(e) Definitions** For purposes of this section, the terms “private education loan” and “institution of higher education” have the same meanings as in [section 1650 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).
+
+
+<a id="section-5552"></a>
+## § 5552. Prohibited acts
+**(a) In general** It shall be unlawful for—
+
+(1) any covered person or service provider—
+
+  (A) to offer or provide to a consumer any financial product or service not in conformity with Federal consumer financial law, or otherwise commit any act or omission in violation of a Federal consumer financial law; or
+
+  (B) to engage in any unfair, deceptive, or abusive act or practice;
+
+(2) any covered person or service provider to fail or refuse, as required by Federal consumer financial law, or any rule or order issued by the Bureau thereunder—
+
+  (A) to permit access to or copying of records;
+
+  (B) to establish or maintain records; or
+
+  (C) to make reports or provide information to the Bureau; or
+
+(3) any person to knowingly or recklessly provide substantial assistance to a covered person or service provider in violation of the provisions of [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531), or any rule or order issued thereunder, and notwithstanding any provision of this title,11 See References in Text note below. the provider of such substantial assistance shall be deemed to be in violation of that section to the same extent as the person to whom such assistance is provided.
+
+**(b) Exception** No person shall be held to have violated subsection (a)(1) solely by virtue of providing or selling time or space to a covered person or service provider placing an advertisement.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in subsec. (a)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).
+
+
+<a id="section-5553"></a>
+## § 5553. Senior investor protections
+**(a) Definitions** As used in this section—
+
+(1) the term “eligible entity” means—
+
+  (A) a securities commission (or any agency or office performing like functions) of a State that the Office determines has adopted rules on the appropriate use of designations in the offer or sale of securities or the provision of investment advice that meet or exceed the minimum requirements of the NASAA Model Rule on the Use of Senior-Specific Certifications and Professional Designations (or any successor thereto);
+
+  (B) the insurance commission (or any agency or office performing like functions) of any State that the Office determines has—
+
+    (i) adopted rules on the appropriate use of designations in the sale of insurance products that, to the extent practicable, conform to the minimum requirements of the National Association of Insurance Commissioners Model Regulation on the Use of Senior-Specific Certifications and Professional Designations in the Sale of Life Insurance and Annuities (or any successor thereto); and
+
+    (ii) adopted rules with respect to fiduciary or suitability requirements in the sale of annuities that meet or exceed the minimum requirements established by the Suitability in Annuity Transactions Model Regulation of the National Association of Insurance Commissioners (or any successor thereto); or
+
+  (C) a consumer protection agency of any State, if—
+
+    (i) the securities commission (or any agency or office performing like functions) of the State is eligible under subparagraph (A); or
+
+    (ii) the insurance commission (or any agency or office performing like functions) of the State is eligible under subparagraph (B);
+
+(2) the term “financial product” means a security, an insurance product (including an insurance product that pays a return, whether fixed or variable), a bank product, and a loan product;
+
+(3) the term “misleading designation”—
+
+  (A) means a certification, professional designation, or other purported credential that indicates or implies that a salesperson or adviser has special certification or training in advising or servicing seniors; and
+
+  (B) does not include a certification, professional designation, license, or other credential that—
+
+    (i) was issued by or obtained from an academic institution having regional accreditation;
+
+    (ii) meets the standards for certifications and professional designations outlined by the NASAA Model Rule on the Use of Senior-Specific Certifications and Professional Designations (or any successor thereto) or by the Model Regulations on the Use of Senior-Specific Certifications and Professional Designations in the Sale of Life Insurance and Annuities, adopted by the National Association of Insurance Commissioners (or any successor thereto); or
+
+    (iii) was issued by or obtained from a State;
+
+(4) the term “misleading or fraudulent marketing” means the use of a misleading designation by a person that sells to or advises a senior in connection with the sale of a financial product;
+
+(5) the term “NASAA” means the North American Securities Administrators Association;
+
+(6) the term “Office” means the Office of Financial Literacy of the Bureau;
+
+(7) the term “senior” means any individual who has attained the age of 62 years or older; and
+
+(8) the term “State” has the same meaning as in [section 78c(a) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a&num=0&edition=prelim).
+
+**(b) Grants to States for enhanced protection of seniors from being misled by false designations** The Office shall establish a program under which the Office may make grants to States or eligible entities—
+
+(1) to hire staff to identify, investigate, and prosecute (through civil, administrative, or criminal enforcement actions) cases involving misleading or fraudulent marketing;
+
+(2) to fund technology, equipment, and training for regulators, prosecutors, and law enforcement officers, in order to identify salespersons and advisers who target seniors through the use of misleading designations;
+
+(3) to fund technology, equipment, and training for prosecutors to increase the successful prosecution of salespersons and advisers who target seniors with the use of misleading designations;
+
+(4) to provide educational materials and training to regulators on the appropriateness of the use of designations by salespersons and advisers in connection with the sale and marketing of financial products;
+
+(5) to provide educational materials and training to seniors to increase awareness and understanding of misleading or fraudulent marketing;
+
+(6) to develop comprehensive plans to combat misleading or fraudulent marketing of financial products to seniors; and
+
+(7) to enhance provisions of State law to provide protection for seniors against misleading or fraudulent marketing.
+
+**(c) Applications** A State or eligible entity desiring a grant under this section shall submit an application to the Office, in such form and in such a manner as the Office may determine, that includes—
+
+(1) a proposal for activities to protect seniors from misleading or fraudulent marketing that are proposed to be funded using a grant under this section, including—
+
+  (A) an identification of the scope of the problem of misleading or fraudulent marketing in the State;
+
+  (B) a description of how the proposed activities would—
+
+    (i) protect seniors from misleading or fraudulent marketing in the sale of financial products, including by proactively identifying victims of misleading and fraudulent marketing who are seniors;
+
+    (ii) assist in the investigation and prosecution of those using misleading or fraudulent marketing; and
+
+    (iii) discourage and reduce cases of misleading or fraudulent marketing; and
+
+  (C) a description of how the proposed activities would be coordinated with other State efforts; and
+
+(2) any other information, as the Office determines is appropriate.
+
+**(d) Performance objectives and reporting requirements** The Office may establish such performance objectives and reporting requirements for States and eligible entities receiving a grant under this section as the Office determines are necessary to carry out and assess the effectiveness of the program under this section.
+
+**(e) Maximum amount** The amount of a grant under this section may not exceed—
+
+(1) $500,000 for each of 3 consecutive fiscal years, if the recipient is a State, or an eligible entity of a State, that has adopted rules—
+
+  (A) on the appropriate use of designations in the offer or sale of securities or investment advice that meet or exceed the minimum requirements of the NASAA Model Rule on the Use of Senior-Specific Certifications and Professional Designations (or any successor thereto);
+
+  (B) on the appropriate use of designations in the sale of insurance products that, to the extent practicable, conform to the minimum requirements of the National Association of Insurance Commissioners Model Regulation on the Use of Senior-Specific Certifications and Professional Designations in the Sale of Life Insurance and Annuities (or any successor thereto); and
+
+  (C) with respect to fiduciary or suitability requirements in the sale of annuities that meet or exceed the minimum requirements established by the Suitability in Annuity Transactions Model Regulation of the National Association of Insurance Commissioners (or any successor thereto); and
+
+(2) $100,000 for each of 3 consecutive fiscal years, if the recipient is a State, or an eligible entity of a State, that has adopted—
+
+  (A) rules on the appropriate use of designations in the offer or sale of securities or investment advice that meet or exceed the minimum requirements of the NASAA Model Rule on the Use of Senior-Specific Certifications and Professional Designations (or any successor thereto); or
+
+  (B) rules—
+
+    (i) on the appropriate use of designations in the sale of insurance products that, to the extent practicable, conform to the minimum requirements of the National Association of Insurance Commissioners Model Regulation on the Use of Senior-Specific Certifications and Professional Designations in the Sale of Life Insurance and Annuities (or any successor thereto); and
+
+    (ii) with respect to fiduciary or suitability requirements in the sale of annuities that meet or exceed the minimum requirements established by the Suitability in Annuity Transactions Model Regulation of the National Association of Insurance Commissioners (or any successor thereto).
+
+**(f) Subgrants** A State or eligible entity that receives a grant under this section may make a subgrant, as the State or eligible entity determines is necessary to carry out the activities funded using a grant under this section.
+
+**(g) Reapplication** A State or eligible entity that receives a grant under this section may reapply for a grant under this section, notwithstanding the limitations on grant amounts under subsection (e).
+
+**(h) Authorization of appropriations** There are authorized to be appropriated to carry out this section, $8,000,000 for each of fiscal years 2011 through 2015.
+
+### Statutory Notes
+
+#### Codification
+Section was not enacted as part of subtitle C of title X of Pub. L. 111–203, which comprises this part.
+
+#### Effective Date
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5561"></a>
+## § 5561. Mortgages loans; rulemaking procedures; enforcement
+**(a)**
+
+(1) The Bureau of Consumer Financial Protection shall have authority to prescribe rules with respect to mortgage loans in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services. Any violation of a rule prescribed under this paragraph shall be treated as a violation of a rule prohibiting unfair, deceptive, or abusive acts or practices under the Consumer Financial Protection Act of 2010 and a violation of a rule under section 18 of the Federal Trade Commission Act ([15 U.S.C. 57a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a&num=0&edition=prelim)) regarding unfair or deceptive acts or practices.
+
+(2) The Bureau of Consumer Financial Protection shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction, powers, and duties, as though all applicable terms and provisions of the Consumer Financial Protection Act of 2010 were incorporated into and made part of this subsection.
+
+(3) Subject to subtitle B of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5511](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511) et seq.], the Federal Trade Commission shall enforce the rules issued under paragraph (1), in the same manner, by the same means, and with the same jurisdiction, as though all applicable terms and provisions of the Federal Trade Commission Act [[15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.] were incorporated into and made part of this section.
+
+**(b)**
+
+(1) Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in practices that violate such rule, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States or other court of competent jurisdiction—
+
+  (A) to enjoin that practice;
+
+  (B) to enforce compliance with the rule;
+
+  (C) to obtain damages, restitution, or other compensation on behalf of the residents of the State; or
+
+  (D) to obtain penalties and relief provided under the Consumer Financial Protection Act of 2010, the Federal Trade Commission Act [[15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.], and such other relief as the court deems appropriate.
+
+(2) The State shall serve written notice to the Bureau of Consumer Financial Protection or the Commission, as appropriate 11 So in original. Probably should be followed by a comma. of any civil action under paragraph (1) at least 60 days prior to initiating such civil action. The notice shall include a copy of the complaint to be filed to initiate such civil action, except that if it is not feasible for the State to provide such prior notice, the State shall provide notice immediately upon instituting such civil action.
+
+(3) Upon receiving the notice required by paragraph (2), and subject to subtitle B of the Consumer Financial Protection Act of 2010 [[12 U.S.C. 5511](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5511) et seq.], the Bureau of Consumer Financial Protection or the Commission, as appropriate 1 may intervene in such civil action and upon intervening—
+
+  (A) be heard on all matters arising in such civil action;
+
+  (B) remove the action to the appropriate United States district court; and
+
+  (C) file petitions for appeal of a decision in such civil action.
+
+(4) Nothing in this subsection shall prevent the attorney general of a State from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence. Nothing in this section shall prohibit the attorney general of a State, or other authorized State officer, from proceeding in State or Federal court on the basis of an alleged violation of any civil or criminal statute of that State.
+
+(5) In a civil action brought under paragraph (1)—
+
+  (A) the venue shall be a judicial district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under [section 1391 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391&num=0&edition=prelim); and
+
+  (B) process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted.
+
+(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
+
+(7) If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.
+
+### Statutory Notes
+
+#### References in Text
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (a) and (b)(1)(D), (3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of title X is classified generally to part B (§ 5511 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Federal Trade Commission Act, referred to in subsecs. (a)(3) and (b)(1)(D), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Omnibus Appropriations Act, 2009, and not as part of subtitle C of title X of Pub. L. 111–203, which comprises this part.
+
+Section was formerly set out as a note under [section 1638 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638&num=0&edition=prelim), Commerce and Trade.
+
+#### Amendments
+2010—Subsec. (a). Pub. L. 111–203, § 1097(1), added subsec. (a) and struck out former subsec. (a) which read as follows:
+
+“(a)(1) Within 90 days after March 11, 2009, the Federal Trade Commission shall initiate a rulemaking proceeding with respect to mortgage loans in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim). Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services. Any violation of a rule prescribed under this subsection shall be treated as a violation of a rule under section 18 of the Federal Trade Commission Act ([15 U.S.C. 57a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a&num=0&edition=prelim)) regarding unfair or deceptive acts or practices.
+
+“(2) Paragraph (1) shall not be construed to authorize the Federal Trade Commission to promulgate a rule with respect to an entity that is not subject to enforcement of the Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.) by the Commission.
+
+“(3) Before issuing a final rule pursuant to the proceeding initiated under paragraph (1), the Federal Trade Commission shall consult with the Federal Reserve Board concerning any portion of the proposed rule applicable to acts or practices to which the provisions of the Truth in Lending Act ([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) et seq.) may apply.
+
+“(4) The Federal Trade Commission shall enforce the rules issued under paragraph (1) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.) were incorporated into and made part of this section.”
+
+Subsec. (b)(1). Pub. L. 111–203, § 1097(2)(A), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in a practice that violates such rule, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate district court of the United States or other court of competent jurisdiction—
+
+“(A) to enjoin that practice;
+
+“(B) to enforce compliance with the rule;
+
+“(C) to obtain damages, restitution, or other compensation on behalf of residents of the State; or
+
+“(D) to obtain penalties and relief provided by the Federal Trade Commission Act and such other relief as the court considers appropriate.”
+
+Subsec. (b)(2). Pub. L. 111–203, § 1097(2)(B), substituted “the Bureau of Consumer Financial Protection or the Commission, as appropriate” for “the primary Federal regulator”.
+
+Subsec. (b)(3). Pub. L. 111–203, § 1097(2)(B), (C), inserted “and subject to subtitle B of the Consumer Financial Protection Act of 2010,” after “paragraph (2),” and substituted “the Bureau of Consumer Financial Protection or the Commission, as appropriate” for “the primary Federal regulator”.
+
+Subsec. (b)(6). Pub. L. 111–203, § 1097(2)(D), substituted “the Bureau of Consumer Financial Protection or the Commission” for “the primary Federal regulator” in two places.
+
+2009—Subsec. (a). Pub. L. 111–24, § 511(a), designated existing provisions as par. (1), inserted “Such rulemaking shall relate to unfair or deceptive acts or practices regarding mortgage loans, which may include unfair or deceptive acts or practices involving loan modification and foreclosure rescue services.”, and added pars. (2) to (4).
+
+Subsec. (b)(1). Pub. L. 111–24, § 511(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in paragraph (6), a State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate State or district court of the United States to enforce the provisions of section 128 of the Truth in Lending Act ([15 U.S.C. 1638](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1638&num=0&edition=prelim)), any other provision of the Truth in Lending Act, or any mortgage loan rule promulgated by the Federal Trade Commission to obtain penalties and relief provided under such Act or rule whenever the attorney general of the State has reason to believe that the interests of the residents of the State have been or are being threatened or adversely affected by a violation of such Act or rule.”
+
+Subsec. (b)(2), (3), (6). Pub. L. 111–24, § 511(a)(2)(B), substituted “primary Federal regulator” for “Commission” wherever appearing.
+
+#### Effective Date of 2010 Amendment
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees.
+
+#### Effective Date of 2009 Amendment
+Pub. L. 111–24, title V, § 511(b), May 22, 2009, 123 Stat. 1764, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on March 12, 2009.”
+
+
+<a id="section-5562"></a>
+## § 5562. Relation to State law
+**(a) In general**
+
+(1) **Rule of construction** — This title,11 See References in Text note below. other than sections 1044 through 1048,1 may not be construed as annulling, altering, or affecting, or exempting any person subject to the provisions of this title 1 from complying with, the statutes, regulations, orders, or interpretations in effect in any State, except to the extent that any such provision of law is inconsistent with the provisions of this title,1 and then only to the extent of the inconsistency.
+
+(2) **Greater protection under State law** — For purposes of this subsection, a statute, regulation, order, or interpretation in effect in any State is not inconsistent with the provisions of this title 1 if the protection that such statute, regulation, order, or interpretation affords to consumers is greater than the protection provided under this title.1 A determination regarding whether a statute, regulation, order, or interpretation in effect in any State is inconsistent with the provisions of this title 1 may be made by the Bureau on its own motion or in response to a nonfrivolous petition initiated by any interested person.
+
+**(b) Relation to other provisions of enumerated consumer laws that relate to State law** No provision of this title,1 except as provided in section 1083,1 shall be construed as modifying, limiting, or superseding the operation of any provision of an enumerated consumer law that relates to the application of a law in effect in any State with respect to such Federal law.
+
+**(c) Additional consumer protection regulations in response to State action**
+
+(1) **Notice of proposed rule required** — The Bureau shall issue a notice of proposed rulemaking whenever a majority of the States has enacted a resolution in support of the establishment or modification of a consumer protection regulation by the Bureau.
+
+(2) **Bureau considerations required for issuance of final regulation** — Before prescribing a final regulation based upon a notice issued pursuant to paragraph (1), the Bureau shall take into account whether—
+
+  (A) the proposed regulation would afford greater protection to consumers than any existing regulation;
+
+  (B) the intended benefits of the proposed regulation for consumers would outweigh any increased costs or inconveniences for consumers, and would not discriminate unfairly against any category or class of consumers; and
+
+  (C) a Federal banking agency has advised that the proposed regulation is likely to present an unacceptable safety and soundness risk to insured depository institutions.
+
+(3) **Explanation of considerations** — The Bureau—
+
+  (A) shall include a discussion of the considerations required in paragraph (2) in the Federal Register notice of a final regulation prescribed pursuant to this subsection; and
+
+  (B) whenever the Bureau determines not to prescribe a final regulation, shall publish an explanation of such determination in the Federal Register, and provide a copy of such explanation to each State that enacted a resolution in support of the proposed regulation, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives.
+
+(4) **Reservation of authority** — No provision of this subsection shall be construed as limiting or restricting the authority of the Bureau to enhance consumer protection standards established pursuant to this title 1 in response to its own motion or in response to a request by any other interested person.
+
+(5) **Rule of construction** — No provision of this subsection shall be construed as exempting the Bureau from complying with subchapter II of chapter 5 of title 5.
+
+(6) **Definition** — For purposes of this subsection, the term “consumer protection regulation” means a regulation that the Bureau is authorized to prescribe under the Federal consumer financial laws.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsecs. (a), (b), and (c)(4), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+Sections 1044 through 1048, referred to in subsec. (a)(1), are sections 1044 to 1048 of Pub. L. 111–203, which enacted and amended sections 25b and 1465 of this title and enacted provisions set out as a note below.
+
+Section 1083, referred to in subsec. (b), is section 1083 of Pub. L. 111–203, which amended sections 3802 and 3803 of this title and enacted provisions set out as notes under [section 3802 of this title](./chapter-039-alternative-mortgage-transactions.md#section-3802).
+
+#### Effective Date
+Pub. L. 111–203, title X, § 1048, July 21, 2010, 124 Stat. 2018, provided that: “This subtitle [subtitle D (§§ 1041–1048) of title X of Pub. L. 111–203, enacting this part and enacting and amending sections 25b and 1465 of this title] shall become effective on the designated transfer date.”
+
+[The term “designated transfer date” is defined in [section 5481(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481/9&num=0&edition=prelim) as the date established under [section 5582 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5582).]
+
+
+<a id="section-5563"></a>
+## § 5563. Preservation of enforcement powers of States
+**(a) In general**
+
+(1) **Action by State** — Except as provided in paragraph (2), the attorney general (or the equivalent thereof) of any State may bring a civil action in the name of such State in any district court of the United States in that State or in State court that is located in that State and that has jurisdiction over the defendant, to enforce provisions of this title 11 See References in Text note below. or regulations issued under this title,1 and to secure remedies under provisions of this title 1 or remedies otherwise provided under other law. A State regulator may bring a civil action or other appropriate proceeding to enforce the provisions of this title 1 or regulations issued under this title 1 with respect to any entity that is State-chartered, incorporated, licensed, or otherwise authorized to do business under State law (except as provided in paragraph (2)), and to secure remedies under provisions of this title 1 or remedies otherwise provided under other provisions of law with respect to such an entity.
+
+(2) **Action by State against national bank or Federal savings association to enforce rules**
+
+  (A) *In general* — Except as permitted under subparagraph (B), the attorney general (or equivalent thereof) of any State may not bring a civil action in the name of such State against a national bank or Federal savings association to enforce a provision of this title.1
+
+  (B) *Enforcement of rules permitted* — The attorney general (or the equivalent thereof) of any State may bring a civil action in the name of such State against a national bank or Federal savings association in any district court of the United States in the State or in State court that is located in that State and that has jurisdiction over the defendant to enforce a regulation prescribed by the Bureau under a provision of this title 1 and to secure remedies under provisions of this title 1 or remedies otherwise provided under other law.
+
+(3) **Rule of construction** — No provision of this title 1 shall be construed as modifying, limiting, or superseding the operation of any provision of an enumerated consumer law that relates to the authority of a State attorney general or State regulator to enforce such Federal law.
+
+**(b) Consultation required**
+
+(1) **Notice**
+
+  (A) *In general* — Before initiating any action in a court or other administrative or regulatory proceeding against any covered person as authorized by subsection (a) to enforce any provision of this title,1 including any regulation prescribed by the Bureau under this title,1 a State attorney general or State regulator shall timely provide a copy of the complete complaint to be filed and written notice describing such action or proceeding to the Bureau and the prudential regulator, if any, or the designee thereof.
+
+  (B) *Emergency action* — If prior notice is not practicable, the State attorney general or State regulator shall provide a copy of the complete complaint and the notice to the Bureau and the prudential regulator, if any, immediately upon instituting the action or proceeding.
+
+  (C) *Contents of notice* — The notification required under this paragraph shall, at a minimum, describe—
+
+    (i) the identity of the parties;
+
+    (ii) the alleged facts underlying the proceeding; and
+
+    (iii) whether there may be a need to coordinate the prosecution of the proceeding so as not to interfere with any action, including any rulemaking, undertaken by the Bureau, a prudential regulator, or another Federal agency.
+
+(2) **Bureau response** — In any action described in paragraph (1), the Bureau may—
+
+  (A) intervene in the action as a party;
+
+  (B) upon intervening—
+
+    (i) remove the action to the appropriate United States district court, if the action was not originally brought there; and
+
+    (ii) be heard on all matters arising in the action; and
+
+  (C) appeal any order or judgment, to the same extent as any other party in the proceeding may.
+
+**(c) Regulations** The Bureau shall prescribe regulations to implement the requirements of this section and, from time to time, provide guidance in order to further coordinate actions with the State attorneys general and other regulators.
+
+**(d) Preservation of State authority**
+
+(1) **State claims** — No provision of this section shall be construed as altering, limiting, or affecting the authority of a State attorney general or any other regulatory or enforcement agency or authority to bring an action or other regulatory proceeding arising solely under the law in effect in that State.
+
+(2) **State securities regulators** — No provision of this title 1 shall be construed as altering, limiting, or affecting the authority of a State securities commission (or any agency or office performing like functions) under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or authority.
+
+(3) **State insurance regulators** — No provision of this title 1 shall be construed as altering, limiting, or affecting the authority of a State insurance commission or State insurance regulator under State law to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by such commission or regulator.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsecs. (a), (b)(1)(A), and (d)(2), (3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1048 of Pub. L. 111–203, set out as a note under [section 5551 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5551).
+
+
+<a id="section-5564"></a>
+## § 5564. Preservation of existing contracts
+
+This title,11 See References in Text note below. and regulations, orders, guidance, and interpretations prescribed, issued, or established by the Bureau, shall not be construed to alter or affect the applicability of any regulation, order, guidance, or interpretation prescribed, issued, and established by the Comptroller of the Currency or the Director of the Office of Thrift Supervision regarding the applicability of State law under Federal banking law to any contract entered into on or before July 21, 2010, by national banks, Federal savings associations, or subsidiaries thereof that are regulated and supervised by the Comptroller of the Currency or the Director of the Office of Thrift Supervision, respectively.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1048 of Pub. L. 111–203, set out as a note under [section 5551 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5551).
+
+
+<a id="section-5565"></a>
+## § 5565. Definitions
+
+For purposes of this part, the following definitions shall apply:
+
+(1) **Bureau investigation** — The term “Bureau investigation” means any inquiry conducted by a Bureau investigator for the purpose of ascertaining whether any person is or has been engaged in any conduct that is a violation, as defined in this section.
+
+(2) **Bureau investigator** — The term “Bureau investigator” means any attorney or investigator employed by the Bureau who is charged with the duty of enforcing or carrying into effect any Federal consumer financial law.
+
+(3) **Custodian** — The term “custodian” means the custodian or any deputy custodian designated by the Bureau.
+
+(4) **Documentary material** — The term “documentary material” includes the original or any copy of any book, document, record, report, memorandum, paper, communication, tabulation, chart, logs, electronic files, or other data or data compilations stored in any medium.
+
+(5) **Violation** — The term “violation” means any act or omission that, if proved, would constitute a violation of any provision of Federal consumer financial law.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 111–203, title X, § 1058, July 21, 2010, 124 Stat. 2035, provided that: “This subtitle [subtitle E (§§ 1051–1058), enacting this part] shall become effective on the designated transfer date.”
+
+[The term “designated transfer date” is defined in [section 5481(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481/9&num=0&edition=prelim) as the date established under [section 5582 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5582).]
+
+
+<a id="section-5566"></a>
+## § 5566. Investigations and administrative discovery
+**(a) Joint investigations**
+
+(1) **In general** — The Bureau or, where appropriate, a Bureau investigator, may engage in joint investigations and requests for information, as authorized under this title.11 See References in Text note below.
+
+(2) **Fair lending** — The authority under paragraph (1) includes matters relating to fair lending, and where appropriate, joint investigations with, and requests for information from, the Secretary of Housing and Urban Development, the Attorney General of the United States, or both.
+
+**(b) Subpoenas**
+
+(1) **In general** — The Bureau or a Bureau investigator may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, documents, or other material in connection with hearings under this title.1
+
+(2) **Failure to obey** — In the case of contumacy or refusal to obey a subpoena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the Bureau or a Bureau investigator and after notice to such person, may issue an order requiring such person to appear and give testimony or to appear and produce documents or other material.
+
+(3) **Contempt** — Any failure to obey an order of the court under this subsection may be punished by the court as a contempt thereof.
+
+**(c) Demands**
+
+(1) **In general** — Whenever the Bureau has reason to believe that any person may be in possession, custody, or control of any documentary material or tangible things, or may have any information, relevant to a violation, the Bureau may, before the institution of any proceedings under the Federal consumer financial law, issue in writing, and cause to be served upon such person, a civil investigative demand requiring such person to—
+
+  (A) produce such documentary material for inspection and copying or reproduction in the form or medium requested by the Bureau;
+
+  (B) submit such tangible things;
+
+  (C) file written reports or answers to questions;
+
+  (D) give oral testimony concerning documentary material, tangible things, or other information; or
+
+  (E) furnish any combination of such material, answers, or testimony.
+
+(2) **Requirements** — Each civil investigative demand shall state the nature of the conduct constituting the alleged violation which is under investigation and the provision of law applicable to such violation.
+
+(3) **Production of documents** — Each civil investigative demand for the production of documentary material shall—
+
+  (A) describe each class of documentary material to be produced under the demand with such definiteness and certainty as to permit such material to be fairly identified;
+
+  (B) prescribe a return date or dates which will provide a reasonable period of time within which the material so demanded may be assembled and made available for inspection and copying or reproduction; and
+
+  (C) identify the custodian to whom such material shall be made available.
+
+(4) **Production of things** — Each civil investigative demand for the submission of tangible things shall—
+
+  (A) describe each class of tangible things to be submitted under the demand with such definiteness and certainty as to permit such things to be fairly identified;
+
+  (B) prescribe a return date or dates which will provide a reasonable period of time within which the things so demanded may be assembled and submitted; and
+
+  (C) identify the custodian to whom such things shall be submitted.
+
+(5) **Demand for written reports or answers** — Each civil investigative demand for written reports or answers to questions shall—
+
+  (A) propound with definiteness and certainty the reports to be produced or the questions to be answered;
+
+  (B) prescribe a date or dates at which time written reports or answers to questions shall be submitted; and
+
+  (C) identify the custodian to whom such reports or answers shall be submitted.
+
+(6) **Oral testimony** — Each civil investigative demand for the giving of oral testimony shall—
+
+  (A) prescribe a date, time, and place at which oral testimony shall be commenced; and
+
+  (B) identify a Bureau investigator who shall conduct the investigation and the custodian to whom the transcript of such investigation shall be submitted.
+
+(7) **Service** — Any civil investigative demand issued, and any enforcement petition filed, under this section may be served—
+
+  (A) by any Bureau investigator at any place within the territorial jurisdiction of any court of the United States; and
+
+  (B) upon any person who is not found within the territorial jurisdiction of any court of the United States—
+
+    (i) in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign nation; and
+
+    (ii) to the extent that the courts of the United States have authority to assert jurisdiction over such person, consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this section by such person that such district court would have if such person were personally within the jurisdiction of such district court.
+
+(8) **Method of service** — Service of any civil investigative demand or any enforcement petition filed under this section may be made upon a person, including any legal entity, by—
+
+  (A) delivering a duly executed copy of such demand or petition to the individual or to any partner, executive officer, managing agent, or general agent of such person, or to any agent of such person authorized by appointment or by law to receive service of process on behalf of such person;
+
+  (B) delivering a duly executed copy of such demand or petition to the principal office or place of business of the person to be served; or
+
+  (C) depositing a duly executed copy in the United States mails, by registered or certified mail, return receipt requested, duly addressed to such person at the principal office or place of business of such person.
+
+(9) **Proof of service**
+
+  (A) *In general* — A verified return by the individual serving any civil investigative demand or any enforcement petition filed under this section setting forth the manner of such service shall be proof of such service.
+
+  (B) *Return receipts* — In the case of service by registered or certified mail, such return shall be accompanied by the return post office receipt of delivery of such demand or enforcement petition.
+
+(10) **Production of documentary material** — The production of documentary material in response to a civil investigative demand shall be made under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by any person having knowledge of the facts and circumstances relating to such production, to the effect that all of the documentary material required by the demand and in the possession, custody, or control of the person to whom the demand is directed has been produced and made available to the custodian.
+
+(11) **Submission of tangible things** — The submission of tangible things in response to a civil investigative demand shall be made under a sworn certificate, in such form as the demand designates, by the person to whom the demand is directed or, if not a natural person, by any person having knowledge of the facts and circumstances relating to such production, to the effect that all of the tangible things required by the demand and in the possession, custody, or control of the person to whom the demand is directed have been submitted to the custodian.
+
+(12) **Separate answers** — Each reporting requirement or question in a civil investigative demand shall be answered separately and fully in writing under oath, unless it is objected to, in which event the reasons for the objection shall be stated in lieu of an answer, and it shall be submitted under a sworn certificate, in such form as the demand designates, by the person, if a natural person, to whom the demand is directed or, if not a natural person, by any person responsible for answering each reporting requirement or question, to the effect that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted.
+
+(13) **Testimony**
+
+  (A) *In general*
+
+    (i) *Oath and recordation* — The examination of any person pursuant to a demand for oral testimony served under this subsection shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place at which the examination is held. The officer before whom oral testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by any individual acting under the direction of and in the presence of the officer, record the testimony of the witness.
+
+    (ii) *Transcription* — The testimony shall be taken stenographically and transcribed.
+
+    (iii) *Transmission to custodian* — After the testimony is fully transcribed, the officer investigator before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
+
+  (B) *Parties present* — Any Bureau investigator before whom oral testimony is to be taken shall exclude from the place where the testimony is to be taken all other persons, except the person giving the testimony, the attorney for that person, the officer before whom the testimony is to be taken, an investigator or representative of an agency with which the Bureau is engaged in a joint investigation, and any stenographer taking such testimony.
+
+  (C) *Location* — The oral testimony of any person taken pursuant to a civil investigative demand shall be taken in the judicial district of the United States in which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the Bureau investigator before whom the oral testimony of such person is to be taken and such person.
+
+  (D) *Attorney representation*
+
+    (i) *In general* — Any person compelled to appear under a civil investigative demand for oral testimony pursuant to this section may be accompanied, represented, and advised by an attorney.
+
+    (ii) *Authority* — The attorney may advise a person described in clause (i), in confidence, either upon the request of such person or upon the initiative of the attorney, with respect to any question asked of such person.
+
+    (iii) *Objections* — A person described in clause (i), or the attorney for that person, may object on the record to any question, in whole or in part, and such person shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination, but such person shall not otherwise object to or refuse to answer any question, and such person or attorney shall not otherwise interrupt the oral examination.
+
+    (iv) *Refusal to answer* — If a person described in clause (i) refuses to answer any question—
+
+      (I) the Bureau may petition the district court of the United States pursuant to this section for an order compelling such person to answer such question; and
+
+      (II) if the refusal is on grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of [section 6004 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section6004&num=0&edition=prelim).
+
+  (E) *Transcripts* — For purposes of this subsection—
+
+    (i) after the testimony of any witness is fully transcribed, the Bureau investigator shall afford the witness (who may be accompanied by an attorney) a reasonable opportunity to examine the transcript;
+
+    (ii) the transcript shall be read to or by the witness, unless such examination and reading are waived by the witness;
+
+    (iii) any changes in form or substance which the witness desires to make shall be entered and identified upon the transcript by the Bureau investigator, with a statement of the reasons given by the witness for making such changes;
+
+    (iv) the transcript shall be signed by the witness, unless the witness in writing waives the signing, is ill, cannot be found, or refuses to sign; and
+
+    (v) if the transcript is not signed by the witness during the 30-day period following the date on which the witness is first afforded a reasonable opportunity to examine the transcript, the Bureau investigator shall sign the transcript and state on the record the fact of the waiver, illness, absence of the witness, or the refusal to sign, together with any reasons given for the failure to sign.
+
+  (F) *Certification by investigator* — The Bureau investigator shall certify on the transcript that the witness was duly sworn by him or her and that the transcript is a true record of the testimony given by the witness, and the Bureau investigator shall promptly deliver the transcript or send it by registered or certified mail to the custodian.
+
+  (G) *Copy of transcript* — The Bureau investigator shall furnish a copy of the transcript (upon payment of reasonable charges for the transcript) to the witness only, except that the Bureau may for good cause limit such witness to inspection of the official transcript of his testimony.
+
+  (H) *Witness fees* — Any witness appearing for the taking of oral testimony pursuant to a civil investigative demand shall be entitled to the same fees and mileage which are paid to witnesses in the district courts of the United States.
+
+**(d) Confidential treatment of demand material**
+
+(1) **In general** — Documentary materials and tangible things received as a result of a civil investigative demand shall be subject to requirements and procedures regarding confidentiality, in accordance with rules established by the Bureau.
+
+(2) **Disclosure to Congress** — No rule established by the Bureau regarding the confidentiality of materials submitted to, or otherwise obtained by, the Bureau shall be intended to prevent disclosure to either House of Congress or to an appropriate committee of the Congress, except that the Bureau is permitted to adopt rules allowing prior notice to any party that owns or otherwise provided the material to the Bureau and had designated such material as confidential.
+
+**(e) Petition for enforcement**
+
+(1) **In general** — Whenever any person fails to comply with any civil investigative demand duly served upon him under this section, or whenever satisfactory copying or reproduction of material requested pursuant to the demand cannot be accomplished and such person refuses to surrender such material, the Bureau, through such officers or attorneys as it may designate, may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person, a petition for an order of such court for the enforcement of this section.
+
+(2) **Service of process** — All process of any court to which application may be made as provided in this subsection may be served in any judicial district.
+
+**(f) Petition for order modifying or setting aside demand**
+
+(1) **In general** — Not later than 20 days after the service of any civil investigative demand upon any person under subsection (b), or at any time before the return date specified in the demand, whichever period is shorter, or within such period exceeding 20 days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any Bureau investigator named in the demand, such person may file with the Bureau a petition for an order by the Bureau modifying or setting aside the demand.
+
+(2) **Compliance during pendency** — The time permitted for compliance with the demand in whole or in part, as determined proper and ordered by the Bureau, shall not run during the pendency of a petition under paragraph (1) at the Bureau, except that such person shall comply with any portions of the demand not sought to be modified or set aside.
+
+(3) **Specific grounds** — A petition under paragraph (1) shall specify each ground upon which the petitioner relies in seeking relief, and may be based upon any failure of the demand to comply with the provisions of this section, or upon any constitutional or other legal right or privilege of such person.
+
+**(g) Custodial control** At any time during which any custodian is in custody or control of any documentary material, tangible things, reports, answers to questions, or transcripts of oral testimony given by any person in compliance with any civil investigative demand, such person may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian, a petition for an order of such court requiring the performance by such custodian of any duty imposed upon him by this section or rule promulgated by the Bureau.
+
+**(h) Jurisdiction of court**
+
+(1) **In general** — Whenever any petition is filed in any district court of the United States under this section, such court shall have jurisdiction to hear and determine the matter so presented, and to enter such order or orders as may be required to carry out the provisions of this section.
+
+(2) **Appeal** — Any final order entered as described in paragraph (1) shall be subject to appeal pursuant to [section 1291 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1291&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsecs. (a)(1) and (b)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under [section 5561 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5561).
+
+
+<a id="section-5567"></a>
+## § 5567. Hearings and adjudication proceedings
+**(a) In general** The Bureau is authorized to conduct hearings and adjudication proceedings with respect to any person in the manner prescribed by chapter 5 of title 5 in order to ensure or enforce compliance with—
+
+(1) the provisions of this title,11 See References in Text note below. including any rules prescribed by the Bureau under this title; 1 and
+
+(2) any other Federal law that the Bureau is authorized to enforce, including an enumerated consumer law, and any regulations or order prescribed thereunder, unless such Federal law specifically limits the Bureau from conducting a hearing or adjudication proceeding and only to the extent of such limitation.
+
+**(b) Special rules for cease-and-desist proceedings**
+
+(1) **Orders authorized**
+
+  (A) *In general* — If, in the opinion of the Bureau, any covered person or service provider is engaging or has engaged in an activity that violates a law, rule, or any condition imposed in writing on the person by the Bureau, the Bureau may, subject to sections 5514, 5515, and 5516 of this title, issue and serve upon the covered person or service provider a notice of charges in respect thereof.
+
+  (B) *Content of notice* — The notice under subparagraph (A) shall contain a statement of the facts constituting the alleged violation or violations, and shall fix a time and place at which a hearing will be held to determine whether an order to cease and desist should issue against the covered person or service provider, such hearing to be held not earlier than 30 days nor later than 60 days after the date of service of such notice, unless an earlier or a later date is set by the Bureau, at the request of any party so served.
+
+  (C) *Consent* — Unless the party or parties served under subparagraph (B) appear at the hearing personally or by a duly authorized representative, such person shall be deemed to have consented to the issuance of the cease-and-desist order.
+
+  (D) *Procedure* — In the event of consent under subparagraph (C), or if, upon the record, made at any such hearing, the Bureau finds that any violation specified in the notice of charges has been established, the Bureau may issue and serve upon the covered person or service provider an order to cease and desist from the violation or practice. Such order may, by provisions which may be mandatory or otherwise, require the covered person or service provider to cease and desist from the subject activity, and to take affirmative action to correct the conditions resulting from any such violation.
+
+(2) **Effectiveness of order** — A cease-and-desist order shall become effective at the expiration of 30 days after the date of service of an order under paragraph (1) upon the covered person or service provider concerned (except in the case of a cease-and-desist order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable as provided therein, except to such extent as the order is stayed, modified, terminated, or set aside by action of the Bureau or a reviewing court.
+
+(3) **Decision and appeal** — Any hearing provided for in this subsection shall be held in the Federal judicial district or in the territory in which the residence or principal office or place of business of the person is located unless the person consents to another place, and shall be conducted in accordance with the provisions of chapter 5 of title 5. After such hearing, and within 90 days after the Bureau has notified the parties that the case has been submitted to the Bureau for final decision, the Bureau shall render its decision (which shall include findings of fact upon which its decision is predicated) and shall issue and serve upon each party to the proceeding an order or orders consistent with the provisions of this section. Judicial review of any such order shall be exclusively as provided in this subsection. Unless a petition for review is timely filed in a court of appeals of the United States, as provided in paragraph (4), and thereafter until the record in the proceeding has been filed as provided in paragraph (4), the Bureau may at any time, upon such notice and in such manner as the Bureau shall determine proper, modify, terminate, or set aside any such order. Upon filing of the record as provided, the Bureau may modify, terminate, or set aside any such order with permission of the court.
+
+(4) **Appeal to court of appeals** — Any party to any proceeding under this subsection may obtain a review of any order served pursuant to this subsection (other than an order issued with the consent of the person concerned) by the filing in the court of appeals of the United States for the circuit in which the principal office of the covered person is located, or in the United States Court of Appeals for the District of Columbia Circuit, within 30 days after the date of service of such order, a written petition praying that the order of the Bureau be modified, terminated, or set aside. A copy of such petition shall be forthwith transmitted by the clerk of the court to the Bureau, and thereupon the Bureau shall file in the court the record in the proceeding, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). Upon the filing of such petition, such court shall have jurisdiction, which upon the filing of the record shall except as provided in the last sentence of paragraph (3) be exclusive, to affirm, modify, terminate, or set aside, in whole or in part, the order of the Bureau. Review of such proceedings shall be had as provided in chapter 7 of title 5. The judgment and decree of the court shall be final, except that the same shall be subject to review by the Supreme Court of the United States, upon certiorari, as provided in [section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim).
+
+(5) **No stay** — The commencement of proceedings for judicial review under paragraph (4) shall not, unless specifically ordered by the court, operate as a stay of any order issued by the Bureau.
+
+**(c) Special rules for temporary cease-and-desist proceedings**
+
+(1) **In general** — Whenever the Bureau determines that the violation specified in the notice of charges served upon a person, including a service provider, pursuant to subsection (b), or the continuation thereof, is likely to cause the person to be insolvent or otherwise prejudice the interests of consumers before the completion of the proceedings conducted pursuant to subsection (b), the Bureau may issue a temporary order requiring the person to cease and desist from any such violation or practice and to take affirmative action to prevent or remedy such insolvency or other condition pending completion of such proceedings. Such order may include any requirement authorized under this part. Such order shall become effective upon service upon the person and, unless set aside, limited, or suspended by a court in proceedings authorized by paragraph (2), shall remain effective and enforceable pending the completion of the administrative proceedings pursuant to such notice and until such time as the Bureau shall dismiss the charges specified in such notice, or if a cease-and-desist order is issued against the person, until the effective date of such order.
+
+(2) **Appeal** — Not later than 10 days after the covered person or service provider concerned has been served with a temporary cease-and-desist order, the person may apply to the United States district court for the judicial district in which the residence or principal office or place of business of the person is located, or the United States District Court for the District of Columbia, for an injunction setting aside, limiting, or suspending the enforcement, operation, or effectiveness of such order pending the completion of the administrative proceedings pursuant to the notice of charges served upon the person under subsection (b), and such court shall have jurisdiction to issue such injunction.
+
+(3) **Incomplete or inaccurate records**
+
+  (A) *Temporary order* — If a notice of charges served under subsection (b) specifies, on the basis of particular facts and circumstances, that the books and records of a covered person or service provider are so incomplete or inaccurate that the Bureau is unable to determine the financial condition of that person or the details or purpose of any transaction or transactions that may have a material effect on the financial condition of that person, the Bureau may issue a temporary order requiring—
+
+    (i) the cessation of any activity or practice which gave rise, whether in whole or in part, to the incomplete or inaccurate state of the books or records; or
+
+    (ii) affirmative action to restore such books or records to a complete and accurate state, until the completion of the proceedings under subsection (b)(1).
+
+  (B) *Effective period* — Any temporary order issued under subparagraph (A)—
+
+    (i) shall become effective upon service; and
+
+    (ii) unless set aside, limited, or suspended by a court in proceedings under paragraph (2), shall remain in effect and enforceable until the earlier of—
+
+      (I) the completion of the proceeding initiated under subsection (b) in connection with the notice of charges; or
+
+      (II) the date the Bureau determines, by examination or otherwise, that the books and records of the covered person or service provider are accurate and reflect the financial condition thereof.
+
+**(d) Special rules for enforcement of orders**
+
+(1) **In general** — The Bureau may in its discretion apply to the United States district court within the jurisdiction of which the principal office or place of business of the person is located, for the enforcement of any effective and outstanding notice or order issued under this section, and such court shall have jurisdiction and power to order and require compliance herewith.
+
+(2) **Exception** — Except as otherwise provided in this subsection, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order or to review, modify, suspend, terminate, or set aside any such notice or order.
+
+**(e) Rules** The Bureau shall prescribe rules establishing such procedures as may be necessary to carry out this section.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under [section 5561 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5561).
+
+
+<a id="section-5581"></a>
+## § 5581. Litigation authority
+**(a) In general** If any person violates a Federal consumer financial law, the Bureau may, subject to sections 5514, 5515, and 5516 of this title, commence a civil action against such person to impose a civil penalty or to seek all appropriate legal and equitable relief including a permanent or temporary injunction as permitted by law.
+
+**(b) Representation** The Bureau may act in its own name and through its own attorneys in enforcing any provision of this title,11 See References in Text note below. rules thereunder, or any other law or regulation, or in any action, suit, or proceeding to which the Bureau is a party.
+
+**(c) Compromise of actions** The Bureau may compromise or settle any action if such compromise is approved by the court.
+
+**(d) Notice to the Attorney General**
+
+(1) **In general** — When commencing a civil action under Federal consumer financial law, or any rule thereunder, the Bureau shall notify the Attorney General and, with respect to a civil action against an insured depository institution or insured credit union, the appropriate prudential regulator.
+
+(2) **Notice and coordination**
+
+  (A) *Notice of other actions* — In addition to any notice required under paragraph (1), the Bureau shall notify the Attorney General concerning any action, suit, or proceeding to which the Bureau is a party, except an action, suit, or proceeding that involves the offering or provision of consumer financial products or services.
+
+  (B) *Coordination* — In order to avoid conflicts and promote consistency regarding litigation of matters under Federal law, the Attorney General and the Bureau shall consult regarding the coordination of investigations and proceedings, including by negotiating an agreement for coordination by not later than 180 days after the designated transfer date. The agreement under this subparagraph shall include provisions to ensure that parallel investigations and proceedings involving the Federal consumer financial laws are conducted in a manner that avoids conflicts and does not impede the ability of the Attorney General to prosecute violations of Federal criminal laws.
+
+  (C) *Rule of construction* — Nothing in this paragraph shall be construed to limit the authority of the Bureau under this title,1 including the authority to interpret Federal consumer financial law.
+
+**(e) Appearance before the Supreme Court** The Bureau may represent itself in its own name before the Supreme Court of the United States, provided that the Bureau makes a written request to the Attorney General within the 10-day period which begins on the date of entry of the judgment which would permit any party to file a petition for writ of certiorari, and the Attorney General concurs with such request or fails to take action within 60 days of the request of the Bureau.
+
+**(f) Forum** Any civil action brought under this title 1 may be brought in a United States district court or in any court of competent jurisdiction of a state in a district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to enjoin such person and to require compliance with any Federal consumer financial law.
+
+**(g) Time for bringing action**
+
+(1) **In general** — Except as otherwise permitted by law or equity, no action may be brought under this title 1 more than 3 years after the date of discovery of the violation to which an action relates.
+
+(2) **Limitations under other Federal laws**
+
+  (A) *In general* — An action arising under this title 1 does not include claims arising solely under enumerated consumer laws.
+
+  (B) *Bureau authority* — In any action arising solely under an enumerated consumer law, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
+
+  (C) *Transferred authority* — In any action arising solely under laws for which authorities were transferred under subtitles F and H, the Bureau may commence, defend, or intervene in the action in accordance with the requirements of that provision of law, as applicable.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsecs. (b), (d)(2)(C), (f), and (g)(1), (2)(A), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+Subtitle F, referred to in subsec. (g)(2)(C), is subtitle F (§§ 1061–1067) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2035, which is classified generally to part F (§ 5581 et seq.) of this subchapter. For complete classification of subtitle F to the Code, see Tables.
+
+Subtitle H, referred to in subsec. (g)(2)(C), is subtitle H (§§ 1081–1100H) of title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 2080. For complete classification of subtitle H to the Code, see Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under [section 5561 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5561).
+
+
+<a id="section-5582"></a>
+## § 5582. Relief available
+**(a) Administrative proceedings or court actions**
+
+(1) **Jurisdiction** — The court (or the Bureau, as the case may be) in an action or adjudication proceeding brought under Federal consumer financial law, shall have jurisdiction to grant any appropriate legal or equitable relief with respect to a violation of Federal consumer financial law, including a violation of a rule or order prescribed under a Federal consumer financial law.
+
+(2) **Relief** — Relief under this section may include, without limitation—
+
+  (A) rescission or reformation of contracts;
+
+  (B) refund of moneys or return of real property;
+
+  (C) restitution;
+
+  (D) disgorgement or compensation for unjust enrichment;
+
+  (E) payment of damages or other monetary relief;
+
+  (F) public notification regarding the violation, including the costs of notification;
+
+  (G) limits on the activities or functions of the person; and
+
+  (H) civil money penalties, as set forth more fully in subsection (c).
+
+(3) **No exemplary or punitive damages** — Nothing in this subsection shall be construed as authorizing the imposition of exemplary or punitive damages.
+
+**(b) Recovery of costs** In any action brought by the Bureau, a State attorney general, or any State regulator to enforce any Federal consumer financial law, the Bureau, the State attorney general, or the State regulator may recover its costs in connection with prosecuting such action if the Bureau, the State attorney general, or the State regulator is the prevailing party in the action.
+
+**(c) Civil money penalty in court and administrative actions**
+
+(1) **In general** — Any person that violates, through any act or omission, any provision of Federal consumer financial law shall forfeit and pay a civil penalty pursuant to this subsection.
+
+(2) **Penalty amounts**
+
+  (A) *First tier* — For any violation of a law, rule, or final order or condition imposed in writing by the Bureau, a civil penalty may not exceed $5,000 for each day during which such violation or failure to pay continues.
+
+  (B) *Second tier* — Notwithstanding paragraph (A), for any person that recklessly engages in a violation of a Federal consumer financial law, a civil penalty may not exceed $25,000 for each day during which such violation continues.
+
+  (C) *Third tier* — Notwithstanding subparagraphs (A) and (B), for any person that knowingly violates a Federal consumer financial law, a civil penalty may not exceed $1,000,000 for each day during which such violation continues.
+
+(3) **Mitigating factors** — In determining the amount of any penalty assessed under paragraph (2), the Bureau or the court shall take into account the appropriateness of the penalty with respect to—
+
+  (A) the size of financial resources and good faith of the person charged;
+
+  (B) the gravity of the violation or failure to pay;
+
+  (C) the severity of the risks to or losses of the consumer, which may take into account the number of products or services sold or provided;
+
+  (D) the history of previous violations; and
+
+  (E) such other matters as justice may require.
+
+(4) **Authority to modify or remit penalty** — The Bureau may compromise, modify, or remit any penalty which may be assessed or had already been assessed under paragraph (2). The amount of such penalty, when finally determined, shall be exclusive of any sums owed by the person to the United States in connection with the costs of the proceeding, and may be deducted from any sums owing by the United States to the person charged.
+
+(5) **Notice and hearing** — No civil penalty may be assessed under this subsection with respect to a violation of any Federal consumer financial law, unless—
+
+  (A) the Bureau gives notice and an opportunity for a hearing to the person accused of the violation; or
+
+  (B) the appropriate court has ordered such assessment and entered judgment in favor of the Bureau.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under [section 5561 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5561).
+
+
+<a id="section-5583"></a>
+## § 5583. Referrals for criminal proceedings
+
+If the Bureau obtains evidence that any person, domestic or foreign, has engaged in conduct that may constitute a violation of Federal criminal law, the Bureau shall transmit such evidence to the Attorney General of the United States, who may institute criminal proceedings under appropriate law. Nothing in this section affects any other authority of the Bureau to disclose information.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under [section 5561 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5561).
+
+
+<a id="section-5584"></a>
+## § 5584. Employee protection
+**(a) In general** No covered person or service provider shall terminate or in any other way discriminate against, or cause to be terminated or discriminated against, any covered employee or any authorized representative of covered employees by reason of the fact that such employee or representative, whether at the initiative of the employee or in the ordinary course of the duties of the employee (or any person acting pursuant to a request of the employee), has—
+
+(1) provided, caused to be provided, or is about to provide or cause to be provided, information to the employer, the Bureau, or any other State, local, or Federal, government authority or law enforcement agency relating to any violation of, or any act or omission that the employee reasonably believes to be a violation of, any provision of this title 11 See References in Text note below. or any other provision of law that is subject to the jurisdiction of the Bureau, or any rule, order, standard, or prohibition prescribed by the Bureau;
+
+(2) testified or will testify in any proceeding resulting from the administration or enforcement of any provision of this title 1 or any other provision of law that is subject to the jurisdiction of the Bureau, or any rule, order, standard, or prohibition prescribed by the Bureau;
+
+(3) filed, instituted, or caused to be filed or instituted any proceeding under any Federal consumer financial law; or
+
+(4) objected to, or refused to participate in, any activity, policy, practice, or assigned task that the employee (or other such person) reasonably believed to be in violation of any law, rule, order, standard, or prohibition, subject to the jurisdiction of, or enforceable by, the Bureau.
+
+**(b) Definition of covered employee** For the purposes of this section, the term “covered employee” means any individual performing tasks related to the offering or provision of a consumer financial product or service.
+
+**(c) Procedures and timetables**
+
+(1) **Complaint**
+
+  (A) *In general* — A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such alleged violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination and identifying the person responsible for such act.
+
+  (B) *Actions of Secretary of Labor* — Upon receipt of such a complaint, the Secretary of Labor shall notify, in writing, the person named in the complaint who is alleged to have committed the violation, of—
+
+    (i) the filing of the complaint;
+
+    (ii) the allegations contained in the complaint;
+
+    (iii) the substance of evidence supporting the complaint; and
+
+    (iv) opportunities that will be afforded to such person under paragraph (2).
+
+(2) **Investigation by Secretary of Labor**
+
+  (A) *In general* — Not later than 60 days after the date of receipt of a complaint filed under paragraph (1), and after affording the complainant and the person named in the complaint who is alleged to have committed the violation that is the basis for the complaint an opportunity to submit to the Secretary of Labor a written response to the complaint and an opportunity to meet with a representative of the Secretary of Labor to present statements from witnesses, the Secretary of Labor shall—
+
+    (i) initiate an investigation and determine whether there is reasonable cause to believe that the complaint has merit; and
+
+    (ii) notify the complainant and the person alleged to have committed the violation of subsection (a), in writing, of such determination.
+
+  (B) *Notice of relief available* — If the Secretary of Labor concludes that there is reasonable cause to believe that a violation of subsection (a) has occurred, the Secretary of Labor shall, together with the notice under subparagraph (A)(ii), issue a preliminary order providing the relief prescribed by paragraph (4)(B).
+
+  (C) *Request for hearing* — Not later than 30 days after the date of receipt of notification of a determination of the Secretary of Labor under this paragraph, either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously, and if a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+
+(3) **Grounds for determination of complaints**
+
+  (A) *In general* — The Secretary of Labor shall dismiss a complaint filed under this subsection, and shall not conduct an investigation otherwise required under paragraph (2), unless the complainant makes a prima facie showing that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+
+  (B) *Rebuttal evidence* — Notwithstanding a finding by the Secretary of Labor that the complainant has made the showing required under subparagraph (A), no investigation otherwise required under paragraph (2) shall be conducted, if the employer demonstrates, by clear and convincing evidence, that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+
+  (C) *Evidentiary standards* — The Secretary of Labor may determine that a violation of subsection (a) has occurred only if the complainant demonstrates that any behavior described in paragraphs (1) through (4) of subsection (a) was a contributing factor in the unfavorable personnel action alleged in the complaint. Relief may not be ordered under subparagraph (A) if the employer demonstrates by clear and convincing evidence that the employer would have taken the same unfavorable personnel action in the absence of that behavior.
+
+(4) **Issuance of final orders; review procedures**
+
+  (A) *Timing* — Not later than 120 days after the date of conclusion of any hearing under paragraph (2), the Secretary of Labor shall issue a final order providing the relief prescribed by this paragraph or denying the complaint. At any time before issuance of a final order, a proceeding under this subsection may be terminated on the basis of a settlement agreement entered into by the Secretary of Labor, the complainant, and the person alleged to have committed the violation.
+
+  (B) *Penalties*
+
+    (i) *Order of Secretary of Labor* — If, in response to a complaint filed under paragraph (1), the Secretary of Labor determines that a violation of subsection (a) has occurred, the Secretary of Labor shall order the person who committed such violation—
+
+      (I) to take affirmative action to abate the violation;
+
+      (II) to reinstate the complainant to his or her former position, together with compensation (including back pay) and restore the terms, conditions, and privileges associated with his or her employment; and
+
+      (III) to provide compensatory damages to the complainant.
+
+    (ii) *Penalty* — If an order is issued under clause (i), the Secretary of Labor, at the request of the complainant, shall assess against the person against whom the order is issued, a sum equal to the aggregate amount of all costs and expenses (including attorney fees and expert witness fees) reasonably incurred, as determined by the Secretary of Labor, by the complainant for, or in connection with, the bringing of the complaint upon which the order was issued.
+
+  (C) *Penalty for frivolous claims* — If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney fee, not exceeding $1,000, to be paid by the complainant.
+
+  (D) *De novo review*
+
+    (i) *Failure of the Secretary to act* — If the Secretary of Labor has not issued a final order within 210 days after the date of filing of a complaint under this subsection, or within 90 days after the date of receipt of a written determination, the complainant may bring an action at law or equity for de novo review in the appropriate district court of the United States having jurisdiction, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
+
+    (ii) *Procedures* — A proceeding under clause (i) shall be governed by the same legal burdens of proof specified in paragraph (3). The court shall have jurisdiction to grant all relief necessary to make the employee whole, including injunctive relief and compensatory damages, including—
+
+      (I) reinstatement with the same seniority status that the employee would have had, but for the discharge or discrimination;
+
+      (II) the amount of back pay, with interest; and
+
+      (III) compensation for any special damages sustained as a result of the discharge or discrimination, including litigation costs, expert witness fees, and reasonable attorney fees.
+
+  (E) *Other appeals* — Unless the complainant brings an action under subparagraph (D), any person adversely affected or aggrieved by a final order issued under subparagraph (A) may file a petition for review of the order in the United States Court of Appeals for the circuit in which the violation with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation, not later than 60 days after the date of the issuance of the final order of the Secretary of Labor under subparagraph (A). Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order. An order of the Secretary of Labor with respect to which review could have been obtained under this subparagraph shall not be subject to judicial review in any criminal or other civil proceeding.
+
+(5) **Failure to comply with order**
+
+  (A) *Actions by the Secretary* — If any person has failed to comply with a final order issued under paragraph (4), the Secretary of Labor may file a civil action in the United States district court for the district in which the violation was found to have occurred, or in the United States district court for the District of Columbia, to enforce such order. In actions brought under this paragraph, the district courts shall have jurisdiction to grant all appropriate relief including injunctive relief and compensatory damages.
+
+  (B) *Civil actions to compel compliance* — A person on whose behalf an order was issued under paragraph (4) may commence a civil action against the person to whom such order was issued to require compliance with such order. The appropriate United States district court shall have jurisdiction, without regard to the amount in controversy or the citizenship of the parties, to enforce such order.
+
+  (C) *Award of costs authorized* — The court, in issuing any final order under this paragraph, may award costs of litigation (including reasonable attorney and expert witness fees) to any party, whenever the court determines such award is appropriate.
+
+  (D) *Mandamus proceedings* — Any nondiscretionary duty imposed by this section shall be enforceable in a mandamus proceeding brought under [section 1361 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1361&num=0&edition=prelim).
+
+**(d) Unenforceability of certain agreements**
+
+(1) **No waiver of rights and remedies** — Except as provided under paragraph (3), and notwithstanding any other provision of law, the rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
+
+(2) **No predispute arbitration agreements** — Except as provided under paragraph (3), and notwithstanding any other provision of law, no predispute arbitration agreement shall be valid or enforceable to the extent that it requires arbitration of a dispute arising under this section.
+
+(3) **Exception** — Notwithstanding paragraphs (1) and (2), an arbitration provision in a collective bargaining agreement shall be enforceable as to disputes arising under subsection (a)(4), unless the Bureau determines, by rule, that such provision is inconsistent with the purposes of this title.1
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsecs. (a)(1), (2), and (d)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Section effective on the designated transfer date, see section 1058 of Pub. L. 111–203, set out as a note under [section 5561 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5561).
+
+
+<a id="section-5585"></a>
+## § 5585. Transfer of consumer financial protection functions
+**(a) Defined terms** For purposes of this part—
+
+(1) the term “consumer financial protection functions” means—
+
+  (A) all authority to prescribe rules or issue orders or guidelines pursuant to any Federal consumer financial law, including performing appropriate functions to promulgate and review such rules, orders, and guidelines; and
+
+  (B) the examination authority described in subsection (c)(1), with respect to a person described in [section 5515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/a&num=0&edition=prelim); and
+
+(2) the terms “transferor agency” and “transferor agencies” mean, respectively—
+
+  (A) the Board of Governors (and any Federal reserve bank, as the context requires), the Federal Deposit Insurance Corporation, the Federal Trade Commission, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, and the Department of Housing and Urban Development, and the heads of those agencies; and
+
+  (B) the agencies listed in subparagraph (A), collectively.
+
+**(b) In general** Except as provided in subsection (c), consumer financial protection functions are transferred as follows:
+
+(1) **Board of Governors**
+
+  (A) *Transfer of functions* — All consumer financial protection functions of the Board of Governors are transferred to the Bureau.
+
+  (B) *Board of Governors authority* — The Bureau shall have all powers and duties that were vested in the Board of Governors, relating to consumer financial protection functions, on the day before the designated transfer date.
+
+(2) **Comptroller of the Currency**
+
+  (A) *Transfer of functions* — All consumer financial protection functions of the Comptroller of the Currency are transferred to the Bureau.
+
+  (B) *Comptroller authority* — The Bureau shall have all powers and duties that were vested in the Comptroller of the Currency, relating to consumer financial protection functions, on the day before the designated transfer date.
+
+(3) **Director of the Office of Thrift Supervision**
+
+  (A) *Transfer of functions* — All consumer financial protection functions of the Director of the Office of Thrift Supervision are transferred to the Bureau.
+
+  (B) *Director authority* — The Bureau shall have all powers and duties that were vested in the Director of the Office of Thrift Supervision, relating to consumer financial protection functions, on the day before the designated transfer date.
+
+(4) **Federal Deposit Insurance Corporation**
+
+  (A) *Transfer of functions* — All consumer financial protection functions of the Federal Deposit Insurance Corporation are transferred to the Bureau.
+
+  (B) *Corporation authority* — The Bureau shall have all powers and duties that were vested in the Federal Deposit Insurance Corporation, relating to consumer financial protection functions, on the day before the designated transfer date.
+
+(5) **Federal Trade Commission**
+
+  (A) *Transfer of functions* — The authority of the Federal Trade Commission under an enumerated consumer law to prescribe rules, issue guidelines, or conduct a study or issue a report mandated under such law shall be transferred to the Bureau on the designated transfer date. Nothing in this title 11 See References in Text note below. shall be construed to require a mandatory transfer of any employee of the Federal Trade Commission.
+
+  (B) *Bureau authority*
+
+    (i) *In general* — The Bureau shall have all powers and duties under the enumerated consumer laws to prescribe rules, issue guidelines, or to conduct studies or issue reports mandated by such laws, that were vested in the Federal Trade Commission on the day before the designated transfer date.
+
+    (ii) *Federal Trade Commission Act* — Subject to part B, the Bureau may enforce a rule prescribed under the Federal Trade Commission Act [[15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.] by the Federal Trade Commission with respect to an unfair or deceptive act or practice to the extent that such rule applies to a covered person or service provider with respect to the offering or provision of a consumer financial product or service as if it were a rule prescribed under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).
+
+  (C) *Authority of the Federal Trade Commission*
+
+    (i) *In general* — No provision of this title 1 shall be construed as modifying, limiting, or otherwise affecting the authority of the Federal Trade Commission (including its authority with respect to affiliates described in [section 5515(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/a/1&num=0&edition=prelim)) under the Federal Trade Commission Act or any other law, other than the authority under an enumerated consumer law to prescribe rules, issue official guidelines, or conduct a study or issue a report mandated under such law.
+
+    (ii) *Commission authority relating to rules prescribed by the Bureau* — Subject to part B, the Federal Trade Commission shall have authority to enforce under the Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.) a rule prescribed by the Bureau under this title 1 with respect to a covered person subject to the jurisdiction of the Federal Trade Commission under that Act, and a violation of such a rule by such a person shall be treated as a violation of a rule issued under section 18 of that Act ([15 U.S.C. 57a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a&num=0&edition=prelim)) with respect to unfair or deceptive acts or practices.
+
+  (D) *Coordination* — To avoid duplication of or conflict between rules prescribed by the Bureau under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531) and the Federal Trade Commission under section 18(a)(1)(B) of the Federal Trade Commission Act [[15 U.S.C. 57a(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim)] that apply to a covered person or service provider with respect to the offering or provision of consumer financial products or services, the agencies shall negotiate an agreement with respect to rulemaking by each agency, including consultation with the other agency prior to proposing a rule and during the comment period.
+
+  (E) *Deference* — No provision of this title 1 shall be construed as altering, limiting, expanding, or otherwise affecting the deference that a court affords to the—
+
+    (i) Federal Trade Commission in making determinations regarding the meaning or interpretation of any provision of the Federal Trade Commission Act, or of any other Federal law for which the Commission has authority to prescribe rules; or
+
+    (ii) Bureau in making determinations regarding the meaning or interpretation of any provision of a Federal consumer financial law (other than any law described in clause (i)).
+
+(6) **National Credit Union Administration**
+
+  (A) *Transfer of functions* — All consumer financial protection functions of the National Credit Union Administration are transferred to the Bureau.
+
+  (B) *National Credit Union Administration authority* — The Bureau shall have all powers and duties that were vested in the National Credit Union Administration, relating to consumer financial protection functions, on the day before the designated transfer date.
+
+(7) **Department of Housing and Urban Development**
+
+  (A) *Transfer of functions* — All consumer protection functions of the Secretary of the Department of Housing and Urban Development relating to the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2601](./chapter-027-real-estate-settlement-procedures.md#section-2601) et seq.), the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 ([12 U.S.C. 5102](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5102) [5101] et seq.), and the Interstate Land Sales Full Disclosure Act ([15 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1701&num=0&edition=prelim) et seq.) are transferred to the Bureau.
+
+  (B) *Authority of the Department of Housing and Urban Development* — The Bureau shall have all powers and duties that were vested in the Secretary of the Department of Housing and Urban Development relating to the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2601](./chapter-027-real-estate-settlement-procedures.md#section-2601) et seq.), the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 ([12 U.S.C. 5101](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5101) et seq.), and the Interstate Land Sales Full Disclosure Act ([15 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1701&num=0&edition=prelim) et seq.), on the day before the designated transfer date.
+
+**(c) Authorities of the prudential regulators**
+
+(1) **Examination** — A transferor agency that is a prudential regulator shall have—
+
+  (A) authority to require reports from and conduct examinations for compliance with Federal consumer financial laws with respect to a person described in [section 5515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/a&num=0&edition=prelim), that is incidental to the backup and enforcement procedures provided to the regulator under [section 5515(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/c&num=0&edition=prelim); and
+
+  (B) exclusive authority (relative to the Bureau) to require reports from and conduct examinations for compliance with Federal consumer financial laws with respect to a person described in [section 5516(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5516/a&num=0&edition=prelim), except as provided to the Bureau under subsections (b) and (c) of [section 5516 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5516).
+
+(2) **Enforcement**
+
+  (A) *Limitation* — The authority of a transferor agency that is a prudential regulator to enforce compliance with Federal consumer financial laws with respect to a person described in [section 5515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/a&num=0&edition=prelim), shall be limited to the backup and enforcement procedures in 22 So in original. The word “in” probably should not appear. described in [section 5515(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/c&num=0&edition=prelim).
+
+  (B) *Exclusive authority* — A transferor agency that is a prudential regulator shall have exclusive authority (relative to the Bureau) to enforce compliance with Federal consumer financial laws with respect to a person described in [section 5516(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5516/a&num=0&edition=prelim), except as provided to the Bureau under subsections (b) and (c) of [section 5516 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5516).
+
+  (C) *Statutory enforcement* — For purposes of carrying out the authorities under, and subject to the limitations of, part B, each prudential regulator may enforce compliance with the requirements imposed under this title,1 and any rule or order prescribed by the Bureau under this title,1 under—
+
+    (i) the Federal Credit Union Act ([12 U.S.C. 1751](./chapter-014-federal-credit-unions.md#section-1751) et seq.), by the National Credit Union Administration Board with respect to any covered person or service provider that is an insured credit union, or service provider thereto, or any affiliate of an insured credit union, who is subject to the jurisdiction of the Board under that Act; and
+
+    (ii) [section 1818 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1818), by the appropriate Federal banking agency, as defined in [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim), with respect to a covered person or service provider that is a person described in [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim) and who is subject to the jurisdiction of that agency, as set forth in sections 1813(q) and 1818 of this title; or
+
+    (iii) the Bank Service Company Act ([12 U.S.C. 1861](./chapter-018-bank-service-companies.md#section-1861) et seq.).
+
+**(d) Effective date** Subsections (b) and (c) shall become effective on the designated transfer date.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in subsecs. (b)(5)(A), (C), (E) and (c)(2)(C), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Federal Trade Commission Act, referred to in subsec. (b)(5)(B)(ii), (C), (E)(i), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601) and Tables.
+
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. (b)(7), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5101) and Tables.
+
+The Interstate Land Sales Full Disclosure Act, referred to in subsec. (b)(7), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this title to the Code, see Short Title note set out under [section 1701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1701&num=0&edition=prelim) and Tables.
+
+The Federal Credit Union Act, referred to in subsec. (c)(2)(C)(i), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
+
+The Bank Service Company Act, referred to in subsec. (c)(2)(C)(iii), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see [section 1861 of this title](./chapter-018-bank-service-companies.md#section-1861) and Tables.
+
+#### Effective Date
+Part effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5586"></a>
+## § 5586. Designated transfer date
+**(a) In general** Not later than 60 days after July 21, 2010, the Secretary shall—
+
+(1) in consultation with the Chairman of the Board of Governors, the Chairperson of the Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, designate a single calendar date for the transfer of functions to the Bureau under [section 5581 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5581); and
+
+(2) publish notice of that designated date in the Federal Register.
+
+**(b) Changing designation** The Secretary—
+
+(1) may, in consultation with the Chairman of the Board of Governors, the Chairperson of the Federal Deposit Insurance Corporation, the Chairman of the Federal Trade Commission, the Chairman of the National Credit Union Administration Board, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Secretary of the Department of Housing and Urban Development, and the Director of the Office of Management and Budget, change the date designated under subsection (a); and
+
+(2) shall publish notice of any changed designated date in the Federal Register.
+
+**(c) Permissible dates**
+
+(1) **In general** — Except as provided in paragraph (2), any date designated under this section shall be not earlier than 180 days, nor later than 12 months, after July 21, 2010.
+
+(2) **Extension of time** — The Secretary may designate a date that is later than 12 months after July 21, 2010, if the Secretary transmits to appropriate committees of Congress—
+
+  (A) a written determination that orderly implementation of this title 11 See References in Text note below. is not feasible before the date that is 12 months after July 21, 2010;
+
+  (B) an explanation of why an extension is necessary for the orderly implementation of this title; 1 and
+
+  (C) a description of the steps that will be taken to effect an orderly and timely implementation of this title 1 within the extended time period.
+
+(3) **Extension limited** — In no case may any date designated under this section be later than 18 months after July 21, 2010.
+
+### Statutory Notes
+
+#### Definition of Designated Transfer Date
+Notice of Secretary of the Treasury, Sept. 20, 2010, 75 F.R. 57252, provided that the designated transfer date is July 21, 2011.
+
+#### References in Text
+This title, referred to in subsec. (c)(2), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5587"></a>
+## § 5587. Savings provisions
+**(a) Board of Governors**
+
+(1) **Existing rights, duties, and obligations not affected** — [Section 5581(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/1&num=0&edition=prelim) does not affect the validity of any right, duty, or obligation of the United States, the Board of Governors (or any Federal reserve bank), or any other person that—
+
+  (A) arises under any provision of law relating to any consumer financial protection function of the Board of Governors transferred to the Bureau by this title; 11 See References in Text note below. and
+
+  (B) existed on the day before the designated transfer date.
+
+(2) **Continuation of suits** — No provision of this Act shall abate any proceeding commenced by or against the Board of Governors (or any Federal reserve bank) before the designated transfer date with respect to any consumer financial protection function of the Board of Governors (or any Federal reserve bank) transferred to the Bureau by this title,1 except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Board of Governors (or Federal reserve bank) as a party to any such proceeding as of the designated transfer date.
+
+**(b) Federal Deposit Insurance Corporation**
+
+(1) **Existing rights, duties, and obligations not affected** — [Section 5581(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/4&num=0&edition=prelim) does not affect the validity of any right, duty, or obligation of the United States, the Federal Deposit Insurance Corporation, the Board of Directors of that Corporation, or any other person, that—
+
+  (A) arises under any provision of law relating to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title; 1 and
+
+  (B) existed on the day before the designated transfer date.
+
+(2) **Continuation of suits** — No provision of this Act shall abate any proceeding commenced by or against the Federal Deposit Insurance Corporation (or the Board of Directors of that Corporation) before the designated transfer date with respect to any consumer financial protection function of the Federal Deposit Insurance Corporation transferred to the Bureau by this title,1 except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Federal Deposit Insurance Corporation (or Board of Directors) as a party to any such proceeding as of the designated transfer date.
+
+**(c) Federal Trade Commission** [Section 5581(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/5&num=0&edition=prelim) does not affect the validity of any right, duty, or obligation of the United States, the Federal Trade Commission, or any other person, that—
+
+(1) arises under any provision of law relating to any consumer financial protection function of the Federal Trade Commission transferred to the Bureau by this title; 1 and
+
+(2) existed on the day before the designated transfer date.
+
+**(d) National Credit Union Administration**
+
+(1) **Existing rights, duties, and obligations not affected** — [Section 5581(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/6&num=0&edition=prelim) does not affect the validity of any right, duty, or obligation of the United States, the National Credit Union Administration, the National Credit Union Administration Board, or any other person, that—
+
+  (A) arises under any provision of law relating to any consumer financial protection function of the National Credit Union Administration transferred to the Bureau by this title; 1 and
+
+  (B) existed on the day before the designated transfer date.
+
+(2) **Continuation of suits** — No provision of this Act shall abate any proceeding commenced by or against the National Credit Union Administration (or the National Credit Union Administration Board) before the designated transfer date with respect to any consumer financial protection function of the National Credit Union Administration transferred to the Bureau by this title,1 except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the National Credit Union Administration (or National Credit Union Administration Board) as a party to any such proceeding as of the designated transfer date.
+
+**(e) Office of the Comptroller of the Currency**
+
+(1) **Existing rights, duties, and obligations not affected** — [Section 5581(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/2&num=0&edition=prelim) does not affect the validity of any right, duty, or obligation of the United States, the Comptroller of the Currency, the Office of the Comptroller of the Currency, or any other person, that—
+
+  (A) arises under any provision of law relating to any consumer financial protection function of the Comptroller of the Currency transferred to the Bureau by this title; 1 and
+
+  (B) existed on the day before the designated transfer date.
+
+(2) **Continuation of suits** — No provision of this Act shall abate any proceeding commenced by or against the Comptroller of the Currency (or the Office of the Comptroller of the Currency) with respect to any consumer financial protection function of the Comptroller of the Currency transferred to the Bureau by this title 1 before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Comptroller of the Currency (or the Office of the Comptroller of the Currency) as a party to any such proceeding as of the designated transfer date.
+
+**(f) Office of Thrift Supervision**
+
+(1) **Existing rights, duties, and obligations not affected** — [Section 5581(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/3&num=0&edition=prelim) does not affect the validity of any right, duty, or obligation of the United States, the Director of the Office of Thrift Supervision, the Office of Thrift Supervision, or any other person, that—
+
+  (A) arises under any provision of law relating to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title; 1 and
+
+  (B) that 22 So in original. The word “that” probably should not appear. existed on the day before the designated transfer date.
+
+(2) **Continuation of suits** — No provision of this Act shall abate any proceeding commenced by or against the Director of the Office of Thrift Supervision (or the Office of Thrift Supervision) with respect to any consumer financial protection function of the Director of the Office of Thrift Supervision transferred to the Bureau by this title 1 before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Director (or the Office of Thrift Supervision) as a party to any such proceeding as of the designated transfer date.
+
+**(g) Department of Housing and Urban Development**
+
+(1) **Existing rights, duties, and obligations not affected** — [Section 5581(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5581/b/7&num=0&edition=prelim) shall not affect the validity of any right, duty, or obligation of the United States, the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development), or any other person, that—
+
+  (A) arises under any provision of law relating to any function of the Secretary of the Department of Housing and Urban Development with respect to the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2601](./chapter-027-real-estate-settlement-procedures.md#section-2601) et seq.), the Secure and Fair Enforcement for Mortgage Licensing Act of 2008 [[12 U.S.C. 5101](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5101) et seq.], or the Interstate Land Sales Full Disclosure Act ([15 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1701&num=0&edition=prelim) et seq) 33 So in original. Probably should be a period after “seq”. transferred to the Bureau by this title; 1 and
+
+  (B) existed on the day before the designated transfer date.
+
+(2) **Continuation of suits** — This title 1 shall not abate any proceeding commenced by or against the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development) with respect to any consumer financial protection function of the Secretary of the Department of Housing and Urban Development transferred to the Bureau by this title 1 before the designated transfer date, except that the Bureau, subject to sections 5514, 5515, and 5516 of this title, shall be substituted for the Secretary of the Department of Housing and Urban Development (or the Department of Housing and Urban Development) as a party to any such proceeding as of the designated transfer date.
+
+**(h) Continuation of existing orders, rulings, determinations, agreements, and resolutions**
+
+(1) **In general** — Except as provided in paragraph (2) and under subsection (i), all orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title 1 and that are in effect on the day before the designated transfer date, shall continue in effect, and shall continue to be enforceable by the appropriate transferor agency, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall not be enforceable by or against the Bureau.
+
+(2) **Exception for orders applicable to persons described in [section 5515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/a&num=0&edition=prelim)** — All orders, resolutions, determinations, agreements, and rulings that have been issued, made, prescribed, or allowed to become effective by any transferor agency or by a court of competent jurisdiction, in the performance of consumer financial protection functions that are transferred by this title 1 and that are in effect on the day before the designated transfer date with respect to any person described in [section 5515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5515/a&num=0&edition=prelim), shall continue in effect, according to the terms of those orders, resolutions, determinations, agreements, and rulings, and shall be enforceable by or against the Bureau or transferor agency.
+
+**(i) Identification of rules and orders continued** Not later than the designated transfer date, the Bureau—
+
+(1) shall, after consultation with the head of each transferor agency, identify the rules and orders that will be enforced by the Bureau; and
+
+(2) shall publish a list of such rules and orders in the Federal Register.
+
+**(j) Status of rules proposed or not yet effective**
+
+(1) **Proposed rules** — Any proposed rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,1 has proposed before the designated transfer date, but has not been published as a final rule before that date, shall be deemed to be a proposed rule of the Bureau.
+
+(2) **Rules not yet effective** — Any interim or final rule of a transferor agency which that agency, in performing consumer financial protection functions transferred by this title,1 has published before the designated transfer date, but which has not become effective before that date, shall become effective as a rule of the Bureau according to its terms.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in text, is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+This Act, referred to in subsecs. (a)(2), (b)(2), (d)(2), (e)(2), and (f)(2), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act, which enacted this chapter and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (g)(1)(A), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601) and Tables.
+
+The Secure and Fair Enforcement for Mortgage Licensing Act of 2008, referred to in subsec. subsec. (g)(1)(A), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the S.A.F.E. Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§ 5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of this title](./chapter-051-secure-and-fair-enforcement-for-mortgage-licensing.md#section-5101) and Tables.
+
+The Interstate Land Sales Full Disclosure Act, referred to in subsec. (g)(1)(A), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§ 1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this title to the Code, see Short Title note set out under [section 1701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1701&num=0&edition=prelim) and Tables.
+
+
+<a id="section-5601"></a>
+## § 5601. Transfer of certain personnel
+**(a) In general**
+
+(1) **Certain Federal Reserve System employees transferred**
+
+  (A) *Identifying employees for transfer* — The Bureau and the Board of Governors shall—
+
+    (i) jointly determine the number of employees of the Board of Governors necessary to perform or support the consumer financial protection functions of the Board of Governors that are transferred to the Bureau by this title; 11 See References in Text note below. and
+
+    (ii) consistent with the number determined under clause (i), jointly identify employees of the Board of Governors for transfer to the Bureau, in a manner that the Bureau and the Board of Governors, in their sole discretion, determine equitable.
+
+  (B) *Identified employees transferred* — All employees of the Board of Governors identified under subparagraph (A)(ii) shall be transferred to the Bureau for employment.
+
+  (C) *Federal reserve bank employees* — Employees of any Federal reserve bank who are performing consumer financial protection functions on behalf of the Board of Governors shall be treated as employees of the Board of Governors for purposes of subparagraphs (A) and (B).
+
+(2) **Certain FDIC employees transferred**
+
+  (A) *Identifying employees for transfer* — The Bureau and the Board of Directors of the Federal Deposit Insurance Corporation shall—
+
+    (i) jointly determine the number of employees of that Corporation necessary to perform or support the consumer financial protection functions of the Corporation that are transferred to the Bureau by this title; 1 and
+
+    (ii) consistent with the number determined under clause (i), jointly identify employees of the Corporation for transfer to the Bureau, in a manner that the Bureau and the Board of Directors of the Corporation, in their sole discretion, determine equitable.
+
+  (B) *Identified employees transferred* — All employees of the Corporation identified under subparagraph (A)(ii) shall be transferred to the Bureau for employment.
+
+(3) **Certain NCUA employees transferred**
+
+  (A) *Identifying employees for transfer* — The Bureau and the National Credit Union Administration Board shall—
+
+    (i) jointly determine the number of employees of the National Credit Union Administration necessary to perform or support the consumer financial protection functions of the National Credit Union Administration that are transferred to the Bureau by this title; 1 and
+
+    (ii) consistent with the number determined under clause (i), jointly identify employees of the National Credit Union Administration for transfer to the Bureau, in a manner that the Bureau and the National Credit Union Administration Board, in their sole discretion, determine equitable.
+
+  (B) *Identified employees transferred* — All employees of the National Credit Union Administration identified under subparagraph (A)(ii) shall be transferred to the Bureau for employment.
+
+(4) **Certain Office of the Comptroller of the Currency employees transferred**
+
+  (A) *Identifying employees for transfer* — The Bureau and the Comptroller of the Currency shall—
+
+    (i) jointly determine the number of employees of the Office of the Comptroller of the Currency necessary to perform or support the consumer financial protection functions of the Office of the Comptroller of the Currency that are transferred to the Bureau by this title; 1 and
+
+    (ii) consistent with the number determined under clause (i), jointly identify employees of the Office of the Comptroller of the Currency for transfer to the Bureau, in a manner that the Bureau and the Office of the Comptroller of the Currency, in their sole discretion, determine equitable.
+
+  (B) *Identified employees transferred* — All employees of the Office of the Comptroller of the Currency identified under subparagraph (A)(ii) shall be transferred to the Bureau for employment.
+
+(5) **Certain Office of Thrift Supervision employees transferred**
+
+  (A) *Identifying employees for transfer* — The Bureau and the Director of the Office of Thrift Supervision shall—
+
+    (i) jointly determine the number of employees of the Office of Thrift Supervision necessary to perform or support the consumer financial protection functions of the Office of Thrift Supervision that are transferred to the Bureau by this title; 1 and
+
+    (ii) consistent with the number determined under clause (i), jointly identify employees of the Office of Thrift Supervision for transfer to the Bureau, in a manner that the Bureau and the Office of Thrift Supervision, in their sole discretion, determine equitable.
+
+  (B) *Identified employees transferred* — All employees of the Office of Thrift Supervision identified under subparagraph (A)(ii) shall be transferred to the Bureau for employment.
+
+(6) **Certain employees of Department of Housing and Urban Development transferred**
+
+  (A) *Identifying employees for transfer* — The Bureau and the Secretary of the Department of Housing and Urban Development shall—
+
+    (i) jointly determine the number of employees of the Department of Housing and Urban Development necessary to perform or support the consumer protection functions of the Department that are transferred to the Bureau by this title; 1 and
+
+    (ii) consistent with the number determined under clause (i), jointly identify employees of the Department of Housing and Urban Development for transfer to the Bureau in a manner that the Bureau and the Secretary of the Department of Housing and Urban Development, in their sole discretion, deem equitable.
+
+  (B) *Identified employees transferred* — All employees of the Department of Housing and Urban Development identified under subparagraph (A)(ii) shall be transferred to the Bureau for employment.
+
+(7) **Consumer education, financial literacy, consumer complaints, and research functions** — The Bureau and each of the transferor agencies (except the Federal Trade Commission) shall jointly determine the number of employees and the types and grades of employees necessary to perform the functions of the Bureau under part A, including consumer education, financial literacy, policy analysis, responses to consumer complaints and inquiries, research, and similar functions. All employees jointly identified under this paragraph shall be transferred to the Bureau for employment.
+
+(8) **Authority of the President to resolve disputes**
+
+  (A) *Action authorized* — In the event that the Bureau and a transferor agency are unable to reach an agreement under paragraphs (1) through (7) by the designated transfer date, the President, or the designee thereof, may issue an order or directive to the transferor agency to effect the transfer of personnel and property under this part.
+
+  (B) *Transmittal to Congress required* — If an order or directive is issued under subparagraph (A), the President shall transmit a copy of the written determination made with respect to such order or directive, including an explanation for the need for the order or directive, to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Financial Services and the Committee on Appropriations of the House of Representatives.
+
+  (C) *Sunset* — The authority provided in this paragraph shall terminate 3 years after the designated transfer date.
+
+(9) **Appointment authority for excepted service and senior executive service transferred**
+
+  (A) *In general* — In the case of an employee occupying a position in the excepted service or the Senior Executive Service, any appointment authority established pursuant to law or regulations of the Office of Personnel Management for filling such positions shall be transferred, subject to subparagraph (B).
+
+  (B) *Declining transfers allowed* — An agency or entity may decline to make a transfer of authority under subparagraph (A) (and the employees appointed pursuant thereto) to the extent that such authority relates to positions excepted from the competitive service because of their confidential, policy-making, policy-determining, or policy-advocating character, and non-career positions in the Senior Executive Service (within the meaning of [section 3132(a)(7) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a/7&num=0&edition=prelim)).
+
+**(b) Timing of transfers and position assignments** Each employee to be transferred under this section shall—
+
+(1) be transferred not later than 90 days after the designated transfer date; and
+
+(2) receive notice of a position assignment not later than 120 days after the effective date of his or her transfer.
+
+**(c) Transfer of function**
+
+(1) **In general** — Notwithstanding any other provision of law, the transfer of employees shall be deemed a transfer of functions for the purpose of [section 3503 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3503&num=0&edition=prelim).
+
+(2) **Priority of this title 1** — If any provisions of this title 1 conflict with any protection provided to transferred employees under [section 3503 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3503&num=0&edition=prelim), the provisions of this title 1 shall control.
+
+**(d) Equal status and tenure positions**
+
+(1) **Employees transferred from the Federal Reserve System, FDIC, HUD, NCUA, OCC, and OTS** — Each employee transferred to the Bureau from the Board of Governors, a Federal reserve bank, the Federal Deposit Insurance Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, or the Office of Thrift Supervision shall be placed in a position at the Bureau with the same status and tenure as that employee held on the day before the designated transfer date.
+
+(2) **Employees transferred from the Federal Reserve System** — For purposes of determining the status and position placement of a transferred employee, any period of service with the Board of Governors or a Federal reserve bank shall be credited as a period of service with a Federal agency.
+
+**(e) Additional certification requirements limited** Examiners transferred to the Bureau are not subject to any additional certification requirements before being placed in a comparable examiner position at the Bureau examining the same types of institutions as they examined before they were transferred.
+
+**(f) Personnel actions limited**
+
+(1) **2-year protection** — Except as provided in paragraph (2), each transferred employee holding a permanent position on the day before the designated transfer date may not, during the 2-year period beginning on the designated transfer date, be involuntarily separated, or involuntarily reassigned outside his or her locality pay area.
+
+(2) **Exceptions** — Paragraph (1) does not limit the right of the Bureau—
+
+  (A) to separate an employee for cause or for unacceptable performance;
+
+  (B) to terminate an appointment to a position excepted from the competitive service because of its confidential policy-making, policy-determining, or policy-advocating character; or
+
+  (C) to reassign a supervisory employee outside of his or her locality pay area when the Bureau determines that the reassignment is necessary for the efficient operation of the Bureau.
+
+**(g) Pay**
+
+(1) **2-year protection**
+
+  (A) *In general* — Except as provided in paragraph (2), each transferred employee shall, during the 2-year period beginning on the designated transfer date, receive pay at a rate equal to not less than the basic rate of pay (including any geographic differential) that the employee received during the pay period immediately preceding the date of transfer.
+
+  (B) *Limitation* — Notwithstanding subparagraph (A), if the employee was receiving a higher rate of basic pay on a temporary basis (because of a temporary assignment, temporary promotion, or other temporary action) immediately before the date of transfer, the Bureau may reduce the rate of basic pay on the date on which the rate would have been reduced but for the transfer, and the protected rate for the remainder of the 2-year period shall be the reduced rate that would have applied, but for the transfer.
+
+(2) **Exceptions** — Paragraph (1) does not limit the right of the Bureau to reduce the rate of basic pay of a transferred employee—
+
+  (A) for cause;
+
+  (B) for unacceptable performance; or
+
+  (C) with the consent of the employee.
+
+(3) **Protection only while employed** — Paragraph (1) applies to a transferred employee only while that employee remains employed by the Bureau.
+
+(4) **Pay increases permitted** — Paragraph (1) does not limit the authority of the Bureau to increase the pay of a transferred employee.
+
+**(h) Reorganization**
+
+(1) **Between 1st and 3rd year**
+
+  (A) *In general* — If the Bureau determines, during the 2-year period beginning 1 year after the designated transfer date, that a reorganization of the staff of the Bureau is required—
+
+    (i) that reorganization shall be deemed a “substantial reorganization” for purposes of affording affected employees retirement under section 8336(d)(2) or 8414(b)(1)(B) of title 5;
+
+    (ii) before the reorganization occurs, all employees in the same locality pay area as defined by the Office of Personnel Management shall be placed in a uniform position classification system; and
+
+    (iii) any resulting reduction in force shall be governed by the provisions of chapter 35 of title 5, except that the Bureau shall—
+
+      (I) establish competitive areas (as that term is defined in regulations issued by the Office of Personnel Management) to include at a minimum all employees in the same locality pay area as defined by the Office of Personnel Management;
+
+      (II) establish competitive levels (as that term is defined in regulations issued by the Office of Personnel Management) without regard to whether the particular employees have been appointed to positions in the competitive service or the excepted service; and
+
+      (III) afford employees appointed to positions in the excepted service (other than to a position excepted from the competitive service because of its confidential policy-making, policy-determining, or policy-advocating character) the same assignment rights to positions within the Bureau as employees appointed to positions in the competitive service.
+
+  (B) *Service credit for reductions in force* — For purposes of this paragraph, periods of service with a Federal home loan bank, a joint office of the Federal home loan banks, the Board of Governors, a Federal reserve bank, the Federal Deposit Insurance Corporation, or the National Credit Union Administration shall be credited as periods of service with a Federal agency.
+
+(2) **After 3rd year**
+
+  (A) *In general* — If the Bureau determines, at any time after the 3-year period beginning on the designated transfer date, that a reorganization of the staff of the Bureau is required, any resulting reduction in force shall be governed by the provisions of chapter 35 of title 5, except that the Bureau shall establish competitive levels (as that term is defined in regulations issued by the Office of Personnel Management) without regard to types of appointment held by particular employees transferred under this section.
+
+  (B) *Service credit for reductions in force* — For purposes of this paragraph, periods of service with a Federal home loan bank, a joint office of the Federal home loan banks, the Board of Governors, a Federal reserve bank, the Federal Deposit Insurance Corporation, or the National Credit Union Administration shall be credited as periods of service with a Federal agency.
+
+**(i) Benefits**
+
+(1) **Retirement benefits for transferred employees**
+
+  (A) *In general*
+
+    (i) *Continuation of existing retirement plan* — Unless an election is made under clause (iii) or subparagraph (B), each employee transferred pursuant to this part shall remain enrolled in the existing retirement plan of that employee as of the date of transfer, through any period of continuous employment with the Bureau.
+
+    (ii) *Employer contribution* — The Bureau shall pay any employer contributions to the existing retirement plan of each transferred employee, as required under that plan.
+
+    (iii) *Option to elect into the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan* — Any employee transferred pursuant to this part may, during the 1-year period beginning 6 months after the designated transfer date, elect to end their participation and benefit accruals under their existing retirement plan or plans and elect to participate in both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, through any period of continuous employment with the Bureau, under the same terms as are applicable to Federal Reserve System transferred employees, as provided in subparagraph (C). An election of coverage by the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan shall begin on the day following the end of the 18-month period beginning on the designated transfer date, and benefit accruals under the existing retirement plan of the transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date 22 So in original. Probably should be followed by a period. If an employee elects to participate in the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, all of the service of the employee that was creditable under their existing retirement plan shall be transferred to the Federal Reserve System Retirement Plan on the day following the end of the 18-month period beginning on the designated transfer date.
+
+    (iv) *Bureau contribution* — The Bureau shall pay an employer contribution to the Federal Reserve System Retirement Plan, in the amount established as an employer contribution under the Federal Employees Retirement System, as established under chapter 84 of title 5, for each Bureau employee who elects to participate in the Federal Reserve System Retirement Plan under this subparagraph. The Bureau shall pay an employer contribution to the Federal Reserve System Thrift Plan for each Bureau employee who elects to participate in such plan, as required under the terms of the Federal Reserve System Thrift Plan.
+
+    (v) *Additional funding* — The Bureau shall transfer to the Federal Reserve System Retirement Plan an amount determined by the Board of Governors, in consultation with the Bureau, to be necessary to reimburse the Federal Reserve System Retirement Plan for the costs to such plan of providing benefits to employees electing coverage under the Federal Reserve System Retirement Plan under subparagraph (iii), and who were transferred to the Bureau from outside of the Federal Reserve System.
+
+    (vi) *Option to elect into thrift plan created by the Bureau* — If the Bureau chooses to establish a thrift plan, the employees transferred pursuant to this part shall have the option to elect, under such terms and conditions as the Bureau may establish, coverage under such a thrift plan established by the Bureau. Transferred employees may not remain in the thrift plan of the agency from which the employee transferred under this part, if the employee elects to participate in a thrift plan established by the Bureau.
+
+  (B) *Option for employees transferred from Federal Reserve System to be subject to the Federal Employee Retirement Program*
+
+    (i) *Election* — Any Federal Reserve System transferred employee who was enrolled in the Federal Reserve System Retirement Plan on the day before the date of his or her transfer to the Bureau may, during the 1-year period beginning 6 months after the designated transfer date, elect to be subject to the Federal Employee Retirement Program.
+
+    (ii) *Effective date of coverage* — An election of coverage by the Federal Employee Retirement Program under this subparagraph shall begin on the day following the end of the 18-month period beginning on the designated transfer date, and benefit accruals under the existing retirement plan of the Federal Reserve System transferred employee shall end on the last day of the 18-month period beginning on the designated transfer date.
+
+  (C) *Bureau participation in Federal Reserve System Retirement Plan*
+
+    (i) *Benefits provided* — Federal Reserve System employees transferred pursuant to this part shall continue to be eligible to participate in the Federal Reserve System Retirement Plan and Federal Reserve System Thrift Plan through any period of continuous employment with the Bureau, unless the employee makes an election under subparagraph (A)(vi) or (B). The retirement benefits, formulas, and features offered to the Federal Reserve System transferred employees shall be the same as those offered to employees of the Board of Governors who participate in the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, as amended from time to time.
+
+    (ii) *Limitation* — The Bureau shall not have responsibility or authority—
+
+      (I) to amend an existing retirement plan (including the Federal Reserve System Retirement Plan or Federal Reserve System Thrift Plan);
+
+      (II) for administering an existing retirement plan (including the Federal Reserve System Retirement Plan or Federal Reserve System Thrift Plan); or
+
+      (III) for ensuring the plans comply with applicable laws, fiduciary rules, and related responsibilities.
+
+    (iii) *Tax qualified status* — Notwithstanding any other provision of law, providing benefits to Federal Reserve System employees transferred to the Bureau pursuant to this part, and to employees who elect coverage pursuant to subparagraph (A)(iii) or under [section 5493(a)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5493/a/2/B&num=0&edition=prelim), shall not cause any existing retirement plan (including the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan) to lose its tax-qualified status under sections 401(a) and 501(a) of title 26.
+
+    (iv) *Bureau contribution* — The Bureau shall pay any employer contributions to the existing retirement plan (including the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan) for each Federal Reserve System transferred employee participating in those plans, as required under the plan, after the designated transfer date.
+
+    (v) *Controlled group status* — The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim).
+
+  (D) *Definitions* — For purposes of this paragraph—
+
+    (i) the term “existing retirement plan” means, with respect to an employee transferred pursuant to this part, the retirement plan (including the Financial Institutions Retirement Fund) and any associated thrift savings plan, of the agency from which the employee was transferred under this part, in which the employee was enrolled on the day before the date on which the employee was transferred;
+
+    (ii) the term “Federal Employee Retirement Program” means either the Civil Service Retirement System established under chapter 83 of title 5 or the Federal Employees Retirement System established under chapter 84 of title 5, depending upon the service history of the individual;
+
+    (iii) the term “Federal Reserve System transferred employee” means a transferred employee who is an employee of the Board of Governors or a Federal reserve bank on the day before the designated transfer date, and who is transferred to the Bureau on the designated transfer date pursuant to this part;
+
+    (iv) the term “Federal Reserve System Retirement Plan” means the Retirement Plan for Employees of the Federal Reserve System; and
+
+    (v) the term “Federal Reserve System Thrift Plan” means the Thrift Plan for Employees of the Federal Reserve System.
+
+(2) **Benefits other than retirement benefits for transferred employees**
+
+  (A) *During 1st year*
+
+    (i) *Existing plans continue* — Each employee transferred pursuant to this part may, for 1 year after the designated transfer date, retain membership in any other employee benefit program of the agency or bank from which the employee transferred, including a medical, dental, vision, long term care, or life insurance program, to which the employee belonged on the day before the designated transfer date.
+
+    (ii) *Employer contribution* — The Bureau shall reimburse the agency or bank from which an employee was transferred for any cost incurred by that agency or bank in continuing to extend coverage in the benefit program to the employee, as required under that program or negotiated agreements.
+
+  (B) *Medical, dental, vision, or life insurance after first year* — If, at the end of the 1-year period beginning on the designated transfer date, the Bureau has not established its own, or arranged for participation in another entity’s, medical, dental, vision, or life insurance program, an employee transferred pursuant to this part who was a member of such a program at the agency or Federal reserve bank from which the employee transferred may, before the coverage of that employee ends under subparagraph (A)(i), elect to enroll, without regard to any regularly scheduled open season, in—
+
+    (i) the enhanced dental benefits program established under chapter 89A of title 5;
+
+    (ii) the enhanced vision benefits established under chapter 89B of title 5;
+
+    (iii) the Federal Employees Group Life Insurance Program established under chapter 87 of title 5, without regard to any requirement of insurability; and
+
+    (iv) the Federal Employees Health Benefits Program established under chapter 89 of title 5.
+
+  (C) *Long term care insurance after 1st year* — If, at the end of the 1-year period beginning on the designated transfer date, the Bureau has not established its own, or arranged for participation in another entity’s, long term care insurance program, an employee transferred pursuant to this part who was a member of such a program at the agency or Federal reserve bank from which the employee transferred may, before the coverage of that employee ends under subparagraph (A)(i), elect to apply for coverage under the Federal Long Term Care Insurance Program established under chapter 90 of title 5, under the underwriting requirements applicable to a new active workforce member (as defined in part 875 of title 5, Code of Federal Regulations).
+
+  (D) *Employee contribution* — An individual enrolled in the Federal Employees Health Benefits program shall pay any employee contribution required by the plan.
+
+  (E) *Additional funding* — The Bureau shall transfer to the Federal Employees Health Benefits Fund established under [section 8909 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8909&num=0&edition=prelim) an amount determined by the Director of the Office of Personnel Management, after consultation with the Bureau and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing benefits under this paragraph.
+
+  (F) *Credit for time enrolled in other plans* — For employees transferred under this title,1 enrollment in a health benefits plan administered by a transferor agency or a Federal reserve bank, as the case may be, immediately before enrollment in a health benefits plan under chapter 89 of title 5 shall be considered as enrollment in a health benefits plan under that chapter for purposes of [section 8905(b)(1)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8905/b/1/A&num=0&edition=prelim).
+
+  (G) *Special provisions to ensure continuation of life insurance benefits*
+
+    (i) *In general* — An annuitant (as defined in [section 8901(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/3&num=0&edition=prelim)) who is enrolled in a life insurance plan administered by a transferor agency on the day before the designated transfer date shall be eligible for coverage by a life insurance plan under sections 8706(b), 8714a, 8714b, and 8714c of title 5 or in a life insurance plan established by the Bureau, without regard to any regularly scheduled open season and requirement of insurability.
+
+    (ii) *Employee contribution* — An individual enrolled in a life insurance plan under this subparagraph shall pay any employee contribution required by the plan.
+
+    (iii) *Additional funding* — The Bureau shall transfer to the Employees’ Life Insurance Fund established under [section 8714 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8714&num=0&edition=prelim) an amount determined by the Director of the Office of Personnel Management, after consultation with the Bureau and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing benefits under this subparagraph not otherwise paid for by the employee under clause (ii).
+
+    (iv) *Credit for time enrolled in other plans* — For employees transferred under this title,1 enrollment in a life insurance plan administered by a transferor agency immediately before enrollment in a life insurance plan under chapter 87 of title 5 shall be considered as enrollment in a life insurance plan under that chapter for purposes of [section 8706(b)(1)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8706/b/1/A&num=0&edition=prelim).
+
+(3) **OPM rules** — The Office of Personnel Management shall issue such rules as are necessary to carry out this subsection.
+
+**(j) Implementation of uniform pay and classification system** Not later than 2 years after the designated transfer date, the Bureau shall implement a uniform pay and classification system for all employees transferred under this title.1
+
+**(k) Equitable treatment** In administering the provisions of this section, the Bureau—
+
+(1) shall take no action that would unfairly disadvantage transferred employees relative to each other based on their prior employment by the Board of Governors, the Federal Deposit Insurance Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks; and
+
+(2) may take such action as is appropriate in individual cases so that employees transferred under this section receive equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time of those employees, for prior periods of service with any Federal agency, including the Board of Governors, the Corporation, the Department of Housing and Urban Development, the National Credit Union Administration, the Office of the Comptroller of the Currency, the Office of Thrift Supervision, a Federal reserve bank, a Federal home loan bank, or a joint office of the Federal home loan banks.
+
+**(l) Implementation** In implementing the provisions of this section, the Bureau shall coordinate with the Office of Personnel Management and other entities having expertise in matters related to employment to ensure a fair and orderly transition for affected employees.
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in subsecs. (a), (c)(2), (i)(2)(F), (G)(iv), and (j), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5602"></a>
+## § 5602. Incidental transfers
+**(a) Incidental transfers authorized** The Director of the Office of Management and Budget, in consultation with the Secretary, shall make such additional incidental transfers and dispositions of assets and liabilities held, used, arising from, available, or to be made available, in connection with the functions transferred by this title,11 See References in Text note below. as the Director may determine necessary to accomplish the purposes of this title.1
+
+**(b) Sunset** The authority provided in this section shall terminate 5 years after July 21, 2010.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5603"></a>
+## § 5603. Interim authority of the Secretary
+**(a) In general** The Secretary is authorized to perform the functions of the Bureau under this part until the Director of the Bureau is confirmed by the Senate in accordance with [section 5491 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5491).
+
+**(b) Interim administrative services by the Department of the Treasury** The Department of the Treasury may provide administrative services necessary to support the Bureau before the designated transfer date.
+
+
+<a id="section-5611"></a>
+## § 5611. Remittance transfers
+**(a) Omitted**
+
+**(b) Automated clearinghouse system**
+
+(1) **Expansion of system** — The Board of Governors shall work with the Federal reserve banks and the Department of the Treasury to expand the use of the automated clearinghouse system and other payment mechanisms for remittance transfers to foreign countries, with a focus on countries that receive significant remittance transfers from the United States, based on—
+
+  (A) the number, volume, and size of such transfers;
+
+  (B) the significance of the volume of such transfers relative to the external financial flows of the receiving country, including—
+
+    (i) the total amount transferred; and
+
+    (ii) the total volume of payments made by United States Government agencies to beneficiaries and retirees living abroad;
+
+  (C) the feasibility of such an expansion; and
+
+  (D) the ability of the Federal Reserve System to establish payment gateways in different geographic regions and currency zones to receive remittance transfers and route them through the payments systems in the destination countries.
+
+(2) **Report to Congress** — Not later than one calendar year after July 21, 2010, and on April 30 biennially thereafter during the 10-year period beginning on July 21, 2010, the Board of Governors shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on the status of the automated clearinghouse system and its progress in complying with the requirements of this subsection. The report shall include an analysis of adoption rates of International ACH Transactions rules and formats, the efficacy of increasing adoption rates, and potential recommendations to increase adoption.
+
+**(c) Expansion of financial institution provision of remittance transfers**
+
+(1) **Provision of guidelines to institutions** — Each of the Federal banking agencies and the National Credit Union Administration shall provide guidelines to financial institutions under the jurisdiction of the agency regarding the offering of low-cost remittance transfers and no-cost or low-cost basic consumer accounts, as well as agency services to remittance transfer providers.
+
+(2) **Assistance to Financial Literacy Commission 11 So in original. Probably should be “Financial Literacy and Education Commission”.** — As part of its 22 So in original. Probably should be “their”. duties as members of the Financial Literacy and Education Commission, the Bureau, the Federal banking agencies, and the National Credit Union Administration shall assist the Financial Literacy and Education Commission in executing the Strategy for Assuring Financial Empowerment (or the “SAFE Strategy”), as it relates to remittances.
+
+**(d) Omitted**
+
+**(e) Report on feasibility of and impediments to use of remittance history in calculation of credit score** Before the end of the 365-day period beginning on July 21, 2010, the Director shall submit a report to the President, the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives regarding—
+
+(1) the manner in which the remittance history of a consumer could be used to enhance the credit score of the consumer;
+
+(2) the current legal and business model barriers and impediments that impede the use of the remittance history of the consumer to enhance the credit score of the consumer; and
+
+(3) recommendations on the manner in which maximum transparency and disclosure to consumers of exchange rates for remittance transfers subject to this title 33 See References in Text note below. and the amendments made by this title 3 may be accomplished, whether or not such exchange rates are known at the time of origination or payment by the consumer for the remittance transfer, including disclosure to the sender of the actual exchange rate used and the amount of currency that the recipient of the remittance transfer received, using the values of the currency into which the funds were exchanged, as contained in sections 1693o–1(a)(2)(D) 3 and 1693o–1(a)(3) of title 15 (as amended by this section).
+
+### Statutory Notes
+
+#### References in Text
+This title, where footnoted in subsec. (e)(3), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+Section 1693o–1(a)(2) of title 15, referred to in subsec. (e)(3), does not contain a subpar. (D).
+
+#### Codification
+Section is comprised of section 1073 of Pub. L. 111–203. Subsecs. (a) and (d) of section 1073 of Pub. L. 111–203 enacted section 1693o–1 of Title 15, Commerce and Trade, amended [section 1757 of this title](./chapter-014-federal-credit-unions.md#section-1757) and sections 1693, 1693b, 1693p, 1693q, and 1693r of Title 15, and amended provisions set out as a note under [section 1693 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1693&num=0&edition=prelim).
+
+#### Effective Date
+Part effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5612"></a>
+## § 5612. Reverse mortgage study and regulations
+**(a) Study** Not later than 1 year after the designated transfer date, the Bureau shall conduct a study on reverse mortgage transactions.
+
+**(b) Regulations**
+
+(1) **In general** — If the Bureau determines through the study required under subsection (a) that conditions or limitations on reverse mortgage transactions are necessary or appropriate for accomplishing the purposes and objectives of this title,11 See References in Text note below. including protecting borrowers with respect to the obtaining of reverse mortgage loans for the purpose of funding investments, annuities, and other investment products and the suitability of a borrower in obtaining a reverse mortgage for such purpose.22 So in original. Sentence does not appear to be complete.
+
+(2) **Identified practices and integrated disclosures** — The regulations prescribed under paragraph (1) may, as the Bureau may so determine—
+
+  (A) identify any practice as unfair, deceptive, or abusive in connection with a reverse mortgage transaction; and
+
+  (B) provide for an integrated disclosure standard and model disclosures for reverse mortgage transactions, consistent with section 4302(d),1 that combines the relevant disclosures required under the Truth in Lending Act ([15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) et seq.) and the Real Estate Settlement Procedures Act [[12 U.S.C. 2601](./chapter-027-real-estate-settlement-procedures.md#section-2601) et seq.], with the disclosures required to be provided to consumers for Home Equity Conversion Mortgages under [section 1715z–20 of this title](./chapter-013-national-housing.md#section-1715z-20).
+
+**(c) Rule of construction** This section shall not be construed as limiting the authority of the Bureau to issue regulations, orders, or guidance that apply to reverse mortgages prior to the completion of the study required under subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (b)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted this subchapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+Section 4302(d), referred to in subsec. (b)(2)(B), probably was a reference to section 4302(d) of the House Engrossed version of H.R. 4173, 111th Congress. A later version of H.R. 4173 was enacted as Pub. L. 111–203, and as so enacted, doesn’t contain a section 4302. However, section 1032(f) of Pub. L. 111–203, which is classified to [section 5532(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5532/f&num=0&edition=prelim), contains substantially similar provisions to the section 4302(d) that was probably referred to.
+
+The Truth in Lending Act, referred to in subsec. (b)(2)(B), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(B), probably means the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601) and Tables.
+
+
+<a id="section-5613"></a>
+## § 5613. Review, report, and program with respect to exchange facilitators
+**(a) Review** The Director shall review all Federal laws and regulations relating to the protection of consumers who use exchange facilitators for transactions primarily for personal, family, or household purposes.
+
+**(b) Report** Not later than 1 year after the designated transfer date, the Director shall submit to Congress a report describing—
+
+(1) recommendations for legislation to ensure the appropriate protection of consumers who use exchange facilitators for transactions primarily for personal, family, or household purposes;
+
+(2) recommendations for updating the regulations of Federal departments and agencies to ensure the appropriate protection of such consumers; and
+
+(3) recommendations for regulations to ensure the appropriate protection of such consumers.
+
+**(c) Program** Not later than 2 years after the date of the submission of the report under subsection (b), the Bureau shall, consistent with part B, propose regulations or otherwise establish a program to protect consumers who use exchange facilitators.
+
+**(d) Exchange facilitator defined** In this section, the term “exchange facilitator” means a person that—
+
+(1) facilitates, for a fee, an exchange of like kind property by entering into an agreement with a taxpayer by which the exchange facilitator acquires from the taxpayer the contractual rights to sell the taxpayer’s relinquished property and transfers a replacement property to the taxpayer as a qualified intermediary (within the meaning of Treasury Regulations section 1.1031(k)–1(g)(4)) or enters into an agreement with the taxpayer to take title to a property as an exchange accommodation titleholder (within the meaning of Revenue Procedure 2000–37) or enters into an agreement with a taxpayer to act as a qualified trustee or qualified escrow holder (within the meaning of Treasury Regulations section 1.1031(k)–1(g)(3));
+
+(2) maintains an office for the purpose of soliciting business to perform the services described in paragraph (1); or
+
+(3) advertises any of the services described in paragraph (1) or solicits clients in printed publications, direct mail, television or radio advertisements, telephone calls, facsimile transmissions, or other electronic communications directed to the general public for purposes of providing any such services.
+
+
+<a id="section-5614"></a>
+## § 5614. Liquidity event determination
+**(a) Determination and written recommendation**
+
+(1) **Determination request** — The Secretary may request the Corporation and the Board of Governors to determine whether a liquidity event exists that warrants use of the guarantee program authorized under [section 5612 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5612).
+
+(2) **Requirements of determination** — Any determination pursuant to paragraph (1) shall—
+
+  (A) be written; and
+
+  (B) contain an evaluation of the evidence that—
+
+    (i) a liquidity event exists;
+
+    (ii) failure to take action would have serious adverse effects on financial stability or economic conditions in the United States; and
+
+    (iii) actions authorized under [section 5612 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5612) are needed to avoid or mitigate potential adverse effects on the United States financial system or economic conditions.
+
+**(b) Procedures** Notwithstanding any other provision of Federal or State law, upon the determination of both the Corporation (upon a vote of not fewer than ⅔ of the members of the Corporation then serving) and the Board of Governors (upon a vote of not fewer than ⅔ of the members of the Board of Governors then serving) under subsection (a) that a liquidity event exists that warrants use of the guarantee program authorized under [section 5612 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5612), and with the written consent of the Secretary—
+
+(1) the Corporation shall take action in accordance with [section 5612(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5612/a&num=0&edition=prelim); and
+
+(2) the Secretary (in consultation with the President) shall take action in accordance with [section 5612(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5612/c&num=0&edition=prelim).
+
+**(c) Documentation and review**
+
+(1) **Documentation** — The Secretary shall—
+
+  (A) maintain the written documentation of each determination of the Corporation and the Board of Governors under this section; and
+
+  (B) provide the documentation for review under paragraph (2).
+
+(2) **GAO review** — The Comptroller General of the United States shall review and report to Congress on any determination of the Corporation and the Board of Governors under subsection (a), including—
+
+  (A) the basis for the determination; and
+
+  (B) the likely effect of the actions taken.
+
+**(d) Report to Congress** On the earlier of the date of a submission made to Congress under [section 5612(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5612/c&num=0&edition=prelim), or within 30 days of the date of a determination under subsection (a), the Secretary shall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
+
+### Statutory Notes
+
+#### Effective Date
+Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5621"></a>
+## § 5621. Emergency financial stabilization
+**(a) In general** Upon the written determination of the Corporation and the Board of Governors under [section 5611 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5611), the Corporation shall create a widely available program to guarantee obligations of solvent insured depository institutions or solvent depository institution holding companies (including any affiliates thereof) during times of severe economic distress, except that a guarantee of obligations under this section may not include the provision of equity in any form.
+
+**(b) Rulemaking and terms and conditions**
+
+(1) **Policies and procedures** — As soon as is practicable after July 21, 2010, the Corporation shall establish, by regulation, and in consultation with the Secretary, policies and procedures governing the issuance of guarantees authorized by this section. Such policies and procedures may include a requirement of collateral as a condition of any such guarantee.
+
+(2) **Terms and conditions** — The terms and conditions of any guarantee program shall be established by the Corporation, with the concurrence of the Secretary.
+
+**(c) Determination of guaranteed amount**
+
+(1) **In general** — In connection with any program established pursuant to subsection (a) and subject to paragraph (2) of this subsection, the Secretary (in consultation with the President) shall determine the maximum amount of debt outstanding that the Corporation may guarantee under this section, and the President may transmit to Congress a written report on the plan of the Corporation to exercise the authority under this section to issue guarantees up to that maximum amount and a request for approval of such plan. The Corporation shall exercise the authority under this section to issue guarantees up to that specified maximum amount upon passage of the joint resolution of approval, as provided in subsection (d). Absent such approval, the Corporation shall issue no such guarantees.
+
+(2) **Additional debt guarantee authority** — If the Secretary (in consultation with the President) determines, after a submission to Congress under paragraph (1), that the maximum guarantee amount should be raised, and the Council concurs with that determination, the President may transmit to Congress a written report on the plan of the Corporation to exercise the authority under this section to issue guarantees up to the increased maximum debt guarantee amount. The Corporation shall exercise the authority under this section to issue guarantees up to that specified maximum amount upon passage of the joint resolution of approval, as provided in subsection (d). Absent such approval, the Corporation shall issue no such guarantees.
+
+**(d) Resolution of approval**
+
+(1) **Additional debt guarantee authority** — A request by the President under this section shall be considered granted by Congress upon adoption of a joint resolution approving such request. Such joint resolution shall be considered in the Senate under expedited procedures.
+
+(2) **Fast track consideration in Senate**
+
+  (A) *Reconvening* — Upon receipt of a request under subsection (c), if the Senate has adjourned or recessed for more than 2 days, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this section, the Senate shall convene not later than the second calendar day after receipt of such message.
+
+  (B) *Placement on calendar* — Upon introduction in the Senate, the joint resolution shall be placed immediately on the calendar.
+
+  (C) *Floor consideration*
+
+    (i) *In general* — Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the 4th day after the date on which Congress receives a request under subsection (c), and ending on the 7th day after that date (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+
+    (ii) *Debate* — Debate on the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
+
+    (iii) *Vote on passage* — The vote on passage shall occur immediately following the conclusion of the debate on the joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
+
+    (iv) *Rulings of the Chair on procedure* — Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
+
+(3) **Rules**
+
+  (A) *Coordination with action by House of Representatives* — If, before the passage by the Senate of a joint resolution of the Senate, the Senate receives a joint resolution, from the House of Representatives, then the following procedures shall apply:
+
+    (i) The joint resolution of the House of Representatives shall not be referred to a committee.
+
+    (ii) With respect to a joint resolution of the Senate—
+
+      (I) the procedure in the Senate shall be the same as if no joint resolution had been received from the other House; but
+
+      (II) the vote on passage shall be on the joint resolution of the House of Representatives.
+
+  (B) *Treatment of joint resolution of House of Representatives* — If the Senate fails to introduce or consider a joint resolution under this section, the joint resolution of the House of Representatives shall be entitled to expedited floor procedures under this subsection.
+
+  (C) *Treatment of companion measures* — If, following passage of the joint resolution in the Senate, the Senate then receives the companion measure from the House of Representatives, the companion measure shall not be debatable.
+
+  (D) *Rules of the Senate* — This subsection is enacted by Congress—
+
+    (i) as an exercise of the rulemaking power of the Senate, and as such it is deemed a part of the rules of the Senate, but applicable only with respect to the procedure to be followed in the Senate in the case of a joint resolution, and it supersedes other rules, only to the extent that it is inconsistent with such rules; and
+
+    (ii) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner, and to the same extent as in the case of any other rule of the Senate.
+
+(4) **Definition** — As used in this subsection, the term “joint resolution” means only a joint resolution—
+
+  (A) that is introduced not later than 3 calendar days after the date on which the request referred to in subsection (c) is received by Congress;
+
+  (B) that does not have a preamble;
+
+  (C) the title of which is as follows: “Joint resolution relating to the approval of a plan to guarantee obligations under section 1105 of the Dodd-Frank Wall Street Reform and Consumer Protection Act”; and
+
+  (D) the matter after the resolving clause of which is as follows: “That Congress approves the obligation of any amount described in section 1105(c) of the Dodd-Frank Wall Street Reform and Consumer Protection Act.”.
+
+**(e) Funding**
+
+(1) **Fees and other charges** — The Corporation shall charge fees and other assessments to all participants in the program established pursuant to this section, in such amounts as are necessary to offset projected losses and administrative expenses, including amounts borrowed pursuant to paragraph (3), and such amounts shall be available to the Corporation.
+
+(2) **Excess funds** — If, at the conclusion of the program established under this section, there are any excess funds collected from the fees associated with such program, the funds shall be deposited in the General Fund of the Treasury.
+
+(3) **Authority of Corporation** — The Corporation—
+
+  (A) may borrow funds from the Secretary of the Treasury and issue obligations of the Corporation to the Secretary for amounts borrowed, and the amounts borrowed shall be available to the Corporation for purposes of carrying out a program established pursuant to this section, including the payment of reasonable costs of administering the program, and the obligations issued shall be repaid in full with interest through fees and charges paid by participants in accordance with paragraphs (1) and (4), as applicable; and
+
+  (B) may not borrow funds from the Deposit Insurance Fund established pursuant to [section 1821(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/a/4&num=0&edition=prelim).
+
+(4) **Backup special assessments** — To the extent that the funds collected pursuant to paragraph (1) are insufficient to cover any losses or expenses, including amounts borrowed pursuant to paragraph (3), arising from a program established pursuant to this section, the Corporation shall impose a special assessment solely on participants in the program, in amounts necessary to address such insufficiency, and which shall be available to the Corporation to cover such losses or expenses.
+
+(5) **Authority of the Secretary** — The Secretary may purchase any obligations issued under paragraph (3)(A). For such purpose, the Secretary may use the proceeds of the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter 31 are extended to include such purchases, and the amount of any securities issued under that chapter 31 for such purpose shall be treated in the same manner as securities issued under section 208(n)(5)(E).11 See References in Text note below.
+
+**(f) Rule of construction** For purposes of this section, a guarantee of deposits held by insured depository institutions shall not be treated as a debt guarantee program.
+
+**(g) Definitions** For purposes of this section, the following definitions shall apply:
+
+(1) **Company** — The term “company” means any entity other than a natural person that is incorporated or organized under Federal law or the laws of any State.
+
+(2) **Depository institution holding company** — The term “depository institution holding company” has the same meaning as in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+(3) **Liquidity event** — The term “liquidity event” means—
+
+  (A) an exceptional and broad reduction in the general ability of financial market participants—
+
+    (i) to sell financial assets without an unusual and significant discount; or
+
+    (ii) to borrow using financial assets as collateral without an unusual and significant increase in margin; or
+
+  (B) an unusual and significant reduction in the ability of financial market participants to obtain unsecured credit.
+
+(4) **Solvent** — The term “solvent” means that the value of the assets of an entity exceed its obligations to creditors.
+
+### Statutory Notes
+
+#### References in Text
+Section 1105 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (d)(4)(C), (D), is section 1105 of Pub. L. 111–203, which is classified to this section.
+
+Section 208(n)(5)(E), referred to in subsec. (e)(5), probably means section 210(n)(5)(E) of Pub. L. 111–203, which is classified to [section 5390(n)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n/5/E&num=0&edition=prelim), because section 208 does not contain a subsec. (n) and section 210(n)(5)(E) relates to treatment of certain purchases and sales of obligations by the Secretary as public debt.
+
+
+<a id="section-5622"></a>
+## § 5622. Additional related matters
+**(a) Suspension of parallel Federal Deposit Insurance Act authority** Effective upon July 21, 2010, the Corporation may not exercise its authority under [section 1823(c)(4)(G)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c/4/G/i&num=0&edition=prelim) to establish any widely available debt guarantee program for which [section 5612 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5612) would provide authority.
+
+**(b) Omitted**
+
+**(c) Effect of default on an FDIC guarantee** If an insured depository institution or depository institution holding company (as those terms are defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)) participating in a program under [section 5612 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5612), or any participant in a debt guarantee program established pursuant to [section 1823(c)(4)(G)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1823/c/4/G/i&num=0&edition=prelim) defaults on any obligation guaranteed by the Corporation after July 21, 2010, the Corporation shall—
+
+(1) appoint itself as receiver for the insured depository institution that defaults; and
+
+(2) with respect to any other participating company that is not an insured depository institution that defaults—
+
+  (A) require—
+
+    (i) consideration of whether a determination shall be made, as provided in [section 5383 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5383) to resolve the company under [section 5382 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5382); and
+
+    (ii) the company to file a petition for bankruptcy under [section 301 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section301&num=0&edition=prelim) if the Corporation is not appointed receiver pursuant to [section 5382 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5382) within 30 days of the date of default; or
+
+  (B) file a petition for involuntary bankruptcy on behalf of the company under [section 303 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section303&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 1106 of Pub. L. 111–203. Subsec. (b) of section 1106 of Pub. L. 111–203 amended [section 1823 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1823).
+
+
+<a id="section-5623"></a>
+## § 5623. Exercise of Federal Reserve authority
+(1) **No decisions by Federal reserve bank presidents** — No provision of subchapter I relating to the authority of the Board of Governors shall be construed as conferring any decision-making authority on presidents of Federal reserve banks.
+
+(2) **Voting decisions by Board** — The Board of Governors shall not delegate the authority to make any voting decision that the Board of Governors is authorized or required to make under subchapter I of this chapter in contravention of [section 248(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section248/k&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+Subchapter I, referred to in text, was in the original “title I”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, known as the Financial Stability Act of 2010, which is classified principally to subchapter I (§ 5311 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5624"></a>
+## § 5624. Purpose
+
+The purpose of this subchapter is to encourage initiatives for financial products and services that are appropriate and accessible for millions of Americans who are not fully incorporated into the financial mainstream.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Effective Date
+Subchapter effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+#### Short Title
+This subchapter known as the “Improving Access to Mainstream Financial Institutions Act of 2010”, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
+
+
+<a id="section-5625"></a>
+## § 5625. Definitions
+
+In this subchapter, the following definitions shall apply:
+
+(1) **Account** — The term “account” means an agreement between an individual and an eligible entity under which the individual obtains from or through the entity 1 or more banking products and services, and includes a deposit account, a savings account (including a money market savings account), an account for a closed-end loan, and other products or services, as the Secretary deems appropriate.
+
+(2) **Community development financial institution** — The term “community development financial institution” has the same meaning as in [section 4702(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4702/5&num=0&edition=prelim).
+
+(3) **Eligible entity** — The term “eligible entity” means—
+
+  (A) an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), and exempt from tax under section 501(a) of such title;
+
+  (B) a federally insured depository institution;
+
+  (C) a community development financial institution;
+
+  (D) a State, local, or tribal government entity; or
+
+  (E) a partnership or other joint venture comprised of 1 or more of the entities described in subparagraphs (A) through (D), in accordance with regulations prescribed by the Secretary under this subchapter.
+
+(4) **Federally insured depository institution** — The term “federally insured depository institution” means any insured depository institution (as that term is defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)) and any insured credit union (as that term is defined in [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752)).
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5626"></a>
+## § 5626. Expanded access to mainstream financial institutions
+**(a) In general** The Secretary is authorized to establish a multiyear program of grants, cooperative agreements, financial agency agreements, and similar contracts or undertakings to promote initiatives designed—
+
+(1) to enable low- and moderate-income individuals to establish one or more accounts in a federally insured depository institution that are appropriate to meet the financial needs of such individuals; and
+
+(2) to improve access to the provision of accounts, on reasonable terms, for low- and moderate-income individuals.
+
+**(b) Program eligibility and activities**
+
+(1) **In general** — The Secretary shall restrict participation in any program established under subsection (a) to an eligible entity. Subject to regulations prescribed by the Secretary under this subchapter, 1 or more eligible entities may participate in 1 or several programs established under subsection (a).
+
+(2) **Account activities** — Subject to regulations prescribed by the Secretary, an eligible entity may, in participating in a program established under subsection (a), offer or provide to low- and moderate-income individuals products and services relating to accounts, including—
+
+  (A) small-dollar value loans; and
+
+  (B) financial education and counseling relating to conducting transactions in and managing accounts.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (b)(1), was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5627"></a>
+## § 5627. Low-cost alternatives to small dollar loans
+**(a) Grants authorized** The Secretary is authorized to establish multiyear demonstration programs by means of grants, cooperative agreements, financial agency agreements, and similar contracts or undertakings, with eligible entities to provide low-cost, small loans to consumers that will provide alternatives to more costly small dollar loans.
+
+**(b) Terms and conditions**
+
+(1) **In general** — Loans under this section shall be made on terms and conditions, and pursuant to lending practices, that are reasonable for consumers.
+
+(2) **Financial literacy and education opportunities**
+
+  (A) *In general* — Each eligible entity awarded a grant under this section shall promote and take appropriate steps to ensure the provision of financial literacy and education opportunities, such as relevant counseling services, educational courses, or wealth building programs, to each consumer provided with a loan pursuant to this section.
+
+  (B) *Authority to expand access* — As part of the grants, agreements, and undertakings established under this section, the Secretary may implement reasonable measures or programs designed to expand access to financial literacy and education opportunities, including relevant counseling services, educational courses, or wealth building programs to be provided to individuals who obtain loans from eligible entities under this section.
+
+
+<a id="section-5628"></a>
+## § 5628. Procedural provisions
+
+An eligible entity desiring to participate in a program or obtain a grant under this subchapter shall submit an application to the Secretary, in such form and containing such information as the Secretary may require.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+
+<a id="section-5641"></a>
+## § 5641. Authorization of appropriations
+**(a) Authorization to the Secretary** There are authorized to be appropriated to the Secretary, such sums as are necessary to both administer and fund the programs and projects authorized by this subchapter, to remain available until expended.
+
+**(b) Authorization to the Fund** There is authorized to be appropriated to the Fund for each fiscal year beginning in fiscal year 2010, an amount equal to the amount of the administrative costs of the Fund for the operation of the grant program established under this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title XII of Pub. L. 111–203, July 21, 2010, 124 Stat. 2129, known as the Improving Access to Mainstream Financial Institutions Act of 2010, which is classified principally to this subchapter. For complete classification of title XII to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.

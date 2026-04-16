@@ -1,0 +1,945 @@
+---
+title: 18
+chapter: '113'
+heading: STOLEN PROPERTY
+section_count: 15
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
+---
+<a id="section-2311"></a>
+## § 2311. Definitions
+
+As used in this chapter:
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., §§ 408, 414(b), (c), 417, 419a(a) (Oct. 29, 1919, ch. 89, § 2(a), 41 Stat. 324; May 22, 1934, ch. 333, §§ 2(b), (c), 5, 48 Stat. 794, 795; Aug. 3, 1939, ch. 413, § 3, 53 Stat. 1178; Aug. 18, 1941, ch. 366, § 2(a), 55 Stat. 631; Sept. 24, 1945, ch. 383, § 1, 59 Stat. 536).
+
+The definitive provisions in each of said sections were separated therefrom and consolidated into this one section defining terms used in this chapter.
+
+The definitions of “interstate or foreign commerce”, contained in said section 408 and in sections 414(a) and 419a(b) of title 18, U.S.C., 1940 ed., are incorporated in [section 10 of this title](./chapter-001-general-provisions.md#section-10).
+
+Other provisions of [section 408 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section408&num=0&edition=prelim), U.S.C., 1940 ed., are incorporated in sections 2312 and 2313 of this title.
+
+In the definition of “motor vehicle”, words “designed for running on land but not on rails” were substituted for “not designed for running on rails” so as to conform with the ruling in the case of McBoyle v. U.S. (1931, 51 S. Ct. 340, 283, U. S. 25, 75 L. Ed. 816), in which the Supreme Court held that “vehicle” is limited to vehicles running on land and that motor vehicle does not include an airplane.
+
+In the paragraph defining “value” which came from said [section 417 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section417&num=0&edition=prelim), U.S.C., 1940 ed., words “In the event that a defendant is charged in the same indictment with two or more violations of sections 413–419 of this title, then” were omitted and the same meaning was preserved by the substitution of the words “a single” for the word “such.”
+
+Minor changes were made in phraseology.
+
+#### Amendments
+2006—Pub. L. 109–177 inserted definition of “Vessel”.
+
+2002—Pub. L. 107–273 substituted semicolon for period at end of third par.
+
+1996—Pub. L. 104–294 substituted “Livestock” for “livestock” in third par.
+
+1994—Pub. L. 103–322 inserted definition of “livestock”.
+
+1984—Pub. L. 98–547 inserted “valid or blank motor vehicle title;” in definition of “Securities”.
+
+1961—Pub. L. 87–371 inserted definition of “Tax stamp”.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).
+
+#### Short Title of 2004 Amendment
+Pub. L. 108–482, title I, § 101, Dec. 23, 2004, 118 Stat. 3912, provided that: “This title [amending [section 2318 of this title](./chapter-113-stolen-property.md#section-2318) and enacting provisions set out as a note under [section 2318 of this title](./chapter-113-stolen-property.md#section-2318)] may be cited as the ‘Anti-counterfeiting Amendments Act of 2004’.”
+
+#### Short Title of 1997 Amendment
+Pub. L. 105–147, § 1, Dec. 16, 1997, 111 Stat. 2678, provided that: “This Act [amending sections 2319 to 2320 of this title, sections 101, 506, and 507 of Title 17, Copyrights, and [section 1498 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1498&num=0&edition=prelim), Judiciary and Judicial Procedure, and enacting provisions set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim)] may be cited as the ‘No Electronic Theft (NET) Act’.”
+
+#### Short Title of 1996 Amendment
+Pub. L. 104–153, § 1, July 2, 1996, 110 Stat. 1386, provided that: “This Act [amending sections 1961, 2318, and 2320 of this title, sections 1116 and 1117 of Title 15, Commerce and Trade, [section 603 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section603&num=0&edition=prelim), Copyrights, sections 1431, 1484, and 1526 of Title 19, Customs Duties, and [section 80302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section80302&num=0&edition=prelim), Transportation, and enacting provisions set out as notes under this section and [section 1431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1431&num=0&edition=prelim)] may be cited as the ‘Anticounterfeiting Consumer Protection Act of 1996’.”
+
+#### Short Title of 1992 Amendment
+Pub. L. 102–519, § 1, Oct. 25, 1992, 106 Stat. 3384, provided that: “This Act [enacting sections 2119 and 2322 of this title, sections 2026a to 2026c and 2041 to 2044 of Title 15, Commerce and Trade, sections 1646b and 1646c of Title 19, Customs Duties, and sections 3750a to 3750d of Title 42, The Public Health and Welfare, amending sections 553, 981, 982, 2312, and 2313 of this title, sections 2021 to 2023, 2025, 2027, and 2034 of Title 15, and enacting provisions set out as notes under [section 2119 of this title](./chapter-103-robbery-and-burglary.md#section-2119), sections 2026a, 2026b, and 2041 of Title 15, and [section 1646b of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1646b&num=0&edition=prelim)] may be cited as the ‘Anti Car Theft Act of 1992’.”
+
+#### Short Title of 1984 Amendments
+Pub. L. 98–547, § 1(a), Oct. 25, 1984, 98 Stat. 2754, provided that: “This Act [enacting sections 511, 512, 553, and 2320 [now 2321] of this title, sections 2021 to 2034 of Title 15, Commerce and Trade, and [section 1627 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1627&num=0&edition=prelim), Customs Duties, amending this section, sections 1961 and 2313 of this title, and [section 1901 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1901&num=0&edition=prelim), and enacting provisions set out as a note under [section 2021 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2021&num=0&edition=prelim)] may be cited as the ‘Motor Vehicle Theft Law Enforcement Act of 1984’.”
+
+Pub. L. 98–473, title II, § 1501, Oct. 12, 1984, 98 Stat. 2178, provided that: “This chapter [chapter XV (§§ 1501–1503) of title II of Pub. L. 98–473, enacting [section 2320 of this title](./chapter-113-stolen-property.md#section-2320) and amending sections 1116, 1117, and 1118 of Title 15, Commerce and Trade] may be cited as the ‘Trademark Counterfeiting Act of 1984’.”
+
+#### Short Title of 1982 Amendment
+Pub. L. 97–180, § 1, May 24, 1982, 96 Stat. 91, provided: “That this Act [enacting [section 2319 of this title](./chapter-113-stolen-property.md#section-2319) and amending [section 2318 of this title](./chapter-113-stolen-property.md#section-2318) and [section 506 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506&num=0&edition=prelim), Copyrights] may be cited as the ‘Piracy and Counterfeiting Amendments Act of 1982’.”
+
+#### Counterfeiting of Trademarked and Copyrighted Merchandise; Congressional Statement of Findings
+Pub. L. 104–153, § 2, July 2, 1996, 110 Stat. 1386, provided that: “The counterfeiting of trademarked and copyrighted merchandise— “(1) has been connected with organized crime; “(2) deprives legitimate trademark and copyright owners of substantial revenues and consumer goodwill; “(3) poses health and safety threats to United States consumers; “(4) eliminates United States jobs; and “(5) is a multibillion-dollar drain on the United States economy.”
+
+#### Congressional Declaration of Purpose of 1984 Amendment
+Pub. L. 98–547, § 2, Oct. 25, 1984, 98 Stat. 2754, provided that: “It is the purpose of this Act [see Short Title of 1984 Amendments note above]— “(1) to provide for the identification of certain motor vehicles and their major replacement parts to impede motor vehicle theft; “(2) to augment the Federal criminal penalties imposed upon persons trafficking in stolen motor vehicles; “(3) to encourage decreases in premiums charged consumers for motor vehicle theft insurance; and “(4) to reduce opportunities for exporting or importing stolen motor vehicles and off-highway mobile equipment.”
+
+
+<a id="section-2312"></a>
+## § 2312. Transportation of stolen vehicles
+
+Whoever transports in interstate or foreign commerce a motor vehicle, vessel, or aircraft, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., § 408 (Oct. 29, 1919, ch. 89, §§ 1, 3, 5, 41 Stat. 324, 325; Sept. 24, 1945, ch. 383, §§ 2, 3, 59 Stat. 536).
+
+The first sentence of said section 408, providing the short title “An Act to punish the transportation of stolen motor vehicles or aircraft in interstate or foreign commerce,” and derived from section 1 of said act of October 29, 1919, as amended, was omitted as not appropriate in a revision.
+
+Definitions of “aircraft,” “motor vehicle,” and “interstate or foreign commerce,” which constituted the second sentence of said [section 408 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section408&num=0&edition=prelim), U.S.C., 1940 ed., and were derived from section 2 of said act of October 29, 1919, as amended, are incorporated in sections 10 and 2311 of this title.
+
+Provision relating to receiving or selling stolen aircraft or motor vehicles, which was derived from section 4 of the act of October 29, 1919, as amended, is incorporated in [section 2313 of this title](./chapter-113-stolen-property.md#section-2313).
+
+Venue provision, which was derived from section 5 of the act of October 29, 1919, was omitted as unnecessary, being covered by [section 3237 of this title](./chapter-211-jurisdiction-and-venue.md#section-3237).
+
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title](./chapter-001-general-provisions.md#section-2).
+
+Minor changes were made in phraseology.
+
+#### Amendments
+2006—Pub. L. 109–177 substituted “motor vehicle, vessel, or aircraft” for “motor vehicle or aircraft”.
+
+1992—Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $5,000 or imprisoned not more than five years”.
+
+
+<a id="section-2313"></a>
+## § 2313. Sale or receipt of stolen vehicles
+**(a)** Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any motor vehicle, vessel, or aircraft, which has crossed a State or United States boundary after being stolen, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than 10 years, or both.
+
+**(b)** For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., § 408 (Oct. 29, 1919, ch. 89, § 4, 41 Stat. 325; Sept. 24, 1945, ch. 383, §§ 2, 3, 59 Stat. 536).
+
+Section constitutes the fourth sentence of said [section 408 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section408&num=0&edition=prelim), U.S.C., 1940 ed.
+
+Definitions of “aircraft,” “motor vehicle,” and “interstate or foreign commerce,” which constituted the second sentence of said section 408, are incorporated in sections 10 and 2311 of this title.
+
+The third sentence of said section 408, relating to transporting stolen aircraft or motor vehicles, is incorporated in [section 2312 of this title](./chapter-113-stolen-property.md#section-2312).
+
+The first sentence of said section 408, providing the short title, and the fifth sentence thereof, relating to venue, were omitted. (See reviser’s note under [section 2312 of this title](./chapter-113-stolen-property.md#section-2312).)
+
+Minor changes were made in phraseology.
+
+#### Amendments
+2006—Subsec. (a). Pub. L. 109–177 substituted “motor vehicle, vessel, or aircraft” for “motor vehicle or aircraft”.
+
+1992—Subsec. (a). Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $5,000 or imprisoned not more than five years”.
+
+1990—Pub. L. 101–647 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1984—Pub. L. 98–547 inserted “possesses,” after “receives,” and substituted “which has crossed a State or United States boundary after being stolen,” for “moving as, or which is a part of, or which constitutes interstate or foreign commerce,”.
+
+
+<a id="section-2314"></a>
+## § 2314. Transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting
+
+Whoever transports, transmits, or transfers in interstate or foreign commerce any goods, wares, merchandise, securities or money, of the value of $5,000 or more, knowing the same to have been stolen, converted or taken by fraud; or
+
+### Statutory Notes
+
+#### 1948 Act
+Based on title 18, U.S.C., 1940 ed., §§ 413, 415, 418, 418a, 419 (May 22, 1934, ch. 333, §§ 1, 3, 6, 48 Stat. 794, 795; May 22, 1934, ch. 333, § 7, as added Aug. 3, 1939, ch. 413, § 5, 53 Stat. 1179; May 22, 1934, ch. 333, § 7, renumbered § 8 by Aug. 3, 1939, ch. 413, § 6, 53 Stat. 1179; Aug. 3, 1939, ch. 413, §§ 1, 4, 5, 53 Stat. 1178, 1179).
+
+Section consolidates sections 413, 415, 417, 418, 418a, and 419 of title 18, U.S.C., 1940 ed.
+
+Words “or with intent to steal or purloin, knowing the same to have been so stolen, converted, or taken” were omitted as surplusage, since property so “taken” is “stolen,” and insertion of word “knowingly” after “Whoever” at beginning of section renders such omission possible.
+
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title](./chapter-001-general-provisions.md#section-2).
+
+[Section 413 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section413&num=0&edition=prelim), U.S.C., 1940 ed., providing the short title “National Stolen Property Act,” was omitted as not appropriate in a revision.
+
+[Section 414 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section414&num=0&edition=prelim), U.S.C., 1940 ed., containing definitions of “interstate or foreign commerce,” “securities,” and “money,” is incorporated in sections 10 and 2311 of this title.
+
+[Section 417 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section417&num=0&edition=prelim), U.S.C., 1940 ed., relating to indictments and determination of “value” of goods, wares, merchandise, securities, and money referred to in indictments, is also incorporated in [section 2311 of this title](./chapter-113-stolen-property.md#section-2311).
+
+[Section 418 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section418&num=0&edition=prelim), U.S.C., 1940 ed., relating to venue, was omitted as completely covered by [section 3237 of this title](./chapter-211-jurisdiction-and-venue.md#section-3237).
+
+[Section 418a of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section418a&num=0&edition=prelim), U.S.C., 1940 ed., relating to conspiracy, was omitted as covered by [section 371 of this title](./chapter-019-conspiracy.md#section-371), the general conspiracy section.
+
+[Section 419 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section419&num=0&edition=prelim), U.S.C., 1940 ed., providing that nothing contained in the National Stolen Property Act should be construed to repeal, modify, or amend any part of the National Motor Vehicle Theft Act, was omitted as unnecessary, in view of this revision and reenactment of the provisions of the latter act (sections 10, 2311–2313 of this title).
+
+Changes were made in phraseology and arrangement.
+
+#### 1949 Act
+This amendment [see section 45] restates and clarifies the first paragraph of [section 2314 of title 18](./chapter-113-stolen-property.md#section-2314), U.S.C., to conform to the original law upon which the section is based.
+
+#### Amendments
+2013—Pub. L. 112–239, § 1084(a)(4), inserted par. at end defining “veterans’ memorial object”.
+
+Pub. L. 112–239, § 1084(a)(3), inserted at end of seventh par. “If the offense involves the transportation, transmission, or transfer in interstate or foreign commerce of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.”
+
+Pub. L. 112–239, § 1084(a)(1), (2), inserted sixth par. relating to veterans’ memorial objects.
+
+2012—Pub. L. 112–186 inserted at end of sixth par. “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”
+
+1994—Pub. L. 103–322, § 330016(1)(L), substituted “fined under this title” for “fined not more than $10,000” in sixth par.
+
+Pub. L. 103–322, § 330016(1)(K), which directed the amendment of this section by striking “not more than $5,000” and inserting “under this title”, could not be executed because the phrase “not more than $5,000” did not appear in text.
+
+1990—Pub. L. 101–647 inserted “or foreign” after “interstate” in second par.
+
+1988—Pub. L. 100–690, § 7057(a), substituted “transports, transmits, or transfers” for “transports” in first par.
+
+Pub. L. 100–690, § 7080, inserted “or persons” after “any person” and “or those persons” after “that person” in second par.
+
+Pub. L. 100–690, § 7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
+
+1968—Pub. L. 90–535 prohibited transportation with unlawful or fraudulent intent in interstate or foreign commerce of traveler’s checks bearing forged countersignatures.
+
+1961—Pub. L. 87–371 inserted “or tax stamps” after “securities” in third par. and after “security” in fourth par., and “fraudulent State tax stamps,” in section catchline.
+
+1956—Act July 9, 1956, inserted par. relating to interstate transportation of persons in schemes to defraud.
+
+1949—Act May 24, 1949, substituted “knowing the same to have been stolen, converted or taken by fraud” for “theretofore stolen, converted, or taken by fraud” in first par.
+
+
+<a id="section-2315"></a>
+## § 2315. Sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps
+
+Whoever receives, possesses, conceals, stores, barters, sells, or disposes of any goods, wares, or merchandise, securities, or money of the value of $5,000 or more, or pledges or accepts as security for a loan any goods, wares, or merchandise, or securities, of the value of $500 or more, which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken, knowing the same to have been stolen, unlawfully converted, or taken; or
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., § 416 (May 22, 1934, ch. 333, § 4, 48 Stat. 795; Aug. 3, 1939, ch. 413, § 2, 53 Stat. 1178).
+
+(See reviser’s notes under sections 10, 2311 and 2314 of this title for explanation of consolidation or omission of other sections of title 18, U.S.C., 1940 ed., which were derived from the National Stolen Property Act.)
+
+Minor changes were made in phraseology.
+
+#### Amendments
+2013—Pub. L. 112–239, § 1084(b)(4), inserted at end “For purposes of this section the term ‘veterans’ memorial object’ means a grave marker, headstone, monument, or other object, intended to permanently honor a veteran or mark a veteran’s grave, or any monument that signifies an event of national military historical significance.”
+
+Pub. L. 112–239, § 1084(b)(3), inserted at end of fifth par. “If the offense involves the receipt, possession, concealment, storage, barter, sale, or disposal of veterans’ memorial objects with a value, in the aggregate, of less than $1,000, the defendant shall be fined under this title or imprisoned not more than one year, or both.”
+
+Pub. L. 112–239, § 1084(b)(1), (2), inserted fourth par. relating to veterans’ memorial objects.
+
+2012—Pub. L. 112–186 inserted at end of fourth par. “If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater.”
+
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in fourth par.
+
+1990—Pub. L. 101–647 inserted par. at end defining “State”.
+
+1988—Pub. L. 100–690, § 7048, substituted “moving as, or which are a part of, or which constitute interstate or foreign commerce” for “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” in second par.
+
+Pub. L. 100–690, § 7057(b), struck out “or by a bank or corporation of any foreign country” after “foreign government” in last par. and inserted at end “This section also shall not apply to any falsely made, forged, altered, counterfeited, or spurious representation of any bank note or bill issued by a bank or corporation of any foreign country which is intended by the laws or usage of such country to circulate as money.”
+
+1986—Pub. L. 99–646 substituted “receives, possesses, conceals” for “receives, conceals” and “which have crossed a State or United States boundary after being stolen, unlawfully converted, or taken” for “moving as, or which are part of, or which constitute interstate or foreign commerce” in first and second pars.
+
+1961—Pub. L. 87–371 inserted “or tax stamps” after “securities”, wherever appearing, in second par., and “or tax stamp” after “security”, wherever appearing, in third par., and substituted “moneys, or fraudulent State tax stamps” for “or monies” in section catchline.
+
+
+<a id="section-2316"></a>
+## § 2316. Transportation of livestock
+
+Whoever transports in interstate or foreign commerce any livestock, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than five years, or both.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., §§ 419b, 419d (Aug. 18, 1941, ch. 366, §§ 3, 5, 55 Stat. 631).
+
+This section consolidates sections 419b and 419d of title 18, U.S.C., 1940 ed.
+
+Definition of “cattle”, contained in [section 419a(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section419a/a&num=0&edition=prelim), U.S.C., 1940 ed., is incorporated in [section 2311 of this title](./chapter-113-stolen-property.md#section-2311).
+
+Definition of “interstate or foreign commerce”, constituting [section 419a(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section419a/b&num=0&edition=prelim), U.S.C., 1940 ed., is incorporated in [section 10 of this title](./chapter-001-general-provisions.md#section-10).
+
+The venue provision of said [section 419d of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section419d&num=0&edition=prelim), U.S.C., 1940 ed., was omitted as completely covered by [section 3237 of this title](./chapter-211-jurisdiction-and-venue.md#section-3237).
+
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in [section 2 of this title](./chapter-001-general-provisions.md#section-2).
+
+Minor changes were made in phraseology.
+
+#### Amendments
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+
+1984—Pub. L. 98–473 substituted “livestock” for “cattle” in section catchline and text.
+
+
+<a id="section-2317"></a>
+## § 2317. Sale or receipt of livestock
+
+Whoever receives, conceals, stores, barters, buys, sells, or disposes of any livestock, moving in or constituting a part of interstate or foreign commerce, knowing the same to have been stolen, shall be fined under this title or imprisoned not more than five years, or both.
+
+### Statutory Notes
+
+#### Historical and Revision Notes
+Based on title 18, U.S.C., 1940 ed., §§ 419c, 419d (Aug. 18, 1941, ch. 366, §§ 4, 5, 55 Stat. 632).
+
+Definitions of “cattle” and “interstate or foreign commerce”, contained in [section 419a of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section419a&num=0&edition=prelim), U.S.C., 1940 ed., are incorporated in sections 10 and 2311 of this title.
+
+Venue provision of said [section 419d of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section419d&num=0&edition=prelim), U.S.C., 1940 ed., was omitted as completely covered by [section 3237 of this title](./chapter-211-jurisdiction-and-venue.md#section-3237).
+
+Minor changes were made in phraseology.
+
+#### Amendments
+1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+
+1984—Pub. L. 98–473 substituted “livestock” for “cattle” in section catchline and text.
+
+
+<a id="section-2318"></a>
+## § 2318. Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging
+**(a)**
+
+(1) 11 So in original. No par. (2) has been enacted. Whoever, in any of the circumstances described in subsection (c), knowingly traffics in—
+
+  (A) a counterfeit label or illicit label affixed to, enclosing, or accompanying, or designed to be affixed to, enclose, or accompany—
+
+    (i) a phonorecord;
+
+    (ii) a copy of a computer program;
+
+    (iii) a copy of a motion picture or other audiovisual work;
+
+    (iv) a copy of a literary work;
+
+    (v) a copy of a pictorial, graphic, or sculptural work;
+
+    (vi) a work of visual art; or
+
+    (vii) documentation or packaging; or
+
+  (B) counterfeit documentation or packaging,
+  shall be fined under this title or imprisoned for not more than 5 years, or both.
+
+**(b)** As used in this section—
+
+(1) the term “counterfeit label” means an identifying label or container that appears to be genuine, but is not;
+
+(2) the term “traffic” has the same meaning as in section 2320(e) 22 See References in Text note below. of this title;
+
+(3) the terms “copy”, “phonorecord”, “motion picture”, “computer program”, “audiovisual work”, “literary work”, “pictorial, graphic, or sculptural work”, “sound recording”, “work of visual art”, and “copyright owner” have, respectively, the meanings given those terms in section 101 (relating to definitions) of title 17;
+
+(4) the term “illicit label” means a genuine certificate, licensing document, registration card, or similar labeling component—
+
+  (A) that is used by the copyright owner to verify that a phonorecord, a copy of a computer program, a copy of a motion picture or other audiovisual work, a copy of a literary work, a copy of a pictorial, graphic, or sculptural work, a work of visual art, or documentation or packaging is not counterfeit or infringing of any copyright; and
+
+  (B) that is, without the authorization of the copyright owner—
+
+    (i) distributed or intended for distribution not in connection with the copy, phonorecord, or work of visual art to which such labeling component was intended to be affixed by the respective copyright owner; or
+
+    (ii) in connection with a genuine certificate or licensing document, knowingly falsified in order to designate a higher number of licensed users or copies than authorized by the copyright owner, unless that certificate or document is used by the copyright owner solely for the purpose of monitoring or tracking the copyright owner’s distribution channel and not for the purpose of verifying that a copy or phonorecord is noninfringing;
+
+(5) the term “documentation or packaging” means documentation or packaging, in physical form, for a phonorecord, copy of a computer program, copy of a motion picture or other audiovisual work, copy of a literary work, copy of a pictorial, graphic, or sculptural work, or work of visual art; and
+
+(6) the term “counterfeit documentation or packaging” means documentation or packaging that appears to be genuine, but is not.
+
+**(c)** The circumstances referred to in subsection (a) of this section are—
+
+(1) the offense is committed within the special maritime and territorial jurisdiction of the United States; or within the special aircraft jurisdiction of the United States (as defined in [section 46501 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46501&num=0&edition=prelim));
+
+(2) the mail or a facility of interstate or foreign commerce is used or intended to be used in the commission of the offense;
+
+(3) the counterfeit label or illicit label is affixed to, encloses, or accompanies, or is designed to be affixed to, enclose, or accompany—
+
+  (A) a phonorecord of a copyrighted sound recording or copyrighted musical work;
+
+  (B) a copy of a copyrighted computer program;
+
+  (C) a copy of a copyrighted motion picture or other audiovisual work;
+
+  (D) a copy of a literary work;
+
+  (E) a copy of a pictorial, graphic, or sculptural work;
+
+  (F) a work of visual art; or
+
+  (G) copyrighted documentation or packaging; or
+
+(4) the counterfeited documentation or packaging is copyrighted.
+
+**(d) Forfeiture and Destruction of Property; Restitution.—** Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+
+**(e) Civil Remedies.—**
+
+(1) **In general.—** — Any copyright owner who is injured, or is threatened with injury, by a violation of subsection (a) may bring a civil action in an appropriate United States district court.
+
+(2) **Discretion of court.—** — In any action brought under paragraph (1), the court—
+
+  (A) may grant 1 or more temporary or permanent injunctions on such terms as the court determines to be reasonable to prevent or restrain a violation of subsection (a);
+
+  (B) at any time while the action is pending, may order the impounding, on such terms as the court determines to be reasonable, of any article that is in the custody or control of the alleged violator and that the court has reasonable cause to believe was involved in a violation of subsection (a); and
+
+  (C) may award to the injured party—
+
+    (i) reasonable attorney fees and costs; and
+
+    (ii)
+
+      (I) actual damages and any additional profits of the violator, as provided in paragraph (3); or
+
+      (II) statutory damages, as provided in paragraph (4).
+
+(3) **Actual damages and profits.—**
+
+  (A) *In general.—* — The injured party is entitled to recover—
+
+    (i) the actual damages suffered by the injured party as a result of a violation of subsection (a), as provided in subparagraph (B) of this paragraph; and
+
+    (ii) any profits of the violator that are attributable to a violation of subsection (a) and are not taken into account in computing the actual damages.
+
+  (B) *Calculation of damages.—* — The court shall calculate actual damages by multiplying—
+
+    (i) the value of the phonorecords, copies, or works of visual art which are, or are intended to be, affixed with, enclosed in, or accompanied by any counterfeit labels, illicit labels, or counterfeit documentation or packaging, by
+
+    (ii) the number of phonorecords, copies, or works of visual art which are, or are intended to be, affixed with, enclosed in, or accompanied by any counterfeit labels, illicit labels, or counterfeit documentation or packaging.
+
+  (C) *Definition.—* — For purposes of this paragraph, the “value” of a phonorecord, copy, or work of visual art is—
+
+    (i) in the case of a copyrighted sound recording or copyrighted musical work, the retail value of an authorized phonorecord of that sound recording or musical work;
+
+    (ii) in the case of a copyrighted computer program, the retail value of an authorized copy of that computer program;
+
+    (iii) in the case of a copyrighted motion picture or other audiovisual work, the retail value of an authorized copy of that motion picture or audiovisual work;
+
+    (iv) in the case of a copyrighted literary work, the retail value of an authorized copy of that literary work;
+
+    (v) in the case of a pictorial, graphic, or sculptural work, the retail value of an authorized copy of that work; and
+
+    (vi) in the case of a work of visual art, the retail value of that work.
+
+(4) **Statutory damages.—** — The injured party may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for each violation of subsection (a) in a sum of not less than $2,500 or more than $25,000, as the court considers appropriate.
+
+(5) **Subsequent violation.—** — The court may increase an award of damages under this subsection by 3 times the amount that would otherwise be awarded, as the court considers appropriate, if the court finds that a person has subsequently violated subsection (a) within 3 years after a final judgment was entered against that person for a violation of that subsection.
+
+(6) **Limitation on actions.—** — A civil action may not be commenced under this subsection unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
+
+### Statutory Notes
+
+#### References in Text
+[Section 2320 of this title](./chapter-113-stolen-property.md#section-2320), referred to in subsec. (b)(2), was amended generally by Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+
+#### Amendments
+2010—Subsec. (e)(6). Pub. L. 111–295 substituted “under this subsection” for “under section”.
+
+2008—Subsec. (a). Pub. L. 110–403, § 202(1), designated existing provisions as par. (1) and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A).
+
+Subsec. (d). Pub. L. 110–403, § 202(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all counterfeit labels or illicit labels and all articles to which counterfeit labels or illicit labels have been affixed or which were intended to have had such labels affixed, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels.”
+
+Subsecs. (e), (f). Pub. L. 110–403, § 202(3), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “Except to the extent they are inconsistent with the provisions of this title, all provisions of section 509, title 17, United States Code, are applicable to violations of subsection (a).”
+
+2006—Subsec. (b)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means to transport, transfer or otherwise dispose of, to another, as consideration for anything of value or to make or obtain control of with intent to so transport, transfer or dispose of;”.
+
+2004—Pub. L. 108–482, § 102(a)(1), substituted “Trafficking in counterfeit labels, illicit labels, or counterfeit documentation or packaging” for “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” in section catchline.
+
+Subsec. (a). Pub. L. 108–482, § 102(a)(2), added subsec. (a) and struck out former subsec. (a) which read as follows: “Whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in a counterfeit label affixed or designed to be affixed to a phonorecord, or a copy of a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program, shall be fined under this title or imprisoned for not more than five years, or both.”
+
+Subsec. (b)(2). Pub. L. 108–482, § 102(a)(3)(A), struck out “and” after the semicolon at end.
+
+Subsec. (b)(3). Pub. L. 108–482, § 102(a)(3)(B), substituted “ ‘audiovisual work’, ‘literary work’, ‘pictorial, graphic, or sculptural work’, ‘sound recording’, ‘work of visual art’, and ‘copyright owner’ have” for “and ‘audiovisual work’ have” and a semicolon for the period at end.
+
+Subsec. (b)(4) to (6). Pub. L. 108–482, § 102(a)(3)(C), added pars. (4) to (6).
+
+Subsec. (c)(3). Pub. L. 108–482, § 102(a)(4)(A), added par. (3) and struck former par. (3) which read as follows: “the counterfeit label is affixed to or encloses, or is designed to be affixed to or enclose, a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program, a copyrighted motion picture or other audiovisual work, or a phonorecord of a copyrighted sound recording; or”.
+
+Subsec. (c)(4). Pub. L. 108–482, § 102(a)(4)(B), struck out “for a computer program” after “packaging”.
+
+Subsec. (d). Pub. L. 108–482, § 102(a)(5), inserted “or illicit labels” after “counterfeit labels” in two places and inserted “, and of any equipment, device, or material used to manufacture, reproduce, or assemble the counterfeit labels or illicit labels” before period at end.
+
+Subsec. (f). Pub. L. 108–482, § 102(b), added subsec. (f).
+
+1996—Pub. L. 104–153, § 4(b)(1), substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in section catchline.
+
+Subsec. (a). Pub. L. 104–153, § 4(a)(1), substituted “a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program,” for “a motion picture or other audiovisual work,”.
+
+Subsec. (b)(3). Pub. L. 104–153, § 4(a)(2), inserted “ ‘computer program’,” after “ ‘motion picture’,”.
+
+Subsec. (c)(2). Pub. L. 104–153, § 4(a)(3)(A), struck out “or” at end.
+
+Subsec. (c)(3). Pub. L. 104–153, § 4(a)(3)(B), inserted “a copy of a copyrighted computer program or copyrighted documentation or packaging for a computer program,” after “enclose,” and substituted “; or” for period at end.
+
+Subsec. (c)(4). Pub. L. 104–153, § 4(a)(3)(C), added par. (4).
+
+1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250,000”.
+
+Subsec. (c)(1). Pub. L. 103–272 substituted “[section 46501 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46501&num=0&edition=prelim)” for “section 101 of the Federal Aviation Act of 1958”.
+
+1990—Pub. L. 101–647 struck out comma after “phonorecords” in section catchline.
+
+1982—Pub. L. 97–180 substituted “Trafficking in counterfeit labels for phonorecords, and copies of motion pictures or other audiovisual works” for “Transportation, sale or receipt of phonograph records bearing forged or counterfeit labels” in section catchline.
+
+Subsec. (a). Pub. L. 97–180 substituted provision that violators of this section shall be fined not more than $250,000 or imprisoned for not more than five years or both for provision that whoever knowingly and with fraudulent intent transported, caused to be transported, received, sold, or offered for sale in interstate or foreign commerce any phonograph record, disk, wire, tape, film, or other article on which sounds were recorded, to which or upon which was stamped, pasted, or affixed any forged or counterfeited label, knowing the label to have been falsely made, forged, or counterfeited would be fined not more than $10,000 or imprisoned for not more than one year, or both, for the first such offense and would be fined not more than $25,000 or imprisoned for not more than two years, or both, for any subsequent offense.
+
+Subsecs. (b) to (e). Pub. L. 97–180 added subsecs. (b) and (c), redesignated former subsecs. (b) and (c) as (d) and (e), respectively, and in subsec. (d) as so redesignated struck out the comma after “judgment of conviction shall”.
+
+1976—Pub. L. 94–553 designated existing provisions as subsec. (a) and substituted “$10,000” for “$25,000” and “$25,000” for “$50,000”, and added subsecs. (b) and (c).
+
+1974—Pub. L. 93–573 substituted “not more than $25,000 or imprisoned for not more than one year, or both, for the first offense and shall be fined not more than $50,000 or imprisoned not more than 2 years, or both, for any subsequent offense” for “not more than $1,000 or imprisoned not more than one year or both”.
+
+#### Effective Date of 1976 Amendment
+Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as a note preceding [section 101 of Title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim), Copyrights.
+
+#### Other Rights Not Affected by Anti-Counterfeiting Provisions
+Pub. L. 108–482, title I, § 103, Dec. 23, 2004, 118 Stat. 3915, provided that: “(a) Chapters 5 and 12 of Title 17; Electronic Transmissions.—The amendments made by this title [amending this section]—“(1) shall not enlarge, diminish, or otherwise affect any liability or limitations on liability under sections 512, 1201 or 1202 of title 17, United States Code; and “(2) shall not be construed to apply—“(A) in any case, to the electronic transmission of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of [section 2318(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2318/b&num=0&edition=prelim), United States Code, as amended by this title; and “(B) in the case of a civil action under section 2318(f) [now 2318(e)] of title 18, United States Code, to the electronic transmission of a counterfeit label or counterfeit documentation or packaging defined in paragraph (1) or (6) of [section 2318(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2318/b&num=0&edition=prelim), United States Code. “(b) Fair Use.—The amendments made by this title shall not affect the fair use, under [section 107 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section107&num=0&edition=prelim), United States Code, of a genuine certificate, licensing document, registration card, similar labeling component, or documentation or packaging described in paragraph (4) or (5) of [section 2318(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2318/b&num=0&edition=prelim), United States Code, as amended by this title.”
+
+
+<a id="section-2319"></a>
+## § 2319. Criminal infringement of a copyright
+**(a)** Any person who violates section 506(a) (relating to criminal offenses) of title 17 shall be punished as provided in subsections (b), (c), and (d) and such penalties shall be in addition to any other provisions of title 17 or any other law.
+
+**(b)** Any person who commits an offense under [section 506(a)(1)(A) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506/a/1/A&num=0&edition=prelim)—
+
+(1) shall be imprisoned not more than 5 years, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution, including by electronic means, during any 180-day period, of at least 10 copies or phonorecords, of 1 or more copyrighted works, which have a total retail value of more than $2,500;
+
+(2) shall be imprisoned not more than 10 years, or fined in the amount set forth in this title, or both, if the offense is a felony and is a second or subsequent offense under subsection (a); and
+
+(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, in any other case.
+
+**(c)** Any person who commits an offense under [section 506(a)(1)(B) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506/a/1/B&num=0&edition=prelim)—
+
+(1) shall be imprisoned not more than 3 years, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution of 10 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of $2,500 or more;
+
+(2) shall be imprisoned not more than 6 years, or fined in the amount set forth in this title, or both, if the offense is a felony and is a second or subsequent offense under subsection (a); and
+
+(3) shall be imprisoned not more than 1 year, or fined in the amount set forth in this title, or both, if the offense consists of the reproduction or distribution of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000.
+
+**(d)** Any person who commits an offense under [section 506(a)(1)(C) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506/a/1/C&num=0&edition=prelim)—
+
+(1) shall be imprisoned not more than 3 years, fined under this title, or both;
+
+(2) shall be imprisoned not more than 5 years, fined under this title, or both, if the offense was committed for purposes of commercial advantage or private financial gain;
+
+(3) shall be imprisoned not more than 6 years, fined under this title, or both, if the offense is a felony and is a second or subsequent offense under subsection (a); and
+
+(4) shall be imprisoned not more than 10 years, fined under this title, or both, if the offense is a felony and is a second or subsequent offense under paragraph (2).
+
+**(e)**
+
+(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+
+(2) Persons permitted to submit victim impact statements shall include—
+
+  (A) producers and sellers of legitimate works affected by conduct involved in the offense;
+
+  (B) holders of intellectual property rights in such works; and
+
+  (C) the legal representatives of such producers, sellers, and holders.
+
+**(f)** As used in this section—
+
+(1) the terms “phonorecord” and “copies” have, respectively, the meanings set forth in section 101 (relating to definitions) of title 17;
+
+(2) the terms “reproduction” and “distribution” refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 122, of title 17;
+
+(3) the term “financial gain” has the meaning given the term in [section 101 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim); and
+
+(4) the term “work being prepared for commercial distribution” has the meaning given the term in [section 506(a) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
+
+#### Amendments
+2008—Subsecs. (b)(2), (c)(2). Pub. L. 110–403, § 208(1), (2), inserted “is a felony and” after “the offense” and substituted “subsection (a)” for “paragraph (1)”.
+
+Subsec. (d)(3). Pub. L. 110–403, § 208(3), inserted “is a felony and” after “the offense” and “under subsection (a)” before the semicolon.
+
+Subsec. (d)(4). Pub. L. 110–403, § 208(4), inserted “is a felony and” after “the offense”.
+
+2005—Subsec. (a). Pub. L. 109–9, § 103(b)(1), substituted “Any person who” for “Whoever” and “, (c), and (d)” for “and (c) of this section”.
+
+Subsec. (b). Pub. L. 109–9, § 103(b)(2), substituted “section 506(a)(1)(A)” for “section 506(a)(1)” in introductory provisions.
+
+Subsec. (c). Pub. L. 109–9, § 103(b)(3), substituted “[section 506(a)(1)(B) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506/a/1/B&num=0&edition=prelim)” for “[section 506(a)(2) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506/a/2&num=0&edition=prelim), United States Code” in introductory provisions.
+
+Subsecs. (d), (e). Pub. L. 109–9, § 103(b)(4), (5), added subsec. (d) and redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 109–9, § 103(b)(4), (6), redesignated subsec. (e) as (f) and added pars. (3) and (4).
+
+2002—Subsec. (e)(2). Pub. L. 107–273 substituted “107 through 122” for “107 through 120”.
+
+1997—Subsec. (a). Pub. L. 105–147, § 2(d)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
+
+Subsec. (b). Pub. L. 105–147, § 2(d)(2)(A), substituted “[section 506(a)(1) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506/a/1&num=0&edition=prelim)” for “subsection (a) of this section” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 105–147, § 2(d)(2)(B), inserted “including by electronic means,” after “if the offense consists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
+
+Pub. L. 105–80, substituted “at least 10 copies” for “at last 10 copies”.
+
+Subsecs. (c) to (e). Pub. L. 105–147, § 2(d)(3), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
+
+1992—Subsec. (b). Pub. L. 102–561, § 1, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Any person who commits an offense under subsection (a) of this section—
+
+“(1) shall be fined not more than $250,000 or imprisoned for not more than five years, or both, if the offense—
+
+“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least one thousand phonorecords or copies infringing the copyright in one or more sound recordings;
+
+“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of at least sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; or
+
+“(C) is a second or subsequent offense under either of subsection (b)(1) or (b)(2) of this section, where a prior offense involved a sound recording, or a motion picture or other audiovisual work;
+
+“(2) shall be fined not more than $250,000 or imprisoned for not more than two years, or both, if the offense—
+
+“(A) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than one hundred but less than one thousand phonorecords or copies infringing the copyright in one or more sound recordings; or
+
+“(B) involves the reproduction or distribution, during any one-hundred-and-eighty-day period, of more than seven but less than sixty-five copies infringing the copyright in one or more motion pictures or other audiovisual works; and
+
+“(3) shall be fined not more than $25,000 or imprisoned for not more than one year, or both, in any other case.”
+
+Subsec. (c). Pub. L. 102–561, § 2, substituted “ ‘phonorecord’ ” for “ ‘sound recording’, ‘motion picture’, ‘audiovisual work’, ‘phonorecord’,” in par. (1) and “120” for “118” in par. (2).
+
+
+<a id="section-2319a"></a>
+## § 2319A. Unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances
+**(a) Offense.—** Whoever, without the consent of the performer or performers involved, knowingly and for purposes of commercial advantage or private financial gain—
+
+(1) fixes the sounds or sounds and images of a live musical performance in a copy or phonorecord, or reproduces copies or phonorecords of such a performance from an unauthorized fixation;
+
+(2) transmits or otherwise communicates to the public the sounds or sounds and images of a live musical performance; or
+
+(3) distributes or offers to distribute, sells or offers to sell, rents or offers to rent, or traffics in any copy or phonorecord fixed as described in paragraph (1), regardless of whether the fixations occurred in the United States;
+shall be imprisoned for not more than 5 years or fined in the amount set forth in this title, or both, or if the offense is a second or subsequent offense, shall be imprisoned for not more than 10 years or fined in the amount set forth in this title, or both.
+
+**(b) Forfeiture and Destruction of Property; Restitution.—** Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+
+**(c) Seizure and Forfeiture.—** If copies or phonorecords of sounds or sounds and images of a live musical performance are fixed outside of the United States without the consent of the performer or performers involved, such copies or phonorecords are subject to seizure and forfeiture in the United States in the same manner as property imported in violation of the customs laws. The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.
+
+**(d) Victim Impact Statement.—**
+
+(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+
+(2) Persons permitted to submit victim impact statements shall include—
+
+  (A) producers and sellers of legitimate works affected by conduct involved in the offense;
+
+  (B) holders of intellectual property rights in such works; and
+
+  (C) the legal representatives of such producers, sellers, and holders.
+
+**(e) Definitions.—** As used in this section—
+
+(1) the terms “copy”, “fixed”, “musical work”, “phonorecord”, “reproduce”, “sound recordings”, and “transmit” mean those terms within the meaning of title 17; and
+
+(2) the term “traffic” has the same meaning as in section 2320(e) 11 See References in Text note below. of this title.
+
+**(f) Applicability.—** This section shall apply to any Act or Acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set out in the Appendix to this title.
+
+[Section 2320 of this title](./chapter-113-stolen-property.md#section-2320), referred to in subsec. (e)(2), was amended generally by Pub. L. 112–81, div. A, title VIII, § 818(h), Dec. 31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to those formerly appearing in subsec. (e) are now contained in subsec. (f).
+
+The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (f), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
+
+#### Amendments
+2008—Subsec. (b). Pub. L. 110–403, § 203(a), amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court shall order the forfeiture and destruction of any copies or phonorecords created in violation thereof, as well as any plates, molds, matrices, masters, tapes, and film negatives by means of which such copies or phonorecords may be made. The court may also, in its discretion, order the forfeiture and destruction of any other equipment by means of which such copies or phonorecords may be reproduced, taking into account the nature, scope, and proportionality of the use of the equipment in the offense.”
+
+Subsec. (c). Pub. L. 110–403, § 203(b), substituted “The Secretary of Homeland Security shall issue regulations by which any performer may, upon payment of a specified fee, be entitled to notification by United States Customs and Border Protection of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.” for “The Secretary of the Treasury shall, not later than 60 days after the date of the enactment of the Uruguay Round Agreements Act, issue regulations to carry out this subsection, including regulations by which any performer may, upon payment of a specified fee, be entitled to notification by the United States Customs Service of the importation of copies or phonorecords that appear to consist of unauthorized fixations of the sounds or sounds and images of a live musical performance.”
+
+2006—Subsec. (e)(2). Pub. L. 109–181 added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic in’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent to transport, transfer, or dispose of.”
+
+1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+
+<a id="section-2319b"></a>
+## § 2319B. Unauthorized recording of Motion pictures in a Motion picture exhibition facility
+**(a) Offense.—** Any person who, without the authorization of the copyright owner, knowingly uses or attempts to use an audiovisual recording device to transmit or make a copy of a motion picture or other audiovisual work protected under title 17, or any part thereof, from a performance of such work in a motion picture exhibition facility, shall—
+
+(1) be imprisoned for not more than 3 years, fined under this title, or both; or
+
+(2) if the offense is a second or subsequent offense, be imprisoned for no more than 6 years, fined under this title, or both.
+The possession by a person of an audiovisual recording device in a motion picture exhibition facility may be considered as evidence in any proceeding to determine whether that person committed an offense under this subsection, but shall not, by itself, be sufficient to support a conviction of that person for such offense.
+
+**(b) Forfeiture and Destruction of Property; Restitution.—** Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+
+**(c) Authorized Activities.—** This section does not prevent any lawfully authorized investigative, protective, or intelligence activity by an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or by a person acting under a contract with the United States, a State, or a political subdivision of a State.
+
+**(d) Immunity for Theaters.—** With reasonable cause, the owner or lessee of a motion picture exhibition facility where a motion picture or other audiovisual work is being exhibited, the authorized agent or employee of such owner or lessee, the licensor of the motion picture or other audiovisual work being exhibited, or the agent or employee of such licensor—
+
+(1) may detain, in a reasonable manner and for a reasonable time, any person suspected of a violation of this section with respect to that motion picture or audiovisual work for the purpose of questioning or summoning a law enforcement officer; and
+
+(2) shall not be held liable in any civil or criminal action arising out of a detention under paragraph (1).
+
+**(e) Victim Impact Statement.—**
+
+(1) **In general.—** — During the preparation of the presentence report under rule 32(c) of the Federal Rules of Criminal Procedure, victims of an offense under this section shall be permitted to submit to the probation officer a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+
+(2) **Contents.—** — A victim impact statement submitted under this subsection shall include—
+
+  (A) producers and sellers of legitimate works affected by conduct involved in the offense;
+
+  (B) holders of intellectual property rights in the works described in subparagraph (A); and
+
+  (C) the legal representatives of such producers, sellers, and holders.
+
+**(f) State Law Not Preempted.—** Nothing in this section may be construed to annul or limit any rights or remedies under the laws of any State.
+
+**(g) Definitions.—** In this section, the following definitions shall apply:
+
+(1) **Title 17 definitions.—** — The terms “audiovisual work”, “copy”, “copyright owner”, “motion picture”, “motion picture exhibition facility”, and “transmit” have, respectively, the meanings given those terms in [section 101 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section101&num=0&edition=prelim).
+
+(2) **Audiovisual recording device.—** — The term “audiovisual recording device” means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
+
+#### Amendments
+2008—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court in its judgment of conviction shall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense.”
+
+
+<a id="section-2320"></a>
+## § 2320. Trafficking in counterfeit goods or services
+**(a) Offenses.—** Whoever intentionally—
+
+(1) traffics in goods or services and knowingly uses a counterfeit mark on or in connection with such goods or services,
+
+(2) traffics in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,
+
+(3) traffics in goods or services knowing that such good or service is a counterfeit military good or service the use, malfunction, or failure of which is likely to cause serious bodily injury or death, the disclosure of classified information, impairment of combat operations, or other significant harm to a combat operation, a member of the Armed Forces, or to national security, or
+
+(4) traffics in a counterfeit drug,
+or attempts or conspires to violate any of paragraphs (1) through (4) shall be punished as provided in subsection (b).
+
+**(b) Penalties.—**
+
+(1) **In general.—** — Whoever commits an offense under subsection (a)—
+
+  (A) if an individual, shall be fined not more than $2,000,000 or imprisoned not more than 10 years, or both, and, if a person other than an individual, shall be fined not more than $5,000,000; and
+
+  (B) for a second or subsequent offense under subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
+
+(2) **Serious bodily injury or death.—**
+
+  (A) *Serious bodily injury.—* — Whoever knowingly or recklessly causes or attempts to cause serious bodily injury from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for not more than 20 years, or both, and if other than an individual, shall be fined not more than $15,000,000.
+
+  (B) *Death.—* — Whoever knowingly or recklessly causes or attempts to cause death from conduct in violation of subsection (a), if an individual, shall be fined not more than $5,000,000 or imprisoned for any term of years or for life, or both, and if other than an individual, shall be fined not more than $15,000,000.
+
+(3) **Counterfeit military goods or services and counterfeit drugs.—** — Whoever commits an offense under subsection (a) involving a counterfeit military good or service or counterfeit drug—
+
+  (A) if an individual, shall be fined not more than $5,000,000, imprisoned not more than 20 years, or both, and if other than an individual, be fined not more than $15,000,000; and
+
+  (B) for a second or subsequent offense, if an individual, shall be fined not more than $15,000,000, imprisoned not more than 30 years, or both, and if other than an individual, shall be fined not more than $30,000,000.
+
+**(c) Forfeiture and Destruction of Property; Restitution.—** Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323, to the extent provided in that section, in addition to any other similar remedies provided by law.
+
+**(d) Defenses.—** All defenses, affirmative defenses, and limitations on remedies that would be applicable in an action under the Lanham Act shall be applicable in a prosecution under this section. In a prosecution under this section, the defendant shall have the burden of proof, by a preponderance of the evidence, of any such affirmative defense.
+
+**(e) Presentence Report.—**
+
+(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+
+(2) Persons permitted to submit victim impact statements shall include—
+
+  (A) producers and sellers of legitimate goods or services affected by conduct involved in the offense;
+
+  (B) holders of intellectual property rights in such goods or services; and
+
+  (C) the legal representatives of such producers, sellers, and holders.
+
+**(f) Definitions.—** For the purposes of this section—
+
+(1) the term “counterfeit mark” means—
+
+  (A) a spurious mark—
+
+    (i) that is used in connection with trafficking in any goods, services, labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature;
+
+    (ii) that is identical with, or substantially indistinguishable from, a mark registered on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered;
+
+    (iii) that is applied to or used in connection with the goods or services for which the mark is registered with the United States Patent and Trademark Office, or is applied to or consists of a label, patch, sticker, wrapper, badge, emblem, medallion, charm, box, container, can, case, hangtag, documentation, or packaging of any type or nature that is designed, marketed, or otherwise intended to be used on or in connection with the goods or services for which the mark is registered in the United States Patent and Trademark Office; and
+
+    (iv) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
+
+  (B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of [section 220506 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220506&num=0&edition=prelim);
+  but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied to labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
+
+(2) the term “financial gain” includes the receipt, or expected receipt, of anything of value;
+
+(3) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 ([15 U.S.C. 1051](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) et seq.);
+
+(4) the term “counterfeit military good or service” means a good or service that uses a counterfeit mark on or in connection with such good or service and that—
+
+  (A) is falsely identified or labeled as meeting military specifications, or
+
+  (B) is intended for use in a military or national security application;
+
+(5) the term “traffic” means to transport, transfer, or otherwise dispose of, to another, for purposes of commercial advantage or private financial gain, or to make, import, export, obtain control of, or possess, with intent to so transport, transfer, or otherwise dispose of; and
+
+(6) the term “counterfeit drug” means a drug, as defined by section 201 of the Federal Food, Drug, and Cosmetic Act, that uses a counterfeit mark on or in connection with the drug.
+
+**(g) Limitation on Cause of Action.—** Nothing in this section shall entitle the United States to bring a criminal cause of action under this section for the repackaging of genuine goods or services not intended to deceive or confuse.
+
+**(h) Report to Congress.—**
+
+(1) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to [section 522 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section522&num=0&edition=prelim), an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in [section 2318 of this title](./chapter-113-stolen-property.md#section-2318)), criminal infringement of copyrights (as defined in [section 2319 of this title](./chapter-113-stolen-property.md#section-2319)), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in [section 2319A of this title](./chapter-113-stolen-property.md#section-2319a)), or trafficking in goods or services bearing counterfeit marks (as defined in [section 2320 of this title](./chapter-113-stolen-property.md#section-2320)):
+
+  (A) The number of open investigations.
+
+  (B) The number of cases referred by the United States Customs Service.
+
+  (C) The number of cases referred by other agencies or sources.
+
+  (D) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
+
+(2)
+
+  (A) The report under paragraph (1), with respect to criminal infringement of copyright, shall include the following:
+
+    (i) The number of infringement cases in these categories: audiovisual (videos and films); audio (sound recordings); literary works (books and musical compositions); computer programs; video games; and, others.
+
+    (ii) The number of online infringement cases.
+
+    (iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
+
+    (iv) The total amount of restitution ordered in all copyright infringement cases.
+
+  (B) In this paragraph, the term “online infringement cases” as used in paragraph (2) means those cases where the infringer—
+
+    (i) advertised or publicized the infringing work on the Internet; or
+
+    (ii) made the infringing work available on the Internet for download, reproduction, performance, or distribution by other persons.
+
+  (C) The information required under subparagraph (A) shall be submitted in the report required in fiscal year 2005 and thereafter.
+
+**(i) Transshipment and Exportation.—** No goods or services, the trafficking in of which is prohibited by this section, shall be transshipped through or exported from the United States. Any such transshipment or exportation shall be deemed a violation of section 42 of an Act to provide for the registration of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes, approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946” or the “Lanham Act”).
+
+### Statutory Notes
+
+#### References in Text
+The Lanham Act, referred to in subsecs. (d), (f)(1)(B), (3), and (i), also known as the Trademark Act of 1946, is act July 5, 1946, ch. 540, 60 Stat. 427, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) and Tables.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set out in the Appendix to this title.
+
+Section 201 of the Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(6), is classified to [section 321 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim), Food and Drugs.
+
+The date of enactment of this subsection, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
+
+#### Codification
+Another section 2320 was renumbered [section 2321 of this title](./chapter-113-stolen-property.md#section-2321).
+
+#### Amendments
+2012—Subsec. (a). Pub. L. 112–144, § 717(a)(1), added par. (4) and substituted “through (4)” for “through (3)” in concluding provisions.
+
+Subsec. (b)(3). Pub. L. 112–144, § 717(a)(2), inserted “and counterfeit drugs” after “services” in heading and “or counterfeit drug” after “service” in introductory provisions.
+
+Subsec. (f)(6). Pub. L. 112–144, § 717(a)(3), added par. (6).
+
+2011—Pub. L. 112–81 amended section generally, adding provisions relating to counterfeit military goods and services.
+
+2008—Subsec. (a). Pub. L. 110–403, § 205(a)(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted “Whoever;” for “Whoever”, realigned margin, and added par. (2).
+
+Subsec. (b). Pub. L. 110–403, § 205(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to property subject to forfeiture, forfeiture procedures, and restitution.
+
+Subsec. (h). Pub. L. 110–403, § 205(a)(2), added subsec. (h).
+
+2006—Subsec. (a). Pub. L. 109–181, § 1(b)(1), inserted “, or intentionally traffics or attempts to traffic in labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature, knowing that a counterfeit mark has been applied thereto, the use of which is likely to cause confusion, to cause mistake, or to deceive,” after “such goods or services”.
+
+Subsec. (b). Pub. L. 109–181, § 1(b)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon a determination by a preponderance of the evidence that any articles in the possession of a defendant in a prosecution under this section bear counterfeit marks, the United States may obtain an order for the destruction of such articles.”
+
+Subsec. (e)(1). Pub. L. 109–181, § 1(b)(3)(B), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;”.
+
+Subsec. (e)(1)(A). Pub. L. 109–181, § 1(b)(3)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “a spurious mark—
+
+“(i) that is used in connection with trafficking in goods or services;
+
+“(ii) that is identical with, or substantially indistinguishable from, a mark registered for those goods or services on the principal register in the United States Patent and Trademark Office and in use, whether or not the defendant knew such mark was so registered; and
+
+“(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or”.
+
+Subsec. (e)(2). Pub. L. 109–181, § 2(b)(1), added par. (2) and struck out former par. (2) which read as follows: “the term ‘traffic’ means transport, transfer, or otherwise dispose of, to another, as consideration for anything of value, or make or obtain control of with intent so to transport, transfer, or dispose of; and”.
+
+Subsec. (e)(3), (4). Pub. L. 109–181, § 2(b)(2), (3), added par. (3) and redesignated former par. (3) as (4).
+
+Subsecs. (f), (g). Pub. L. 109–181, § 1(b)(4), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+2002—Subsec. (e)(1)(B). Pub. L. 107–140 substituted “[section 220506 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220506&num=0&edition=prelim)” for “[section 220706 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220706&num=0&edition=prelim)”.
+
+Subsec. (f). Pub. L. 107–273, § 205(e), designated existing provisions as par. (1), substituted “this title” for “title 18” wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+
+1998—Subsec. (e)(1)(B). Pub. L. 105–225, § 4(b)(1), as amended by Pub. L. 105–354, § 2(c)(1), substituted “[section 220706 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220706&num=0&edition=prelim)” for “section 110 of the Olympic Charter Act”.
+
+Subsec. (e)(2). Pub. L. 105–225, § 4(b)(2), as amended by Pub. L. 105–354, § 2(c)(1), inserted “and” after semicolon at end.
+
+Subsec. (e)(3). Pub. L. 105–225, § 4(b)(3), as amended by Pub. L. 105–354, § 2(c)(1), substituted a period for “; and” at end.
+
+Subsec. (e)(4). Pub. L. 105–225, § 4(b)(4), as amended by Pub. L. 105–354, § 2(c)(1), struck out par. (4) which read as follows: “the term ‘Olympic Charter Act’ means the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 ([36 U.S.C. 371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section371&num=0&edition=prelim) et seq.).”
+
+1997—Subsecs. (d) to (f). Pub. L. 105–147 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+1996—Subsec. (e). Pub. L. 104–153 added subsec. (e).
+
+1994—Pub. L. 103–322, § 330016(1)(U), which directed the amendment of this section by striking “not more than $250,000” and inserting “under this title”, could not be executed because the phrase “not more than $250,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, § 320104(a). See below.
+
+Subsec. (a). Pub. L. 103–322, § 320104(a), in first sentence, substituted “$2,000,000 or imprisoned not more than 10 years” for “$250,000 or imprisoned not more than five years” and “$5,000,000” for “$1,000,000”, and in second sentence, substituted “$5,000,000 or imprisoned not more than 20 years” for “$1,000,000 or imprisoned not more than fifteen years” and “$15,000,000” for “$5,000,000”.
+
+#### Effective Date of 1998 Amendment
+Pub. L. 105–354, § 2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amendment made by section 2(c) is effective Aug. 12, 1998.
+
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Priority Given to Certain Investigations and Prosecutions
+Pub. L. 112–144, title VII, § 717(a)(4), July 9, 2012, 126 Stat. 1076, provided that: “The Attorney General shall give increased priority to efforts to investigate and prosecute offenses under [section 2320 of title 18](./chapter-113-stolen-property.md#section-2320), United States Code, that involve counterfeit drugs.”
+
+#### Findings
+Pub. L. 109–181, § 1(a)(2), Mar. 16, 2006, 120 Stat. 285, provided that: “The Congress finds that— “(A) the United States economy is losing millions of dollars in tax revenue and tens of thousands of jobs because of the manufacture, distribution, and sale of counterfeit goods; “(B) the Bureau of Customs and Border Protection estimates that counterfeiting costs the United States $200 billion annually; “(C) counterfeit automobile parts, including brake pads, cost the auto industry alone billions of dollars in lost sales each year; “(D) counterfeit products have invaded numerous industries, including those producing auto parts, electrical appliances, medicines, tools, toys, office equipment, clothing, and many other products; “(E) ties have been established between counterfeiting and terrorist organizations that use the sale of counterfeit goods to raise and launder money; “(F) ongoing counterfeiting of manufactured goods poses a widespread threat to public health and safety; and “(G) strong domestic criminal remedies against counterfeiting will permit the United States to seek stronger anticounterfeiting provisions in bilateral and international agreements with trading partners.”
+
+
+<a id="section-2321"></a>
+## § 2321. Trafficking in certain motor vehicles or motor vehicle parts
+**(a)** Whoever buys, receives, possesses, or obtains control of, with intent to sell or otherwise dispose of, a motor vehicle or motor vehicle part, knowing that an identification number for such motor vehicle or part has been removed, obliterated, tampered with, or altered, shall be fined under this title or imprisoned not more than ten years, or both.
+
+**(b)** Subsection (a) does not apply if the removal, obliteration, tampering, or alteration—
+
+(1) is caused by collision or fire; or
+
+(2) is not a violation of [section 511 of this title](./chapter-025-counterfeiting-and-forgery.md#section-511).
+
+**(c)** As used in this section, the terms “identification number” and “motor vehicle” have the meaning given those terms in [section 511 of this title](./chapter-025-counterfeiting-and-forgery.md#section-511).
+
+### Statutory Notes
+
+#### Amendments
+1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $20,000”.
+
+
+<a id="section-2322"></a>
+## § 2322. Chop shops
+**(a) In General.—**
+
+(1) **Unlawful action.—** — Any person who knowingly owns, operates, maintains, or controls a chop shop or conducts operations in a chop shop shall be punished by a fine under this title or by imprisonment for not more than 15 years, or both. If a conviction of a person under this paragraph is for a violation committed after the first conviction of such person under this paragraph, the maximum punishment shall be doubled with respect to any fine and imprisonment.
+
+(2) **Injunctions.—** — The Attorney General shall, as appropriate, in the case of any person who violates paragraph (1), commence a civil action for permanent or temporary injunction to restrain such violation.
+
+**(b) Definition.—** For purposes of this section, the term “chop shop” means any building, lot, facility, or other structure or premise where one or more persons engage in receiving, concealing, destroying, disassembling, dismantling, reassembling, or storing any passenger motor vehicle or passenger motor vehicle part which has been unlawfully obtained in order to alter, counterfeit, deface, destroy, disguise, falsify, forge, obliterate, or remove the identity, including the vehicle identification number or derivative thereof, of such vehicle or vehicle part and to distribute, sell, or dispose of such vehicle or vehicle part in interstate or foreign commerce.
+
+
+<a id="section-2323"></a>
+## § 2323. Forfeiture, destruction, and restitution
+**(a) Civil Forfeiture.—**
+
+(1) **Property subject to forfeiture.—** — The following property is subject to forfeiture to the United States Government:
+
+  (A) Any article, the making or trafficking of which is, prohibited under [section 506 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506&num=0&edition=prelim), or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title.
+
+  (B) Any property used, or intended to be used, in any manner or part to commit or facilitate the commission of an offense referred to in subparagraph (A).
+
+  (C) Any property constituting or derived from any proceeds obtained directly or indirectly as a result of the commission of an offense referred to in subparagraph (A).
+
+(2) **Procedures.—** — The provisions of chapter 46 relating to civil forfeitures shall extend to any seizure or civil forfeiture under this section. For seizures made under this section, the court shall enter an appropriate protective order with respect to discovery and use of any records or information that has been seized. The protective order shall provide for appropriate procedures to ensure that confidential, private, proprietary, or privileged information contained in such records is not improperly disclosed or used. At the conclusion of the forfeiture proceedings, unless otherwise requested by an agency of the United States, the court shall order that any property forfeited under paragraph (1) be destroyed, or otherwise disposed of according to law.
+
+**(b) Criminal Forfeiture.—**
+
+(1) **Property subject to forfeiture.—** — The court, in imposing sentence on a person convicted of an offense under [section 506 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506&num=0&edition=prelim), or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title, shall order, in addition to any other sentence imposed, that the person forfeit to the United States Government any property subject to forfeiture under subsection (a) for that offense.
+
+(2) **Procedures.—**
+
+  (A) *In general.—* — The forfeiture of property under paragraph (1), including any seizure and disposition of the property and any related judicial or administrative proceeding, shall be governed by the procedures set forth in section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim)), other than subsection (d) of that section.
+
+  (B) *Destruction.—* — At the conclusion of the forfeiture proceedings, the court, unless otherwise requested by an agency of the United States shall order that any—
+
+    (i) forfeited article or component of an article bearing or consisting of a counterfeit mark be destroyed or otherwise disposed of according to law; and
+
+    (ii) infringing items or other property described in subsection (a)(1)(A) and forfeited under paragraph (1) of this subsection be destroyed or otherwise disposed of according to law.
+
+**(c) Restitution.—** When a person is convicted of an offense under [section 506 of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section506&num=0&edition=prelim) or section 2318, 2319, 2319A, 2319B, or 2320, or chapter 90, of this title, the court, pursuant to sections 3556, 3663A, and 3664 of this title, shall order the person to pay restitution to any victim of the offense as an offense against property referred to in [section 3663A(c)(1)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3663A/c/1/A/ii&num=0&edition=prelim).

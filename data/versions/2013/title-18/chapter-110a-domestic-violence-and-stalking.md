@@ -1,0 +1,388 @@
+---
+title: 18
+chapter: 110A
+heading: DOMESTIC VIOLENCE AND STALKING
+section_count: 8
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
+---
+<a id="section-2261"></a>
+## § 2261. Interstate domestic violence
+**(a) Offenses.—**
+
+(1) **Travel or conduct of offender.—** — A person who travels in interstate or foreign commerce or enters or leaves Indian country or is present within the special maritime and territorial jurisdiction of the United States with the intent to kill, injure, harass, or intimidate a spouse, intimate partner, or dating partner, and who, in the course of or as a result of such travel or presence, commits or attempts to commit a crime of violence against that spouse, intimate partner, or dating partner, shall be punished as provided in subsection (b).
+
+(2) **Causing travel of victim.—** — A person who causes a spouse, intimate partner, or dating partner to travel in interstate or foreign commerce or to enter or leave Indian country by force, coercion, duress, or fraud, and who, in the course of, as a result of, or to facilitate such conduct or travel, commits or attempts to commit a crime of violence against that spouse, intimate partner, or dating partner, shall be punished as provided in subsection (b).
+
+**(b) Penalties.—** A person who violates this section or section 2261A shall be fined under this title, imprisoned—
+
+(1) for life or any term of years, if death of the victim results;
+
+(2) for not more than 20 years if permanent disfigurement or life threatening bodily injury to the victim results;
+
+(3) for not more than 10 years, if serious bodily injury to the victim results or if the offender uses a dangerous weapon during the offense;
+
+(4) as provided for the applicable conduct under chapter 109A if the offense would constitute an offense under chapter 109A (without regard to whether the offense was committed in the special maritime and territorial jurisdiction of the United States or in a Federal prison); and
+
+(5) for not more than 5 years, in any other case,
+or both fined and imprisoned.
+
+(6) Whoever commits the crime of stalking in violation of a temporary or permanent civil or criminal injunction, restraining order, no-contact order, or other order described in [section 2266 of title 18](./chapter-110a-domestic-violence-and-stalking.md#section-2266), United States Code, shall be punished by imprisonment for not less than 1 year.
+
+### Statutory Notes
+
+#### Amendment of Section
+For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
+
+#### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–4 inserted “is present” after “Indian country or” and “or presence” after “as a result of such travel”.
+
+2006—Subsec. (a)(1). Pub. L. 109–162, § 117(a), inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
+
+Pub. L. 109–162, § 116(a)(1), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+
+Subsec. (a)(2). Pub. L. 109–162, § 116(a)(2), which directed substitution of “, intimate partner, or dating partner” for “or intimate partner”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+
+Subsec. (b)(6). Pub. L. 109–162, § 114(b), added par. (6).
+
+2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+
+“(1) Crossing a state line.—A person who travels across a State line or enters or leaves Indian country with the intent to injure, harass, or intimidate that person’s spouse or intimate partner, and who, in the course of or as a result of such travel, intentionally commits a crime of violence and thereby causes bodily injury to such spouse or intimate partner, shall be punished as provided in subsection (b).
+
+“(2) Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud and, in the course or as a result of that conduct, intentionally commits a crime of violence and thereby causes bodily injury to the person’s spouse or intimate partner, shall be punished as provided in subsection (b).”
+
+1996—Subsec. (b). Pub. L. 104–201 inserted “or section 2261A” after “this section” in introductory provisions and substituted “victim” for “offender’s spouse or intimate partner” in pars. (1) to (3).
+
+#### Effective Date of 2013 Amendment
+Pub. L. 113–4, § 4, Mar. 7, 2013, 127 Stat. 64, provided that: “Except as otherwise specifically provided in this Act [see Tables for classification], the provisions of titles I, II, III, IV, VII, and sections 3, 602, 901, and 902 of this Act shall not take effect until the beginning of the fiscal year following the date of enactment of this Act [Mar. 7, 2013].”
+
+
+<a id="section-2261a"></a>
+## § 2261A. Stalking
+
+Whoever—
+
+(1) travels in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel places that person in reasonable fear of the death of, or serious bodily injury to, or causes substantial emotional distress to that person, a member of the immediate family (as defined in section 115) of that person, or the spouse or intimate partner of that person; or
+
+(2) with the intent—
+
+  (A) to kill, injure, harass, or place under surveillance with intent to kill, injure, harass, or intimidate, or cause substantial emotional distress to a person in another State or tribal jurisdiction or within the special maritime and territorial jurisdiction of the United States; or
+
+  (B) to place a person in another State or tribal jurisdiction, or within the special maritime and territorial jurisdiction of the United States, in reasonable fear of the death of, or serious bodily injury to—
+
+    (i) that person;
+
+    (ii) a member of the immediate family (as defined in section 115 11 So in original. Probably should be followed by a closing parenthesis. of that person; or
+
+    (iii) a spouse or intimate partner of that person;
+    uses the mail, any interactive computer service, or any facility of interstate or foreign commerce to engage in a course of conduct that causes substantial emotional distress to that person or places that person in reasonable fear of the death of, or serious bodily injury to, any of the persons described in clauses (i) through (iii) of subparagraph (B); 22 So in original. Provision probably should be set flush with par. (2).
+  shall be punished as provided in [section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 113–4, § 4, title I, § 107(b), Mar. 7, 2013, 127 Stat. 64, 77, provided that, effective at the beginning of the fiscal year following Mar. 7, 2013, this section is amended to read as follows:
+
+§ 2261A. Stalking
+
+Whoever—
+
+(1) travels in interstate or foreign commerce or is present within the special maritime and territorial jurisdiction of the United States, or enters or leaves Indian country, with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, and in the course of, or as a result of, such travel or presence engages in conduct that—
+
+(A) places that person in reasonable fear of the death of, or serious bodily injury to—
+
+(i) that person;
+
+(ii) an immediate family member (as defined in section 115) of that person; or
+
+(iii) a spouse or intimate partner of that person; or
+
+(B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of subparagraph (A); or
+
+(2) with the intent to kill, injure, harass, intimidate, or place under surveillance with intent to kill, injure, harass, or intimidate another person, uses the mail, any interactive computer service or electronic communication service or electronic communication system of interstate commerce, or any other facility of interstate or foreign commerce to engage in a course of conduct that—
+
+(A) places that person in reasonable fear of the death of or serious bodily injury to a person described in clause (i), (ii), or (iii) of paragraph (1)(A); or
+
+(B) causes, attempts to cause, or would be reasonably expected to cause substantial emotional distress to a person described in clause (i), (ii), or (iii) of paragraph (1)(A),
+
+shall be punished as provided in [section 2261(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261/b&num=0&edition=prelim).
+
+See 2013 Amendment note below.
+
+#### Amendments
+2013—Pub. L. 113–4 amended section generally. Prior to amendment, section related to stalking.
+
+2006—Pub. L. 109–162 amended section catchline and text generally, revising and restating former provisions relating to stalking so as to include surveillance with intent to kill, injure, harass, or intimidate which results in substantial emotional distress to a person within the purview of the offense proscribed.
+
+2000—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “Whoever travels across a State line or within the special maritime and territorial jurisdiction of the United States with the intent to injure or harass another person, and in the course of, or as a result of, such travel places that person in reasonable fear of the death of, or serious bodily injury (as defined in [section 1365(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1365/g/3&num=0&edition=prelim)) to, that person or a member of that person’s immediate family (as defined in [section 115 of this title](./chapter-007-assault.md#section-115)) shall be punished as provided in [section 2261 of this title](./chapter-110a-domestic-violence-and-stalking.md#section-2261).”
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of this title](./chapter-110a-domestic-violence-and-stalking.md#section-2261).
+
+
+<a id="section-2262"></a>
+## § 2262. Interstate violation of protection order
+**(a) Offenses.—**
+
+(1) **Travel or conduct of offender.—** — A person who travels in interstate or foreign commerce, or enters or leaves Indian country or is present within the special maritime and territorial jurisdiction of the United States, with the intent to engage in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, and subsequently engages in such conduct, shall be punished as provided in subsection (b).
+
+(2) **Causing travel of victim.—** — A person who causes another person to travel in interstate or foreign commerce or to enter or leave Indian country by force, coercion, duress, or fraud, and in the course of, as a result of, or to facilitate such conduct or travel engages in conduct that violates the portion of a protection order that prohibits or provides protection against violence, threats, or harassment against, contact or communication with, or physical proximity to, another person, or that would violate such a portion of a protection order in the jurisdiction in which the order was issued, shall be punished as provided in subsection (b).
+
+**(b) Penalties.—** A person who violates this section shall be fined under this title, imprisoned—
+
+(1) for life or any term of years, if death of the victim results;
+
+(2) for not more than 20 years if permanent disfigurement or life threatening bodily injury to the victim results;
+
+(3) for not more than 10 years, if serious bodily injury to the victim results or if the offender uses a dangerous weapon during the offense;
+
+(4) as provided for the applicable conduct under chapter 109A if the offense would constitute an offense under chapter 109A (without regard to whether the offense was committed in the special maritime and territorial jurisdiction of the United States or in a Federal prison); and
+
+(5) for not more than 5 years, in any other case,
+or both fined and imprisoned.
+
+### Statutory Notes
+
+#### Amendment of Section
+For effective date of amendment by Pub. L. 113–4, see Effective Date of 2013 Amendment note below.
+
+#### Amendments
+2013—Subsec. (a)(1). Pub. L. 113–4, which directed amendment of subsec. (a)(2) by inserting “is present” after “Indian country or”, was executed by making the insertion in subsec. (a)(1) to reflect the probable intent of Congress.
+
+2006—Subsec. (a)(1). Pub. L. 109–162 inserted “or within the special maritime and territorial jurisdiction of the United States” after “Indian country”.
+
+2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+
+“(1) Crossing a state line.—A person who travels across a State line or enters or leaves Indian country with the intent to engage in conduct that—
+
+“(A)(i) violates the portion of a protection order that involves protection against credible threats of violence, repeated harassment, or bodily injury to the person or persons for whom the protection order was issued; or
+
+“(ii) would violate this subparagraph if the conduct occurred in the jurisdiction in which the order was issued; and
+
+“(B) subsequently engages in such conduct,
+
+shall be punished as provided in subsection (b).
+
+“(2) Causing the crossing of a state line.—A person who causes a spouse or intimate partner to cross a State line or to enter or leave Indian country by force, coercion, duress, or fraud, and, in the course or as a result of that conduct, intentionally commits an act that injures the person’s spouse or intimate partner in violation of a valid protection order issued by a State shall be punished as provided in subsection (b).”
+
+1996—Subsec. (a)(1)(A)(ii). Pub. L. 104–294 substituted “violate this subparagraph” for “violate subparagraph (A)”.
+
+Subsec. (b)(1) to (3). Pub. L. 104–201 substituted “victim” for “offender’s spouse or intimate partner”.
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of this title](./chapter-110a-domestic-violence-and-stalking.md#section-2261).
+
+
+<a id="section-2263"></a>
+## § 2263. Pretrial release of defendant
+
+In any proceeding pursuant to section 3142 for the purpose of determining whether a defendant charged under this chapter shall be released pending trial, or for the purpose of determining conditions of such release, the alleged victim shall be given an opportunity to be heard regarding the danger posed by the defendant.
+
+
+<a id="section-2264"></a>
+## § 2264. Restitution
+**(a) In General.—** Notwithstanding section 3663 or 3663A, and in addition to any other civil or criminal penalty authorized by law, the court shall order restitution for any offense under this chapter.
+
+**(b) Scope and Nature of Order.—**
+
+(1) **Directions.—** — The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court pursuant to paragraph (2).
+
+(2) **Enforcement.—** — An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
+
+(3) **Definition.—** — For purposes of this subsection, the term “full amount of the victim’s losses” includes any costs incurred by the victim for—
+
+  (A) medical services relating to physical, psychiatric, or psychological care;
+
+  (B) physical and occupational therapy or rehabilitation;
+
+  (C) necessary transportation, temporary housing, and child care expenses;
+
+  (D) lost income;
+
+  (E) attorneys’ fees, plus any costs incurred in obtaining a civil protection order; and
+
+  (F) any other losses suffered by the victim as a proximate result of the offense.
+
+(4) **Order mandatory.—**
+
+  (A) The issuance of a restitution order under this section is mandatory.
+
+  (B) A court may not decline to issue an order under this section because of—
+
+    (i) the economic circumstances of the defendant; or
+
+    (ii) the fact that a victim has, or is entitled to, receive compensation for his or her injuries from the proceeds of insurance or any other source.
+
+**(c) Victim Defined.—** For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim’s estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
+
+### Statutory Notes
+
+#### Amendments
+1996—Subsec. (a). Pub. L. 104–132, § 205(d)(1), inserted “or 3663A” after “3663”.
+
+Subsec. (b)(1). Pub. L. 104–132, § 205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+
+“(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim’s losses as determined by the court, pursuant to paragraph (3); and
+
+“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
+
+Subsec. (b)(2). Pub. L. 104–132, § 205(d)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+
+Subsec. (b)(4)(C), (D). Pub. L. 104–132, § 205(d)(2)(C), struck out subpars. (C) and (D), which related to court’s consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court’s entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
+
+Subsec. (b)(5) to (10). Pub. L. 104–132, § 205(d)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
+
+Subsec. (c). Pub. L. 104–132, § 205(d)(3), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days before sentencing, the United States Attorney (or such Attorney’s delegate), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the delegate) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the delegate) shall advise the victim that the victim may file a separate affidavit and assist the victim in the preparation of the affidavit.”
+
+Subsecs. (d) to (g). Pub. L. 104–132, § 205(d)(3), struck out subsecs. (d) to (g), which related, respectively, to objection, additional documentation and testimony, final determination of losses, and restitution in addition to punishment.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–132 effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under [section 2248 of this title](./chapter-109a-sexual-abuse.md#section-2248).
+
+
+<a id="section-2265"></a>
+## § 2265. Full faith and credit given to protection orders
+**(a) Full Faith and Credit.—** Any protection order issued that is consistent with subsection (b) of this section by the court of one State, Indian tribe, or territory (the issuing State, Indian tribe, or territory) shall be accorded full faith and credit by the court of another State, Indian tribe, or territory (the enforcing State, Indian tribe, or territory) and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory 11 So in original. Probably should not be capitalized. as if it were the order of the enforcing State or tribe.
+
+**(b) Protection Order.—** A protection order issued by a State, tribal, or territorial court is consistent with this subsection if—
+
+(1) such court has jurisdiction over the parties and matter under the law of such State, Indian tribe, or territory; and
+
+(2) reasonable notice and opportunity to be heard is given to the person against whom the order is sought sufficient to protect that person’s right to due process. In the case of ex parte orders, notice and opportunity to be heard must be provided within the time required by State, tribal, or territorial law, and in any event within a reasonable time after the order is issued, sufficient to protect the respondent’s due process rights.
+
+**(c) Cross or Counter Petition.—** A protection order issued by a State, tribal, or territorial court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
+
+(1) no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or
+
+(2) a cross or counter petition has been filed and the court did not make specific findings that each party was entitled to such an order.
+
+**(d) Notification and Registration.—**
+
+(1) **Notification.—** — A State, Indian tribe, or territory according full faith and credit to an order by a court of another State, Indian tribe, or territory shall not notify or require notification of the party against whom a protection order has been issued that the protection order has been registered or filed in that enforcing State, tribal, or territorial jurisdiction unless requested to do so by the party protected under such order.
+
+(2) **No prior registration or filing as prerequisite for enforcement.—** — Any protection order that is otherwise consistent with this section shall be accorded full faith and credit, notwithstanding failure to comply with any requirement that the order be registered or filed in the enforcing State, tribal, or territorial jurisdiction.
+
+(3) **Limits on internet publication of registration information.—** — A State, Indian tribe, or territory shall not make available publicly on the Internet any information regarding the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction, restraining order, or injunction in either the issuing or enforcing State, tribal or territorial jurisdiction, if such publication would be likely to publicly reveal the identity or location of the party protected under such order. A State, Indian tribe, or territory may share court-generated and law enforcement-generated information contained in secure, governmental registries for protection order enforcement purposes.
+
+**(e) Tribal Court Jurisdiction.—** For purposes of this section, a court of an Indian tribe shall have full civil jurisdiction to issue and enforce protection orders involving any person, including the authority to enforce any orders through civil contempt proceedings, to exclude violators from Indian land, and to use other appropriate mechanisms, in matters arising anywhere in the Indian country of the Indian tribe (as defined in section 1151) or otherwise within the authority of the Indian tribe.
+
+### Statutory Notes
+
+#### Amendments
+2013—Subsec. (e). Pub. L. 113–4 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “For purposes of this section, a tribal court shall have full civil jurisdiction to enforce protection orders, including authority to enforce any orders through civil contempt proceedings, exclusion of violators from Indian lands, and other appropriate mechanisms, in matters arising within the authority of the tribe.”
+
+2006—Subsec. (a). Pub. L. 109–162, § 106(a)(1), (b), substituted “, Indian tribe, or territory” for “or Indian tribe” wherever appearing and “and enforced by the court and law enforcement personnel of the other State, Indian tribal government or Territory as if it were” for “and enforced as if it were”.
+
+Subsec. (b). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 109–162, § 106(a)(1), substituted “, Indian tribe, or territory” for “or Indian tribe”.
+
+Subsec. (b)(2). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+
+Subsec. (c). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 109–162, § 106(a), substituted “, Indian tribe, or territory” for “or Indian tribe” in two places and “State, tribal, or territorial” for “State or tribal”.
+
+Subsec. (d)(2). Pub. L. 109–162, § 106(a)(2), substituted “State, tribal, or territorial” for “State or tribal”.
+
+Subsec. (d)(3). Pub. L. 109–271, which directed amendment of section 106(c) of Pub. L. 109–162 by substituting “the registration, filing of a petition for, or issuance of a protection order, restraining order or injunction” for “the registration or filing of a protection order”, was executed by making the substitution in par. (3), which was added by section 106(c) of Pub. L. 109–162, to reflect the probable intent of Congress.
+
+Pub. L. 109–162, § 106(c), added par. (3).
+
+2000—Subsecs. (d), (e). Pub. L. 106–386 added subsecs. (d) and (e).
+
+#### Special Rule for the State of Alaska
+Pub. L. 113–4, title IX, § 910, Mar. 7, 2013, 127 Stat. 126, provided that: “(a) Expanded Jurisdiction.—In the State of Alaska, the amendments made by sections 904 and 905 [enacting [section 1304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1304&num=0&edition=prelim), Indians, and amending this section, respectively] shall only apply to the Indian country (as defined in [section 1151 of title 18](./chapter-053-indians.md#section-1151), United States Code) of the Metlakatla Indian Community, Annette Island Reserve. “(b) Retained Jurisdiction.—The jurisdiction and authority of each Indian tribe in the State of Alaska under [section 2265(e) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2265/e&num=0&edition=prelim), United States Code (as in effect on the day before the date of enactment of this Act [Mar. 7, 2013])—“(1) shall remain in full force and effect; and “(2) are not limited or diminished by this Act [see Tables for classification] or any amendment made by this Act. “(c) Savings Provision.—Nothing in this Act or an amendment made by this Act limits or diminishes the jurisdiction of the State of Alaska, any subdivision of the State of Alaska, or any Indian tribe in the State of Alaska.”
+
+
+<a id="section-2265a"></a>
+## § 2265A. Repeat offenders
+**(a) Maximum Term of Imprisonment.—** The maximum term of imprisonment for a violation of this chapter after a prior domestic violence or stalking offense shall be twice the term otherwise provided under this chapter.
+
+**(b) Definition.—** For purposes of this section—
+
+(1) the term “prior domestic violence or stalking offense” means a conviction for an offense—
+
+  (A) under section 2261, 2261A, or 2262 of this chapter; or
+
+  (B) under State or tribal law for an offense consisting of conduct that would have been an offense under a section referred to in subparagraph (A) if the conduct had occurred within the special maritime and territorial jurisdiction of the United States, or in interstate or foreign commerce; and
+
+(2) the term “State” means a State of the United States, the District of Columbia, or any commonwealth, territory, or possession of the United States.
+
+### Statutory Notes
+
+#### Amendments
+2013—Subsec. (b)(1)(B). Pub. L. 113–4 inserted “or tribal” after “State”.
+
+
+<a id="section-2266"></a>
+## § 2266. Definitions
+
+In this chapter:
+
+(1) **Bodily injury.—** — The term “bodily injury” means any act, except one done in self-defense, that results in physical injury or sexual abuse.
+
+(2) **Course of conduct.—** — The term “course of conduct” means a pattern of conduct composed of 2 or more acts, evidencing a continuity of purpose.
+
+(3) **Enter or leave indian country.—** — The term “enter or leave Indian country” includes leaving the jurisdiction of 1 tribal government and entering the jurisdiction of another tribal government.
+
+(4) **Indian country.—** — The term “Indian country” has the meaning stated in [section 1151 of this title](./chapter-053-indians.md#section-1151).
+
+(5) **Protection order.—** — The term “protection order” includes—
+
+  (A) any injunction, restraining order, or any other order issued by a civil or criminal court for the purpose of preventing violent or threatening acts or harassment against, sexual violence, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil or criminal court whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil or criminal order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection; and
+
+  (B) any support, child custody or visitation provisions, orders, remedies or relief issued as part of a protection order, restraining order, or injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, sexual assault, dating violence, or stalking.
+
+(6) **Serious bodily injury.—** — The term “serious bodily injury” has the meaning stated in section 2119(2).
+
+(7) **Spouse or intimate partner.—** — The term “spouse or intimate partner” includes—
+
+  (A) for purposes of—
+
+    (i) sections other than 2261A—
+
+      (I) a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser; or
+
+      (II) a person who is or has been in a social relationship of a romantic or intimate nature with the abuser, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship; and
+
+    (ii) section 2261A—
+
+      (I) a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; or
+
+      (II) a person who is or has been in a social relationship of a romantic or intimate nature with the target of the stalking, as determined by the length of the relationship, the type of the relationship, and the frequency of interaction between the persons involved in the relationship.11 So in original. The period probably should be “; and”.
+
+  (B) any other person similarly situated to a spouse who is protected by the domestic or family violence laws of the State or tribal jurisdiction in which the injury occurred or where the victim resides.
+
+(8) **State.—** — The term “State” includes a State of the United States, the District of Columbia, and a commonwealth, territory, or possession of the United States.
+
+(9) **Travel in interstate or foreign commerce.—** — The term “travel in interstate or foreign commerce” does not include travel from 1 State to another by an individual who is a member of an Indian tribe and who remains at all times in the territory of the Indian tribe of which the individual is a member.
+
+(10) **Dating partner.—** — The term “dating partner” refers to a person who is or has been in a social relationship of a romantic or intimate nature with the abuser. The existence of such a relationship is based on a consideration of—
+
+  (A) the length of the relationship; and
+
+  (B) the type of relationship; and
+
+  (C) the frequency of interaction between the persons involved in the relationship.
+
+### Statutory Notes
+
+#### Amendments
+2006—Par. (5). Pub. L. 109–162, § 106(d)(1), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘protection order’ includes any injunction or other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including any temporary or final order issued by a civil and criminal court (other than a support or child custody order issued pursuant to State divorce and child custody laws, except to the extent that such an order is entitled to full faith and credit under other Federal law) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.”
+
+Par. (7)(A). Pub. L. 109–162, § 106(d)(2), which directed amendment of cls. (i) and (ii) by substituting “2261A—
+
+“(I) a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser; or
+
+“(II) a person who is or has been in a social relationship of a romantic or intimate nature with the abuser, as determined by the length of the relationship, the type of relationship, and the frequency of interaction between the persons involved in the relationship”
+
+for “2261A, a spouse or former spouse of the abuser, a person who shares a child in common with the abuser, and a person who cohabits or has cohabited as a spouse with the abuser”, was executed only to cl. (i) to reflect the probable intent of Congress because the quoted language to be deleted does not appear in cl. (ii).
+
+Par. (7)(A)(ii). Pub. L. 109–271, § 2(c), added cl. (ii) and struck out former cl. (ii) which read as follows: “section 2261A, a spouse or former spouse of the target of the stalking, a person who shares a child in common with the target of the stalking, and a person who cohabits or has cohabited as a spouse with the target of the stalking; and”.
+
+Par. (10). Pub. L. 109–271, § 2(i), substituted “. The existence of such a relationship is” for “and the existence of such a relationship” in introductory provisions.
+
+Pub. L. 109–162, § 116(b), added par. (10).
+
+2000—Pub. L. 106–386 reenacted section catchline without change and amended text generally. Prior to amendment, text defined “bodily injury”, “Indian country”, “protection order”, “spouse or intimate partner”, “State”, and “travel across State lines”.

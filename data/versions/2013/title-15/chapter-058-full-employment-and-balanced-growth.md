@@ -1,0 +1,343 @@
+---
+title: 15
+chapter: '58'
+heading: FULL EMPLOYMENT AND BALANCED GROWTH
+section_count: 15
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
+---
+<a id="section-3101"></a>
+## § 3101. Exercise of rulemaking powers
+**(a)** 11 So in original. No subsec. (b) has been enacted. The Provisions of this subchapter and the amendments made by such provisions are enacted by the Congress—
+
+(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+
+(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House), at any time, in the same manner and to the same extent as in the case of any other rule of such House.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1904, which enacted this subchapter and amended sections 632 and 636 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+
+
+<a id="section-3102"></a>
+## § 3102. Nondiscrimination
+**(a) Exclusion from participation or denial of benefits** No person in the United States shall on the ground of sex, age, race, color, religion, national origin or handicap be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded pursuant to the implementation of this chapter, including membership in any structure created by this chapter.
+
+**(b) Noncompliance notification; remedies of Secretary of Labor** Whenever the Secretary of Labor determines that a recipient of funds made available pursuant to this chapter has failed to comply with subsection (a) of this section, or an applicable regulation, the Secretary shall notify the recipient of the noncompliance and shall request such recipient to secure compliance. If within a reasonable period of time, not to exceed sixty days, the recipient fails or refuses to secure compliance, the Secretary of Labor may—
+
+(1) refer the matter to the Attorney General with a recommendation that an appropriate civil action be instituted;
+
+(2) exercise the powers and functions provided by title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.) 11 So in original. Probably should be followed by a semicolon. or
+
+(3) take such other action as may be provided by law.
+
+**(c) Civil action by Attorney General** When a matter is referred to the Attorney General pursuant to subsection (b) of this section, or whenever the Attorney General has reason to believe that a recipient is engaged in a pattern or practice in violation of the provisions of this section, the Attorney General may bring a civil action in the appropriate United States district court for any and all appropriate relief.
+
+**(d) Enforcement analysis in Report of President** To assist and evaluate the enforcement of this section, and the broader equal employment opportunity policies of this chapter the Secretary of Labor shall include, in the annual report referred to in [section 1022a(f)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022a/f/2/B&num=0&edition=prelim), a detailed analysis of the extent to which the enforcement of this section achieves positive results in both the quantity and quality of jobs, and for employment opportunities generally.
+
+### Statutory Notes
+
+#### References in Text
+For definition of “this chapter”, referred to in subsecs. (a), (b), and (d), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+
+#### Amendments
+1998—Subsec. (d). Pub. L. 105–277 substituted “include, in the annual report referred to in [section 1022a(f)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022a/f/2/B&num=0&edition=prelim),” for “include, in the annual Employment and Training Report of the President provided under section 705(a) of CETA,”.
+
+
+<a id="section-3103"></a>
+## § 3103. Labor standards
+**(a) Equal wages; increase in employment** Any new program enacted and funded pursuant to the implementation of this chapter shall, subject to any limitations on maximum annual compensation as may be provided in the law authorizing such programs, provide that persons employed are paid equal wages for equal work, and that such policies and programs create a net increase in employment through work that would not otherwise be done or are essential to fulfill national priority purposes.
+
+**(b) Wage rates; work limitations of reservoir projects employees** Any person employed in any reservoir project enacted and funded pursuant to the implementation of [section 3116(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3116/c/1&num=0&edition=prelim), or in any other job created pursuant to implementation of this chapter, shall, subject to any limitations on maximum annual compensation as may be provided in the law authorizing such programs, be paid not less than the pay received by others performing the same type of work for the same employer, and in no case less than the minimum wage under the Fair Labor Standards Act of 1938 [[29 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) et seq.]. No person employed in any reservoir project enacted and funded pursuant to implementation of [section 3116(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3116/c/1&num=0&edition=prelim) shall perform work of the type to which sections 3141–3144, 3146, and 3147 of title 40 apply, except as otherwise may be specifically authorized by law.
+
+**(c) Recommendations of President** Any recommendation by the President for legislation to implement any program enacted pursuant to the provisions of this chapter, requiring the use of funds under this chapter, and submitted pursuant to the requirements of this chapter, shall contain appropriate wage provisions based upon existing wage standard legislation.
+
+### Statutory Notes
+
+#### References in Text
+For definition of “this chapter”, referred to in text, see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+The Fair Labor Standards Act, referred to in subsec. (b), is act June 25, 1938, ch. 676. 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim), and Tables.
+
+#### Codification
+“Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act ([40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5) applies” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+
+<a id="section-3111"></a>
+## § 3111. Congressional findings
+**(a)** The Congress finds that the Nation has suffered substantial unemployment and underemployment, idleness of other productive resources, high rates of inflation, and inadequate productivity growth, over prolonged periods of time, imposing numerous economic and social costs on the Nation. Such costs include the following:
+
+(1) The Nation is deprived of the full supply of goods and services, the full utilization of labor and capital resources, and the related increases in economic well-being that would occur under conditions of genuine full employment, production, and real income, balanced growth, a balanced Federal budget, and the effective control of inflation.
+
+(2) The output of goods and services is insufficient to meet pressing national priorities.
+
+(3) Workers are deprived of the job security, income, skill development, and productivity necessary to maintain and advance their standards of living.
+
+(4) Business and industry are deprived of the production, sales, capital flow, and productivity necessary to maintain adequate profits, undertake new investment, create jobs, compete internationally, and contribute to meeting society’s economic needs. These problems are especially acute for smaller businesses. Variations in the business cycle and low-level operations of the economy are far more damaging to smaller businesses than to larger business concerns because smaller businesses have fewer available resources, and less access to resources, to withstand nationwide economic adversity. A decline in small business enterprises contributes to unemployment by reducing employment opportunities and contributes to inflation by reducing competition.
+
+(5) Unemployment exposes many families to social, psychological, and physiological costs, including disruption of family life, loss of individual dignity and self-respect, and the aggravation of physical and psychological illnesses, alcoholism and drug abuse, crime, and social conflicts.
+
+(6) Federal, State, and local government budgets are undermined by deficits due to shortfalls in tax revenues and in increases in expenditures for unemployment compensation, public assistance, and other recession-related services in the areas of criminal justice, alcoholism and drug abuse, and physical and mental health.
+
+**(b)** The Congress further finds that:
+
+(1) High unemployment may contribute to inflation by diminishing labor training and skills, underutilizing capital resources, reducing the rate of productivity advance, increasing unit labor costs, and reducing the general supply of goods and services.
+
+(2) Aggregate monetary and fiscal policies alone have been unable to achieve full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance, and reasonable price stability, and therefore must be supplemented by other measures designed to serve these ends.
+
+(3) Attainment of these objectives should be facilitated by setting explicit short-term and medium-term economic goals, and by improved coordination among the President, the Congress, and the Board of Governors of the Federal Reserve System.
+
+(4) Increasing job opportunities and full employment would greatly contribute to the elimination of discrimination based upon sex, age, race, color, religion, national origin, handicap, or other improper factors.
+
+**(c)** The Congress further finds that an effective policy to promote full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance, and reasonable price stability should (1) be based on the development of explicit economic goals and policies involving the President, the Congress, and the Board of Governors of the Federal Reserve System, with maximum reliance on the resources and ingenuity of the private sector of the economy, (2) include programs specifically designed to reduce high unemployment due to recessions, and to reduce structural unemployment within regional areas and among particular labor force groups, and (3) give proper attention to the role of increased exports and improvement in the international competitiveness of agriculture, business, and industry in providing productive employment opportunities and achieving an improved trade balance.
+
+**(d)** The Congress further finds that full employment and production, increased real income, balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, achievement of an improved trade balance through increased exports and improvement in the international competitiveness of agriculture, business, and industry, and reasonable price stability are important national requirements and will promote the economic security and well-being of all citizens of the Nation.
+
+**(e)** The Congress further finds that the United States is part of an interdependent world trading and monetary system and that attainment of the requirements specified in subsection (d) of this section is dependent upon policies promoting a free and fair international trading system and a sound and stable international monetary system.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 95–523, § 1, Oct. 27, 1978, 92 Stat. 1887, provided in part that this Act [enacting this chapter and sections 1022a to 1022f of this title, amending sections 1021, 1022, 1023, and 1024 of this title, sections 632 and 636 of Title 2, The Congress, and [section 225a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section225a&num=0&edition=prelim), Banks and Banking, and enacting provisions set out as notes under section 1021 of title and [section 225a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section225a&num=0&edition=prelim)] may be cited as the “Full Employment and Balanced Growth Act of 1978”.
+
+
+<a id="section-3112"></a>
+## § 3112. Report to Congressional committees
+
+Not later than one year after October 27, 1978, the Committee on Labor and Human Resources of the Senate and the Committee on Education and Labor of the House of Representatives each shall conduct a study and submit a report, including findings and recommendations, to the Committee on Rules and Administration of the Senate and the Committee on Rules of the House, respectively, on the subject of establishing a full employment goal in connection with the provisions of this chapter.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, known as the Full Employment and Balanced Growth Act of 1978, which enacted this chapter and sections 1022a to 1022f of this title, amended sections 1021, 1022, and 1023 of this title, sections 632 and 636 of Title 2, The Congress, and [section 225a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section225a&num=0&edition=prelim), Banks and Banking, and enacted provisions set out as notes under sections 1021 and 3101 of this title and [section 225a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section225a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+
+#### Change of Name
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Previously, Committee on Human Resources of the Senate changed to Committee on Labor and Human Resources effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of the Senate adopted Nov. 14, 1979.
+
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+
+
+<a id="section-3113"></a>
+## § 3113. National Employment Conference
+**(a) Organization and implementation** A National Employment Conference may be convened in the District of Columbia within a reasonable period of time after October 27, 1978. Responsibility for the organization and implementation of this conference shall rest with the President or the appropriate department or agency of the Federal Government, and the conference shall bring together leaders of small and larger business, labor, government, and all other interested parties.
+
+**(b) Subject matter** The subject of the conference shall be employment, with particular attention to structural unemployment and the plight of disadvantaged youth. The conference shall also focus on issues such as implementation of adequate and effective incentives for private sector employers to hire the hard-core unemployed. Special attention shall be given to the creation of jobs through the use of targeted employment tax credits, wage vouchers, and other incentives to private sector businesses.
+
+
+<a id="section-3114"></a>
+## § 3114. Congressional statement of purpose
+
+The Congress recognizes that general economic policies alone have been unable to achieve the goals set forth in this chapter related to full employment, production, and real income, balanced growth, adequate growth in productivity, proper attention to national priorities, achievement of an improved trade balance through increased exports and improvement in the international competitiveness of agriculture, business, and industry, and achievement of reasonable price stability as provided for in [section 1022b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022b/b&num=0&edition=prelim). It is, therefore, the purpose of this subchapter to require the President to initiate, as the President deems appropriate, with recommendations to the Congress where necessary, supplementary programs and policies to the extent that the President finds such action necessary to help achieve these goals, including the goals and timetable for the reduction of unemployment. Insofar as feasible without undue delay, any policies and programs so recommended shall be included in the Economic Report.
+
+### Statutory Notes
+
+#### References in Text
+For definition of “this chapter”, referred to in text, see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+
+<a id="section-3115"></a>
+## § 3115. Countercyclical employment policies
+**(a) Programmatic entities** Any countercyclical efforts undertaken to aid in achieving the purposes of [section 3111 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3111) shall consider for inclusion the following programmatic entities:
+
+(1) accelerated public works, including the development of standby public works projects;
+
+(2) public service employment;
+
+(3) State and local grant programs;
+
+(4) the levels and duration of unemployment insurance;
+
+(5) skill training in both the private and public sectors, both as a general remedy and as a supplement to unemployment insurance;
+
+(6) youth employment programs as specified in [section 3115 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3115);
+
+(7) community development programs to provide employment in activities of value to the States, local communities (including rural areas), and the Nation;
+
+(8) Federal procurement programs which are targeted on labor surplus areas; and
+
+(9) augmentation of other employment and training programs which would help to reduce high levels of unemployment arising from cyclical causes.
+
+**(b) Triggering mechanism** In any countercyclical efforts undertaken, the President shall consider a triggering mechanism which will implement the program during a period of rising unemployment and phase out the program when unemployment is appropriately reduced, and incorporate effective means to facilitate individuals assisted under programs developed pursuant to this section to return promptly to regular private and public employment as the economy recovers.
+
+
+<a id="section-3116"></a>
+## § 3116. Economic activity coordination
+**(a) Federal, regional, State, local, and private sector** As an integral part of any countercyclical employment policies undertaken in accord with [section 3112 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3112), the President shall, to the extent the President deems necessary, set forth programs and policies, including recommended legislation where needed, to coordinate economic action among the Federal Government, regions, States and localities, and the private sector to promote achievement of the purposes of this chapter and the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.] and an economic environment in which State and local governments and private sector economic activity and employment will prosper. In considering programs and policies related to the private sector, full consideration shall be given to promoting the growth and well-being of small businesses and employment training programs through private sector incentives.
+
+**(b) Fiscal needs and budget conditions** In any efforts under this section, the President shall endeavor to meet criteria that establish programs which are funded to take account of the fiscal needs and budget conditions of the respective States and localities and their own efforts, with special attention to the rates of unemployment in such States and localities.
+
+### Statutory Notes
+
+#### References in Text
+For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+
+#### Executive Order No. 12329
+Ex. Ord. No. 12329, Oct. 14, 1981, 46 F.R. 50919, which established the President’s Task Force on Private Sector Initiatives and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(i), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-3117"></a>
+## § 3117. Regional and structural employment policies and programs
+**(a) Recommendation of legislation** To the extent deemed appropriate by the President in fulfillment of the purposes of [section 3111 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3111), the President shall recommend legislation to the Congress if necessary, regional and structural employment policies and programs.
+
+**(b) Private sector production and employment; effect of Federal policies** In formulating the regional components of any such programs, the President shall encourage to the extent the President deems necessary, new private sector production and employment to locate within depressed localities and regions with substantial unemployment and to aid in stabilizing their economic base. To the extent feasible, such policies and programs shall foster the establishment and growth of smaller businesses in such localities and regions. Any regional employment proposal of the President shall also include an analysis of the extent to which Federal tax, expenditure (including procurement of goods and services), defense, transportation, energy, natural resources and employment policies have influenced the movement of people, jobs, and small and larger business and industries from chronic high unemployment regions and areas, and proposals designed to correct Federal policies that have an adverse economic impact upon such regions and areas.
+
+
+<a id="section-3131"></a>
+## § 3131. Youth employment policies and programs
+**(a) Congressional findings** The Congress finds and declares—
+
+(1) That 11 So in original. Probably should not be capitalized. serious unemployment and economic disadvantage of a unique nature exist among youths even under generally favorable economic conditions;
+
+(2) that this group constitutes a substantial portion of the Nation’s unemployment, and that this significantly contributes to crime, alcoholism and drug abuse, and other social and economic problems; and
+
+(3) that many youths have special employment needs and problems which, if not promptly addressed, will substantially contribute to more severe unemployment problems in the long run.
+
+**(b) Improvement and expansion** To the extent deemed necessary in fulfillment of the purposes of this chapter, the President shall improve and expand existing youth employment programs, recommending legislation where required. In formulating any such program, the President shall—
+
+(1) include provisions designed to fully coordinate youth employment activities with other employment and training programs;
+
+(2) develop a smoother transition from school to work;
+
+(3) prepare disadvantaged and other youths with employability handicaps for regular self-sustaining employment;
+
+(4) develop realistic methods for combining training with work; and
+
+(5) develop provisions designed to attract structurally unemployed youth into productive full-time employment through incentives to private and independent sector businesses; 22 So in original. The semicolon probably should be a period.
+
+### Statutory Notes
+
+#### References in Text
+For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+
+<a id="section-3132"></a>
+## § 3132. Job training, counseling and reservoirs of employment projects
+**(a) Policies, procedures and recommendations** Further to promote achievement of full employment under this chapter and the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.], the President, through the Secretary of Labor, shall develop policies and procedures and, as necessary, recommend programs for providing employment opportunities to individuals aged 16 and over in the civilian labor force who are able, willing, and seeking to work but who, despite serious efforts to obtain employment, remain unemployed.
+
+**(b) Utilization of authority under other laws** In meeting the responsibilities under subsection (a) of this section, the Secretary of Labor shall, as appropriate, fully utilize the authority provided under the Job Training Partnership Act and title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.] and other relevant provisions of law to—
+
+(1) assure the availability of counseling, training, and other support activities necessary to prepare persons willing and seeking work for employment;
+
+(2) refer persons able, willing, and seeking to work to job opportunities in the private and public sectors through the existing public employment placement facilities and through the United States Employment Service of the Department of Labor, including job opportunities in any positions created under programs established pursuant to sections 3112, 3114, and 3115 of this title; and
+
+(3) encourage flexi-time and part-time jobs for persons who are able, willing, and seeking employment but who are unable to work a standard workweek.
+
+**(c) Establishment of project reservoirs; restrictions and requirements of new programs**
+
+(1) To the extent that individuals aged sixteen and over and able, willing, and seeking to work are not and in the judgment of the President cannot be provided with private job opportunities or job opportunities under other programs and actions in existence, in accord with the goals and timetables set forth in the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.], the President shall, as may be authorized by law, establish reservoirs of public employment and private nonprofit employment projects, to be approved by the Secretary of Labor, through expansion of title I of the Workforce Investment Act of 1998 [[29 U.S.C. 2801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim) et seq.] and other existing employment and training projects or through such new programs as are determined necessary by the President or through both such projects and such programs.
+
+(2) New programs as may be authorized by law after October 27, 1978, referred to in paragraph (c)(1)—
+
+  (A) shall not be put into operation earlier than two years after October 27, 1978, nor without a finding by the President, transmitted to the Congress, that other means of employment are not yielding enough jobs to be consistent with attainment of the goals and timetables for the reduction of unemployment set forth in the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.];
+
+  (B) shall be designed so that no workers from private employment are drawn into the reservoir projects thereunder;
+
+  (C) shall be useful and productive jobs;
+
+  (D) shall be mainly in the lower ranges of skills and pay, and toward this end the number of reservoir jobs under such new programs shall, to the extent practicable, be maximized in relationship to the appropriations provided for such jobs;
+
+  (E) shall be targeted on areas of high unemployment and on individuals who are structurally unemployed;
+
+  (F) shall be phased in by the President as necessary, in conjunction with the employment goals under sections 3(a)(2) and 4(b) of the Employment Act of 1946 [[15 U.S.C. 1022(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022/a/2&num=0&edition=prelim), 1022a(b)].
+
+**(d) Regulations** The Secretary, in carrying out the provisions of this section, shall establish regulations providing for—
+
+(1) an initial determination of the job seeker’s ability to be employed at certain types and duration of work, so that such individual may be appropriately referred to jobs, training, counseling, and other supportive services;
+
+(2) compliance with the nondiscrimination provisions of this chapter in accordance with [section 3151 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3151);
+
+(3) appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) of this section as may be authorized by law including but not necessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold a job subject to reference under subsection (b) paragraph (2) of this section, in order to seek a reservoir project job under subsection (c) of this section; and
+
+(4) such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.
+
+### Statutory Notes
+
+#### References in Text
+For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+
+The Job Training Partnership Act, referred to in subsec. (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§ 1501 et seq.) of Title 29, Labor, prior to repeal by Pub. L. 105–220, title I, § 199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. For complete classification of this Act to the Code, see Tables.
+
+The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§ 2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 9201 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9201&num=0&edition=prelim), Education, and Tables.
+
+#### Amendments
+1998—Subsec. (b). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(A)], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)]. See below.
+
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(I)], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(i)(II)], struck out “(including use of section 110 of CETA when necessary)” before semicolon at end.
+
+Subsec. (c)(1). Pub. L. 105–277, § 101(f) [title VIII, § 405(f)(10)(B)], struck out “activities carried out under the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
+
+Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(12)(A)(ii)], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
+
+#### Effective Date of 1998 Amendment
+Amendment by section 101(f) [title VIII, § 405(d)(12)(A)] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) [title VIII, § 405(f)(10)] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) [title VIII, § 405(g)(1), (2)(B)] of Pub. L. 105–277, set out as a note under [section 3502 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3502&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-3133"></a>
+## § 3133. Capital formation
+**(a) Congressional findings** The Congress finds that—
+
+(1) promotion of full employment and balanced growth is in itself a principal avenue to high and sustained rates of capital formation;
+
+(2) high rates of capital formation are necessary to ensure adequate rates of capacity expansion and productivity growth, compliance with governmental health, safety and environmental standards, and the replacement of obsolete production equipment;
+
+(3) the ability of our economy to compete successfully in international markets, the development of new technology, improved working conditions, expanding job opportunities, and an increasing standard of living depend on the availability of adequate capital at reasonable cost to commerce and industry;
+
+(4) an important goal of national policy shall be to remove obstacles to the free flow of resources into new investment, particularly those obstacles that hinder the creation and growth of smaller businesses because general national programs and policies to aid and stimulate private enterprise are not sufficient to deal with the special problems and needs of smaller businesses; and
+
+(5) while private business firms are, and should continue to be, the major source of investment, the investment activities of the Federal, State, and local governments play an important role in affecting the level of output, employment, and productivity and in achieving other national purposes.
+
+**(b) Investment Policy Report; recommendations in President’s Budget; referral to Joint Economic Committee** The Economic Report shall include an Investment Policy Report which shall, as appropriate, (1) review and assess existing Federal Government programs and policies which affect business investment decisions, including, but not limited to, the relevant aspects of the tax code, Federal expenditure policy, Federal regulatory policy, international trade policy, and Federal support for research, development, and diffusion of new technologies; (2) provide an assessment of the levels of investment capital available, required by, and applied to small, medium and large business entities; (3) provide an analysis of current foreseeable trends in the level of investment capital available to such entities; and (4) provide a description of programs and proposals for carrying out the policy set forth in [section 1021(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1021/i&num=0&edition=prelim). In addition, the Economic Report shall include an assessment of the effect of the overall economic policy environment and the rate of inflation on business investment. The President shall recommend in the President’s Budget, as appropriate, new programs or modifications to improve existing programs concerned with private capital formation. The President shall also transmit to the Congress as part of the President’s Budget such other recommendations as the President may deem necessary or desirable to achieve the policy as set forth in [section 1021(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1021/i&num=0&edition=prelim). The Investment Policy Report, when transmitted to the Congress, shall be referred to the Joint Economic Committee.
+
+**(c) Review in Economic Report of Federal policies and programs which affect public investments; recommendations respecting new policies or programs** The Economic Report referred to in subsection (b) of this section shall review and assess Federal policies and programs which directly, or through grants-in-aid to State and local governments, or indirectly through other means, affect the adequacy, composition and effectiveness of public investments, as a means of achieving the goals of this chapter and the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.]. The President shall recommend, as appropriate, new programs and policies or modifications to improve existing Federal programs affecting public investment.
+
+### Statutory Notes
+
+#### References in Text
+The tax code, referred to in subsec. (b)(1), means Title 26, Internal Revenue Code.
+
+[Section 1021(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1021/i&num=0&edition=prelim), referred to in subsec. (b), was in the original “section 102(i)” probably meaning section 102 of Pub. L. 95–523 which amended section 2 of the Employment Act of 1946, classified to [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021). Subsec. (i) of [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) sets out the congressional declaration of policy for private enterprise investments.
+
+For definition of “this chapter”, referred to in subsec. (c), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+The Employment Act of 1946, referred to in subsec. (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+
+
+<a id="section-3151"></a>
+## § 3151. Congressional statement of purpose
+**(a) Establishment of procedures for review and action** The purposes of this subchapter are to establish procedures for congressional review and action with respect to the Economic Report of the President (hereafter in this subchapter referred to as the “Economic Report”), the report of the Board of Governors of the Federal Reserve System, and the other policies and provisions of this chapter and the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.].
+
+**(b) Legislative action** The Congress shall initiate or develop such legislation as it deems necessary to implement proposals and objectives pursuant to this chapter and the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.] after such modification in such proposals as it deems desirable. Nothing in this subchapter shall be construed to prevent the Congress or any of its committees from considering or initiating at any time legislative action in furtherance of the goals and purposes of this chapter.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1904, which enacted this subchapter and amended sections 632 and 636 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+
+For definition of “this chapter”, referred to in text, see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
+
+The Employment Act of 1946, referred to in subsecs. (a) and (b), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+
+
+<a id="section-3152"></a>
+## § 3152. Committee review
+**(a) Short-term and medium-term goals** In conjunction with its review of the Economic Report, and the holding of hearings on the Economic Report under the Employment Act of 1946 [[15 U.S.C. 1021](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) et seq.], the Joint Economic Committee shall review and analyze the short-term and medium-term goals set forth in the Economic Report pursuant to section 3(a)(2) and 4(b) of the Employment Act of 1946 [[15 U.S.C. 1022(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022/a/2&num=0&edition=prelim), 1022a(b)].
+
+**(b) Hearings** The Joint Economic Committee shall hold hearings on the Economic Report for the purpose of receiving testimony from Members of the Congress, and such appropriate representatives of Federal departments and agencies, the general public, and interested groups as the joint committee deems advisable. The joint committee shall also consider the comments and views on the Economic Report which are received from State and local officials.
+
+**(c) Report of standing and joint committees and committees with legislative jurisdiction** Within thirty days after receipt by the Congress of the Economic Report, each standing committee of the Senate and the House of Representatives, each other committee of the Senate and the House of Representatives which has legislative jurisdiction, and each joint committee of the Congress may submit to the Joint Economic Committee, for use by the Joint Economic Committee in conducting its review and analysis under subsection (a) of this section, a report containing the views and recommendations of the submitting committee with respect to aspects of the Economic Report which relate to its jurisdiction.
+
+**(d) Report of Joint Economic Committee** On or before March 15 of each year, a majority of the members of the Joint Economic Committee shall submit a report to the Committees on the Budget of the Senate and the House of Representatives. Such report shall include findings, recommendations, and any appropriate analyses with respect and in direct comparison to each of the short-term and medium-term goals set forth in the Economic Report.
+
+### Statutory Notes
+
+#### References in Text
+The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.

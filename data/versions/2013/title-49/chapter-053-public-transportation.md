@@ -1,0 +1,7593 @@
+---
+title: 49
+chapter: '53'
+heading: PUBLIC TRANSPORTATION
+section_count: 39
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
+---
+<a id="section-5301"></a>
+## § 5301. Policies and purposes
+**(a) Declaration of Policy.—** It is in the interest of the United States, including the economic interest of the United States, to foster the development and revitalization of public transportation systems with the cooperation of both public transportation companies and private companies engaged in public transportation.
+
+**(b) General Purposes.—** The purposes of this chapter are to—
+
+(1) provide funding to support public transportation;
+
+(2) improve the development and delivery of capital projects;
+
+(3) establish standards for the state of good repair of public transportation infrastructure and vehicles;
+
+(4) promote continuing, cooperative, and comprehensive planning that improves the performance of the transportation network;
+
+(5) establish a technical assistance program to assist recipients under this chapter to more effectively and efficiently provide public transportation service;
+
+(6) continue Federal support for public transportation providers to deliver high quality service to all users, including individuals with disabilities, seniors, and individuals who depend on public transportation;
+
+(7) support research, development, demonstration, and deployment projects dedicated to assisting in the delivery of efficient and effective public transportation service; and
+
+(8) promote the development of the public transportation workforce.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5301(a) | 49 App.:1607(a) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(a) (1st sentence); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2098. |
+| 5301(b) | 49 App.:1601(a). | July 9, 1964, Pub. L. 88–365, § 2, 78 Stat. 302; Dec. 18, 1991, Pub. L. 102–240, § 3005, 105 Stat. 2088. |
+|  | 49 App.:1601b. | Nov. 26, 1974, Pub. L. 93–503, § 2, 88 Stat. 1566. |
+| 5301(c) | 49 App.:1601a (1st sentence). | Oct. 15, 1970, Pub. L. 91–453, § 1, 84 Stat. 962. |
+| 5301(d) | 49 App.:1612(a). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 16(a); added Oct. 15, 1970, Pub. L. 91–453, § 8, 84 Stat. 967; Dec. 18, 1991, Pub. L. 102–240, § 3021(1), 105 Stat. 2110. |
+| 5301(e) | 49 App.:1610(a) (1st sentence). | July 9, 1964, Pub. L. 88–365, § 14(a) (1st sentence), 78 Stat. 308; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; restated Oct. 15, 1970, Pub. L. 91–453, § 6, 84 Stat. 966. |
+| 5301(f) | 49 App.:1601(b). |  |
+|  | 49 App.:1601a (last sentence). |  |
+
+In subsection (b)(1), the words “the predominant part” in 49 App.:1601(a)(1) and “lives in urban areas” in 49 App.:1601b(1) are omitted because of the restatement. The words “metropolitan and other” in 49 App.:1601(a)(1) are omitted as surplus.
+
+In subsection (b)(2), the words “housing, urban renewal, highway, and other”, “being”, “the . . . provision of”, and “transportation and other” in 49 App.:1601(a)(2) are omitted as surplus.
+
+In subsection (b)(4), the words “the early 1970’s” are substituted for “recent years” in 49 App.:1601b(4), and the words “minimal mass transportation service” are substituted for “this essential public service”, for clarity.
+
+In subsection (b)(5), the word “particularly” in 49 App.:1601b(5) is omitted as surplus.
+
+In subsection (b)(6), the words “were . . . in the early 1970’s” are substituted for “now” in 49 App.:1601b(6) for clarity. The words “engaged in”, “actually”, and “comprehensive” in 49 App.:1601b(6) are omitted as surplus.
+
+In subsection (b)(9), the word “many” in 49 App.:1601(b)(7) is omitted as surplus.
+
+In subsection (c), the text of 49 App.:1601a (1st sentence words after semicolon) is omitted as executed.
+
+In subsections (d) and (e), the words “hereby declared to be” are omitted as surplus.
+
+In subsection (d), the words “to ensure that mass transportation can be used by elderly individuals and individuals with disabilities” are substituted for “in the planning and design of mass transportation facilities and services so that the availability to elderly persons and persons with disabilities of mass transportation which they can effectively utilize will be assured” to eliminate unnecessary words. The words “the field of” and “(including the programs under this chapter) . . . contain provisions” are omitted as surplus.
+
+In subsection (e), the words “carrying out” are substituted for “construction of”, and the word “capital” is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added for clarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
+
+In subsection (f)(5), the words “local” and “to exercise the initiative necessary” are omitted as surplus.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to policies, findings, and purposes.
+
+2005—Subsec. (a). Pub. L. 109–59, § 3003(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “It is in the interest of the United States to encourage and promote the development of transportation systems that embrace various modes of transportation and efficiently maximize mobility of individuals and goods in and through urbanized areas and minimize transportation-related fuel consumption and air pollution.”
+
+Subsec. (b)(1). Pub. L. 109–59, § 3003(b), substituted “two-thirds” for “70 percent” and “urbanized areas” for “urban areas”.
+
+Subsecs. (b)(4), (6) to (9), (d). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+Subsec. (e). Pub. L. 109–59, § 3003(c), substituted “a” for “an urban” and struck out “under sections 5309 and 5310 of this title” before period at end.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (f)(1). Pub. L. 109–59, § 3003(d)(1), substituted “public transportation equipment” for “mass transportation equipment” and “both public transportation companies and private companies engaged in public transportation” for “public and private mass transportation companies”.
+
+Subsec. (f)(2). Pub. L. 109–59, § 3003(d)(2), substituted “public transportation systems” for “urban mass transportation systems” and “both public transportation companies and private companies engaged in public transportation” for “public and private mass transportation companies”.
+
+Subsec. (f)(3). Pub. L. 109–59, § 3003(d)(3), substituted “public transportation systems” for “urban mass transportation systems” and “public transportation companies or private companies engaged in public transportation” for “public or private mass transportation companies”.
+
+Subsec. (f)(5). Pub. L. 109–59, § 3003(d)(4), substituted “public” for “urban mass”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Contracting Out Study
+Pub. L. 105–178, title III, § 3032, June 9, 1998, 112 Stat. 385, as amended by Pub. L. 105–206, title IX, § 9009(v), July 22, 1998, 112 Stat. 861, provided that a study of the effect of contracting out mass transportation operation and administrative functions was to be arranged between the Secretary of Transportation and the Transportation Research Board of the National Academy of Sciences no later than 6 months after June 9, 1998, and made available funds for fiscal year 1999.
+
+#### Commute-to-Work Benefits
+Pub. L. 102–240, title VIII, § 8004, Dec. 18, 1991, 105 Stat. 2206, provided that: “(a) Findings.—The Congress finds that—“(1) current Federal policy places commuter transit benefits at a disadvantage compared to drive-to-work benefits; “(2) this Federal policy is inconsistent with important national policy objectives, including the need to conserve energy, reduce reliance on energy imports, lessen congestion, and clean our Nation’s air; “(3) commuter transit benefits should be part of a comprehensive solution to national transportation and air pollution problems; “(4) current Federal law allows employers to provide only up to $21 per month in employee benefits for transit or van pools; “(5) the current ‘cliff provision’, which treats an entire commuter transit benefit as taxable income if it exceeds $21 per month, unduly penalizes the most effective employer efforts to change commuter behavior; “(6) employer-provided commuter transit incentives offer many public benefits, including increased access of low-income persons to good jobs, inexpensive reduction of roadway and parking congestion, and cost-effective incentives for timely arrival at work; and “(7) legislation to provide equitable treatment of employer-provided commuter transit benefits has been introduced with bipartisan support in both the Senate and House of Representatives. “(b) Policy.—The Congress strongly supports Federal policy that promotes increased use of employer-provided commuter transit benefits. Such a policy ‘levels the playing field’ between transportation modes and is consistent with important national objectives of energy conservation, reduced reliance on energy imports, lessened congestion, and clean air.”
+
+
+<a id="section-5302"></a>
+## § 5302. Definitions
+
+Except as otherwise specifically provided, in this chapter the following definitions apply:
+
+(1) **Associated transit improvement.—** — The term “associated transit improvement” means, with respect to any project or an area to be served by a project, projects that are designed to enhance public transportation service or use and that are physically or functionally related to transit facilities. Eligible projects are—
+
+  (A) historic preservation, rehabilitation, and operation of historic public transportation buildings, structures, and facilities (including historic bus and railroad facilities) intended for use in public transportation service;
+
+  (B) bus shelters;
+
+  (C) landscaping and streetscaping, including benches, trash receptacles, and street lights;
+
+  (D) pedestrian access and walkways;
+
+  (E) bicycle access, including bicycle storage facilities and installing equipment for transporting bicycles on public transportation vehicles;
+
+  (F) signage; or
+
+  (G) enhanced access for persons with disabilities to public transportation.
+
+(2) **Bus rapid transit system.—** — The term “bus rapid transit system” means a bus transit system—
+
+  (A) in which the majority of each line operates in a separated right-of-way dedicated for public transportation use during peak periods; and
+
+  (B) that includes features that emulate the services provided by rail fixed guideway public transportation systems, including—
+
+    (i) defined stations;
+
+    (ii) traffic signal priority for public transportation vehicles;
+
+    (iii) short headway bidirectional services for a substantial part of weekdays and weekend days; and
+
+    (iv) any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate the services provided by rail fixed guideway public transportation systems.
+
+(3) **Capital project.—** — The term “capital project” means a project for—
+
+  (A) acquiring, constructing, supervising, or inspecting equipment or a facility for use in public transportation, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, transit-related intelligent transportation systems, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing;
+
+  (B) rehabilitating a bus;
+
+  (C) remanufacturing a bus;
+
+  (D) overhauling rail rolling stock;
+
+  (E) preventive maintenance;
+
+  (F) leasing equipment or a facility for use in public transportation, subject to regulations that the Secretary prescribes limiting the leasing arrangements to those that are more cost-effective than purchase or construction;
+
+  (G) a joint development improvement that—
+
+    (i) enhances economic development or incorporates private investment, such as commercial and residential development;
+
+    (ii)
+
+      (I) enhances the effectiveness of public transportation and is related physically or functionally to public transportation; or
+
+      (II) establishes new or enhanced coordination between public transportation and other transportation;
+
+    (iii) provides a fair share of revenue that will be used for public transportation;
+
+    (iv) provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means;
+
+    (v) may include—
+
+      (I) property acquisition;
+
+      (II) demolition of existing structures;
+
+      (III) site preparation;
+
+      (IV) utilities;
+
+      (V) building foundations;
+
+      (VI) walkways;
+
+      (VII) pedestrian and bicycle access to a public transportation facility;
+
+      (VIII) construction, renovation, and improvement of intercity bus and intercity rail stations and terminals;
+
+      (IX) renovation and improvement of historic transportation facilities;
+
+      (X) open space;
+
+      (XI) safety and security equipment and facilities (including lighting, surveillance, and related intelligent transportation system applications);
+
+      (XII) facilities that incorporate community services such as daycare or health care;
+
+      (XIII) a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall; and
+
+      (XIV) construction of space for commercial uses; and
+
+    (vi) does not include outfitting of commercial space (other than an intercity bus or rail station or terminal) or a part of a public facility not related to public transportation;
+
+  (H) the introduction of new technology, through innovative and improved products, into public transportation;
+
+  (I) the provision of nonfixed route paratransit transportation services in accordance with section 223 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12143](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12143&num=0&edition=prelim)), but only for grant recipients that are in compliance with applicable requirements of that Act, including both fixed route and demand responsive service, and only for amounts not to exceed 10 percent of such recipient’s annual formula apportionment under sections 5307 and 5311;
+
+  (J) establishing a debt service reserve, made up of deposits with a bondholder’s trustee, to ensure the timely payment of principal and interest on bonds issued by a grant recipient to finance an eligible project under this chapter;
+
+  (K) mobility management—
+
+    (i) consisting of short-range planning and management activities and projects for improving coordination among public transportation and other transportation service providers carried out by a recipient or subrecipient through an agreement entered into with a person, including a governmental entity, under this chapter (other than section 5309); but
+
+    (ii) excluding operating public transportation services; or
+
+  (L) associated capital maintenance, including—
+
+    (i) equipment, tires, tubes, and material, each costing at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment, tires, tubes, and material are to be used; and
+
+    (ii) reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used.
+
+(4) **Designated recipient.—** — The term “designated recipient” means—
+
+  (A) an entity designated, in accordance with the planning process under sections 5303 and 5304, by the Governor of a State, responsible local officials, and publicly owned operators of public transportation, to receive and apportion amounts under section 5336 to urbanized areas of 200,000 or more in population; or
+
+  (B) a State or regional authority, if the authority is responsible under the laws of a State for a capital project and for financing and directly providing public transportation.
+
+(5) **Disability.—** — The term “disability” has the same meaning as in section 3(1) of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim)).
+
+(6) **Emergency regulation.—** — The term “emergency regulation” means a regulation—
+
+  (A) that is effective temporarily before the expiration of the otherwise specified periods of time for public notice and comment under section 5334(c); and
+
+  (B) prescribed by the Secretary as the result of a finding that a delay in the effective date of the regulation—
+
+    (i) would injure seriously an important public interest;
+
+    (ii) would frustrate substantially legislative policy and intent; or
+
+    (iii) would damage seriously a person or class without serving an important public interest.
+
+(7) **Fixed guideway.—** — The term “fixed guideway” means a public transportation facility—
+
+  (A) using and occupying a separate right-of-way for the exclusive use of public transportation;
+
+  (B) using rail;
+
+  (C) using a fixed catenary system;
+
+  (D) for a passenger ferry system; or
+
+  (E) for a bus rapid transit system.
+
+(8) **Governor.—** — The term “Governor”—
+
+  (A) means the Governor of a State, the mayor of the District of Columbia, and the chief executive officer of a territory of the United States; and
+
+  (B) includes the designee of the Governor.
+
+(9) **Job access and reverse commute project.—**
+
+  (A) *In general.—* — The term “job access and reverse commute project” means a transportation project to finance planning, capital, and operating costs that support the development and maintenance of transportation services designed to transport welfare recipients and eligible low-income individuals to and from jobs and activities related to their employment, including transportation projects that facilitate the provision of public transportation services from urbanized areas and rural areas to suburban employment locations.
+
+  (B) *Definitions.—* — In this paragraph:
+
+    (i) *Eligible low-income individual.—* — The term “eligible low-income individual” means an individual whose family income is at or below 150 percent of the poverty line (as that term is defined in section 673(2) of the Community Service Block Grant Act ([42 U.S.C. 9902(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim)), including any revision required by that section) for a family of the size involved.
+
+    (ii) *Welfare recipient.—* — The term “welfare recipient” means an individual who has received assistance under a State or tribal program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.) at any time during the 3-year period before the date on which the applicant applies for a grant under section 5307 or 5311.
+
+(10) **Local governmental authority.—** — The term “local governmental authority” includes—
+
+  (A) a political subdivision of a State;
+
+  (B) an authority of at least 1 State or political subdivision of a State;
+
+  (C) an Indian tribe; and
+
+  (D) a public corporation, board, or commission established under the laws of a State.
+
+(11) **Low-income individual.—** — The term “low-income individual” means an individual whose family income is at or below 150 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ([42 U.S.C. 9902(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim)), including any revision required by that section, for a family of the size involved.
+
+(12) **Net project cost.—** — The term “net project cost” means the part of a project that reasonably cannot be financed from revenues.
+
+(13) **New bus model.—** — The term “new bus model” means a bus model (including a model using alternative fuel)—
+
+  (A) that has not been used in public transportation in the United States before the date of production of the model; or
+
+  (B) used in public transportation in the United States, but being produced with a major change in configuration or components.
+
+(14) **Public transportation.—** — The term “public transportation”—
+
+  (A) means regular, continuing shared-ride surface transportation services that are open to the general public or open to a segment of the general public defined by age, disability, or low income; and
+
+  (B) does not include—
+
+    (i) intercity passenger rail transportation provided by the entity described in chapter 243 (or a successor to such entity);
+
+    (ii) intercity bus service;
+
+    (iii) charter bus service;
+
+    (iv) school bus service;
+
+    (v) sightseeing service;
+
+    (vi) courtesy shuttle service for patrons of one or more specific establishments; or
+
+    (vii) intra-terminal or intra-facility shuttle services.
+
+(15) **Regulation.—** — The term “regulation” means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this chapter.
+
+(16) **Rural area.—** — The term “rural area” means an area encompassing a population of less than 50,000 people that has not been designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
+
+(17) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
+
+(18) **Senior.—** — The term “senior” means an individual who is 65 years of age or older.
+
+(19) **State.—** — The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
+
+(20) **State of good repair.—** — The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
+
+(21) **Transit.—** — The term “transit” means public transportation.
+
+(22) **Urban area.—** — The term “urban area” means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
+
+(23) **Urbanized area.—** — The term “urbanized area” means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an “urbanized area” by the Secretary of Commerce.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5302(a)(1) | 49 App.:1608(c)(1). | July 9, 1964, Pub. L. 88–365, § 12(c)(1), 78 Stat. 306; Aug. 10, 1965, Pub. L. 89–117, § 1109, 79 Stat. 507; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20, 81 Stat. 25; Aug. 1, 1968, Pub. L. 90–448, § 702, 82 Stat. 535; restated Nov. 6, 1978, Pub. L. 95–599, § 308(b), 92 Stat. 2746; Jan. 6, 1983, Pub. L. 97–424, § 309(a), 96 Stat. 2151; Apr. 2, 1987, Pub. L. 100–17, § 309(a), 101 Stat. 227. |
+|  | 49 App.:1608(c)(7), (8). | July 9, 1964, Pub. L. 88–365, § 12(c)(3)–(9), 78 Stat. 306; Aug. 10, 1965, Pub. L. 89–117, § 1109, 79 Stat. 507; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20, 81 Stat. 25; Aug. 1, 1968, Pub. L. 90–448, § 702, 82 Stat. 535; restated Nov. 6, 1978, Pub. L. 95–599, § 308(b), 92 Stat. 2746; Dec. 18, 1991, Pub. L. 102–240, § 3016, 105 Stat. 2108. |
+| 5302(a)(2) | 49 App.:1608(c)(3). |  |
+| 5302(a)(3) | 49 App.:1608(c)(13). | July 9, 1965, Pub. L. 88–365, 78 Stat. 302, § 12(c)(12), (13); added Apr. 2, 1987, Pub. L. 100–17, § 318(b)(3), 101 Stat. 234. |
+| 5302(a)(4) | 49 App.:1608(c)(2). | July 9, 1964, Pub. L. 88–365, § 12(c)(2), 78 Stat. 306; Aug. 10, 1965, Pub. L. 89–117, § 1109, 79 Stat. 507; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20, 81 Stat. 25; Aug. 1, 1968, Pub. L. 90–448, § 702, 82 Stat. 535; restated Nov. 6, 1978, Pub. L. 95–599, § 308(b), 92 Stat. 2746; Jan. 6, 1983, Pub. L. 97–424, § 309(b), 96 Stat. 2151. |
+| 5302(a)(5) | 49 App.:1608(c)(4) (1st sentence). |  |
+| 5302(a)(6) | 49 App.:1608(c)(5). |  |
+| 5302(a)(7) | 49 App.:1608(c)(6). |  |
+| 5302(a)(8) | (no source). |  |
+| 5302(a)(9) | 49 App.:1608(h)(2). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(h)(2); added Apr. 2, 1987, Pub. L. 100–17, § 317(a), 101 Stat. 233; Dec. 18, 1991, Pub. L. 102–240, § 6021(a), 105 Stat. 2184. |
+|  | 49 App.:1608 (note). | Apr. 2, 1988, Pub. L. 100–17, § 317(b)(4), 101 Stat. 233. |
+| 5302(a)(10) | 49 App.:1608(c)(12). |  |
+| 5302(a)(11) | 49 App.:1608(c)(9). |  |
+| 5302(a)(12) | 49 App.:1608(c)(10). | July 9, 1964, Pub. L. 88–365, § 12(c)(10), (11), 78 Stat. 306; Aug. 10, 1965, Pub. L. 89–117, § 1109, 79 Stat. 507; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20, 81 Stat. 25; Aug. 1, 1968, Pub. L. 90–448, § 702, 82 Stat. 535; restated Nov. 6, 1978, Pub. L. 95–599, § 308(b), 92 Stat. 2746; Apr. 2, 1987, Pub. L. 100–17, § 318(b)(1), (2), 101 Stat. 234. |
+| 5302(a)(13) | 49 App.:1608(c)(11). |  |
+| 5302(b) | 49 App.:1608(c)(4) (last sentence). |  |
+
+In this chapter, the words “local governmental authority” are substituted for “local public body” for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (a), before clause (1), the text of 49 App.:1608(c)(7) is omitted as surplus. The text of 49 App.:1608(c)(8) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section. In clause (1), before subclause (A), the words “capital project” are substituted for “construction” for clarity. In subclause (A), the words “actual”, “all”, and “reconstruction” are omitted as surplus. In subclause (D), the words “(whether or not such overhaul increases the useful life of the rolling stock)” are omitted as surplus. In clause (2), the words “for each of the jurisdictions included in the definition of ‘State’ ” are omitted as surplus. In clauses (3) and (10), the word “regulation” is substituted for “rule” for consistency in the revised title and with other titles of the Code and because the terms are synonymous. In clause (3)(B)(iii), the words “of persons” are omitted as surplus. In clauses (4) and (5), the word “mass” is substituted for “public” because of the restatement. In clause (4)(A), the words “including, but not limited to, fixed rail, automated guideway transit, and exclusive facilities for buses” are omitted as surplus. In clause (6)(A), the words “municipalities and other” are omitted as surplus. In clause (6)(B), the word “authority” is substituted for “public agencies and instrumentalities” for consistency in the revised title and with other titles of the Code. The word “municipalities” is omitted as surplus. In clause (7), the words “bus, or rail, or other”, “either publicly or privately owned”, and “on a . . . basis” are omitted as surplus. Clause (8) is added for clarity because the term “net project cost” has the same meaning throughout this chapter. In clause (11), the words “the Commonwealths of” are omitted as surplus. In clause (12), the word “individuals” is substituted for “commuters or others” to eliminate unnecessary words. In clause (13)(A), the words “in the case of any such area” and “entire” are omitted as surplus. The words “Secretary of Commerce” are substituted for “Bureau of the Census” because of 15:1511(e). In clause (13)(B), the words “so designated by the Bureau of Census”, “which shall be”, “responsible”, and “in cooperation with each other” are omitted as surplus.
+
+Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 49 App.:1607a(e)(1), restated as section 5307(n)(2) of the revised title.
+
+#### References in Text
+The Americans with Disabilities Act of 1990, referred to in par. (3)(I), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+
+The Social Security Act, referred to in par. (9)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally, substituting pars. (1) to (23) for former provisions consisting of subsecs. (a) and (b).
+
+2008—Subsec. (a)(10). Pub. L. 110–244 substituted “charter, sightseeing,” for “charter,”.
+
+2005—Subsec. (a). Pub. L. 109–59, § 3004(a), substituted “Except as otherwise specifically provided, in this chapter” for “In this chapter” in introductory provisions.
+
+Subsec. (a)(1)(A), (F). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (a)(1)(G). Pub. L. 109–59, § 3004(b)(1), inserted “construction, renovation, and improvement of intercity bus and intercity rail stations and terminals,” after “public transportation facility,” in introductory provisions.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing in introductory provisions.
+
+Subsec. (a)(1)(G)(ii). Pub. L. 109–59, § 3004(b)(2), inserted “(other than an intercity bus station or terminal)” after “commercial revenue-producing facility”.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (a)(1)(H). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (a)(1)(J) to (L). Pub. L. 109–59, § 3004(b)(3)–(5), added subpars. (J) to (L).
+
+Subsec. (a)(4). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in introductory provisions and subpar. (A).
+
+Subsec. (a)(5). Pub. L. 109–59, § 3004(c), substituted “Individual with a disability” for “Handicapped individual” in heading and “individual with a disability” for “handicapped individual” in text.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+
+Subsec. (a)(7). Pub. L. 109–59, § 3004(d), amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “The term ‘mass transportation’ means transportation by a conveyance that provides regular and continuing general or special transportation to the public, but does not include school bus, charter, or sightseeing transportation.”
+
+Subsec. (a)(9). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in subpars. (A) and (B).
+
+Subsec. (a)(10). Pub. L. 109–59, § 3004(e), amended heading and text of par. (10) generally. Prior to amendment, text read as follows: “The term ‘public transportation’ means mass transportation.”
+
+Subsec. (a)(14) to (16). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+Subsec. (a)(17). Pub. L. 109–59, § 3004(f), reenacted heading without change and amended text of par. (17) generally. Prior to amendment, text read as follows: “The term ‘urbanized area’ means an area—
+
+“(A) encompassing at least an urbanized area within a State that the Secretary of Commerce designates; and
+
+“(B) designated as an urbanized area within boundaries fixed by State and local officials and approved by the Secretary.”
+
+Subsec. (b). Pub. L. 109–59, § 3004(g), substituted “Individual With a Disability” for “Handicapped Individual” in heading and “individual with a disability” for “handicapped individual” in text.
+
+1998—Pub. L. 105–178, § 3003(a), formerly § 3003, as renumbered by Pub. L. 105–206, § 9009(a)(1), amended section generally, revising and restating existing definitions and adding new pars. defining additional terms.
+
+Subsec. (a)(1)(G)(i). Pub. L. 105–178, § 3003(b), as added by Pub. L. 105–206, § 9009(a)(2), substituted “daycare or” for “daycare and”.
+
+1997—Subsec. (a)(1)(B), (C). Pub. L. 105–102 made technical correction to directory language of Pub. L. 104–50, § 333(a). See 1995 Amendment notes below.
+
+1996—Subsec. (a)(1). Pub. L. 104–287 made technical correction to directory language of Pub. L. 103–331, § 335A. See 1994 Amendment note below.
+
+1995—Subsec. (a)(1)(B). Pub. L. 104–50, § 333(a)(1), as amended by Pub. L. 105–102, § 3(a)(1), struck out “that extends the economic life of a bus for at least 5 years” after “rehabilitating a bus”.
+
+Subsec. (a)(1)(C). Pub. L. 104–50, § 333(a)(2), as amended by Pub. L. 105–102, § 3(a)(2), struck out “that extends the economic life of a bus for at least 8 years” after “remanufacturing a bus”.
+
+1994—Subsec. (a)(1). Pub. L. 103–331, § 335A, as amended by Pub. L. 104–287, inserted “payments for the capital portions of rail trackage rights agreements,” after “rights of way),”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1997 Amendment
+Pub. L. 105–102, § 3(a), Nov. 20, 1997, 111 Stat. 2214, provided that the amendment made by section 3(a) is effective Nov. 15, 1995.
+
+Amendment by Pub. L. 105–102 effective as if included in the provisions of the Act to which the amendment relates, see section 3(f) of Pub. L. 105–102, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
+
+#### Effective Date of 1996 Amendment
+Pub. L. 104–287, § 6(c), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective Sept. 30, 1994.
+
+#### Effective Date of 1995 Amendment
+Pub. L. 104–50, title III, § 333(b), Nov. 15, 1995, 109 Stat. 457, provided that: “The amendments made by this section [amending this section] shall not take effect before March 31, 1996.”
+
+
+<a id="section-5303"></a>
+## § 5303. Metropolitan transportation planning
+**(a) Policy.—** It is in the national interest—
+
+(1) to encourage and promote the safe and efficient management, operation, and development of surface transportation systems that will serve the mobility needs of people and freight and foster economic growth and development within and between States and urbanized areas, while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
+
+(2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 5304(d).
+
+**(b) Definitions.—** In this section and section 5304, the following definitions apply:
+
+(1) **Metropolitan planning area.—** — The term “metropolitan planning area” means the geographic area determined by agreement between the metropolitan planning organization for the area and the Governor under subsection (e).
+
+(2) **Metropolitan planning organization.—** — The term “metropolitan planning organization” means the policy board of an organization established as a result of the designation process under subsection (d).
+
+(3) **Nonmetropolitan area.—** — The term “nonmetropolitan area” means a geographic area outside designated metropolitan planning areas.
+
+(4) **Nonmetropolitan local official.—** — The term “nonmetropolitan local official” means elected and appointed officials of general purpose local government in a nonmetropolitan area with responsibility for transportation.
+
+(5) **Regional transportation planning organization.—** — The term “regional transportation planning organization” means a policy board of an organization established as the result of a designation under section 5304(l).
+
+(6) **TIP.—** — The term “TIP” means a transportation improvement program developed by a metropolitan planning organization under subsection (j).
+
+(7) **Urbanized area.—** — The term “urbanized area” means a geographic area with a population of 50,000 or more, as determined by the Bureau of the Census.
+
+**(c) General Requirements.—**
+
+(1) **Development of long-range plans and tips.—** — To accomplish the objectives in subsection (a), metropolitan planning organizations designated under subsection (d), in cooperation with the State and public transportation operators, shall develop long-range transportation plans and transportation improvement programs through a performance-driven, outcome-based approach to planning for metropolitan areas of the State.
+
+(2) **Contents.—** — The plans and TIPs for each metropolitan area shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the metropolitan planning area and as an integral part of an intermodal transportation system for the State and the United States.
+
+(3) **Process of development.—** — The process for developing the plans and TIPs shall provide for consideration of all modes of transportation and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems to be addressed.
+
+**(d) Designation of Metropolitan Planning Organizations.—**
+
+(1) **In general.—** — To carry out the transportation planning process required by this section, a metropolitan planning organization shall be designated for each urbanized area with a population of more than 50,000 individuals—
+
+  (A) by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the affected population (including the largest incorporated city (based on population) as determined by the Bureau of the Census); or
+
+  (B) in accordance with procedures established by applicable State or local law.
+
+(2) **Structure.—** — Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, each metropolitan planning organization that serves an area designated as a transportation management area shall consist of—
+
+  (A) local elected officials;
+
+  (B) officials of public agencies that administer or operate major modes of transportation in the metropolitan area, including representation by providers of public transportation; and
+
+  (C) appropriate State officials.
+
+(3) **Limitation on statutory construction.—** — Nothing in this subsection shall be construed to interfere with the authority, under any State law in effect on December 18, 1991, of a public agency with multimodal transportation responsibilities—
+
+  (A) to develop the plans and TIPs for adoption by a metropolitan planning organization; and
+
+  (B) to develop long-range capital plans, coordinate transit services and projects, and carry out other activities pursuant to State law.
+
+(4) **Continuing designation.—** — A designation of a metropolitan planning organization under this subsection or any other provision of law shall remain in effect until the metropolitan planning organization is redesignated under paragraph (5).
+
+(5) **Redesignation procedures.—**
+
+  (A) *In general.—* — A metropolitan planning organization may be redesignated by agreement between the Governor and units of general purpose local government that together represent at least 75 percent of the existing planning area population (including the largest incorporated city (based on population) as determined by the Bureau of the Census) as appropriate to carry out this section.
+
+  (B) *Restructuring.—* — A metropolitan planning organization may be restructured to meet the requirements of paragraph (2) without undertaking a redesignation.
+
+(6) **Designation of more than 1 metropolitan planning organization.—** — More than 1 metropolitan planning organization may be designated within an existing metropolitan planning area only if the Governor and the existing metropolitan planning organization determine that the size and complexity of the existing metropolitan planning area make designation of more than 1 metropolitan planning organization for the area appropriate.
+
+**(e) Metropolitan Planning Area Boundaries.—**
+
+(1) **In general.—** — For the purposes of this section, the boundaries of a metropolitan planning area shall be determined by agreement between the metropolitan planning organization and the Governor.
+
+(2) **Included area.—** — Each metropolitan planning area—
+
+  (A) shall encompass at least the existing urbanized area and the contiguous area expected to become urbanized within a 20-year forecast period for the transportation plan; and
+
+  (B) may encompass the entire metropolitan statistical area or consolidated metropolitan statistical area, as defined by the Bureau of the Census.
+
+(3) **Identification of new urbanized areas within existing planning area boundaries.—** — The designation by the Bureau of the Census of new urbanized areas within an existing metropolitan planning area shall not require the redesignation of the existing metropolitan planning organization.
+
+(4) **Existing metropolitan planning areas in nonattainment.—**
+
+  (A) *In general.—* — Notwithstanding paragraph (2), except as provided in subparagraph (B), in the case of an urbanized area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.) as of the date of enactment of the SAFETEA–LU, the boundaries of the metropolitan planning area in existence as of such date of enactment shall be retained.
+
+  (B) *Exception.—* — The boundaries described in subparagraph (A) may be adjusted by agreement of the Governor and affected metropolitan planning organizations in the manner described in subsection (d)(5).
+
+(5) **New metropolitan planning areas in nonattainment.—** — In the case of an urbanized area designated after the date of enactment of the SAFETEA–LU, as a nonattainment area for ozone or carbon monoxide, the boundaries of the metropolitan planning area—
+
+  (A) shall be established in the manner described in subsection (d)(1);
+
+  (B) shall encompass the areas described in paragraph (2)(A);
+
+  (C) may encompass the areas described in paragraph (2)(B); and
+
+  (D) may address any nonattainment area identified under the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.) for ozone or carbon monoxide.
+
+**(f) Coordination in Multistate Areas.—**
+
+(1) **In general.—** — The Secretary shall encourage each Governor with responsibility for a portion of a multistate metropolitan area and the appropriate metropolitan planning organizations to provide coordinated transportation planning for the entire metropolitan area.
+
+(2) **Interstate compacts.—** — The consent of Congress is granted to any 2 or more States—
+
+  (A) to enter into agreements or compacts, not in conflict with any law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section as the activities pertain to interstate areas and localities within the States; and
+
+  (B) to establish such agencies, joint or otherwise, as the States may determine desirable for making the agreements and compacts effective.
+
+(3) **Reservation of rights.—** — The right to alter, amend, or repeal interstate compacts entered into under this subsection is expressly reserved.
+
+**(g) MPO Consultation in Plan and TIP Coordination.—**
+
+(1) **Nonattainment areas.—** — If more than 1 metropolitan planning organization has authority within a metropolitan area or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizations designated for such area and the State in the coordination of plans and TIPs required by this section.
+
+(2) **Transportation improvements located in multiple mpos.—** — If a transportation improvement, funded under this chapter or title 23, is located within the boundaries of more than 1 metropolitan planning area, the metropolitan planning organizations shall coordinate plans and TIPs regarding the transportation improvement.
+
+(3) **Relationship with other planning officials.—**
+
+  (A) *In general.—* — The Secretary shall encourage each metropolitan planning organization to consult with officials responsible for other types of planning activities that are affected by transportation in the area (including State and local planned growth, economic development, environmental protection, airport operations, and freight movements) or to coordinate its planning process, to the maximum extent practicable, with such planning activities.
+
+  (B) *Requirements.—* — Under the metropolitan planning process, transportation plans and TIPs shall be developed with due consideration of other related planning activities within the metropolitan area, and the process shall provide for the design and delivery of transportation services within the metropolitan area that are provided by—
+
+    (i) recipients of assistance under this chapter;
+
+    (ii) governmental agencies and nonprofit organizations (including representatives of the agencies and organizations) that receive Federal assistance from a source other than the Department of Transportation to provide nonemergency transportation services; and
+
+    (iii) recipients of assistance under [section 204 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section204&num=0&edition=prelim).
+
+**(h) Scope of Planning Process.—**
+
+(1) **In general.—** — The metropolitan planning process for a metropolitan planning area under this section shall provide for consideration of projects and strategies that will—
+
+  (A) support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency;
+
+  (B) increase the safety of the transportation system for motorized and nonmotorized users;
+
+  (C) increase the security of the transportation system for motorized and nonmotorized users;
+
+  (D) increase the accessibility and mobility of people and for freight;
+
+  (E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
+
+  (F) enhance the integration and connectivity of the transportation system, across and between modes, for people and freight;
+
+  (G) promote efficient system management and operation; and
+
+  (H) emphasize the preservation of the existing transportation system.
+
+(2) **Performance-based approach.—**
+
+  (A) *In general.—* — The metropolitan transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in [section 150(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section150/b&num=0&edition=prelim) and the general purposes described in section 5301.
+
+  (B) *Performance targets.—*
+
+    (i) *Surface transportation performance targets.—*
+
+      (I) *In general.—* — Each metropolitan planning organization shall establish performance targets that address the performance measures described in [section 150(c) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section150/c&num=0&edition=prelim), where applicable, to use in tracking progress towards attainment of critical outcomes for the region of the metropolitan planning organization.
+
+      (II) *Coordination.—* — Selection of performance targets by a metropolitan planning organization shall be coordinated with the relevant State to ensure consistency, to the maximum extent practicable.
+
+    (ii) *Public transportation performance targets.—* — Selection of performance targets by a metropolitan planning organization shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
+
+  (C) *Timing.—* — Each metropolitan planning organization shall establish the performance targets under subparagraph (B) not later than 180 days after the date on which the relevant State or provider of public transportation establishes the performance targets.
+
+  (D) *Integration of other performance-based plans.—* — A metropolitan planning organization shall integrate in the metropolitan transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in other State transportation plans and transportation processes, as well as any plans developed by recipients of assistance under this chapter, required as part of a performance-based program.
+
+(3) **Failure to consider factors.—** — The failure to consider any factor specified in paragraphs (1) and (2) shall not be reviewable by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a transportation plan, a TIP, a project or strategy, or the certification of a planning process.
+
+**(i) Development of Transportation Plan.—**
+
+(1) **Requirements.—**
+
+  (A) *In general.—* — Each metropolitan planning organization shall prepare and update a transportation plan for its metropolitan planning area in accordance with the requirements of this subsection.
+
+  (B) *Frequency.—*
+
+    (i) *In general.—* — The metropolitan planning organization shall prepare and update such plan every 4 years (or more frequently, if the metropolitan planning organization elects to update more frequently) in the case of each of the following:
+
+      (I) Any area designated as nonattainment, as defined in section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7407/d&num=0&edition=prelim)).
+
+      (II) Any area that was nonattainment and subsequently designated to attainment in accordance with section 107(d)(3) of that Act ([42 U.S.C. 7407(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7407/d/3&num=0&edition=prelim)) and that is subject to a maintenance plan under section 175A of that Act ([42 U.S.C. 7505a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7505a&num=0&edition=prelim)).
+
+    (ii) *Other areas.—* — In the case of any other area required to have a transportation plan in accordance with the requirements of this subsection, the metropolitan planning organization shall prepare and update such plan every 5 years unless the metropolitan planning organization elects to update more frequently.
+
+(2) **Transportation plan.—** — A transportation plan under this section shall be in a form that the Secretary determines to be appropriate and shall contain, at a minimum, the following:
+
+  (A) *Identification of transportation facilities.—*
+
+    (i) *In general.—* — An identification of transportation facilities (including major roadways, transit, multimodal and intermodal facilities, nonmotorized transportation facilities, and intermodal connectors) that should function as an integrated metropolitan transportation system, giving emphasis to those facilities that serve important national and regional transportation functions.
+
+    (ii) *Factors.—* — In formulating the transportation plan, the metropolitan planning organization shall consider factors described in subsection (h) as the factors relate to a 20-year forecast period.
+
+  (B) *Performance measures and targets.—* — A description of the performance measures and performance targets used in assessing the performance of the transportation system in accordance with subsection (h)(2).
+
+  (C) *System performance report.—* — A system performance report and subsequent updates evaluating the condition and performance of the transportation system with respect to the performance targets described in subsection (h)(2), including—
+
+    (i) progress achieved by the metropolitan planning organization in meeting the performance targets in comparison with system performance recorded in previous reports; and
+
+    (ii) for metropolitan planning organizations that voluntarily elect to develop multiple scenarios, an analysis of how the preferred scenario has improved the conditions and performance of the transportation system and how changes in local policies and investments have impacted the costs necessary to achieve the identified performance targets.
+
+  (D) *Mitigation activities.—*
+
+    (i) *In general.—* — A long-range transportation plan shall include a discussion of types of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the plan.
+
+    (ii) *Consultation.—* — The discussion shall be developed in consultation with Federal, State, and tribal wildlife, land management, and regulatory agencies.
+
+  (E) *Financial plan.—*
+
+    (i) *In general.—* — A financial plan that—
+
+      (I) demonstrates how the adopted transportation plan can be implemented;
+
+      (II) indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan; and
+
+      (III) recommends any additional financing strategies for needed projects and programs.
+
+    (ii) *Inclusions.—* — The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
+
+    (iii) *Cooperative development.—* — For the purpose of developing the transportation plan, the metropolitan planning organization, transit operator, and State shall cooperatively develop estimates of funds that will be available to support plan implementation.
+
+  (F) *Operational and management strategies.—* — Operational and management strategies to improve the performance of existing transportation facilities to relieve vehicular congestion and maximize the safety and mobility of people and goods.
+
+  (G) *Capital investment and other strategies.—* — Capital investment and other strategies to preserve the existing and projected future metropolitan transportation infrastructure and provide for multimodal capacity increases based on regional priorities and needs.
+
+  (H) *Transportation and transit enhancement activities.—* — Proposed transportation and transit enhancement activities.
+
+(3) **Coordination with clean air act agencies.—** — In metropolitan areas that are in nonattainment for ozone or carbon monoxide under the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), the metropolitan planning organization shall coordinate the development of a transportation plan with the process for development of the transportation control measures of the State implementation plan required by that Act.
+
+(4) **Optional scenario development.—**
+
+  (A) *In general.—* — A metropolitan planning organization may, while fitting the needs and complexity of its community, voluntarily elect to develop multiple scenarios for consideration as part of the development of the metropolitan transportation plan, in accordance with subparagraph (B).
+
+  (B) *Recommended components.—* — A metropolitan planning organization that chooses to develop multiple scenarios under subparagraph (A) shall be encouraged to consider—
+
+    (i) potential regional investment strategies for the planning horizon;
+
+    (ii) assumed distribution of population and employment;
+
+    (iii) a scenario that, to the maximum extent practicable, maintains baseline conditions for the performance measures identified in subsection (h)(2);
+
+    (iv) a scenario that improves the baseline conditions for as many of the performance measures identified in subsection (h)(2) as possible;
+
+    (v) revenue constrained scenarios based on the total revenues expected to be available over the forecast period of the plan; and
+
+    (vi) estimated costs and potential revenues available to support each scenario.
+
+  (C) *Metrics.—* — In addition to the performance measures identified in [section 150(c) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section150/c&num=0&edition=prelim), metropolitan planning organizations may evaluate scenarios developed under this paragraph using locally-developed measures.
+
+(5) **Consultation.—**
+
+  (A) *In general.—* — In each metropolitan area, the metropolitan planning organization shall consult, as appropriate, with State and local agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation concerning the development of a long-range transportation plan.
+
+  (B) *Issues.—* — The consultation shall involve, as appropriate—
+
+    (i) comparison of transportation plans with State conservation plans or maps, if available; or
+
+    (ii) comparison of transportation plans to inventories of natural or historic resources, if available.
+
+(6) **Participation by interested parties.—**
+
+  (A) *In general.—* — Each metropolitan planning organization shall provide citizens, affected public agencies, representatives of public transportation employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the transportation plan.
+
+  (B) *Contents of participation plan.—* — A participation plan—
+
+    (i) shall be developed in consultation with all interested parties; and
+
+    (ii) shall provide that all interested parties have reasonable opportunities to comment on the contents of the transportation plan.
+
+  (C) *Methods.—* — In carrying out subparagraph (A), the metropolitan planning organization shall, to the maximum extent practicable—
+
+    (i) hold any public meetings at convenient and accessible locations and times;
+
+    (ii) employ visualization techniques to describe plans; and
+
+    (iii) make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
+
+(7) **Publication.—** — A transportation plan involving Federal participation shall be published or otherwise made readily available by the metropolitan planning organization for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web, approved by the metropolitan planning organization and submitted for information purposes to the Governor at such times and in such manner as the Secretary shall establish.
+
+(8) **Selection of projects from illustrative list.—** — Notwithstanding paragraph (2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(C).
+
+**(j) Metropolitan TIP.—**
+
+(1) **Development.—**
+
+  (A) *In general.—* — In cooperation with the State and any affected public transportation operator, the metropolitan planning organization designated for a metropolitan area shall develop a TIP for the metropolitan planning area that—
+
+    (i) contains projects consistent with the current metropolitan transportation plan;
+
+    (ii) reflects the investment priorities established in the current metropolitan transportation plan; and
+
+    (iii) once implemented, is designed to make progress toward achieving the performance targets established under subsection (h)(2).
+
+  (B) *Opportunity for comment.—* — In developing the TIP, the metropolitan planning organization, in cooperation with the State and any affected public transportation operator, shall provide an opportunity for participation by interested parties in the development of the program, in accordance with subsection (i)(5).
+
+  (C) *Funding estimates.—* — For the purpose of developing the TIP, the metropolitan planning organization, public transportation agency, and State shall cooperatively develop estimates of funds that are reasonably expected to be available to support program implementation.
+
+  (D) *Updating and approval.—* — The TIP shall be—
+
+    (i) updated at least once every 4 years; and
+
+    (ii) approved by the metropolitan planning organization and the Governor.
+
+(2) **Contents.—**
+
+  (A) *Priority list.—* — The TIP shall include a priority list of proposed Federally supported projects and strategies to be carried out within each 4-year period after the initial adoption of the TIP.
+
+  (B) *Financial plan.—* — The TIP shall include a financial plan that—
+
+    (i) demonstrates how the TIP can be implemented;
+
+    (ii) indicates resources from public and private sources that are reasonably expected to be available to carry out the program;
+
+    (iii) identifies innovative financing techniques to finance projects, programs, and strategies; and
+
+    (iv) may include, for illustrative purposes, additional projects that would be included in the approved TIP if reasonable additional resources beyond those identified in the financial plan were available.
+
+  (C) *Descriptions.—* — Each project in the TIP shall include sufficient descriptive material (such as type of work, termini, length, and other similar factors) to identify the project or phase of the project.
+
+  (D) *Performance target achievement.—* — The transportation improvement program shall include, to the maximum extent practicable, a description of the anticipated effect of the transportation improvement program toward achieving the performance targets established in the metropolitan transportation plan, linking investment priorities to those performance targets.
+
+(3) **Included projects.—**
+
+  (A) *Projects under this chapter and title 23.—* — A TIP developed under this subsection for a metropolitan area shall include the projects within the area that are proposed for funding under this chapter and chapter 1 of title 23.
+
+  (B) *Projects under chapter 2 of title 23.—*
+
+    (i) *Regionally significant projects.—* — Regionally significant projects proposed for funding under chapter 2 of title 23 shall be identified individually in the transportation improvement program.
+
+    (ii) *Other projects.—* — Projects proposed for funding under chapter 2 of title 23 that are not determined to be regionally significant shall be grouped in 1 line item or identified individually in the transportation improvement program.
+
+  (C) *Consistency with long-range transportation plan.—* — Each project shall be consistent with the long-range transportation plan developed under subsection (i) for the area.
+
+  (D) *Requirement of anticipated full funding.—* — The program shall include a project, or an identified phase of a project, only if full funding can reasonably be anticipated to be available for the project or the identified phase within the time period contemplated for completion of the project or the identified phase.
+
+(4) **Notice and comment.—** — Before approving a TIP, a metropolitan planning organization, in cooperation with the State and any affected public transportation operator, shall provide an opportunity for participation by interested parties in the development of the program, in accordance with subsection (i)(5).
+
+(5) **Selection of projects.—**
+
+  (A) *In general.—* — Except as otherwise provided in subsection (k)(4) and in addition to the TIP development required under paragraph (1), the selection of Federally funded projects in metropolitan areas shall be carried out, from the approved TIP—
+
+    (i) by—
+
+      (I) in the case of projects under title 23, the State; and
+
+      (II) in the case of projects under this chapter, the designated recipients of public transportation funding; and
+
+    (ii) in cooperation with the metropolitan planning organization.
+
+  (B) *Modifications to project priority.—* — Notwithstanding any other provision of law, action by the Secretary shall not be required to advance a project included in the approved TIP in place of another project in the program.
+
+(6) **Selection of projects from illustrative list.—**
+
+  (A) *No required selection.—* — Notwithstanding paragraph (2)(B)(iv), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv).
+
+  (B) *Required action by the secretary.—* — Action by the Secretary shall be required for a State or metropolitan planning organization to select any project from the illustrative list of additional projects included in the financial plan under paragraph (2)(B)(iv) for inclusion in an approved TIP.
+
+(7) **Publication.—**
+
+  (A) *Publication of tips.—* — A TIP involving Federal participation shall be published or otherwise made readily available by the metropolitan planning organization for public review.
+
+  (B) *Publication of annual listings of projects.—*
+
+    (i) *In general.—* — An annual listing of projects, including investments in pedestrian walkways and bicycle transportation facilities, for which Federal funds have been obligated in the preceding year shall be published or otherwise made available by the cooperative effort of the State, transit operator, and metropolitan planning organization for public review.
+
+    (ii) *Requirement.—* — The listing shall be consistent with the categories identified in the TIP.
+
+**(k) Transportation Management Areas.—**
+
+(1) **Identification and designation.—**
+
+  (A) *Required identification.—* — The Secretary shall identify as a transportation management area each urbanized area (as defined by the Bureau of the Census) with a population of over 200,000 individuals.
+
+  (B) *Designations on request.—* — The Secretary shall designate any additional area as a transportation management area on the request of the Governor and the metropolitan planning organization designated for the area.
+
+(2) **Transportation plans.—** — In a transportation management area, transportation plans shall be based on a continuing and comprehensive transportation planning process carried out by the metropolitan planning organization in cooperation with the State and public transportation operators.
+
+(3) **Congestion management process.—**
+
+  (A) *In general.—* — Within a metropolitan planning area serving a transportation management area, the transportation planning process under this section shall address congestion management through a process that provides for effective management and operation, based on a cooperatively developed and implemented metropolitan-wide strategy, of new and existing transportation facilities eligible for funding under this chapter and title 23 through the use of travel demand reduction and operational management strategies.
+
+  (B) *Schedule.—* — The Secretary shall establish an appropriate phase-in schedule for compliance with the requirements of this section but no sooner than 1 year after the identification of a transportation management area.
+
+(4) **Selection of projects.—**
+
+  (A) *In general.—* — All Federally funded projects carried out within the boundaries of a metropolitan planning area serving a transportation management area under title 23 (excluding projects carried out on the National Highway System) or under this chapter shall be selected for implementation from the approved TIP by the metropolitan planning organization designated for the area in consultation with the State and any affected public transportation operator.
+
+  (B) *National highway system projects.—* — Projects carried out within the boundaries of a metropolitan planning area serving a transportation management area on the National Highway System shall be selected for implementation from the approved TIP by the State in cooperation with the metropolitan planning organization designated for the area.
+
+(5) **Certification.—**
+
+  (A) *In general.—* — The Secretary shall—
+
+    (i) ensure that the metropolitan planning process of a metropolitan planning organization serving a transportation management area is being carried out in accordance with applicable provisions of Federal law; and
+
+    (ii) subject to subparagraph (B), certify, not less often than once every 4 years, that the requirements of this paragraph are met with respect to the metropolitan planning process.
+
+  (B) *Requirements for certification.—* — The Secretary may make the certification under subparagraph (A) if—
+
+    (i) the transportation planning process complies with the requirements of this section and other applicable requirements of Federal law; and
+
+    (ii) there is a TIP for the metropolitan planning area that has been approved by the metropolitan planning organization and the Governor.
+
+  (C) *Effect of failure to certify.—*
+
+    (i) *Withholding of project funds.—* — If a metropolitan planning process of a metropolitan planning organization serving a transportation management area is not certified, the Secretary may withhold up to 20 percent of the funds attributable to the metropolitan planning area of the metropolitan planning organization for projects funded under this chapter and title 23.
+
+    (ii) *Restoration of withheld funds.—* — The withheld funds shall be restored to the metropolitan planning area at such time as the metropolitan planning process is certified by the Secretary.
+
+  (D) *Review of certification.—* — In making certification determinations under this paragraph, the Secretary shall provide for public involvement appropriate to the metropolitan area under review.
+
+**(l) Report on Performance-based Planning Processes.—**
+
+(1) **In general.—** — The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection 11 So in original. Probably should be followed by a period.
+
+(2) **Report.—** — Not later than 5 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit to Congress a report evaluating—
+
+  (A) the overall effectiveness of performance-based planning as a tool for guiding transportation investments;
+
+  (B) the effectiveness of the performance-based planning process of each metropolitan planning organization under this section;
+
+  (C) the extent to which metropolitan planning organizations have achieved, or are currently making substantial progress toward achieving, the performance targets specified under this section and whether metropolitan planning organizations are developing meaningful performance targets; and
+
+  (D) the technical capacity of metropolitan planning organizations that operate within a metropolitan planning area of less than 200,000 and their ability to carry out the requirements of this section.
+
+(3) **Publication.—** — The report under paragraph (2) shall be published or otherwise made available in electronically accessible formats and means, including on the Internet.
+
+**(m) Abbreviated Plans for Certain Areas.—**
+
+(1) **In general.—** — Subject to paragraph (2), in the case of a metropolitan area not designated as a transportation management area under this section, the Secretary may provide for the development of an abbreviated transportation plan and TIP for the metropolitan planning area that the Secretary determines is appropriate to achieve the purposes of this section, taking into account the complexity of transportation problems in the area.
+
+(2) **Nonattainment areas.—** — The Secretary may not permit abbreviated plans or TIPs for a metropolitan area that is in nonattainment for ozone or carbon monoxide under the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.).
+
+**(n) Additional Requirements for Certain Nonattainment Areas.—**
+
+(1) **In general.—** — Notwithstanding any other provisions of this chapter or title 23, for transportation management areas classified as nonattainment for ozone or carbon monoxide pursuant to the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), Federal funds may not be advanced in such area for any highway project that will result in a significant increase in the carrying capacity for single-occupant vehicles unless the project is addressed through a congestion management process.
+
+(2) **Applicability.—** — This subsection applies to a nonattainment area within the metropolitan planning area boundaries determined under subsection (e).
+
+**(o) Limitation on Statutory Construction.—** Nothing in this section shall be construed to confer on a metropolitan planning organization the authority to impose legal requirements on any transportation facility, provider, or project not eligible under this chapter or title 23.
+
+**(p) Funding.—** Funds set aside under [section 104(f) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section104/f&num=0&edition=prelim) or section 5305(g) shall be available to carry out this section.
+
+**(q) Continuation of Current Review Practice.—** Since plans and TIPs described in this section are subject to a reasonable opportunity for public comment, since individual projects included in plans and TIPs are subject to review under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), and since decisions by the Secretary concerning plans and TIPs described in this section have not been reviewed under that Act as of January 1, 1997, any decision by the Secretary concerning a plan or TIP described in this section shall not be considered to be a Federal action subject to review under that Act.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5303(a) | 49 App.:1607(a) (2d–last sentences). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(a) (2d–last sentences)–(g), (n); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2098, 2104. |
+| 5303(b) | 49 App.:1607(f). |  |
+| 5303(c)(1) | 49 App.:1607(b)(1). |  |
+| 5303(c)(2) | 49 App.:1607(b)(2). |  |
+| 5303(c)(3) | 49 App.:1607(b)(6). |  |
+| 5303(c)(4) | 49 App.:1607(b)(4). |  |
+| 5303(c)(5) | 49 App.:1607(b)(5). |  |
+| 5303(c)(6) | 49 App.:1607(b)(3). |  |
+| 5303(d) | 49 App.:1607(c). |  |
+| 5303(e) | 49 App.:1607(d), (e). |  |
+| 5303(f) | 49 App.:1607(g). |  |
+| 5303(g) | 49 App.:1607(n). |  |
+| 5303(h) | 49 App.:1607(p). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(p); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2105; Oct. 6, 1992, Pub. L. 102–388, § 502(h), 106 Stat. 1566. |
+
+In this section, the word “together” is omitted as surplus. The words “Secretary of Commerce” are substituted for “Bureau of the Census” because of 15:1511(e).
+
+In subsection (b)(2), the word “applicable” is omitted as surplus.
+
+In subsection (b)(3), the words “where it does not yet occur” are omitted as surplus.
+
+In subsection (b)(4), the words “the provisions of all applicable” are omitted as surplus.
+
+In subsection (c)(4), before clause (A), the words “whether made under this section or other provisions of law” are omitted as surplus.
+
+In subsection (d), the word “entire” is omitted as surplus.
+
+In subsection (e)(2), the words “or compacts” and “joint or otherwise” are omitted as surplus.
+
+In subsection (f)(3), the word “area” is added for clarity and consistency with 42:7501(2).
+
+In subsection (f)(5)(A), the words “published or otherwise” are omitted as surplus.
+
+In subsection (g), before clause (1), the words “local governmental authorities” are substituted for “local public bodies”, and the words “departments, agencies, and instrumentalities of the Government” are substituted for “Federal departments and agencies”, for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (h)(6)(A), the words “for obligation”, “a period of”, and “the close of” are omitted as surplus.
+
+#### Pub. L. 104–287
+This amends 49:5303(f)(2) and (h)(4) to correct erroneous cross-references.
+
+#### Pub. L. 105–102, § 2(4)(A)
+This amends 49:5303(c)(1) to correct an erroneous cross-reference.
+
+#### Pub. L. 105–102, § 2(4)(B)
+This amends 49:5303(c)(4)(A) to correct an erroneous cross-reference.
+
+#### Pub. L. 105–102, § 2(4)(C)
+This amends 49:5303(c)(5)(A) to correct an erroneous cross-reference.
+
+#### References in Text
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (d)(2) and (l)(2), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+The Clean Air Act, referred to in subsecs. (e)(4)(A), (5)(D), (g)(1), (i)(3), (m)(2), and (n)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+
+The date of enactment of the SAFETEA-LU, referred to in subsec. (e)(4)(A), (5), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (q), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally substituting provisions consisting of subsecs. (a) to (q) for former provisions consisting of subsecs. (a) to (p).
+
+2008—Subsec. (f)(3)(C)(ii)(II). Pub. L. 110–244, § 201(b)(1), added subcl. (II) and struck out former subcl. (II). Prior to amendment, text read as follows: “In addition to funds made available to the metropolitan planning organization for the Lake Tahoe region under other provisions of this chapter and title 23, 1 percent of the funds allocated under [section 202 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section202&num=0&edition=prelim) shall be used to carry out the transportation planning process for the Lake Tahoe region under this subparagraph.”
+
+Subsec. (j)(3)(D). Pub. L. 110–244, § 201(b)(2), inserted “or the identified phase” after “the project” in two places.
+
+Subsec. (k)(2). Pub. L. 110–244, § 201(b)(3), struck out “a metropolitan planning area serving” before “a transportation management area,”.
+
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of a metropolitan planning organization for each urbanized area with a population of more than 50,000, general requirements, scope of planning process, boundaries of each area, coordination in multistate areas, development of long-range transportation plans, grants for studies and evaluations, and apportionment of funds.
+
+1998—Subsecs. (a), (b). Pub. L. 105–178, § 3004(a), added subsecs. (a) and (b) and struck out headings and text of former subsecs. (a) and (b) which related to development requirements and plan and program factors, respectively.
+
+Subsec. (c)(1)(A). Pub. L. 105–178, § 3004(b)(1)(B), substituted “or cities, as defined by the Bureau of the Census)” for “as defined by the Secretary of Commerce)”.
+
+Pub. L. 105–178, § 3004(b)(1)(A), as amended by Pub. L. 105–206, § 9009(b)(1)(A), substituted “general purpose local government that together represent” for “general local government representing”.
+
+Subsec. (c)(2). Pub. L. 105–178, § 3004(b)(2), substituted “Each policy board of a metropolitan planning organization that serves an area designated as a transportation management area when designated or redesignated under this subsection shall consist of” for “In a metropolitan area designated as a transportation management area, the designated metropolitan planning organization, if redesignated after December 18, 1991, shall include” and “officials of public agencies” for “officials of authorities”.
+
+Subsec. (c)(3). Pub. L. 105–178, § 3004(b)(3), as amended by Pub. L. 105–206, § 9009(b)(1)(B), substituted “within an existing metropolitan planning area only if the chief executive officer of the State and the existing metropolitan organization determine that the size and complexity of the existing metropolitan planning area” for “in an urbanized area (as defined by the Secretary of Commerce) only if the chief executive officer decides that the size and complexity of the urbanized area”.
+
+Subsec. (c)(4)(A). Pub. L. 105–178, § 3004(b)(4), as added by Pub. L. 105–206, § 9009(b)(1)(E), directed an amendment identical to that made by Pub. L. 105–102, § 2(4)(B). See 1997 Amendment note below.
+
+Subsec. (c)(5)(A). Pub. L. 105–178, § 3004(b)(5)(A), formerly § 3004(b)(4)(A), as renumbered and amended by Pub. L. 105–206, § 9009(b)(1)(C), (D), substituted “general purpose local government that together represent” for “general local government representing”.
+
+Subsec. (c)(5)(B). Pub. L. 105–178, § 3004(b)(5)(B), formerly § 3004(b)(4)(B), as renumbered by Pub. L. 105–206, § 9009(b)(1)(D), substituted “or cities, as defined by the Bureau of the Census)” for “as defined by the Secretary of Commerce)”.
+
+Subsec. (c)(5)(D). Pub. L. 105–178, § 3004(b)(5)(C), formerly § 3004(b)(4)(C), as renumbered by Pub. L. 105–206, § 9009(b)(1)(D), added subpar. (D).
+
+Subsec. (d). Pub. L. 105–178, § 3004(c), inserted “Planning” after “Metropolitan” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, inserted “planning” before “area” in first sentence and substituted pars. (2) to (4) for “The area shall cover at least the existing urbanized area and the contiguous area expected to become urbanized within the 20-year forecast period and may include the Metropolitan Statistical Area or Consolidated Metropolitan Statistical Area, as defined by the Secretary of Commerce. An area designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.) shall include at least the boundaries of the nonattainment area, except as the chief executive officer and metropolitan planning organization otherwise agree.”
+
+Subsec. (e)(2). Pub. L. 105–178, § 3004(d)(1), inserted “or compact” after “2 States making an agreement” and substituted “making the agreements and compacts effective” for “making the agreement effective”.
+
+Subsec. (e)(4) to (6). Pub. L. 105–178, § 3004(d)(2), as amended by Pub. L. 105–206, § 9009(b)(2), added pars. (4) to (6).
+
+Subsec. (f). Pub. L. 105–178, § 3004(e)(5), substituted “Developing Long-Range Transportation Plans” for “Developing Long-Range Plans” in heading.
+
+Pub. L. 105–178, § 3004(e)(6), which directed substitution of “long-range transportation plans” for “long-range plans” wherever appearing, could not be executed because “long-range plans” does not appear in text.
+
+Subsec. (f)(1)(A). Pub. L. 105–178, § 3004(e)(1)(A), substituted “national, regional, and metropolitan transportation functions” for “United States and regional transportation functions”.
+
+Subsec. (f)(1)(B)(iii). Pub. L. 105–178, § 3004(e)(1)(B), added cl. (iii) and struck out former cl. (iii) which read as follows: “recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects and programs;”.
+
+Subsec. (f)(1)(C). Pub. L. 105–178, § 3004(e)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: “assess capital investment and other measures necessary—
+
+“(i) to ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing, restoration, and rehabilitation of existing and future major roadways, and operations, maintenance, modernization, and rehabilitation of existing and future mass transportation facilities; and
+
+“(ii) to use existing transportation facilities most efficiently to relieve vehicular congestion and maximize the mobility of individuals and goods; and”.
+
+Subsec. (f)(1)(E). Pub. L. 105–178, § 3004(f)(1), as added by Pub. L. 105–206, § 9009(b)(3), added subpar. (E).
+
+Subsec. (f)(2). Pub. L. 105–178, § 3004(e)(2), substituted “and any State or local goals developed within the cooperative metropolitan planning process as they relate to a 20-year forecast period and to other forecast periods as determined by the participants in the planning process” for “as they are related to a 20-year forecast period”.
+
+Subsec. (f)(4). Pub. L. 105–178, § 3004(e)(3), inserted “freight shippers, providers of freight transportation services,” after “mass transportation authority employees,” and “representatives of users of public transit,” after “private providers of transportation,”.
+
+Subsec. (f)(5)(A). Pub. L. 105–178, § 3004(e)(4), inserted “published or otherwise” before “made readily available”.
+
+Subsec. (f)(6). Pub. L. 105–178, § 3004(f)(2), as added by Pub. L. 105–206, § 9009(b)(3), added par. (6).
+
+Subsec. (h)(1). Pub. L. 105–178, § 3029(b)(1), (2), substituted “subsection (c) or (h)(1) of [section 5338 of this title](./chapter-053-public-transportation.md#section-5338)” for “[section 5338(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/g/1&num=0&edition=prelim)” and “sections 5304 and 5305 of this title” for “sections 5304–5306 of this title”.
+
+Subsec. (h)(2)(A), (3)(A). Pub. L. 105–178, § 3029(b)(1), substituted “subsection (c) or (h)(1) of [section 5338 of this title](./chapter-053-public-transportation.md#section-5338)” for “[section 5338(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/g/1&num=0&edition=prelim)”.
+
+Subsec. (h)(4). Pub. L. 105–178, § 3029(b)(3), substituted “subsection (c) or (h)(1) of [section 5338 of this title](./chapter-053-public-transportation.md#section-5338)” for “[section 5338(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/g&num=0&edition=prelim)”.
+
+1997—Subsec. (c)(1). Pub. L. 105–102, § 2(4)(A), inserted “and sections 5304–5306 of this title” after “this section”.
+
+Subsec. (c)(4)(A). Pub. L. 105–102, § 2(4)(B), substituted “paragraph (5)” for “paragraph (3)”.
+
+Subsec. (c)(5)(A). Pub. L. 105–102, § 2(4)(C), inserted “and sections 5304–5306 of this title” after “this section”.
+
+1996—Subsec. (f)(2). Pub. L. 104–287, § 5(10)(A), substituted “subsection (b)” for “subsection (e)”.
+
+Subsec. (h)(4). Pub. L. 104–287, § 5(10)(B), substituted “section 5338(g)” for “5338(g)(1)”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, § 3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: “The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act [amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and [section 1445 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1445&num=0&edition=prelim), Judiciary and Judicial Procedure] shall take effect on July 5, 1994.”
+
+#### Pilot Program for Transit-Oriented Development Planning
+Pub. L. 112–141, div. B, § 20005(b), July 6, 2012, 126 Stat. 642, provided that: “(1) Definitions.—In this subsection the following definitions shall apply:“(A) Eligible project.—The term ‘eligible project’ means a new fixed guideway capital project or a core capacity improvement project, as those terms are defined in [section 5309 of title 49](./chapter-053-public-transportation.md#section-5309), United States Code, as amended by this division. “(B) Secretary.—The term ‘Secretary’ means the Secretary of Transportation. “(2) General authority.—The Secretary may make grants under this subsection to a State or local governmental authority to assist in financing comprehensive planning associated with an eligible project that seeks to—“(A) enhance economic development, ridership, and other goals established during the project development and engineering processes; “(B) facilitate multimodal connectivity and accessibility; “(C) increase access to transit hubs for pedestrian and bicycle traffic; “(D) enable mixed-use development; “(E) identify infrastructure needs associated with the eligible project; and “(F) include private sector participation. “(3) Eligibility.—A State or local governmental authority that desires to participate in the program under this subsection shall submit to the Secretary an application that contains, at a minimum—“(A) identification of an eligible project; “(B) a schedule and process for the development of a comprehensive plan; “(C) a description of how the eligible project and the proposed comprehensive plan advance the metropolitan transportation plan of the metropolitan planning organization; “(D) proposed performance criteria for the development and implementation of the comprehensive plan; and “(E) identification of—“(i) partners; “(ii) availability of and authority for funding; and “(iii) potential State, local or other impediments to the implementation of the comprehensive plan.”
+
+#### Guidance on Documenting Compliance With Requirements of Private Enterprise Participation in Public Transportation Planning and Transportation Improvement Programs
+Pub. L. 112–141, div. B, § 20013(d), July 6, 2012, 126 Stat. 694, provided that: “Not later than 1 year after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary [of Transportation] shall publish in the Federal Register policy guidance regarding how to best document compliance by recipients of Federal assistance under chapter 53 of title 49, United States Code, with the requirements regarding private enterprise participation in public transportation planning and transportation improvement programs under sections 5303(i)(6), 5306(a), and 5307(c) of such title 49.”
+
+#### Schedule for Implementation
+Pub. L. 109–59, title III, § 3005(b), Aug. 10, 2005, 119 Stat. 1559, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3005(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+
+
+<a id="section-5304"></a>
+## § 5304. Statewide and nonmetropolitan transportation planning
+**(a) General Requirements.—**
+
+(1) **Development of plans and programs.—** — Subject to section 5303, to accomplish the objectives stated in section 5303(a), each State shall develop a statewide transportation plan and a statewide transportation improvement program for all areas of the State.
+
+(2) **Contents.—** — The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways and bicycle transportation facilities) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+
+(3) **Process of development.—** — The process for developing the statewide plan and the transportation improvement program shall provide for consideration of all modes of transportation and the policies stated in section 5303(a) and shall be continuing, cooperative, and comprehensive to the degree appropriate, based on the complexity of the transportation problems to be addressed.
+
+**(b) Coordination With Metropolitan Planning; State Implementation Plan.—** A State shall—
+
+(1) coordinate planning carried out under this section with the transportation planning activities carried out under section 5303 for metropolitan areas of the State and with statewide trade and economic development planning activities and related multistate planning efforts; and
+
+(2) develop the transportation portion of the State implementation plan as required by the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.).
+
+**(c) Interstate Agreements.—**
+
+(1) **In general.—** — Two or more States may enter into agreements or compacts, not in conflict with any law of the United States, for cooperative efforts and mutual assistance in support of activities authorized under this section related to interstate areas and localities in the States and establishing authorities the States consider desirable for making the agreements and compacts effective.
+
+(2) **Reservation of rights.—** — The right to alter, amend, or repeal interstate compacts entered into under this subsection is expressly reserved.
+
+**(d) Scope of Planning Process.—**
+
+(1) **In general.—** — Each State shall carry out a statewide transportation planning process that provides for consideration and implementation of projects, strategies, and services that will—
+
+  (A) support the economic vitality of the United States, the States, nonmetropolitan areas, and metropolitan areas, especially by enabling global competitiveness, productivity, and efficiency;
+
+  (B) increase the safety of the transportation system for motorized and nonmotorized users;
+
+  (C) increase the security of the transportation system for motorized and nonmotorized users;
+
+  (D) increase the accessibility and mobility of people and freight;
+
+  (E) protect and enhance the environment, promote energy conservation, improve the quality of life, and promote consistency between transportation improvements and State and local planned growth and economic development patterns;
+
+  (F) enhance the integration and connectivity of the transportation system, across and between modes throughout the State, for people and freight;
+
+  (G) promote efficient system management and operation; and
+
+  (H) emphasize the preservation of the existing transportation system.
+
+(2) **Performance-based approach.—**
+
+  (A) *In general.—* — The statewide transportation planning process shall provide for the establishment and use of a performance-based approach to transportation decisionmaking to support the national goals described in [section 150(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section150/b&num=0&edition=prelim) and the general purposes described in section 5301.
+
+  (B) *Performance targets.—*
+
+    (i) *Surface transportation performance targets.—*
+
+      (I) *In general.—* — Each State shall establish performance targets that address the performance measures described in [section 150(c) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section150/c&num=0&edition=prelim), where applicable, to use in tracking progress towards attainment of critical outcomes for the State.
+
+      (II) *Coordination.—* — Selection of performance targets by a State shall be coordinated with the relevant metropolitan planning organizations to ensure consistency, to the maximum extent practicable.
+
+    (ii) *Public transportation performance targets.—* — In urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, selection of performance targets by a State shall be coordinated, to the maximum extent practicable, with providers of public transportation to ensure consistency with sections 5326(c) and 5329(d).
+
+  (C) *Integration of other performance-based plans.—* — A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in urbanized areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
+
+  (D) *Use of performance measures and targets.—* — The performance measures and targets established under this paragraph shall be considered by a State when developing policies, programs, and investment priorities reflected in the statewide transportation plan and statewide transportation improvement program.
+
+(3) **Failure to consider factors.—** — The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
+
+**(e) Additional Requirements.—** “In 11 So in original. The quotation marks probably should not appear. carrying out planning under this section, each State shall, at a minimum—
+
+(1) with respect to nonmetropolitan areas, cooperate with affected local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l);
+
+(2) consider the concerns of Indian tribal governments and Federal land management agencies that have jurisdiction over land within the boundaries of the State; and
+
+(3) consider coordination of transportation plans, the transportation improvement program, and planning activities with related planning activities being carried out outside of metropolitan planning areas and between States.
+
+**(f) Long-Range Statewide Transportation Plan.—**
+
+(1) **Development.—** — Each State shall develop a long-range statewide transportation plan, with a minimum 20-year forecast period for all areas of the State, that provides for the development and implementation of the intermodal transportation system of the State.
+
+(2) **Consultation with governments.—**
+
+  (A) *Metropolitan areas.—* — The statewide transportation plan shall be developed for each metropolitan area in the State in cooperation with the metropolitan planning organization designated for the metropolitan area under section 5303.
+
+  (B) *Nonmetropolitan areas.—*
+
+    (i) *In general.—* — With respect to nonmetropolitan areas, the statewide transportation plan shall be developed in cooperation with affected nonmetropolitan officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l).
+
+    (ii) *Role of secretary.—* — The Secretary shall not review or approve the consultation process in each State.
+
+  (C) *Indian tribal areas.—* — With respect to each area of the State under the jurisdiction of an Indian tribal government, the statewide transportation plan shall be developed in consultation with the tribal government and the Secretary of the Interior.
+
+  (D) *Consultation, comparison, and consideration.—*
+
+    (i) *In general.—* — The long-range transportation plan shall be developed, as appropriate, in consultation with State, tribal, and local agencies responsible for land use management, natural resources, environmental protection, conservation, and historic preservation.
+
+    (ii) *Comparison and consideration.—* — Consultation under clause (i) shall involve comparison of transportation plans to State and tribal conservation plans or maps, if available, and comparison of transportation plans to inventories of natural or historic resources, if available.
+
+(3) **Participation by interested parties.—**
+
+  (A) *In general.—* — In developing the statewide transportation plan, the State shall provide to—
+
+    (i) nonmetropolitan local elected officials, or, if applicable, through regional transportation planning organizations described in subsection (l), an opportunity to participate in accordance with subparagraph (B)(i); and
+
+    (ii) citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, providers of freight transportation services, and other interested parties a reasonable opportunity to comment on the proposed plan.
+
+  (B) *Methods.—* — In carrying out subparagraph (A), the State shall, to the maximum extent practicable—
+
+    (i) develop and document a consultative process to carry out subparagraph (A)(i) that is separate and discrete from the public involvement process developed under clause (ii);
+
+    (ii) hold any public meetings at convenient and accessible locations and times;
+
+    (iii) employ visualization techniques to describe plans; and
+
+    (iv) make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
+
+(4) **Mitigation activities.—**
+
+  (A) *In general.—* — A long-range transportation plan shall include a discussion of potential environmental mitigation activities and potential areas to carry out these activities, including activities that may have the greatest potential to restore and maintain the environmental functions affected by the plan.
+
+  (B) *Consultation.—* — The discussion shall be developed in consultation with Federal, State, and tribal wildlife, land management, and regulatory agencies.
+
+(5) **Financial plan.—** — The statewide transportation plan may include—
+
+  (A) a financial plan that—
+
+    (i) demonstrates how the adopted statewide transportation plan can be implemented;
+
+    (ii) indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan; and
+
+    (iii) recommends any additional financing strategies for needed projects and programs; and
+
+  (B) for illustrative purposes, additional projects that would be included in the adopted statewide transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
+
+(6) **Selection of projects from illustrative list.—** — A State shall not be required to select any project from the illustrative list of additional projects included in the financial plan described in paragraph (5).
+
+(7) **Performance-based approach.—** — The statewide transportation plan should include—
+
+  (A) a description of the performance measures and performance targets used in assessing the performance of the transportation system in accordance with subsection (d)(2); and
+
+  (B) a system performance report and subsequent updates evaluating the condition and performance of the transportation system with respect to the performance targets described in subsection (d)(2), including progress achieved by the metropolitan planning organization in meeting the performance targets in comparison with system performance recorded in previous reports;
+
+(8) **Existing system.—** — The statewide transportation plan should include capital, operations and management strategies, investments, procedures, and other measures to ensure the preservation and most efficient use of the existing transportation system.
+
+(9) **Publication of long-range transportation plans.—** — Each long-range transportation plan prepared by a State shall be published or otherwise made available, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web.
+
+**(g) Statewide Transportation Improvement Program.—**
+
+(1) **Development.—**
+
+  (A) *In general.—* — Each State shall develop a statewide transportation improvement program for all areas of the State.
+
+  (B) *Duration and updating of program.—* — Each program developed under subparagraph (A) shall cover a period of 4 years and shall be updated every 4 years or more frequently if the Governor of the State elects to update more frequently.
+
+(2) **Consultation with governments.—**
+
+  (A) *Metropolitan areas.—* — With respect to each metropolitan area in the State, the program shall be developed in cooperation with the metropolitan planning organization designated for the metropolitan area under section 5303.
+
+  (B) *Nonmetropolitan areas.—*
+
+    (i) *In general.—* — With respect to each nonmetropolitan area in the State, the program shall be developed in cooperation with affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l).
+
+    (ii) *Role of secretary.—* — The Secretary shall not review or approve the specific consultation process in the State.
+
+  (C) *Indian tribal areas.—* — With respect to each area of the State under the jurisdiction of an Indian tribal government, the program shall be developed in consultation with the tribal government and the Secretary of the Interior.
+
+(3) **Participation by interested parties.—** — In developing the program, the State shall provide citizens, affected public agencies, representatives of public transportation employees, freight shippers, private providers of transportation, providers of freight transportation services, representatives of users of public transportation, representatives of users of pedestrian walkways and bicycle transportation facilities, representatives of the disabled, and other interested parties with a reasonable opportunity to comment on the proposed program.
+
+(4) **Performance target achievement.—** — A statewide transportation improvement program shall include, to the maximum extent practicable, a discussion of the anticipated effect of the statewide transportation improvement program toward achieving the performance targets established in the statewide transportation plan, linking investment priorities to those performance targets.
+
+(5) **Included projects.—**
+
+  (A) *In general.—* — A transportation improvement program developed under this subsection for a State shall include Federally supported surface transportation expenditures within the boundaries of the State.
+
+  (B) *Listing of projects.—*
+
+    (i) *In general.—* — An annual listing of projects for which funds have been obligated for the preceding year in each metropolitan planning area shall be published or otherwise made available by the cooperative effort of the State, transit operator, and the metropolitan planning organization for public review.
+
+    (ii) *Funding categories.—* — The listing described in clause (i) shall be consistent with the funding categories identified in each metropolitan transportation improvement program.
+
+  (C) *Projects under chapter 2.—*
+
+    (i) *Regionally significant projects.—* — Regionally significant projects proposed for funding under chapter 2 of title 23 shall be identified individually in the transportation improvement program.
+
+    (ii) *Other projects.—* — Projects proposed for funding under chapter 2 of title 23 that are not determined to be regionally significant shall be grouped in 1 line item or identified individually in the transportation improvement program.
+
+  (D) *Consistency with statewide transportation plan.—* — Each project shall be—
+
+    (i) consistent with the statewide transportation plan developed under this section for the State;
+
+    (ii) identical to the project or phase of the project as described in an approved metropolitan transportation plan; and
+
+    (iii) in conformance with the applicable State air quality implementation plan developed under the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), if the project is carried out in an area designated as a nonattainment area for ozone, particulate matter, or carbon monoxide under part D of title I of that Act ([42 U.S.C. 7501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7501&num=0&edition=prelim) et seq.).
+
+  (E) *Requirement of anticipated full funding.—* — The transportation improvement program shall include a project, or an identified phase of a project, only if full funding can reasonably be anticipated to be available for the project within the time period contemplated for completion of the project.
+
+  (F) *Financial plan.—*
+
+    (i) *In general.—* — The transportation improvement program may include a financial plan that demonstrates how the approved transportation improvement program can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the transportation improvement program, and recommends any additional financing strategies for needed projects and programs.
+
+    (ii) *Additional projects.—* — The financial plan may include, for illustrative purposes, additional projects that would be included in the adopted transportation plan if reasonable additional resources beyond those identified in the financial plan were available.
+
+  (G) *Selection of projects from illustrative list.—*
+
+    (i) *No required selection.—* — Notwithstanding subparagraph (F), a State shall not be required to select any project from the illustrative list of additional projects included in the financial plan under subparagraph (F).
+
+    (ii) *Required action by the secretary.—* — Action by the Secretary shall be required for a State to select any project from the illustrative list of additional projects included in the financial plan under subparagraph (F) for inclusion in an approved transportation improvement program.
+
+  (H) *Priorities.—* — The transportation improvement program shall reflect the priorities for programming and expenditures of funds, including transportation enhancement activities, required by this chapter and title 23.
+
+(6) **Project selection for areas of less than 50,000 population.—**
+
+  (A) *In general.—* — Projects carried out in areas with populations of less than 50,000 individuals shall be selected, from the approved transportation improvement program (excluding projects carried out on the National Highway System and projects carried out under the bridge program or the Interstate maintenance program under title 23 or under sections 5310 and 5311 of this chapter), by the State in cooperation with the affected nonmetropolitan local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l).
+
+  (B) *Other projects.—* — Projects carried out in areas with populations of less than 50,000 individuals on the National Highway System or under the bridge program or the Interstate maintenance program under title 23 or under sections 5310 and 5311 of this chapter shall be selected, from the approved statewide transportation improvement program, by the State in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
+
+(7) **Transportation improvement program approval.—** — Every 4 years, a transportation improvement program developed under this subsection shall be reviewed and approved by the Secretary if based on a current planning finding.
+
+(8) **Planning finding.—** — A finding shall be made by the Secretary at least every 4 years that the transportation planning process through which statewide transportation plans and programs are developed is consistent with this section and section 5303.
+
+(9) **Modifications to project priority.—** — Notwithstanding any other provision of law, action by the Secretary shall not be required to advance a project included in the approved transportation improvement program in place of another project in the program.
+
+**(h) Performance-based Planning Processes Evaluation.—**
+
+(1) **In general.—** — The Secretary shall establish criteria to evaluate the effectiveness of the performance-based planning processes of States, taking into consideration the following:
+
+  (A) The extent to which the State is making progress toward achieving, the performance targets described in subsection (d)(2), taking into account whether the State developed appropriate performance targets.
+
+  (B) The extent to which the State has made transportation investments that are efficient and cost-effective.
+
+  (C) The extent to which the State—
+
+    (i) has developed an investment process that relies on public input and awareness to ensure that investments are transparent and accountable; and
+
+    (ii) provides reports allowing the public to access the information being collected in a format that allows the public to meaningfully assess the performance of the State.
+
+(2) **Report.—**
+
+  (A) *In general.—* — Not later than 5 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit to Congress a report evaluating—
+
+    (i) the overall effectiveness of performance-based planning as a tool for guiding transportation investments; and
+
+    (ii) the effectiveness of the performance-based planning process of each State.
+
+  (B) *Publication.—* — The report under subparagraph (A) shall be published or otherwise made available in electronically accessible formats and means, including on the Internet.
+
+**(i) Treatment of Certain State Laws as Congestion Management Processes.—** For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this this section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
+
+**(j) Continuation of Current Review Practice.—** Since the statewide transportation plan and the transportation improvement program described in this section are subject to a reasonable opportunity for public comment, since individual projects included in the statewide transportation plans and the transportation improvement program are subject to review under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), and since decisions by the Secretary concerning statewide transportation plans or the transportation improvement program described in this section have not been reviewed under that Act as of January 1, 1997, any decision by the Secretary concerning a metropolitan or statewide transportation plan or the transportation improvement program described in this section shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.).
+
+**(k) Schedule for Implementation.—** The Secretary shall issue guidance on a schedule for implementation of the changes made by this section, taking into consideration the established planning update cycle for States. The Secretary shall not require a State to deviate from its established planning update cycle to implement changes made by this section. States shall reflect changes made to their transportation plan or transportation improvement program updates not later than 2 years after the date of issuance of guidance by the Secretary under this subsection.
+
+**(l) Designation of Regional Transportation Planning Organizations.—**
+
+(1) **In general.—** — To carry out the transportation planning process required by this section, a State may establish and designate regional transportation planning organizations to enhance the planning, coordination, and implementation of statewide strategic long-range transportation plans and transportation improvement programs, with an emphasis on addressing the needs of nonmetropolitan areas of the State.
+
+(2) **Structure.—** — A regional transportation planning organization shall be established as a multijurisdictional organization of nonmetropolitan local officials or their designees who volunteer for such organization and representatives of local transportation systems who volunteer for such organization.
+
+(3) **Requirements.—** — A regional transportation planning organization shall establish, at a minimum—
+
+  (A) a policy committee, the majority of which shall consist of nonmetropolitan local officials, or their designees, and, as appropriate, additional representatives from the State, private business, transportation service providers, economic development practitioners, and the public in the region; and
+
+  (B) a fiscal and administrative agent, such as an existing regional planning and development organization, to provide professional planning, management, and administrative support.
+
+(4) **Duties.—** — The duties of a regional transportation planning organization shall include—
+
+  (A) developing and maintaining, in cooperation with the State, regional long-range multimodal transportation plans;
+
+  (B) developing a regional transportation improvement program for consideration by the State;
+
+  (C) fostering the coordination of local planning, land use, and economic development plans with State, regional, and local transportation plans and programs;
+
+  (D) providing technical assistance to local officials;
+
+  (E) participating in national, multistate, and State policy and planning development processes to ensure the regional and local input of nonmetropolitan areas;
+
+  (F) providing a forum for public participation in the statewide and regional transportation planning processes;
+
+  (G) considering and sharing plans and programs with neighboring regional transportation planning organizations, metropolitan planning organizations, and, where appropriate, tribal organizations; and
+
+  (H) conducting other duties, as necessary, to support and enhance the statewide planning process under subsection (d).
+
+(5) **States without regional transportation planning organizations.—** — If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5304(a) | 49 App.:1607(h)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(h); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2102; Oct. 6, 1992, Pub. L. 102–388, §§ 501, 502(e), 106 Stat. 1566. |
+| 5304(b) | 49 App.:1607(h)(2). |  |
+| 5304(c) | 49 App.:1607(h)(3), (5). |  |
+| 5304(d) | 49 App.:1607(h)(6). |  |
+| 5304(e) | 49 App.:1607(h)(4). |  |
+
+In subsection (b)(1), the word “initial” is omitted as surplus.
+
+In subsection (b)(2)(C), the words “and programs” are omitted as surplus.
+
+In subsection (c)(1), the word “otherwise” is omitted as surplus.
+
+#### References in Text
+The Clean Air Act, referred to in subsecs. (b)(2) and (g)(5)(D)(iii), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (h)(2)(A), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. Part D of title I of the Act is classified generally to part D (§ 7501 et seq.) of subchapter I of chapter 85 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to statewide transportation planning and consisted of subsecs. (a) to (j).
+
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development and updating of a transportation improvement program, contents of program, selection of projects, notice and an opportunity to comment on proposed programs, and conformance of review requirements under the National Environmental Policy Act of 1969.
+
+1998—Subsec. (a). Pub. L. 105–178, § 3005(d)(1), as added by Pub. L. 105–206, § 9009(c)(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Pub. L. 105–178, § 3005(a), in second sentence, substituted “the metropolitan planning organization, in cooperation with the chief executive officer of the State and any affected mass transportation operator,” for “the organization” and inserted “other affected employee representatives, freight shippers, providers of freight transportation services,” after “transportation authority employees,” and “representatives of users of public transit,” after “private providers of transportation,”.
+
+Subsec. (b)(2)(B). Pub. L. 105–178, § 3005(d)(2)(A), as added by Pub. L. 105–206, § 9009(c)(2), struck out “and” at end.
+
+Subsec. (b)(2)(C). Pub. L. 105–178, § 3005(d)(2)(B), as added by Pub. L. 105–206, § 9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” for “strategies which may include”, was executed by making the substitution for “strategies, which may include” to reflect the probable intent of Congress. Remaining provisions of subpar. (C) redesignated (D).
+
+Pub. L. 105–178, § 3005(b), added subpar. (C) and struck out former subpar. (C) which read as follows: “recommends innovative financing techniques, including value capture, tolls, and congestion pricing, to finance needed projects.”
+
+Subsec. (b)(2)(D). Pub. L. 105–178, § 3005(d)(2)(B), as added by Pub. L. 105–206, § 9009(c)(2), which directed amendment of subpar. (C) by substituting “strategies; and” followed by “(D) may include” for “strategies which may include”, was executed by making the substitutions for “strategies, which may include” to reflect the probable intent of Congress.
+
+Subsec. (c)(1). Pub. L. 105–178, § 3005(c)(1), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in [section 5305(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5305/d/1&num=0&edition=prelim), the State, in cooperation with the metropolitan planning organization, shall select projects in a metropolitan area that involve United States Government participation. Selection shall comply with the transportation improvement program for the area.”
+
+Subsec. (c)(3). Pub. L. 105–178, § 3005(c)(2), added par. (3).
+
+Subsec. (c)(4). Pub. L. 105–178, § 3005(d)(3), as added by Pub. L. 105–206, § 9009(c)(2), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Notwithstanding subsection (b)(2)(C), a State or metropolitan planning organization shall not be required to select any project from the illustrative list of additional projects included in the financial plan under subsection (b)(2)(C).”
+
+Pub. L. 105–178, § 3005(c)(2), added par. (4).
+
+Subsec. (c)(5), (6). Pub. L. 105–178, § 3005(c)(2), added pars. (5) and (6).
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Schedule for Implementation
+Pub. L. 109–59, title III, § 3006(b), Aug. 10, 2005, 119 Stat. 1565, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3006(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+
+
+<a id="section-5305"></a>
+## § 5305. Planning programs
+**(a) State Defined.—** In this section, the term “State” means a State of the United States, the District of Columbia, and Puerto Rico.
+
+**(b) General Authority.—**
+
+(1) **Grants and agreements.—** — Under criteria established by the Secretary, the Secretary may award grants to States, authorities of the States, metropolitan planning organizations, and local governmental authorities, and make agreements with other departments, agencies, or instrumentalities of the Government to—
+
+  (A) develop transportation plans and programs;
+
+  (B) plan, engineer, design, and evaluate a public transportation project; and
+
+  (C) conduct technical studies relating to public transportation.
+
+(2) **Eligible activities.—** — Activities eligible under paragraph (1) include the following:
+
+  (A) Studies related to management, planning, operations, capital requirements, and economic feasibility.
+
+  (B) Evaluating previously financed projects.
+
+  (C) Peer reviews and exchanges of technical data, information, assistance, and related activities in support of planning and environmental analyses among metropolitan planning organizations and other transportation planners.
+
+  (D) Other similar and related activities preliminary to and in preparation for constructing, acquiring, or improving the operation of facilities and equipment.
+
+**(c) Purpose.—** To the extent practicable, the Secretary shall ensure that amounts appropriated or made available under section 5338 to carry out this section and sections 5303, 5304, and 5306 are used to support balanced and comprehensive transportation planning that considers the relationships among land use and all transportation modes, without regard to the programmatic source of the planning amounts.
+
+**(d) Metropolitan Planning Program.—**
+
+(1) **Apportionment to states.—**
+
+  (A) *In general.—* — The Secretary shall apportion 80 percent of the amounts made available under subsection (g)(1) among the States to carry out sections 5303 and 5306 in the ratio that—
+
+    (i) the population of urbanized areas in each State, as shown by the latest available decennial census of population; bears to
+
+    (ii) the total population of urbanized areas in all States, as shown by that census.
+
+  (B) *Minimum apportionment.—* — Notwithstanding subparagraph (A), a State may not receive less than 0.5 percent of the amount apportioned under this paragraph.
+
+(2) **Allocation to mpo’s.—** — Amounts apportioned to a State under paragraph (1) shall be made available, not later than 30 days after the date of apportionment, to metropolitan planning organizations in the State designated under this section under a formula that—
+
+  (A) considers population of urbanized areas;
+
+  (B) provides an appropriate distribution for urbanized areas to carry out the cooperative processes described in this section;
+
+  (C) the State develops in cooperation with the metropolitan planning organizations; and
+
+  (D) the Secretary approves.
+
+(3) **Supplemental amounts.—**
+
+  (A) *In general.—* — The Secretary shall apportion 20 percent of the amounts made available under subsection (g)(1) among the States to supplement allocations made under paragraph (1) for metropolitan planning organizations.
+
+  (B) *Formula.—* — The Secretary shall apportion amounts referred to in subparagraph (A) under a formula that reflects the additional cost of carrying out planning, programming, and project selection responsibilities under sections 5303 and 5306 in certain urbanized areas.
+
+**(e) State Planning and Research Program.—**
+
+(1) **Apportionment to states.—**
+
+  (A) *In general.—* — The Secretary shall apportion the amounts made available under subsection (g)(2) among the States for grants and contracts to carry out this section and section 11 So in original. Probably should be “sections”. 5304 and 5306 in the ratio that—
+
+    (i) the population of urbanized areas in each State, as shown by the latest available decennial census; bears to
+
+    (ii) the population of urbanized areas in all States, as shown by that census.
+
+  (B) *Minimum apportionment.—* — Notwithstanding subparagraph (A), a State may not receive less than 0.5 percent of the amount apportioned under this paragraph.
+
+(2) **Supplemental amounts.—** — A State, as the State considers appropriate, may authorize part of the amount made available under this subsection to be used to supplement amounts made available under subsection (d).
+
+**(f) Government Share of Costs.—** The Government share of the cost of an activity funded using amounts made available under this section may not exceed 80 percent of the cost of the activity unless the Secretary determines that it is in the interests of the Government not to require a State or local match.
+
+**(g) Allocation of Funds.—** Of the funds made available by or appropriated to carry out this section under section 5338(a)(2)(A) for a fiscal year—
+
+(1) 82.72 percent shall be available for the metropolitan planning program under subsection (d); and
+
+(2) 17.28 percent shall be available to carry out subsection (e).
+
+**(h) Availability of Funds.—** Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5305(a)–(e) | 49 App.:1607(i). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(i); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2103; Oct. 6, 1992, Pub. L. 102–388, § 502(f), 106 Stat. 1566. |
+| 5305(f) | 49 App.:1607(l). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(j), (l); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2104. |
+| 5305(g) | 49 App.:1607(j). |  |
+
+In subsection (c), the words “title 23” are substituted for “this title” for consistency in this chapter and to reflect the apparent intent of Congress. The word “appropriate” is omitted as surplus.
+
+In subsection (e)(2), the words “under the formula program” are omitted as surplus.
+
+In subsections (f) and (g), the word “area” is added for clarity and consistency with 42:7501(2).
+
+In subsection (f), the words “Notwithstanding any other provisions of this chapter or title 23, United States Code” are omitted as surplus.
+
+#### Amendments
+2012—Subsec. (e)(1)(A). Pub. L. 112–141, § 20030(a)(1), substituted “section 5304 and 5306” for “sections 5304, 5306, 5315, and 5322”.
+
+Subsec. (f). Pub. L. 112–141, § 20030(a)(2), substituted “Government” for “Government’s” in heading and “Government” for “Government’s” in text.
+
+Subsec. (g). Pub. L. 112–141, § 113001, substituted “2012” for “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012” in introductory provisions.
+
+Pub. L. 112–141, § 20030(a)(3), substituted “section 5338(a)(2)(A) for a fiscal year” for “section 5338(c) for fiscal years 2005 through 2012” in introductory provisions.
+
+Pub. L. 112–140, §§ 1(c), 301, temporarily substituted “ending on July 6, 2012” for “ending on June 30, 2012” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 substituted “2011 and for the period beginning on October 1, 2011, and ending on June 30, 2012” for “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012” in introductory provisions.
+
+2011—Subsec. (g). Pub. L. 112–30 substituted “2011 and for the period beginning on October 1, 2011, and ending on March 31, 2012” for “2011”.
+
+Pub. L. 112–5 substituted “2011” for “2010, and for the period beginning October 1, 2010, and ending March 4, 2011,”.
+
+2010—Subsec. (g). Pub. L. 111–322 substituted “March 4, 2011” for “December 31, 2010”.
+
+Pub. L. 111–147 substituted “2010, and for the period beginning October 1, 2010, and ending December 31, 2010,” for “2009” in introductory provisions.
+
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to designation of areas as transportation management areas and plans and programs in an area.
+
+1998—Subsec. (a)(2). Pub. L. 105–178, § 3006(a), added par. (2) and struck out former par. (2) which read as follows: “any other area, including the Lake Tahoe Basin as defined in the Act of December 19, 1980 (Public Law 96–551, 94 Stat. 3233), when requested by the chief executive officer and the metropolitan organization designated for the area or the affected local officials.”
+
+Subsec. (b). Pub. L. 105–178, § 3006(b), inserted “affected” before “mass transportation operators”.
+
+Subsec. (c). Pub. L. 105–178, § 3006(c), struck out at end “The Secretary shall establish a phase-in schedule to comply with sections 5303, 5304, and 5306.”
+
+Subsec. (d)(1). Pub. L. 105–178, § 3006(d), as amended by Pub. L. 105–206, § 9009(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
+
+“(1)(A) In consultation with the State, the metropolitan planning organization designated for a transportation management area shall select the projects to be carried out in the area with United States Government participation under this chapter or title 23, except projects of the National Highway System or under the Bridge and Interstate Maintenance programs.
+
+“(B) In cooperation with the metropolitan planning organization designated for a transportation management area, the State shall select the projects to be carried out in the area of the National Highway System or under the Bridge and Interstate Maintenance programs.”
+
+Subsec. (e)(2). Pub. L. 105–178, § 3006(e)(1), added par. (2) and struck out former par. (2) which read as follows: “If the Secretary does not certify before October 1, 1993, that a metropolitan planning organization is carrying out its responsibilities, the Secretary may withhold any part of the apportionment under [section 104(b)(3) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section104/b/3&num=0&edition=prelim) attributed to the relevant metropolitan area under [section 133(d)(3) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section133/d/3&num=0&edition=prelim) and capital amounts apportioned under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336). If an organization remains uncertified for more than 2 consecutive years after September 30, 1994, 20 percent of that apportionment and capital amounts shall be withheld. The withheld apportionments shall be restored when the Secretary certifies the organization.”
+
+Subsec. (e)(4). Pub. L. 105–178, § 3006(e)(2), added par. (4).
+
+Subsec. (h). Pub. L. 105–178, § 3006(f), added subsec. (h).
+
+#### Effective and Termination Dates of 2012 Amendment
+Amendment by section 20030(a) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+Pub. L. 112–141, div. G, title IV, § 114001, July 6, 2012, 126 Stat. 988, provided that: “This division [amending this section and sections 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of this title, enacting provisions set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways, and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, and 31100 of this title] and the amendments made by this division shall take effect on July 1, 2012.”
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5306"></a>
+## § 5306. Private enterprise participation in metropolitan planning and transportation improvement programs and relationship to other limitations
+**(a) Private Enterprise Participation.—** A plan or program required by section 5303, 5304, or 5305 of this title shall encourage to the maximum extent feasible, as determined by local policies, criteria, and decisionmaking, the participation of private enterprise. If equipment or a facility already being used in an urban area is to be acquired under this chapter, the program shall provide that it be improved so that it will better serve the transportation needs of the area.
+
+**(b) Relationship to Other Limitations.—** Sections 5303–5305 of this title do not authorize—
+
+(1) a metropolitan planning organization to impose a legal requirement on a transportation facility, provider, or project not eligible under this chapter or title 23; and
+
+(2) intervention in the management of a transportation authority.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5306(a) | 49 App.:1607(o). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(o); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2105. |
+| 5306(b) | 49 App.:1607(m). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(m); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2104; Oct. 6, 1992, Pub. L. 102–388, § 502(g), 106 Stat. 1566. |
+
+In subsection (a), the words “(through modernization, extension, addition, or otherwise)” are omitted as surplus.
+
+#### Amendments
+2005—Subsec. (a). Pub. L. 109–59 inserted “, as determined by local policies, criteria, and decisionmaking,” after “feasible”.
+
+
+<a id="section-5307"></a>
+## § 5307. Urbanized area formula grants
+**(a) General Authority.—**
+
+(1) **Grants.—** — The Secretary may make grants under this section for—
+
+  (A) capital projects;
+
+  (B) planning;
+
+  (C) job access and reverse commute projects; and
+
+  (D) operating costs of equipment and facilities for use in public transportation in an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census.
+
+(2) **Special rule.—** — The Secretary may make grants under this section to finance the operating cost of equipment and facilities for use in public transportation, excluding rail fixed guideway, in an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+
+  (A) for public transportation systems that operate 75 or fewer buses in fixed route service during peak service hours, in an amount not to exceed 75 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours; and
+
+  (B) for public transportation systems that operate a minimum of 76 buses and a maximum of 100 buses in fixed route service during peak service hours, in an amount not to exceed 50 percent of the share of the apportionment which is attributable to such systems within the urbanized area, as measured by vehicle revenue hours.
+
+**(b) Program of Projects.—** Each recipient of a grant shall—
+
+(1) make available to the public information on amounts available to the recipient under this section;
+
+(2) develop, in consultation with interested parties, including private transportation providers, a proposed program of projects for activities to be financed;
+
+(3) publish a proposed program of projects in a way that affected individuals, private transportation providers, and local elected officials have the opportunity to examine the proposed program and submit comments on the proposed program and the performance of the recipient;
+
+(4) provide an opportunity for a public hearing in which to obtain the views of individuals on the proposed program of projects;
+
+(5) ensure that the proposed program of projects provides for the coordination of public transportation services assisted under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336) with transportation services assisted from other United States Government sources;
+
+(6) consider comments and views received, especially those of private transportation providers, in preparing the final program of projects; and
+
+(7) make the final program of projects available to the public.
+
+**(c) Grant Recipient Requirements.—** A recipient may receive a grant in a fiscal year only if—
+
+(1) the recipient, within the time the Secretary prescribes, submits a final program of projects prepared under subsection (b) of this section and a certification for that fiscal year that the recipient (including a person receiving amounts from a Governor under this section)—
+
+  (A) has or will have the legal, financial, and technical capacity to carry out the program, including safety and security aspects of the program;
+
+  (B) has or will have satisfactory continuing control over the use of equipment and facilities;
+
+  (C) will maintain equipment and facilities;
+
+  (D) will ensure that, during non-peak hours for transportation using or involving a facility or equipment of a project financed under this section, a fare that is not more than 50 percent of the peak hour fare will be charged for any—
+
+    (i) senior;
+
+    (ii) individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use a public transportation service or a public transportation facility effectively without special facilities, planning, or design; and
+
+    (iii) individual presenting a Medicare card issued to that individual under title II or XVIII of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq. and 1395 et seq.);
+
+  (E) in carrying out a procurement under this section, will comply with sections 5323 and 5325;
+
+  (F) has complied with subsection (b) of this section;
+
+  (G) has available and will provide the required amounts as provided by subsection (d) of this section;
+
+  (H) will comply with sections 5303 and 5304;
+
+  (I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation;
+
+  (J)
+
+    (i) will expend for each fiscal year for public transportation security projects, including increased lighting in or adjacent to a public transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned public transportation system, at least 1 percent of the amount the recipient receives for each fiscal year under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336); or
+
+    (ii) has decided that the expenditure for security projects is not necessary;
+
+  (K) in the case of a recipient for an urbanized area with a population of not fewer than 200,000 individuals, as determined by the Bureau of the Census—
+
+    (i) will expend not less than 1 percent of the amount the recipient receives each fiscal year under this section for associated transit improvements, as defined in section 5302; and
+
+    (ii) will submit an annual report listing projects carried out in the preceding fiscal year with those funds; and
+
+  (L) will comply with section 5329(d); and
+
+(2) the Secretary accepts the certification.
+
+**(d) Government Share of Costs.—**
+
+(1) **Capital projects.—** — A grant for a capital project under this section shall be for 80 percent of the net project cost of the project. The recipient may provide additional local matching amounts.
+
+(2) **Operating expenses.—** — A grant for operating expenses under this section may not exceed 50 percent of the net project cost of the project.
+
+(3) **Remaining costs.—** — Subject to paragraph (4), the remainder of the net project costs shall be provided—
+
+  (A) in cash from non-Government sources other than revenues from providing public transportation services;
+
+  (B) from revenues from the sale of advertising and concessions;
+
+  (C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital;
+
+  (D) from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation; and
+
+  (E) from amounts received under a service agreement with a State or local social service agency or private social service organization.
+
+(4) **Use of certain funds.—** — For purposes of subparagraphs (D) and (E) of paragraph (3), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act ([42 U.S.C. 603(a)(5)(C)(vii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/C/vii&num=0&edition=prelim)) shall not apply to Federal or State funds to be used for transportation purposes.
+
+**(e) Undertaking Projects in Advance.—**
+
+(1) **Payment.—** — The Secretary may pay the Government share of the net project cost to a State or local governmental authority that carries out any part of a project eligible under subparagraph (A) or (B) of subsection (a)(1) without the aid of amounts of the Government and according to all applicable procedures and requirements if—
+
+  (A) the recipient applies for the payment;
+
+  (B) the Secretary approves the payment; and
+
+  (C) before carrying out any part of the project, the Secretary approves the plans and specifications for the part in the same way as for other projects under this section.
+
+(2) **Approval of application.—** — The Secretary may approve an application under paragraph (1) of this subsection only if an authorization for this section is in effect for the fiscal year to which the application applies. The Secretary may not approve an application if the payment will be more than—
+
+  (A) the recipient’s expected apportionment under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336) if the total amount authorized to be appropriated for the fiscal year to carry out this section is appropriated; less
+
+  (B) the maximum amount of the apportionment that may be made available for projects for operating expenses under this section.
+
+(3) **Financing costs.—**
+
+  (A) *In general.—* — The cost of carrying out part of a project includes the amount of interest earned and payable on bonds issued by the recipient to the extent proceeds of the bonds are expended in carrying out the part.
+
+  (B) *Limitation on the amount of interest.—* — The amount of interest allowed under this paragraph may not be more than the most favorable financing terms reasonably available for the project at the time of borrowing.
+
+  (C) *Certification.—* — The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+
+**(f) Reviews, Audits, and Evaluations.—**
+
+(1) **Annual review.—**
+
+  (A) *In general.—* — At least annually, the Secretary shall carry out, or require a recipient to have carried out independently, reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
+
+    (i) the activities proposed under subsection (c) of this section in a timely and effective way and can continue to do so; and
+
+    (ii) those activities and its certifications and has used amounts of the Government in the way required by law.
+
+  (B) *Auditing procedures.—* — An audit of the use of amounts of the Government shall comply with the auditing procedures of the Comptroller General.
+
+(2) **Triennial review.—** — At least once every 3 years, the Secretary shall review and evaluate completely the performance of a recipient in carrying out the recipient’s program, specifically referring to compliance with statutory and administrative requirements and the extent to which actual program activities are consistent with the activities proposed under subsection (c) of this section and the planning process required under sections 5303, 5304, and 5305 of this title. To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.
+
+(3) **Actions resulting from review, audit, or evaluation.—** — The Secretary may take appropriate action consistent with a review, audit, and evaluation under this subsection, including making an appropriate adjustment in the amount of a grant or withdrawing the grant.
+
+**(g) Treatment.—** For purposes of this section, the United States Virgin Islands shall be treated as an urbanized area, as defined in section 5302.
+
+**(h) Passenger Ferry Grants.—**
+
+(1) **In general.—** — The Secretary may make grants under this subsection to recipients for passenger ferry projects that are eligible for a grant under subsection (a).
+
+(2) **Grant requirements.—** — Except as otherwise provided in this subsection, a grant under this subsection shall be subject to the same terms and conditions as a grant under subsection (a).
+
+(3) **Competitive process.—** — The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5307(a)(1) | 49 App.:1607a(j)(1) (last sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(j)(1) (last sentence); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2145; Apr. 2, 1987, Pub. L. 100–17, §§ 309(b)(1), (2), 327(b), 101 Stat. 227, 238. |
+| 5307(a)(2) | 49 App.:1607a(m)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(h), (i), (m)(1); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2145, 2147; Apr. 2, 1987, Pub. L. 100–17, § 327(b), 101 Stat. 238; Oct. 6, 1992, Pub. L. 102–388, § 503(2), 106 Stat. 1567. |
+| 5307(b)(1) | 49 App.:1607a(j)(1) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(j)(1) (1st sentence); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2145; Apr. 2, 1987, Pub. L. 100–17, §§ 309(b)(3), 327(b), 101 Stat. 227, 238. |
+| 5307(b)(2) | 49 App.:1607a(j)(1) (2d sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(j)(1) (2d sentence); added Dec. 18, 1991, Pub. L. 102–240, § 3013(h)(1), 105 Stat. 2107. |
+| 5307(b)(3) | 49 App.:1607a(j)(1) (3d, 4th sentences). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(j)(1) (3d, 4th sentences); added Apr. 2, 1987, Pub. L. 100–17, § 308, 101 Stat. 226. |
+| 5307(b)(4) | 49 App.:1607a(j)(2). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(j)(2); added Apr. 2, 1987, Pub. L. 100–17, § 309(b)(4), 101 Stat. 227. |
+| 5307(b)(5) | 49 App.:1607a(j)(3). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(j)(3); added Dec. 18, 1991, Pub. L. 102–240, § 3013(h)(2), 105 Stat. 2107. |
+| 5307(c) | 49 App.:1607a(f). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(f); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2144; Apr. 2, 1987, Pub. L. 100–17, § 327(b), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, § 3013(g), 105 Stat. 2107. |
+| 5307(d)(1) | 49 App.:1607a(e)(2) (1st, last sentences). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(e)(2); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2143; Apr. 2, 1987, Pub. L. 100–17, §§ 312(a), 327(b), 101 Stat. 228, 238; Dec. 18, 1991, Pub. L. 102–240, § 3013(d), 105 Stat. 2106. |
+|  | 49 App.:1607a(e)(3). | July 9, 1964, Pub. L. 88–365, 78 Stat. 202, § 9(e)(3); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2143; Apr. 2, 1987, Pub. L. 100–17, § 327(b), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, § 3013(f), 105 Stat. 2106. |
+| 5307(d)(2) | 49 App.:1607a(e)(5). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(e)(5); added Apr. 2, 1987, Pub. L. 100–17, § 312(f)(1), 101 Stat. 229. |
+| 5307(e) | 49 App.:1607a(k)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(k)(1); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2145; Apr. 2, 1987, Pub. L. 100–17, §§ 309(c), (d), (f), 312(b)(1), 327(b), 101 Stat. 227, 228, 238. |
+| 5307(f) | 49 App.:1607a (note). | Nov. 21, 1989, Pub. L. 101–164, § 334(c), 103 Stat. 1098. |
+| 5307(g) | 49 App.:1607a(p). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(p); added Apr. 2, 1987, Pub. L. 100–17, § 306(b), 101 Stat. 225. |
+| 5307(h) | 49 App.:1607a(e)(6). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(e)(6); added Dec. 18, 1991, Pub. L. 102–240, § 3013(e), 105 Stat. 2106. |
+| 5307(i) | 49 App.:1607a(g). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(g); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2144; Apr. 2, 1987, Pub. L. 100–17, §§ 312(f)(2), 327(b), 101 Stat. 229, 238. |
+| 5307(j) | 49 App.:1607a(e)(4). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(e)(4); added Apr. 2, 1987, Pub. L. 100–17, § 312(b)(2), 101 Stat. 228. |
+| 5307(k) | 49 App.:1607a(e)(2) (2d, 3d sentences). |  |
+| 5307(l) | 49 App.:1607a(i). |  |
+| 5307(m) | 49 App.:1607a(r). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(r); added Dec. 18, 1991, Pub. L. 102–240, § 3013(j), 105 Stat. 2107. |
+| 5307(n)(1) | 49 App.:1607a(h). |  |
+| 5307(n)(2) | 49 App.:1607a(e)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(e)(1); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2143; Apr. 2, 1987, Pub. L. 100–17, § 327(b), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, § 3013(c), 105 Stat. 2106. |
+
+In subsection (a)(2)(A), the word “required” is omitted as surplus. The word “apportion” is substituted for “dispense” for consistency in this chapter. The word “appropriated” is omitted for clarity.
+
+In subsection (a)(2)(B), the word “authority” is substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “by lease, contract, or otherwise” are omitted as surplus.
+
+In subsection (b)(1), the words “by operation or lease or otherwise” are omitted as surplus.
+
+In subsection (b)(3), the words “the Secretary prescribes” are added for clarity. The text of 49 App.:1607a(j)(1) (4th sentence) is omitted as executed.
+
+In subsection (b)(4), the words “(whether by employees of the grant recipient or by contract)” are omitted as surplus.
+
+In subsection (c)(1), the words “of funds” are omitted as surplus. The words “to the recipient” are added for clarity. The words “with such funds” are omitted as surplus.
+
+In subsection (c)(3), the words “as appropriate” are omitted as surplus.
+
+In subsection (c)(5), the words “and shall, if deemed appropriate by the recipient, modify the proposed program of projects” are omitted as surplus.
+
+In subsection (d)(1)(B), the words “through operation or lease or otherwise” are omitted as surplus.
+
+In subsection (d)(1)(D), the words “ensure that elderly and handicapped individuals . . . will be charged during non-peak hours for transportation using or involving a facility or equipment of a project financed under this chapter not more than 50 percent of the peak hour fare” are substituted for 49 App.:1607a(e)(3)(C) and the words “will give the rate required by section 1604(m) of this Appendix” for clarity and consistency in the revised title. The word “duly” is omitted as surplus.
+
+In subsection (d)(1)(J)(ii), the words “has decided” are added for clarity to correct an error in the source provisions being restated.
+
+In subsection (e), the words “at its option”, “public”, “the amount of any”, “by such system”, “Any public or private”, “solely”, and “available in” are omitted as surplus.
+
+In subsection (f), the word “authority” is substituted for “agency or instrumentality” for consistency in the revised title and with other titles of the Code.
+
+In subsection (f)(1), the words “is responsible under State laws for the financing, construction and operation, directly by lease, contract or otherwise, of public transportation services” are omitted as surplus because a State that is a designated recipient has that responsibility. The words “of UMTA funds”, “combined total permissible”, and “regardless of whether the amount for any particular urbanized area is exceeded” are omitted as surplus.
+
+In subsection (f)(2), the word “Secretary” is substituted for “UMTA” [subsequently changed to “FTA” because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088)] because of 49:102(b) and 107(a). The words “This provision shall take effect with the fiscal year 1990 section 9 apportionment” are omitted as obsolete.
+
+In subsection (g)(2), before clause (A), the word “applies” is substituted for “is sought beyond the currently authorized funds for such recipient” to eliminate unnecessary words. In clause (A), the words “of funds” are omitted as surplus.
+
+In subsection (g)(3), the words “Subject to the provisions of this paragraph”, “the Federal share of which the Secretary is authorized to pay under this subsection”, and “actually” are omitted as surplus.
+
+In subsection (i)(1)(A), before clause (i), the words “necessary or” are omitted as surplus. In clause (ii), the words “required by law” are substituted for “which is consistent with the applicable requirements of this chapter and other applicable laws” to eliminate unnecessary words.
+
+In subsection (i)(1)(B), the words “Comptroller General” are substituted for “General Accounting Office” because of 31:702(b).
+
+In subsection (i)(2), the words “In addition to the reviews and audits described in paragraph (1)” and “perform a” are omitted as surplus.
+
+Subsection (i)(3) is substituted for 49 App.:1607a(g)(3) to eliminate unnecessary words.
+
+In subsection (l), the words “Administrator for Federal Procurement Policy” are substituted for “Office of Federal Procurement Policy” because of 41:404(b). The words “Such approval shall be binding until withdrawn” are omitted as surplus.
+
+In subsection (n)(1), the words “available under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336)” are substituted for “available under this subsection” for clarity.
+
+In subsection (n)(2), the references to sections 5302(a)(8) and 5318 are added for clarity. The source provisions of sections 5302(a)(8) and 5318, enacted by section 317 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (Public Law 100–17, 101 Stat. 233), were not intended to come under the exclusion stated in 49 App.:1607a(e)(1). The reference to 49 App.:1604(k)(3) is omitted as obsolete. The words “condition, limitation, or other” and “for programs of projects” are omitted as surplus.
+
+#### Pub. L. 103–429, § 6(7)(A)
+This amends 49:5307(d)(1)(D) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 797).
+
+#### Pub. L. 103–429, § 6(7)(B)
+This makes a clarifying amendment to 49:5307(d)(1)(E)(iii).
+
+#### Pub. L. 104–287
+This amends 49:5307(a)(2) to delete an obsolete provision.
+
+#### References in Text
+The Social Security Act, referred to in subsec. (c)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of such Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.) respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–141, § 20007, amended section generally. Prior to amendment, section related to urbanized area formula grants and consisted of subsecs. (a) to (l).
+
+Subsec. (b)(2). Pub. L. 112–141, § 113002(1), substituted “Special rule for fiscal years 2005 through 2012” for “Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” in heading.
+
+Pub. L. 112–140, §§ 1(c), 302(1), temporarily substituted “ending on july 6, 2012” for “ending on june 30, 2012” in heading. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 302(1), substituted “Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” for “Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 112–141, § 113002(2), substituted “2012,” for “2011 and the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
+
+Pub. L. 112–140, §§ 1(c), 302(2), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 302(2), substituted “2011 and the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.Subsec. (b)(2)(E). Pub. L. 112–141, § 113002(3), substituted “Maximum amounts in fiscal years 2008 through 2012” for “Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” in heading and “2012” for “2011 and during the period beginning on October 1, 2011, and ending on June 30, 2012” in introductory provisions.
+
+Pub. L. 112–140, §§ 1(c), 302(3), temporarily substituted “ending on july 6, 2012” for “ending on june 30, 2012” in heading and “ending on July 6, 2012” for “ending on June 30, 2012” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 302(3), substituted “Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” for “Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” in heading and “2011 and during the period beginning on October 1, 2011, and ending on June 30, 2012” for “2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012” in introductory provisions.
+
+2011—Subsec. (b)(2). Pub. L. 112–30, § 132(1), substituted “Special rule for fiscal years 2005 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” for “Special rule for fiscal years 2005 through 2011” in heading.
+
+Pub. L. 112–5, § 302(1), substituted “Special rule for fiscal years 2005 through 2011” for “Special rule for fiscal years 2005 through 2010, and the period beginning october 1, 2010, and ending march 4, 2011” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 112–30, § 132(2), substituted “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011,” in introductory provisions.
+
+Pub. L. 112–5, § 302(2), substituted “2011,” for “2010, and the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+
+Subsec. (b)(2)(E). Pub. L. 112–30, § 132(3), substituted “Maximum amounts in fiscal years 2008 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” for “Maximum amounts in fiscal years 2008 through 2011” in heading and “2011 and during the period beginning on October 1, 2011, and ending on March 31, 2012” for “2011” in introductory provisions.
+
+Pub. L. 112–5, § 302(3), substituted “Maximum amounts in fiscal years 2008 through 2011” for “Maximum amounts in fiscal years 2008 through 2010 and during the period beginning october 1, 2010, and ending march 4, 2011” in heading and “In each of fiscal years 2008 through 2011” for “In fiscal years 2008 through 2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+
+2010—Subsec. (b)(2). Pub. L. 111–322, § 2302(1), substituted “march 4, 2011” for “december 31, 2010” in heading.
+
+Pub. L. 111–147, § 432(1), substituted “2010, and the period beginning october 1, 2010, and ending december 31, 2010” for “2009” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 111–322, § 2302(2), substituted “March 4, 2011” for “December 31, 2010” in introductory provisions.
+
+Pub. L. 111–147, § 432(2), substituted “2010, and the period beginning October 1, 2010, and ending December 31, 2010,” for “2009,” in introductory provisions.
+
+Subsec. (b)(2)(E). Pub. L. 111–322, § 2302(3), substituted “march 4, 2011” for “december 31, 2010” in heading and “March 4, 2011” for “December 31, 2010” in introductory provisions.
+
+Pub. L. 111–147, § 432(3), substituted “through 2010 and during the period beginning october 1, 2010, and ending december 31, 2010” for “and 2009” in heading and “through 2010, and during the period beginning October 1, 2010, and ending December 31, 2010,” for “and 2009” in introductory provisions.
+
+2008—Subsec. (b)(2). Pub. L. 110–244, § 201(c)(1), substituted “2009” for “2007” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 110–244, § 201(c)(2), in introductory provisions, substituted “2009” for “2007” and “public” for “mass”.
+
+Subsec. (b)(2)(E). Pub. L. 110–244, § 201(c)(3), added subpar. (E).
+
+Subsec. (b)(3). Pub. L. 110–244, § 201(c)(4), substituted “section 5303(k)” for “section 5305(a)” in introductory provisions.
+
+2005—Subsec. (a)(1). Pub. L. 109–59, § 3009(b)(1), substituted “means—” for “means”, designated part of existing provisions as subpar. (A), and added subpar. (B).
+
+Subsec. (a)(2)(A). Pub. L. 109–59, § 3009(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a person designated, consistent with the planning process under sections 5303–5306 of this title, by the chief executive officer of a State, responsible local officials, and publicly owned operators of mass transportation to receive and apportion amounts under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336) that are attributable to transportation management areas established under [section 5305(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5305/a&num=0&edition=prelim); or”.
+
+Subsec. (a)(2)(B). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (b)(1). Pub. L. 109–59, § 3009(c)(1), added par. (1) and struck out former par. (1) which read as follows: “The Secretary of Transportation may make grants under this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
+
+Subsec. (b)(2). Pub. L. 109–59, § 3009(c)(2), added par. (2) and struck out former par. (2) which related to special rule for fiscal years 2003 and 2004 and for the period of Oct. 1, 2004, through July 30, 2005.
+
+Pub. L. 109–40, § 7(m)(1), substituted “july 30, 2005” for “july 27, 2005” in heading.
+
+Pub. L. 109–37, § 7(m)(1), substituted “july 27, 2005” for “july 21, 2005” in heading.
+
+Pub. L. 109–35, § 7(m)(1), substituted “july 21, 2005” for “july 19, 2005” in heading.
+
+Pub. L. 109–20, § 7(m)(1), substituted “july 19, 2005” for “june 30, 2005” in heading.
+
+Pub. L. 109–14, § 7(m)(1), substituted “june 30, 2005” for “may 31, 2005” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 109–40, § 7(m)(2), substituted “July 30, 2005” for “July 27, 2005” in introductory provisions.
+
+Pub. L. 109–37, § 7(m)(2), substituted “July 27, 2005” for “July 21, 2005” in introductory provisions.
+
+Pub. L. 109–35, § 7(m)(2), substituted “July 21, 2005” for “July 19, 2005” in introductory provisions.
+
+Pub. L. 109–20, § 7(m)(2), substituted “July 19, 2005” for “June 30, 2005” in introductory provisions.
+
+Pub. L. 109–14, § 7(m)(2), substituted “June 30, 2005” for “May 31, 2005” in introductory provisions.
+
+Subsec. (b)(3)(A). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (b)(4). Pub. L. 109–59, § 3009(c)(3), struck out par. (4) which read as follows: “A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used, is a capital project for an associated capital maintenance item under this section.”
+
+Subsec. (c)(5). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (d)(1)(A). Pub. L. 109–59, § 3009(d)(1), inserted “, including safety and security aspects of the program” before semicolon at end.
+
+Subsec. (d)(1)(E)(iv). Pub. L. 109–59, § 3009(d)(2), added cl. (iv).
+
+Subsec. (d)(1)(H). Pub. L. 109–59, § 3009(d)(3), substituted “section 5301(a), section 5301(d), and sections 5303 through 5306” for “sections 5301(a) and (d), 5303–5306, and 5310(a)–(d) of this title”.
+
+Subsec. (d)(1)(J)(i). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+Subsec. (d)(1)(K). Pub. L. 109–59, § 3009(d)(4), (5), added subpar. (K).
+
+Subsec. (e). Pub. L. 109–59, § 3009(e), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendment, text read as follows: “A grant of the Government for a capital project (including associated capital maintenance items) under this section is for 80 percent of the net project cost of the project. A recipient may provide additional local matching amounts. A grant for operating expenses may not be more than 50 percent of the net project cost of the project. The remainder of the net project cost shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation (excluding revenues derived from the sale of advertising and concessions that are more than the amount of those revenues in the fiscal year that ended September 30, 1985). Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.”
+
+Subsec. (f)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (g)(4). Pub. L. 109–59, § 3009(f), struck out par. (4) which read as follows: “The Secretary shall consider changes in capital project cost indices when determining the estimated cost under paragraph (3) of this subsection.”
+
+Subsecs. (h), (i). Pub. L. 109–59, § 3009(a), redesignated subsecs. (i) and (l) as (h) and (i), respectively, and struck out heading and text of former subsec. (h). Text read as follows: “The Secretary shall prescribe streamlined administrative procedures for complying with the certification requirement under subsection (d)(1)(B) and (C) of this section for track and signal equipment used in existing operations.”
+
+Subsec. (j). Pub. L. 109–59, § 3009(a), redesignated subsec. (m) as (j) and struck out heading and text of former subsec. (j). Text read as follows: “A recipient (including a person receiving amounts from a chief executive officer of a State under this section) shall submit annually to the Secretary a report on the revenues the recipient derives from the sale of advertising and concessions.”
+
+Subsec. (k). Pub. L. 109–59, § 3009(g), reenacted heading without change and amended text of subsec. (k) generally. Prior to amendment, text read as follows:
+
+“(1) [Section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim) applies to a certificate or submission under this section. The Secretary may end a grant under this section and seek reimbursement, directly or by offsetting amounts available under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336), when a false or fraudulent statement or related act within the meaning of section 1001 is made in connection with a certification or submission.
+
+“(2) Sections 5302, 5318, 5319, 5323(a)(1), (d), and (f), 5332, and 5333 of this title apply to this section and to a grant made under this section. Except as provided in this section, no other provision of this chapter applies to this section or to a grant made under this section.”
+
+Pub. L. 109–59, § 3009(a), redesignated subsec. (n) as (k) and struck out heading and text of former subsec. (k). Text read as follows:
+
+“(1) In general.—One percent of the funds apportioned to urbanized areas with a population of at least 200,000 under section 5336 for a fiscal year shall be made available for transit enhancement activities in accordance with section 5302(a)(15).
+
+“(2) Period of availability.—Funds apportioned under paragraph (1) shall be available for obligation for 3 years following the fiscal year in which the funds are apportioned. Funds that are not obligated at the end of such period shall be reapportioned under the urbanized area formula program of section 5336.
+
+“(3) Report.—A recipient of funds apportioned under paragraph (1) shall submit, as part of the recipient’s annual certification to the Secretary, a report listing the projects carried out during the preceding fiscal year with those funds.”
+
+Subsec. (l). Pub. L. 109–59, § 3009(h), added subsec. (l).
+
+Pub. L. 109–59, § 3009(a)(2), redesignated subsec. (l) as (i).
+
+Subsecs. (m), (n). Pub. L. 109–59, § 3009(a)(2), redesignated subsecs. (m) and (n) as (j) and (k), respectively.
+
+2004—Subsec. (b)(2). Pub. L. 108–310 inserted “and for the period of october 1, 2004, through may 31, 2005” after “2004” in heading and directed the insertion of “and for the period of October 1, 2004, through May 31, 2005” after “2004,” in subpar. (A), which was executed by making the insertion after “2004” in introductory provisions of subpar. (A), to reflect the probable intent of Congress.
+
+Pub. L. 108–280 substituted “fiscal years 2003 and 2004” for “fiscal year 2003 and for the period of october 1, 2003, through july 31, 2004” in heading and “fiscal years 2003 and 2004” for “fiscal year 2003, and for the period of October 1, 2003, through July 31, 2004” in introductory provisions of subpar. (A).
+
+Pub. L. 108–263 substituted “july 31, 2004” for “june 30, 2004” in heading and “July 31, 2004” for “June 30, 2004” in introductory provisions of subpar. (A).
+
+Pub. L. 108–224 substituted “june 30, 2004” for “april 30, 2004” in heading and “June 30, 2004” for “April 30, 2004” in introductory provisions of subpar. (A).
+
+Pub. L. 108–202 substituted “april 30, 2004” for “february 29, 2004” in heading and “April 30, 2004” for “February 29, 2004” in introductory provisions of subpar. (A).
+
+2003—Subsec. (b)(2). Pub. L. 108–88, § 8(n)(1), inserted “and for the period of October 1, 2003, through February 29, 2004” after “2003” in heading.
+
+Subsec. (b)(2)(A). Pub. L. 108–88, § 8(n)(2), inserted “and for the period of October 1, 2003, through February 29, 2004” after “2003,” and added cl. (iv).
+
+Subsec. (b)(2)(B). Pub. L. 108–88, § 8(n)(3), inserted at end “Each portion of an area not designated as an urbanized area under the 1990 Federal decennial census and eligible to receive funds under subparagraph (A)(iv) shall receive an amount of funds made available to carry out this section that is no less than the amount the portion of the area received under section 5311 in fiscal year 2002.”
+
+2002—Subsec. (b)(1). Pub. L. 107–232, § 1(1), struck out at end “The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
+
+Subsec. (b)(2) to (4). Pub. L. 107–232, § 1(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and realigned margins of par. (3)(C), as redesignated.
+
+1998—Pub. L. 105–178, § 3007(a)(1), substituted “Urbanized area formula grants” for “Block grants” in section catchline.
+
+Subsec. (a). Pub. L. 105–178, § 3007(b)(1), substituted “In this section, the following definitions apply:” for “In this section—” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 105–178, § 3007(b)(2), inserted “Associated capital maintenance items.—The term” after “(1)”.
+
+Subsec. (a)(2). Pub. L. 105–178, § 3007(b)(3), inserted “Designated recipient.—The term” after “(2)”.
+
+Subsec. (b)(1). Pub. L. 105–178, § 3007(h)(1), as added by Pub. L. 105–206, § 9009(e), inserted at end “The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
+
+Pub. L. 105–178, § 3007(c)(1), substituted “and improvement costs of equipment” for “, improvement, and operating costs of equipment” and inserted at end “The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.”
+
+Subsec. (b)(2)(A). Pub. L. 105–178, § 3007(c)(2)(A), inserted “, in writing,” after “approved”.
+
+Subsec. (b)(2)(C). Pub. L. 105–178, § 3007(c)(2)(B)–(4), added subpar. (C).
+
+Subsec. (b)(3), (4). Pub. L. 105–178, § 3007(c)(5), (6), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “A grant for a capital project under this section also is available to finance the leasing of equipment and facilities for use in mass transportation, subject to regulations the Secretary prescribes limiting the grant to leasing arrangements that are more cost effective than acquisition or construction.”
+
+Subsec. (b)(5). Pub. L. 105–178, § 3007(c)(5), struck out par. (5) which read as follows: “Amounts under this section are available for a highway project under title 23 only if amounts used for the State or local share of the project are eligible to finance either a highway or mass transportation project.”
+
+Subsec. (g)(3). Pub. L. 105–178, § 3007(d), substituted “the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.” for “the amount by which the estimated cost of carrying out the part (if it would be carried out at the time the part is converted to a regularly financed project) exceeds the actual cost (except interest) of carrying out the part.”
+
+Subsec. (i)(2). Pub. L. 105–178, § 3007(e), inserted at end “To the extent practicable, the Secretary shall coordinate such reviews with any related State or local reviews.”
+
+Subsec. (k). Pub. L. 105–178, § 3007(f), amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “A certification under subsection (d) of this section and any additional certification required by law to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of the grant application under this section. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under [section 5336(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5336/e/2&num=0&edition=prelim).”
+
+Subsec. (k)(3). Pub. L. 105–178, § 3007(h)(2), as added by Pub. L. 105–206, § 9009(e), inserted “preceding” before “fiscal year”.
+
+Subsec. (n)(2). Pub. L. 105–178, § 3007(g), inserted “5319,” after “5318,”.
+
+1996—Subsec. (a)(2). Pub. L. 104–287 substituted “title; or” for “title;” in subpar. (A) and “transportation.” for “transportation; or” in subpar. (B) and struck out subpar. (C) which read as follows: “a recipient designated under section 5(b)(1) of the Federal Transit Act not later than January 5, 1983.”
+
+1994—Subsec. (d)(1)(D). Pub. L. 103–429, § 6(7)(A), substituted “section” for “chapter”.
+
+Subsec. (d)(1)(E)(iii). Pub. L. 103–429, § 6(7)(B), substituted “Buy America” for “Buy-American”.
+
+#### Effective and Termination Dates of 2012 Amendment
+Amendment by section 20007 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+Amendment by section 113002 of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under [section 5305 of this title](./chapter-053-public-transportation.md#section-5305).
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+#### Pilot Program for Cooperative Procurement of Major Capital Equipment
+Pub. L. 108–447, div. H, title I, § 167, Dec. 8, 2004, 118 Stat. 3228, required the Secretary to continue the pilot program authorized under section 166 of Pub. L. 108–199, increased the program to 5 pilot projects, and required reports on the results of the projects.
+
+Pub. L. 108–199, div. F, title I, § 166, Jan. 23, 2004, 118 Stat. 309, required the Secretary to establish a pilot program consisting of 3 pilot projects related to cooperative procurement of major capital equipment and required reports on the results of the projects.
+
+#### Local Share
+Pub. L. 105–178, title III, § 3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, § 9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, § 7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, § 7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, § 7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, § 8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, § 7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, § 7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, § 7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, § 7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, § 7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under sections 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
+
+#### Pilot Program for Intercity Rail Infrastructure Investment From Mass Transit Account of Highway Trust Fund
+Pub. L. 105–178, title III, § 3021, June 9, 1998, 112 Stat. 363; as amended by Pub. L. 105–206, title IX, § 9009(m), July 22, 1998, 112 Stat. 857; Pub. L. 105–277, div. A, § 101(g) [title III, § 354], Oct. 21, 1998, 112 Stat. 2681–439, 2681–476; Pub. L. 106–69, title III, § 323, Oct. 9, 1999, 113 Stat. 1020, required the Secretary of Transportation to establish a pilot program to determine the benefits of using funds from the Mass Transit Account of the Highway Trust Fund for intercity passenger rail and required a report evaluating the program to be submitted no later than Oct. 1, 2002.
+
+#### Continuation of Operating Assistance to Certain Larger Urbanized Areas
+Pub. L. 105–178, title III, § 3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, § 9009(o)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, § 101(g) [title III, § 360], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, § 6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, § 101(a) [title III, § 341], Oct. 23, 2000, 114 Stat. 1356, 1356A–32; Pub. L. 108–199, div. F, title I, § 176, Jan. 23, 2004, 118 Stat. 311, authorized the Secretary of Transportation to continue helping to finance mass transportation operating costs in certain urban areas for the period beginning on June 9, 1998, and ending no later than 3 years after that date.
+
+
+<a id="section-5308"></a>
+## § 5308. Repealed. Pub. L. 112–141, div. B, § 20002(a), July 6, 2012, 126 Stat. 622]
+
+### Statutory Notes
+
+Section, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 800; Pub. L. 105–178, title III, § 3008(a), (c), June 9, 1998, 112 Stat. 348; Pub. L. 105–206, title IX, § 9009(f), July 22, 1998, 112 Stat. 855; Pub. L. 109–59, title III, § 3010(a), Aug. 10, 2005, 119 Stat. 1572, related to a grant program for clean fuel buses.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### National Fuel Cell Bus Technology Development Program
+Pub. L. 109–59, title III, § 3045, Aug. 10, 2005, 119 Stat. 1705, which provided for the establishment of a national fuel cell bus technology development program, was repealed by Pub. L. 112–141, div. B, § 20002(c)(4), July 6, 2012, 126 Stat. 622.
+
+
+<a id="section-5309"></a>
+## § 5309. Fixed guideway capital investment grants
+**(a) Definitions.—** In this section, the following definitions shall apply:
+
+(1) **Applicant.—** — The term “applicant” means a State or local governmental authority that applies for a grant under this section.
+
+(2) **Core capacity improvement project.—** — The term “core capacity improvement project” means a substantial corridor-based capital investment in an existing fixed guideway system that increases the capacity of a corridor by not less than 10 percent. The term does not include project elements designed to maintain a state of good repair of the existing fixed guideway system.
+
+(3) **Corridor-based bus rapid transit project.—** — The term “corridor-based bus rapid transit project” means a small start project utilizing buses in which the project represents a substantial investment in a defined corridor as demonstrated by features that emulate the services provided by rail fixed guideway public transportation systems, including defined stations; traffic signal priority for public transportation vehicles; short headway bidirectional services for a substantial part of weekdays and weekend days; and any other features the Secretary may determine support a long-term corridor investment, but the majority of which does not operate in a separated right-of-way dedicated for public transportation use during peak periods.
+
+(4) **Fixed guideway bus rapid transit project.—** — The term “fixed guideway bus rapid transit project” means a bus capital project—
+
+  (A) in which the majority of the project operates in a separated right-of-way dedicated for public transportation use during peak periods;
+
+  (B) that represents a substantial investment in a single route in a defined corridor or subarea; and
+
+  (C) that includes features that emulate the services provided by rail fixed guideway public transportation systems, including—
+
+    (i) defined stations;
+
+    (ii) traffic signal priority for public transportation vehicles;
+
+    (iii) short headway bidirectional services for a substantial part of weekdays and weekend days; and
+
+    (iv) any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate the services provided by rail fixed guideway public transportation systems.
+
+(5) **New fixed guideway capital project.—** — The term “new fixed guideway capital project” means—
+
+  (A) a new fixed guideway project that is a minimum operable segment or extension to an existing fixed guideway system; or
+
+  (B) a fixed guideway bus rapid transit project that is a minimum operable segment or an extension to an existing bus rapid transit system.
+
+(6) **Program of interrelated projects.—** — The term “program of interrelated projects” means the simultaneous development of—
+
+  (A) 2 or more new fixed guideway capital projects or core capacity improvement projects; or
+
+  (B) 1 or more new fixed guideway capital projects and 1 or more core capacity improvement projects.
+
+(7) **Small start project.—** — The term “small start project” means a new fixed guideway capital project or corridor-based bus rapid transit project for which—
+
+  (A) the Federal assistance provided or to be provided under this section is less than $75,000,000; and
+
+  (B) the total estimated net capital cost is less than $250,000,000.
+
+**(b) General Authority.—** The Secretary may make grants under this section to State and local governmental authorities to assist in financing—
+
+(1) new fixed guideway capital projects or small start projects, including the acquisition of real property, the initial acquisition of rolling stock for the system, the acquisition of rights-of-way, and relocation, for fixed guideway corridor development for projects in the advanced stages of project development or engineering; and
+
+(2) core capacity improvement projects, including the acquisition of real property, the acquisition of rights-of-way, double tracking, signalization improvements, electrification, expanding system platforms, acquisition of rolling stock associated with corridor improvements increasing capacity, construction of infill stations, and such other capacity improvement projects as the Secretary determines are appropriate to increase the capacity of an existing fixed guideway system corridor by at least 10 percent. Core capacity improvement projects do not include elements to improve general station facilities or parking, or acquisition of rolling stock alone.
+
+**(c) Grant Requirements.—**
+
+(1) **In general.—** — The Secretary may make a grant under this section for new fixed guideway capital projects, small start projects, or core capacity improvement projects, if the Secretary determines that—
+
+  (A) the project is part of an approved transportation plan required under sections 5303 and 5304; and
+
+  (B) the applicant has, or will have—
+
+    (i) the legal, financial, and technical capacity to carry out the project, including the safety and security aspects of the project;
+
+    (ii) satisfactory continuing control over the use of the equipment or facilities; and
+
+    (iii) the technical and financial capacity to maintain new and existing equipment and facilities.
+
+(2) **Certification.—** — An applicant that has submitted the certifications required under subparagraphs (A), (B), (C), and (H) of section 5307(c)(1) shall be deemed to have provided sufficient information upon which the Secretary may make the determinations required under this subsection.
+
+(3) **Technical capacity.—** — The Secretary shall use an expedited technical capacity review process for applicants that have recently and successfully completed at least 1 new fixed guideway capital project, or core capacity improvement project, if—
+
+  (A) the applicant achieved budget, cost, and ridership outcomes for the project that are consistent with or better than projections; and
+
+  (B) the applicant demonstrates that the applicant continues to have the staff expertise and other resources necessary to implement a new project.
+
+(4) **Recipient requirements.—** — A recipient of a grant awarded under this section shall be subject to all terms, conditions, requirements, and provisions that the Secretary determines to be necessary or appropriate for purposes of this section.
+
+**(d) New Fixed Guideway Grants.—**
+
+(1) **Project development phase.—**
+
+  (A) *Entrance into project development phase.—* — A new fixed guideway capital project shall enter into the project development phase when—
+
+    (i) the applicant—
+
+      (I) submits a letter to the Secretary describing the project and requesting entry into the project development phase; and
+
+      (II) initiates activities required to be carried out under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to the project; and
+
+    (ii) the Secretary—
+
+      (I) responds in writing to the applicant within 45 days whether the information provided is sufficient to enter into the project development phase, including, when necessary, a detailed description of any information deemed insufficient; and
+
+      (II) provides concurrent notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of whether the new fixed guideway capital project is entering the project development phase.
+
+  (B) *Activities during project development phase.—* — Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification, policies and land use patterns that promote public transportation, and local financial commitment under this subsection.
+
+  (C) *Completion of project development activities required.—*
+
+    (i) *In general.—* — Not later than 2 years after the date on which a project enters into the project development phase, the applicant shall complete the activities required to obtain a project rating under subsection (g)(2) and submit completed documentation to the Secretary.
+
+    (ii) *Extension of time.—* — Upon the request of an applicant, the Secretary may extend the time period under clause (i), if the applicant submits to the Secretary—
+
+      (I) a reasonable plan for completing the activities required under this paragraph; and
+
+      (II) an estimated time period within which the applicant will complete such activities.
+
+(2) **Engineering phase.—**
+
+  (A) *In general.—* — A new fixed guideway capital project may advance to the engineering phase upon completion of activities required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), as demonstrated by a record of decision with respect to the project, a finding that the project has no significant impact, or a determination that the project is categorically excluded, only if the Secretary determines that the project—
+
+    (i) is selected as the locally preferred alternative at the completion of the process required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.);
+
+    (ii) is adopted into the metropolitan transportation plan required under section 5303;
+
+    (iii) is justified based on a comprehensive review of the project’s mobility improvements, the project’s environmental benefits, congestion relief associated with the project, economic development effects associated with the project, policies and land use patterns of the project that support public transportation, and the project’s cost-effectiveness as measured by cost per rider;
+
+    (iv) is supported by policies and land use patterns that promote public transportation, including plans for future land use and rezoning, and economic development around public transportation stations; and
+
+    (v) is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
+
+  (B) *Determination that project is justified.—* — In making a determination under subparagraph (A)(iii), the Secretary shall evaluate, analyze, and consider—
+
+    (i) the reliability of the forecasting methods used to estimate costs and utilization made by the recipient and the contractors to the recipient; and
+
+    (ii) population density and current public transportation ridership in the transportation corridor.
+
+**(e) Core Capacity Improvement Projects.—**
+
+(1) **Project development phase.—**
+
+  (A) *Entrance into project development phase.—* — A core capacity improvement project shall be deemed to have entered into the project development phase if—
+
+    (i) the applicant—
+
+      (I) submits a letter to the Secretary describing the project and requesting entry into the project development phase; and
+
+      (II) initiates activities required to be carried out under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to the project; and
+
+    (ii) the Secretary—
+
+      (I) responds in writing to the applicant within 45 days whether the information provided is sufficient to enter into the project development phase, including when necessary a detailed description of any information deemed insufficient; and
+
+      (II) provides concurrent notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of whether the core capacity improvement project is entering the project development phase.
+
+  (B) *Activities during project development phase.—* — Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification and local financial commitment under this subsection.
+
+  (C) *Completion of project development activities required.—*
+
+    (i) *In general.—* — Not later than 2 years after the date on which a project enters into the project development phase, the applicant shall complete the activities required to obtain a project rating under subsection (g)(2) and submit completed documentation to the Secretary.
+
+    (ii) *Extension of time.—* — Upon the request of an applicant, the Secretary may extend the time period under clause (i), if the applicant submits to the Secretary—
+
+      (I) a reasonable plan for completing the activities required under this paragraph; and
+
+      (II) an estimated time period within which the applicant will complete such activities.
+
+(2) **Engineering phase.—**
+
+  (A) *In general.—* — A core capacity improvement project may advance into the engineering phase upon completion of activities required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), as demonstrated by a record of decision with respect to the project, a finding that the project has no significant impact, or a determination that the project is categorically excluded, only if the Secretary determines that the project—
+
+    (i) is selected as the locally preferred alternative at the completion of the process required under the National Environmental Policy Act of 1969;
+
+    (ii) is adopted into the metropolitan transportation plan required under section 5303;
+
+    (iii) is in a corridor that is—
+
+      (I) at or over capacity; or
+
+      (II) projected to be at or over capacity within the next 5 years;
+
+    (iv) is justified based on a comprehensive review of the project’s mobility improvements, the project’s environmental benefits, congestion relief associated with the project, economic development effects associated with the project, the capacity needs of the corridor, and the project’s cost-effectiveness as measured by cost per rider; and
+
+    (v) is supported by an acceptable degree of local financial commitment (including evidence of stable and dependable financing sources), as required under subsection (f).
+
+  (B) *Determination that project is justified.—* — In making a determination under subparagraph (A)(iv), the Secretary shall evaluate, analyze, and consider—
+
+    (i) the reliability of the forecasting methods used to estimate costs and utilization made by the recipient and the contractors to the recipient;
+
+    (ii) whether the project will increase capacity at least 10 percent in a corridor;
+
+    (iii) whether the project will improve interconnectivity among existing systems; and
+
+    (iv) whether the project will improve environmental outcomes.
+
+**(f) Financing Sources.—**
+
+(1) **Requirements.—** — In determining whether a project is supported by an acceptable degree of local financial commitment and shows evidence of stable and dependable financing sources for purposes of subsection (d)(2)(A)(v) or (e)(2)(A)(v), the Secretary shall require that—
+
+  (A) the proposed project plan provides for the availability of contingency amounts that the Secretary determines to be reasonable to cover unanticipated cost increases or funding shortfalls;
+
+  (B) each proposed local source of capital and operating financing is stable, reliable, and available within the proposed project timetable; and
+
+  (C) local resources are available to recapitalize, maintain, and operate the overall existing and proposed public transportation system, including essential feeder bus and other services necessary to achieve the projected ridership levels without requiring a reduction in existing public transportation services or level of service to operate the project.
+
+(2) **Considerations.—** — In assessing the stability, reliability, and availability of proposed sources of local financing for purposes of subsection (d)(2)(A)(v) or (e)(2)(A)(v), the Secretary shall consider—
+
+  (A) the reliability of the forecasting methods used to estimate costs and revenues made by the recipient and the contractors to the recipient;
+
+  (B) existing grant commitments;
+
+  (C) the degree to which financing sources are dedicated to the proposed purposes;
+
+  (D) any debt obligation that exists, or is proposed by the recipient, for the proposed project or other public transportation purpose;
+
+  (E) the extent to which the project has a local financial commitment that exceeds the required non-Government share of the cost of the project; and
+
+  (F) private contributions to the project, including cost-effective project delivery, management or transfer of project risks, expedited project schedule, financial partnering, and other public-private partnership strategies.
+
+**(g) Project Advancement and Ratings.—**
+
+(1) **Project advancement.—** — A new fixed guideway capital project or core capacity improvement project proposed to be carried out using a grant under this section may not advance from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that—
+
+  (A) the project meets the applicable requirements under this section; and
+
+  (B) there is a reasonable likelihood that the project will continue to meet the requirements under this section.
+
+(2) **Ratings.—**
+
+  (A) *Overall rating.—* — In making a determination under paragraph (1), the Secretary shall evaluate and rate a project as a whole on a 5-point scale (high, medium-high, medium, medium-low, or low) based on—
+
+    (i) in the case of a new fixed guideway capital project, the project justification criteria under subsection (d)(2)(A)(iii), the policies and land use patterns that support public transportation, and the degree of local financial commitment; and
+
+    (ii) in the case of a core capacity improvement project, the capacity needs of the corridor, the project justification criteria under subsection (e)(2)(A)(iv), and the degree of local financial commitment.
+
+  (B) *Individual ratings for each criterion.—* — In rating a project under this paragraph, the Secretary shall—
+
+    (i) provide, in addition to the overall project rating under subparagraph (A), individual ratings for each of the criteria established under subsection (d)(2)(A)(iii) or (e)(2)(A)(iv), as applicable; and
+
+    (ii) give comparable, but not necessarily equal, numerical weight to each of the criteria established under subsections (d)(2)(A)(iii) or (e)(2)(A)(iv), as applicable, in calculating the overall project rating under clause (i).
+
+  (C) *Medium rating not required.—* — The Secretary shall not require that any single project justification criterion meet or exceed a “medium” rating in order to advance the project from one phase to another.
+
+(3) **Warrants.—** — The Secretary shall, to the maximum extent practicable, develop and use special warrants for making a project justification determination under subsection (d)(2) or (e)(2), as applicable, for a project proposed to be funded using a grant under this section, if—
+
+  (A) the share of the cost of the project to be provided under this section does not exceed—
+
+    (i) $100,000,000; or
+
+    (ii) 50 percent of the total cost of the project;
+
+  (B) the applicant requests the use of the warrants;
+
+  (C) the applicant certifies that its existing public transportation system is in a state of good repair; and
+
+  (D) the applicant meets any other requirements that the Secretary considers appropriate to carry out this subsection.
+
+(4) **Letters of intent and early systems work agreements.—** — In order to expedite a project under this subsection, the Secretary shall, to the maximum extent practicable, issue letters of intent and enter into early systems work agreements upon issuance of a record of decision for projects that receive an overall project rating of medium or better.
+
+(5) **Policy guidance.—** — The Secretary shall issue policy guidance regarding the review and evaluation process and criteria—
+
+  (A) not later than 180 days after the date of enactment of the Federal Public Transportation Act of 2012; and
+
+  (B) each time the Secretary makes significant changes to the process and criteria, but not less frequently than once every 2 years.
+
+(6) **Rules.—** — Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue rules establishing an evaluation and rating process for—
+
+  (A) new fixed guideway capital projects that is based on the results of project justification, policies and land use patterns that promote public transportation, and local financial commitment, as required under this subsection; and
+
+  (B) core capacity improvement projects that is based on the results of the capacity needs of the corridor, project justification, and local financial commitment.
+
+(7) **Applicability.—** — This subsection shall not apply to a project for which the Secretary issued a letter of intent, entered into a full funding grant agreement, or entered into a project construction agreement before the date of enactment of the Federal Public Transportation Act of 2012.
+
+**(h) Small Start Projects.—**
+
+(1) **In general.—** — A small start project shall be subject to the requirements of this subsection.
+
+(2) **Project development phase.—**
+
+  (A) *Entrance into project development phase.—* — A new small starts project shall enter into the project development phase when—
+
+    (i) the applicant—
+
+      (I) submits a letter to the Secretary describing the project and requesting entry into the project development phase; and
+
+      (II) initiates activities required to be carried out under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to the project; and
+
+    (ii) the Secretary—
+
+      (I) responds in writing to the applicant within 45 days whether the information provided is sufficient to enter into the project development phase, including, when necessary, a detailed description of any information deemed insufficient; and
+
+      (II) provides concurrent notice to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of whether the small starts project is entering the project development phase.
+
+  (B) *Activities during project development phase.—* — Concurrent with the analysis required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), each applicant shall develop sufficient information to enable the Secretary to make findings of project justification, policies and land use patterns that promote public transportation, and local financial commitment under this subsection.
+
+(3) **Selection criteria.—** — The Secretary may provide Federal assistance for a small start project under this subsection only if the Secretary determines that the project—
+
+  (A) has been adopted as the locally preferred alternative as part of the metropolitan transportation plan required under section 5303;
+
+  (B) is based on the results of an analysis of the benefits of the project as set forth in paragraph (4); and
+
+  (C) is supported by an acceptable degree of local financial commitment.
+
+(4) **Evaluation of benefits and federal investment.—** — In making a determination for a small start project under paragraph (3)(B), the Secretary shall analyze, evaluate, and consider the following evaluation criteria for the project (as compared to a no-action alternative): mobility improvements, environmental benefits, congestion relief, economic development effects associated with the project, policies and land use patterns that support public transportation and cost-effectiveness as measured by cost per rider.
+
+(5) **Evaluation of local financial commitment.—** — For purposes of paragraph (3)(C), the Secretary shall require that each proposed local source of capital and operating financing is stable, reliable, and available within the proposed project timetable.
+
+(6) **Ratings.—** — In carrying out paragraphs (4) and (5) for a small start project, the Secretary shall evaluate and rate the project on a 5-point scale (high, medium-high, medium, medium-low, or low) based on an evaluation of the benefits of the project as compared to the Federal assistance to be provided and the degree of local financial commitment, as required under this subsection. In rating the projects, the Secretary shall provide, in addition to the overall project rating, individual ratings for each of the criteria established by this subsection and shall give comparable, but not necessarily equal, numerical weight to the benefits that the project will bring to the community in calculating the overall project rating.
+
+(7) **Grants and expedited grant agreements.—**
+
+  (A) *In general.—* — The Secretary, to the maximum extent practicable, shall provide Federal assistance under this subsection in a single grant. If the Secretary cannot provide such a single grant, the Secretary may execute an expedited grant agreement in order to include a commitment on the part of the Secretary to provide funding for the project in future fiscal years.
+
+  (B) *Terms of expedited grant agreements.—* — In executing an expedited grant agreement under this subsection, the Secretary may include in the agreement terms similar to those established under subsection (k)(2).
+
+  (C) *Notice of proposed grants and expedited grant agreements.—* — At least 10 days before making a grant award or entering into a grant agreement for a project under this subsection, the Secretary shall notify, in writing, the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate of the proposed grant or expedited grant agreement, as well as the evaluations and ratings for the project.
+
+**(i) Programs of Interrelated Projects.—**
+
+(1) **Project development phase.—** — A federally funded project in a program of interrelated projects shall advance through project development as provided in subsection (d) or (e), as applicable.
+
+(2) **Engineering phase.—** — A federally funded project in a program of interrelated projects may advance into the engineering phase upon completion of activities required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), as demonstrated by a record of decision with respect to the project, a finding that the project has no significant impact, or a determination that the project is categorically excluded, only if the Secretary determines that—
+
+  (A) the project is selected as the locally preferred alternative at the completion of the process required under the National Environmental Policy Act of 1969;
+
+  (B) the project is adopted into the metropolitan transportation plan required under section 5303;
+
+  (C) the program of interrelated projects involves projects that have a logical connectivity to one another;
+
+  (D) the program of interrelated projects, when evaluated as a whole, meets the requirements of subsection (d)(2) or (e)(2), as applicable;
+
+  (E) the program of interrelated projects is supported by a program implementation plan demonstrating that construction will begin on each of the projects in the program of interrelated projects within a reasonable time frame; and
+
+  (F) the program of interrelated projects is supported by an acceptable degree of local financial commitment, as described in subsection (f).
+
+(3) **Project advancement and ratings.—**
+
+  (A) *Project advancement.—* — A project receiving a grant under this section that is part of a program of interrelated projects may not advance from the project development phase to the engineering phase, or from the engineering phase to the construction phase, unless the Secretary determines that the program of interrelated projects meets the applicable requirements of this section and there is a reasonable likelihood that the program will continue to meet such requirements.
+
+  (B) *Ratings.—*
+
+    (i) *Overall rating.—* — In making a determination under subparagraph (A), the Secretary shall evaluate and rate a program of interrelated projects on a 5-point scale (high, medium-high, medium, medium-low, or low) based on the criteria described in paragraph (2).
+
+    (ii) *Individual rating for each criterion.—* — In rating a program of interrelated projects, the Secretary shall provide, in addition to the overall program rating, individual ratings for each of the criteria described in paragraph (2) and shall give comparable, but not necessarily equal, numerical weight to each such criterion in calculating the overall program rating.
+
+    (iii) *Medium rating not required.—* — The Secretary shall not require that any single criterion described in paragraph (2) meet or exceed a “medium” rating in order to advance the program of interrelated projects from one phase to another.
+
+(4) **Annual review.—**
+
+  (A) *Review required.—* — The Secretary shall annually review the program implementation plan required under paragraph (2)(E) to determine whether the program of interrelated projects is adhering to its schedule.
+
+  (B) *Extension of time.—* — If a program of interrelated projects is not adhering to its schedule, the Secretary may, upon the request of the applicant, grant an extension of time if the applicant submits a reasonable plan that includes—
+
+    (i) evidence of continued adequate funding; and
+
+    (ii) an estimated time frame for completing the program of interrelated projects.
+
+  (C) *Satisfactory progress required.—* — If the Secretary determines that a program of interrelated projects is not making satisfactory progress, no Federal funds shall be provided for a project within the program of interrelated projects.
+
+(5) **Failure to carry out program of interrelated projects.—**
+
+  (A) *Repayment required.—* — If an applicant does not carry out the program of interrelated projects within a reasonable time, for reasons within the control of the applicant, the applicant shall repay all Federal funds provided for the program, and any reasonable interest and penalty charges that the Secretary may establish.
+
+  (B) *Crediting of funds received.—* — Any funds received by the Government under this paragraph, other than interest and penalty charges, shall be credited to the appropriation account from which the funds were originally derived.
+
+(6) **Non-federal funds.—** — Any non-Federal funds committed to a project in a program of interrelated projects may be used to meet a non-Government share requirement for any other project in the program of interrelated projects, if the Government share of the cost of each project within the program of interrelated projects does not exceed 80 percent.
+
+(7) **Priority.—** — In making grants under this section, the Secretary may give priority to programs of interrelated projects for which the non-Government share of the cost of the projects included in the programs of interrelated projects exceeds the non-Government share required under subsection (l).
+
+(8) **Non-government projects.—** — Including a project not financed by the Government in a program of interrelated projects does not impose Government requirements that would not otherwise apply to the project.
+
+**(j) Previously Issued Letter of Intent or Full Funding Grant Agreement.—** Subsections (d) and (e) shall not apply to projects for which the Secretary has issued a letter of intent, approved entry into final design, entered into a full funding grant agreement, or entered into a project construction grant agreement before the date of enactment of the Federal Public Transportation Act of 2012.
+
+**(k) Letters of Intent, Full Funding Grant Agreements, and Early Systems Work Agreements.—**
+
+(1) **Letters of intent.—**
+
+  (A) *Amounts intended to be obligated.—* — The Secretary may issue a letter of intent to an applicant announcing an intention to obligate, for a new fixed guideway capital project or core capacity improvement project, an amount from future available budget authority specified in law that is not more than the amount stipulated as the financial participation of the Secretary in the project. When a letter is issued for a capital project under this section, the amount shall be sufficient to complete at least an operable segment.
+
+  (B) *Treatment.—* — The issuance of a letter under subparagraph (A) is deemed not to be an obligation under sections 1108(c), 1501, and 1502(a) of title 31 or an administrative commitment.
+
+(2) **Full funding grant agreements.—**
+
+  (A) *In general.—* — A new fixed guideway capital project or core capacity improvement project shall be carried out through a full funding grant agreement.
+
+  (B) *Criteria.—* — The Secretary shall enter into a full funding grant agreement, based on the evaluations and ratings required under subsection (d), (e), or (i), as applicable, with each grantee receiving assistance for a new fixed guideway capital project or core capacity improvement project that has been rated as high, medium-high, or medium, in accordance with subsection (g)(2)(A) or (i)(3)(B), as applicable.
+
+  (C) *Terms.—* — A full funding grant agreement shall—
+
+    (i) establish the terms of participation by the Government in a new fixed guideway capital project or core capacity improvement project;
+
+    (ii) establish the maximum amount of Federal financial assistance for the project;
+
+    (iii) include the period of time for completing the project, even if that period extends beyond the period of an authorization; and
+
+    (iv) make timely and efficient management of the project easier according to the law of the United States.
+
+  (D) *Special financial rules.—*
+
+    (i) *In general.—* — A full funding grant agreement under this paragraph obligates an amount of available budget authority specified in law and may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
+
+    (ii) *Statement of contingent commitment.—* — The agreement shall state that the contingent commitment is not an obligation of the Government.
+
+    (iii) *Interest and other financing costs.—* — Interest and other financing costs of efficiently carrying out a part of the project within a reasonable time are a cost of carrying out the project under a full funding grant agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+
+    (iv) *Completion of operable segment.—* — The amount stipulated in an agreement under this paragraph for a new fixed guideway capital project shall be sufficient to complete at least an operable segment.
+
+  (E) *Before and after study.—*
+
+    (i) *In general.—* — A full funding grant agreement under this paragraph shall require the applicant to conduct a study that—
+
+      (I) describes and analyzes the impacts of the new fixed guideway capital project or core capacity improvement project on public transportation services and public transportation ridership;
+
+      (II) evaluates the consistency of predicted and actual project characteristics and performance; and
+
+      (III) identifies reasons for differences between predicted and actual outcomes.
+
+    (ii) *Information collection and analysis plan.—*
+
+      (I) *Submission of plan.—* — Applicants seeking a full funding grant agreement under this paragraph shall submit a complete plan for the collection and analysis of information to identify the impacts of the new fixed guideway capital project or core capacity improvement project and the accuracy of the forecasts prepared during the development of the project. Preparation of this plan shall be included in the full funding grant agreement as an eligible activity.
+
+      (II) *Contents of plan.—* — The plan submitted under subclause (I) shall provide for—
+
+        (aa) collection of data on the current public transportation system regarding public transportation service levels and ridership patterns, including origins and destinations, access modes, trip purposes, and rider characteristics;
+
+        (bb) documentation of the predicted scope, service levels, capital costs, operating costs, and ridership of the project;
+
+        (cc) collection of data on the public transportation system 2 years after the opening of a new fixed guideway capital project or core capacity improvement project, including analogous information on public transportation service levels and ridership patterns and information on the as-built scope, capital, and financing costs of the project; and
+
+        (dd) analysis of the consistency of predicted project characteristics with actual outcomes.
+
+  (F) *Collection of data on current system.—* — To be eligible for a full funding grant agreement under this paragraph, recipients shall have collected data on the current system, according to the plan required under subparagraph (E)(ii), before the beginning of construction of the proposed new fixed guideway capital project or core capacity improvement project. Collection of this data shall be included in the full funding grant agreement as an eligible activity.
+
+(3) **Early systems work agreements.—**
+
+  (A) *Conditions.—* — The Secretary may enter into an early systems work agreement with an applicant if a record of decision under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) has been issued on the project and the Secretary finds there is reason to believe—
+
+    (i) a full funding grant agreement for the project will be made; and
+
+    (ii) the terms of the work agreement will promote ultimate completion of the project more rapidly and at less cost.
+
+  (B) *Contents.—*
+
+    (i) *In general.—* — An early systems work agreement under this paragraph obligates budget authority available under this chapter and title 23 and shall provide for reimbursement of preliminary costs of carrying out the project, including land acquisition, timely procurement of system elements for which specifications are decided, and other activities the Secretary decides are appropriate to make efficient, long-term project management easier.
+
+    (ii) *Contingent commitment.—* — An early systems work agreement may include a commitment, contingent on amounts to be specified in law in advance for commitments under this paragraph, to obligate an additional amount from future available budget authority specified in law.
+
+    (iii) *Period covered.—* — An early systems work agreement under this paragraph shall cover the period of time the Secretary considers appropriate. The period may extend beyond the period of current authorization.
+
+    (iv) *Interest and other financing costs.—* — Interest and other financing costs of efficiently carrying out the early systems work agreement within a reasonable time are a cost of carrying out the agreement, except that eligible costs may not be more than the cost of the most favorable financing terms reasonably available for the project at the time of borrowing. The applicant shall certify, in a way satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+
+    (v) *Failure to carry out project.—* — If an applicant does not carry out the project for reasons within the control of the applicant, the applicant shall repay all Federal grant funds awarded for the project from all Federal funding sources, for all project activities, facilities, and equipment, plus reasonable interest and penalty charges allowable by law or established by the Secretary in the early systems work agreement.
+
+    (vi) *Crediting of funds received.—* — Any funds received by the Government under this paragraph, other than interest and penalty charges, shall be credited to the appropriation account from which the funds were originally derived.
+
+(4) **Limitation on amounts.—**
+
+  (A) *In general.—* — The Secretary may enter into full funding grant agreements under this subsection for new fixed guideway capital projects and core capacity improvement projects that contain contingent commitments to incur obligations in such amounts as the Secretary determines are appropriate.
+
+  (B) *Appropriation required.—* — An obligation may be made under this subsection only when amounts are appropriated for the obligation.
+
+(5) **Notification to congress.—** — At least 30 days before issuing a letter of intent, entering into a full funding grant agreement, or entering into an early systems work agreement under this section, the Secretary shall notify, in writing, the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives of the proposed letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project.
+
+**(l) Government Share of Net Capital Project Cost.—**
+
+(1) **In general.—** — Based on engineering studies, studies of economic feasibility, and information on the expected use of equipment or facilities, the Secretary shall estimate the net capital project cost. A grant for a fixed guideway project or small start project shall not exceed 80 percent of the net capital project cost. A grant for a core capacity project shall not exceed 80 percent of the net capital project cost of the incremental cost of increasing the capacity in the corridor.
+
+(2) **Adjustment for completion under budget.—** — The Secretary may adjust the final net capital project cost of a new fixed guideway capital project or core capacity improvement project evaluated under subsection (d), (e), or (i) to include the cost of eligible activities not included in the originally defined project if the Secretary determines that the originally defined project has been completed at a cost that is significantly below the original estimate.
+
+(3) **Maximum government share.—** — The Secretary may provide a higher grant percentage than requested by the grant recipient if—
+
+  (A) the Secretary determines that the net capital project cost of the project is not more than 10 percent higher than the net capital project cost estimated at the time the project was approved for advancement into the engineering phase; and
+
+  (B) the ridership estimated for the project is not less than 90 percent of the ridership estimated for the project at the time the project was approved for advancement into the engineering phase.
+
+(4) **Remainder of net capital project cost.—** — The remainder of the net capital project cost shall be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+
+(5) **Limitation on statutory construction.—** — Nothing in this section shall be construed as authorizing the Secretary to require a non-Federal financial commitment for a project that is more than 20 percent of the net capital project cost.
+
+(6) **Special rule for rolling stock costs.—** — In addition to amounts allowed pursuant to paragraph (1), a planned extension to a fixed guideway system may include the cost of rolling stock previously purchased if the applicant satisfies the Secretary that only amounts other than amounts provided by the Government were used and that the purchase was made for use on the extension. A refund or reduction of the remainder may be made only if a refund of a proportional amount of the grant of the Government is made at the same time.
+
+(7) **Limitation on applicability.—** — This subsection shall not apply to projects for which the Secretary entered into a full funding grant agreement before the date of enactment of the Federal Public Transportation Act of 2012.
+
+(8) **Special rule for fixed guideway bus rapid transit projects.—** — For up to three fixed-guideway bus rapid transit projects each fiscal year the Secretary shall—
+
+  (A) establish a Government share of at least 80 percent; and
+
+  (B) not lower the project’s rating for degree of local financial commitment for purposes of subsections (d)(2)(A)(v) or (h)(3)(C) as a result of the Government share specified in this paragraph.
+
+**(m) Undertaking Projects in Advance.—**
+
+(1) **In general.—** — The Secretary may pay the Government share of the net capital project cost to a State or local governmental authority that carries out any part of a project described in this section without the aid of amounts of the Government and according to all applicable procedures and requirements if—
+
+  (A) the State or local governmental authority applies for the payment;
+
+  (B) the Secretary approves the payment; and
+
+  (C) before the State or local governmental authority carries out the part of the project, the Secretary approves the plans and specifications for the part in the same way as other projects under this section.
+
+(2) **Financing costs.—**
+
+  (A) *In general.—* — The cost of carrying out part of a project includes the amount of interest earned and payable on bonds issued by the State or local governmental authority to the extent proceeds of the bonds are expended in carrying out the part.
+
+  (B) *Limitation on amount of interest.—* — The amount of interest under this paragraph may not be more than the most favorable interest terms reasonably available for the project at the time of borrowing.
+
+  (C) *Certification.—* — The applicant shall certify, in a manner satisfactory to the Secretary, that the applicant has shown reasonable diligence in seeking the most favorable financing terms.
+
+**(n) Availability of Amounts.—**
+
+(1) **In general.—** — An amount made available or appropriated for a new fixed guideway capital project or core capacity improvement project shall remain available to that project for 5 fiscal years, including the fiscal year in which the amount is made available or appropriated. Any amounts that are unobligated to the project at the end of the 5-fiscal-year period may be used by the Secretary for any purpose under this section.
+
+(2) **Use of deobligated amounts.—** — An amount available under this section that is deobligated may be used for any purpose under this section.
+
+**(o) Reports on New Fixed Guideway and Core Capacity Improvement Projects.—**
+
+(1) **Annual report on funding recommendations.—** — Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives a report that includes—
+
+  (A) a proposal of allocations of amounts to be available to finance grants for projects under this section among applicants for these amounts;
+
+  (B) evaluations and ratings, as required under subsections (d), (e), and (i), for each such project that is in project development, engineering, or has received a full funding grant agreement; and
+
+  (C) recommendations of such projects for funding based on the evaluations and ratings and on existing commitments and anticipated funding levels for the next 3 fiscal years based on information currently available to the Secretary.
+
+(2) **Reports on before and after studies.—** — Not later than the first Monday in August of each year, the Secretary shall submit to the committees described in paragraph (1) a report containing a summary of the results of any studies conducted under subsection (k)(2)(E).
+
+(3) **Biennial gao review.—** — The Comptroller General of the United States shall—
+
+  (A) conduct a biennial review of—
+
+    (i) the processes and procedures for evaluating, rating, and recommending new fixed guideway capital projects and core capacity improvement projects; and
+
+    (ii) the Secretary’s implementation of such processes and procedures; and
+
+  (B) report to Congress on the results of such review by May 31 of each year.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5309(a) (1)–(5) | 49 App.:1602(a)(1)(A). | July 9, 1964, Pub. L. 88–365, § 3(a)(1)(A), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§ 102, 104, 106, 88 Stat. 1566, 1571, 1572; Nov. 6, 1978, Pub. L. 95–599, § 302(a), 92 Stat. 2735; Jan. 6, 1983, Pub. L. 97–424, § 313, 96 Stat. 2152. |
+|  | 49 App.:1602(a)(1)(B), (C), (D) (1st, 3d sentences). | July 9, 1964, Pub. L. 88–365, § 3(a)(1)(B)–(D), (2)(B), (3), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§ 102, 104, 106, 88 Stat. 1566, 1571, 1572; restated Nov. 6, 1978, Pub. L. 95–599, § 302(a), 92 Stat. 2735, 2736. |
+| 5309(a)(6) | 49 App.:1602(a)(1)(E). | July 9, 1964, Pub. L. 88–365, § 3(a)(1)(E), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§ 102, 104, 106, 88 Stat. 1566, 1571, 1572; Nov. 6, 1978, Pub. L. 95–599, § 302(a), 92 Stat. 2736; restated Dec. 18, 1991, Pub. L. 102–240, § 3006(a), 105 Stat. 2089. |
+| 5309(a)(7) | 49 App.:1602(a)(1)(F). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(a)(1)(F); added Dec. 18, 1991, Pub. L. 102–240, § 3006(b), 105 Stat. 2089. |
+| 5309(b)(1) | 49 App.:1602(b) (1st sentence). | July 9, 1964, Pub. L. 88–365, § 3(b), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; restated Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 963; Nov. 6, 1978, Pub. L. 95–599, § 302(b), 92 Stat. 2737. |
+| 5309(b)(2) | 49 App.:1602(a)(2)(B). |  |
+| 5309(b)(3) | 49 App.:1602(b) (8th, last sentences). |  |
+| 5309(b)(4), (5) | 49 App.:1602(b) (2d–6th sentences). |  |
+| 5309(c) | 49 App.:1602(a)(5). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(a)(5); added Jan. 6, 1983, Pub. L. 97–424, § 304(b), 96 Stat. 2149. |
+| 5309(d) | 49 App.:1602(a)(2)(A). | July 9, 1964, Pub. L. 88–365, § 3(a)(2)(A), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§ 102, 104, 106, 88 Stat. 1566, 1571, 1572; Nov. 6, 1978, Pub. L. 95–599, § 302(a), 92 Stat. 2736; Jan. 6, 1983, Pub. L. 97–424, § 304(a), 96 Stat. 2149; restated Apr. 2, 1987, Pub. L. 100–17, § 309(e), 101 Stat. 227. |
+|  | 49 App.:1602(a)(3). |  |
+| 5309(e)(1) | 49 App.:1602 (note). | Apr. 2, 1987, Pub. L. 100–17, § 303(b), 101 Stat. 223. |
+| 5309(e) (2)–(7) | 49 App.:1602(i). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(i); added Apr. 2, 1987, Pub. L. 100–17, § 303(a), 101 Stat. 223; restated Dec. 18, 1991, Pub. L. 102–240, § 3010, 105 Stat. 2093. |
+| 5309(f)(1) | 49 App.:1602(a)(1)(D) (last sentence). |  |
+| 5309(f)(2) | 49 App.:1602(a)(1)(D) (2d sentence). |  |
+| 5309(g) | 49 App.:1602(a)(4). | July 9, 1964, Pub. L. 88–365, § 3(a)(4), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§ 102, 104, 106, 88 Stat. 1566, 1571, 1572; restated Nov. 6, 1978, Pub. L. 95–599, § 302(a), 92 Stat. 2736; Jan. 6, 1983, Pub. L. 97–424, § 305, 96 Stat. 2150; Apr. 2, 1987, Pub. L. 100–17, § 302, 101 Stat. 223; Dec. 18, 1991, Pub. L. 102–240, § 3007, 105 Stat. 2090. |
+| 5309(h) | 49 App.:1603(a). | July 9, 1964, Pub. L. 88–365, § 4(a), 78 Stat. 304; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Aug. 1, 1968, Pub. L. 90–448, § 704(a), 82 Stat. 535; Oct. 15, 1970, Pub. L. 91–453, § 3(a), 84 Stat. 965; Aug. 13, 1973, Pub. L. 93–87, § 301(a), 87 Stat. 295; Nov. 26, 1974, Pub. L. 93–503, § 103(b), 88 Stat. 1571; Nov. 6, 1978, Pub. L. 95–599, § 303(b), 92 Stat. 2737; Jan. 6, 1983, Pub. L. 97–424, § 302(b), 96 Stat. 2141; Dec. 18, 1991, Pub. L. 102–240, § 3006(f), (g), 105 Stat. 2089. |
+| 5309(i) | 49 App.:1602(c) (2d, last sentences). | July 9, 1964, Pub. L. 88–365, § 3(c), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; restated Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 964. |
+| 5309(j) | 49 App.:1602(b) (7th sentence). |  |
+| 5309(k) | 49 App.:1602(c) (1st sentence). |  |
+| 5309(l) | 49 App.:1603(d). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 4(d); added Dec. 18, 1991, Pub. L. 102–240, § 3006(h)(2), 105 Stat. 2090. |
+| 5309(m)(1) | 49 App.:1602(k)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(k)(1); added Apr. 2, 1987, Pub. L. 100–17, § 305, 101 Stat. 224; restated Dec. 18, 1991, Pub. L. 102–240, § 3006(d)(1), 105 Stat. 2089. |
+| 5309(m)(2) | 49 App.:1602(k)(3). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(k)(3); added Dec. 18, 1991, Pub. L. 102–240, § 3006(d)(2), 105 Stat. 2089. |
+| 5309(m)(3) | 49 App.:1602(j). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(j); added Apr. 2, 1987, Pub. L. 100–17, § 304, 101 Stat. 223. |
+| 5309(m)(4) | 49 App.:1602(k)(2). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(k)(2); added Apr. 2, 1987, Pub. L. 100–17, § 305, 101 Stat. 224. |
+| 5309(n) | 49 App.:1602(l). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(l); added Apr. 2, 1987, Pub. L. 100–17, § 306(a), 101 Stat. 224; Dec. 18, 1991, Pub. L. 102–240, § 3006(e), 105 Stat. 2089. |
+| 5309(o) | 49 App.:1602(n). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(n); added Oct. 6, 1992, Pub. L. 102–388, § 502(d), 106 Stat. 1566. |
+
+In subsection (a), before clause (1), the words “in accordance with the provisions of this chapter” are omitted as surplus. The words “and on such terms and conditions as the Secretary may prescribe” and 49 App.:1602(a)(1)(D) (3d sentence) are omitted as unnecessary because of section 5334(a) of the revised title and 49:322(a). The words “(directly, through the purchase of securities or equipment trust certificates, or otherwise)” and “and agencies thereof” are omitted as surplus. In clause (1), the word “detailed” is omitted as surplus. In clause (2), the words “capital projects” are substituted for “the acquisition, construction, reconstruction, and improvement of facilities and equipment for use, by operation or lease or otherwise, in mass transportation service” for clarity and consistency in this section. The words “Eligible facilities and equipment may include personal property such as buses and other rolling stock, and rail and bus facilities, and real” are omitted as surplus. The text of 49 App.:1602(a)(1)(B) (last sentence) is omitted as obsolete because former 49 App.:1604(a)(4) is executed and is not included in this restatement. In clause (3), the words “the capital costs of” are added for clarity and consistency in this section. The words “highway and” are omitted as surplus.
+
+In subsection (b)(1), the word “finance” is omitted as surplus.
+
+In subsection (b)(2), the words “for real property acquisition” are omitted as surplus. The words “for an approved project” are added for clarity and consistency. The words “which shall be in lieu of the determination required by subparagraph (A)”, “real”, and “connection with” are omitted as surplus.
+
+In subsection (b)(3), the word “comprehensive” is omitted as surplus. The words “by the project” are added for clarity. The words “a period of” and “longer” are omitted as surplus.
+
+In subsection (b)(4), the words “a period not exceeding” and “Each agreement shall provide that” are omitted as surplus. The words “shall be made within the 10-year period” are substituted for “shall not be later than 10 years following the fiscal year in which the agreement is made” to eliminate unnecessary words. The words “if any, over the original cost of the real property” are omitted as surplus. The words “deposit in” are substituted for “credit to” for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (b)(5), the word “actual” is omitted as surplus. The words “deposited in” are substituted for “credited to” for consistency in the revised title and with other titles of the Code.
+
+In subsection (c), before clause (1), the words “grant or loan” are substituted for “assistance” for consistency in the revised section. In clause (1), the words “rail carrier” are substituted for “railroad” for consistency in the revised title and with other titles of the Code.
+
+In subsection (d), before clause (1), the words “Except as provided in subsections (b)(2) and (e) of this section” are added for clarity. In clause (1), the words “through operation or lease or otherwise” are omitted as surplus.
+
+In subsection (e)(2), before clause (A), the word “existing” is added for clarity and consistency.
+
+In subsection (e)(6)(C), the words “Part A of title I of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 1915)” are substituted for “the Federal-Aid Highway Act of 1991” because the Federal-Aid Highway Act of 1991 was title I of H.R. 1531, that was not enacted into law but contained predecessor provisions to Part A of title I of H.R. 2950, enacted into law as the Intermodal Surface Transportation Efficiency Act of 1991.
+
+In subsection (f)(1), the words “or entity” are omitted as surplus.
+
+In subsection (f)(2), before clause (A), the words “for a project under subsection (a)(5) of this section” are added for clarity. In clause (B), the words “whether publicly or privately owned” are omitted as surplus.
+
+In subsection (g)(1)(A), the words “The letter shall be regarded as an intention to obligate” are omitted as surplus.
+
+In subsection (g)(1)(D), the words “pursuant to such a letter of intent” are omitted as surplus.
+
+In subsection (g)(2)(A)(i), the words “and conditions” are omitted as being included in “terms”.
+
+In subsection (g)(4), the word “issued” is omitted as surplus. The text of 49 App.:1602(a)(4)(E) (3d sentence) is omitted as executed. The text of 49 App.:1602(a)(4)(E) (4th and last sentences) is omitted as obsolete.
+
+In subsection (h), the words “nature and extent of” are omitted as surplus. The words “net project cost” are substituted for “what portion of the cost of a project to be assisted under section 1602 of this Appendix cannot be reasonably financed from revenues—which portion shall hereinafter be called ‘net project cost’ ” because of the definition of “net project cost” in section 5302(a) of the revised title. The words “Except as provided in paragraph (2) of this subsection” are added for clarity. The words “Such remainder may be provided in whole or in part from other than public sources and any public or private”, “solely”, and “at any time” are omitted as surplus. The words “shall be deemed” are omitted as unnecessary since the text is a statement of a legal conclusion.
+
+In subsection (i), before clause (1), the words “Except for a loan under subsection (b) of this section” are added for clarity. The words “made under this section” and “at a rate” are omitted as surplus. In clause (1), the word “market” is omitted as surplus. In clause (2), the words “under the program” are omitted as surplus.
+
+In subsection (j), the words “loan and interest” are substituted for “principal and accrued interest on the loan then outstanding” to eliminate unnecessary words.
+
+In subsection (m)(1)(B) and (3), the word “existing” is added for clarity and consistency.
+
+In subsection (m)(1), before clause (A), the words “Subject to paragraph (3)” are omitted as surplus. The reference to fiscal year 1992 is omitted as obsolete.
+
+In subsection (m)(3), before clause (A), the words “Not later than 30 days after April 2, 1987” are omitted as executed. The words “prepare and” are omitted as surplus. The text of 49 App.:1602(j)(1) is omitted as obsolete because 49 App.:1602(k)(1) was restated by section 3006(d)(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2089) and clause (D) was not carried forward.
+
+In subsection (m)(4), the text of 49 App.:1602(k)(2)(B) is omitted as expired.
+
+In subsection (n)(2), the words “Subject to the provisions of this paragraph”, “the Federal share of which the Secretary is authorized to pay under this subsection”, and “actually” are omitted as surplus.
+
+#### Pub. L. 104–287, § 5(12)(A)
+This amends 49:5309(a) to clarify the restatement of 49 App.:1602(a)(1) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 800).
+
+#### Pub. L. 104–287, § 5(12)(B)
+This amends 49:5309(e)(4)(B) to correct an erroneous cross-reference.
+
+#### Pub. L. 104–287, § 5(12)(C)
+This amends 49:5309(m)(1)(A) to make a conforming amendment.
+
+#### References in Text
+The National Environmental Policy Act of 1969, referred to in subsecs. (d)(1)(A)(i)(II), (B), (2)(A), (e)(1)(A)(i)(II), (B), (2)(A), (h)(2)(A)(i)(ii), (B), (i)(2), and (k)(3)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (g)(5)(A), (6), (7), (j), and (l)(7) is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Codification
+Pub. L. 111–322, § 2303(4)–(7), which directed amendment of subpars. (B) to (E) of subsec. (m) of this section without specifying the paragraph to be amended, was executed to subpars. (B) to (E) of par. (7) of subsec. (m), to reflect the probable intent of Congress. See 2010 Amendment notes below.
+
+#### Amendments
+2012—Pub. L. 112–141, § 20008(a), amended section generally. Prior to amendment, section related to capital investment grants and consisted of subsecs. (a) to (m).
+
+Subsec. (m)(2). Pub. L. 112–141, § 113003(1)(A), (B), substituted “Fiscal years 2006 through 2012” for “Fiscal years 2006 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” in heading and “2012” for “2011 and the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
+
+Pub. L. 112–140, §§ 1(c), 303(1)(A), (B), temporarily substituted “ending on july 6, 2012” for “ending on june 30, 2012” in heading and “ending on July 6, 2012,” for “ending on June 30, 2012,” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(1)(A), (B), substituted “Fiscal years 2006 through 2011 and the period beginning on october 1, 2011, and ending on june 30, 2012” for “Fiscal years 2006 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” in heading and “2011 and the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
+
+Subsec. (m)(2)(A)(i). Pub. L. 112–141, § 113003(1)(C), substituted “2012” for “2011 and $150,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 303(1)(C), temporarily substituted “2011 and $152,000,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “2011 and $150,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(1)(C), substituted “2011 and $150,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and $100,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(6)(B). Pub. L. 112–141, § 113003(2)(A), substituted “2012” for “2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 303(2)(A), temporarily substituted “2011 and $11,400,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(2)(A), substituted “2011 and $11,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(6)(C). Pub. L. 112–141, § 113003(2)(B), substituted “through 2012” for “though 2011 and $3,750,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 303(2)(B), temporarily substituted “through 2011 and $3,800,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “though 2011 and $3,750,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(2)(B), substituted “2011 and $3,750,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and $2,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(7)(A). Pub. L. 112–141, § 113003(3)(A)(i), in introductory provisions, substituted “2012” for “2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” and inserted “each fiscal year” before colon at end.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(A)(i), temporarily substituted “2011 and $7,600,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” and “shall be set aside:” for “shall be set aside for:” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(A)(i), substituted “2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
+
+Subsec. (m)(7)(A)(i), (ii). Pub. L. 112–141, § 113003(3)(A)(ii), (iii), struck out “for each fiscal year and $1,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “$2,500,000”.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(a)(ii), (iii), temporarily substituted “$1,900,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$1,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(A)(ii), (iii), substituted “for each fiscal year and $1,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(7)(A)(iii) to (vi). Pub. L. 112–141, § 113003(3)(A)(iv)–(vii), struck out “for each fiscal year and $750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “$1,000,000”.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(A)(iv)–(vii), temporarily substituted “$760,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(A)(iv)–(vii), substituted “for each fiscal year and $750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(7)(A)(vii). Pub. L. 112–141, § 113003(3)(A)(viii), struck out “for each fiscal year and $487,500 for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “$650,000”.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(A)(viii), temporarily substituted “$494,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$487,500 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(A)(viii), substituted “for each fiscal year and $487,500 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “for each fiscal year and $325,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(7)(A)(viii). Pub. L. 112–141, § 113003(3)(A)(ix), struck out “for each fiscal year and $262,500 for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “$350,000”.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(A)(ix), temporarily substituted “$266,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$262,500 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(A)(ix), substituted “for each fiscal year and $262,500 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “for each fiscal year and $175,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(7)(B)(vii). Pub. L. 112–141, § 113003(3)(B), added cl. (vii) and struck out former cl. (vii) which read as follows: “$10,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§ 1(c), 303(3)(B), temporarily added cl. (vii), which set aside $10,260,000 for the period beginning on October 1, 2011, and ending on July 6, 2012, and temporarily struck out former cl. (vii) which read as follows: “$10,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.” See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(B), added cl. (vii) and struck out former cl. (vii) which read as follows: “$6,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+Subsec. (m)(7)(C). Pub. L. 112–141, § 113003(3)(C), struck out “and during the period beginning on October 1, 2011, and ending on June 30, 2012,” after “each fiscal year”.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(C), temporarily substituted “ending on July 6, 2012,” for “ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(C), substituted “and during the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and during the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(7)(D). Pub. L. 112–141, § 113003(3)(D), struck out “and not less than $26,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “each fiscal year”.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(D), temporarily substituted “and not less than $26,600,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “and not less than $26,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(D), substituted “and not less than $26,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and not less than $17,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (m)(7)(E). Pub. L. 112–141, § 113003(3)(E), struck out “and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” after “each fiscal year”.
+
+Pub. L. 112–140, §§ 1(c), 303(3)(E), temporarily substituted “and $2,280,000 shall be available for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 303(3)(E), substituted “and $2,250,000 shall be available for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+2011—Subsec. (m)(2). Pub. L. 112–30, § 133(1)(A), (B), substituted “Fiscal years 2006 through 2011 and the period beginning on october 1, 2011, and ending on march 31, 2012” for “Fiscal years 2006 through 2011” in heading and “2011 and the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011” in introductory provisions.
+
+Pub. L. 112–5, § 303(1)(A), (B), substituted “Fiscal years 2006 through 2011” for “Fiscal years 2006 through 2010 and october 1, 2010, through march 4, 2011” in heading and “2011” for “2010, and during the period beginning October 1, 2010, and ending March 4, 2011,” in introductory provisions.
+
+Subsec. (m)(2)(A)(i). Pub. L. 112–30, § 133(1)(C), substituted “2011 and $100,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
+
+Pub. L. 112–5, § 303(1)(C), substituted “2011” for “2010, and $84,931,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (m)(6)(B). Pub. L. 112–30, § 133(2)(A), substituted “2011 and $7,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
+
+Pub. L. 112–5, § 303(2)(A), substituted “2011” for “2010, and $6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (m)(6)(C). Pub. L. 112–30, § 133(2)(B), substituted “2011 and $2,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011”.
+
+Pub. L. 112–5, § 303(2)(B), substituted “2011” for “2010, and $2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (m)(7)(A). Pub. L. 112–30, § 133(3)(A)(i), substituted “2011 and $5,000,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “2011” and struck out “each fiscal year” before colon.
+
+Pub. L. 112–5, § 303(3)(A)(i)–(iii), struck out cl. (i) designation and heading, substituted “$10,000,000 shall be available in each of fiscal years 2006 through 2011” for “$10,000,000 shall be available in each of fiscal years 2006 through 2010” in introductory provisions, redesignated subcls. (I) to (VIII) of former cl. (i) as cls. (i) to (viii), respectively, struck out former cl. (ii) which provided a special rule for Oct. 1, 2010, through Mar. 4, 2011, and realigned margins.
+
+Subsec. (m)(7)(A)(i), (ii). Pub. L. 112–30, § 133(3)(A)(ii), (iii), substituted “$2,500,000 for each fiscal year and $1,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$2,500,000”.
+
+Subsec. (m)(7)(A)(iii). Pub. L. 112–30, § 133(3)(A)(iv), substituted “$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$1,000,000”.
+
+Subsec. (m)(7)(A)(iv). Pub. L. 112–30, § 133(3)(A)(v), substituted “$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$1,000,000”.
+
+Pub. L. 112–5, § 303(3)(A)(iv), inserted a period at the end.
+
+Subsec. (m)(7)(A)(v), (vi). Pub. L. 112–30, § 133(3)(A)(vi), (vii), substituted “$1,000,000 for each fiscal year and $500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$1,000,000”.
+
+Subsec. (m)(7)(A)(vii). Pub. L. 112–30, § 133(3)(A)(viii), substituted “$650,000 for each fiscal year and $325,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$650,000”.
+
+Subsec. (m)(7)(A)(viii). Pub. L. 112–30, § 133(3)(A)(ix), substituted “$350,000 for each fiscal year and $175,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “$350,000”.
+
+Subsec. (m)(7)(B). Pub. L. 112–5, § 303(3)(B)(i), struck out “$5,732,000 for the period beginning October 1, 2010 and ending March 4, 2011” after cl. (v).
+
+Subsec. (m)(7)(B)(vi). Pub. L. 112–5, § 303(3)(B)(ii), added cl. (vi).
+
+Subsec. (m)(7)(B)(vii). Pub. L. 112–30, § 133(3)(B), added cl. (vii).
+
+Subsec. (m)(7)(C). Pub. L. 112–30, § 133(3)(C), substituted “fiscal year and during the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
+
+Pub. L. 112–5, § 303(3)(C), struck out “, and during the period beginning October 1, 2010, and ending March 4, 2011,” after “year”.
+
+Subsec. (m)(7)(D). Pub. L. 112–30, § 133(3)(D), substituted “fiscal year and not less than $17,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
+
+Pub. L. 112–5, § 303(3)(D), struck out “, and not less than $14,863,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” after “year”.
+
+Subsec. (m)(7)(E). Pub. L. 112–30, § 133(3)(E), substituted “fiscal year and $1,500,000 shall be available for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “fiscal year”.
+
+Pub. L. 112–5, § 303(3)(E), struck out “, and $1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011,” after “year”.
+
+2010—Subsec. (m)(2). Pub. L. 111–322, § 2303(1)(A), (B), substituted “march 4, 2011” for “december 31, 2010” in heading and “March 4, 2011” for “December 31, 2010” in introductory provisions.
+
+Pub. L. 111–147, § 433(1)(A), (B), substituted “2010 and october 1, 2010, through december 31, 2010” for “2009” in heading and “2010, and during the period beginning October 1, 2010, and ending December 31, 2010,” for “2009” in introductory provisions.
+
+Subsec. (m)(2)(A)(i). Pub. L. 111–322, § 2303(1)(C), substituted “$84,931,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$50,000,000 for the period beginning October 1, 2010, and ending December 31, 2010”.
+
+Pub. L. 111–147, § 433(1)(C), substituted “2010, and $50,000,000 for the period beginning October 1, 2010, and ending December 31, 2010,” for “2009”.
+
+Subsec. (m)(6)(B). Pub. L. 111–322, § 2303(2)(A), which directed substitution of “$6,369,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011” for “$3,750,000 shall be available for the period beginning October 1, 2010 and ending December 31, 2010”, was executed by making the substitution for “$3,750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010”, to reflect the probable intent of Congress.
+
+Pub. L. 111–147, § 433(2)(A), substituted “2010, and $3,750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010,” for “2009”.
+
+Subsec. (m)(6)(C). Pub. L. 111–322, § 2303(2)(B), substituted “$2,123,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011” for “$1,250,000 shall be available for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 433(2)(B), substituted “2010, and $1,250,000 shall be available for the period beginning October 1, 2010 and ending December 31, 2010,” for “2009”.
+
+Subsec. (m)(7)(A). Pub. L. 111–147, § 433(3)(A), inserted cl. (i) designation and heading, substituted “$10,000,000 shall be available in each of fiscal years 2006 through 2010” for “$10,000,000 shall be available in each of fiscal years 2006 through 2009” in introductory provisions, redesignated former cls. (i) to (viii) as subcls. (I) to (VIII), respectively, of cl. (i), and added cl. (ii).
+
+Subsec. (m)(7)(A)(ii). Pub. L. 111–322, § 2303(3)(A)(iii), substituted “155⁄365ths” for “25 percent”.
+
+Pub. L. 111–322, § 2303(3)(A)(ii), which directed substitution of “$4,246,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011” for “$2,500,000 shall be available for the period beginning October 1, 2010 and ending December 31, 2010”, was executed by making the substitution for “$2,500,000 shall be available in the period beginning October 1, 2010, and ending December 31, 2010”, to reflect the probable intent of Congress.
+
+Pub. L. 111–322, § 2303(3)(A)(i), substituted “march 4, 2011” for “december 31, 2010” in heading.
+
+Subsec. (m)(7)(B). Pub. L. 111–322, § 2303(4), which directed general amendment of cl. (vi), was executed by substituting “$5,732,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “(vi) $3,375,000 for the period beginning October 1, 2010, and ending December 31, 2010.” See Codification note above.
+
+Subsec. (m)(7)(B)(v). Pub. L. 111–147, § 433(3)(B), added cl. (v).
+
+Subsec. (m)(7)(B)(vi). Pub. L. 111–147, § 433(3)(B), added cl. (vi).
+
+Subsec. (m)(7)(C). Pub. L. 111–322, § 2303(5), substituted “March 4, 2011” for “December 31, 2010”. See Codification note above.
+
+Pub. L. 111–147, § 433(3)(C), inserted “, and during the period beginning October 1, 2010, and ending December 31, 2010,” after “fiscal year”.
+
+Subsec. (m)(7)(D). Pub. L. 111–322, § 2303(6), substituted “$14,863,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011” for “$8,750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010”. See Codification note above.
+
+Pub. L. 111–147, § 433(3)(D), inserted “, and not less than $8,750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010,” after “year”.
+
+Subsec. (m)(7)(E). Pub. L. 111–322, § 2303(7), substituted “$1,273,000 shall be available for the period beginning October 1, 2010 and ending March 4, 2011” for “$750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010”. See Codification note above.
+
+Pub. L. 111–147, § 433(3)(E), inserted “, and $750,000 shall be available for the period beginning October 1, 2010, and ending December 31, 2010,” after “year”.
+
+2008—Subsec. (d)(5)(B). Pub. L. 110–244, § 201(d)(1), substituted “this subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating.” for “regulation.”
+
+Subsec. (e)(6)(B). Pub. L. 110–244, § 201(d)(2), substituted “subsection and shall give comparable, but not necessarily equal, numerical weight to each project justification criteria in calculating the overall project rating.” for “subsection.”
+
+Subsec. (m)(2)(A). Pub. L. 110–244, § 201(d)(3), substituted “Capital” for “Major capital” in heading.
+
+Subsec. (m)(7)(B). Pub. L. 110–244, § 201(d)(4), substituted “section 3045” for “section 3039” in introductory provisions.
+
+2005—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (p) providing for grants and loans to assist State and local governmental authorities in financing capital projects related to fixed guideway systems, capital projects needed for an efficient and coordinated mass transportation system, the capital costs of coordinating mass transportation with other transportation, the introduction of new technology, and mass transportation projects to meet the special needs of elderly individuals and individuals with disabilities.
+
+Subsec. (m)(1). Pub. L. 109–40, § 7(a)(1), substituted “July 30, 2005” for “July 27, 2005” in introductory provisions.
+
+Pub. L. 109–37, § 7(a)(1), substituted “July 27, 2005” for “July 21, 2005” in introductory provisions.
+
+Pub. L. 109–35, § 7(a)(1), substituted “July 21, 2005” for “July 19, 2005” in introductory provisions.
+
+Pub. L. 109–20, § 7(a)(1), substituted “July 19, 2005” for “June 30, 2005” in introductory provisions.
+
+Pub. L. 109–14, § 7(a)(1), substituted “June 30, 2005” for “May 31, 2005” in introductory provisions.
+
+Subsec. (m)(2)(B)(iii). Pub. L. 109–40, § 7(a)(2), substituted “july 30, 2005” for “july 27, 2005” in heading and “July 30, 2005” for “July 27, 2005” and “$8,550,000” for “$8,547,000” in text.
+
+Pub. L. 109–37, § 7(a)(2), substituted “july 27, 2005” for “july 21, 2005” in heading and “July 27, 2005” for “July 21, 2005” and “$8,547,000” for “$8,424,000” in text.
+
+Pub. L. 109–35, § 7(a)(2), substituted “july 21, 2005” for “july 19, 2005” in heading and “July 21, 2005” for “July 19, 2005” and “$8,424,000” for “$8,320,000” in text.
+
+Pub. L. 109–20, § 7(a)(2), substituted “july 19, 2005” for “june 30, 2005” in heading and “July 19, 2005” for “June 30, 2005” and “$8,320,000” for “$7,800,000” in text.
+
+Pub. L. 109–14, § 7(a)(2), substituted “june 30, 2005” for “may 31, 2005” in heading and “June 30, 2005” for “May 31, 2005” and “$7,800,000” for “$6,933,333” in text.
+
+Subsec. (m)(3)(B). Pub. L. 109–40, § 7(a)(3), substituted “$2,470,000” for “$2,465,754” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(a)(3), substituted “$2,465,754” for “$2,430,000” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(a)(3), substituted “$2,430,000” for “$2,400,000” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(a)(3), substituted “$2,400,000” for “$2,250,000” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(a)(3), substituted “$2,250,000” for “$2,000,000” and “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (m)(3)(C). Pub. L. 109–40, § 7(a)(4), substituted “$41,506,850” for “$41,095,900” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(a)(4), substituted “$41,095,900” for “$40,500,000” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(a)(4), substituted “$40,500,000” for “$40,000,000” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(a)(4), substituted “$40,000,000” for “$37,500,000” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(a)(4), substituted “$37,500,000” for “$33,333,333” and “June 30, 2005” for “May 31, 2005”.
+
+2004—Subsec. (m)(1). Pub. L. 108–310, § 8(a)(1), inserted “and for the period of October 1, 2004, through May 31, 2005” after “2004” in introductory provisions.
+
+Pub. L. 108–280, § 7(a)(1)(A), struck out “2003 and for the period of October 1, 2003, through July 31,” before “2004” in introductory provisions.
+
+Pub. L. 108–263, § 7(a)(1)(A), substituted “July 31, 2004” for “June 30, 2004” in introductory provisions.
+
+Pub. L. 108–224, § 7(a)(1)(A), substituted “June 30, 2004” for “April 30, 2004” in introductory provisions.
+
+Pub. L. 108–202, § 9(a)(1)(A), substituted “April 30, 2004” for “February 29, 2004” in introductory provisions.
+
+Subsec. (m)(1)(A). Pub. L. 108–280, § 7(a)(1)(B), substituted “, except for fiscal year 2004 during which $1,206,506,000 will be available” for “, except for the period beginning on October 1, 2003, and ending on July 31, 2004, during which $999,489,679 will be available”.
+
+Pub. L. 108–263, § 7(a)(1)(A), (B), substituted “July 31, 2004” for “June 30, 2004” and “$999,489,679” for “$899,540,711”.
+
+Pub. L. 108–224, § 7(a)(1)(B), substituted “June 30, 2004, during which $899,540,711 will be available” for “April 30, 2004, during which $699,642,775 will be available”.
+
+Pub. L. 108–202, § 9(a)(1)(B), inserted “, except for the period beginning on October 1, 2003, and ending on April 30, 2004, during which $699,642,775 will be available” after “modernization”.
+
+Subsec. (m)(1)(B). Pub. L. 108–280, § 7(a)(1)(C), substituted “, except for fiscal year 2004 during which $1,323,794,000 will be available” for “, except for the period beginning on October 1, 2003, and ending on July 31, 2004, during which $1,096,653,013 will be available”.
+
+Pub. L. 108–263, § 7(a)(1)(A), (C), substituted “July 31, 2004” for “June 30, 2004” and “$1,096,653,013” for “$986,987,712”.
+
+Pub. L. 108–224, § 7(a)(1)(C), substituted “June 30, 2004, during which $986,987,712 will be available” for “April 30, 2004, during which $767,657,109 will be available”.
+
+Pub. L. 108–202, § 9(a)(1)(C), inserted “, except for the period beginning on October 1, 2003, and ending on April 30, 2004, during which $767,657,109 will be available” before the semicolon.
+
+Subsec. (m)(1)(C). Pub. L. 108–280, § 7(a)(1)(D), substituted “, except for fiscal year 2004 during which $607,200,000 will be available” for “, except for the period beginning on October 1, 2003, and ending on July 31, 2004, during which $503,014,600 will be available”.
+
+Pub. L. 108–263, § 7(a)(1)(A), (D), substituted “July 31, 2004” for “June 30, 2004” and “$503,014,600” for “$452,713,140”.
+
+Pub. L. 108–224, § 7(a)(1)(D), which directed the amendment of subpar. (C) without providing closing quotation marks designating the provisions to be inserted, was executed by substituting “2003, and ending on June 30, 2004, during which $452,713,140 will be available” for “2003 and ending on April 30, 2004, during which $352,110,220 will be available”, to reflect the probable intent of Congress.
+
+Pub. L. 108–202, § 9(a)(1)(D), inserted “, except for the period beginning on October 1, 2003 and ending on April 30, 2004, during which $352,110,220 will be available” after “facilities”.
+
+Subsec. (m)(2)(B)(i). Pub. L. 108–280, § 7(a)(2)(A), substituted “2004” for “2003”.
+
+Subsec. (m)(2)(B)(iii). Pub. L. 108–310, § 8(a)(2), added cl. (iii).
+
+Pub. L. 108–280, § 7(a)(2)(B), struck out heading and text of cl. (iii). Text read as follows: “Of the amounts made available under paragraph (1)(B), $8,615,533 shall be available for the period beginning on October 1, 2003, and ending on July 31, 2004, for capital projects described in clause (i).”
+
+Pub. L. 108–263, § 7(a)(2), inserted cl. (iii) and struck out heading and text of former cl. (iii). Prior to amendment, text read as follows: “Of the amounts made available under paragraph (1)(B), $7,753,980 shall be available for the period beginning on October 1, 2003, and ending on June 30, 2004, for capital projects described in clause (i).”
+
+Pub. L. 108–224, § 7(a)(2), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: “Of the amounts made available under paragraph (1)(B), $6,066,667 shall be available for the period beginning on October 1, 2003, and ending on April 30, 2004, for capital projects described in clause (i).”
+
+Pub. L. 108–202, § 9(a)(2), amended heading and text of cl. (iii) generally. Prior to amendment, text read as follows: “Of the amounts made available under paragraph (1)(B), $4,333,333 shall be available for the period of October 1, 2003, through February 29, 2004, for capital projects described in clause (i).”
+
+Subsec. (m)(3)(B). Pub. L. 108–310, § 8(a)(3), inserted “(and $2,000,000 shall be available for the period October 1, 2004, through May 31, 2005)” after “2004”.
+
+Pub. L. 108–280, § 7(a)(3), substituted “2004” for “2003 (and $2,485,250 shall be available for the period October 1, 2003, through July 31, 2004)”.
+
+Pub. L. 108–263, § 7(a)(3), substituted “$2,485,250” for “$2,236,725” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(a)(3), substituted “$2,236,725” for “$1,750,000” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(a)(3), substituted “$1,750,000” for “$1,250,000” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (m)(3)(C). Pub. L. 108–310, § 8(a)(4), inserted “, and $33,333,333 shall be available for the period October 1, 2004, through May 31, 2005,” after “2004)”.
+
+Pub. L. 108–280, § 7(a)(4), substituted “1999 through 2004” for “1999 through 2003”, “$50,000,000” for “$41,420,833”, and “fiscal year 2004” for “the period October 1, 2003, through July 31, 2004”.
+
+Pub. L. 108–263, § 7(a)(4), substituted “$41,420,833” for “$37,278,750” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(a)(4), substituted “$37,278,750” for “$28,994,583” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(a)(4), substituted “$28,994,583 shall be transferred to and administered under section 5309 for buses and bus facilities” for “$20,833,334 shall be available” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (o)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+
+2003—Subsec. (m)(1). Pub. L. 108–88, § 8(a)(1), inserted “and for the period of October 1, 2003, through February 29, 2004” after “2003”.
+
+Subsec. (m)(2)(B). Pub. L. 108–88, § 8(a)(2), added cl. (iii).
+
+Subsec. (m)(3)(B). Pub. L. 108–88, § 8(a)(3), inserted “(and $1,250,000 shall be available for the period October 1, 2003, through February 29, 2004)” after “2003”.
+
+Subsec. (m)(3)(C). Pub. L. 108–88, § 8(a)(4), inserted “(and $20,833,334 shall be available for the period October 1, 2003, through February 29, 2004)” after “2003”.
+
+2000—Subsec. (g)(4). Pub. L. 106–346 designated existing provisions as subpar. (A) and added subpars. (B) to (G).
+
+Subsec. (g)(4)(D)(2). Pub. L. 106–554 struck out “light” before “rail extension”.
+
+1999—Subsec. (g)(1)(B). Pub. L. 106–69 inserted “and the House and Senate Committees on Appropriations” after “Committee on Banking, Housing, and Urban Affairs of the Senate”.
+
+1998—Pub. L. 105–178, § 3009(a), substituted “Capital investment” for “Discretionary” in section catchline.
+
+Subsec. (a)(1)(E) to (H). Pub. L. 105–178, § 3009(c), added subpars. (E) and (F), redesignated former subpars. (F) and (G) as (G) and (H), respectively, and struck out former subpar. (E) which read as follows: “transportation projects that enhance urban economic development or incorporate private investment, including commercial and residential development, because the projects—
+
+“(i) enhance the effectiveness of a mass transportation project and are related physically or functionally to that mass transportation project; or
+
+“(ii) establish new or enhanced coordination between mass transportation and other transportation;”.
+
+Subsec. (c). Pub. L. 105–178, § 3009(d), amended subsec. (c) generally, substituting “[Reserved.]” for former heading and text which read as follows:
+
+“(c) Consideration of Decreased Commuter Rail Transportation.—The Secretary of Transportation shall consider the adverse effect of decreased commuter rail transportation when deciding whether to approve a grant or loan under this section to acquire a rail line and all related facilities—
+
+“(1) owned by a rail carrier subject to reorganization under title 11; and
+
+“(2) used to provide commuter rail transportation.”
+
+Subsec. (e). Pub. L. 105–178, § 3009(k)(1), as added by Pub. L. 105–206, § 9009(g), in par. (3)(C), substituted “suburban sprawl” for “urban sprawl”, and in par. (6), substituted “or ‘not recommended’, based” for “or not ‘recommended’, based” in second sentence and inserted “of the” before “criteria established” in last sentence.
+
+Pub. L. 105–178, § 3009(e), reenacted heading without change and amended text of subsec. (e) generally. Prior to amendment, subsec. (e) related to, in par. (1), applicability of subsection to projects, in par. (2), approval of grants or loans for capital projects, in par. (3), criteria for making approval decisions, in par. (4), issuance of guidelines on evaluation of alternatives, project justification, and degree of local financial commitment, in par. (5), advancement of project from alternatives analysis to preliminary engineering, in par. (6), exemptions from requirements of subsection, and in par. (7), requirement of full financing agreement.
+
+Subsec. (f). Pub. L. 105–178, § 3009(h)(1), amended subsec. (f) generally, substituting “[Reserved.]” for former heading and text which read as follows:
+
+“(f) Required Payments and Eligible Costs of Projects That Enhance Urban Economic Development or Incorporate Private Investment.—(1) Each grant or loan under subsection (a)(5) of this section shall require that a person making an agreement to occupy space in a facility pay a reasonable share of the costs of the facility through rental payments and other means.
+
+“(2) Eligible costs for a project under subsection (a)(5) of this section—
+
+“(A) include property acquisition, demolition of existing structures, site preparation, utilities, building foundations, walkways, open space, and a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall; but
+
+“(B) do not include construction of a commercial revenue-producing facility or a part of a public facility not related to mass transportation.”
+
+Subsec. (g). Pub. L. 105–178, § 3009(f)(1), substituted “Funding” for “Financing” in heading.
+
+Subsec. (g)(1)(B). Pub. L. 105–178, § 3009(f)(3), substituted “At least 60 days” for “At least 30 days” and “letter or agreement. The Secretary shall include with the notification a copy of the proposed letter or agreement as well as the evaluations and ratings for the project” for “issuance of the letter” and inserted “or entering into a full funding grant agreement” after “subparagraph (A) of this paragraph”.
+
+Subsec. (g)(2)(A), (B), (3)(A)(i). Pub. L. 105–178, § 3009(f)(2), substituted “full funding” for “full financing”.
+
+Subsec. (g)(4). Pub. L. 105–178, § 3009(k)(2), as added by Pub. L. 105–206, § 9009(g), substituted “5338(b) of this title for new fixed guideway systems and extensions to existing fixed guideway systems and the amount appropriated under section 5338(h)(5) or an amount equivalent to the last 2 fiscal years of funding authorized under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems” for “5338(a) of this title to carry out this section or an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems for fiscal years 2002 and 2003”.
+
+Pub. L. 105–178, § 3009(f)(2), (4), substituted “full funding” for “full financing” before “grant agreements” in two places and “an amount equivalent to the total authorizations under section 5338(b) for new fixed guideway systems and extensions to existing fixed guideway systems for fiscal years 2002 and 2003” for “50 percent of the uncommitted cash balance remaining in the Mass Transit Account of the Highway Trust Fund (including amounts received from taxes and interest earned that are more than amounts previously obligated)”.
+
+Subsec. (m). Pub. L. 105–178, § 3009(k)(3), as added by Pub. L. 105–206, § 9009(g), substituted “5338(b)” for “5338” in introductory provisions of par. (1), added par. (2) and struck out former par. (2) relating to limitation on amounts available for activities other than final design and construction, redesignated par. (4) as (3)(C), added pars. (3)(D) and (4), and struck out par. (5) relating to funding for ferry boat systems.
+
+Pub. L. 105–178, § 3009(g), reenacted heading without change and amended text of subsec. (m) generally, substituting provisions allocating amounts for fiscal years 1998 to 2003 for provisions allocating amounts for each fiscal year ending Sept. 30 from 1993 to 1997 and for period of Oct. 1, 1997 to Mar. 31, 1998.
+
+Subsec. (n)(2). Pub. L. 105–178, § 3009(h)(3)(D), as added by Pub. L. 105–206, § 9009(h)(3), substituted “in a manner satisfactory” for “in a way satisfactory”.
+
+Subsec. (o). Pub. L. 105–178, § 3009(i), added subsec. (o) relating to reports.
+
+Subsec. (p). Pub. L. 105–178, § 3009(j), added subsec. (p).
+
+1997—Subsec. (m)(1). Pub. L. 102–240, § 3049(a), as added by Pub. L. 105–130, inserted “, and for the period of October 1, 1997, through March 31, 1998” after “1997”.
+
+1996—Subsec. (a). Pub. L. 104–287, § 5(12)(A), designated existing provisions as par. (1), redesignated former pars. (1) to (7) as subpars. (A) to (G) of par. (1), respectively, and former subpars. (A) and (B) of par. (5) as subcls. (i) and (ii) of subpar. (E), respectively, and added par. (2).
+
+Subsec. (e)(4)(B). Pub. L. 104–287, § 5(12)(B), substituted “paragraph (2)” for “paragraph (1)(B)”.
+
+Subsec. (g)(1)(B). Pub. L. 104–287, § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+Subsec. (m)(1)(A). Pub. L. 104–287, § 5(12)(C), inserted “rail” before “fixed guideway modernization”.
+
+Subsec. (m)(3). Pub. L. 104–287, § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+#### Effective and Termination Dates of 2012 Amendment
+Amendment by section 20008(a) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+Amendment by section 113003 of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under [section 5305 of this title](./chapter-053-public-transportation.md#section-5305).
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by section 5(12) of Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+#### Pilot Program for Expedited Project Delivery
+Pub. L. 112–141, div. B, § 20008(b), July 6, 2012, 126 Stat. 674, provided that: “(1) Definitions.—In this subsection the following definitions shall apply:“(A) Eligible project.—The term ‘eligible project’ means a new fixed guideway capital project or a core capacity improvement project, as those terms are defined in [section 5309 of title 49](./chapter-053-public-transportation.md#section-5309), United States Code, as amended by this section, that has not entered into a full funding grant agreement with the Federal Transit Administration before the date of enactment of the Federal Public Transportation Act of 2012 [deemed to be Oct. 1, 2012]. “(B) Program.—The term ‘program’ means the pilot program for expedited project delivery established under this subsection. “(C) Recipient.—The term ‘recipient’ means a recipient of funding under chapter 53 of title 49, United States Code. “(D) Secretary.—The term ‘Secretary’ means the Secretary of Transportation. “(2) Establishment.—The Secretary shall establish and implement a pilot program to demonstrate whether innovative project development and delivery methods or innovative financing arrangements can expedite project delivery for certain meritorious new fixed guideway capital projects and core capacity improvement projects. “(3) Limitation on number of projects.—The Secretary shall select 3 eligible projects to participate in the program, of which—“(A) at least 1 shall be an eligible project requesting more than $100,000,000 in Federal financial assistance under [section 5309 of title 49](./chapter-053-public-transportation.md#section-5309), United States Code; and “(B) at least 1 shall be an eligible project requesting less than $100,000,000 in Federal financial assistance under [section 5309 of title 49](./chapter-053-public-transportation.md#section-5309), United States Code. “(4) Government share.—The Government share of the total cost of an eligible project that participates in the program may not exceed 50 percent. “(5) Eligibility.—A recipient that desires to participate in the program shall submit to the Secretary an application that contains, at a minimum—“(A) identification of an eligible project; “(B) a schedule and finance plan for the construction and operation of the eligible project; “(C) an analysis of the efficiencies of the proposed project development and delivery methods or innovative financing arrangement for the eligible project; and “(D) a certification that the recipient’s existing public transportation system is in a state of good repair. “(6) Selection criteria.—The Secretary may award a full funding grant agreement under this subsection if the Secretary determines that—“(A) the recipient has completed planning and the activities required under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); and “(B) the recipient has the necessary legal, financial, and technical capacity to carry out the eligible project. “(7) Before and after study and report.—“(A) Study required.—A full funding grant agreement under this paragraph shall require a recipient to conduct a study that—“(i) describes and analyzes the impacts of the eligible project on public transportation services and public transportation ridership; “(ii) describes and analyzes the consistency of predicted and actual benefits and costs of the innovative project development and delivery methods or innovative financing for the eligible project; and “(iii) identifies reasons for any differences between predicted and actual outcomes for the eligible project. “(B) Submission of report.—Not later than 9 months after an eligible project selected to participate in the program begins revenue operations, the recipient shall submit to the Secretary a report on the results of the study under subparagraph (A).”
+
+#### Non-New Starts Share of Public Transportation Element of Interstate Multi-Modal Projects
+Pub. L. 111–117, div. A, title I, § 173, Dec. 16, 2009, 123 Stat. 3066, provided that the rating under former subsec. (d) of this section of the non-New Starts share of the public transportation element of certain interstate multi-modal projects would be based on the percentage of non-New Starts funds in the unified finance plan.
+
+#### Transit Tunnels
+Pub. L. 110–244, title II, § 201(p), June 6, 2008, 122 Stat. 1615, required the Secretary of Transportation to analyze the various benefits of transit tunnels.
+
+#### Public-Private Partnership Pilot Program
+Pub. L. 109–59, title III, § 3011(c), Aug. 10, 2005, 119 Stat. 1588, as amended by Pub. L. 111–147, title IV, § 437(b)(1), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, § 2307(b)(1), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, § 307(b)(1), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, § 137(b)(1), Sept. 16, 2011, 125 Stat. 354; Pub. L. 112–102, title III, § 307(b)(1), Mar. 30, 2012, 126 Stat. 280; Pub. L. 112–140, title III, § 307(b)(1), June 29, 2012, 126 Stat. 401; Pub. L. 112–141, div. G, title III, § 113007(b)(1), July 6, 2012, 126 Stat. 987, which provided for the establishment and implementation of a pilot program to demonstrate the advantages and disadvantages of public-private partnerships for certain new fixed guideway capital projects, was repealed by Pub. L. 112–141, div. B, § 20002(c)(2), July 6, 2012, 126 Stat. 622.
+
+#### Report to Congress on Use of Funds Under Pub. L. 105–178
+Pub. L. 105–200, title IV, § 403(b), July 16, 1998, 112 Stat. 670, required the Secretary of Transportation to submit a report, no later than 2 years after July 16, 1998, on the use of funds made available under section 3037 of Pub. L. 105–178.
+
+#### Dollar Value of Mobility Improvements
+Pub. L. 105–178, title III, § 3010, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 105–206, title IX, § 9009(i), July 22, 1998, 112 Stat. 856, prohibited the consideration of the dollar value of mobility improvements in performing certain duties of the Secretary and required the Comptroller General to study and report on the dollar value of mobility improvements no later than Jan. 1, 2000.
+
+#### Job Access and Reverse Commute Grants
+Pub. L. 105–178, title III, § 3037, June 9, 1998, 112 Stat. 387, as amended by Pub. L. 105–206, title IX, § 9009(w), July 22, 1998, 112 Stat. 862; Pub. L. 108–88, § 8(l), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, § 9(l), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, § 7(l), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, § 7(l), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, § 7(l), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, § 8(l), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, § 7(k), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, § 7(k), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, § 7(k), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, § 7(k), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, § 7(k), July 28, 2005, 119 Stat. 420, which authorized the Secretary of Transportation to make access to jobs grants and reverse commute grants to assist qualified entities in financing eligible projects, was repealed by Pub. L. 109–59, title III, § 3018(c), Aug. 10, 2005, 119 Stat. 1605, effective Oct. 1, 2005.
+
+#### Encouragement of Adversely Affected Industries To Compete for Contracts
+Pub. L. 91–453, § 10, Oct. 15, 1970, 84 Stat. 968, as amended by Pub. L. 102–240, title III, § 3003(b), Dec. 18, 1991, 105 Stat. 2088, encouraged industries adversely affected by reductions in Federal Government spending to compete for contracts under former sections 5309 and 5312 of this title.
+
+
+<a id="section-5310"></a>
+## § 5310. Formula grants for the enhanced mobility of seniors and individuals with disabilities
+**(a) Definitions.—** In this section, the following definitions shall apply:
+
+(1) **Recipient.—** — The term “recipient” means a designated recipient or a State that receives a grant under this section directly.
+
+(2) **Subrecipient.—** — The term “subrecipient” means a State or local governmental authority, a private nonprofit organization, or an operator of public transportation that receives a grant under this section indirectly through a recipient.
+
+**(b) General Authority.—**
+
+(1) **Grants.—** — The Secretary may make grants under this section to recipients for—
+
+  (A) public transportation projects planned, designed, and carried out to meet the special needs of seniors and individuals with disabilities when public transportation is insufficient, inappropriate, or unavailable;
+
+  (B) public transportation projects that exceed the requirements of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.);
+
+  (C) public transportation projects that improve access to fixed route service and decrease reliance by individuals with disabilities on complementary paratransit; and
+
+  (D) alternatives to public transportation that assist seniors and individuals with disabilities with transportation.
+
+(2) **Limitations for capital projects.—**
+
+  (A) *Amount available.—* — The amount available for capital projects under paragraph (1)(A) shall be not less than 55 percent of the funds apportioned to the recipient under this section.
+
+  (B) *Allocation to subrecipients.—* — A recipient of a grant under paragraph (1)(A) may allocate the amounts provided under the grant to—
+
+    (i) a private nonprofit organization; or
+
+    (ii) a State or local governmental authority that—
+
+      (I) is approved by a State to coordinate services for seniors and individuals with disabilities; or
+
+      (II) certifies that there are no private nonprofit organizations readily available in the area to provide the services described in paragraph (1)(A).
+
+(3) **Administrative expenses.—** — A recipient may use not more than 10 percent of the amounts apportioned to the recipient under this section to administer, plan, and provide technical assistance for a project funded under this section.
+
+(4) **Eligible capital expenses.—** — The acquisition of public transportation services is an eligible capital expense under this section.
+
+(5) **Coordination.—**
+
+  (A) *Department of transportation.—* — To the maximum extent feasible, the Secretary shall coordinate activities under this section with related activities under other Federal departments and agencies.
+
+  (B) *Other federal agencies and nonprofit organizations.—* — A State or local governmental authority or nonprofit organization that receives assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services shall—
+
+    (i) participate and coordinate with recipients of assistance under this chapter in the design and delivery of transportation services; and
+
+    (ii) participate in the planning for the transportation services described in clause (i).
+
+(6) **Program of projects.—**
+
+  (A) *In general.—* — Amounts made available to carry out this section may be used for transportation projects to assist in providing transportation services for seniors and individuals with disabilities, if such transportation projects are included in a program of projects.
+
+  (B) *Submission.—* — A recipient shall annually submit a program of projects to the Secretary.
+
+  (C) *Assurance.—* — The program of projects submitted under subparagraph (B) shall contain an assurance that the program provides for the maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other Government sources.
+
+(7) **Meal delivery for homebound individuals.—** — A public transportation service provider that receives assistance under this section or section 5311(c) may coordinate and assist in regularly providing meal delivery service for homebound individuals, if the delivery service does not conflict with providing public transportation service or reduce service to public transportation passengers.
+
+**(c) Apportionment and Transfers.—**
+
+(1) **Formula.—** — The Secretary shall apportion amounts made available to carry out this section as follows:
+
+  (A) *Large urbanized areas.—* — Sixty percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of 200,000 or more individuals, as determined by the Bureau of the Census, in the ratio that—
+
+    (i) the number of seniors and individuals with disabilities in each such urbanized area; bears to
+
+    (ii) the number of seniors and individuals with disabilities in all such urbanized areas.
+
+  (B) *Small urbanized areas.—* — Twenty percent of the funds shall be apportioned among the States in the ratio that—
+
+    (i) the number of seniors and individuals with disabilities in urbanized areas with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census, in each State; bears to
+
+    (ii) the number of seniors and individuals with disabilities in urbanized areas with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census, in all States.
+
+  (C) *Rural areas.—* — Twenty percent of the funds shall be apportioned among the States in the ratio that—
+
+    (i) the number of seniors and individuals with disabilities in rural areas in each State; bears to
+
+    (ii) the number of seniors and individuals with disabilities in rural areas in all States.
+
+(2) **Areas served by projects.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B)—
+
+    (i) funds apportioned under paragraph (1)(A) shall be used for projects serving urbanized areas with a population of 200,000 or more individuals, as determined by the Bureau of the Census;
+
+    (ii) funds apportioned under paragraph (1)(B) shall be used for projects serving urbanized areas with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census; and
+
+    (iii) funds apportioned under paragraph (1)(C) shall be used for projects serving rural areas.
+
+  (B) *Exceptions.—* — A State may use funds apportioned to the State under subparagraph (B) or (C) of paragraph (1)—
+
+    (i) for a project serving an area other than an area specified in subparagraph (A)(ii) or (A)(iii), as the case may be, if the Governor of the State certifies that all of the objectives of this section are being met in the area specified in subparagraph (A)(ii) or (A)(iii); or
+
+    (ii) for a project anywhere in the State, if the State has established a statewide program for meeting the objectives of this section.
+
+  (C) *Limited to eligible projects.—* — Any funds transferred pursuant to subparagraph (B) shall be made available only for eligible projects selected under this section.
+
+  (D) *Consultation.—* — A recipient may transfer an amount under subparagraph (B) only after consulting with responsible local officials, publicly owned operators of public transportation, and nonprofit providers in the area for which the amount was originally apportioned.
+
+**(d) Government Share of Costs.—**
+
+(1) **Capital projects.—** — A grant for a capital project under this section shall be in an amount equal to 80 percent of the net capital costs of the project, as determined by the Secretary.
+
+(2) **Operating assistance.—** — A grant made under this section for operating assistance may not exceed an amount equal to 50 percent of the net operating costs of the project, as determined by the Secretary.
+
+(3) **Remainder of net costs.—** — The remainder of the net costs of a project carried out under this section—
+
+  (A) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital; and
+
+  (B) may be derived from amounts appropriated or otherwise made available—
+
+    (i) to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation; or
+
+    (ii) to carry out the Federal lands highways program under section 204 11 See References in Text note below. of title 23.
+
+(4) **Use of certain funds.—** — For purposes of paragraph (3)(B)(i), the prohibition under section 403(a)(5)(C)(vii) of the Social Security Act ([42 U.S.C. 603(a)(5)(C)(vii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/C/vii&num=0&edition=prelim)) on the use of grant funds for matching requirements shall not apply to Federal or State funds to be used for transportation purposes.
+
+**(e) Grant Requirements.—**
+
+(1) **In general.—** — A grant under this section shall be subject to the same requirements as a grant under section 5307, to the extent the Secretary determines appropriate.
+
+(2) **Certification requirements.—**
+
+  (A) *Project selection and plan development.—* — Before receiving a grant under this section, each recipient shall certify that—
+
+    (i) the projects selected by the recipient are included in a locally developed, coordinated public transit-human services transportation plan;
+
+    (ii) the plan described in clause (i) was developed and approved through a process that included participation by seniors, individuals with disabilities, representatives of public, private, and nonprofit transportation and human services providers, and other members of the public; and
+
+    (iii) to the maximum extent feasible, the services funded under this section will be coordinated with transportation services assisted by other Federal departments and agencies, including any transportation activities carried out by a recipient of a grant from the Department of Health and Human Services.
+
+  (B) *Allocations to subrecipients.—* — If a recipient allocates funds received under this section to subrecipients, the recipient shall certify that the funds are allocated on a fair and equitable basis.
+
+**(f) Competitive Process for Grants to Subrecipients.—**
+
+(1) **Areawide solicitations.—** — A recipient of funds apportioned under subsection (c)(1)(A) may conduct, in cooperation with the appropriate metropolitan planning organization, an areawide solicitation for applications for grants under this section.
+
+(2) **Statewide solicitations.—** — A recipient of funds apportioned under subparagraph (B) or (C) of subsection (c)(1) may conduct a statewide solicitation for applications for grants under this section.
+
+(3) **Application.—** — If the recipient elects to engage in a competitive process, a recipient or subrecipient seeking to receive a grant from funds apportioned under subsection (c) shall submit to the recipient making the election an application in such form and in accordance with such requirements as the recipient making the election shall establish.
+
+**(g) Transfers of Facilities and Equipment.—** A recipient may transfer a facility or equipment acquired using a grant under this section to any other recipient eligible to receive assistance under this chapter, if—
+
+(1) the recipient in possession of the facility or equipment consents to the transfer; and
+
+(2) the facility or equipment will continue to be used as required under this section.
+
+**(h) Performance Measures.—**
+
+(1) **In general.—** — Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives making recommendations on the establishment of performance measures for grants under this section. Such report shall be developed in consultation with national nonprofit organizations that provide technical assistance and advocacy on issues related to transportation services for seniors and individuals with disabilities.
+
+(2) **Measures.—** — The performance measures to be considered in the report under paragraph (1) shall require the collection of quantitative and qualitative information, as available, concerning—
+
+  (A) modifications to the geographic coverage of transportation service, the quality of transportation service, or service times that increase the availability of transportation services for seniors and individuals with disabilities;
+
+  (B) ridership;
+
+  (C) accessibility improvements; and
+
+  (D) other measures, as the Secretary determines is appropriate.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5310(a) | 49 App.:1612(b) (1st sentence words before cl. (1)), cls. (1) (words before 3d comma), (2) (words before “with such grants”). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 16(b) (1st sentence); added Oct. 15, 1970, Pub. L. 91–453, § 8, 84 Stat. 967; restated Aug. 13, 1973, Pub. L. 93–87, § 301(g), 87 Stat. 295; Dec. 18, 1991, Pub. L. 102–240, § 3021(1)– (4), 105 Stat. 2110. |
+| 5310(b) | 49 App.:1612(c)(2), (3). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 16(c); added Dec. 18, 1991, Pub. L. 102–240, § 3021(6), 105 Stat. 2110; Oct. 6, 1992, Pub. L. 102–388, § 502(k), 106 Stat. 1567. |
+| 5310(c) | 49 App.:1612(c)(1). |  |
+| 5310(d) | 49 App.:1612(b) (1st sentence cl. (3)). |  |
+| 5310(e) | 49 App.:1612(b) (1st sentence cls. (1) (words after 3d comma), (2) (words after “service under this subsection”)). |  |
+| 5310(f) | 49 App.:1612(e). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 16(e); added Jan. 6, 1983, Pub. L. 97–424, § 317(c), 96 Stat. 2153; Apr. 2, 1987, Pub. L. 100–17, § 327(a)(4), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, § 3021(1), (5), 105 Stat. 2110. |
+| 5310(g) | 49 App.:1612(c)(4). |  |
+| 5310(h) | 49 App.:1612(f). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 16(f); added Apr. 2, 1987, Pub. L. 100–17, § 321, 101 Stat. 235; restated Dec. 18, 1991, Pub. L. 102–240, § 3021(5), (7), 105 Stat. 2110, 2111. |
+| 5310(i) | 49 App.:1614(g) (related to 1612(b)). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to § 16(b)); added Nov. 6, 1978, Pub. L. 95–599, § 313, 92 Stat. 2750; restated Dec. 18, 1991, Pub. L. 102–240, § 3022, 105 Stat. 2111. |
+| 5310(j) | 49 App.:1604b. | Nov. 26, 1974, Pub. L. 93–503, § 108, 88 Stat. 1572. |
+
+In this section, the words “governmental authorities” are substituted for “public bodies” because of section 5302(a) of the revised title.
+
+In subsection (a), before clause (1), the words “In addition to the grants and loans otherwise provided for under this chapter” are omitted as surplus. In clauses (1) and (2), the words “the specific purpose of” are omitted as surplus. In clause (1), the words “or agencies thereof” are omitted as surplus.
+
+In subsection (b), the words “for expenditure”, “to the States”, and “amounts of a” are omitted as surplus.
+
+In subsection (d), the words “A recipient of amounts under this section” are added for clarity to correct an error in the source provisions. The words “under a contract, lease, or other arrangement” are omitted as surplus.
+
+In subsection (e), the words “terms, conditions . . . and provisions” are omitted as surplus.
+
+In subsection (e)(1), the words “and is deemed” are substituted for “and being considered for the purposes of all other laws” for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (e)(2), the words “insofar as may be appropriate” and “necessary or . . . for purposes of this paragraph” are omitted as surplus.
+
+In subsection (f), the words “any applicable” are omitted as surplus. The words “prescribe regulations establishing” are substituted for “not later than ninety days after January 6, 1983, publish in the Federal Register for public comment, proposed regulations and, not later than one hundred and eighty days after January 6, 1983, promulgate final regulations, establishing” to eliminate unnecessary and executed words. Section 3021(1) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2110) is applied to 49 App.:1612(e) to carry out the apparent intent of Congress.
+
+In subsection (g), the words “not later than 60 days following December 18, 1991” are omitted as obsolete. The words “and agencies” are omitted as surplus.
+
+In subsection (j), the words “elderly individuals and individuals with disabilities” are substituted for “elderly and handicapped persons” for consistency.
+
+#### References in Text
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+
+[Section 204 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section204&num=0&edition=prelim), referred to in subsec. (d)(3)(B)(ii), was repealed and a new section 204 was enacted by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473, 489. As enacted by Pub. L. 112–141, section 204 relates to the Federal lands access program.
+
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (h)(1), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to formula grants for special needs of elderly individuals and individuals with disabilities.
+
+2005—Pub. L. 109–59, § 3012(a), amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (j) relating to formula grants and loans for special needs of elderly individuals and individuals with disabilities.
+
+Subsec. (h). Pub. L. 109–59, § 3002(b)(2), substituted “Public” for “Mass”.
+
+1998—Pub. L. 105–178 substituted “Formula grants” for “Grants” in section catchline.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Elderly Individuals and Individuals With Disabilities Pilot Program
+Pub. L. 109–59, title III, § 3012(b), Aug. 10, 2005, 119 Stat. 1591, as amended by Pub. L. 111–147, title IV, § 437(c), Mar. 18, 2010, 124 Stat. 92; Pub. L. 111–322, title II, § 2307(c), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, § 307(c), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, § 137(c), Sept. 16, 2011, 125 Stat. 354; Pub. L. 112–102, title III, § 307(c), Mar. 30, 2012, 126 Stat. 280; Pub. L. 112–140, title III, § 307(c), June 29, 2012, 126 Stat. 401; Pub. L. 112–141, div. G, title III, § 113007(c), July 6, 2012, 126 Stat. 987, which established a pilot program for certain States to carry out projects for public transportation of elderly individuals and individuals with disabilities, was repealed by Pub. L. 112–141, div. B, § 20002(c)(3), July 6, 2012, 126 Stat. 622.
+
+#### Over-the-Road Bus Accessibility Program
+Pub. L. 105–178, title III, § 3038, June 9, 1998, 112 Stat. 392, as amended by Pub. L. 105–206, title IX, § 9009(x), July 22, 1998, 112 Stat. 862; Pub. L. 106–346, § 101(a) [title III, § 336], Oct. 23, 2000, 114 Stat. 1356, 1356A–31; Pub. L. 108–88, § 8(m), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, § 9(m), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, § 7(m), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, § 7(m), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, § 7(m), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, § 8(m), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, § 7(l), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, § 7(l), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, § 7(l), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, § 7(l), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, § 7(l), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, § 3039(a), Aug. 10, 2005, 119 Stat. 1638, which provided for grants to over-the-road bus operators to finance costs associated with bus accessibility for persons with disabilities, was repealed by Pub. L. 112–141, div. B, § 20002(b), July 6, 2012, 126 Stat. 622.
+
+
+<a id="section-5311"></a>
+## § 5311. Formula grants for rural areas
+**(a) Definitions.—** As used in this section, the following definitions shall apply:
+
+(1) **Recipient.—** — The term “recipient” means a State or Indian tribe that receives a Federal transit program grant directly from the Government.
+
+(2) **Subrecipient.—** — The term “subrecipient” means a State or local governmental authority, a nonprofit organization, or an operator of public transportation or intercity bus service that receives Federal transit program grant funds indirectly through a recipient.
+
+**(b) General Authority.—**
+
+(1) **Grants authorized.—** — Except as provided by paragraph (2), the Secretary may award grants under this section to recipients located in rural areas for—
+
+  (A) planning, provided that a grant under this section for planning activities shall be in addition to funding awarded to a State under section 5305 for planning activities that are directed specifically at the needs of rural areas in the State;
+
+  (B) public transportation capital projects;
+
+  (C) operating costs of equipment and facilities for use in public transportation;
+
+  (D) job access and reverse commute projects; and
+
+  (E) the acquisition of public transportation services, including service agreements with private providers of public transportation service.
+
+(2) **State program.—**
+
+  (A) *In general.—* — A project eligible for a grant under this section shall be included in a State program for public transportation service projects, including agreements with private providers of public transportation service.
+
+  (B) *Submission to secretary.—* — Each State shall submit to the Secretary annually the program described in subparagraph (A).
+
+  (C) *Approval.—* — The Secretary may not approve the program unless the Secretary determines that—
+
+    (i) the program provides a fair distribution of amounts in the State, including Indian reservations; and
+
+    (ii) the program provides the maximum feasible coordination of public transportation service assisted under this section with transportation service assisted by other Federal sources.
+
+(3) **Rural transportation assistance program.—**
+
+  (A) *In general.—* — The Secretary shall carry out a rural transportation assistance program in rural areas.
+
+  (B) *Grants and contracts.—* — In carrying out this paragraph, the Secretary may use not more than 2 percent of the amount made available under section 5338(a)(2)(E) to make grants and contracts for transportation research, technical assistance, training, and related support services in rural areas.
+
+  (C) *Projects of a national scope.—* — Not more than 15 percent of the amounts available under subparagraph (B) may be used by the Secretary to carry out competitively selected projects of a national scope, with the remaining balance provided to the States.
+
+(4) **Data collection.—** — Each recipient under this section shall submit an annual report to the Secretary containing information on capital investment, operations, and service provided with funds received under this section, including—
+
+  (A) total annual revenue;
+
+  (B) sources of revenue;
+
+  (C) total annual operating costs;
+
+  (D) total annual capital costs;
+
+  (E) fleet size and type, and related facilities;
+
+  (F) vehicle revenue miles; and
+
+  (G) ridership.
+
+**(c) Apportionments.—**
+
+(1) **Public transportation on indian reservations.—** — Of the amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) to carry out this paragraph, the following amounts shall be apportioned each fiscal year for grants to Indian tribes for any purpose eligible under this section, under such terms and conditions as may be established by the Secretary:
+
+  (A) $5,000,000 shall be distributed on a competitive basis by the Secretary.
+
+  (B) $25,000,000 shall be apportioned as formula grants, as provided in subsection (j).
+
+(2) **Appalachian development public transportation assistance program.—**
+
+  (A) *Definitions.—* — In this paragraph—
+
+    (i) the term “Appalachian region” has the same meaning as in [section 14102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section14102&num=0&edition=prelim); and
+
+    (ii) the term “eligible recipient” means a State that participates in a program established under subtitle IV of title 40.
+
+  (B) *In general.—* — The Secretary shall carry out a public transportation assistance program in the Appalachian region.
+
+  (C) *Apportionment.—* — Of amounts made available or appropriated for each fiscal year under section 5338(a)(2)(E) to carry out this paragraph, the Secretary shall apportion funds to eligible recipients for any purpose eligible under this section, based on the guidelines established under section 9.5(b) of the Appalachian Regional Commission Code.
+
+  (D) *Special rule.—* — An eligible recipient may use amounts that cannot be used for operating expenses under this paragraph for a highway project if—
+
+    (i) that use is approved, in writing, by the eligible recipient after appropriate notice and an opportunity for comment and appeal are provided to affected public transportation providers; and
+
+    (ii) the eligible recipient, in approving the use of amounts under this subparagraph, determines that the local transit needs are being addressed.
+
+(3) **Remaining amounts.—**
+
+  (A) *In general.—* — The amounts made available or appropriated for each fiscal year pursuant to section 5338(a)(2)(E) that are not apportioned under paragraph (1) or (2) shall be apportioned in accordance with this paragraph.
+
+  (B) *Apportionment based on land area and population in nonurbanized areas.—*
+
+    (i) *In general.—* — 83.15 percent of the amount described in subparagraph (A) shall be apportioned to the States in accordance with this subparagraph.
+
+    (ii) *Land area.—*
+
+      (I) *In general.—* — Subject to subclause (II), each State shall receive an amount that is equal to 20 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
+
+      (II) *Maximum apportionment.—* — No State shall receive more than 5 percent of the amount apportioned under subclause (I).
+
+    (iii) *Population.—* — Each State shall receive an amount equal to 80 percent of the amount apportioned under clause (i), multiplied by the ratio of the population of rural areas in that State and divided by the population of all rural areas in the United States, as shown by the most recent decennial census of population.
+
+  (C) *Apportionment based on land area, vehicle revenue miles, and low-income individuals in nonurbanized areas.—*
+
+    (i) *In general.—* — 16.85 percent of the amount described in subparagraph (A) shall be apportioned to the States in accordance with this subparagraph.
+
+    (ii) *Land area.—* — Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
+
+    (iii) *Vehicle revenue miles.—* — Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of vehicle revenue miles in rural areas in that State and divided by the vehicle revenue miles in all rural areas in the United States, as determined by national transit database reporting.
+
+    (iv) *Low-income individuals.—* — Each State shall receive an amount that is equal to 40.64 percent of the amount apportioned under clause (i), multiplied by the ratio of low-income individuals in rural areas in that State and divided by the number of low-income individuals in all rural areas in the United States, as shown by the Bureau of the Census.
+
+    (v) *Maximum apportionment.—* — No State shall receive—
+
+      (I) more than 5 percent of the amount apportioned under clause (ii); or
+
+      (II) more than 5 percent of the amount apportioned under clause (iii).
+
+**(d) Use for Local Transportation Service.—** A State may use an amount apportioned under this section for a project included in a program under subsection (b) of this section and eligible for assistance under this chapter if the project will provide local transportation service, as defined by the Secretary of Transportation, in a rural area.
+
+**(e) Use for Administration, Planning, and Technical Assistance.—** The Secretary may allow a State to use not more than 10 percent of the amount apportioned under this section to administer this section and provide technical assistance to a subrecipient, including project planning, program and management development, coordination of public transportation programs, and research the State considers appropriate to promote effective delivery of public transportation to a rural area.
+
+**(f) Intercity Bus Transportation.—**
+
+(1) **In general.—** — A State shall expend at least 15 percent of the amount made available in each fiscal year to carry out a program to develop and support intercity bus transportation. Eligible activities under the program include—
+
+  (A) planning and marketing for intercity bus transportation;
+
+  (B) capital grants for intercity bus facilities;
+
+  (C) joint-use facilities;
+
+  (D) operating grants through purchase-of-service agreements, user-side subsidies, and demonstration projects; and
+
+  (E) coordinating rural connections between small public transportation operations and intercity bus carriers.
+
+(2) **Certification.—** — A State does not have to comply with paragraph (1) of this subsection in a fiscal year in which the Governor of the State certifies to the Secretary, after consultation with affected intercity bus service providers, that the intercity bus service needs of the State are being met adequately.
+
+**(g) Government Share of Costs.—**
+
+(1) **Capital projects.—**
+
+  (A) *In general.—* — Except as provided by subparagraph (B), a grant awarded under this section for a capital project or project administrative expenses shall be for 80 percent of the net costs of the project, as determined by the Secretary.
+
+  (B) *Exception.—* — A State described in [section 120(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section120/b&num=0&edition=prelim) shall receive a Government share of the net costs in accordance with the formula under that section.
+
+(2) **Operating assistance.—**
+
+  (A) *In general.—* — Except as provided by subparagraph (B), a grant made under this section for operating assistance may not exceed 50 percent of the net operating costs of the project, as determined by the Secretary.
+
+  (B) *Exception.—* — A State described in [section 120(b) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section120/b&num=0&edition=prelim) shall receive a Government share of the net operating costs equal to 62.5 percent of the Government share provided for under paragraph (1)(B).
+
+(3) **Remainder.—** — The remainder of net project costs—
+
+  (A) may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, a service agreement with a State or local social service agency or a private social service organization, or new capital;
+
+  (B) may be derived from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation;
+
+  (C) notwithstanding subparagraph (B), may be derived from amounts made available to carry out the Federal lands highway program established by section 204 11 See References in Text note below. of title 23; and
+
+  (D) in the case of an intercity bus project that includes both feeder service and an unsubsidized segment of intercity bus service to which the feeder service connects, may be derived from the costs of a private operator for the unsubsidized segment of intercity bus service as an in-kind match for the operating costs of connecting rural intercity bus feeder service funded under subsection (f), if the private operator agrees in writing to the use of the costs of the private operator for the unsubsidized segment of intercity bus service as an in-kind match.
+
+(4) **Use of certain funds.—** — For purposes of paragraph (3)(B), the prohibitions on the use of funds for matching requirements under section 403(a)(5)(C)(vii) of the Social Security Act ([42 U.S.C. 603(a)(5)(C)(vii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/5/C/vii&num=0&edition=prelim)) shall not apply to Federal or State funds to be used for transportation purposes.
+
+(5) **Limitation on operating assistance.—** — A State carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses.
+
+**(h) Transfer of Facilities and Equipment.—** With the consent of the recipient currently having a facility or equipment acquired with assistance under this section, a State may transfer the facility or equipment to any recipient eligible to receive assistance under this chapter if the facility or equipment will continue to be used as required under this section.
+
+**(i) Relationship to Other Laws.—**
+
+(1) **In general.—** — Section 5333(b) applies to this section if the Secretary of Labor utilizes a special warranty that provides a fair and equitable arrangement to protect the interests of employees.
+
+(2) **Rule of construction.—** — This subsection does not affect or discharge a responsibility of the Secretary of Transportation under a law of the United States.
+
+**(j) Formula Grants for Public Transportation on Indian Reservations.—**
+
+(1) **Apportionment.—**
+
+  (A) *In general.—* — Of the amounts described in subsection (c)(1)(B)—
+
+    (i) 50 percent of the total amount shall be apportioned so that each Indian tribe providing public transportation service shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of vehicle revenue miles provided by an Indian tribe divided by the total number of vehicle revenue miles provided by all Indian tribes, as reported to the Secretary;
+
+    (ii) 25 percent of the total amount shall be apportioned equally among each Indian tribe providing at least 200,000 vehicle revenue miles of public transportation service annually, as reported to the Secretary; and
+
+    (iii) 25 percent of the total amount shall be apportioned among each Indian tribe providing public transportation on tribal lands (as defined by the Bureau of the Census) on which more than 1,000 low-income individuals reside (as determined by the Bureau of the Census) so that each Indian tribe shall receive an amount equal to the total amount apportioned under this clause multiplied by the ratio of the number of low-income individuals residing on an Indian tribe’s lands divided by the total number of low-income individuals on tribal lands on which more than 1,000 low-income individuals reside.
+
+  (B) *Limitation.—* — No recipient shall receive more than $300,000 of the amounts apportioned under subparagraph (A)(iii) in a fiscal year.
+
+  (C) *Remaining amounts.—* — Of the amounts made available under subparagraph (A)(iii), any amounts not apportioned under that subparagraph shall be allocated among Indian tribes receiving less than $300,000 in a fiscal year according to the formula specified in that clause.
+
+  (D) *Low-income individuals.—* — For purposes of subparagraph (A)(iii), the term “low-income individual” means an individual whose family income is at or below 100 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act ([42 U.S.C. 9902(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim)), including any revision required by that section, for a family of the size involved.
+
+(2) **Non-tribal service providers.—** — A recipient that is an Indian tribe may use funds apportioned under this subsection to finance public transportation services provided by a non-tribal provider of public transportation that connects residents of tribal lands with surrounding communities, improves access to employment or healthcare, or otherwise addresses the mobility needs of tribal members.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5311(a) | 49 App.:1614(c) (3d sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(b), (c) (2d, 3d sentences), (d), (e) (1st–4th sentences), (f); added Nov. 6, 1978, Pub. L. 95–599, § 313, 92 Stat. 2749, 2750. |
+| 5311(b)(1) | 49 App.:1614(b) (1st sentence 18th–last words, 2d, last sentences), (c) (2d sentence words between 1st and 2d commas). |  |
+| 5311(b)(2) | 49 App.:1614(h). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(h); added Apr. 2, 1987, Pub. L. 100–17, § 323, 101 Stat. 235. |
+| 5311(c) | 49 App.:1614(a) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(a) (1st sentence); added Nov. 6, 1978, Pub. L. 95–599, § 313, 92 Stat. 2748; Jan. 6, 1983, Pub. L. 97–424, § 316(a), 96 Stat. 2153. |
+|  | 49 App.:1614(a) (2d sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(a) (2d sentence); added Nov. 6, 1978, Pub. L. 95–599, § 313, 92 Stat. 2748; Dec. 18, 1991, Pub. L. 102–240, § 3024, 105 Stat. 2112. |
+|  | 49 App.:1614(c) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(c) (1st sentence); added Nov. 6, 1978, Pub. L. 95–599, § 313, 92 Stat. 2749; Jan. 6, 1983, Pub. L. 97–424, § 316(b), 96 Stat. 2153. |
+| 5311(d) | 49 App.:1614(b) (1st sentence 1st–17th words), (c) (2d sentence words before 1st and after 2d commas). |  |
+| 5311(e)(1) | 49 App.:1614(d). |  |
+| 5311(e)(2) | 49 App.:1614(c) (4th sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(c) (4th sentence); added Apr. 2, 1987, Pub. L. 100–17, § 322, 101 Stat. 235. |
+| 5311(f) | 49 App.:1614(i). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(i); added Dec. 18, 1991, Pub. L. 102–240, § 3023, 105 Stat. 2111. |
+| 5311(g)(1) | 49 App.:1614(e) (last sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(e) (last sentence); added Dec. 19, 1985, Pub. L. 99–190, § 326, 99 Stat. 1289. |
+| 5311(g)(2) | 49 App.:1614(e) (1st–4th sentences). |  |
+| 5311(h) | 49 App.:1614(c) (last sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(c) (last sentence); added Oct. 6, 1992, Pub. L. 102–388, § 502(l), 106 Stat. 1567. |
+| 5311(i) | 49 App.:1614(g) (related to this section). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(g) (related to this section); added Nov. 6, 1978, Pub. L. 95–599, § 313(a), 92 Stat. 2750; restated Dec. 18, 1991, Pub. L. 102–240, § 3022, 105 Stat. 2111. |
+| 5311(j) | 49 App.:1614(f). |  |
+
+In subsection (a), the words “Eligible” and “and agencies thereof” are omitted as surplus.
+
+In subsection (b)(1), the words “The Secretary of Transportation may make grants” are added for clarity and consistency in this chapter. The word “equitable” is omitted as being included in “fair”.
+
+In subsection (b)(2), the words “establish and” are omitted as executed. The word “direct” is omitted as surplus.
+
+In subsection (c), the words “for expenditure in each fiscal year” are omitted as surplus. The words “so that” are substituted for “Such sums shall be made available for expenditure for public transportation projects in areas other than urbanized areas on the basis of a formula under which” to eliminate unnecessary words. The words “will be entitled to” and “as designated by the Bureau of the Census” are omitted as surplus. The words “United States” are substituted for “all the States” for consistency in the revised title and with other titles of the Code. The words “available”, “a period of”, and “the close of” are omitted as surplus.
+
+In subsection (d), the words “included in a program under subsection (b) of this section” are substituted for 49 App.:1614(b) (1st–17th words) and “which are appropriate for areas other than urbanized areas” to eliminate unnecessary words. The words “for assistance” are added for clarity.
+
+In subsection (e)(1), the words “of funds under this section. Such technical assistance” and “(public and private)” are omitted as surplus.
+
+In subsections (e)(2) and (g)(2), the word “grant” is substituted for “share” for consistency in this chapter.
+
+In subsection (f), the text of 49 App.:1614(i)(3) is omitted as obsolete.
+
+In subsection (f)(1), before clause (A), the words “Subject to paragraph (2)” are omitted as surplus. The reference to fiscal year 1992 is omitted as obsolete.
+
+In subsection (g)(2), the words “under this chapter”, “as defined by the Secretary”, “Any public or private”, “solely”, and “available in” are omitted as surplus.
+
+Subsection (h) is substituted for 49 App.:1614(c) (last sentence) for clarity and consistency in this chapter and to eliminate unnecessary words.
+
+In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as unnecessary because of section 5334(a) of the revised title and 49:322(a). The words “in carrying out projects” are omitted as surplus.
+
+#### References in Text
+[Section 204 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section204&num=0&edition=prelim), referred to in subsec. (g)(3)(C), was repealed and a new section 204 was enacted by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473, 489. As enacted by Pub. L. 112–141, section 204 relates to the Federal lands access program.
+
+#### Amendments
+2012—Pub. L. 112–141, § 20010, amended section generally. Prior to amendment, section related to formula grants for other than urbanized areas.
+
+Subsec. (c)(1)(G). Pub. L. 112–141, § 113004, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “$11,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§ 1(c), 304, temporarily amended subpar. (G) generally, apportioning $11,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “$7,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+2011—Subsec. (c)(1)(F). Pub. L. 112–5 amended subpar. (F) generally. Prior to amendment, text read as follows: “$6,369,000 for the period beginning October 1, 2010 and ending March 4, 2011.”
+
+Subsec. (c)(1)(G). Pub. L. 112–30 added subpar. (G).
+
+2010—Subsec. (c)(1)(E). Pub. L. 111–147 added subpar. (E).
+
+Subsec. (c)(1)(F). Pub. L. 111–322 amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$3,750,000 for the period beginning October 1, 2010, and ending December 31, 2010.”
+
+Pub. L. 111–147 added subpar. (F).
+
+2008—Subsec. (g)(1)(A). Pub. L. 110–244, § 201(e)(1), (2), substituted “for a capital project or project administrative expenses” for “for any purpose other than operating assistance” and struck out “capital” after “net”.
+
+Subsec. (g)(1)(B). Pub. L. 110–244, § 201(e)(2), struck out “capital” after “net”.
+
+Subsec. (i)(1). Pub. L. 110–244, § 201(e)(3), substituted “Section 5333(b) applies” for “Sections 5323(a)(1)(D) and 5333(b) of this title apply”.
+
+2005—Subsec. (a). Pub. L. 109–59, § 3013(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “In this section, ‘recipient’ includes a State authority, a local governmental authority, a nonprofit organization, and an operator of mass transportation service.”
+
+Subsec. (b). Pub. L. 109–59, § 3013(b), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows:
+
+“(1) The Secretary of Transportation may make grants for transportation projects that are included in a State program of mass transportation service projects (including service agreements with private providers of mass transportation service) for areas other than urbanized areas. The program shall be submitted annually to the Secretary. The Secretary may approve the program only if the Secretary finds that the program provides a fair distribution of amounts in the State, including Indian reservations, and the maximum feasible coordination of mass transportation service assisted under this section with transportation service assisted by other United States Government sources.
+
+“(2) The Secretary of Transportation shall carry out a rural transportation assistance program in nonurbanized areas. In carrying out this paragraph, the Secretary may make grants and contracts for transportation research, technical assistance, training, and related support services in nonurbanized areas.”
+
+Subsec. (c). Pub. L. 109–59, § 3013(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall apportion amounts made available under [section 5338(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/a&num=0&edition=prelim) so that the chief executive officer of each State receives an amount equal to the total amount apportioned multiplied by a ratio equal to the population of areas other than urbanized areas in a State divided by the population of all areas other than urbanized areas in the United States, as shown by the most recent of the following: the latest Government census, the population estimate the Secretary of Commerce prepares after the 4th year after the date the latest census is published, or the population estimate the Secretary of Commerce prepares after the 8th year after the date the latest census is published. The amount may be obligated by the chief executive officer for 2 years after the fiscal year in which the amount is apportioned. An amount that is not obligated at the end of that period shall be reapportioned among the States for the next fiscal year.”
+
+Subsec. (e). Pub. L. 109–59, § 3013(d), inserted “, Planning,” after “Administration” in heading and in text struck out “(1)” before “The Secretary”, substituted “subrecipient” for “recipient”, and struck out par. (2) which read as follows: “Except as provided in this section, a State carrying out a program of operating assistance under this section may not limit the level or extent of use of the Government grant for the payment of operating expenses.”
+
+Subsec. (e)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+
+Subsec. (f)(1). Pub. L. 109–59, § 3013(e)(1), inserted heading, struck out “after September 30, 1993,” after “in each fiscal year” in introductory provisions and realigned margins of subpars. (A) to (D).
+
+Subsec. (f)(1)(E). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (f)(2). Pub. L. 109–59, § 3013(e)(2), inserted heading and substituted “Secretary, after consultation with affected intercity bus service providers,” for “Secretary of Transportation”.
+
+Subsec. (g). Pub. L. 109–59, § 3013(f), substituted “Government” for “Government’s” in heading and amended text generally. Prior to amendment, text read as follows:
+
+“(1) In this subsection, ‘amounts of the Government or revenues’ do not include amounts received under a service agreement with a State or local social service agency or a private social service organization.
+
+“(2) A grant of the Government for a capital project under this section may not be more than 80 percent of the net cost of the project, as determined by the Secretary of Transportation. A grant to pay a subsidy for operating expenses may not be more than 50 percent of the net cost of the operating expense project. At least 50 percent of the remainder shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation. Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.”
+
+Subsec. (h). Pub. L. 109–59, § 3013(g), redesignated subsec. (i) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “An amount made available under this section may be used for operating assistance.”
+
+Subsec. (i). Pub. L. 109–59, § 3013(g)(2), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+
+Subsec. (i)(1). Pub. L. 109–59, § 3013(h), which directed amendment of subsec. (j)(1) by substituting “if the Secretary of Labor utilizes a special warranty that provides a fair and equitable arrangement to protect the interests of employees” for “but the Secretary of Labor may waive the application of section 5333(b)”, was executed by making the substitution in subsec. (i)(1) to reflect the probable intent of Congress and the redesignation of subsec. (j) as (i) by Pub. L. 109–59, § 3013(g)(2). See above.
+
+Subsec. (j). Pub. L. 109–59, § 3013(g)(2), redesignated subsec. (j) as (i).
+
+1998—Pub. L. 105–178, § 3014(a)(1), substituted “Formula grants” for “Financial assistance” in section catchline.
+
+Subsec. (f)(1). Pub. L. 105–178, § 3014(a)(2), struck out “10 percent of the amount made available in the fiscal year ending September 30, 1993, and” before “15 percent of the amount” in introductory provisions.
+
+#### Effective and Termination Dates of 2012 Amendment
+Amendment by section 20010 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+Amendment by section 113004 of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under [section 5305 of this title](./chapter-053-public-transportation.md#section-5305).
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5312"></a>
+## § 5312. Research, development, demonstration, and deployment projects
+**(a) Research, Development, Demonstration, and Deployment Projects.—**
+
+(1) **In general.—** — The Secretary may make grants and enter into contracts, cooperative agreements, and other agreements for research, development, demonstration, and deployment projects, and evaluation of research and technology of national significance to public transportation, that the Secretary determines will improve public transportation.
+
+(2) **Agreements.—** — In order to carry out paragraph (1), the Secretary may make grants to and enter into contracts, cooperative agreements, and other agreements with—
+
+  (A) departments, agencies, and instrumentalities of the Government, including Federal laboratories;
+
+  (B) State and local governmental entities;
+
+  (C) providers of public transportation;
+
+  (D) private or non-profit organizations;
+
+  (E) institutions of higher education; and
+
+  (F) technical and community colleges.
+
+(3) **Application.—**
+
+  (A) *In general.—* — To receive a grant, contract, cooperative agreement, or other agreement under this section, an entity described in paragraph (2) shall submit an application to the Secretary.
+
+  (B) *Form and contents.—* — An application under subparagraph (A) shall be in such form and contain such information as the Secretary may require, including—
+
+    (i) a statement of purpose detailing the need being addressed;
+
+    (ii) the short- and long-term goals of the project, including opportunities for future innovation and development, the potential for deployment, and benefits to riders and public transportation; and
+
+    (iii) the short- and long-term funding requirements to complete the project and any future objectives of the project.
+
+**(b) Research.—**
+
+(1) **In general.—** — The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (a)(2) to carry out a public transportation research project that has as its ultimate goal the development and deployment of new and innovative ideas, practices, and approaches.
+
+(2) **Project eligibility.—** — A public transportation research project that receives assistance under paragraph (1) shall focus on—
+
+  (A) providing more effective and efficient public transportation service, including services to—
+
+    (i) seniors;
+
+    (ii) individuals with disabilities; and
+
+    (iii) low-income individuals;
+
+  (B) mobility management and improvements and travel management systems;
+
+  (C) data and communication system advancements;
+
+  (D) system capacity, including—
+
+    (i) train control;
+
+    (ii) capacity improvements; and
+
+    (iii) performance management;
+
+  (E) capital and operating efficiencies;
+
+  (F) planning and forecasting modeling and simulation;
+
+  (G) advanced vehicle design;
+
+  (H) advancements in vehicle technology;
+
+  (I) asset maintenance and repair systems advancement;
+
+  (J) construction and project management;
+
+  (K) alternative fuels;
+
+  (L) the environment and energy efficiency;
+
+  (M) safety improvements; or
+
+  (N) any other area that the Secretary determines is important to advance the interests of public transportation.
+
+**(c) Innovation and Development.—**
+
+(1) **In general.—** — The Secretary may make a grant to or enter into a contract, cooperative agreement, or other agreement under this section with an entity described in subsection (a)(2) to carry out a public transportation innovation and development project that seeks to improve public transportation systems nationwide in order to provide more efficient and effective delivery of public transportation services, including through technology and technological capacity improvements.
+
+(2) **Project eligibility.—** — A public transportation innovation and development project that receives assistance under paragraph (1) shall focus on—
+
+  (A) the development of public transportation research projects that received assistance under subsection (b) that the Secretary determines were successful;
+
+  (B) planning and forecasting modeling and simulation;
+
+  (C) capital and operating efficiencies;
+
+  (D) advanced vehicle design;
+
+  (E) advancements in vehicle technology;
+
+  (F) the environment and energy efficiency;
+
+  (G) system capacity, including train control and capacity improvements; or
+
+  (H) any other area that the Secretary determines is important to advance the interests of public transportation.
+
+**(d) Demonstration, Deployment, and Evaluation.—**
+
+(1) **In general.—** — The Secretary may, under terms and conditions that the Secretary prescribes, make a grant to or enter into a contract, cooperative agreement, or other agreement with an entity described in paragraph (2) to promote the early deployment and demonstration of innovation in public transportation that has broad applicability.
+
+(2) **Participants.—** — An entity described in this paragraph is—
+
+  (A) an entity described in subsection (a)(2); or
+
+  (B) a consortium of entities described in subsection (a)(2), including a provider of public transportation, that will share the costs, risks, and rewards of early deployment and demonstration of innovation.
+
+(3) **Project eligibility.—** — A project that receives assistance under paragraph (1) shall seek to build on successful research, innovation, and development efforts to facilitate—
+
+  (A) the deployment of research and technology development resulting from private efforts or Federally funded efforts; and
+
+  (B) the implementation of research and technology development to advance the interests of public transportation.
+
+(4) **Evaluation.—** — Not later than 2 years after the date on which a project receives assistance under paragraph (1), the Secretary shall conduct a comprehensive evaluation of the success or failure of the projects funded under this subsection and any plan for broad-based implementation of the innovation promoted by successful projects.
+
+(5) **Low or no emission vehicle deployment.—**
+
+  (A) *Definitions.—* — In this paragraph, the following definitions shall apply:
+
+    (i) *Eligible area.—* — The term “eligible area” means an area that is—
+
+      (I) designated as a nonattainment area for ozone or carbon monoxide under section 107(d) of the Clean Air Act ([42 U.S.C. 7407(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7407/d&num=0&edition=prelim)); or
+
+      (II) a maintenance area, as defined in section 5303, for ozone or carbon monoxide.
+      “(ii) Eligible project.—The term “eligible project” means a project or program of projects in an eligible area for—
+
+      (I) acquiring or leasing low or no emission vehicles;
+
+      (II) constructing or leasing facilities and related equipment for low or no emission vehicles;
+
+      (III) constructing new public transportation facilities to accommodate low or no emission vehicles; or
+
+      (IV) rehabilitating or improving existing public transportation facilities to accommodate low or no emission vehicles.
+
+    (iii) *Direct carbon emissions.—* — The term “direct carbon emissions” means the quantity of direct greenhouse gas emissions from a vehicle, as determined by the Administrator of the Environmental Protection Agency.
+
+    (iv) *Low or no emission bus.—* — The term “low or no emission bus” means a bus that is a low or no emission vehicle.
+
+    (v) *Low or no emission vehicle.—* — The term “low or no emission vehicle” means—
+
+      (I) a passenger vehicle used to provide public transportation that the Administrator of the Environmental Protection Agency has certified sufficiently reduces energy consumption or reduces harmful emissions, including direct carbon emissions, when compared to a comparable standard vehicle; or
+
+      (II) a zero emission bus used to provide public transportation.
+
+    (vi) *Recipient.—* — The term “recipient” means—
+
+      (I) for an eligible area that is an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census, the State in which the eligible area is located; and
+
+      (II) for an eligible area not described in subparagraph (A), the designated recipient for the eligible area.
+
+    (vii) *Zero emission bus.—* — The term “zero emission bus” means a low or no emission bus that produces no carbon or particulate matter.
+
+  (B) *Authority.—* — The Secretary may make grants to recipients to finance eligible projects under this paragraph.
+
+  (C) *Grant requirements.—*
+
+    (i) *In general.—* — A grant under this paragraph shall be subject to the requirements of section 5307.
+
+    (ii) *Government share of costs for certain projects.—* — Section 5323(j) applies to projects carried out under this paragraph, unless the grant recipient requests a lower grant percentage.
+
+    (iii) *Combination of funding sources.—*
+
+      (I) *Combination permitted.—* — A project carried out under this paragraph may receive funding under section 5307, or any other provision of law.
+
+      (II) *Government share.—* — Nothing in this clause may be construed to alter the Government share required under this section, section 5307, or any other provision of law.
+
+  (D) *Minimum amounts.—* — Of amounts made available by or appropriated under section 5338(b) in each fiscal year to carry out this paragraph—
+
+    (i) not less than 65 percent shall be made available to fund eligible projects relating to low or no emission buses; and
+
+    (ii) not less than 10 percent shall be made available for eligible projects relating to facilities and related equipment for low or no emission buses.
+
+  (E) *Competitive process.—* — The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
+
+  (F) *Priority consideration.—* — In making grants under this paragraph, the Secretary shall give priority to projects relating to low or no emission buses that make greater reductions in energy consumption and harmful emissions, including direct carbon emissions, than comparable standard buses or other low or no emission buses.
+
+  (G) *Availability of funds.—* — Any amounts made available or appropriated to carry out this paragraph—
+
+    (i) shall remain available to an eligible project for 2 years after the fiscal year for which the amount is made available or appropriated; and
+
+    (ii) that remain unobligated at the end of the period described in clause (i) shall be added to the amount made available to an eligible project in the following fiscal year.
+
+**(e) Annual Report on Research.—** Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—
+
+(1) a description of each project that received assistance under this section during the preceding fiscal year;
+
+(2) an evaluation of each project described in paragraph (1), including any evaluation conducted under subsection (d)(4) for the preceding fiscal year; and
+
+(3) a proposal for allocations of amounts for assistance under this section for the subsequent fiscal year.
+
+**(f) Government Share of Costs.—**
+
+(1) **In general.—** — The Government share of the cost of a project carried out under this section shall not exceed 80 percent.
+
+(2) **Non-government share.—** — The non-Government share of the cost of a project carried out under this section may be derived from in-kind contributions.
+
+(3) **Financial benefit.—** — If the Secretary determines that there would be a clear and direct financial benefit to an entity under a grant, contract, cooperative agreement, or other agreement under this section, the Secretary shall establish a Government share of the costs of the project to be carried out under the grant, contract, cooperative agreement, or other agreement that is consistent with the benefit.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5312(a) | 49 App.:1605(a). | July 9, 1964, Pub. L. 88–365, § 6(a), 78 Stat. 305; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 13(b), 84 Stat. 969. |
+|  | 49 App.:1605(d). | July 9, 1964, Pub. L. 88–365, § 6(d), 78 Stat. 305; Sept. 8, 1966, Pub. L. 89–562, § 3, 80 Stat. 717; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25. |
+| 5312(b)(1) | 49 App.:1607c(a) (1st, 2d sentences). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 11(a); added Sept. 8, 1966, Pub. L. 89–562, § 2(a)(2), 80 Stat. 716. |
+| 5312(b)(2) | 49 App.:1607c(a) (3d sentence). |  |
+| 5312(b)(3) | 49 App.:1607c(a) (last sentence). |  |
+| 5312(c)(1) | 49 App.:1607b (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 10; added Sept. 8, 1966, Pub. L. 89–562, § 2(a)(2), 80 Stat. 716; restated Nov. 6, 1978, Pub. L. 95–599, § 306, 92 Stat. 2744. |
+| 5312(c)(2) | 49 App.:1603(c) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 4(c) (1st sentence); added Nov. 6, 1978, Pub. L. 95–599, § 303(e), 92 Stat. 2739; Apr. 2, 1987, Pub. L. 100–17, § 320, 101 Stat. 235; Dec. 18, 1991, Pub. L. 102–240, § 3006(h)(1), 105 Stat. 2090. |
+| 5312(c)(3) | 49 App.:1607b (2d–last sentences). |  |
+
+In subsections (a) and (b)(1), the words “(or the Secretary of Housing and Urban Development when required by [section 5334(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5334/i&num=0&edition=prelim))” are added for clarity.
+
+In subsection (a), the word “working” is omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “other Federal departments and agencies” for consistency in the revised title and with other titles of the United States Code. The words “all phases of”, “(including the development, testing, and demonstration of new facilities, equipment, techniques, and methods)”, “In carrying out the provisions of this section”, “or data as he deems”, “public or private”, and “contained . . . [section 1701d–3 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701d–3&num=0&edition=prelim) or . . . other provision of” are omitted as surplus.
+
+In subsection (b)(1), before clause (A), the words “public and private”, “assist in establishing or carrying on comprehensive research in the problems of transportation in urban areas. Such grants shall be used to”, and “and qualified” are omitted as surplus. In clause (A), the words “or both” are omitted as surplus.
+
+In subsection (b)(3), the word “appropriate” is added for clarity.
+
+In subsection (c)(1), the words “and agencies thereof” are omitted as surplus.
+
+In subsection (c)(3), before clause (A), the words “public or private training” and “the sum of” are omitted as surplus. In clause (B), the words “in connection with the fellowship” are omitted as surplus.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to research, development, demonstration, and deployment projects and consisted of subsecs. (a) to (c).
+
+2008—Subsec. (c). Pub. L. 110–244 substituted “Public Transportation” for “Mass Transportation” in heading.
+
+2005—Pub. L. 109–59, § 3014(e)(1), substituted “deployment” for “training” in section catchline.
+
+Subsec. (a). Pub. L. 109–59, § 3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by [section 5334(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5334/i&num=0&edition=prelim)) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
+
+Subsec. (b). Pub. L. 109–59, § 3014(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to grants to nonprofit institutions of higher learning for research, investigations, and training.
+
+Subsec. (c). Pub. L. 109–59, § 3014(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to grants to States, local governmental authorities, and operators of mass transportation systems for training fellowships and grants to State and local governmental authorities for projects that would use innovative techniques and methods in managing and providing mass transportation.
+
+Subsec. (c)(2). Pub. L. 109–59, § 3014(c), substituted “public or private” for “public and private”.
+
+Subsec. (c)(3). Pub. L. 109–59, § 3014(d), struck out “shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and” after “Such revenues”.
+
+Subsec. (d). Pub. L. 109–59, § 3014(b), redesignated subsec. (d) as (b).
+
+Subsec. (d)(1)(A), (2). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+Subsec. (e). Pub. L. 109–59, § 3014(b), redesignated subsec. (e) as (c).
+
+Subsec. (e)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+1998—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5313"></a>
+## § 5313. Transit cooperative research program
+**(a) Cooperative Research Program.—** The amounts made available under section 5338(c) are available for a public transportation cooperative research program. The Secretary shall establish an independent governing board for the program. The board shall recommend public transportation research, development, and technology transfer activities the Secretary considers appropriate.
+
+**(b) Federal Assistance.—** The Secretary may make grants to, and cooperative agreements with, the National Academy of Sciences to carry out activities under this subsection that the Secretary decides are appropriate.
+
+**(c) Government’s Share.—** If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this section, the Secretary shall establish a Government share consistent with that benefit.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5313(a) | 49 App.:1622(a)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 26(a); added Dec. 18, 1991, Pub. L. 102–240, § 3030, 105 Stat. 2117; Oct. 6, 1992, Pub. L. 102–388, § 502(r), 106 Stat. 1567. |
+| 5313(b) | 49 App.:1622(a)(2). |  |
+| 5313(c) | 49 App.:1622(b)(8) (related to subsection (a)(1)). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 26(b)(8) (related to subsection (a)(1)); added Dec. 18, 1991, Pub. L. 102–240, § 3030, 103 Stat. 2119. |
+
+In subsection (b)(1), the word “total” is omitted as surplus.
+
+In subsection (b)(2), the word “subsection” in the source provision is translated as if it were “paragraph” to reflect the apparent intent of Congress.
+
+In subsection (b)(3)(A), the words “for obligation”, “a period of”, and “the close of” are omitted as surplus.
+
+#### Amendments
+Subsec. (a). Pub. L. 112–141, § 20030(b)(1), which directed striking out “subsections (a)(5)(C)(iii) and (d)(1) of section 5338” and inserting section “5338(c)”, was executed by inserting “section 5338(c)” to reflect the probable intent of Congress.
+
+Pub. L. 112–141, § 20030(b)(2), struck out “of Transportation” after “The Secretary”.
+
+2005—Pub. L. 109–59, § 3015(b)(1), substituted “Transit cooperative research program” for “State planning and research programs” in section catchline.
+
+Subsec. (a). Pub. L. 109–59, § 3015(a)(2), redesignated par. (2) as subsec. (b) and directed amendment of subsec. (a) by substituting “The amounts made available under subsections (a)(5)(C)(iii) and (d)(1) of section 5338” for “(1) The amounts made available under paragraphs (1) and (2)(C)(ii) of [section 5338(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/c&num=0&edition=prelim)”, which was executed by making the substitution for “(1) The amounts made available under paragraphs (1) and (2)(C)(ii) of [section 5338(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/d&num=0&edition=prelim)”, to reflect the probable intent of Congress.
+
+Subsec. (a)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+
+Subsec. (b). Pub. L. 109–59, § 3015(a)(1), (2)(B), redesignated subsec. (a)(2) as (b), inserted heading, and struck out former subsec. (b) which related to apportionment of amounts made available under paragraphs (1) and (2)(C)(ii) of [section 5338(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/c&num=0&edition=prelim) to States for grants and contracts consistent with the purposes of sections 5303–5306, 5312, 5315, 5317, and 5322 of this title.
+
+Subsec. (c). Pub. L. 109–59, § 3015(a)(3), reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “When there would be a clear and direct financial benefit to an entity under a grant or contract financed under subsection (a) of this section, the Secretary shall establish a United States Government share consistent with the benefit.”
+
+1998—Subsec. (a)(1). Pub. L. 105–178, § 3029(b)(4), substituted “The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(d)” for “Fifty percent of the amounts made available under section 5338(g)(3)”.
+
+Subsec. (b)(1). Pub. L. 105–178, § 3029(b)(5), substituted “The amounts made available under paragraphs (1) and (2)(C)(ii) of section 5338(c)” for “Fifty percent of the amounts made available under section 5338(g)(3)”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5314"></a>
+## § 5314. Technical assistance and standards development
+**(a) Technical Assistance and Standards Development.—**
+
+(1) **In general.—** — The Secretary may make grants and enter into contracts, cooperative agreements, and other agreements (including agreements with departments, agencies, and instrumentalities of the Government) to carry out activities that the Secretary determines will assist recipients of assistance under this chapter to—
+
+  (A) more effectively and efficiently provide public transportation service;
+
+  (B) administer funds received under this chapter in compliance with Federal law; and
+
+  (C) improve public transportation.
+
+(2) **Eligible activities.—** — The activities carried out under paragraph (1) may include—
+
+  (A) technical assistance; and
+
+  (B) the development of voluntary and consensus-based standards and best practices by the public transportation industry, including standards and best practices for safety, fare collection, Intelligent Transportation Systems, accessibility, procurement, security, asset management to maintain a state of good repair, operations, maintenance, vehicle propulsion, communications, and vehicle electronics.
+
+**(b) Technical Assistance.—** The Secretary, through a competitive bid process, may enter into contracts, cooperative agreements, and other agreements with national nonprofit organizations that have the appropriate demonstrated capacity to provide public transportation-related technical assistance under this section. The Secretary may enter into such contracts, cooperative agreements, and other agreements to assist providers of public transportation to—
+
+(1) comply with the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) through technical assistance, demonstration programs, research, public education, and other activities related to complying with such Act;
+
+(2) comply with human services transportation coordination requirements and to enhance the coordination of Federal resources for human services transportation with those of the Department of Transportation through technical assistance, training, and support services related to complying with such requirements;
+
+(3) meet the transportation needs of elderly individuals;
+
+(4) increase transit ridership in coordination with metropolitan planning organizations and other entities through development around public transportation stations through technical assistance and the development of tools, guidance, and analysis related to market-based development around transit stations;
+
+(5) address transportation equity with regard to the effect that transportation planning, investment and operations have for low-income and minority individuals; and
+
+(6) any other technical assistance activity that the Secretary determines is necessary to advance the interests of public transportation.
+
+**(c) Annual Report on Technical Assistance.—** Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—
+
+(1) a description of each project that received assistance under this section during the preceding fiscal year;
+
+(2) an evaluation of the activities carried out by each organization that received assistance under this section during the preceding fiscal year; and
+
+(3) a proposal for allocations of amounts for assistance under this section for the subsequent fiscal year.
+
+**(d) Government Share of Costs.—**
+
+(1) **In general.—** — The Government share of the cost of an activity carried out using a grant under this section may not exceed 80 percent.
+
+(2) **Non-government share.—** — The non-Government share of the cost of an activity carried out using a grant under this section may be derived from in-kind contributions.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5314(a) | 49 App.:1622(b) (1)–(7). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 26(b)(1)–(8) (related to this subsection); added Dec. 18, 1991, Pub. L. 102–240, § 3030, 105 Stat. 2118. |
+| 5314(b) | 49 App.:1622(b)(8) (related to this subsection). |  |
+
+In subsection (a)(2), the word “subsection” in the source provision is translated as if it were “paragraph” to reflect the apparent intent of Congress.
+
+In subsection (a)(3), the words “conditions, requirements, and provisions” are omitted as being included in “terms”.
+
+In subsection (a)(4)(C), the word “section” in the source provision is translated as if it were “paragraph” to reflect the apparent intent of Congress.
+
+#### References in Text
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to national research programs.
+
+2008—Subsec. (a)(3). Pub. L. 110–244, which directed substitution of “section 5333(b)” for “section 5323(a)(1)(D)” in subsec. (a)(3) of section 5314, without specifying the Code title to be amended, was executed by making the substitution in subsec. (a)(3) of this section, to reflect the probable intent of Congress.
+
+2005—Pub. L. 109–59, § 3016(a)(1), struck out “planning and” before “research” in section catchline.
+
+Subsec. (a)(1). Pub. L. 109–59, § 3016(a)(2), substituted “section 5338(d)” for “subsections (d) and (h)(7) of [section 5338 of this title](./chapter-053-public-transportation.md#section-5338)” and “, contracts, cooperative agreements, or other agreements” for “and contracts” and struck out “5303–5306,” before “5312,” and “5317,” before “and 5322”.
+
+Subsec. (a)(2). Pub. L. 109–59, § 3016(a)(3), substituted “The Secretary shall” for “Of the amounts made available under paragraph (1) of this subsection, the Secretary shall make available at least $3,000,000 to”.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation-related” for “mass transportation-related” and “public transportation” for “mass transportation”.
+
+Subsec. (a)(4)(A). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (a)(4)(B), (C). Pub. L. 109–59, § 3016(a)(4), (5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “The Secretary shall establish an Industry Technical Panel composed of representatives of transportation suppliers and operators and others involved in technology development. A majority of the Panel members shall represent the supply industry. The Panel shall assist the Secretary in identifying priority technology development areas and in establishing guidelines for project development, project cost sharing, and project execution.”
+
+Subsec. (a)(6). Pub. L. 109–59, § 3016(a)(6), added par. (6).
+
+Subsec. (b). Pub. L. 109–59, § 3016(a)(7), substituted “, contract, cooperative agreement, or other agreement under subsection (a) or section 5312,” for “or contract financed under subsection (a) of this section,”.
+
+Subsec. (c). Pub. L. 109–59, § 3016(b), added subsec. (c).
+
+1998—Subsec. (a)(1). Pub. L. 105–178, § 3029(b)(6), substituted “subsections (d) and (h)(7) of section 5338” for “section 5338(g)(4)”.
+
+Subsec. (a)(2). Pub. L. 105–178, § 3016, substituted “$3,000,000” for “$2,000,000”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5315"></a>
+## § 5315. Private sector participation
+**(a) General Purposes.—** In the interest of fulfilling the general purposes of this chapter under section 5301(b), the Secretary shall—
+
+(1) better coordinate public and private sector-provided public transportation services;
+
+(2) promote more effective utilization of private sector expertise, financing, and operational capacity to deliver costly and complex new fixed guideway capital projects; and
+
+(3) promote transparency and public understanding of public-private partnerships affecting public transportation.
+
+**(b) Actions to Promote Better Coordination Between Public and Private Sector Providers of Public Transportation.—** The Secretary shall—
+
+(1) provide technical assistance to recipients of Federal transit grant assistance, at the request of a recipient, on practices and methods to best utilize private providers of public transportation; and
+
+(2) educate recipients of Federal transit grant assistance on laws and regulations under this chapter that impact private providers of public transportation.
+
+**(c) Actions to Provide Technical Assistance for Alternative Project Delivery Methods.—** Upon request by a sponsor of a new fixed guideway capital project, the Secretary shall—
+
+(1) identify best practices for public-private partnerships models in the United States and in other countries;
+
+(2) develop standard public-private partnership transaction model contracts; and
+
+(3) perform financial assessments that include the calculation of public and private benefits of a proposed public-private partnership transaction.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5315(a) | 49 App.:1625(a) (1st–3d sentences). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(a)–(c); added Dec. 18, 1991, Pub. L. 102–240, § 6022, 105 Stat. 2185. |
+| 5315(b) | 49 App.:1625(a) (last sentence). |  |
+| 5315(c) | 49 App.:1625(c). |  |
+| 5315(d) | 49 App.:1625(b). |  |
+
+In subsection (a), before clause (1), the word “conduct” is substituted for “administer” for consistency in this section.
+
+In subsection (d), the word “department” is omitted for consistency in this section.
+
+#### Pub. L. 104–287
+This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to national transit institute.
+
+2005—Subsecs. (a), (b). Pub. L. 109–59, § 3017(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
+
+Subsec. (d). Pub. L. 109–59, § 3017(b), struck out “mass” after “public” in two places.
+
+1998—Pub. L. 105–178, § 3017(a)(1), as amended by Pub. L. 105–206 substituted “transit” for “mass transportation” in section catchline.
+
+Subsec. (a). Pub. L. 105–178, § 3017(a)(2)(A), as amended by Pub. L. 105–206 substituted “national transit institute” for “national mass transportation institute” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 105–178, § 3017(a)(2)(B), as amended by Pub. L. 105–206 inserted “and architectural design” before semicolon at end.
+
+Subsec. (a)(7). Pub. L. 105–178, § 3017(a)(2)(C), as amended by Pub. L. 105–206 substituted “delivering” for “carrying out”.
+
+Subsec. (a)(11). Pub. L. 105–178, § 3017(a)(2)(D), as amended by Pub. L. 105–206 inserted “, construction management, insurance, and risk management” before semicolon at end.
+
+Subsec. (a)(15), (16). Pub. L. 105–178, § 3017(a)(2)(E)–(G), as amended by Pub. L. 105–206 added pars. (15) and (16).
+
+1996—Subsec. (d). Pub. L. 104–287 substituted “sections 5307 and 5309” for “sections 5304 and 5306”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+#### Public-private Partnership Procedures and Approaches
+Pub. L. 112–141, div. B, § 20013(b), July 6, 2012, 126 Stat. 692, provided that: “(1) Identify impediments.—The Secretary shall—“(A) except as provided in paragraph (6), identify any provisions of chapter 53 of title 49, United States Code, and any regulations or practices thereunder, that impede greater use of public-private partnerships and private investment in public transportation capital projects; and “(B) develop and implement on a project basis procedures and approaches that—“(i) address such impediments in a manner similar to the Special Experimental Project Number 15 of the Federal Highway Administration (commonly referred to as ‘SEP-15’); and “(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects. “(2) Transparency.—The Secretary shall develop guidance to promote greater transparency and public access to public-private partnership agreements involving recipients of Federal assistance under chapter 53 of title 49, United States Code, including—“(A) any conflict of interest involving any party involved in the public-private partnership; “(B) tax and financing aspects related to a public-private partnership agreement; “(C) changes in the workforce and wages, benefits, or rules as a result of a public-private partnership; “(D) estimates of the revenue or savings the public-private partnership will produce for the private entity and public entity; “(E) any impacts on other developments and transportation modes as a result of non-compete clauses contained in public-private partnership agreements; and “(F) any other issues the Secretary believes will increase transparency of public-private partnership agreements and protect the public interest. “(3) Assessment.—In developing and implementing the guidance under paragraph (2), the Secretary shall encourage project sponsors to conduct assessments to determine whether use of a public-private partnership represents a better public and financial benefit than a similar transaction using public funding or public project delivery. “(4) Report.—Not later than 4 years after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary shall submit to Congress a report on the status of the procedures, approaches, and guidance developed and implemented under paragraphs (1) and (2). “(5) Rulemaking.—Not later than 1 year after the date of enactment of this Act, the Secretary shall issue rules to carry out the procedures and approaches developed under paragraph (1). “(6) Rule of construction.—Nothing in this subsection may be construed to allow the Secretary to waive any requirement under—“(A) [section 5333 of title 49](./chapter-053-public-transportation.md#section-5333), United States Code; “(B) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); or “(C) any other provision of Federal law.”
+
+
+<a id="section-5316-5317"></a>
+## § 5316, 5317. Repealed. Pub. L. 112–141, div. B, § 20002(a), July 6, 2012, 126 Stat. 622]
+
+### Statutory Notes
+
+Section 5316, added Pub. L. 109–59, title III, § 3018(a), Aug. 10, 2005, 119 Stat. 1601, related to job access and reverse commute formula grants.
+
+A prior section 5316, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 814; Pub. L. 104–59, title III, § 338(c)(5), Nov. 28, 1995, 109 Stat. 605, related to university research institutes, prior to repeal by Pub. L. 105–178, title V, § 5110(c), June 9, 1998, 112 Stat. 444.
+
+Section 5317, added Pub. L. 109–59, title III, § 3019(a), Aug. 10, 2005, 119 Stat. 1605, related to the New Freedom grant program to assist individuals with disabilites with public transportation.
+
+A prior section 5317, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 815; Pub. L. 104–287, § 5(14), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, § 3029(b)(7), June 9, 1998, 112 Stat. 372, related to transportation centers, prior to repeal by Pub. L. 105–178, title V, § 5110(c), June 9, 1998, 112 Stat. 444.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5318"></a>
+## § 5318. Bus testing facility
+**(a) Facility.—** The Secretary shall maintain one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise.
+
+**(b) Operation and Maintenance.—** The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, a qualified person or organization to operate and maintain the facility. The contract, cooperative agreement, or grant may provide for the testing of rail cars and other public transportation vehicles at the facility.
+
+**(c) Fees.—** The person operating and maintaining the facility shall establish and collect fees for the testing of vehicles at the facility. The Secretary must approve the fees.
+
+**(d) Availability of Amounts To Pay for Testing.—** The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, the operator of the facility under which the Secretary shall pay 80 percent of the cost of testing a vehicle at the facility from amounts available to carry out this section. The entity having the vehicle tested shall pay 20 percent of the cost.
+
+**(e) Acquiring New Bus Models.—**
+
+(1) **In general.—** — Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if—
+
+  (A) a bus of that model has been tested at a facility authorized under subsection (a); and
+
+  (B) the bus tested under subparagraph (A) met—
+
+    (i) performance standards for maintainability, reliability, performance (including braking performance), structural integrity, fuel economy, emissions, and noise, as established by the Secretary by rule; and
+
+    (ii) the minimum safety performance standards established by the Secretary pursuant to section 5329(b).
+
+(2) **Bus test “pass/fail” standard.—** — Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule under subparagraph (B)(i). The final rule issued under paragraph 11 So in original. Probably should be “subparagraph”. (B)(i) shall include a bus model scoring system that results in a weighted, aggregate score that uses the testing categories under subsection (a) and considers the relative importance of each such testing category. The final rule issued under subparagraph (B)(i) shall establish a “pass/fail” standard that uses the aggregate score described in the preceding sentence. Amounts appropriated or otherwise made available under this chapter may be obligated or expended to acquire a new bus model only if the new bus model has received a passing aggregate test score. The Secretary shall work with the bus testing facility, bus manufacturers, and transit agencies to develop the bus model scoring system under this paragraph. A passing aggregate test score under the rule issued under subparagraph (B)(i) indicates only that amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model and shall not be interpreted as a warranty or guarantee that the new bus model will meet a purchaser’s specific requirements.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5318(a) | 49 App.:1608 (note). | Apr. 2, 1987, Pub. L. 100–17, § 317(b)(1), 101 Stat. 233; Dec. 18, 1991, Pub. L. 102–240, § 6021(b), 105 Stat. 2184. |
+| 5318(b) | 49 App.:1608 (note). | Apr. 2, 1987, Pub. L. 100–17, § 317(b)(2), 101 Stat. 233. |
+| 5318(c) | 49 App.:1608 (note). | Apr. 2, 1987, Pub. L. 100–17, § 317(b)(3), 101 Stat. 233. |
+| 5318(d) | 49 App.:1602(m) (2d–last sentences). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(m) (2d–last sentences); added Dec. 18, 1991, Pub. L. 102–240, § 3009, 105 Stat. 2093. |
+| 5318(e) | 49 App.:1608 (note). | Apr. 2, 1987, Pub. L. 100–17, § 317(b)(5), 101 Stat. 233; Dec. 18, 1991, Pub. L. 102–240, § 6021(c), 105 Stat. 2184. |
+|  | 49 App.:1608 (note). | Apr. 2, 1987, Pub. L. 100–17, 101 Stat. 132, § 317(b)(6); added Dec. 18, 1991, Pub. L. 102–240, § 6021(d), 105 Stat. 2184. |
+
+In subsection (c), the words “Under the contract entered into under paragraph (2)” are omitted as surplus.
+
+In subsection (d), the words “to the operator of the facility” are omitted as surplus.
+
+In subsection (e), the text of section 317(b)(5) of the Surface Transportation and Relocation Assistance Act of 1987 (Public Law 100–17, 101 Stat. 132) is omitted as obsolete. The words “operating and maintaining the facility” are substituted for “described in paragraph (3)” for clarity.
+
+#### Pub. L. 103–429
+This amends 49:5318(e) to correct an erroneous cross-reference.
+
+#### References in Text
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (e)(2), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Amendments
+2012—Pub. L. 112–141 added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter may be obligated or expended to acquire a new bus model only if a bus of that model has been tested at the facility maintained by the Secretary under subsection (a).”.
+
+2005—Subsec. (a). Pub. L. 109–59, § 3020(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish one facility for testing a new bus model for maintainability, reliability, safety, performance (including braking performance), structural integrity, fuel economy, emissions, and noise. The facility shall be established by renovating a facility built with assistance of the United States Government to train rail personnel.”
+
+Subsec. (b). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (d). Pub. L. 109–59, § 3020(b), substituted “to carry out this section” for “under [section 5309(m)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5309/m/1/C&num=0&edition=prelim)”.
+
+Subsec. (e). Pub. L. 109–59, § 3020(c), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Secretary has a bus testing revolving loan fund consisting of amounts authorized for the fund under section 317(b)(5) of the Surface Transportation and Uniform Relocation Assistance Act of 1987. The Secretary shall make available as repayable advances from the fund to the person operating and maintaining the facility amounts to operate and maintain the facility.”
+
+1998—Subsec. (b). Pub. L. 105–178, § 3018(a), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and inserted “or organization” after “qualified person”, “, cooperative agreement, or grant” after “The contract”, and “mass transportation” after “and other”.
+
+Subsec. (d). Pub. L. 105–178, §§ 3018(b), 3029(b)(8), substituted “enter into a contract or cooperative agreement with, or make a grant to,” for “make a contract with” and “5309(m)(1)(C) of this title” for “5338(j)(5) of this title”.
+
+1994—Subsec. (e). Pub. L. 103–429 inserted “Uniform” before “Relocation”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+
+<a id="section-5319"></a>
+## § 5319. Bicycle facilities
+
+A project to provide access for bicycles to public transportation facilities, to provide shelters and parking facilities for bicycles in or around public transportation facilities, or to install equipment for transporting bicycles on public transportation vehicles is a capital project eligible for assistance under sections 5307, 5309, and 5311 of this title. Notwithstanding sections 5307(d), 5309(l), and 5311(g), a grant made by the Government under this chapter for a project made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(d)(1)(K) and the project involves providing bicycle access to public transportation, that grant or portion of that grant shall be at a Federal share of 95 percent.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5319 | 49 App.:1621. | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 25; added Apr. 2, 1987, Pub. L. 100–17, § 326, 101 Stat. 237. |
+
+The words “For purposes of this chapter” and “racks or other” are omitted as surplus. The word “grant” is substituted for “share” for consistency in this chapter.
+
+#### Amendments
+2012—Pub. L. 112–141 substituted “sections 5307(e), 5309(h), and 5311(g) of this title” for “sections 5307(d), 5309(l), and 5311(g)” and “made by the” for “of the United States”.
+
+2008—Pub. L. 110–244 substituted “section 5307(d)(1)(K)” for “section 5307(k)”.
+
+2005—Pub. L. 109–59 substituted “public transportation” for “mass transportation” wherever appearing.
+
+1998—Pub. L. 105–178 substituted “made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(k) and the project involves providing bicycle access to mass transportation, that grant or portion of that grant shall be at a Federal share of 95 percent” for “under this section is for 90 percent of the cost of the project”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5320"></a>
+## § 5320. Repealed. Pub. L. 112–141, div. B, § 20002(a), July 6, 2012, 126 Stat. 622]
+
+### Statutory Notes
+
+Section, added Pub. L. 109–59, title III, § 3021(a), Aug. 10, 2005, 119 Stat. 1608; amended Pub. L. 110–244, title II, § 201(i), June 6, 2008, 122 Stat. 1610, related to alternative transportation in parks and public lands.
+
+A prior section 5320, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 818; Pub. L. 103–429, § 6(9), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, § 3009(h)(3)(A), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, § 9009(h)(1), July 22, 1998, 112 Stat. 856, related to construction of a suspended light rail system technology pilot project, prior to repeal by Pub. L. 109–59, title III, § 3021(a), Aug. 10, 2005, 119 Stat. 1608.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5321"></a>
+## § 5321. Crime prevention and security
+
+The Secretary of Transportation may make capital grants from amounts available under [section 5338 of this title](./chapter-053-public-transportation.md#section-5338) to public transportation systems for crime prevention and security. This chapter does not prevent the financing of a project under this section when a local governmental authority other than the grant applicant has law enforcement responsibilities.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5321 | 49 App.:1620. | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 24; added Apr. 2, 1987, Pub. L. 100–17, § 325, 101 Stat. 237. |
+
+#### Amendments
+2005—Pub. L. 109–59 substituted “public transportation” for “mass transportation”.
+
+#### Regulations
+Pub. L. 109–59, title III, § 3028(c), Aug. 10, 2005, 119 Stat. 1624, provided that: “Not later than 180 days after the date of enactment of this Act [Aug. 10, 2005], the Secretary [of Transportation] and the Secretary of Homeland Security shall issue jointly final regulations to establish the characteristics of and requirements for public transportation security grants, including funding priorities, eligible activities, methods for awarding grants, and limitations on administrative expenses.”
+
+#### Public Transportation Security
+Pub. L. 109–59, title III, § 3028(b), Aug. 10, 2005, 119 Stat. 1624, provided that: “(1) In general.—Not later than 45 days after the date of enactment of this Act [Aug. 10, 2005], the Secretary [of Transportation] shall execute an annex to the memorandum of understanding between the Secretary and the Secretary of Homeland Security, dated September 28, 2004, to define and clarify the respective roles and responsibilities of the Department of Transportation and the Department of Homeland Security relating to public transportation security. “(2) Contents.—The annex to be executed under paragraph (1) shall—“(A) establish a process to develop security standards for public transportation agencies; “(B) create a method of direct coordination with public transportation agencies on security matters; “(C) address any other issues determined to be appropriate by the Secretary and the Secretary of Homeland Security; and “(D) include a formal and permanent mechanism to ensure coordination and involvement by the Department of Transportation, as appropriate, in public transportation security.”
+
+
+<a id="section-5322"></a>
+## § 5322. Human resources and training
+**(a) In General.—** The Secretary may undertake, or make grants and contracts for, programs that address human resource needs as they apply to public transportation activities. A program may include—
+
+(1) an employment training program;
+
+(2) an outreach program to increase minority and female employment in public transportation activities;
+
+(3) research on public transportation personnel and training needs; and
+
+(4) training and assistance for minority business opportunities.
+
+**(b) Innovative Public Transportation Workforce Development Program.—**
+
+(1) **Program established.—** — The Secretary shall establish a competitive grant program to assist the development of innovative activities eligible for assistance under subsection (a).
+
+(2) **Selection of recipients.—** — To the maximum extent feasible, the Secretary shall select recipients that—
+
+  (A) are geographically diverse;
+
+  (B) address the workforce and human resources needs of large public transportation providers;
+
+  (C) address the workforce and human resources needs of small public transportation providers;
+
+  (D) address the workforce and human resources needs of urban public transportation providers;
+
+  (E) address the workforce and human resources needs of rural public transportation providers;
+
+  (F) advance training related to maintenance of alternative energy, energy efficiency, or zero emission vehicles and facilities used in public transportation;
+
+  (G) target areas with high rates of unemployment; and
+
+  (H) address current or projected workforce shortages in areas that require technical expertise.
+
+**(c) Government’s Share of Costs.—** The Government share of the cost of a project carried out using a grant under subsection (a) or (b) shall be 50 percent.
+
+**(d) National Transit Institute.—**
+
+(1) **Establishment.—** — The Secretary shall establish a national transit institute and award grants to a public 4-year degree-granting institution of higher education, as defined in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)), in order to carry out the duties of the institute.
+
+(2) **Duties.—**
+
+  (A) *In general.—* — In cooperation with the Federal Transit Administration, State transportation departments, public transportation authorities, and national and international entities, the institute established under paragraph (1) shall develop and conduct training and educational programs for Federal, State, and local transportation employees, United States citizens, and foreign nationals engaged or to be engaged in Government-aid public transportation work.
+
+  (B) *Training and educational programs.—* — The training and educational programs developed under subparagraph (A) may include courses in recent developments, techniques, and procedures related to—
+
+    (i) intermodal and public transportation planning;
+
+    (ii) management;
+
+    (iii) environmental factors;
+
+    (iv) acquisition and joint use rights-of-way;
+
+    (v) engineering and architectural design;
+
+    (vi) procurement strategies for public transportation systems;
+
+    (vii) turnkey approaches to delivering public transportation systems;
+
+    (viii) new technologies;
+
+    (ix) emission reduction technologies;
+
+    (x) ways to make public transportation accessible to individuals with disabilities;
+
+    (xi) construction, construction management, insurance, and risk management;
+
+    (xii) maintenance;
+
+    (xiii) contract administration;
+
+    (xiv) inspection;
+
+    (xv) innovative finance;
+
+    (xvi) workplace safety; and
+
+    (xvii) public transportation security.
+
+(3) **Providing education and training.—** — Education and training of Government, State, and local transportation employees under this subsection shall be provided—
+
+  (A) by the Secretary at no cost to the States and local governments for subjects that are a Government program responsibility; or
+
+  (B) when the education and training are paid under paragraph (4) of this subsection, by the State, with the approval of the Secretary, through grants and contracts with public and private agencies, other institutions, individuals, and the institute.
+
+(4) **Availability of amounts.—** — Not more than .5 percent of the amounts made available for a fiscal year beginning after September 30, 1991, to a State or public transportation authority in the State to carry out sections 5307 and 5309 of this title is available for expenditure by the State and public transportation authorities in the State, with the approval of the Secretary, to pay not more than 80 percent of the cost of tuition and direct educational expenses related to educating and training State and local transportation employees under this subsection.
+
+**(e) Report.—** Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report concerning the measurable outcomes and impacts of the programs funded under subsections (a) and (b).
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5322 | 49 App.:1616. | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 20; added Nov. 6, 1978, Pub. L. 95–599, § 315, 92 Stat. 2751. |
+
+In this section, before clause (1), the word “make” is substituted for “provide financial assistance by” to eliminate unnecessary words. The words “national and local” are omitted as surplus. The text of 49 App.:1616 (last sentence) is omitted as surplus.
+
+#### References in Text
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (e), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to human resource programs.
+
+2005—Pub. L. 109–59, § 3022, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5323"></a>
+## § 5323. General provisions
+**(a) Interests in Property.—**
+
+(1) **In general.—** — Financial assistance provided under this chapter to a State or a local governmental authority may be used to acquire an interest in, or to buy property of, a private company engaged in public transportation, for a capital project for property acquired from a private company engaged in public transportation after July 9, 1964, or to operate a public transportation facility or equipment in competition with, or in addition to, transportation service provided by an existing public transportation company, only if—
+
+  (A) the Secretary determines that such financial assistance is essential to a program of projects required under sections 5303, 5304, and 5306;
+
+  (B) the Secretary determines that the program provides for the participation of private companies engaged in public transportation to the maximum extent feasible; and
+
+  (C) just compensation under State or local law will be paid to the company for its franchise or property.
+
+(2) **Limitation.—** — A governmental authority may not use financial assistance of the United States Government to acquire land, equipment, or a facility used in public transportation from another governmental authority in the same geographic area.
+
+**(b) Relocation and Real Property Requirements.—** The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([42 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) et seq.) shall apply to financial assistance for capital projects under this chapter.
+
+**(c) Consideration of Economic, Social, and Environmental Interests.—**
+
+(1) **Cooperation and consultation.—** — The Secretary shall cooperate and consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency on each project that may have a substantial impact on the environment.
+
+(2) **Compliance with nepa.—** — The National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) shall apply to financial assistance for capital projects under this chapter.
+
+**(d) Condition on Charter Bus Transportation Service.—**
+
+(1) **Agreements.—** — Financial assistance under this chapter may be used to buy or operate a bus only if the applicant, governmental authority, or publicly owned operator that receives the assistance agrees that, except as provided in the agreement, the governmental authority or an operator of public transportation for the governmental authority will not provide charter bus transportation service outside the urban area in which it provides regularly scheduled public transportation service. An agreement shall provide for a fair arrangement the Secretary of Transportation considers appropriate to ensure that the assistance will not enable a governmental authority or an operator for a governmental authority to foreclose a private operator from providing intercity charter bus service if the private operator can provide the service.
+
+(2) **Violations.—**
+
+  (A) *Investigations.—* — On receiving a complaint about a violation of the agreement required under paragraph (1), the Secretary shall investigate and decide whether a violation has occurred.
+
+  (B) *Enforcement of agreements.—* — If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement.
+
+  (C) *Additional remedies.—* — In addition to any remedy specified in the agreement, the Secretary shall bar a recipient or an operator from receiving Federal transit assistance in an amount the Secretary considers appropriate if the Secretary finds a pattern of violations of the agreement.
+
+**(e) Bond Proceeds Eligible for Local Share.—**
+
+(1) **Use as local matching funds.—** — Notwithstanding any other provision of law, a recipient of assistance under section 5307, 5309, or 5337 may use the proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project.
+
+(2) **Maintenance of effort.—** — The Secretary shall approve of the use of the proceeds from the issuance of revenue bonds for the remainder of the net project cost only if the Secretary finds that the aggregate amount of financial support for public transportation in the urbanized area provided by the State and affected local governmental authorities during the next 3 fiscal years, as programmed in the State transportation improvement program under section 5304, is not less than the aggregate amount provided by the State and affected local governmental authorities in the urbanized area during the preceding 3 fiscal years.
+
+(3) **Debt service reserve.—** — The Secretary may reimburse an eligible recipient for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(3)(J) from amounts made available to the recipient under section 5309.
+
+**(f) Schoolbus Transportation.—**
+
+(1) **Agreements.—** — Financial assistance under this chapter may be used for a capital project, or to operate public transportation equipment or a public transportation facility, only if the applicant agrees not to provide schoolbus transportation that exclusively transports students and school personnel in competition with a private schoolbus operator. This subsection does not apply—
+
+  (A) to an applicant that operates a school system in the area to be served and a separate and exclusive schoolbus program for the school system; and
+
+  (B) unless a private schoolbus operator can provide adequate transportation that complies with applicable safety standards at reasonable rates.
+
+(2) **Violations.—** — If the Secretary finds that an applicant, governmental authority, or publicly owned operator has violated the agreement required under paragraph (1), the Secretary shall bar a recipient or an operator from receiving Federal transit assistance in an amount the Secretary considers appropriate.
+
+**(g) Buying Buses Under Other Laws.—** Subsections (d) and (f) of this section apply to financial assistance to buy a bus under sections 133 and 142 of title 23.
+
+**(h) Grant and Loan Prohibitions.—** A grant or loan may not be used to—
+
+(1) pay ordinary governmental or nonproject operating expenses; or
+
+(2) support a procurement that uses an exclusionary or discriminatory specification.
+
+**(i) Government Share of Costs for Certain Projects.—**
+
+(1) **Acquiring vehicles and vehicle-related equipment or facilities.—**
+
+  (A) *Vehicles.—* — A grant for a project to be assisted under this chapter that involves acquiring vehicles for purposes of complying with or maintaining compliance with the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) or the Clean Air Act is for 85 percent of the net project cost.
+
+  (B) *Vehicle-related equipment or facilities.—* — A grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment or facilities required by the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) or vehicle-related equipment or facilities (including clean fuel or alternative fuel vehicle-related equipment or facilities) for purposes of complying with or maintaining compliance with the Clean Air Act, is for 90 percent of the net project cost of such equipment or facilities attributable to compliance with those Acts. The Secretary shall have discretion to determine, through practicable administrative procedures, the costs of such equipment or facilities attributable to compliance with those Acts.
+
+(2) **Costs incurred by providers of public transportation by vanpool.—**
+
+  (A) *Local matching share.—* — The local matching share provided by a recipient of assistance for a capital project under this chapter may include any amounts expended by a provider of public transportation by vanpool for the acquisition of rolling stock to be used by such provider in the recipient’s service area, excluding any amounts the provider may have received in Federal, State, or local government assistance for such acquisition.
+
+  (B) *Use of revenues.—* — A private provider of public transportation by vanpool may use revenues it receives in the provision of public transportation service in the service area of a recipient of assistance under this chapter that are in excess of the provider’s operating costs for the purpose of acquiring rolling stock, if the private provider enters into a legally binding agreement with the recipient that requires the provider to use the rolling stock in the recipient’s service area.
+
+  (C) *Definitions.—* — In this paragraph, the following definitions apply:
+
+    (i) *Private provider of public transportation by vanpool.—* — The term “private provider of public transportation by vanpool” means a private entity providing vanpool services in the service area of a recipient of assistance under this chapter using a commuter highway vehicle or vanpool vehicle.
+
+    (ii) *Commuter highway vehicle; vanpool vehicle.—* — The term “commuter highway vehicle or vanpool vehicle” means any vehicle—
+
+      (I) the seating capacity of which is at least 6 adults (not including the driver); and
+
+      (II) at least 80 percent of the mileage use of which can be reasonably expected to be for the purposes of transporting commuters in connection with travel between their residences and their place of employment.
+
+**(j) Buy America.—**
+
+(1) **In general.—** — The Secretary may obligate an amount that may be appropriated to carry out this chapter for a project only if the steel, iron, and manufactured goods used in the project are produced in the United States.
+
+(2) **Waiver.—** — The Secretary may waive paragraph (1) of this subsection if the Secretary finds that—
+
+  (A) applying paragraph (1) would be inconsistent with the public interest;
+
+  (B) the steel, iron, and goods produced in the United States are not produced in a sufficient and reasonably available amount or are not of a satisfactory quality;
+
+  (C) when procuring rolling stock (including train control, communication, and traction power equipment) under this chapter—
+
+    (i) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the rolling stock; and
+
+    (ii) final assembly of the rolling stock has occurred in the United States; or
+
+  (D) including domestic material will increase the cost of the overall project by more than 25 percent.
+
+(3) **Written waiver determination and annual report.—**
+
+  (A) *Written determination.—* — Before issuing a waiver under paragraph (2), the Secretary shall—
+
+    (i) publish in the Federal Register and make publicly available in an easily identifiable location on the website of the Department of Transportation a detailed written explanation of the waiver determination; and
+
+    (ii) provide the public with a reasonable period of time for notice and comment.
+
+  (B) *Annual report.—* — Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, and annually thereafter, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report listing any waiver issued under paragraph (2) during the preceding year.
+
+(4) **Labor costs for final assembly.—** — In this subsection, labor costs involved in final assembly are not included in calculating the cost of components.
+
+(5) **Waiver prohibited.—** — The Secretary may not make a waiver under paragraph (2) of this subsection for goods produced in a foreign country if the Secretary, in consultation with the United States Trade Representative, decides that the government of that foreign country—
+
+  (A) has an agreement with the United States Government under which the Secretary has waived the requirement of this subsection; and
+
+  (B) has violated the agreement by discriminating against goods to which this subsection applies that are produced in the United States and to which the agreement applies.
+
+(6) **Penalty for mislabeling and misrepresentation.—** — A person is ineligible under subpart 9.4 of the Federal Acquisition Regulation, or any successor thereto, to receive a contract or subcontract made with amounts authorized under the Federal Public Transportation Act of 2012 if a court or department, agency, or instrumentality of the Government decides the person intentionally—
+
+  (A) affixed a “Made in America” label, or a label with an inscription having the same meaning, to goods sold in or shipped to the United States that are used in a project to which this subsection applies but not produced in the United States; or
+
+  (B) represented that goods described in subparagraph (A) of this paragraph were produced in the United States.
+
+(7) **State requirements.—** — The Secretary may not impose any limitation on assistance provided under this chapter that restricts a State from imposing more stringent requirements than this subsection on the use of articles, materials, and supplies mined, produced, or manufactured in foreign countries in projects carried out with that assistance or restricts a recipient of that assistance from complying with those State-imposed requirements.
+
+(8) **Opportunity to correct inadvertent error.—** — The Secretary may allow a manufacturer or supplier of steel, iron, or manufactured goods to correct after bid opening any certification of noncompliance or failure to properly complete the certification (but not including failure to sign the certification) under this subsection if such manufacturer or supplier attests under penalty of perjury that such manufacturer or supplier submitted an incorrect certification as a result of an inadvertent or clerical error. The burden of establishing inadvertent or clerical error is on the manufacturer or supplier.
+
+(9) **Administrative review.—** — A party adversely affected by an agency action under this subsection shall have the right to seek review under [section 702 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section702&num=0&edition=prelim).
+
+**(k) Participation of Governmental Agencies in Design and Delivery of Transportation Services.—** Governmental agencies and nonprofit organizations that receive assistance from Government sources (other than the Department of Transportation) for nonemergency transportation services shall—
+
+(1) participate and coordinate with recipients of assistance under this chapter in the design and delivery of transportation services; and
+
+(2) be included in the planning for those services.
+
+**(l) Relationship to Other Laws.—**
+
+(1) **Fraud and false statements.—** — [Section 1001 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1001&num=0&edition=prelim) applies to a certificate, submission, or statement provided under this chapter. The Secretary may terminate financial assistance under this chapter and seek reimbursement directly, or by offsetting amounts, available under this chapter if the Secretary determines that a recipient of such financial assistance has made a false or fraudulent statement or related act in connection with a Federal public transportation program.
+
+(2) **Political activities of nonsupervisory employees.—** — The provision of assistance under this chapter shall not be construed to require the application of chapter 15 of title 5 to any nonsupervisory employee of a public transportation system (or any other agency or entity performing related functions) to whom such chapter does not otherwise apply.
+
+**(m) Preaward and Postdelivery Review of Rolling Stock Purchases.—** The Secretary shall prescribe regulations requiring a preaward and postdelivery review of a grant under this chapter to buy rolling stock to ensure compliance with Government motor vehicle safety requirements, subsection (j) of this section, and bid specifications requirements of grant recipients under this chapter. Under this subsection, independent inspections and review are required, and a manufacturer certification is not sufficient. Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving rural areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser’s requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.
+
+**(n) Submission of Certifications.—** A certification required under this chapter and any additional certification or assurance required by law or regulation to be submitted to the Secretary may be consolidated into a single document to be submitted annually as part of a grant application under this chapter. The Secretary shall publish annually a list of all certifications required under this chapter with the publication required under section 5336(d)(2).
+
+**(o) Grant Requirements.—** The grant requirements under sections 5307, 5309, and 5337 apply to any project under this chapter that receives any assistance or other financing under chapter 6 (other than section 609) of title 23.
+
+**(p) Alternative Fueling Facilities.—** A recipient of assistance under this chapter may allow the incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
+
+(1) the incidental use does not interfere with the recipient’s public transportation operations;
+
+(2) all costs related to the incidental use are fully recaptured by the recipient from the nontransit public entity or private entity;
+
+(3) the recipient uses revenues received from the incidental use in excess of costs for planning, capital, and operating expenses that are incurred in providing public transportation; and
+
+(4) private entities pay all applicable excise taxes on fuel.
+
+**(q) Corridor Preservation.—**
+
+(1) **In general.—** — The Secretary may assist a recipient in acquiring right-of-way before the completion of the environmental reviews for any project that may use the right-of-way if the acquisition is otherwise permitted under Federal law. The Secretary may establish restrictions on such an acquisition as the Secretary determines to be necessary and appropriate.
+
+(2) **Environmental reviews.—** — Right-of-way acquired under this subsection may not be developed in anticipation of the project until all required environmental reviews for the project have been completed.
+
+**(r) Reasonable Access to Public Transportation Facilities.—** A recipient of assistance under this chapter may not deny reasonable access for a private intercity or charter transportation operator to federally funded public transportation facilities, including intermodal facilities, park and ride lots, and bus-only highway lanes. In determining reasonable access, capacity requirements of the recipient of assistance and the extent to which access would be detrimental to existing public transportation services must be considered.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5323(a)(1) | 49 App.:1602(e). | July 9, 1964, Pub. L. 88–365, § 3(e), 78 Stat. 303; Sept. 8, 1966, Pub. L. 89–562, § 2(b)(1), 80 Stat. 716; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 2(1), 84 Stat. 962; Nov. 6, 1978, Pub. L. 95–599, § 302(c), 92 Stat. 2737. |
+| 5323(a)(2) | 49 App.:1608(e). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(e), (g); added Nov. 6, 1978, Pub. L. 95–599, § 308(d), 92 Stat. 2747. |
+| 5323(b) | 49 App.:1602(d). | July 9, 1964, Pub. L. 88–365, § 3(d), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; restated Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 964. |
+| 5323(c) | 49 App.:1608(h)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(h)(1); added Apr. 2, 1987, Pub. L. 100–17, § 317(a), 101 Stat. 233. |
+| 5323(d) | 49 App.:1602(f). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(f); added Jan. 4, 1974, Pub. L. 93–650, § 1(a), 89 Stat. 2–1; Aug. 22, 1974, Pub. L. 93–383, § 813(a), 88 Stat. 737; Nov. 26, 1974, Pub. L. 93–503, § 109(b), 88 Stat. 1573. |
+| 5323(e) | 49 App.:1608(g). |  |
+| 5323(f) | 49 App.:1602(g). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(g); added Nov. 26, 1974, Pub. L. 93–503, § 109(a), 88 Stat. 1572. |
+| 5323(g) | 49 App.:1602a. | Aug. 13, 1973, Pub. L. 93–87, § 164, 87 Stat. 281; Jan. 4, 1974, Pub. L. 93–650, § 1(b), 89 Stat. 2–1; Aug. 22, 1974, Pub. L. 93–383, § 813(b), 88 Stat. 737. |
+| 5323(h) | 49 App.:1602(a)(2)(C). | July 9, 1964, Pub. L. 88–365, § 3(a)(2)(C), 78 Stat. 303; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Oct. 15, 1970, Pub. L. 91–453, § 2(2), 84 Stat. 962; Nov. 26, 1974, Pub. L. 93–503, §§ 102, 104, 106, 88 Stat. 1566, 1571, 1572; restated Nov. 6, 1978, Pub. L. 95–599, § 302(a), 92 Stat. 2736. |
+| 5323(i) | 49 App.:1608(m). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(m); added Dec. 18, 1991, Pub. L. 102–240, § 3020, 105 Stat. 2110. |
+| 5323(j)(1) | 23:101 (note). | Jan. 6, 1983, Pub. L. 97–424, § 165(a) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2136; Mar. 9, 1984, Pub. L. 98–229, § 10, 98 Stat. 57; Dec. 18, 1991, Pub. L. 102–240, § 1048(a), 105 Stat. 1999. |
+| 5323(j)(2) | 23:101 (note). | Jan. 6, 1983, Pub. L. 97–424, § 165(b) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137; Apr. 2, 1987, Pub. L. 100–17, §§ 133(a)(6), 337(a)(1), (b), (c), 101 Stat. 171, 241. |
+| 5323(j)(3) | 23:101 (note). | Jan. 6, 1983, Pub. L. 97–424, § 165(c) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137. |
+| 5323(j)(4) | 23:101 (note). | Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 165(g) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991, Pub. L. 102–240, § 1048(b), 105 Stat. 2000. |
+| 5323(j)(5) | 23:101 (note). | Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 165(f) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991, Pub. L. 102–240, § 1048(b), 105 Stat. 1999. |
+| 5323(j)(6) | 23:101 (note). | Jan. 6, 1983, Pub. L. 97–424, § 165(d) (related to the Urban Mass Transportation Act of 1964), 96 Stat. 2137. |
+| 5323(j)(7) | 23:101 (note). | Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2097, § 165(e) (related to the Urban Mass Transportation Act of 1964); added Dec. 18, 1991, Pub. L. 102–240, § 1048(b), 105 Stat. 1999. |
+| 5323(k) | 49 App.:1607(q). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(q); added Oct. 6, 1992, Pub. L. 102–388, § 502(i), 106 Stat. 1566. |
+
+In subsection (a)(1), before clause (A), the words “directly or indirectly”, “any facilities or other”, “reconstructing”, and “for the purpose of providing by contract or otherwise” are omitted as surplus. In clause (C), the words “and adequate”, “acquisition of”, and “applicable” are omitted as surplus. In clause (D), the words “the requirements of” are omitted as surplus.
+
+In subsection (a)(2), the words “may not use” are substituted for “None of the provisions of this chapter shall be construed to authorize” to eliminate unnecessary words. The words “the purpose of financing” are omitted as surplus.
+
+In subsections (b)(1), (c), and (e), the words “except section 5307” are added for clarity because of 49 App.:1607a(e)(1), restated as section 5307(n)(2) of the revised title.
+
+In subsection (b)(1), before clause (A), the word “reconstruction” is omitted as surplus. In clause (B), the words “in the matter” are omitted as surplus. In clause (C), the word “environmental” is substituted for “and its impact on the environment” to eliminate unnecessary words. In clause (D), the word “comprehensive” is omitted as surplus.
+
+In subsection (b)(2), the word “description” is substituted for “statement” for clarity.
+
+In subsections (d)–(f) and (h), the word “Federal” is omitted as surplus.
+
+In subsections (d) and (f), the word “provide” is substituted for “engage in”, and the word “transportation” is substituted for “operations”, for consistency.
+
+In subsection (d)(1), the words “with the Secretary”, “and equitable”, and “publicly and privately owned” are omitted as surplus.
+
+In subsection (d)(2), the words “alleged”, “take appropriate action to”, “and conditions”, and “for mass transportation facilities and equipment” are omitted as surplus.
+
+In subsection (e), the words “This subsection shall apply to” and “which is acquiring such buses” are omitted as surplus. The words “occurring on or after November 6, 1978” are omitted as executed. The words “In the case of” are omitted as surplus. The words “may include” are substituted for “the Secretary shall permit . . . to provide in advertising for bids for” to eliminate unnecessary words.
+
+In subsection (f)(1), before clause (A), the words “for use in providing public”, “to any applicant for such assistance”, and “and the Secretary” are omitted as surplus. The word “agrees” is substituted for “shall have first entered into an agreement that such applicant” to eliminate unnecessary words. In clause (A), the words “with respect to operation of a schoolbus program” are omitted as surplus.
+
+Subsection (g) is substituted for 49 App.:1602a to eliminate unnecessary words.
+
+In subsection (j), the word “goods” is substituted for “products” for consistency.
+
+In subsection (j)(1), the words “Notwithstanding any other provision of law” are omitted as surplus.
+
+In subsection (j)(2), before clause (A), the words “The Secretary of Transportation may waive” are substituted for “shall not apply” for clarity. In clause (B), the words “steel, iron, and goods” are substituted for “materials and products” for consistency. In clause (C), before subclause (i), the words “bus and other” are omitted as surplus. In subclauses (i) and (ii), the words “rolling stock” are substituted for “vehicle or equipment” for consistency. In clause (D), the word “contract” is omitted as surplus.
+
+In subsection (j)(4), before clause (A), the words “The Secretary of Transportation may not make a waiver under” are substituted for “shall not apply” for clarity. The words “government of a foreign country” are substituted for “foreign country”, and the word “Government” is added, for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (j)(5), before clause (A), the words “the debarment, suspension, and ineligibility procedures in” are omitted as surplus. The words “department, agency, or instrumentality of the Government” are substituted for “Federal agency” for consistency in the revised title and with other titles of the Code. In clause (A), the word “produced” is substituted for “made” for consistency.
+
+In subsection (k), the word “statewide” is omitted as surplus.
+
+#### Pub. L. 103–429, § 6(10)(A)
+This makes a clarifying amendment to the catchline for 49:5323(j).
+
+| Pub. L. 103–429, § 6(10)(B) |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5323(l) | 49 App.:1608(j). | July 9, 1964, Pub. L. 88–365, § 12(j), as added Apr. 2, 1987, Pub. L. 100–17, § 319, 101 Stat. 234. |
+
+The word “review” is substituted for “audit” for clarity. The words “buses and other” are omitted as surplus.
+
+#### Pub. L. 104–287
+This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
+
+#### References in Text
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+
+The Clean Air Act, referred to in subsec. (i)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+The Federal Public Transportation Act of 2005, referred to in subsec. (j)(6), is title III of Pub. L. 109–59, Aug. 10, 2005, 119 Stat. 1544. For complete classification of this Act to the Code, see Short Title of 2005 Amendment note set out under [section 5101 of this title](./chapter-051-transportation-of-hazardous-material.md#section-5101) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to general provisions on assistance.
+
+2008—Subsec. (n). Pub. L. 110–244 substituted “section 5336(d)(2)” for “section 5336(e)(2)”.
+
+2005—Subsec. (a)(1). Pub. L. 109–59, § 3023(a)(1), inserted heading and text of par. (1) and struck out former par. (1) which authorized use of financial assistance provided under this chapter for certain purposes only if the Secretary finds the assistance is essential to a program of projects required under sections 5303–5306 of this title, the Secretary finds that the program, to the maximum extent feasible, provides for the participation of private companies, just compensation will be paid to the company for its franchise or property, and the Secretary of Labor certifies that the assistance complies with [section 5333(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5333/b&num=0&edition=prelim).
+
+Subsec. (a)(2). Pub. L. 109–59, § 3023(a)(2), inserted heading.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (b). Pub. L. 109–59, § 3023(b), reenacted heading without change and amended text of subsec. (b) generally, substituting provisions relating to general requirements, notice, and application requirements, consisting of pars. (1) to (3), for provisions relating to application requirements and notice, consisting of pars. (1) and (2).
+
+Subsec. (c). Pub. L. 109–59, § 3023(c), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts appropriated or made available under this chapter after September 30, 1989, may be obligated or expended to acquire a new bus model only if a bus of the model has been tested at the facility established under [section 5318 of this title](./chapter-053-public-transportation.md#section-5318).”
+
+Subsec. (d)(1). Pub. L. 109–59, § 3023(d)(1), inserted heading.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+
+Subsec. (d)(2). Pub. L. 109–59, § 3023(d)(2), inserted heading and text of par. (2) and struck out former par. (2) which read as follows: “On receiving a complaint about a violation of an agreement, the Secretary of Transportation shall investigate and decide whether a violation has occurred. If the Secretary decides that a violation has occurred, the Secretary shall correct the violation under terms of the agreement. In addition to a remedy specified in the agreement, the Secretary may bar a recipient under this subsection or an operator from receiving further assistance when the Secretary finds a continuing pattern of violations of the agreement.”
+
+Subsec. (e). Pub. L. 109–59, § 3023(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The initial advertising by a State or local governmental authority for bids to acquire buses using financial assistance under this chapter may include passenger seat functional specifications that are at least equal to performance specifications the Secretary of Transportation prescribes. The specifications shall be based on a finding by the State or local governmental authority of local requirements for safety, comfort, maintenance, and life cycle costs.”
+
+Subsec. (f). Pub. L. 109–59, § 3023(f), in par. (1) inserted heading and realigned margins, added par. (2), and struck out former par. (2) which read as follows: “An applicant violating an agreement under this subsection may not receive other financial assistance under this chapter.”
+
+Subsec. (f)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places in introductory provisions.
+
+Subsec. (g). Pub. L. 109–59, § 3023(g), substituted “133 and 142” for “103(e)(4) and 142(a) or (c)” in two places.
+
+Subsec. (i). Pub. L. 109–59, § 3023(h), substituted “Government’s” for “Government” in subsec. heading, designated existing provisions as par. (1), inserted par. heading, inserted “or facilities” after “equipment” wherever appearing, and added par. (2).
+
+Subsec. (j)(3) to (5). Pub. L. 109–59, § 3023(i)(1), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
+
+Subsec. (j)(6). Pub. L. 109–59, § 3023(i)(1)(A), (2), redesignated par. (5) as (6) and substituted “Federal Public Transportation Act of 2005” for “Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 1914)” in introductory provisions. Former par. (6) redesignated (7).
+
+Subsec. (j)(7), (8). Pub. L. 109–59, § 3023(i)(1)(A), redesignated pars. (6) and (7) as (7) and (8), respectively.
+
+Subsec. (j)(9). Pub. L. 109–59, § 3023(i)(3), added par. (9).
+
+Subsec. (l). Pub. L. 109–59, § 3023(j), amended heading and text of subsec. (l) generally. Prior to amendment, text read as follows: “The planning and programming requirements of [section 135 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section135&num=0&edition=prelim) apply to a grant made under sections 5307–5311 of this title.”
+
+Subsec. (m). Pub. L. 109–59, § 3023(k), inserted at end “Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser’s requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations.”
+
+Subsec. (o). Pub. L. 109–59, § 3023(l), substituted “chapter 6 (other than section 609) of title 23” for “the Transportation Infrastructure Finance and Innovation Act of 1998”.
+
+Subsec. (p). Pub. L. 109–59, § 3023(m), added subsec. (p).
+
+1998—Subsec. (d). Pub. L. 105–178, § 3020(a), substituted “Condition on Charter Bus Transportation Service” for “Buying and Operating Buses” in heading.
+
+Subsec. (i). Pub. L. 105–178, § 3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: “A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.) or the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment.”
+
+Subsec. (j)(7). Pub. L. 105–178, § 3020(b), inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: “Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted.”
+
+Subsecs. (k) to (m). Pub. L. 105–178, § 3020(d), added subsec. (k) and redesignated former subsecs. (k) and (l) as (l) and (m), respectively.
+
+Subsec. (n). Pub. L. 105–178, § 3020(e), added subsec. (n).
+
+Subsec. (o). Pub. L. 105–178, § 3020(f), added subsec. (o).
+
+1996—Subsecs. (b)(1), (c), (e). Pub. L. 104–287 struck out “(except section 5307)” after “under this chapter”.
+
+1994—Subsec. (j). Pub. L. 103–429, § 6(10)(A), substituted “America” for “American” in heading.
+
+Subsec. (l). Pub. L. 103–429, § 6(10)(B), added subsec. (l).
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+#### Rulemaking
+Pub. L. 109–59, title III, § 3023(i)(5), Aug. 10, 2005, 119 Stat. 1618, required the Secretary of Transportation to issue a final rule on implementation of the Buy America requirements of former subsec. (j) of this section no later than 180 days after Aug. 10, 2005.
+
+#### Final Assembly of Buses
+Pub. L. 105–178, title III, § 3035, June 9, 1998, 112 Stat. 387, required certain buses manufactured after Sept. 1, 1999, to conform with the Federal Transit Administration Guidance on Buy America Requirements, dated March 18, 1997.
+
+
+<a id="section-5324"></a>
+## § 5324. Public transportation emergency relief program
+**(a) Definition.—** In this section the following definitions shall apply:
+
+(1) **Eligible operating costs.—** — The term “eligible operating costs” means costs relating to—
+
+  (A) evacuation services;
+
+  (B) rescue operations;
+
+  (C) temporary public transportation service; or
+
+  (D) reestablishing, expanding, or relocating public transportation route service before, during, or after an emergency.
+
+(2) **Emergency.—** — The term “emergency” means a natural disaster affecting a wide area (such as a flood, hurricane, tidal wave, earthquake, severe storm, or landslide) or a catastrophic failure from any external cause, as a result of which—
+
+  (A) the Governor of a State has declared an emergency and the Secretary has concurred; or
+
+  (B) the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)).
+
+**(b) General Authority.—** The Secretary may make grants and enter into contracts and other agreements (including agreements with departments, agencies, and instrumentalities of the Government) for—
+
+(1) capital projects to protect, repair, reconstruct, or replace equipment and facilities of a public transportation system operating in the United States or on an Indian reservation that the Secretary determines is in danger of suffering serious damage, or has suffered serious damage, as a result of an emergency; and
+
+(2) eligible operating costs of public transportation equipment and facilities in an area directly affected by an emergency during—
+
+  (A) the 1-year period beginning on the date of a declaration described in subsection (a)(2); or
+
+  (B) if the Secretary determines there is a compelling need, the 2-year period beginning on the date of a declaration described in subsection (a)(2).
+
+**(c) Coordination of Emergency Funds.—**
+
+(1) **Use of funds.—** — Funds appropriated to carry out this section shall be in addition to any other funds available under this chapter.
+
+(2) **No effect on other government activity.—** — The provision of funds under this section shall not affect the ability of any other agency of the Government, including the Federal Emergency Management Agency, or a State agency, a local governmental entity, organization, or person, to provide any other funds otherwise authorized by law.
+
+(3) **Notification.—** — The Secretary shall notify the Secretary of Homeland Security of the purpose and amount of any grant made or contract or other agreement entered into under this section.
+
+**(d) Grant Requirements.—** A grant awarded under this section or under section 5307 or 5311 that is made to address an emergency defined under subsection (a)(2) shall be—
+
+(1) subject to the terms and conditions the Secretary determines are necessary; and
+
+(2) made only for expenses that are not reimbursed under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.).
+
+**(e) Government Share of Costs.—**
+
+(1) **Capital projects and operating assistance.—** — A grant, contract, or other agreement for a capital project or eligible operating costs under this section shall be, at the option of the recipient, for not more than 80 percent of the net project cost, as determined by the Secretary.
+
+(2) **Non-federal share.—** — The remainder of the net project cost may be provided from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
+
+(3) **Waiver.—** — The Secretary may waive, in whole or part, the non-Federal share required under—
+
+  (A) paragraph (2); or
+
+  (B) section 5307 or 5311, in the case of a grant made available under section 5307 or 5311, respectively, to address an emergency.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5324(a) | 49 App.:1606(a). | July 9, 1964, Pub. L. 88–365, § 7(a), 78 Stat. 305; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25. |
+| 5324(b)(1) | 49 App.:1610(a) (last sentence). | July 9, 1964, Pub. L. 88–365, § 14(a) (last sentence)–(c), 78 Stat. 308; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; restated Oct. 15, 1970, Pub. L. 91–453, § 6, 84 Stat. 966. |
+| 5324(b)(2) | 49 App.:1610(b). |  |
+| 5324(b)(3) | 49 App.:1610(c). |  |
+| 5324(c) | 49 App.:1608(d). | July 9, 1964, Pub. L. 88–365, § 12(d), 78 Stat. 307; Aug. 10, 1965, Pub. L. 89–117, § 1109, 79 Stat. 507; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Nov. 6, 1978, Pub. L. 95–599, § 308(c), 92 Stat. 2747. |
+
+In subsection (a), before clause (1), the word “provided” is substituted for “extended” for clarity. The words “to any project” are omitted as surplus. In clause (2), the words “available . . . displaced” are omitted as surplus.
+
+In subsection (b)(1), the words “Health and Human Services” are substituted for “Health, Education, and Welfare” in section 14(a) (last sentence) of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 308) [subsequently changed to the Federal Transit Act by section 3003(a) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2087)] because of 20:3508(b).
+
+In subsection (b)(2), before clause (A), the words “In carrying out [section 5306 of this title](./chapter-053-public-transportation.md#section-5306)” are added for clarity and consistency with subsections (b)(3) and (c) of this section. The word “detailed” is omitted as surplus. In clause (B), the words “should the proposal be implemented” are omitted as surplus. In clause (D), the words “which may be involved in the proposed project should it be implemented” are omitted as surplus.
+
+In subsection (b)(3)(A), before clause (i), the word “financial” is added for clarity. The words “full and complete” are omitted as surplus. In clause (ii), the word “fair” is omitted as surplus. In clause (iii), the word “either” is omitted as surplus.
+
+In subsection (b)(3)(B), the words “before the State or local agency pursuant to section 1602(d) of this Appendix” and “before the State or local public agency . . . to permit him” are omitted as surplus.
+
+In subsection (c), the words “The Secretary of Transportation may not” are substituted for “None of the provisions of this chapter shall be construed to authorize the Secretary to” to eliminate unnecessary words. The words “in any manner . . . mode of” and “rates, fares, tolls, rentals, or other . . . fixed or prescribed . . . by any local public or private transit agency” are omitted as surplus. The words “However, the Secretary may” are substituted for “but nothing in this subsection shall prevent the Secretary from taking such actions as may be necessary to” to eliminate unnecessary words. The words “local governmental authority, corporation, or association” are substituted for “agency or agencies” for consistency with sections 5309 and 5310 of the revised title.
+
+#### References in Text
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to special provisions for capital projects.
+
+2005—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to requirements of a relocation program for families displaced by a project, consideration of economic, social, and environmental interests, and prohibition against regulating the operation of a mass transportation system for which a grant is made under section 5309 and regulating any charge for the system after a grant is made.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Memorandum of Agreement
+Pub. L. 112–141, div. B, § 20017(b), July 6, 2012, 126 Stat. 705, provided that: “(1) Purposes.—The purposes of this subsection are—“(A) to improve coordination between the Department of Transportation and the Department of Homeland Security; and “(B) to expedite the provision of Federal assistance for public transportation systems for activities relating to a major disaster or emergency declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.) (referred to in this subsection as a ‘major disaster or emergency’). “(2) Agreement.—Not later than 180 days after the date of enactment of this Act [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways], the Secretary of Transportation and the Secretary of Homeland Security shall enter into a memorandum of agreement to coordinate the roles and responsibilities of the Department of Transportation and the Department of Homeland Security in providing assistance for public transportation, including the provision of public transportation services and the repair and restoration of public transportation systems in areas for which the President has declared a major disaster or emergency. “(3) Contents of agreement.—The memorandum of agreement required under paragraph (2) shall—“(A) provide for improved coordination and expeditious use of public transportation, as appropriate, in response to and recovery from a major disaster or emergency; “(B) establish procedures to address—“(i) issues that have contributed to delays in the reimbursement of eligible transportation-related expenses relating to a major disaster or emergency; “(ii) any challenges identified in the review under paragraph (4); and “(iii) the coordination of assistance for public transportation provided under the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.] and [section 5324 of title 49](./chapter-053-public-transportation.md#section-5324), United States Code, as amended by this Act, as appropriate; and “(C) provide for the development and distribution of clear guidelines for State, local, and tribal governments, including public transportation systems, relating to—“(i) assistance available for public transportation systems for activities relating to a major disaster or emergency—“(I) under the Robert T. Stafford Disaster Relief and Emergency Assistance Act; “(II) under [section 5324 of title 49](./chapter-053-public-transportation.md#section-5324), United States Code, as amended by this Act; and “(III) from other sources, including other Federal agencies; and “(ii) reimbursement procedures that speed the process of—“(I) applying for assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act and [section 5324 of title 49](./chapter-053-public-transportation.md#section-5324), United States Code, as amended by this Act; and “(II) distributing assistance for public transportation systems under the Robert T. Stafford Disaster Relief and Emergency Assistance Act and [section 5324 of title 49](./chapter-053-public-transportation.md#section-5324), United States Code, as amended by this Act. “(4) After action review.—Before entering into a memorandum of agreement under paragraph (2), the Secretary of Transportation and the Secretary of Homeland Security (acting through the Administrator of the Federal Emergency Management Agency), in consultation with State, local, and tribal governments (including public transportation systems) that have experienced a major disaster or emergency, shall review after action reports relating to major disasters, emergencies, and exercises, to identify areas where coordination between the Department of Transportation and the Department of Homeland Security and the provision of public transportation services should be improved. “(5) Factors for declarations of major disasters and emergencies.—The Administrator of the Federal Emergency Management Agency shall make available to State, local, and tribal governments, including public transportation systems, a description of the factors that the President considers in declaring a major disaster or emergency, including any pre-disaster emergency declaration policies. “(6) Briefings.—“(A) Initial briefing.—Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation and the Secretary of Homeland Security shall jointly brief the Committee on Banking, Housing, and Urban Affairs and the Committee on Homeland Security and Governmental Affairs of the Senate on the memorandum of agreement required under paragraph (2). “(B) Quarterly briefings.—Each quarter of the 1-year period beginning on the date on which the Secretary of Transportation and the Secretary of Homeland Security enter into the memorandum of agreement required under paragraph (2), the Secretary of Transportation and the Secretary of Homeland Security shall jointly brief the Committee on Banking, Housing, and Urban Affairs and the Committee on Homeland Security and Governmental Affairs of the Senate on the implementation of the memorandum of agreement.”
+
+
+<a id="section-5325"></a>
+## § 5325. Contract requirements
+**(a) Competition.—** Recipients of assistance under this chapter shall conduct all procurement transactions in a manner that provides full and open competition as determined by the Secretary.
+
+**(b) Architectural, Engineering, and Design Contracts.—**
+
+(1) **Procedures for awarding contract.—** — A contract or requirement for program management, architectural engineering, construction management, a feasibility study, and preliminary engineering, design, architectural, engineering, surveying, mapping, or related services for a project for which Federal assistance is provided under this chapter shall be awarded in the same way as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or an equivalent qualifications-based requirement of a State adopted before August 10, 2005.
+
+(2) **Additional requirements.—** — When awarding a contract described in paragraph (1), recipients of assistance under this chapter shall comply with the following requirements:
+
+  (A) *Performance of audits.—* — Any contract or subcontract awarded under this chapter shall be performed and audited in compliance with cost principles contained in part 31 of the Federal Acquisition Regulation, or any successor thereto.
+
+  (B) *Indirect cost rates.—* — A recipient of funds under a contract or subcontract awarded under this chapter shall accept indirect cost rates established in accordance with the Federal Acquisition Regulation for 1-year applicable accounting periods by a cognizant Federal or State government agency, if such rates are not currently under dispute.
+
+  (C) *Application of rates.—* — After a firm’s indirect cost rates are accepted under subparagraph (B), the recipient of the funds shall apply such rates for the purposes of contract estimation, negotiation, administration, reporting, and contract payment, and shall not be limited by administrative or de facto ceilings.
+
+  (D) *Prenotification; confidentiality of data.—* — A recipient requesting or using the cost and rate data described in subparagraph (C) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided by the group of agencies sharing cost data under this subparagraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
+
+**(c) Efficient Procurement.—** A recipient may award a procurement contract under this chapter to other than the lowest bidder if the award furthers an objective consistent with the purposes of this chapter, including improved long-term operating efficiency and lower long-term costs.
+
+**(d) Design-Build Projects.—**
+
+(1) **Term defined.—** — In this subsection, the term “design-build project”—
+
+  (A) means a project under which a recipient enters into a contract with a seller, firm, or consortium of firms to design and build a public transportation system, or an operable segment of such system, that meets specific performance criteria; and
+
+  (B) may include an option to finance, or operate for a period of time, the system or segment or any combination of designing, building, operating, or maintaining such system or segment.
+
+(2) **Financial assistance for capital costs.—** — Federal financial assistance under this chapter may be provided for the capital costs of a design-build project after the recipient complies with Government requirements.
+
+**(e) Multiyear Rolling Stock.—**
+
+(1) **Contracts.—** — A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for—
+
+  (A) not more than 5 years after the date of the original contract for bus procurements; and
+
+  (B) not more than 7 years after the date of the original contract for rail procurements, provided that such option does not allow for significant changes or alterations to the rolling stock.
+
+(2) **Cooperation among recipients.—** — The Secretary shall allow at least two recipients to act on a cooperative basis to procure rolling stock in compliance with this subsection and other Government procurement requirements.
+
+**(f) Acquiring Rolling Stock.—** A recipient of financial assistance under this chapter may enter into a contract to expend that assistance to acquire rolling stock—
+
+(1) based on—
+
+  (A) initial capital costs; or
+
+  (B) performance, standardization, life cycle costs, and other factors; or
+
+(2) with a party selected through a competitive procurement process.
+
+**(g) Examination of Records.—** Upon request, the Secretary and the Comptroller General, or any of their representatives, shall have access to and the right to examine and inspect all records, documents, and papers, including contracts, related to a project for which a grant is made under this chapter.
+
+**(h) Grant Prohibition.—** A grant awarded under this chapter or the Federal Public Transportation Act of 2012 may not be used to support a procurement that uses an exclusionary or discriminatory specification.
+
+**(i) Bus Dealer Requirements.—** No State law requiring buses to be purchased through in-State dealers shall apply to vehicles purchased with a grant under this chapter.
+
+**(j) Awards to Responsible Contractors.—**
+
+(1) **In general.—** — Federal financial assistance under this chapter may be provided for contracts only if a recipient awards such contracts to responsible contractors possessing the ability to successfully perform under the terms and conditions of a proposed procurement.
+
+(2) **Criteria.—** — Before making an award to a contractor under paragraph (1), a recipient shall consider—
+
+  (A) the integrity of the contractor;
+
+  (B) the contractor’s compliance with public policy;
+
+  (C) the contractor’s past performance; and
+
+  (D) the contractor’s financial and technical resources.
+
+**(k) Veterans Employment.—** Recipients and subrecipients of Federal financial assistance under this chapter shall ensure that contractors working on a capital project funded using such assistance give a hiring preference, to the extent practicable, to veterans (as defined in [section 2108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2108&num=0&edition=prelim)) who have the requisite skills and abilities to perform the construction work required under the contract. This subsection shall not be understood, construed or enforced in any manner that would require an employer to give a preference to any veteran over any equally qualified applicant who is a member of any racial or ethnic minority, female, an individual with a disability, or a former employee.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5325(a) | 49 App.:1608(b)(1). | July 9, 1964, Pub. L. 88–365, § 12(b)(1), 78 Stat. 306; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25; Nov. 6, 1978, Pub. L. 95–599, § 308(a)(1), 92 Stat. 2745. |
+| 5325(b) | 49 App.:1608(b)(2). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(2); added Nov. 6, 1978, Pub. L. 95–599, § 308(a)(2), 92 Stat. 2745; restated Jan. 6, 1983, Pub. L. 97–424, § 308, 96 Stat. 2151. |
+| 5325(c) | 49 App.:1608(b)(3). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(3); added Apr. 2, 1987, Pub. L. 100–17, § 315(a), 101 Stat. 232. |
+| 5325(d) | 49 App.:1608(b)(4). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(b)(4); added Apr. 2, 1987, Pub. L. 100–17, § 316, 101 Stat. 232. |
+
+In subsection (a), the words “reconstruction”, “in furtherance of the purposes”, “by applicants”, “procedures as defined by the Secretary”, “of the contracting parties”, and “the operations or activities under” are omitted as surplus. The words “shall be made available to” are substituted for “shall . . . have access to”, and the words “an officer or employee of the Secretary or Comptroller General” are substituted for “any of their duly authorized representatives”, for consistency in the revised title and with other titles of the United States Code.
+
+Subsection (b) is substituted for 49 App.:1608(b)(2) for clarity. The text of 49 App.:1608(b)(2) (last sentence) is omitted as executed.
+
+#### Pub. L. 104–287
+This amends the catchline for 49:5325(d) to make a clarifying amendment.
+
+#### References in Text
+The Federal Public Transportation Act of 2012, referred to in subsec. (h), is div. B of Pub. L. 112–141, July 6, 2012, 126 Stat. 622. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 5101 of this title](./chapter-051-transportation-of-hazardous-material.md#section-5101) and Tables.
+
+#### Amendments
+2012—Subsec. (b)(2)(A). Pub. L. 112–141, § 20030(d), substituted “the Federal Acquisition Regulation, or any successor thereto” for “title 48, Code of Federal Regulations (commonly known as the Federal Acquisition Regulation)”.
+
+Subsec. (e)(1). Pub. L. 112–141, § 20018(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “A recipient procuring rolling stock with Government financial assistance under this chapter may make a multiyear contract to buy the rolling stock and replacement parts under which the recipient has an option to buy additional rolling stock or replacement parts for not more than 5 years after the date of the original contract.”.
+
+Subsec. (h). Pub. L. 112–141, § 20018(2), substituted “Federal Public Transportation Act of 2012” for “Federal Public Transportation Act of 2005”.
+
+Subsec. (j)(2)(C). Pub. L. 112–141, § 20018(3), struck out “, including the performance reported in the Contractor Performance Assessment Reports required under section 5309(l)(2)” before semicolon.
+
+Subsec. (k). Pub. L. 112–141, § 20018(4), added subsec. (k).
+
+2008—Subsec. (b)(1). Pub. L. 110–244, § 201(k)(1), inserted “adopted before August 10, 2005” before period at end.
+
+Subsec. (b)(2), (3). Pub. L. 110–244, § 201(k)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Text read as follows: “Paragraph (1) does not apply to the extent a State has adopted by law, before the date of enactment of the Federal Public Transportation Act of 2005, an equivalent State qualifications-based requirement for contracting for architectural, engineering, and design services.”
+
+2005—Pub. L. 109–59 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to noncompetitive bidding in subsec. (a), procedures for award of architectural, engineering, and design contracts in subsec. (b), and efficient procurement in subsec. (c).
+
+2002—Subsec. (b). Pub. L. 107–217 substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section541&num=0&edition=prelim) et seq.)”.
+
+1998—Subsec. (b). Pub. L. 105–178, § 3022(b), as added by Pub. L. 105–206, inserted “or requirement” after “A contract” and “When awarding such contracts, recipients of assistance under this chapter shall maximize efficiencies of administration by accepting nondisputed audits conducted by other governmental agencies, as provided in subparagraphs (C) through (F) of [section 112(b)(2) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section112/b/2&num=0&edition=prelim), United States Code.” before “This subsection does not apply”.
+
+Pub. L. 105–178, § 3022(a)(1), (2), redesignated subsec. (d) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “A recipient of financial assistance of the United States Government under this chapter may make a contract to expend that assistance to acquire rolling stock—
+
+“(1) based on—
+
+“(A) initial capital costs; or
+
+“(B) performance, standardization, life cycle costs, and other factors; or
+
+“(2) with a party selected through a competitive procurement process.”
+
+Subsec. (c). Pub. L. 105–178, § 3022(a)(1), (3), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “A recipient of a grant under [section 5307 of this title](./chapter-053-public-transportation.md#section-5307) procuring an associated capital maintenance item under section 5307(b) may make a contract directly with the original manufacturer or supplier of the item to be replaced, without receiving prior approval of the Secretary, if the recipient first certifies in writing to the Secretary that—
+
+“(1) the manufacturer or supplier is the only source for the item; and
+
+“(2) the price of the item is no more than the price similar customers pay for the item.”
+
+Subsec. (d). Pub. L. 105–178, § 3022(a)(2), redesignated subsec. (d) as (b).
+
+1996—Subsec. (d). Pub. L. 104–287 substituted “Architectural, Engineering, and Design Contracts” for “Management, Architectural, and Engineering Contracts” in heading.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+
+<a id="section-5326"></a>
+## § 5326. Transit asset management
+**(a) Definitions.—** In this section the following definitions shall apply:
+
+(1) **Capital asset.—** — The term “capital asset” includes equipment, rolling stock, infrastructure, and facilities for use in public transportation and owned or leased by a recipient or subrecipient of Federal financial assistance under this chapter.
+
+(2) **Transit asset management plan.—** — The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—
+
+  (A) includes, at a minimum, capital asset inventories and condition assessments, decision support tools, and investment prioritization; and
+
+  (B) the recipient certifies complies with the rule issued under this section.
+
+(3) **Transit asset management system.—** — The term “transit asset management system” means a strategic and systematic process of operating, maintaining, and improving public transportation capital assets effectively throughout the life cycle of such assets.
+
+**(b) Transit Asset Management System.—** The Secretary shall establish and implement a national transit asset management system, which shall include—
+
+(1) a definition of the term “state of good repair” that includes objective standards for measuring the condition of capital assets of recipients, including equipment, rolling stock, infrastructure, and facilities;
+
+(2) a requirement that recipients and subrecipients of Federal financial assistance under this chapter develop a transit asset management plan;
+
+(3) a requirement that each designated recipient of Federal financial assistance under this chapter report on the condition of the system of the recipient and provide a description of any change in condition since the last report;
+
+(4) an analytical process or decision support tool for use by public transportation systems that—
+
+  (A) allows for the estimation of capital investment needs of such systems over time; and
+
+  (B) assists with asset investment prioritization by such systems; and
+
+(5) technical assistance to recipients of Federal financial assistance under this chapter.
+
+**(c) Performance Measures and Targets.—**
+
+(1) **In general.—** — Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule to establish performance measures based on the state of good repair standards established under subsection (b)(1).
+
+(2) **Targets.—** — Not later than 3 months after the date on which the Secretary issues a final rule under paragraph (1), and each fiscal year thereafter, each recipient of Federal financial assistance under this chapter shall establish performance targets in relation to the performance measures established by the Secretary.
+
+(3) **Reports.—** — Each designated recipient of Federal financial assistance under this chapter shall submit to the Secretary an annual report that describes—
+
+  (A) the progress of the recipient during the fiscal year to which the report relates toward meeting the performance targets established under paragraph (2) for that fiscal year; and
+
+  (B) the performance targets established by the recipient for the subsequent fiscal year.
+
+**(d) Rulemaking.—** Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a final rule to implement the transit asset management system described in subsection (b).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (c)(1) and (d), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Codification
+Pub. L. 112–141, div. B, § 20019, July 6, 2012, 126 Stat. 707, which directed that [section 5326 of this title](./chapter-053-public-transportation.md#section-5326) be amended generally, was executed by adding a new section 5326 to reflect the probable intent of Congress. A prior section 5326 was repealed by Pub. L. 109–59, title III, § 3025(b), Aug. 10, 2005, 119 Stat. 1622.
+
+#### Prior Provisions
+A prior section 5326, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 826; Pub. L. 103–429, § 6(11), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 105–178, title III, § 3023(a), (b), June 9, 1998, 112 Stat. 364, related to turnkey system projects, acquisition of rolling stock, and procurement of associated capital maintenance items, prior to repeal by Pub. L. 109–59, title III, § 3025(b), Aug. 10, 2005, 119 Stat. 1622.
+
+#### Effective Date
+Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5327"></a>
+## § 5327. Project management oversight
+**(a) Project Management Plan Requirements.—** To receive Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan. The plan shall provide for—
+
+(1) adequate recipient staff organization with well-defined reporting relationships, statements of functional responsibilities, job descriptions, and job qualifications;
+
+(2) a budget covering the project management organization, appropriate consultants, property acquisition, utility relocation, systems demonstration staff, audits, and miscellaneous payments the recipient may be prepared to justify;
+
+(3) a construction schedule for the project;
+
+(4) a document control procedure and recordkeeping system;
+
+(5) a change order procedure that includes a documented, systematic approach to the handling of construction change orders;
+
+(6) organizational structures, management skills, and staffing levels required throughout the construction phase;
+
+(7) quality control and quality assurance functions, procedures, and responsibilities for construction, system installation, and integration of system components;
+
+(8) material testing policies and procedures;
+
+(9) internal plan implementation and reporting requirements;
+
+(10) criteria and procedures to be used for testing the operational system or its major components;
+
+(11) periodic updates of the plan, especially related to project budget and project schedule, financing, ridership estimates, and the status of local efforts to enhance ridership where ridership estimates partly depend on the success of those efforts;
+
+(12) the recipient’s commitment to submit a project budget and project schedule to the Secretary quarterly; and
+
+(13) safety and security management.
+
+**(b) Plan Approval.—**
+
+(1) The Secretary shall approve a plan not later than 60 days after it is submitted. If the approval cannot be completed within 60 days, the Secretary shall notify the recipient, explain the reasons for the delay, and estimate the additional time that will be required.
+
+(2) The Secretary shall inform the recipient of the reasons when a plan is disapproved.
+
+**(c) Access to Sites and Records.—** Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(i) with access to the construction sites and records of the recipient when reasonably necessary.
+
+**(d) Regulations.—** The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall include—
+
+(1) a definition of “major capital project” for section 5338(i) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle; and
+
+(2) a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5327(a) | 49 App.:1619(d), (e). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(b)–(g); added Apr. 2, 1987, Pub. L. 100–17, § 324, 101 Stat. 236. |
+| 5327(b) | 49 App.:1619(g). |  |
+| 5327(c)(1) | 49 App.:1619(a). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(a); added Apr. 2, 1987, Pub. L. 100–17, § 324, 101 Stat. 235; Dec. 18, 1991, Pub. L. 102–240, § 3027, 105 Stat. 2115. |
+| 5327(c)(2) | 49 App.:1619(h). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 23(h); added Nov. 21, 1989, Pub. L. 101–164, § 340, 103 Stat. 1099. |
+| 5327(c)(3) | 49 App.:1619(b). |  |
+| 5327(d) | 49 App.:1619(c). |  |
+| 5327(e) | 49 App.:1619(f). |  |
+
+In subsection (a), before clause (1), the words “as required in each case by the Secretary” are omitted as surplus. In clause (11), the words “such items as” and “where applicable” are omitted as surplus.
+
+In subsection (c)(1), the words “Beginning October 1, 1987” are omitted as executed. The words “with any person” are omitted as surplus.
+
+In subsection (c)(2), the words “In addition to the purposes provided for under subsection (a) of this section” and “with any person” are omitted as surplus. The cross-reference to paragraph (1) is not changed. The cross-reference in 49 App.:1619(h), the source provision being restated in this subsection, is no longer correct, but is apparently still meant to apply to funds made available under 49 App.:1619(a).
+
+In subsection (e), before clause (1), the text of 49 App.:1619(f) (2d sentence) is omitted as executed. In clause (1), The words “vehicles or other” and “the performance of” are omitted as surplus.
+
+#### Pub. L. 103–429
+This amends 49:5327(c)(1) to correct an erroneous cross-reference.
+
+#### Pub. L. 104–287
+This amends 49:5327(c) to correct an erroneous cross-reference.
+
+#### Amendments
+2012—Subsec. (a). Pub. L. 112–141, § 20020(1)(A), in introductory provisions, substituted “Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan” for “United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation”.
+
+Subsec. (a)(12). Pub. L. 112–141, § 20020(1)(B), substituted “quarterly” for “each month”.
+
+Subsec. (c). Pub. L. 112–141, § 20020(2), (3), added subsec. (c) and struck out former subsec. (c) which related to limitations.
+
+Subsec. (d). Pub. L. 112–141, § 20020(2), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to access to sites and records.
+
+Subsec. (d)(1). Pub. L. 112–141, § 20020(5)(A), substituted “section 5338(i)” for “subsection (c) of this section”.
+
+Subsec. (d)(2). Pub. L. 112–141, § 20020(5)(B), substituted “project development phase” for “preliminary engineering stage” and “another phase” for “another stage”.
+
+Subsec. (e). Pub. L. 112–141, § 20020(4), redesignated subsec. (e) as (d).
+
+Subsec. (f). Pub. L. 112–141, § 20020(2), struck out subsec. (f). Text read as follows: “A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.”
+
+2005—Subsec. (a)(13). Pub. L. 109–59, § 3026(a), added par. (13).
+
+Subsec. (c). Pub. L. 109–59, § 3026(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) specified limitations on use of available amounts for certain purposes.
+
+1998—Subsec. (c)(2). Pub. L. 105–178, § 3024(a), substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
+
+Subsec. (f). Pub. L. 105–178, § 3024(b), added subsec. (f).
+
+1996—Subsec. (c)(1). Pub. L. 104–287 substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
+
+1994—Subsec. (c)(1). Pub. L. 103–429 substituted “section 5307, 5309, 5311, or 103(e)(4) or that Act” for “section 5307, 5309, 5311, or 103(e)(4) of that Act”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+#### Financing of Oversight Activities
+Pub. L. 107–87, title III, § 319, Dec. 18, 2001, 115 Stat. 858, provided that: “Beginning in fiscal year 2002 and thereafter, the Secretary may use up to 1 percent of the amounts made available to carry out [49 U.S.C. 5309](./chapter-053-public-transportation.md#section-5309) for oversight activities under [49 U.S.C. 5327](./chapter-053-public-transportation.md#section-5327).”
+
+
+<a id="section-5328"></a>
+## § 5328. Repealed. Pub. L. 112–141, div. B, § 20002(a), July 6, 2012, 126 Stat. 622]
+
+### Statutory Notes
+
+Section, Pub. L. 103–272, § 1(d), July 5, 1994, 108 Stat. 828; Pub. L. 104–205, title III, § 336, Sept. 30, 1996, 110 Stat. 2974; Pub. L. 104–287, § 5(9), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, § 3009(h)(2), (3)(B), (C), June 9, 1998, 112 Stat. 356; Pub. L. 105–206, title IX, § 9009(h)(2), (3), July 22, 1998, 112 Stat. 856; Pub. L. 109–59, title III, § 3027, Aug. 10, 2005, 119 Stat. 1623, related to project review and advancement by the Secretary.
+
+#### Effective Date of Repeal
+Repeal effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5329"></a>
+## § 5329. Public transportation safety program
+**(a) Definition.—** In this section, the term “recipient” means a State or local governmental authority, or any other operator of a public transportation system, that receives financial assistance under this chapter.
+
+**(b) National Public Transportation Safety Plan.—**
+
+(1) **In general.—** — The Secretary shall create and implement a national public transportation safety plan to improve the safety of all public transportation systems that receive funding under this chapter.
+
+(2) **Contents of plan.—** — The national public transportation safety plan under paragraph (1) shall include—
+
+  (A) safety performance criteria for all modes of public transportation;
+
+  (B) the definition of the term “state of good repair” established under section 5326(b);
+
+  (C) minimum safety performance standards for public transportation vehicles used in revenue operations that—
+
+    (i) do not apply to rolling stock otherwise regulated by the Secretary or any other Federal agency; and
+
+    (ii) to the extent practicable, take into consideration—
+
+      (I) relevant recommendations of the National Transportation Safety Board; and
+
+      (II) recommendations of, and best practices standards developed by, the public transportation industry; and
+
+  (D) a public transportation safety certification training program, as described in subsection (c).
+
+**(c) Public Transportation Safety Certification Training Program.—**
+
+(1) **In general.—** — The Secretary shall establish a public transportation safety certification training program for Federal and State employees, or other designated personnel, who conduct safety audits and examinations of public transportation systems and employees of public transportation agencies directly responsible for safety oversight.
+
+(2) **Interim provisions.—** — Not later than 90 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall establish interim provisions for the certification and training of the personnel described in paragraph (1), which shall be in effect until the effective date of the final rule issued by the Secretary to implement this subsection.
+
+**(d) Public Transportation Agency Safety Plan.—**
+
+(1) **In general.—** — Effective 1 year after the effective date of a final rule issued by the Secretary to carry out this subsection, each recipient or State, as described in paragraph (3), shall certify that the recipient or State has established a comprehensive agency safety plan that includes, at a minimum—
+
+  (A) a requirement that the board of directors (or equivalent entity) of the recipient approve the agency safety plan and any updates to the agency safety plan;
+
+  (B) methods for identifying and evaluating safety risks throughout all elements of the public transportation system of the recipient;
+
+  (C) strategies to minimize the exposure of the public, personnel, and property to hazards and unsafe conditions;
+
+  (D) a process and timeline for conducting an annual review and update of the safety plan of the recipient;
+
+  (E) performance targets based on the safety performance criteria and state of good repair standards established under subparagraphs (A) and (B), respectively, of subsection (b)(2);
+
+  (F) assignment of an adequately trained safety officer who reports directly to the general manager, president, or equivalent officer of the recipient; and
+
+  (G) a comprehensive staff training program for the operations personnel and personnel directly responsible for safety of the recipient that includes—
+
+    (i) the completion of a safety training program; and
+
+    (ii) continuing safety education and training.
+
+(2) **Interim agency safety plan.—** — A system safety plan developed pursuant to part 659 of title 49, Code of Federal Regulations, as in effect on the date of enactment of the Federal Public Transportation Act of 2012, shall remain in effect until such time as this subsection takes effect.
+
+(3) **Public transportation agency safety plan drafting and certification.—**
+
+  (A) *Section 5311.—* — For a recipient receiving assistance under section 5311, a State safety plan may be drafted and certified by the recipient or a State.
+
+  (B) *Section 5307.—* — Not later than 120 days after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall issue a rule designating recipients of assistance under section 5307 that are small public transportation providers or systems that may have their State safety plans drafted or certified by a State.
+
+**(e) State Safety Oversight Program.—**
+
+(1) **Applicability.—** — This subsection applies only to eligible States.
+
+(2) **Definition.—** — In this subsection, the term “eligible State” means a State that has—
+
+  (A) a rail fixed guideway public transportation system within the jurisdiction of the State that is not subject to regulation by the Federal Railroad Administration; or
+
+  (B) a rail fixed guideway public transportation system in the engineering or construction phase of development within the jurisdiction of the State that will not be subject to regulation by the Federal Railroad Administration.
+
+(3) **In general.—** — In order to obligate funds apportioned under section 5338 to carry out this chapter, effective 3 years after the date on which a final rule under this subsection becomes effective, an eligible State shall have in effect a State safety oversight program approved by the Secretary under which the State—
+
+  (A) assumes responsibility for overseeing rail fixed guideway public transportation safety;
+
+  (B) adopts and enforces Federal and relevant State laws on rail fixed guideway public transportation safety;
+
+  (C) establishes a State safety oversight agency;
+
+  (D) determines, in consultation with the Secretary, an appropriate staffing level for the State safety oversight agency that is commensurate with the number, size, and complexity of the rail fixed guideway public transportation systems in the eligible State;
+
+  (E) requires that employees and other designated personnel of the eligible State safety oversight agency who are responsible for rail fixed guideway public transportation safety oversight are qualified to perform such functions through appropriate training, including successful completion of the public transportation safety certification training program established under subsection (c); and
+
+  (F) prohibits any public transportation agency from providing funds to the State safety oversight agency or an entity designated by the eligible State as the State safety oversight agency under paragraph (4).
+
+(4) **State safety oversight agency.—**
+
+  (A) *In general.—* — Each State safety oversight program shall establish a State safety oversight agency that—
+
+    (i) is financially and legally independent from any public transportation entity that the State safety oversight agency oversees;
+
+    (ii) does not directly provide public transportation services in an area with a rail fixed guideway public transportation system subject to the requirements of this section;
+
+    (iii) does not employ any individual who is also responsible for the administration of rail fixed guideway public transportation programs subject to the requirements of this section;
+
+    (iv) has the authority to review, approve, oversee, and enforce the implementation by the rail fixed guideway public transportation agency of the public transportation agency safety plan required under subsection (d);
+
+    (v) has investigative and enforcement authority with respect to the safety of rail fixed guideway public transportation systems of the eligible State;
+
+    (vi) audits, at least once triennially, the compliance of the rail fixed guideway public transportation systems in the eligible State subject to this subsection with the public transportation agency safety plan required under subsection (d); and
+
+    (vii) provides, at least once annually, a status report on the safety of the rail fixed guideway public transportation systems the State safety oversight agency oversees to—
+
+      (I) the Federal Transit Administration;
+
+      (II) the Governor of the eligible State; and
+
+      (III) the board of directors, or equivalent entity, of any rail fixed guideway public transportation system that the State safety oversight agency oversees.
+
+  (B) *Waiver.—* — At the request of an eligible State, the Secretary may waive clauses (i) and (iii) of subparagraph (A) for eligible States with 1 or more rail fixed guideway systems in revenue operations, design, or construction, that—
+
+    (i) have fewer than 1,000,000 combined actual and projected rail fixed guideway revenue miles per year; or
+
+    (ii) provide fewer than 10,000,000 combined actual and projected unlinked passenger trips per year.
+
+(5) **Programs for multi-state rail fixed guideway public transportation systems.—** — An eligible State that has within the jurisdiction of the eligible State a rail fixed guideway public transportation system that operates in more than 1 eligible State shall—
+
+  (A) jointly with all other eligible States in which the rail fixed guideway public transportation system operates, ensure uniform safety standards and enforcement procedures that shall be in compliance with this section, and establish and implement a State safety oversight program approved by the Secretary; or
+
+  (B) jointly with all other eligible States in which the rail fixed guideway public transportation system operates, designate an entity having characteristics consistent with the characteristics described in paragraph (3) to carry out the State safety oversight program approved by the Secretary.
+
+(6) **Grants.—**
+
+  (A) *In general.—* — The Secretary shall make grants to eligible States to develop or carry out State safety oversight programs under this subsection. Grant funds may be used for program operational and administrative expenses, including employee training activities.
+
+  (B) *Apportionment.—*
+
+    (i) *Formula.—* — The amount made available for State safety oversight under section 5336(h) shall be apportioned among eligible States under a formula to be established by the Secretary. Such formula shall take into account fixed guideway vehicle revenue miles, fixed guideway route miles, and fixed guideway vehicle passenger miles attributable to all rail fixed guideway systems not subject to regulation by the Federal Railroad Administration within each eligible State.
+
+    (ii) *Administrative requirements.—* — Grant funds apportioned to States under this paragraph shall be subject to uniform administrative requirements for grants and cooperative agreements to State and local governments under part 18 of title 49, Code of Federal Regulations, and shall be subject to the requirements of this chapter as the Secretary determines appropriate.
+
+  (C) *Government share.—*
+
+    (i) *In general.—* — The Government share of the reasonable cost of a State safety oversight program developed or carried out using a grant under this paragraph shall be 80 percent.
+
+    (ii) *In-kind contributions.—* — Any calculation of the non-Government share of a State safety oversight program shall include in-kind contributions by an eligible State.
+
+    (iii) *Non-government share.—* — The non-Government share of the cost of a State safety oversight program developed or carried out using a grant under this paragraph may not be met by—
+
+      (I) any Federal funds;
+
+      (II) any funds received from a public transportation agency; or
+
+      (III) any revenues earned by a public transportation agency.
+
+    (iv) *Safety training program.—* — Recipients of funds made available to carry out sections 5307 and 5311 may use not more than 0.5 percent of their formula funds to pay not more than 80 percent of the cost of participation in the public transportation safety certification training program established under subsection (c), by an employee of a State safety oversight agency or a recipient who is directly responsible for safety oversight.
+
+(7) **Certification process.—**
+
+  (A) *In general.—* — Not later than 1 year after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall determine whether or not each State safety oversight program meets the requirements of this subsection and the State safety oversight program is adequate to promote the purposes of this section.
+
+  (B) *Issuance of certifications and denials.—* — The Secretary shall issue a certification to each eligible State that the Secretary determines under subparagraph (A) adequately meets the requirements of this subsection, and shall issue a denial of certification to each eligible State that the Secretary determines under subparagraph (A) does not adequately meet the requirements of this subsection.
+
+  (C) *Disapproval.—* — If the Secretary determines that a State safety oversight program does not meet the requirements of this subsection and denies certification, the Secretary shall transmit to the eligible State a written explanation and allow the eligible State to modify and resubmit the State safety oversight program for approval.
+
+  (D) *Failure to correct.—* — If the Secretary determines that a modification by an eligible State of the State safety oversight program is not sufficient to certify the program, the Secretary—
+
+    (i) shall notify the Governor of the eligible State of such denial of certification and failure to adequately modify the program, and shall request that the Governor take all possible actions to correct deficiencies in the program to ensure the certification of the program; and
+
+    (ii) may—
+
+      (I) withhold funds available under paragraph (6) in an amount determined by the Secretary;
+
+      (II) withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under [section 5307 of this title](./chapter-053-public-transportation.md#section-5307), until the State safety oversight program has been certified; or
+
+      (III) require fixed guideway public transportation systems under such State safety oversight program to provide up to 100 percent of Federal assistance made available under this chapter only for safety-related improvements on such systems, until the State safety oversight program has been certified.
+
+(8) **Evaluation of program and annual report.—** — The Secretary shall continually evaluate the implementation of a State safety oversight program by a State safety oversight agency, and shall submit on or before July 1 of each year to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
+
+  (A) the amount of funds apportioned to each eligible State; and
+
+  (B) the certification status of each State safety oversight program, including what steps a State program that has been denied certification must take in order to be certified.
+
+(9) **Federal oversight.—** — The Secretary shall—
+
+  (A) oversee the implementation of each State safety oversight program under this subsection;
+
+  (B) audit the operations of each State safety oversight agency at least once triennially; and
+
+  (C) issue rules to carry out this subsection.
+
+**(f) Authority of Secretary.—** In carrying out this section, the Secretary may—
+
+(1) conduct inspections, investigations, audits, examinations, and testing of the equipment, facilities, rolling stock, and operations of the public transportation system of a recipient;
+
+(2) make reports and issue directives with respect to the safety of the public transportation system of a recipient;
+
+(3) in conjunction with an accident investigation or an investigation into a pattern or practice of conduct that negatively affects public safety, issue a subpoena to, and take the deposition of, any employee of a recipient or a State safety oversight agency, if—
+
+  (A) before the issuance of the subpoena, the Secretary requests a determination by the Attorney General of the United States as to whether the subpoena will interfere with an ongoing criminal investigation; and
+
+  (B) the Attorney General—
+
+    (i) determines that the subpoena will not interfere with an ongoing criminal investigation; or
+
+    (ii) fails to make a determination under clause (i) before the date that is 30 days after the date on which the Secretary makes a request under subparagraph (A);
+
+(4) require the production of documents by, and prescribe recordkeeping and reporting requirements for, a recipient or a State safety oversight agency;
+
+(5) investigate public transportation accidents and incidents and provide guidance to recipients regarding prevention of accidents and incidents;
+
+(6) at reasonable times and in a reasonable manner, enter and inspect equipment, facilities, rolling stock, operations, and relevant records of the public transportation system of a recipient; and
+
+(7) issue rules to carry out this section.
+
+**(g) Enforcement Actions.—**
+
+(1) **Types of enforcement actions.—** — The Secretary may take enforcement action against an eligible State, as defined in subsection (e), that does not comply with Federal law with respect to the safety of the public transportation system, including—
+
+  (A) issuing directives;
+
+  (B) requiring more frequent oversight of the recipient by a State safety oversight agency or the Secretary;
+
+  (C) imposing more frequent reporting requirements; and
+
+  (D) requiring that any Federal financial assistance provided under this chapter be spent on correcting safety deficiencies identified by the Secretary or the State safety oversight agency before such funds are spent on other projects.
+
+(2) **Use or withholding of funds.—**
+
+  (A) *In general.—* — The Secretary may require the use of funds in accordance with paragraph (1)(D) only if the Secretary finds that a recipient is engaged in a pattern or practice of serious safety violations or has otherwise refused to comply with Federal law relating to the safety of the public transportation system.
+
+  (B) *Notice.—* — Before withholding funds from a recipient, the Secretary shall provide to the recipient—
+
+    (i) written notice of a violation and the amount proposed to be withheld; and
+
+    (ii) a reasonable period of time within which the recipient may address the violation or propose and initiate an alternative means of compliance that the Secretary determines is acceptable.
+
+**(h) Cost-benefit Analysis.—**
+
+(1) **Analysis required.—** — In carrying out this section, the Secretary shall take into consideration the costs and benefits of each action the Secretary proposes to take under this section.
+
+(2) **Waiver.—** — The Secretary may waive the requirement under this subsection if the Secretary determines that such a waiver is in the public interest.
+
+**(i) Consultation by the Secretary of Homeland Security.—** The Secretary of Homeland Security shall consult with the Secretary of Transportation before the Secretary of Homeland Security issues a rule or order that the Secretary of Transportation determines affects the safety of public transportation design, construction, or operations.
+
+**(j) Actions Under State Law.—**
+
+(1) **Rule of construction.—** — Nothing in this section shall be construed to preempt an action under State law seeking damages for personal injury, death, or property damage alleging that a party has failed to comply with—
+
+  (A) a Federal standard of care established by a regulation or order issued by the Secretary under this section; or
+
+  (B) its own program, rule, or standard that it created pursuant to a rule or order issued by the Secretary.
+
+(2) **Effective date.—** — This subsection shall apply to any cause of action under State law arising from an event or activity occurring on or after the date of enactment of the Federal Public Transportation Act of 2012.
+
+(3) **Jurisdiction.—** — Nothing in this section shall be construed to create a cause of action under Federal law on behalf of an injured party or confer Federal question jurisdiction for a State law cause of action.
+
+**(k) National Public Transportation Safety Report.—** Not later than 3 years after the date of enactment of the Federal Public Transportation Act of 2012, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+
+(1) analyzes public transportation safety trends among the States and documents the most effective safety programs implemented using grants under this section; and
+
+(2) describes the effect on public transportation safety of activities carried out using grants under this section.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5329(a) | 49 App.:1618(a). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 22(a); added Jan. 6, 1983, Pub. L. 97–424, § 318(b), 96 Stat. 2154; Dec. 18, 1991, Pub. L. 102–240, § 3026(1), 105 Stat. 2114. |
+| 5329(b) | 49 App.:1618(b). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 22(b); added Dec. 18, 1991, Pub. L. 102–240, § 3026(2), 105 Stat. 2114. |
+
+In subsection (a), the words “manner of” are omitted as surplus. The word “how” is substituted for “the means which might best be employed” to eliminate unnecessary words. The words “or eliminating” and “from the local public body” are omitted as surplus. The words “a plan is approved and carried out” are substituted for “he approves such plan and the local public body implements such plan” to eliminate unnecessary words.
+
+In subsection (b)(1) and (2), the words “a description of” are added for clarity.
+
+#### References in Text
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (c)(2), (d)(2), (3)(B), (e)(7)(A), (j)(2), and (k), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to investigations of safety hazards and security risks.
+
+2005—Pub. L. 109–59 amended section catchline and text generally, substituting provisions relating to investigations of safety hazards and security risks for provisions relating to investigation of safety hazards.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5330"></a>
+## § 5330. State safety oversight
+**(a) Application.—** This section shall only apply to—
+
+(1) States that have rail fixed guideway public transportation systems that are not subject to regulation by the Federal Railroad Administration; and
+
+(2) States that are designing rail fixed guideway public transportation systems that will not be subject to regulation by the Federal Railroad Administration.
+
+**(b) General Authority.—** The Secretary of Transportation may withhold not more than 5 percent of the amount required to be appropriated for use in a State or urbanized area in the State under [section 5307 of this title](./chapter-053-public-transportation.md#section-5307) for a fiscal year beginning after September 30, 1994, if the State in the prior fiscal year has not met the requirements of subsection (c) of this section and the Secretary decides the State is not making an adequate effort to comply with subsection (c).
+
+**(c) State Requirements.—** A State meets the requirements of this section if the State—
+
+(1) establishes and is carrying out a safety program plan for each fixed guideway public transportation system in the State that establishes at least safety requirements, lines of authority, levels of responsibility and accountability, and methods of documentation for the system; and
+
+(2) designates a State authority as having responsibility—
+
+  (A) to require, review, approve, and monitor the carrying out of each plan;
+
+  (B) to investigate hazardous conditions and accidents on the systems; and
+
+  (C) to require corrective action to correct or eliminate those conditions.
+
+**(d) Multistate Involvement.—** When more than one State is subject to this section in connection with a single public transportation authority, the affected States shall ensure uniform safety standards and enforcement or shall designate an entity (except the public transportation authority) to ensure uniform safety standards and enforcement and to meet the requirements of subsection (c) of this section.
+
+**(e) Availability of Withheld Amounts.—**
+
+(1) An amount withheld under subsection (b) of this section remains available for apportionment for use in the State until the end of the 2d fiscal year after the fiscal year for which the amount may be appropriated.
+
+(2) If a State meets the requirements of subsection (c) of this section before the last day of the period for which an amount withheld under subsection (b) of this section remains available under paragraph (1) of this subsection, the Secretary, on the first day on which the State meets the requirements, shall apportion to the State the amount withheld that remains available for apportionment for use in the State. An amount apportioned under this paragraph remains available until the end of the 3d fiscal year after the fiscal year in which the amount is apportioned. An amount not obligated at the end of the 3-year period shall be apportioned for use in other States under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336).
+
+(3) If a State does not meet the requirements of subsection (c) of this section at the end of the period for which an amount withheld under subsection (b) of this section remains available under paragraph (1) of this subsection, the amount shall be apportioned for use in other States under [section 5336 of this title](./chapter-053-public-transportation.md#section-5336).
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5330(a) | 49 App.:1624(d). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 28; added Dec. 18, 1991, Pub. L. 102–240, § 3029, 105 Stat. 2116. |
+| 5330(b) | 49 App.:1624(a). |  |
+| 5330(c) | 49 App.:1624(b)(1), (2). |  |
+| 5330(d) | 49 App.:1624(b)(3). |  |
+| 5330(e) | 49 App.:1624(c). |  |
+| 5330(f) | 49 App.:1624(e). |  |
+
+In subsection (e)(1), the words “under subsection (a) of this section from apportionment for use in any State in a fiscal year” are omitted as surplus.
+
+In subsection (e)(2) and (3), the words “from apportionment” and “for apportionment for use in a State” are omitted as surplus.
+
+#### Repeal of Section
+Pub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that, effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/e&num=0&edition=prelim), this section is repealed.
+
+#### Amendments
+2005—Pub. L. 109–59, § 3029(a)(1), substituted “State safety oversight” for “Withholding amounts for noncompliance with safety requirements” in section catchline.
+
+Subsec. (a). Pub. L. 109–59, § 3029(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “This section applies only to States that have rail fixed guideway mass transportation systems not subject to regulation by the Federal Railroad Administration.”
+
+Subsec. (c)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (d). Pub. L. 109–59, § 3029(a)(2), substituted “shall ensure uniform safety standards and enforcement or shall designate” for “may designate”.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+
+Subsec. (f). Pub. L. 109–59, § 3029(a)(3), struck out heading and text of subsec. (f). Text read as follows: “Not later than December 18, 1992, the Secretary shall prescribe regulations stating the requirements for complying with subsection (c) of this section.”
+
+#### Effective Date of Repeal
+Pub. L. 112–141, div. B, § 20030(e), July 6, 2012, 126 Stat. 731, provided that the repeal of this section is effective 3 years after the effective date of the final rules issued by the Secretary of Transportation under [section 5329(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5329/e&num=0&edition=prelim).
+
+
+<a id="section-5331"></a>
+## § 5331. Alcohol and controlled substances testing
+**(a) Definitions.—** In this section—
+
+(1) “controlled substance” means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)) whose use the Secretary decides has a risk to transportation safety.
+
+(2) “person” includes any entity organized or existing under the laws of the United States, a State, territory, or possession of the United States, or a foreign country.
+
+(3) “public transportation” means any form of public transportation, except a form the Secretary decides is covered adequately, for employee alcohol and controlled substances testing purposes, under section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46. The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.
+
+**(b) Testing Program for Public Transportation Employees.—**
+
+(1)
+
+  (A) In the interest of public transportation safety, the Secretary shall prescribe regulations that establish a program requiring public transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title to conduct preemployment, reasonable suspicion, random, and post-accident testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of a controlled substance in violation of law or a United States Government regulation, and to conduct reasonable suspicion, random, and post-accident testing of such employees for the use of alcohol in violation of law or a United States Government regulation. The regulations shall permit such operations to conduct preemployment testing of such employees for the use of alcohol.
+
+  (B) When the Secretary considers it appropriate in the interest of safety, the Secretary may prescribe regulations for conducting periodic recurring testing of public transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a Government regulation.
+
+(2) In prescribing regulations under this subsection, the Secretary—
+
+  (A) shall require that post-accident testing of such a public transportation employee be conducted when loss of human life occurs in an accident involving public transportation; and
+
+  (B) may require that post-accident testing of such a public transportation employee be conducted when bodily injury or significant property damage occurs in any other serious accident involving public transportation.
+
+**(c) Disqualifications for Use.—**
+
+(1) When the Secretary considers it appropriate, the Secretary shall require disqualification for an established period of time or dismissal of any employee referred to in subsection (b)(1) of this section who is found—
+
+  (A) to have used or been impaired by alcohol when on duty; or
+
+  (B) to have used a controlled substance, whether or not on duty, except as allowed for medical purposes by law or regulation.
+
+(2) This section does not supersede any penalty applicable to a public transportation employee under another law.
+
+**(d) Testing and Laboratory Requirements.—** In carrying out subsection (b) of this section, the Secretary shall develop requirements that shall—
+
+(1) promote, to the maximum extent practicable, individual privacy in the collection of specimens;
+
+(2) for laboratories and testing procedures for controlled substances, incorporate the Department of Health and Human Services scientific and technical guidelines dated April 11, 1988, and any amendments to those guidelines, including mandatory guidelines establishing—
+
+  (A) comprehensive standards for every aspect of laboratory controlled substances testing and laboratory procedures to be applied in carrying out this section, including standards requiring the use of the best available technology to ensure the complete reliability and accuracy of controlled substances tests and strict procedures governing the chain of custody of specimens collected for controlled substances testing;
+
+  (B) the minimum list of controlled substances for which individuals may be tested; and
+
+  (C) appropriate standards and procedures for periodic review of laboratories and criteria for certification and revocation of certification of laboratories to perform controlled substances testing in carrying out this section;
+
+(3) require that a laboratory involved in controlled substances testing under this section have the capability and facility, at the laboratory, of performing screening and confirmation tests;
+
+(4) provide that all tests indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
+
+(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual’s confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
+
+(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
+
+(7) provide for the confidentiality of test results and medical information (except information about alcohol or a controlled substance) of employees, except that this clause does not prevent the use of test results for the orderly imposition of appropriate sanctions under this section; and
+
+(8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
+
+**(e) Rehabilitation.—** The Secretary shall prescribe regulations establishing requirements for rehabilitation programs that provide for the identification and opportunity for treatment of any public transportation employee referred to in subsection (b)(1) of this section who is found to have used alcohol or a controlled substance in violation of law or a Government regulation. The Secretary shall decide on the circumstances under which employees shall be required to participate in a program. This subsection does not prevent a public transportation operation from establishing a program under this section in cooperation with another public transportation operation.
+
+**(f) Relationship to Other Laws, Regulations, Standards, and Orders.—**
+
+(1) A State or local government may not prescribe, issue, or continue in effect a law, regulation, standard, or order that is inconsistent with regulations prescribed under this section. However, a regulation prescribed under this section does not preempt a State criminal law that imposes sanctions for reckless conduct leading to loss of life, injury, or damage to property.
+
+(2) In prescribing regulations under this section, the Secretary—
+
+  (A) shall establish only requirements that are consistent with international obligations of the United States; and
+
+  (B) shall consider applicable laws and regulations of foreign countries.
+
+**(g) Conditions on Federal Assistance.—**
+
+(1) **Ineligibility for assistance.—** — A person that receives funds under this chapter is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program in accordance with this section.
+
+(2) **Additional remedies.—** — If the Secretary determines that a person that receives funds under this chapter is not in compliance with regulations prescribed under this section, the Secretary may bar the person from receiving Federal transit assistance in an amount the Secretary considers appropriate.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5331(a) | 49 App.:1618a(a). | Oct. 28, 1991, Pub. L. 102–143, § 6, 105 Stat. 962. |
+| 5331(b) | 49 App.:1618a(b). |  |
+| 5331(c) | 49 App.:1618a(f). |  |
+| 5331(d) | 49 App.:1618a(d). |  |
+| 5331(e) | 49 App.:1618a(c). |  |
+| 5331(f) | 49 App.:1618a(e). |  |
+| 5331(g) | 49 App.:1618a(g). |  |
+
+In subsection (a), before clause (1), the text of 49 App.:1618a(a)(3) is omitted as surplus because the complete name of the Secretary of Transportation is used the first time the term appears in a section. In clause (3), the words “controlled substances” are substituted for “drug” for consistency in this section.
+
+In subsection (b)(1)(B), the word “also” is omitted as surplus.
+
+In subsection (b)(2)(B), the words “may require” are substituted for “as determined by the Secretary” for clarity and to eliminate unnecessary words.
+
+In subsection (d), the word “samples” is omitted as surplus.
+
+In subsection (d)(2), before subclause (A), the word “subsequent” is omitted as surplus.
+
+In subsection (d)(3), the words “of any individual” are omitted as surplus.
+
+In subsection (d)(4), the words “by any individual” are omitted as surplus.
+
+In subsection (d)(5), the word “tested” is substituted for “assayed” for consistency. The words “2d confirmation test” are substituted for “independent test” for clarity and consistency.
+
+In subsection (d)(6), the word “Secretary” is substituted for “Department” for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (f)(1), the word “prescribe” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “whether the provisions apply specifically to mass transportation employees, or to the general public” are omitted as surplus.
+
+In subsection (f)(3), the word “prevent” is substituted for “restrict the discretion of” to eliminate unnecessary words.
+
+In subsection (g) the words “in accordance with such regulations” are omitted as surplus.
+
+#### Pub. L. 103–429
+This amends 49:5331(a)(3) to correct an erroneous cross-reference.
+
+#### Amendments
+2012—Pub. L. 112–141, § 20030(f), substituted “Secretary” for “Secretary of Transportation” wherever appearing.
+
+Subsec. (g). Pub. L. 112–141, § 20022, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program.”
+
+2005—Subsec. (a)(3). Pub. L. 109–59, § 3030(a), substituted “section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46” for “section 20140 or 31306 of this title” and inserted at end “The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.”.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in two places.
+
+Subsec. (b). Pub. L. 109–59, § 3002(b)(3), substituted “Public” for “Mass” in heading.
+
+Subsec. (b)(1)(A). Pub. L. 109–59, § 3030(b), struck out “or [section 103(e)(4) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section103/e/4&num=0&edition=prelim)” after “5311 of this title”.
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+Subsecs. (b)(1)(B), (2), (c)(2), (e). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+Subsec. (f)(3). Pub. L. 109–59, § 3030(c), struck out par. (3) which read as follows: “This section does not prevent the Secretary of Transportation from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by mass transportation employees.”
+
+Subsec. (g). Pub. L. 109–59, § 3030(b), struck out “or [section 103(e)(4) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section103/e/4&num=0&edition=prelim)” after “5311 of this title”.
+
+1995—Subsec. (b)(1)(A). Pub. L. 104–59 added subpar. (A) and struck out former subpar. (A) which read as follows: “In the interest of mass transportation safety, the Secretary of Transportation shall prescribe regulations not later than October 28, 1992, that establish a program requiring mass transportation operations that receive financial assistance under section 5307, 5309, or 5311 of this title or [section 103(e)(4) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section103/e/4&num=0&edition=prelim) to conduct preemployment, reasonable suspicion, random, and post-accident testing of mass transportation employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation.”
+
+1994—Subsec. (a)(3). Pub. L. 103–429 substituted “section 20140 or 31306” for “subchapter III of chapter 201 or section 31306”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+
+<a id="section-5332"></a>
+## § 5332. Nondiscrimination
+**(a) Definition.—** In this section, “person” includes a governmental authority, political subdivision, authority, legal representative, trust, unincorporated organization, trustee, trustee in bankruptcy, and receiver.
+
+**(b) Prohibitions.—** A person may not be excluded from participating in, denied a benefit of, or discriminated against under, a project, program, or activity receiving financial assistance under this chapter because of race, color, religion, national origin, sex, disability, or age.
+
+**(c) Compliance.—**
+
+(1) The Secretary shall take affirmative action to ensure compliance with subsection (b) of this section.
+
+(2) When the Secretary decides that a person receiving financial assistance under this chapter is not complying with subsection (b) of this section, a civil rights law of the United States, or a regulation or order under that law, the Secretary shall notify the person of the decision and require action be taken to ensure compliance with subsection (b).
+
+**(d) Authority of Secretary for Noncompliance.—** If a person does not comply with subsection (b) of this section within a reasonable time after receiving notice, the Secretary shall—
+
+(1) direct that no further financial assistance of the United States Government under this chapter be provided to the person;
+
+(2) refer the matter to the Attorney General with a recommendation that a civil action be brought;
+
+(3) proceed under title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.); or
+
+(4) take any other action provided by law.
+
+**(e) Civil Actions by Attorney General.—** The Attorney General may bring a civil action for appropriate relief when—
+
+(1) a matter is referred to the Attorney General under subsection (d)(2) of this section; or
+
+(2) the Attorney General believes a person is engaged in a pattern or practice in violation of this section.
+
+**(f) Application and Relationship to Other Laws.—** This section applies to an employment or business opportunity and is in addition to title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.).
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5332(a) | 49 App.:1615(a)(5). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 19; added Nov. 6, 1978, Pub. L. 95–599, § 314, 92 Stat. 2750. |
+| 5332(b) | 49 App.:1615(a)(1) (1st sentence). |  |
+| 5332(c) | 49 App.:1615(a)(2), (3)(A). |  |
+| 5332(d) | 49 App.:1615(a)(3)(B). |  |
+| 5332(e) | 49 App.:1615(a)(4). |  |
+| 5332(f) | 49 App.:1615(a)(1) (last sentence). |  |
+
+In subsection (a), the words “the term” and “one or more” are omitted as surplus. The words “partnerships, associations, corporations” and “mutual companies, joint-stock companies” are omitted because of 1:1.
+
+In subsection (b), the word “receiving” is substituted for “funded in whole or in part through” to eliminate unnecessary words.
+
+In subsection (c)(2), the words “directly or indirectly”, “issued”, and “necessary” are omitted as surplus.
+
+In subsection (d), before clause (1), the words “does not” are substituted for “fails or refuses to” to eliminate unnecessary words. The words “period of” and “pursuant to paragraph (a) of this subsection” are omitted as surplus. In clause (2), the word “appropriate” is omitted as surplus. In clause (3), the words “proceed under” are substituted for “exercise the powers and functions provided by” to eliminate unnecessary words.
+
+In subsection (e), before clause (1), the words “in any appropriate district court of the United States” and “including injunctive relief” are omitted as surplus.
+
+In subsection (f), the words “considered to be” and “and not in lieu of” are omitted as surplus.
+
+#### References in Text
+The Civil Rights Act of 1964, referred to in subsecs. (d)(3) and (f), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2002—Subsec. (b). Pub. L. 112–141, § 20023(a)(1), substituted “religion” for “creed” and inserted “disability,” after “sex,”.
+
+Subsec. (c)(1). Pub. L. 112–141, § 20030(g), struck out “of Transportation” after “Secretary”.
+
+Subsec. (d)(3). Pub. L. 112–141, § 20023(a)(2), substituted “or” for “and”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5333"></a>
+## § 5333. Labor standards
+**(a) Prevailing Wages Requirement.—** The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141 through 3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
+
+**(b) Employee Protective Arrangements.—**
+
+(1) As a condition of financial assistance under sections 5307–5312, 5316,11 See References in Text note below. 5318, 5323(a)(1), 5323(b), 5323(d), 5328,1 5337, and 5338(b) of this title, the interests of employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5316,1 5318, 5323(a)(1), 5323(b), 5323(d), 5328,1 5337, and 5338(b) shall specify the arrangements.
+
+(2) Arrangements under this subsection shall include provisions that may be necessary for—
+
+  (A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective bargaining agreements or otherwise;
+
+  (B) the continuation of collective bargaining rights;
+
+  (C) the protection of individual employees against a worsening of their positions related to employment;
+
+  (D) assurances of employment to employees of acquired public transportation systems;
+
+  (E) assurances of priority of reemployment of employees whose employment is ended or who are laid off; and
+
+  (F) paid training or retraining programs.
+
+(3) Arrangements under this subsection shall provide benefits at least equal to benefits established under [section 11326 of this title](./chapter-113-finance.md#section-11326).
+
+(4) Fair and equitable arrangements to protect the interests of employees utilized by the Secretary of Labor for assistance to purchase like-kind equipment or facilities, and grant amendments which do not materially revise or amend existing assistance agreements, shall be certified without referral.
+
+(5) When the Secretary is called upon to issue fair and equitable determinations involving assurances of employment when one private transit bus service contractor replaces another through competitive bidding, such decisions shall be based on the principles set forth in the Department of Labor’s decision of September 21, 1994, as clarified by the supplemental ruling of November 7, 1994, with respect to grant NV–90–X021. This paragraph shall not serve as a basis for objections under section 215.3(d) of title 29, Code of Federal Regulations.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5333(a) | 49 App.:1609(a), (b). | July 9, 1964, Pub. L. 88–365, § 13, 78 Stat. 307; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), (b)(2), 80 Stat. 715, 716; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25. |
+| 5333(b) | 49 App.:1609(c). |  |
+
+In subsection (a), the words “take such action as may be necessary to”, “the performance of”, “the assistance of”, and “at rates” are omitted as surplus. The word “same” is added for clarity. The words “duties and powers” are substituted for “authority and functions” for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (b)(1), the reference to sections 5307, 5308, 5310, and 5311 of the revised title is added for clarity because of 49 App.:1607a(e)(1), 1607a–2(a), 1612(b), and 1614(f), restated as sections 5307(n)(2), 5308(b)(1), 5310(a), and 5311(i) of the revised title. The reference to section 5312 is added for clarity because it is intended that 49 App.:1609(c) cover research, development, training, and demonstration projects. The words “terms and conditions of the protective” are omitted as surplus.
+
+In subsection (b)(2), before clause (A), the words “without being limited to” are omitted as being included in “include”. The words “such provisions as may be necessary for” are omitted as surplus. In clause (C), the word “individual” is omitted as surplus.
+
+In subsection (b)(3), the words “[section 11347 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11347&num=0&edition=prelim)” are substituted for and coextensive with “section 5(2)(f) of the Act of February 4, 1887 (24 Stat. 379), as amended” in section 13(c) of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 307) on authority of section 3(b) of the Act of October 17, 1978 (Public Law 95–473, 92 Stat. 1466).
+
+#### References in Text
+Reorganization Plan No. 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+Sections 5316 and 5328 of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 112–141, div. B, § 20002(a), July 6, 2012, 126 Stat. 622.
+
+#### Amendments
+2012—Subsec. (a). Pub. L. 112–141 substituted “sections 3141 through 3144” for “sections 3141–3144”.
+
+2005—Subsec. (b)(1). Pub. L. 109–59, § 3031(1), substituted “5316, 5318, 5323(a)(1), 5323(b), 5323(d), 5328, 5337, and 5338(b)” for “5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b)” in two places.
+
+Subsec. (b)(2)(D). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (b)(4), (5). Pub. L. 109–59, § 3031(2), added pars. (4) and (5).
+
+2002—Subsec. (a). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) ([40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5)” and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” for “section 2 of the Act of June 13, 1934 ([40 U.S.C. 276c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim))”.
+
+1998—Subsec. (b)(1). Pub. L. 105–178 substituted “5338(b)” for “5338(j)(5)” in two places.
+
+1995—Subsec. (b)(3). Pub. L. 104–88 substituted “11326” for “11347”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1995 Amendment
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under [section 701 of this title](./chapter-007-surface-transportation-board.md#section-701).
+
+
+<a id="section-5334"></a>
+## § 5334. Administrative provisions
+**(a) General Authority.—** In carrying out this chapter, the Secretary of Transportation may—
+
+(1) prescribe terms for a project that receives Federal financial assistance under this chapter (except terms the Secretary of Labor prescribes under [section 5333(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5333/b&num=0&edition=prelim));
+
+(2) sue and be sued;
+
+(3) foreclose on property or bring a civil action to protect or enforce a right conferred on the Secretary of Transportation by law or agreement;
+
+(4) buy property related to a loan under this chapter;
+
+(5) agree to pay an annual amount in place of a State or local tax on real property acquired or owned under this chapter;
+
+(6) sell, exchange, or lease property, a security, or an obligation;
+
+(7) obtain loss insurance for property and assets the Secretary of Transportation holds;
+
+(8) consent to a modification in an agreement under this chapter;
+
+(9) include in an agreement or instrument under this chapter a covenant or term the Secretary of Transportation considers necessary to carry out this chapter;
+
+(10) collect fees to cover the costs of training or conferences, including costs of promotional materials, sponsored by the Federal Transit Administration to promote public transportation and credit amounts collected to the appropriation concerned; and
+
+(11) issue regulations as necessary to carry out the purposes of this chapter.
+
+**(b) Prohibitions Against Regulating Operations and Charges.—**
+
+(1) **In general.—** — Except for purposes of national defense or in the event of a national or regional emergency, or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329, the Secretary may not regulate the operation, routes, or schedules of a public transportation system for which a grant is made under this chapter. The Secretary may not regulate the rates, fares, tolls, rentals, or other charges prescribed by any provider of public transportation.
+
+(2) **Limitation on statutory construction.—** — Nothing in this subsection shall be construed to prevent the Secretary from requiring a recipient of funds under this chapter to comply with the terms and conditions of its Federal assistance agreement.
+
+**(c) Procedures for Prescribing Regulations.—**
+
+(1) The Secretary shall prepare an agenda listing all areas in which the Secretary intends to propose regulations governing activities under this chapter within the following 12 months. The Secretary shall publish the proposed agenda in the Federal Register as part of the Secretary’s semiannual regulatory agenda that lists regulatory activities of the Federal Transit Administration. The Secretary shall submit the agenda to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives on the day the agenda is published.
+
+(2) Except for emergency regulations, the Secretary shall give interested parties at least 60 days to participate in a regulatory proceeding under this chapter by submitting written information, views, or arguments, with or without an oral presentation, except when the Secretary for good cause finds that public notice and comment are unnecessary because of the routine nature or insignificant impact of the regulation or that an emergency regulation should be issued. The Secretary may extend the 60-day period if the Secretary decides the period is insufficient to allow diligent individuals to prepare comments or that other circumstances justify an extension.
+
+(3) An emergency regulation ends 120 days after it is issued.
+
+(4) The Secretary shall comply with this subsection when proposing or carrying out a regulation governing an activity under this chapter, except for a routine matter or a matter with no significant impact.
+
+**(d) Budget Program and Set of Accounts.—** The Secretary shall—
+
+(1) submit each year a budget program as provided in [section 9103 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9103&num=0&edition=prelim); and
+
+(2) maintain a set of accounts for audit under chapter 35 of title 31.
+
+**(e) Depository and Availability of Amounts.—** The Secretary shall deposit amounts made available to the Secretary under this chapter in a checking account in the Treasury. Receipts, assets, and amounts obtained or held by the Secretary to carry out this chapter are available for administrative expenses to carry out this chapter.
+
+**(f) Binding Effect of Financial Transaction.—** A financial transaction of the Secretary under this chapter and a related voucher are binding on all officers and employees of the United States Government.
+
+**(g) Dealing With Acquired Property.—** Notwithstanding another law related to the Government acquiring, using, or disposing of real property, the Secretary may deal with property acquired under paragraph (3) or (4) of subsection (a) in any way. However, this subsection does not—
+
+(1) deprive a State or political subdivision of a State of jurisdiction of the property; or
+
+(2) impair the civil rights, under the laws of a State or political subdivision of a State, of an inhabitant of the property.
+
+**(h) Transfer of Assets No Longer Needed.—**
+
+(1) If a recipient of assistance under this chapter decides an asset acquired under this chapter at least in part with that assistance is no longer needed for the purpose for which it was acquired, the Secretary may authorize the recipient to transfer the asset to a local governmental authority to be used for a public purpose with no further obligation to the Government. The Secretary may authorize a transfer for a public purpose other than public transportation only if the Secretary decides—
+
+  (A) the asset will remain in public use for at least 5 years after the date the asset is transferred;
+
+  (B) there is no purpose eligible for assistance under this chapter for which the asset should be used;
+
+  (C) the overall benefit of allowing the transfer is greater than the interest of the Government in liquidation and return of the financial interest of the Government in the asset, after considering fair market value and other factors; and
+
+  (D) through an appropriate screening or survey process, that there is no interest in acquiring the asset for Government use if the asset is a facility or land.
+
+(2) A decision under paragraph (1) must be in writing and include the reason for the decision.
+
+(3) This subsection is in addition to any other law related to using and disposing of a facility or equipment under an assistance agreement.
+
+(4) **Proceeds from the sale of transit assets.—**
+
+  (A) *In general.—* — When real property, equipment, or supplies acquired with assistance under this chapter are no longer needed for public transportation purposes as determined under the applicable assistance agreement, the Secretary may authorize the sale, transfer, or lease of the assets under conditions determined by the Secretary and subject to the requirements of this subsection.
+
+  (B) *Use.—* — The net income from asset sales, uses, or leases (including lease renewals) under this subsection shall be used by the recipient to reduce the gross project cost of other capital projects carried out under this chapter.
+
+  (C) *Relationship to other authority.—* — The authority of the Secretary under this subsection is in addition to existing authorities controlling allocation or use of recipient income otherwise permissible in law or regulation in effect prior to the date of enactment of this paragraph.
+
+**(i) Transfer of Amounts and Non-Government Share.—**
+
+(1) Amounts made available for a public transportation project under title 23 may be transferred to and administered by the Secretary under this chapter. Amounts made available for a highway project under this chapter shall be transferred to and administered by the Secretary under title 23.
+
+(2) The provisions of title 23 related to the non-Government share apply to amounts under title 23 used for public transportation projects. The provisions of this chapter related to the non-Government share apply to amounts under this chapter used for highway projects.
+
+**(j) Notification of Pending Discretionary Grants.—** Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 or more, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
+
+**(k) Agency Statements.—**
+
+(1) **In general.—** — The Administrator of the Federal Transit Administration shall follow applicable rulemaking procedures under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) before the Federal Transit Administration issues a statement that imposes a binding obligation on recipients of Federal assistance under this chapter.
+
+(2) **Binding obligation defined.—** — In this subsection, the term “binding obligation” means a substantive policy statement, rule, or guidance document issued by the Federal Transit Administration that grants rights, imposes obligations, produces significant effects on private interests, or effects a significant change in existing policy.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5334(a) | 49 App.:1608(a) (1st sentence related to 12:1749a(c) (1)–(3) (1st sentence), (4)–(8), (10)). | July 9, 1964, Pub. L. 88–365, § 12(a), 78 Stat. 306; Sept. 8, 1966, Pub. L. 89–562, § 2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, § 20(a), 81 Stat. 25. |
+| 5334(b) | 49 App.:1608(i)(1), (2). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(i)(1), (2); added Apr. 2, 1987, Pub. L. 100–17, § 318(a), 101 Stat. 233. |
+|  | 49 App.:1608(i)(3). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(i)(3); added Dec. 18, 1991, Pub. L. 102–240, § 3017, 105 Stat. 2108. |
+| 5334(c) | 49 App.:1608(a) (1st sentence related to 12:1749a(a) (less proviso)). |  |
+| 5334(d) | 49 App.:1608(a) (1st sentence related to 12:1749a(b), last sentence). |  |
+| 5334(e) | 49 App.:1608(a) (1st sentence related to 12:1749a(a) (proviso)). |  |
+| 5334(f) | 49 App.:1608(a) (1st sentence related to 12:1749a(c)(3) (last sentence)). |  |
+| 5334(g) | 49 App.:1608(k). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(k); added Dec. 18, 1991, Pub. L. 102–240, § 3018, 105 Stat. 2108. |
+| 5334(h) | 49 App.:1607(k). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 8(k); added Nov. 6, 1978, Pub. L. 95–599, § 305(b), 92 Stat. 2743; Apr. 2, 1987, Pub. L. 100–17, § 310, 101 Stat. 227; restated Dec. 18, 1991, Pub. L. 102–240, § 3012, 105 Stat. 2104; Oct. 6, 1992, Pub. L. 102–388, § 502(a), 106 Stat. 1566. |
+| 5334(i) | 49 App.:1608 (note) (related to authority and functions reserved to Secretary of Housing and Urban Development). | Reorg. Plan No. 2 of 1968, eff. June 30, 1968, § 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development), 82 Stat. 1369. |
+| 5334(j)(1) | 49 App.:1608(a) (1st sentence related to 12:1749a(e)). |  |
+| 5334(j)(2) | 49 App.:1608(a) (1st sentence related to 12:1749a(d)). |  |
+
+In subsections (c)–(f), and (j), the relevant substantive provisions of 12:1749a are substituted for “shall . . . have the functions, powers, and duties set forth in [section 1749a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1749a&num=0&edition=prelim), except subsections (c)(2) and (f) of such section” for clarity. The reference to subsection (c)(2) is omitted as obsolete because section 201(d)(1) of the Housing and Community Development Technical Amendments Act of 1984 (Public Law 98–479, 98 Stat. 2228) repealed 12:1749a(c)(2). The words “(in addition to any authority otherwise vested in him)” are omitted as surplus.
+
+In subsection (a), the text of 49 App.:1608(a) (1st sentence related to 12:1749a(c)(8)) is omitted as obsolete. Before clause (1), the words “carrying out this chapter” are substituted for “the performance of, and with respect to, the functions, powers, and duties vested in him by this chapter” to eliminate unnecessary words. In clause (1), the words “(except terms the Secretary of Labor prescribes under [section 5333(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5333/b&num=0&edition=prelim))” are added for clarity because 49 App.:1608(a) only applies to the Secretary of Transportation and does not supersede the responsibility of the Secretary of Labor. In clause (3), the word “civil” is added for clarity. The words “contract, or other” are omitted as surplus. In clause (4), the words “bid for and . . . at any foreclosure or any other sale” are omitted as surplus. In clause (6), the words “at public or private sale”, “real or personal”, and “upon such terms as he may fix” are omitted as surplus. Clause (8) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(c)(7)) to eliminate unnecessary words. In clause (9), the word “provisions” is omitted as surplus. The words “carry out this chapter” are substituted for “assure that the purposes of this subchapter will be achieved” to eliminate unnecessary words.
+
+In subsection (b), the words “regulatory” and “regulatory proceeding” are substituted for “rulemaking” for consistency in the revised title and because “rule” and “regulation” are synonymous.
+
+In subsection (b)(1), the words “Federal Transit Administration” are substituted for “Urban Mass Transportation Administration” because of section 3004(b) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2088). The words “also” and “required by the first sentence of this paragraph” are omitted as surplus.
+
+In subsection (c), before clause (1), the words “In the performance of, and with respect to, the functions, powers, and duties vested in him by this subchapter . . . notwithstanding the provisions of any other law” are omitted as surplus. In clause (1), the words “prepare . . . and” and “for wholly owned Government corporations” are omitted as surplus.
+
+Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
+
+In subsection (e), the words “such . . . as the making of loans” are omitted as surplus. The words “under this chapter” are added for clarity. The word “related” is substituted for “in connection with such financial transactions” to eliminate unnecessary words. The words “approved by the Secretary” are omitted as surplus. The word “binding” is substituted for “final and conclusive” to eliminate unnecessary words. The words “and employees” are added for consistency in the revised title and with other titles of the United States Code.
+
+In subsection (f), before clause (1), the words “in any way” are substituted for “complete, administer, remodel and convert, dispose of, lease and otherwise” to eliminate unnecessary words. In clause (1), the words “civil or criminal” are omitted as surplus. In clause (2), the words “political subdivision of a State” are substituted for “local” for consistency.
+
+In subsection (g)(1), before clause (A), the words “facilities and equipment and other”, “(including land)”, and “first” are omitted as surplus.
+
+In subsection (g)(3), the words “and not in lieu of” are omitted as surplus.
+
+Subsection (i) is substituted for section 1(a)(1) (related to authority and functions reserved to Secretary of Housing and Urban Development) of Reorganization Plan No. 2 of 1968 to eliminate unnecessary words. The reference to 49 App.:1602(c)(1) is translated as a reference to 49 App.:1602(e)(1) because section 2(1) of the Urban Mass Transportation Assistance Act of 1970 (Public Law 91–453, 84 Stat. 962) redesignated subsection (c) as subsection (e). The references to 49 App.:1603(a) (1st sentence), 1604, and 1607c(b) and former 49 App.:1607a are omitted as obsolete because of section 103(a) of the National Mass Transportation Act of 1974 (Public Law 93–503, 88 Stat. 1567) and sections 303(b), 305(a), and 307 of the Federal Public Transportation Act of 1978 (Public Law 95–599, 92 Stat. 2737, 2743, 2747). Reference to 49 App.:1607c(c) is omitted because it was enacted after the Reorganization Plan and was not intended to be within the scope of the Plan.
+
+Subsection (j)(1) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(e)) to eliminate unnecessary words.
+
+#### References in Text
+The date of enactment of this paragraph, referred to in subsec. (h)(4)(C), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+
+#### Amendments
+2012—Subsec. (a)(1). Pub. L. 112–141, § 20024(1), substituted “that receives Federal financial assistance under this chapter” for “under sections 5307 and 5309–5311 of this title”.
+
+Subsec. (b)(1). Pub. L. 112–141, § 20024(2), inserted “or for purposes of establishing and enforcing a program to improve the safety of public transportation systems in the United States as described in section 5329,” after “emergency,” and substituted “chapter. The Secretary may not” for “chapter, nor may the Secretary”.
+
+Subsec. (c)(1). Pub. L. 112–141, § 20030(i)(1), substituted “Secretary shall prepare” for “Secretary of Transportation shall prepare” and “Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives” for “Committees on Transportation and Infrastructure and Appropriations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate”.
+
+Subsec. (c)(2). Pub. L. 112–141, § 20030(i)(1)(A), substituted “Secretary shall give” for “Secretary of Transportation shall give”.
+
+Subsec. (c)(4). Pub. L. 112–141, §§ 20030(i)(1)(A), 20024(3), substituted “Secretary shall comply” for “Secretary of Transportation shall comply” and “subsection” for “section (except subsection (i)) and sections 5318(e), 5323(a)(2), 5325(a), 5325(b), and 5325(f)”.
+
+Subsec. (d).Pub. L. 112–141, § 20030(i)(2), struck out “of Transportation” after “Secretary” in introductory provisions.
+
+Subsec. (e).Pub. L. 112–141, § 20030(i)(3), struck out “of Transportation” after “The Secretary”.
+
+Subsec. (f).Pub. L. 112–141, § 20030(i)(4), struck out “of Transportation” after “Secretary”.
+
+Subsec. (g).Pub. L. 112–141, § 20030(i)(5), in introductory provisions, struck out “of Transportation” after “Secretary”.and substituted “paragraph (3) or (4) of subsection (a)” for “subsection (a)(3) or (4) of this section”.
+
+Subsec. (h)(1).Pub. L. 112–141, § 20030(i)(6)(A), struck out “of Transportation” after “acquired, the Secretary” in introductory provisions.
+
+Subsec. (h)(2).Pub. L. 112–141, § 20030(i)(6)(B), struck out “of this section” after “paragraph (1)”.
+
+Subsec. (h)(3). Pub. L. 112–141, § 20024(4), substituted “any other” for “another”.
+
+Subsec. (i)(1).Pub. L. 112–141, §§ 20024(5), 20030(i)(7), substituted “title 23 may” for “title 23 shall” and “Secretary under this chapter” for “Secretary of Transportation under this chapter”.
+
+Subsec. (j).Pub. L. 112–141, § 20030(i)(8), which directed substitution of “Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives” for “Committees on Banking, Housing, and Urban Affairs and Appropriations of the Senate and Committees on Transportation and Infrastructure and Appropriations of the House of Representatives” in subsec. (j) as redesignated by section 20025 of Pub. L. 112–141, was executed to subsec. (j) as redesignated by section 20024 of Pub. L. 112–141, to reflect the probable intent of Congress.
+
+Pub. L. 112–141, § 20024(6), (7), redesignated subsec. (k) as (j) and struck out former subsec. (j). Prior to amendment, text read as follows:
+
+“(1) [Section 9107(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9107/a&num=0&edition=prelim) applies to the Secretary of Transportation under this chapter.
+
+“(2) Section 6101(b) to (d) of title 41 applies to a contract for more than $1,000 for services or supplies related to property acquired under this chapter.”
+
+Subsecs. (k), (l). Pub. L. 112–141, § 20024(7), redesignated subsecs. (k) and (l) as (j) and (k), respectively.
+
+2011—Subsec. (j)(2). Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”.
+
+2005—Subsec. (a)(10). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (a)(11). Pub. L. 109–59, § 3032(1), added par. (11).
+
+Subsec. (b). Pub. L. 109–59, § 3032(4), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 109–59, § 3032(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (c)(4). Pub. L. 109–59, § 3032(5), added par. (4) and struck out former par. (4) which read as follows: “The Secretary of Transportation shall comply with this section (except subsections (h) and (i)) and sections 5323(a)(2), 5323(c), 5323(e), 5324(c), 5325(a), 5325(b), 5326(c), and 5326(d) when proposing or carrying out a regulation governing an activity under this chapter, except for a routine matter or a matter with no significant impact.”
+
+Subsecs. (d) to (f). Pub. L. 109–59, § 3032(3), redesignated subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 109–59, § 3032(3), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (g)(1), (4)(A). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (h). Pub. L. 109–59, § 3032(3), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” in pars. (1) and (2).
+
+Subsec. (i). Pub. L. 109–59, § 3032(2), (3), redesignated subsec. (h) as (i) and struck out heading and text of former subsec. (i). Text read as follows: “The Secretary of Housing and Urban Development shall—
+
+“(1) carry out section 5312(a) and (b)(1) of this title related to—
+
+“(A) urban transportation systems and planned development of urban areas; and
+
+“(B) the role of transportation planning in overall urban planning; and
+
+“(2) advise and assist the Secretary of Transportation in making findings under [section 5323(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5323/a/1/A&num=0&edition=prelim).”
+
+Subsecs. (k), (l). Pub. L. 109–59, § 3032(6), added subsecs. (k) and (l).
+
+1998—Pub. L. 105–178, § 3025(b)(1), inserted “provisions” after “Administrative” in section catchline.
+
+Subsec. (a)(10). Pub. L. 105–178, § 3025(a), added par. (10).
+
+Subsec. (b)(4). Pub. L. 105–178, § 3023(c), substituted “5323(a)(2), 5323(c), 5323(e), 5324(c), 5325(a), 5325(b), 5326(c), and 5326(d)” for “5323(a)(2), (c) and (e), 5324(c), and 5325 of this title”.
+
+Subsec. (g)(4). Pub. L. 105–178, § 3025(c), added par. (4).
+
+1996—Subsec. (b)(1). Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+
+Subsec. (c)(2). Pub. L. 104–316 substituted “for” for “the Comptroller General shall”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5335"></a>
+## § 5335. National transit database
+**(a) National Transit Database.—** To help meet the needs of individual public transportation systems, the United States Government, State and local governments, and the public for information on which to base public transportation service planning, the Secretary shall maintain a reporting system, using uniform categories to accumulate public transportation financial, operating, and asset condition information and using a uniform system of accounts. The reporting and uniform systems shall contain appropriate information to help any level of government make a public sector investment decision. The Secretary may request and receive appropriate information from any source.
+
+**(b) Reporting and Uniform Systems.—** The Secretary may award a grant under section 5307 or 5311 only if the applicant, and any person that will receive benefits directly from the grant, are subject to the reporting and uniform systems.
+
+**(c) Data Required to Be Reported.—** The recipient of a grant under this chapter shall report to the Secretary, for inclusion in the National Transit Database, any information relating to a transit asset inventory or condition assessment conducted by the recipient.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5335(a) | 49 App.:1608(j). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 12(j); added Apr. 2, 1987, Pub. L. 100–17, § 319, 101 Stat. 234. |
+|  | 49 App.:1611(a). | July 9, 1964, Pub. L. 88–365, § 15(a), 78 Stat. 308; Sept. 8, 1966, Pub. L. 89–562, §§ 2(a)(1), 4, 80 Stat. 715, 717; Oct. 15, 1970, Pub. L. 91–453, § 7, 84 Stat. 967; restated Nov. 26, 1974, Pub. L. 93–503, § 111, 88 Stat. 1573. |
+|  | 49 App.:1611(b). | July 9, 1964, Pub. L. 88–365, § 15(b), 78 Stat. 308; Sept. 8, 1966, Pub. L. 89–562, §§ 2(a)(1), 4, 80 Stat. 715, 717; Oct. 15, 1970, Pub. L. 91–453, § 7, 84 Stat. 967; restated Nov. 26, 1974, Pub. L. 93–503, § 111, 88 Stat. 1573; Jan. 6, 1983, Pub. L. 97–424, § 304(c), 96 Stat. 2150. |
+| 5335(b) | 49 App.:1603(b)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 4(b)(1); added Nov. 6, 1978, Pub. L. 95–599, § 303(e), 92 Stat. 2738; restated Apr. 2, 1987, Pub. L. 100–17, § 307, 101 Stat. 226; Dec. 18, 1991, Pub. L. 102–240, § 3006(h) (1), 105 Stat. 2090. |
+| 5335(c) | 49 App.:1623(a). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 27; added Dec. 18, 1991, Pub. L. 102–240, § 3028, 105 Stat. 2115. |
+| 5335(d) | 49 App.:1623(b). |  |
+
+In subsection (a), the text of 49 App.:1608(j) is omitted as superseded by 31:ch. 75.
+
+In subsection (a)(1), the words “by January 10, 1977” are omitted as executed. The word “maintain” is substituted for “develop, test, and prescribe” for clarity. The text of 49 App.:1611(a) (3d and 4th sentences) is omitted as executed. The words “or data as he deems” and “public or private” are omitted as surplus.
+
+In subsection (a)(2), the words “After July 1, 1978” are omitted as executed. The reference to 49 App.:1604 is omitted as obsolete. The words “for such grant”, “or organization”, “each . . . both”, and “prescribed under subsection (a) of this section” are omitted as surplus.
+
+In subsection (b)(1), the words “commitments, and reservations” are omitted as surplus.
+
+In subsection (b)(2) and (3), the words “uncommitted, and unreserved” are omitted as surplus.
+
+In subsection (b)(3) and (5), the words “last day” are substituted for “close” for consistency.
+
+In subsection (b)(4), the words “a listing of” are omitted as surplus.
+
+In subsection (b)(5), the words “a status report on all” are omitted as surplus.
+
+In subsection (b)(6), the words “a status report on”, “a letter of credit or other”, and “already” are omitted as surplus.
+
+In subsection (d), before clause (1), the words “the transferability provisions of” are omitted as surplus.
+
+#### Pub. L. 104–287, § 5(18)
+This amends 49:5335(d)(2)(B) to amend an erroneous cross-reference.
+
+#### Amendments
+2012—Subsec. (a). Pub. L. 112–141, §§ 20025(a)(1), 20030(j), struck out “of Transportation” after “the Secretary” and substituted “public transportation financial, operating, and asset condition information” for “public transportation financial and operating information”.
+
+Subsec. (c). Pub. L. 112–141, §§ 20025(a)(2), added subsec. (c).
+
+2005—Pub. L. 109–59, § 3033(a), substituted “National transit database” for “Reports and audits” in section catchline, redesignated pars. (1) and (2) of subsec. (a) as subsecs. (a) and (b), respectively, inserted subsec. (b) heading, substituted “The Secretary may award a grant under section 5307 or 5311” for “The Secretary may make a grant under [section 5307 of this title](./chapter-053-public-transportation.md#section-5307)” in subsec. (b), and struck out former subsec. (b) which related to submission of a report in January- 1993, on carrying out former [section 5307(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5307/b/5&num=0&edition=prelim).
+
+Subsec. (a)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+
+1998—Subsec. (a). Pub. L. 105–178, § 3026(a)(1), substituted “National Transit Database” for “Reporting System and Uniform System of Accounts and Records” in heading.
+
+Subsec. (a)(1). Pub. L. 105–178, § 3026(a)(2), substituted “using uniform categories” for “by uniform categories,” and “and using a uniform system of accounts” for “and a uniform system of accounts and records”.
+
+Subsecs. (b) to (d). Pub. L. 105–178, § 3026(b), redesignated subsec. (d) as (b) and struck out former subsecs. (b) and (c) which related to quarterly reports and biennial needs report, respectively.
+
+1996—Subsec. (b). Pub. L. 104–287, § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+
+Subsec. (c). Pub. L. 104–316 struck out “and in January of every 2d year after 1993” after “In January 1993” in introductory provisions.
+
+Pub. L. 104–287, § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+
+Subsec. (d). Pub. L. 104–316 struck out “and in January of every 2d year after 1993” after “In January 1993” in introductory provisions.
+
+Pub. L. 104–287, § 5(9), substituted “Transportation and Infrastructure” for “Public Works and Transportation” in introductory provisions.
+
+Subsec. (d)(2)(B). Pub. L. 104–287, § 5(18), substituted “Americans with Disabilities Act” for “Americans With Disabilities Act”.
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Data Accuracy and Reliability
+Pub. L. 112–141, div. B, § 20025(b), July 6, 2012, 126 Stat. 718, provided that: “The Secretary [of Transportation] shall— “(1) develop and implement appropriate internal control activities to ensure that public transportation safety incident data is reported accurately and reliably by public transportation systems and State safety oversight agencies to the State Safety Oversight Rail Accident Database; and “(2) report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives within 1 year of enactment of the Federal Public Transportation Act of 2012 [see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways] on the steps taken to improve the accuracy and reliability of public transportation safety incident data reported to the State Safety Oversight Rail Accident Database.”
+
+
+<a id="section-5336"></a>
+## § 5336. Apportionment of appropriations for formula grants
+**(a) Based on Urbanized Area Population.—** Of the amount apportioned under subsection (h)(4) to carry out section 5307—
+
+(1) 9.32 percent shall be apportioned each fiscal year only in urbanized areas with a population of less than 200,000 so that each of those areas is entitled to receive an amount equal to—
+
+  (A) 50 percent of the total amount apportioned multiplied by a ratio equal to the population of the area divided by the total population of all urbanized areas with populations of less than 200,000 as shown in the most recent decennial census; and
+
+  (B) 50 percent of the total amount apportioned multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile; and
+
+(2) 90.68 percent shall be apportioned each fiscal year only in urbanized areas with populations of at least 200,000 as provided in subsections (b) and (c) of this section.
+
+**(b) Based on Fixed Guideway Vehicle Revenue Miles, Directional Route Miles, and Passenger Miles.—**
+
+(1) In this subsection, “fixed guideway vehicle revenue miles” and “fixed guideway directional route miles” include passenger ferry operations directly or under contract by the designated recipient.
+
+(2) Of the amount apportioned under subsection (a)(2) of this section, 33.29 percent shall be apportioned as follows:
+
+  (A) 95.61 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
+
+    (i) 60 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway vehicle revenue miles attributable to the area, as established by the Secretary, divided by the total number of all fixed guideway vehicle revenue miles attributable to all areas; and
+
+    (ii) 40 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway directional route miles attributable to the area, established by the Secretary, divided by the total number of all fixed guideway directional route miles attributable to all areas.
+
+  (B) 4.39 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
+
+    (i) the number of fixed guideway vehicle passenger miles traveled multiplied by the number of fixed guideway vehicle passenger miles traveled for each dollar of operating cost in an area; divided by
+
+    (ii) the total number of fixed guideway vehicle passenger miles traveled multiplied by the total number of fixed guideway vehicle passenger miles traveled for each dollar of operating cost in all areas.
+    An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.
+
+  (C) Under subparagraph (A) of this paragraph, fixed guideway vehicle revenue or directional route miles, and passengers served on those miles, in an urbanized area with a population of less than 200,000, where the miles and passengers served otherwise would be attributable to an urbanized area with a population of at least 1,000,000 in an adjacent State, are attributable to the governmental authority in the State in which the urbanized area with a population of less than 200,000 is located. The authority is deemed an urbanized area with a population of at least 200,000 if the authority makes a contract for the service.
+
+  (D) A recipient’s apportionment under subparagraph (A)(i) of this paragraph may not be reduced if the recipient, after satisfying the Secretary that energy or operating efficiencies would be achieved, reduces vehicle revenue miles but provides the same frequency of revenue service to the same number of riders.
+
+  (E) For purposes of subparagraph (A) and section 5337(c)(3), the Secretary shall deem to be attributable to an urbanized area not less than 22.27 percent of the fixed guideway vehicle revenue miles or fixed guideway directional route miles in the public transportation system of a recipient that are located outside the urbanized area for which the recipient receives funds, in addition to the fixed guideway vehicle revenue miles or fixed guideway directional route miles of the recipient that are located inside the urbanized area.
+
+**(c) Based on Bus Vehicle Revenue Miles and Passenger Miles.—** Of the amount apportioned under subsection (a)(2) of this section, 66.71 percent shall be apportioned as follows:
+
+(1) 90.8 percent of the total amount apportioned under this subsection shall be apportioned as follows:
+
+  (A) 73.39 percent of the 90.8 percent apportioned under this paragraph shall be apportioned so that each urbanized area with a population of at least 1,000,000 is entitled to receive an amount equal to—
+
+    (i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus vehicle revenue miles operated in or directly serving the urbanized area divided by the total bus vehicle revenue miles attributable to all areas;
+
+    (ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown in the most recent decennial census; and
+
+    (iii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
+
+  (B) 26.61 percent of the 90.8 percent apportioned under this paragraph shall be apportioned so that each urbanized area with a population of at least 200,000 but not more than 999,999 is entitled to receive an amount equal to—
+
+    (i) 50 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus vehicle revenue miles operated in or directly serving the urbanized area divided by the total bus vehicle revenue miles attributable to all areas;
+
+    (ii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown by the most recent decennial census; and
+
+    (iii) 25 percent of the 26.61 percent apportioned under this subparagraph multiplied by a ratio for the area based on population weighted by a factor, established by the Secretary, of the number of inhabitants in each square mile.
+
+(2) 9.2 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
+
+  (A) the number of bus passenger miles traveled multiplied by the number of bus passenger miles traveled for each dollar of operating cost in an area; divided by
+
+  (B) the total number of bus passenger miles traveled multiplied by the total number of bus passenger miles traveled for each dollar of operating cost in all areas.
+
+**(d) Date of Apportionment.—** The Secretary shall—
+
+(1) apportion amounts appropriated under [section 5338(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/a/2/C&num=0&edition=prelim) to carry out [section 5307 of this title](./chapter-053-public-transportation.md#section-5307) not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
+
+(2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
+
+**(e) Amounts Not Apportioned to Designated Recipients.—** The Governor of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient, as defined in section 5302(4).
+
+**(f) Transfers of Apportionments.—**
+
+(1) The Governor of a State may transfer any part of the State’s apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3). The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
+
+(2) The Governor of a State may transfer any part of the State’s apportionment under section 5311(c)(3) to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+
+(3) The Governor of a State may use throughout the State amounts of a State’s apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
+
+(4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the Governor of a State. The Governor shall distribute the transferred amounts to urbanized areas under this section.
+
+(5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
+
+**(g) Period of Availability to Recipients.—** An amount apportioned under this section may be obligated by the recipient for 5 years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 5-year period, an amount that is not obligated at the end of that period shall be added to the amount that may be apportioned under this section in the next fiscal year.
+
+**(h) Apportionments.—** Of the amounts made available for each fiscal year under section 5338(a)(2)(C)—
+
+(1) $30,000,000 shall be set aside to carry out section 5307(h);
+
+(2) 3.07 percent shall be apportioned to urbanized areas in accordance with subsection (j);
+
+(3) of amounts not apportioned under paragraphs (1) and (2), 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
+
+(4) 0.5 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and
+
+(5) any amount not apportioned under paragraphs (1), (2), (3), and (4) shall be apportioned to urbanized areas in accordance with subsections (a) through (c).
+
+**(i) Small Transit Intensive Cities Formula.—**
+
+(1) **Definitions.—** — In this subsection, the following definitions apply:
+
+  (A) *Eligible area.—* — The term “eligible area” means an urbanized area with a population of less than 200,000 that meets or exceeds in one or more performance categories the industry average for all urbanized areas with a population of at least 200,000 but not more than 999,999, as determined by the Secretary in accordance with subsection (c)(2).
+
+  (B) *Performance category.—* — The term “performance category” means each of the following:
+
+    (i) Passenger miles traveled per vehicle revenue mile.
+
+    (ii) Passenger miles traveled per vehicle revenue hour.
+
+    (iii) Vehicle revenue miles per capita.
+
+    (iv) Vehicle revenue hours per capita.
+
+    (v) Passenger miles traveled per capita.
+
+    (vi) Passengers per capita.
+
+(2) **Apportionment.—**
+
+  (A) *Apportionment formula.—* — The amount to be apportioned under subsection (h)(3) shall be apportioned among eligible areas in the ratio that—
+
+    (i) the number of performance categories for which each eligible area meets or exceeds the industry average in urbanized areas with a population of at least 200,000 but not more than 999,999; bears to
+
+    (ii) the aggregate number of performance categories for which all eligible areas meet or exceed the industry average in urbanized areas with a population of at least 200,000 but not more than 999,999.
+
+  (B) *Data used in formula.—* — The Secretary shall calculate apportionments under this subsection for a fiscal year using data from the national transit database used to calculate apportionments for that fiscal year under this section.
+
+**(j) Apportionment Formula.—** The amounts apportioned under subsection (h)(2) shall be apportioned among urbanized areas as follows:
+
+(1) 75 percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of 200,000 or more in the ratio that—
+
+  (A) the number of eligible low-income individuals in each such urbanized area; bears to
+
+  (B) the number of eligible low-income individuals in all such urbanized areas.
+
+(2) 25 percent of the funds shall be apportioned among designated recipients for urbanized areas with a population of less than 200,000 in the ratio that—
+
+  (A) the number of eligible low-income individuals in each such urbanized area; bears to
+
+  (B) the number of eligible low-income individuals in all such urbanized areas.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5336(a)(1) | 49 App.:1607a(a)(1). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(a); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2141; Apr. 2, 1987, Pub. L. 100–17, § 327(b), 101 Stat. 238; Dec. 18, 1991, Pub. L. 102–240, § 3013(a), 105 Stat. 2106. |
+|  | 49 App.:1607a(d). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(b)(1)–(3), (c)–(e)(1), (m)(2); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2141, 2147; Apr. 2, 1987, Pub. L. 100–17, § 327(b), 101 Stat. 238. |
+| 5336(a)(2) | 49 App.:1607a(a)(2). |  |
+| 5336(b)(1) | 49 App.:1607a(b)(2) (last sentence). |  |
+| 5336(b)(2)(A) | 49 App.:1607a(b)(1), (2) (1st sentence). |  |
+| 5336(b)(2)(B) | 49 App.:1607a(b)(3) (1st sentence). |  |
+| 5336(b)(2)(C) | 49 App.:1607a(b)(2) (2d sentence), (3) (last sentence). |  |
+| 5336(b)(2)(D) | 49 App.:1607a(b)(2) (3d sentence). |  |
+| 5336(b)(2)(E) | 49 App.:1607a(b)(4). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(b)(4); added Dec. 18, 1991, Pub. L. 102–240, § 3013(b), 105 Stat. 2106. |
+| 5336(c)(1) | 49 App.:1607a(c)(1), (2), (d) (last sentence). |  |
+| 5336(c)(2) | 49 App.:1607a(c)(3). |  |
+| 5336(d)(1) | 49 App.:1607a (k)(2)(A). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(k)(2)(A); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2145; Apr. 2, 1987, Pub. L. 100–17, §§ 312(c)(1), (2), 327(b), 101 Stat. 228, 238. |
+| 5336(d)(2) | 49 App.:1607a (k)(2)(B). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(k)(2)(B); added Apr. 2, 1987, Pub. L. 100–17, § 312(c)(3), 101 Stat. 228; Dec. 18, 1991, Pub. L. 102–240, § 3013(i), 105 Stat. 2107. |
+|  | 49 App.:1607a (k)(2)(C). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(k)(2)(C); added Apr. 2, 1987, Pub. L. 100–17, § 312(c)(3), 101 Stat. 228. |
+| 5336(e) | 49 App.:1607a(q). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(q); added Apr. 2, 1987, Pub. L. 100–17, § 312(e), 101 Stat. 229. |
+| 5336(f) | 49 App.:1607a(m)(2). |  |
+| 5336(g) | 49 App.:1607a(n). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(n); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2147; Apr. 2, 1987, Pub. L. 100–17, §§ 312(d), 327(b), 101 Stat. 229, 238. |
+| 5336(h) | 49 App.:1607a(t). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(t); added Dec. 18, 1991, Pub. L. 102–240, § 3013(k), 105 Stat. 2108. |
+| 5336(i) | 49 App.:1607a(o). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(o); added Jan. 6, 1983, Pub. L. 97–424, § 303, 96 Stat. 2147; Apr. 2, 1987, Pub. L. 100–17, §§ 311, 327(b), 101 Stat. 228, 238. |
+| 5336(j) | 49 App.:1607a(e)(1). |  |
+| 5336(k) | 49 App.:1607a(s). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9(s); added Dec. 18, 1991, Pub. L. 102–240, § 3013(j), 105 Stat. 2108. |
+
+In this section, the word “apportioned” is substituted for “available”, “shall be available for expenditure”, “made available”, and “made available for expenditure” for clarity and consistency in this chapter.
+
+In subsection (a)(1), before subclause (A), the words “the sum of” are omitted as surplus.
+
+In subsection (b)(2)(D), the word “provided” is omitted as surplus. The words “is deemed” are substituted for “as if . . . were” for consistency in the revised title and with other titles of the United States Code. The words “directly or indirectly” are omitted as surplus.
+
+In subsection (c)(1)(B), before clause (i), the words “of at least 200,000” are added for clarity.
+
+In subsection (d)(1)(D), the words “Notwithstanding the preceding sentence” and “each fiscal year” are omitted as surplus.
+
+In subsection (d)(2), the words “Beginning on October 1, 1991” are omitted as executed. The words “paragraph (1) of this subsection” are substituted for “under this section that may be used for operating assistance by urbanized areas” to eliminate unnecessary words. The words “(if any)” are omitted as surplus. The words “Secretary of Labor” are substituted for “Department of Labor” because of 29:551. The text of 49 App.:1607a(k)(2)(B) (2d sentence) is omitted as executed. The text of 49 App.:1607a(k)(2)(B) (last sentence) is omitted as surplus.
+
+In subsection (e)(1), the words “under [section 5338(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/f&num=0&edition=prelim)” are added for clarity. The words “in accordance with the provisions of this section” are omitted as surplus.
+
+In subsection (e)(2), the words “established by the preceding sentence” are omitted as surplus.
+
+In subsection (g)(1) and (2), the word “part” is substituted for “amount” for clarity.
+
+In subsection (g)(4), the words “including areas of 200,000 or more population” are omitted as surplus.
+
+In subsection (h), the words “in each fiscal year beginning after September 30, 1991” are omitted as obsolete.
+
+In subsection (i), the words “the close of” are omitted as surplus.
+
+In subsection (j), the references to sections 5302(a)(8) and 5318 are added for clarity. The source provisions of sections 5302(a)(8) and 5318, enacted by section 317 of the Surface Transportation and Uniform Relocation Assistance Act of 1987 (Public Law 100–17, 101 Stat. 233), were not intended to come under the exclusion stated in 49 App.:1607a(e)(1). The words “condition, limitation, or other” and “for programs of projects” are omitted as surplus.
+
+In subsection (k), the text of 49 App.:1607a(s)(1) is omitted as obsolete.
+
+#### Pub. L. 104–287
+This amends 49:5336(b)(2) to clarify the restatement of 49 App.:1607a(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 840).
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to apportionment of appropriations for formula grants and consisted of subsecs. (a) to (k).
+
+2008—Subsec. (a). Pub. L. 110–244, § 201(l)(1)(A), in introductory provisions, substituted “Of the amount apportioned under subsection (i)(2) to carry out section 5307—” for “Of the amount apportioned under subsection (i)(2)—”.
+
+Subsec. (a)(2). Pub. L. 110–244, § 201(l)(2), amended Pub. L. 109–59, § 3034(d)(2). See 2005 Amendment note below.
+
+Subsec. (c). Pub. L. 110–244, § 201(l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+
+Subsec. (d)(1). Pub. L. 110–244, § 201(l)(1)(B), substituted “subsections (a)(1)(C)(vi) and (b)(2)(B) of section 5338” for “subsections (a) and (h)(2) of section 5338”.
+
+Subsec. (k). Pub. L. 110–244, § 201(l)(1)(C), redesignated subsec. (c) relating to study on incentives in formula programs as (k).
+
+2005—Subsec. (a). Pub. L. 109–59, § 3034(d)(1), which directed amendment of subsec. (a) by substituting “to carry out section 5307” for “of this title”, could not be executed because of prior amendment by Pub. L. 109–59, § 3034(a)(4). See below.
+
+Pub. L. 109–59, § 3034(a)(4), substituted “Of the amount apportioned under subsection (i)(2)” for “Of the amount made available or appropriated under [section 5338(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5338/a&num=0&edition=prelim)” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 109–59, § 3034(d)(2), as amended by Pub. L. 110–244, § 201(l)(2), inserted before period at end “, except that the amount apportioned to the Anchorage urbanized area under subsection (b) shall be available to the Alaska Railroad for any costs related to its passenger operations”.
+
+Subsec. (b)(1). Pub. L. 109–59, § 3034(d)(3), inserted “and, beginning in fiscal year 2006, 60 percent of the directional route miles attributable to the Alaska Railroad passenger operations” before period at end.
+
+Subsec. (c). Pub. L. 109–59, § 3034(c), added at end of section subsec. (c) relating to study on incentives in formula programs.
+
+Subsecs. (d) to (f). Pub. L. 109–59, § 3034(a)(1), (2), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out former subsec. (d) which read as follows: “[Reserved.]”.
+
+Subsec. (g). Pub. L. 109–59, § 3034(a)(2), redesignated subsec. (i) as (g). Former subsec. (g) redesignated (f).
+
+Subsec. (g)(1). Pub. L. 109–59, § 3002(b)(4), substituted “public transportation” for “mass transportation”.
+
+Subsec. (h). Pub. L. 109–59, § 3034(d)(4), substituted “a grant made with funds apportioned under” for “a grant made under” in two places.
+
+Pub. L. 109–59, § 3034(a)(1), (2), redesignated subsec. (j) as (h) and struck out heading and text of former subsec. (h). Text read as follows: “If sufficient amounts are available, the Secretary of Transportation shall change apportionments under this section between the Mass Transit Account of the Highway Trust Fund and the general fund to ensure that each recipient receives from the general fund at least as much operating assistance made available each fiscal year under this section as the recipient is eligible to receive.”
+
+Subsec. (i). Pub. L. 109–59, § 3034(a)(3), added subsec. (i). Former subsec. (i) redesignated (g).
+
+Subsec. (j). Pub. L. 109–59, § 3034(b), added subsec. (j). Former subsec. (j) redesignated (h).
+
+Subsec. (k). Pub. L. 109–59, § 3034(a)(1), struck out heading and text of subsec. (k). Text read as follows: “An area designated an urbanized area under the 1980 census and not designated an urbanized area under the 1990 census for the fiscal year ending September 30, 1993, is eligible to receive—
+
+“(1) 50 percent of the amount the area would have received if the area had been an urbanized area as defined by [section 5302(a)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5302/a/13&num=0&edition=prelim); and
+
+“(2) an amount equal to 50 percent of the amount that the State in which the area is located would have received if the area had been an area other than an urbanized area.”
+
+1998—Pub. L. 105–178, § 3027(a), substituted “formula grants” for “block grants” in section catchline.
+
+Subsec. (a). Pub. L. 105–178, § 3029(b)(10), substituted “5338(a) of this title” for “5338(f) of this title” in introductory provisions.
+
+Subsec. (d). Pub. L. 105–178, § 3027(b), amended subsec. (d) generally, substituting “[Reserved.]” for former provisions relating to operating assistance.
+
+Subsec. (e)(1). Pub. L. 105–178, § 3029(b)(11), substituted “subsections (a) and (h)(2) of section 5338” for “section 5338(f)”.
+
+1996—Subsec. (b)(2)(A), (B). Pub. L. 104–287, § 5(19)(A), inserted at end “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subparagraph.”
+
+Subsec. (b)(2)(C) to (E). Pub. L. 104–287, § 5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection.”
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 2008 Amendment
+Amendment by section 201(l)(2) of Pub. L. 110–244 effective as of the date of enactment of Pub. L. 109–59 (Aug. 10, 2005) and to be treated as included in Pub. L. 109–59 as of that date, and provisions of Pub. L. 109–59, as in effect on the day before June 6, 2008, that are amended by Pub. L. 110–244 to be treated as not enacted, see section 121(b) of Pub. L. 110–244, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+#### Urbanized Area Formula Study
+Pub. L. 105–178, title III, § 3033, June 9, 1998, 112 Stat. 386, required the Secretary of Transportation to conduct a study on the success of the formula used to apportion funds to urbanized areas and to submit a report no later than Dec. 31, 1999.
+
+
+<a id="section-5337"></a>
+## § 5337. State of good repair grants
+**(a) Definitions.—** In this section, the following definitions shall apply:
+
+(1) **Fixed guideway.—** — The term “fixed guideway” means a public transportation facility—
+
+  (A) using and occupying a separate right-of-way for the exclusive use of public transportation;
+
+  (B) using rail;
+
+  (C) using a fixed catenary system;
+
+  (D) for a passenger ferry system; or
+
+  (E) for a bus rapid transit system.
+
+(2) **State.—** — The term “State” means the 50 States, the District of Columbia, and Puerto Rico.
+
+(3) **State of good repair.—** — The term “state of good repair” has the meaning given that term by the Secretary, by rule, under section 5326(b).
+
+(4) **Transit asset management plan.—** — The term “transit asset management plan” means a plan developed by a recipient of funding under this chapter that—
+
+  (A) includes, at a minimum, capital asset inventories and condition assessments, decision support tools, and investment prioritization; and
+
+  (B) the recipient certifies that the recipient complies with the rule issued under section 5326(d).
+
+**(b) General Authority.—**
+
+(1) **Eligible projects.—** — The Secretary may make grants under this section to assist State and local governmental authorities in financing capital projects to maintain public transportation systems in a state of good repair, including projects to replace and rehabilitate—
+
+  (A) rolling stock;
+
+  (B) track;
+
+  (C) line equipment and structures;
+
+  (D) signals and communications;
+
+  (E) power equipment and substations;
+
+  (F) passenger stations and terminals;
+
+  (G) security equipment and systems;
+
+  (H) maintenance facilities and equipment;
+
+  (I) operational support equipment, including computer hardware and software;
+
+  (J) development and implementation of a transit asset management plan; and
+
+  (K) other replacement and rehabilitation projects the Secretary determines appropriate.
+
+(2) **Inclusion in plan.—** — A recipient shall include a project carried out under paragraph (1) in the transit asset management plan of the recipient upon completion of the plan.
+
+**(c) High Intensity Fixed Guideway State of Good Repair Formula.—**
+
+(1) **In general.—** — Of the amount authorized or made available under section 5338(a)(2)(I), 97.15 percent shall be apportioned to recipients in accordance with this subsection.
+
+(2) **Area share.—**
+
+  (A) *In general.—* — 50 percent of the amount described in paragraph (1) shall be apportioned for fixed guideway systems in accordance with this paragraph.
+
+  (B) *Share.—* — A recipient shall receive an amount equal to the amount described in subparagraph (A), multiplied by the amount the recipient would have received under this section, as in effect for fiscal year 2011, if the amount had been calculated in accordance with section 5336(b)(1) and using the definition of the term “fixed guideway” under subsection (a) of this section, as such sections are in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012, and divided by the total amount apportioned for all areas under this section for fiscal year 2011.
+
+  (C) *Recipient.—* — For purposes of this paragraph, the term “recipient” means an entity that received funding under this section, as in effect for fiscal year 2011.
+
+(3) **Vehicle revenue miles and directional route miles.—**
+
+  (A) *In general.—* — 50 percent of the amount described in paragraph (1) shall be apportioned to recipients in accordance with this paragraph.
+
+  (B) *Vehicle revenue miles.—* — A recipient in an urbanized area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway vehicle revenue miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway vehicle revenue miles attributable to all urbanized areas.
+
+  (C) *Directional route miles.—* — A recipient in an urbanized area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of fixed guideway directional route miles attributable to the urbanized area, as established by the Secretary, divided by the total number of all fixed guideway directional route miles attributable to all urbanized areas.
+
+(4) **Limitation.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
+
+  (B) *Special rule for fiscal year 2013.—* — In fiscal year 2013, the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share that would have been apportioned to the area under this section, as in effect for fiscal year 2011, if the share had been calculated using the definition of the term “fixed guideway” under subsection (a) of this section, as in effect on the day after the date of enactment of the Federal Public Transportation Act of 2012.
+
+(5) **Use of funds.—** — Amounts made available under this subsection shall be available for the exclusive use of fixed guideway projects.
+
+(6) **Receiving apportionment.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), for an area with a fixed guideway system, the amounts provided under this subsection shall be apportioned to the designated recipient for the urbanized area in which the system operates.
+
+  (B) *Exception.—* — An area described in the amendment made by section 3028(a) of the Transportation Equity Act for the 21st Century (Public Law 105–178; 112 Stat. 366) shall receive an individual apportionment under this subsection.
+
+(7) **Apportionment requirements.—** — For purposes of determining the number of fixed guideway vehicle revenue miles or fixed guideway directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of fixed guideway systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
+
+**(d) High Intensity Motorbus State of Good Repair.—**
+
+(1) **Definition.—** — For purposes of this subsection, the term “high intensity motorbus” means public transportation that is provided on a facility with access for other high-occupancy vehicles.
+
+(2) **Apportionment.—** — Of the amount authorized or made available under section 5338(a)(2)(I), 2.85 percent shall be apportioned to urbanized areas for high intensity motorbus state of good repair in accordance with this subsection.
+
+(3) **Vehicle revenue miles and directional route miles.—**
+
+  (A) *In general.—* — The amount described in paragraph (2) shall be apportioned to each area in accordance with this paragraph.
+
+  (B) *Vehicle revenue miles.—* — Each area shall receive an amount equal to 60 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus vehicle revenue miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus vehicle revenue miles attributable to all areas.
+
+  (C) *Directional route miles.—* — Each area shall receive an amount equal to 40 percent of the amount described in subparagraph (A), multiplied by the number of high intensity motorbus directional route miles attributable to the area, as established by the Secretary, divided by the total number of all high intensity motorbus directional route miles attributable to all areas.
+
+    (4) *Apportionment requirements.—* — For purposes of determining the number of high intensity motorbus vehicle revenue miles or high intensity motorbus directional route miles attributable to an urbanized area for a fiscal year under this subsection, only segments of high intensity motorbus systems placed in revenue service not later than 7 years before the first day of the fiscal year shall be deemed to be attributable to an urbanized area.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5337(a) | 49 App.:1602(h) (1)–(4). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(h)(1)–(6); added Aug. 22, 1974, Pub. L. 93–503, § 110, 88 Stat. 1573; Nov. 6, 1978, Pub. L. 95–599, § 302(d), 92 Stat. 2737; restated Dec. 18, 1991, Pub. L. 102–240, § 3008, 105 Stat. 2091. |
+| 5337(b) | 49 App.:1602(h)(5). |  |
+| 5337(c) | 49 App.:1602(h)(6). |  |
+| 5337(d) | 49 App.:1602(h)(7). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §3(h)(7); added Oct. 6, 1992, Pub. L. 102–388, § 502(c), 106 Stat. 1566. |
+
+In subsection (a), the words “for expenditure” are omitted for consistency in this chapter. Before clause (1), the reference to fiscal year 1992 is omitted as obsolete.
+
+In subsection (c), the words “Notwithstanding any other provision of law” are omitted as surplus. The word “paragraph” in the source provision is translated as it were “subsection” to reflect the apparent intent of Congress.
+
+In subsection (d)(1), the words “for obligation”, “a period of”, and “the close of” are omitted as surplus.
+
+#### Pub. L. 103–429
+This amends 49:5337(a)(4) to correct an erroneous cross-reference.
+
+#### References in Text
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (c)(2)(B), (4)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+Section 3028(a) of the Transportation Equity Act for the 21st Century (Public Law 105–178; 112 Stat. 366), referred to in subsec. (c)(6)(B), amended generally subsec. (a) of this section. See 1998 Amendment note below.
+
+#### Amendments
+2012—Pub. L. 112–141, § 20027, amended section generally. Prior to amendment, section related to apportionment based on fixed guideway factors.
+
+Subsec. (g). Pub. L. 112–141, § 113005, struck out subsec. (g). Text read as follows: “The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on June 30, 2012, in accordance with subsection (a), except that the Secretary shall apportion 75 percent of each dollar amount specified in subsection (a).”
+
+Pub. L. 112–140, §§ 1(c), 305, temporarily amended subsec. (g) generally, enacting similar provisions but directing the Secretary to apportion 76 percent of each dollar amount specified in subsec. (a) for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102 amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning on October 1, 2011, and ending on March 31, 2012, in accordance with subsection (a), except that the Secretary shall apportion 50 percent of each dollar amount specified in subsection (a).”
+
+2011—Subsec. (a). Pub. L. 112–30, § 135(1), substituted “2012” for “2011” in introductory provisions.
+
+Pub. L. 112–5, § 305(1), substituted “2011” for “2010” in introductory provisions.
+
+Subsec. (g). Pub. L. 112–30, § 135(2), added subsec. (g).
+
+Pub. L. 112–5, § 305(2), struck out subsec. (g). Text read as follows: “The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning October 1, 2010, and ending March 4, 2011, in accordance with subsection (a), except that the Secretary shall apportion 155⁄365ths of each dollar amount specified in subsection (a).”
+
+2010—Subsec. (a). Pub. L. 111–147, § 435(1), substituted “2010” for “2009” in introductory provisions.
+
+Subsec. (g). Pub. L. 111–322 amended subsec. (g) generally. Prior to amendment, text read as follows: “The Secretary shall apportion amounts made available for fixed guideway modernization under section 5309 for the period beginning October 1, 2010, and ending December 31, 2010, in accordance with subsection (a), except that the Secretary shall apportion 25 percent of each dollar amount specified in subsection (a).”
+
+Pub. L. 111–147, § 435(2), added subsec. (g).
+
+2008—Subsec. (a). Pub. L. 110–244 substituted “for each of fiscal years 2005 through 2009” for “for each of fiscal years 1998 through 2003” in introductory provisions.
+
+2005—Pub. L. 109–59, § 3035(a)(1), substituted “Apportionment based on fixed guideway factors” for “Apportionment of appropriations for fixed guideway modernization” in section catchline.
+
+Subsec. (f). Pub. L. 109–59, § 3035(a)(2), added subsec. (f).
+
+2003—Subsec. (e). Pub. L. 108–88 struck out subsec. (e) relating to special rule.
+
+1998—Subsec. (a). Pub. L. 105–178, § 3028(c), as added by Pub. L. 105–206, in par. (2)(B), substituted “(e)(1)” for “(e)”, in par. (3)(D), substituted “(2)(B)” for “(2)(B)(ii)” and “(e)(1)” for “(e)”, in par. (4), substituted “(e)(1)” for “(e)”, and in pars. (5) to (7), substituted “(e)(2)” for “(e)” wherever appearing.
+
+Pub. L. 105–178, § 3028(a), amended heading and text of subsec. (a) generally, substituting provisions relating to distribution for fiscal years 1998 through 2003 for provisions relating to percentage distribution for fiscal years ending Sept. 30, 1993–1997 and for period of Oct. 1, 1997 through Mar. 31, 1998.
+
+Subsec. (e). Pub. L. 105–178, § 3028(b), added subsec. (e) relating to route segments to be included in apportionment formulas.
+
+Subsec. (e)(1). Pub. L. 105–178, § 3029(b)(12), which directed substitution of “subsections (b) and (h)(4) of section 5338” for “section 5338(f)”, could not be executed because “section 5338(f)” does not appear in text.
+
+1997—Subsec. (a). Pub. L. 102–240, § 3049(b)(1), as added by Pub. L. 105–130, inserted “and for the period of October 1, 1997, through March 31, 1998,” after “1997,” in introductory provisions.
+
+Subsec. (e). Pub. L. 102–240, § 3049(b)(2), as added by Pub. L. 105–130, added subsec. (e).
+
+1994—Subsec. (a)(4). Pub. L. 103–429 substituted “[section 5336(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5336/b/2/A&num=0&edition=prelim)” for “section 5336(B)(2)(A)”.
+
+#### Effective and Termination Dates of 2012 Amendment
+Amendment by section 20027 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+Amendment by section 113005 of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under [section 5305 of this title](./chapter-053-public-transportation.md#section-5305).
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1994 Amendment
+Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under [section 321 of this title](./chapter-003-general-duties-and-powers.md#section-321).
+
+#### Special Rule for Partial Fiscal Year Funding
+Pub. L. 108–310, § 8(b), Sept. 30, 2004, 118 Stat. 1154, provided for pro rata apportionment for fixed guideway modernization to reflect partial fiscal year 2005 funding.
+
+Pub. L. 108–88, § 8(b)(1), Sept. 30, 2003, 117 Stat. 1121, as amended by Pub. L. 108–202, § 9(b), Feb. 29, 2004, 118 Stat. 485; Pub. L. 108–224, § 7(b), Apr. 30, 2004, 118 Stat. 633; Pub. L. 108–263, § 7(b), June 30, 2004, 118 Stat. 704, which directed the Secretary of Transportation to determine the amount that each urbanized area would be apportioned for fixed guideway modernization under [section 5337 of this title](./chapter-053-public-transportation.md#section-5337) on a pro rata basis reflecting partial fiscal year 2004 funding made available under [section 5338 of this title](./chapter-053-public-transportation.md#section-5338), was repealed by Pub. L. 108–280, § 7(b), July 30, 2004, 118 Stat. 882.
+
+
+<a id="section-5338"></a>
+## § 5338. Authorizations
+**(a) Formula Grants.—**
+
+(1) **In general.—** — There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5305, 5307, 5310, 5311, 5318, 5322(d), 5335, 5337, 5339, and 5340, and section 20005(b) of the Federal Public Transportation Act of 2012, $8,478,000,000 for fiscal year 2013 and $8,595,000,000 for fiscal year 2014.
+
+(2) **Allocation of funds.—** — Of the amounts made available under paragraph (1)—
+
+  (A) $126,900,000 for fiscal year 2013 and $128,800,000 for fiscal year 2014 shall be available to carry out section 5305;
+
+  (B) $10,000,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 20005(b) of the Federal Public Transportation Act of 2012;
+
+  (C) $4,397,950,000 for fiscal year 2013 and $4,458,650,000 for fiscal year 2014 shall be allocated in accordance with section 5336 to provide financial assistance for urbanized areas under section 5307;
+
+  (D) $254,800,000 for fiscal year 2013 and $258,300,000 for fiscal year 2014 shall be available to provide financial assistance for services for the enhanced mobility of seniors and individuals with disabilities under section 5310;
+
+  (E) $599,500,000 for fiscal year 2013 and $607,800,000 for fiscal year 2014 shall be available to provide financial assistance for rural areas under section 5311, of which not less than $30,000,000 for fiscal year 2013 and $30,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(1) and $20,000,000 for fiscal year 2013 and $20,000,000 for fiscal year 2014 shall be available to carry out section 5311(c)(2);
+
+  (F) $3,000,000 for each of fiscal years 2013 and 2014 shall be available for bus testing under section 5318;
+
+  (G) $5,000,000 for each of fiscal years 2013 and 2014 shall be available for the national transit institute under section 5322(d);
+
+  (H) $3,850,000 for each of fiscal years 2013 and 2014 shall be available to carry out section 5335;
+
+  (I) $2,136,300,000 for fiscal year 2013 and $2,165,900,000 for fiscal year 2014 shall be available to carry out section 5337;
+
+  (J) $422,000,000 for fiscal year 2013 and $427,800,000 for fiscal year 2014 shall be available for the bus and bus facilities program under section 5339; and
+
+  (K) $518,700,000 for fiscal year 2013 and $525,900,000 for fiscal year 2014 shall be allocated in accordance with section 5340 to provide financial assistance for urbanized areas under section 5307 and rural areas under section 5311.
+
+**(b) Research, Development Demonstration and Deployment Projects.—** There are authorized to be appropriated to carry out section 5312, $70,000,000 for fiscal year 2013 and $70,000,000 for fiscal year 2014.
+
+**(c) Transit Cooperative Research Program.—** There are authorized to be appropriated to carry out section 5313, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
+
+**(d) Technical Assistance and Standards Development.—** There are authorized to be appropriated to carry out section 5314, $7,000,000 for fiscal year 2013 and $7,000,000 for fiscal year 2014.
+
+**(e) Human Resources and Training.—** There are authorized to be appropriated to carry out subsections (a), (b), (c), and (e) of section 5322, $5,000,000 for fiscal year 2013 and $5,000,000 for fiscal year 2014.
+
+**(f) Emergency Relief Program.—** There are authorized to be appropriated such sums as are necessary to carry out section 5324.
+
+**(g) Capital Investment Grants.—** There are authorized to be appropriated to carry out section 5309, $1,907,000,000 for fiscal year 2013 and $1,907,000,000 for fiscal year 2014.
+
+**(h) Administration.—**
+
+(1) **In general.—** — There are authorized to be appropriated to carry out section 5334, $104,000,000 for fiscal year 2013 and $104,000,000 for fiscal year 2014.
+
+(2) **Section 5329.—** — Of the amounts authorized to be appropriated under paragraph (1), not less than $5,000,000 shall be available to carry out section 5329.
+
+(3) **Section 5326.—** — Of the amounts made available under paragraph (2), not less than $1,000,000 shall be available to carry out section 5326.
+
+**(i) Oversight.—**
+
+(1) **In general.—** — Of the amounts made available to carry out this chapter for a fiscal year, the Secretary may use not more than the following amounts for the activities described in paragraph (2):
+
+  (A) 0.5 percent of amounts made available to carry out section 5305.
+
+  (B) 0.75 percent of amounts made available to carry out section 5307.
+
+  (C) 1 percent of amounts made available to carry out section 5309.
+
+  (D) 1 percent of amounts made available to carry out section 601 of the Passenger Rail Investment and Improvement Act of 2008 (Public Law 110–432; 126 11 So in original. Probably should be “122”. Stat. 4968).
+
+  (E) 0.5 percent of amounts made available to carry out section 5310.
+
+  (F) 0.5 percent of amounts made available to carry out section 5311.
+
+  (G) 0.75 percent of amounts made available to carry out section 5337(c).
+
+(2) **Activities.—** — The activities described in this paragraph are as follows:
+
+  (A) Activities to oversee the construction of a major capital project.
+
+  (B) Activities to review and audit the safety and security, procurement, management, and financial compliance of a recipient or subrecipient of funds under this chapter.
+
+  (C) Activities to provide technical assistance generally, and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section.
+
+(3) **Government share of costs.—** — The Government shall pay the entire cost of carrying out a contract under this subsection.
+
+(4) **Availability of certain funds.—** — Funds made available under paragraph (1)(C) shall be made available to the Secretary before allocating the funds appropriated to carry out any project under a full funding grant agreement.
+
+**(j) Grants as Contractual Obligations.—**
+
+(1) **Grants financed from highway trust fund.—** — A grant or contract that is approved by the Secretary and financed with amounts made available from the Mass Transit Account of the Highway Trust Fund pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project.
+
+(2) **Grants financed from general fund.—** — A grant or contract that is approved by the Secretary and financed with amounts appropriated in advance from the General Fund of the Treasury pursuant to this section is a contractual obligation of the Government to pay the Government share of the cost of the project only to the extent that amounts are appropriated for such purpose by an Act of Congress.
+
+**(k) Availability of Amounts.—** Amounts made available by or appropriated under this section shall remain available until expended.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Pub. L. 103–272 |  |  |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 5338(a) | 49 App.:1617(a) (less availability). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 21; added Jan. 6, 1983, Pub. L. 97–424, § 302(a), 96 Stat. 2140; Apr. 2, 1987, Pub. L. 100–17, § 328, 101 Stat. 238; restated Dec. 18, 1991, Pub. L. 102–240, § 3025, 105 Stat. 2112; Oct. 6, 1992, Pub. L. 102–388, § 502(m)–(q), 106 Stat. 1567. |
+| 5338(b) | 49 App.:1617(b) (less availability). |  |
+| 5338(c) | 49 App.:1625(d) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 29(d); added Dec. 18, 1991, Pub. L. 102–240, § 6022, 105 Stat. 2185. |
+| 5338(d) | 49 App.:1607c(c)(6). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 11(c)(6); added Dec. 18, 1991, Pub. L. 102–240, § 6024, 105 Stat. 2189; Sept. 23, 1992, Pub. L. 102–368, § 801, 106 Stat. 1131. |
+| 5338(e)(1) | 49 App.:1607c(b) (8)(B)(iii), (13) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 11(b) (8)(B)(iii), (10)(C), (13); added Dec. 18, 1991, Pub. L. 102–240, § 6023, 105 Stat. 2186, 2187, 2188. |
+| 5338(e)(2) | 49 App.:1607c(b) (1)(C). |  |
+| 5338(f) | 49 App.:1617(g). |  |
+| 5338(g)–(i) | 49 App.:1617(c) (less availability), (d) (less availability), (e). |  |
+| 5338(j)(1) | 49 App.:1612(b) (last sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 16(b) (last sentence); added Oct. 15, 1970, Pub. L. 91–453, § 8, 84 Stat. 968; Aug. 13, 1973, Pub. L. 93–87, § 301(g), 87 Stat. 296; restated Nov. 6, 1978, Pub. L. 95–599, § 311(a), 92 Stat. 2748; Jan. 6, 1983, Pub. L. 97–424, § 317(a), 96 Stat. 2153. |
+| 5338(j)(2) | 49 App.:1612(d). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 16(d); added Oct. 15, 1970, Pub. L. 91–453, § 8, 84 Stat. 968; Dec. 18, 1991, Pub. L. 102–240, § 3021(5), 105 Stat. 2110. |
+| 5338(j)(3) | 49 App.:1603(c) (last sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 4(c) (last sentence); added Nov. 6, 1978, Pub. L. 95–599, § 303(e), 92 Stat. 2739; Dec. 18, 1991, Pub. L. 102–240, § 3006(h)(1), 105 Stat. 2090. |
+| 5338(j)(4) | 49 App.:1617(f) (less availability). |  |
+| 5338(j)(5) | 49 App.:1602(m) (1st sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(m) (1st sentence); added Dec. 18, 1991, Pub. L. 102–240, § 3009, 105 Stat. 2093. |
+| 5338(k) | 49 App.:1607c(b)(13) (last sentence). |  |
+|  | 49 App.:1617(b)(4). |  |
+|  | 49 App.:1625(d) (last sentence). |  |
+| 5338(l)(1) | 49 App.:1614(a) (last sentence). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 18(a) (last sentence); added Nov. 6, 1978, Pub. L. 95–599, § 313, 92 Stat. 2749. |
+| 5338(l)(2) | 49 App.:1617(a)–(d), (f) (as (a)–(d), (f) relate to availability). |  |
+| 5338(l)(3) | 49 App.:1607a–2(c). | July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 9B(c); added Apr. 2, 1987, Pub. L. 100–17, § 313, 101 Stat. 229. |
+
+In this section, references to fiscal year 1992 are omitted as obsolete.
+
+In subsections (a)(1) and (b)(1), before each clause (A), the word “only” is omitted as surplus.
+
+In subsection (a)(1), before clause (A), the words “for the Secretary of Transportation” are added or clarity and consistency.
+
+In subsections (a)(2) and (b)(2), before each clause (A), and (d), before clause (1), the words “to the Secretary” are added for clarity and consistency.
+
+In subsections (b)(1), before clause (A), and (e)(1), the words “for the Secretary” are added for clarity and consistency.
+
+In subsection (d), the text of 49 App.:1607c(c)(6) (last sentence) is omitted as obsolete.
+
+In subsection (e)(1), the word “section” in the source provision is translated as if it were “subsection” to reflect the apparent intent of Congress.
+
+In subsection (h)(3), the words “relating to university transportation centers” are omitted as surplus.
+
+In subsection (j)(2), the words “set aside and” and “exclusively” are omitted as surplus. The word “mass” is added for consistency in this chapter.
+
+In subsection (k)(1), the words “Notwithstanding any other provision of law” in 49 App.:1607c(b)(13) (last sentence) and 1625(d) (last sentence) are omitted as surplus. The words “financed with” are added for clarity.
+
+In subsection (k)(2), the words “that is financed with” are added for clarity.
+
+In subsection (l)(3)(A), the words “for obligation by the recipient”, “a period of”, and “the close of” are omitted as surplus.
+
+#### Pub. L. 104–287
+This amends 49:5338(g)(2) to correct an erroneous cross-reference.
+
+#### References in Text
+Section 20005(b) of the Federal Public Transportation Act of 2012, referred to in subsecs. (a)(1), (2)(B), is section 20005(b) of Pub. L. 112–141, which is set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+Section 601 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (i)(1)(D), is section 601 of div. B of Pub. L. 110–432, Oct. 16, 2008, 122 Stat. 4968, which is not classified to the Code.
+
+#### Amendments
+2012—Pub. L. 112–141, § 20028, amended section generally. Prior to amendment, section related to authorizations and consisted of subsecs. (a) to (g).
+
+Subsec. (b)(1)(G). Pub. L. 112–141, § 113006(a)(1), added subpar. (G) and struck out former subpar. (G) which read as follows: “$6,270,423,750 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§ 1(c), 306(a)(1), temporarily added subpar. (G), which made available $6,354,029,400 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012, and struck out former subpar. (G) which read as follows: “$6,270,423,750 for the period beginning on October 1, 2011, and ending on June 30, 2012.” See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(1), added subpar. (G) and struck out former subpar. (G) which read as follows: “$4,180,282,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+Subsec. (b)(2)(A). Pub. L. 112–141, § 113006(a)(2)(A), substituted “and $113,500,000 for each of fiscal years 2009 through 2012” for “$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(A), temporarily substituted “$86,260,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(A), substituted “$113,500,000 for each of fiscal years 2009 through 2011, and $85,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$113,500,000 for each of fiscal years 2009 and 2010, $113,500,000 for fiscal year 2011, and $56,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(B). Pub. L. 112–141, § 113006(a)(2)(B), substituted “and $4,160,365,000 for each of fiscal years 2009 through 2012” for “$4,160,365,000 for each of fiscal years 2009 through 2011, and $3,120,273,750 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(B), temporarily substituted “$3,161,877,400 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$3,120,273,750 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(B), substituted “$4,160,365,000 for each of fiscal years 2009 through 2011, and $3,120,273,750 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$4,160,365,000 for each of fiscal years 2009 and 2010, $4,160,365,000 for fiscal year 2011, and $2,080,182,500 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(C). Pub. L. 112–141, § 113006(a)(2)(C), substituted “and $51,500,000 for each of fiscal years 2009 through 2012” for “$51,500,000 for each of fiscal years 2009 through 2011, and $38,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(C), temporarily substituted “$39,140,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$38,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(C), substituted “$51,500,000 for each of fiscal years 2009 through 2011, and $38,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$51,500,000 for each of fiscal years 2009 and 2010, $51,500,000 for fiscal year 2011, and $25,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(D). Pub. L. 112–141, § 113006(a)(2)(D), substituted “and $1,666,500,000 for each of fiscal years 2009 through 2012” for “$1,666,500,000 for each of fiscal years 2009 through 2011, and $1,249,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(D), temporarily substituted “$1,266,540,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$1,249,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(D), substituted “$1,666,500,000 for each of fiscal years 2009 through 2011, and $1,249,875,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$1,666,500,000 for each of fiscal years 2009 and 2010, $1,666,500,000 for fiscal year 2011, and $833,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(E). Pub. L. 112–141, § 113006(a)(2)(E), substituted “and $984,000,000 for each of fiscal years 2009 through 2012” for “$984,000,000 for each of fiscal years 2009 through 2011, and $738,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(E), temporarily substituted “$747,840,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$738,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(E), substituted “$984,000,000 for each of fiscal years 2009 through 2011, and $738,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$984,000,000 for each of fiscal years 2009 and 2010, $984,000,000 for fiscal year 2011, and $492,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(F). Pub. L. 112–141, § 113006(a)(2)(F), substituted “and $133,500,000 for each of fiscal years 2009 through 2012” for “$133,500,000 for each of fiscal years 2009 through 2011, and $100,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(F), temporarily substituted “$101,460,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$100,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(F), substituted “$133,500,000 for each of fiscal years 2009 through 2011, and $100,125,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$133,500,000 for each of fiscal years 2009 and 2010, $133,500,000 for fiscal year 2011, and $66,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(G). Pub. L. 112–141, § 113006(a)(2)(G), substituted “and $465,000,000 for each of fiscal years 2009 through 2012” for “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(G), temporarily substituted “$353,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(G), substituted “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$465,000,000 for each of fiscal years 2009 and 2010, $465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(H). Pub. L. 112–141, § 113006(a)(2)(H), substituted “and $164,500,000 for each of fiscal years 2009 through 2012” for “$164,500,000 for each of fiscal years 2009 through 2011, and $123,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(H), temporarily substituted “$125,020,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$123,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(H), substituted “$164,500,000 for each of fiscal years 2009 through 2011, and $123,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$164,500,000 for each of fiscal years 2009 and 2010, $164,500,000 for fiscal year 2011, and $82,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(I). Pub. L. 112–141, § 113006(a)(2)(I), substituted “and $92,500,000 for each of fiscal years 2009 through 2012” for “$92,500,000 for each of fiscal years 2009 through 2011, and $69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(I), temporarily substituted “$70,300,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(I), substituted “$92,500,000 for each of fiscal years 2009 through 2011, and $69,375,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$92,500,000 for each of fiscal years 2009 and 2010, $92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(J). Pub. L. 112–141, § 113006(a)(2)(J), substituted “and $26,900,000 for each of fiscal years 2009 through 2012” for “$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(J), temporarily substituted “$20,444,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(J), substituted “$26,900,000 for each of fiscal years 2009 through 2011, and $20,175,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$26,900,000 for each of fiscal years 2009 and 2010, $26,900,000 for fiscal year 2011, and $13,450,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(K). Pub. L. 112–141, § 113006(a)(2)(K), substituted “for each of fiscal years 2006 through 2012” for “for each of fiscal years 2006 through 2011 and $2,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(K), temporarily substituted “$2,660,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$2,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(K), substituted “for each of fiscal years 2006 through 2011 and $2,625,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “in fiscal year 2006; $3,500,000 in fiscal year 2007; $3,500,000 in fiscal year 2008; $3,500,000 for each of fiscal years 2009 and 2010, $3,500,000 for fiscal year 2011, and $1,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(L). Pub. L. 112–141, § 113006(a)(2)(L), substituted “for each of fiscal years 2006 through 2012” for “for each of fiscal years 2006 through 2011 and $18,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(L), temporarily substituted “$19,000,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$18,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(L), substituted “for each of fiscal years 2006 through 2011 and $18,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “in fiscal year 2006; $25,000,000 in fiscal year 2007; $25,000,000 in fiscal year 2008; $25,000,000 for each of fiscal years 2009 and 2010, $25,000,000 for fiscal year 2011, and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(M). Pub. L. 112–141, § 113006(a)(2)(M), substituted “and $465,000,000 for each of fiscal years 2009 through 2012” for “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(M), temporarily substituted “$353,400,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(M), substituted “$465,000,000 for each of fiscal years 2009 through 2011, and $348,750,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$465,000,000 for each of fiscal years 2009 and 2010, $465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (b)(2)(N). Pub. L. 112–141, § 113006(a)(2)(N), substituted “and $8,800,000 for each of fiscal years 2009 through 2012” for “$8,800,000 for each of fiscal years 2009 through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”.
+
+Pub. L. 112–140, §§ 1(c), 306(a)(2)(N), temporarily substituted “$6,688,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “$6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,”. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(a)(2)(N), substituted “$8,800,000 for each of fiscal years 2009 through 2011, and $6,600,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “$8,800,000 for each of fiscal years 2009 and 2010, $8,800,000 for fiscal year 2011, and $4,400,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,”.
+
+Subsec. (c)(7). Pub. L. 112–141, § 113006(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$1,466,250,000 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§ 1(c), 306(b), temporarily amended par. (7) generally, authorizing $1,485,800,000 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$800,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+Subsec. (d)(1). Pub. L. 112–141, § 113006(c)(1), substituted “through 2011, and $44,000,000 for fiscal year 2012,” for “through 2011, and $33,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions.
+
+Pub. L. 112–140, §§ 1(c), 306(c)(1), temporarily substituted “2011, and $33,440,000 for the period beginning on October 1, 2011, and ending on July 6, 2012,” for “2011, and $33,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” in introductory provisions. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(c)(1), substituted “through 2011, and $33,000,000 for the period beginning on October 1, 2011, and ending on June 30, 2012,” for “and 2010, $69,750,000 for fiscal year 2011, and $29,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 112–141, § 113006(c)(2), added par. (3) and struck out former par. (3) which related to additional authorizations for research and the university centers program.
+
+Pub. L. 112–140, §§ 1(c), 306(c)(2), temporarily added par. (3) which provided additional authorizations for research and the university centers program for the period beginning on Oct. 1, 2011, and ending on July 6, 2012, and temporarily struck out former par. (3) which provided additional authorizations for research and the university centers program for the period beginning on Oct. 1, 2011, and ending on June 30, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(c)(2), added par. (3) and struck out former par. (3) which provided additional authorizations for research and the university centers program.
+
+Subsec. (e)(7). Pub. L. 112–141, § 113006(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$74,034,750 for the period beginning on October 1, 2011, and ending on June 30, 2012.”
+
+Pub. L. 112–140, §§ 1(c), 306(d), temporarily amended par. (7) generally, authorizing $75,021,880 for the period beginning on Oct. 1, 2011, and ending on July 6, 2012. See Effective and Termination Dates of 2012 Amendment note below.
+
+Pub. L. 112–102, § 306(d), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “$49,455,500 for the period beginning on October 1, 2011, and ending on March 31, 2012.”
+
+2011—Subsec. (b)(1)(F). Pub. L. 112–5, § 306(a)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “$3,550,376,000 for the period beginning October 1, 2010, and ending March 4, 2011.”
+
+Subsec. (b)(1)(G). Pub. L. 112–30, § 136(a)(1), added subpar. (G).
+
+Subsec. (b)(2)(A). Pub. L. 112–30, § 136(a)(2)(A), substituted “$113,500,000 for fiscal year 2011, and $56,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $113,500,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(A), substituted “$113,500,000 for fiscal year 2011” for “$48,198,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(B). Pub. L. 112–30, § 136(a)(2)(B), substituted “$4,160,365,000 for fiscal year 2011, and $2,080,182,500 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $4,160,365,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(B), substituted “$4,160,365,000 for fiscal year 2011” for “$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011,”.
+
+Subsec. (b)(2)(C). Pub. L. 112–30, § 136(a)(2)(C), substituted “$51,500,000 for fiscal year 2011, and $25,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $51,500,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(C), substituted “$51,500,000 for fiscal year 2011” for “$21,869,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(D). Pub. L. 112–30, § 136(a)(2)(D), substituted “$1,666,500,000 for fiscal year 2011, and $833,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $1,666,500,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(D), substituted “$1,666,500,000 for fiscal year 2011” for “$707,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(E). Pub. L. 112–30, § 136(a)(2)(E), substituted “$984,000,000 for fiscal year 2011, and $492,000,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $984,000,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(E), substituted “$984,000,000 for fiscal year 2011” for “$417,863,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(F). Pub. L. 112–30, § 136(a)(2)(F), substituted “$133,500,000 for fiscal year 2011, and $66,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $133,500,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(F), substituted “$133,500,000 for fiscal year 2011” for “$56,691,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(G). Pub. L. 112–30, § 136(a)(2)(G), substituted “$465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $465,000,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(G), substituted “$465,000,000 for fiscal year 2011” for “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(H). Pub. L. 112–30, § 136(a)(2)(H), substituted “$164,500,000 for fiscal year 2011, and $82,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $164,500,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(H), substituted “$164,500,000 for fiscal year 2011” for “$69,856,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(I). Pub. L. 112–30, § 136(a)(2)(I), substituted “$92,500,000 for fiscal year 2011, and $46,250,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $92,500,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(I), substituted “$92,500,000 for fiscal year 2011” for “$39,280,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(J). Pub. L. 112–30, § 136(a)(2)(J), substituted “$26,900,000 for fiscal year 2011, and $13,450,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $26,900,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(J), substituted “$26,900,000 for fiscal year 2011” for “$11,423,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(K). Pub. L. 112–30, § 136(a)(2)(K), substituted “$3,500,000 for fiscal year 2011, and $1,750,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $3,500,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(K), substituted “$3,500,000 for fiscal year 2011” for “$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(L). Pub. L. 112–30, § 136(a)(2)(L), substituted “$25,000,000 for fiscal year 2011, and $12,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $25,000,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(L), substituted “$25,000,000 for fiscal year 2011” for “$10,616,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(M). Pub. L. 112–30, § 136(a)(2)(M), substituted “$465,000,000 for fiscal year 2011, and $232,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $465,000,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(M), substituted “$465,000,000 for fiscal year 2011” for “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (b)(2)(N). Pub. L. 112–30, § 136(a)(2)(N), substituted “$8,800,000 for fiscal year 2011, and $4,400,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $8,800,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(a)(2)(N), substituted “$8,800,000 for fiscal year 2011” for “$3,736,000 for the period beginning October 1, 2010 and ending March 4, 2011,”.
+
+Subsec. (c)(6). Pub. L. 112–5, § 306(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$849,315,000 for the period of October 1, 2010 through March 4, 2011.”
+
+Subsec. (c)(7). Pub. L. 112–30, § 136(b), added par. (7).
+
+Subsec. (d)(1). Pub. L. 112–30, § 136(c)(1), in introductory provisions, substituted “$69,750,000 for fiscal year 2011, and $29,500,000 for the period beginning on October 1, 2011, and ending on March 31, 2012,” for “and $69,750,000 for fiscal year 2011”.
+
+Pub. L. 112–5, § 306(c)(1)(A), substituted “$69,750,000 for fiscal year 2011” for “$29,619,000 for the period beginning October 1, 2010 and ending March 4, 2011,” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 112–5, § 306(c)(1)(B), substituted “each of fiscal years 2009, 2010, and 2011” for “fiscal year 2009”.
+
+Subsec. (d)(2)(A). Pub. L. 112–30, § 136(c)(2), substituted “2012” for “2011” wherever appearing.
+
+Subsec. (d)(2)(A)(i) to (iii). Pub. L. 112–5, § 306(c)(2)(A), substituted “2011” for “2009”.
+
+Subsec. (d)(2)(A)(v) to (viii). Pub. L. 112–5, § 306(c)(2)(B), substituted “through 2011” for “and 2009”.
+
+Subsec. (d)(3). Pub. L. 112–30, § 136(c)(3), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “If the Secretary determines that a project or activity described in paragraph (2) received sufficient funds in fiscal year 2010, or a previous fiscal year, to carry out the purpose for which the project or activity was authorized, the Secretary may not allocate any amounts under paragraph (2) for the project or activity for fiscal year 2011, or any subsequent fiscal year.”
+
+Pub. L. 112–5, § 306(c)(3), added par. (3) and struck out former par. (3) which provided additional authorizations for certain activities and projects.
+
+Subsec. (e)(6). Pub. L. 112–5, § 306(d), amended par. (6) generally. Prior to amendment, text read as follows: “$42,003,000 for the period of October 1, 2010 through March 4, 2011.”
+
+Subsec. (e)(7). Pub. L. 112–30, § 136(d), added par. (7).
+
+2010—Subsec. (b)(1)(E). Pub. L. 111–147, § 436(a)(1), added subpar. (E).
+
+Subsec. (b)(1)(F). Pub. L. 111–322, § 2306(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “$2,090,141,250 for the period beginning October 1, 2010, and ending December 31, 2010.”
+
+Pub. L. 111–147, § 436(a)(1), added subpar. (F).
+
+Subsec. (b)(2)(A). Pub. L. 111–322, § 2306(a)(2)(A), substituted “$48,198,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$28,375,000 for the period beginning October 1, 2010, and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(A), substituted “$113,500,000 for each of fiscal years 2009 and 2010, and $28,375,000 for the period beginning October 1, 2010, and ending December 31, 2010,” for “and $113,500,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(B). Pub. L. 111–322, § 2306(a)(2)(B), substituted “$1,766,730,000 for the period beginning October 1, 2010, and ending March 4, 2011” for “$1,040,091,250 for the period beginning October 1, 2010, and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(B), substituted “$4,160,365,000 for each of fiscal years 2009 and 2010, and $1,040,091,250 for the period beginning October 1, 2010, and ending December 31, 2010,” for “and $4,160,365,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(C). Pub. L. 111–322, § 2306(a)(2)(C), substituted “$21,869,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$12,875,000 for the period beginning October 1, 2010, and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(C), substituted “$51,500,000 for each of fiscal years 2009 and 2010, and $12,875,000 for the period beginning October 1, 2010, and ending December 31, 2010,” for “and $51,500,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(D). Pub. L. 111–322, § 2306(a)(2)(D), substituted “$707,691,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$416,625,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(D), substituted “$1,666,500,000 for each of fiscal years 2009 and 2010, and $416,625,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $1,666,500,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(E). Pub. L. 111–322, § 2306(a)(2)(E), substituted “$417,863,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$246,000,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(E), substituted “$984,000,000 for each of fiscal years 2009 and 2010, and $246,000,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $984,000,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(F). Pub. L. 111–322, § 2306(a)(2)(F), substituted “$56,691,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$33,375,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(F), substituted “$133,500,000 for each of fiscal years 2009 and 2010, and $33,375,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $133,500,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(G). Pub. L. 111–322, § 2306(a)(2)(G), substituted “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$116,250,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(G), substituted “$465,000,000 for each of fiscal years 2009 and 2010, and $116,250,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $465,000,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(H). Pub. L. 111–322, § 2306(a)(2)(H), substituted “$69,856,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$41,125,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(H), substituted “$164,500,000 for each of fiscal years 2009 and 2010, and $41,125,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $164,500,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(I). Pub. L. 111–322, § 2306(a)(2)(I), substituted “$39,280,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$23,125,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(I), substituted “$92,500,000 for each of fiscal years 2009 and 2010, and $23,125,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $92,500,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(J). Pub. L. 111–322, § 2306(a)(2)(J), substituted “$11,423,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$6,725,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(J), substituted “$26,900,000 for each of fiscal years 2009 and 2010, and $6,725,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $26,900,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(K). Pub. L. 111–322, § 2306(a)(2)(K), substituted “$1,486,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$875,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(K), which directed substitution of “$3,500,000 for each of fiscal years 2009 and 2010, and $875,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $3,500,000 for fiscal year 2009”, was executed by making the substitution for “and $3,500,000 in fiscal year 2009”, to reflect the probable intent of Congress.
+
+Subsec. (b)(2)(L). Pub. L. 111–322, § 2306(a)(2)(L), “$10,616,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$6,250,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(L), which directed substitution of “$25,000,000 for each of fiscal years 2009 and 2010, and $6,250,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $25,000,000 for fiscal year 2009”, was executed by making the substitution for “and $25,000,000 in fiscal year 2009”, to reflect the probable intent of Congress.
+
+Subsec. (b)(2)(M). Pub. L. 111–322, § 2306(a)(2)(M), substituted “$197,465,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$116,250,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(M), substituted “$465,000,000 for each of fiscal years 2009 and 2010, and $116,250,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $465,000,000 for fiscal year 2009”.
+
+Subsec. (b)(2)(N). Pub. L. 111–322, § 2306(a)(2)(N), substituted “$3,736,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$2,200,000 for the period beginning October 1, 2010 and ending December 31, 2010”.
+
+Pub. L. 111–147, § 436(a)(2)(N), substituted “$8,800,000 for each of fiscal years 2009 and 2010, and $2,200,000 for the period beginning October 1, 2010 and ending December 31, 2010,” for “and $8,800,000 for fiscal year 2009”.
+
+Subsec. (c)(5). Pub. L. 111–147, § 436(b), added par. (5).
+
+Subsec. (c)(6). Pub. L. 111–322, § 2306(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “$500,000,000 for the period of October 1, 2010 through December 31, 2010.”
+
+Pub. L. 111–147, § 436(b), added par. (6).
+
+Subsec. (d)(1). Pub. L. 111–322, § 2306(c)(1), substituted “$29,619,000 for the period beginning October 1, 2010 and ending March 4, 2011” for “$17,437,500 for the period beginning October 1, 2010, and ending December 31, 2010” in introductory provisions.
+
+Pub. L. 111–147, § 436(c)(1), substituted “$69,750,000 for each of fiscal years 2009 and 2010, and $17,437,500 for the period beginning October 1, 2010, and ending December 31, 2010” for “and $69,750,000 for fiscal year 2009” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 111–147, § 436(c)(2), added par. (3).
+
+Subsec. (d)(3)(A)(ii). Pub. L. 111–322, § 2306(c)(2), amended cl. (ii) generally. Prior to amendment, text read as follows: “Of amounts authorized to be appropriated for the period beginning October 1, 2010, through December 31, 2010, under paragraph (1), the Secretary shall allocate for each of the activities and projects described in subparagraphs (A) through (F) of paragraph (1) an amount equal to 25 percent of the amount allocated for fiscal year 2009 under each such subparagraph.”
+
+Subsec. (d)(3)(B)(ii). Pub. L. 111–322, § 2306(c)(3), amended cl. (ii) generally. Prior to amendment, text read as follows: “Of the amounts allocated under subparagraph (A)(i) for the university centers program under section 5506 for the period beginning October 1, 2010, and ending December 31, 2010, the Secretary shall allocate for each program described in clauses (i) through (iii) and (v) through (viii) of paragraph (2)(A) an amount equal to 25 percent of the amount allocated for fiscal year 2009 under each such clause.”
+
+Subsec. (d)(3)(B)(iii). Pub. L. 111–322, § 2306(c)(4), substituted “2011” for “2010” and “2010” for “2009”.
+
+Subsec. (e)(5). Pub. L. 111–147, § 436(d), added par. (5).
+
+Subsec. (e)(6). Pub. L. 111–322, § 2306(d), amended par. (6) generally. Prior to amendment, text read as follows: “$24,727,750 for the period beginning October 1, 2010, and ending December 31, 2010.”
+
+Pub. L. 111–147, § 436(d), added par. (6).
+
+2008—Subsec. (d)(1)(B). Pub. L. 110–244 substituted “section 5315(b)(2)(P)” for “section 5315(a)(16)”.
+
+2005—Pub. L. 109–59 amended section generally. Prior to amendment, section authorized appropriations and availability of funds to carry out sections 5303 to 5305, 5307 to 5315, 5322, and 5334 of this title for periods ranging from fiscal year 1998 to August 14, 2004.
+
+Subsec. (a)(2). Pub. L. 109–40, § 7(b)(1), substituted “july 30, 2005” for “july 27, 2005” in heading.
+
+Pub. L. 109–37, § 7(b)(1), substituted “july 27, 2005” for “july 21, 2005” in heading.
+
+Pub. L. 109–35, § 7(b)(1), substituted “july 21, 2005” for “july 19, 2005” in heading.
+
+Pub. L. 109–20, § 7(b)(1), substituted “july 19, 2005” for “june 30, 2005” in heading.
+
+Pub. L. 109–14, § 7(b)(1), substituted “june 30, 2005” for “may 31, 2005” in heading.
+
+Subsec. (a)(2)(A)(vii). Pub. L. 109–40, § 7(b)(2), substituted “$2,796,817,658” for “$2,795,000,000” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(b)(2), substituted “$2,795,000,000” for “$2,793,483,000” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(b)(2), substituted “$2,793,483,000” for “$2,675,300,000” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(b)(2), substituted “$2,675,300,000” for “$2,545,785,000” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(b)(2), substituted “$2,545,785,000” for “$2,201,760,000” and “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (a)(2)(B)(vii). Pub. L. 109–40, § 7(b)(3), substituted “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(b)(3), substituted “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(b)(3), substituted “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(b)(3), substituted “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(b)(3), substituted “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (a)(2)(C). Pub. L. 109–40, § 7(b)(4), substituted “July 30, 2005” for “July 27, 2005” in introductory provisions.
+
+Pub. L. 109–37, § 7(b)(4), substituted “July 27, 2005” for “July 21, 2005” in introductory provisions.
+
+Pub. L. 109–35, § 7(b)(4), substituted “July 21, 2005” for “July 19, 2005” in introductory provisions.
+
+Pub. L. 109–20, § 7(b)(4), substituted “July 19, 2005” for “June 30, 2005” in introductory provisions.
+
+Pub. L. 109–14, § 7(b)(4), substituted “June 30, 2005” for “May 31, 2005” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 109–40, § 7(d)(1), substituted “july 30, 2005” for “july 27, 2005” in heading.
+
+Pub. L. 109–37, § 7(d)(1), substituted “july 27, 2005” for “july 21, 2005” in heading.
+
+Pub. L. 109–35, § 7(d)(1), substituted “july 21, 2005” for “july 19, 2005” in heading.
+
+Pub. L. 109–20, § 7(d)(1), substituted “july 19, 2005” for “june 30, 2005” in heading.
+
+Pub. L. 109–14, § 7(d)(1), substituted “june 30, 2005” for “may 31, 2005” in heading.
+
+Subsec. (b)(2)(A)(vii). Pub. L. 109–40, § 7(d)(2), substituted “$2,336,442,169” for “$2,309,000,366” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(d)(2), substituted “$2,309,000,366” for “$2,263,265,142” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(d)(2), substituted “$2,263,265,142” for “$2,235,820,000” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(d)(2), substituted “$2,235,820,000” for “$2,012,985,000” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(d)(2), substituted “$2,012,985,000” for “$1,740,960,000” and “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (b)(2)(B)(vii). Pub. L. 109–40, § 7(d)(3), substituted “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(d)(3), substituted “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(d)(3), substituted “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(d)(3), substituted “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(d)(3), substituted “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (c)(2). Pub. L. 109–40, § 7(e)(1), substituted “july 30, 2005” for “july 27, 2005” in heading.
+
+Pub. L. 109–37, § 7(e)(1), substituted “july 27, 2005” for “july 21, 2005” in heading.
+
+Pub. L. 109–35, § 7(e)(1), substituted “july 21, 2005” for “july 19, 2005” in heading.
+
+Pub. L. 109–20, § 7(e)(1), substituted “july 19, 2005” for “june 30, 2005” in heading.
+
+Pub. L. 109–14, § 7(e)(1), substituted “june 30, 2005” for “may 31, 2005” in heading.
+
+Subsec. (c)(2)(A)(vii). Pub. L. 109–40, § 7(e)(2), substituted “$50,146,668” for “$49,546,681” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(e)(2), substituted “$49,546,681” for “$48,546,727” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(e)(2), substituted “$48,546,727” for “$47,946,667” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(e)(2), substituted “$47,946,667” for “$48,346,668” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(e)(2), substituted “$48,346,668” for “$41,813,334” and “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (c)(2)(B)(vii). Pub. L. 109–40, § 7(e)(3), substituted “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(e)(3), substituted “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(e)(3), substituted “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(e)(3), substituted “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(e)(3), substituted “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (d)(2). Pub. L. 109–40, § 7(f)(1), substituted “july 30, 2005” for “july 27, 2005” in heading.
+
+Pub. L. 109–37, § 7(f)(1), substituted “july 27, 2005” for “july 21, 2005” in heading.
+
+Pub. L. 109–35, § 7(f)(1), substituted “july 21, 2005” for “july 19, 2005” in heading.
+
+Pub. L. 109–20, § 7(f)(1), substituted “july 19, 2005” for “june 30, 2005” in heading.
+
+Pub. L. 109–14, § 7(f)(1), substituted “june 30, 2005” for “may 31, 2005” in heading.
+
+Subsec. (d)(2)(A)(vii). Pub. L. 109–40, § 7(f)(2), substituted “$39,950,343” for “$39,554,804” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(f)(2), substituted “$39,554,804” for “$37,385,434” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(f)(2), substituted “$37,385,434” for “$36,933,334” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(f)(2), substituted “$36,933,334” for “$32,683,333” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(f)(2), substituted “$32,683,333” for “$28,266,667” and “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (d)(2)(B)(vii). Pub. L. 109–40, § 7(f)(3), substituted “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(f)(3), substituted “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(f)(3), substituted “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(f)(3), substituted “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(f)(3), substituted “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (d)(2)(C). Pub. L. 109–40, § 7(f)(4), substituted “July 30, 2005” for “July 27, 2005” in introductory provisions.
+
+Pub. L. 109–37, § 7(f)(4), substituted “July 27, 2005” for “July 21, 2005” in introductory provisions.
+
+Pub. L. 109–35, § 7(f)(4), substituted “July 21, 2005” for “July 19, 2005” in introductory provisions.
+
+Pub. L. 109–20, § 7(f)(4), substituted “July 19, 2005” for “June 30, 2005” in introductory provisions.
+
+Pub. L. 109–14, § 7(f)(4), substituted “June 30, 2005” for “May 31, 2005” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 109–40, § 7(h)(1), substituted “july 30, 2005” for “july 27, 2005” in heading.
+
+Pub. L. 109–37, § 7(h)(1), substituted “july 27, 2005” for “july 21, 2005” in heading.
+
+Pub. L. 109–35, § 7(h)(1), substituted “july 21, 2005” for “july 19, 2005” in heading.
+
+Pub. L. 109–20, § 7(h)(1), substituted “july 19, 2005” for “june 30, 2005” in heading.
+
+Pub. L. 109–14, § 7(h)(1), substituted “june 30, 2005” for “may 31, 2005” in heading.
+
+Subsec. (e)(2)(A). Pub. L. 109–40, § 7(h)(2), substituted “$4,180,822” for “$4,131,508” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(h)(2), substituted “$4,131,508” for “$4,060,000” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(h)(2), substituted “$4,060,000” for “$4,000,000” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(h)(2), substituted “$4,000,000” for “$3,700,000” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(h)(2), substituted “$3,700,000” for “$3,200,000” and “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (e)(2)(B). Pub. L. 109–40, § 7(h)(3), substituted “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(h)(3), substituted “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(h)(3), substituted “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(h)(3), substituted “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(h)(3), substituted “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (e)(2)(C)(i), (iii). Pub. L. 109–40, § 7(h)(4), substituted “July 30, 2005” for “July 27, 2005” in introductory provisions of cl. (i) and in cl. (iii).
+
+Pub. L. 109–37, § 7(h)(4), substituted “July 27, 2005” for “July 21, 2005” in introductory provisions of cl. (i) and in cl. (iii).
+
+Pub. L. 109–35, § 7(h)(4), substituted “July 21, 2005” for “July 19, 2005” in introductory provisions of cl. (i) and in cl. (iii).
+
+Pub. L. 109–20, § 7(h)(4), substituted “July 19, 2005” for “June 30, 2005” in introductory provisions of cl. (i) and in cl. (iii).
+
+Pub. L. 109–14, § 7(h)(4), substituted “June 30, 2005” for “May 31, 2005” in introductory provisions of cl. (i) and in cl. (iii).
+
+Subsec. (f)(2). Pub. L. 109–42, § 5(a)(1), substituted “august 14” for “july 30” in heading.
+
+Pub. L. 109–40, § 7(j)(1), substituted “july 30, 2005” for “july 27, 2005” in heading.
+
+Pub. L. 109–37, § 7(j)(1), substituted “july 27, 2005” for “july 21, 2005” in heading.
+
+Pub. L. 109–35, § 7(j)(1), substituted “july 21, 2005” for “july 19, 2005” in heading.
+
+Pub. L. 109–20, § 7(j)(1), substituted “july 19, 2005” for “june 30, 2005” in heading.
+
+Pub. L. 109–14, § 7(j)(1), substituted “june 30, 2005” for “may 31, 2005” in heading.
+
+Subsec. (f)(2)(A)(vii). Pub. L. 109–42, § 5(a)(2), substituted “$57,650,686” for “$54,350,686” and “August 14” for “July 30”.
+
+Pub. L. 109–40, § 7(j)(2), substituted “$54,350,686” for “$53,709,604” and “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(j)(2), substituted “$53,709,604” for “$52,780,000” and “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(j)(2), substituted “$52,780,000” for “$52,000,000” and “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(j)(2), substituted “$52,000,000” for “$48,100,000” and “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(j)(2), substituted “$48,100,000” for “$41,600,000” and “June 30, 2005” for “May 31, 2005”.
+
+Subsec. (f)(2)(B)(vii). Pub. L. 109–42, § 5(a)(3), substituted “August 14” for “July 30”.
+
+Pub. L. 109–40, § 7(j)(3), substituted “July 30, 2005” for “July 27, 2005”.
+
+Pub. L. 109–37, § 7(j)(3), substituted “July 27, 2005” for “July 21, 2005”.
+
+Pub. L. 109–35, § 7(j)(3), substituted “July 21, 2005” for “July 19, 2005”.
+
+Pub. L. 109–20, § 7(j)(3), substituted “July 19, 2005” for “June 30, 2005”.
+
+Pub. L. 109–14, § 7(j)(3), substituted “June 30, 2005” for “May 31, 2005”.
+
+2004—Subsec. (a)(2). Pub. L. 108–310, § 8(c)(1), inserted “and for the period of october 1, 2004, through may 31, 2005” after “through 2004” in heading.
+
+Pub. L. 108–280, § 7(c)(1), struck out “2003 and for the period of october 1, 2003, through july 31,” before “2004” in heading.
+
+Pub. L. 108–263, § 7(c)(1), substituted “july 31, 2004” for “june 30, 2004” in heading.
+
+Pub. L. 108–224, § 7(c)(1), substituted “june 30, 2004” for “april 30, 2004” in heading.
+
+Pub. L. 108–202, § 9(c)(1), substituted “april 30, 2004” for “february 29, 2004” in heading.
+
+Subsec. (a)(2)(A)(vi). Pub. L. 108–280, § 7(c)(2), added cl. (vi) and struck out former cl. (vi) which read: “$2,544,233,267 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(c)(2), substituted “$2,544,233,267” for “$2,289,809,940” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(c)(2), substituted “$2,289,809,940” for “$1,780,963,287” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(c)(2), substituted “$1,780,963,287” for “$1,292,948,344” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (a)(2)(A)(vii). Pub. L. 108–310, § 8(c)(2)–(4), added cl. (vii).
+
+Subsec. (a)(2)(B)(vi). Pub. L. 108–280, § 7(c)(3), added cl. (vi) and struck out former cl. (vi) which read: “$636,058,317 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(c)(3), substituted “$636,058,317” for “$572,452,485” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(c)(3), substituted “$572,452,485” for “$445,240,822” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(c)(3), substituted “$445,240,822” for “$323,459,169” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (a)(2)(B)(vii). Pub. L. 108–310, § 8(c)(2), (3), (5), added cl. (vii).
+
+Subsec. (a)(2)(C). Pub. L. 108–310, § 8(c)(6), substituted “2005 (other than for the period of October 1, 2004, through May 31, 2005)” for “2003” in introductory provisions.
+
+Pub. L. 108–280, § 7(c)(4), substituted “each of fiscal years 1999 through 2003” for “a fiscal year (other than for the period of October 1, 2003, through July 31, 2004)” in introductory provisions.
+
+Pub. L. 108–263, § 7(c)(4), substituted “July 31, 2004” for “June 30, 2004” in introductory provisions.
+
+Pub. L. 108–224, § 7(c)(4), substituted “June 30, 2004” for “April 30, 2004” in introductory provisions.
+
+Pub. L. 108–202, § 9(c)(4), substituted “April 30, 2004” for “February 29, 2004” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 108–310, § 8(e)(1), inserted “and for the period of october 1, 2004, through may 31, 2005” after “through 2004” in heading.
+
+Pub. L. 108–280, § 7(e)(1), struck out “2003 and for the period of october 1, 2003, through july 31,” before “2004” in heading.
+
+Pub. L. 108–263, § 7(e)(1), substituted “july 31, 2004” for “june 30, 2004” in heading.
+
+Pub. L. 108–224, § 7(e)(1), substituted “june 30, 2004” for “april 30, 2004” in heading.
+
+Pub. L. 108–202, § 9(e)(1), substituted “april 30, 2004” for “february 29, 2004” in heading.
+
+Subsec. (b)(2)(A)(vi). Pub. L. 108–280, § 7(e)(2), added cl. (vi) and struck out former cl. (vi) which read: “$2,079,325,834 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(e)(2), substituted “$2,079,325,834” for “$1,871,393,250” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(e)(2), substituted “$1,871,393,250” for “$1,819,410,104” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(e)(2), substituted “$1,819,410,104” for “$1,022,503,342” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (b)(2)(A)(vii). Pub. L. 108–310, § 8(e)(2)–(4), added cl. (vii).
+
+Subsec. (b)(2)(B)(vi). Pub. L. 108–280, § 7(e)(3), added cl. (vi) and struck out former cl. (vi) which read: “$519,831,458 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(e)(3), substituted “$519,831,458” for “$467,848,313” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(e)(3), substituted “$467,848,313” for “$363,882,021” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(e)(3), substituted “$363,882,021” for “$255,801,669” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (b)(2)(B)(vii). Pub. L. 108–310, § 8(e)(2), (3), (5), added cl. (vii).
+
+Subsec. (c)(2). Pub. L. 108–310, § 8(f)(1), inserted “and for the period of october 1, 2004, through may 31, 2005” after “through 2004” in heading. See Codification note above.
+
+Pub. L. 108–280, § 7(f)(1), struck out “2003 and for the period of october 1, 2003, through july 31,” before “2004” in heading.
+
+Pub. L. 108–263, § 7(f)(1), substituted “july 31, 2004” for “june 30, 2004” in heading.
+
+Pub. L. 108–224, § 7(f)(1), substituted “june 30, 2004” for “april 30, 2004” in heading.
+
+Pub. L. 108–202, § 9(f)(1), substituted “april 30, 2004” for “february 29, 2004” in heading.
+
+Subsec. (c)(2)(A)(vi). Pub. L. 108–280, § 7(f)(2), added cl. (vi) and struck out former cl. (vi) which read: “$48,545,217 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(f)(2), substituted “$48,545,217” for “$43,690,695” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(f)(2), substituted “$43,690,695” for “$33,981,652” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(f)(2), substituted “$33,981,652” for “$24,636,667” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (c)(2)(A)(vii). Pub. L. 108–310, § 8(f)(2)–(4), added cl. (vii). See Codification note above.
+
+Subsec. (c)(2)(B)(vi). Pub. L. 108–280, § 7(f)(3), added cl. (vi) and struck out former cl. (vi) which read: “$11,929,200 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(f)(3), substituted “$11,929,200” for “$10,736,280” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(f)(3), substituted “$10,736,280” for “$8,350,440” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(f)(3), substituted “$8,350,440” for “$6,100,000” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (c)(2)(B)(vii). Pub. L. 108–310, § 8(f)(2), (3), (5), added cl. (vii). See Codification note above.
+
+Subsec. (c)(2)(C). Pub. L. 108–310, § 8(f)(6), inserted “or any portion of a fiscal year” after “for a fiscal year” in introductory provisions. See Codification note above.
+
+Pub. L. 108–280, § 7(f)(4), struck out “or any portion of a fiscal year” after “for a fiscal year” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 108–310, § 8(g)(1), inserted “and for the period of october 1, 2004, through may 31, 2005” after “through 2004” in heading.
+
+Pub. L. 108–280, § 7(g)(1), struck out “2003 and for the period of october 1, 2003, through july 31,” before “2004” in heading.
+
+Pub. L. 108–263, § 7(g)(1), substituted “july 31, 2004” for “june 30, 2004” in heading.
+
+Pub. L. 108–224, § 7(g)(1), substituted “june 30, 2004” for “april 30, 2004” in heading.
+
+Pub. L. 108–202, § 9(g)(1), substituted “april 30, 2004” for “february 29, 2004” in heading.
+
+Subsec. (d)(2)(A)(vi). Pub. L. 108–280, § 7(g)(2), added cl. (vi) and struck out former cl. (vi) which read: “$34,959,183 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(g)(2), substituted “$34,959,183” for “$31,463,265” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(g)(2), substituted “$31,463,265” for “$24,471,428” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(g)(2), substituted “$24,471,428” for “$16,536,667” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (d)(2)(A)(vii). Pub. L. 108–310, § 8(g)(2)–(4), added cl. (vii).
+
+Subsec. (d)(2)(B)(vi). Pub. L. 108–280, § 7(g)(3), added cl. (vi) and struck out former cl. (vi) which read: “$8,946,900 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(g)(3), substituted “$8,946,900” for “$8,052,210” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(g)(3), substituted “$8,052,210” for “$6,262,830” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(g)(3), substituted “$6,262,830” for “$4,095,000” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (d)(2)(B)(vii). Pub. L. 108–310, § 8(g)(2), (3), (5), added cl. (vii).
+
+Subsec. (d)(2)(C). Pub. L. 108–310, § 8(g)(6), inserted “(other than for the period of October 1, 2004, through May 31, 2005)” after “a fiscal year” in introductory provisions.
+
+Pub. L. 108–280, § 7(g)(4), struck out “(other than for the period of October 1, 2003, through July 31, 2004)” after “a fiscal year”.
+
+Pub. L. 108–263, § 7(g)(4), substituted “July 31, 2004” for “June 30, 2004” in introductory provisions.
+
+Pub. L. 108–224, § 7(g)(4), substituted “June 30, 2004” for “April 30, 2004” in introductory provisions.
+
+Pub. L. 108–202, § 9(g)(4), substituted “April 30, 2004” for “February 29, 2004” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 108–310, § 8(i)(1), inserted “and for the period of october 1, 2004, through may 31, 2005” after “2004” in heading.
+
+Pub. L. 108–280, § 7(i)(1), struck out “2003 and for the period of october 1, 2003, through july 31,” before “2004” in heading.
+
+Pub. L. 108–263, § 7(i)(1), substituted “july 31, 2004” for “june 30, 2004” in heading.
+
+Pub. L. 108–224, § 7(i)(1), substituted “june 30, 2004” for “april 30, 2004” in heading.
+
+Pub. L. 108–202, § 9(i)(1), substituted “april 30, 2004” for “february 29, 2004” in heading.
+
+Subsec. (e)(2)(A). Pub. L. 108–310, § 8(i)(2), inserted “and $3,200,000 for the period of October 1, 2004, through May 31, 2005” after “2004”.
+
+Pub. L. 108–280, § 7(i)(2), struck out “2003 and $3,976,400 for the period of October 1, 2003, through July 31,” before “2004”.
+
+Pub. L. 108–263, § 7(i)(2), substituted “$3,976,400” for “$3,578,760” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(i)(2), substituted “$3,578,760” for “$2,783,480” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(i)(2), substituted “$2,783,480” for “$2,020,833” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (e)(2)(B). Pub. L. 108–310, § 8(i)(3), inserted “and $800,000 for the period of October 1, 2004, through May 31, 2005” after “2004”.
+
+Pub. L. 108–280, § 7(i)(3), struck out “2003 and $994,100 for the period of October 1, 2003, through July 31,” before “2004”.
+
+Pub. L. 108–263, § 7(i)(3), substituted “$994,100” for “$894,690” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(i)(3), substituted “$894,690” for “$695,870” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(i)(3), substituted “$695,870” for “$505,833” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (e)(2)(C)(i), (iii). Pub. L. 108–310, § 8(i)(4), inserted “(other than for the period of October 1, 2004, through May 31, 2005)” after “fiscal year”.
+
+Pub. L. 108–280, § 7(i)(4), struck out “(other than for the period of October 1, 2003, through July 31, 2004)” after “fiscal year”.
+
+Pub. L. 108–263, § 7(i)(4), substituted “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(i)(4), substituted “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(i)(4), substituted “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (f)(2). Pub. L. 108–310, § 8(k)(1), inserted “and for the period of october 1, 2004, through may 31, 2005” after “2004” in heading.
+
+Pub. L. 108–280, § 7(k)(1), struck out “2003 and for the period of october 1, 2003, through july 31,” before “2004” in heading.
+
+Pub. L. 108–263, § 7(k)(1), substituted “july 31, 2004” for “june 30, 2004” in heading.
+
+Pub. L. 108–224, § 7(k)(1), substituted “june 30, 2004” for “april 30, 2004” in heading.
+
+Pub. L. 108–202, § 9(k)(1), substituted “april 30, 2004” for “february 29, 2004” in heading.
+
+Subsec. (f)(2)(A)(vi). Pub. L. 108–280, § 7(k)(2), added cl. (vi) and struck out former cl. (vi) which read: “$50,036,366 for the period of October, 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(k)(2), substituted “$50,036,366” for “$45,032,730” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(k)(2), substituted “$45,032,730” for “$35,025,457” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(k)(2), substituted “$35,025,457” for “$24,585,834” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (f)(2)(A)(vii). Pub. L. 108–310, § 8(k)(2)–(4), added cl. (vii).
+
+Subsec. (f)(2)(B)(vi). Pub. L. 108–280, § 7(k)(3), added cl. (vi) and struck out former cl. (vi) which read: “$12,509,093 for the period of October 1, 2003, through July 31, 2004.”
+
+Pub. L. 108–263, § 7(k)(3), substituted “$12,509,093” for “$11,258,183” and “July 31, 2004” for “June 30, 2004”.
+
+Pub. L. 108–224, § 7(k)(3), substituted “$11,258,183” for “$8,756,364” and “June 30, 2004” for “April 30, 2004”.
+
+Pub. L. 108–202, § 9(k)(3), substituted “$8,756,364” for “$6,150,833” and “April 30, 2004” for “February 29, 2004”.
+
+Subsec. (f)(2)(B)(vii). Pub. L. 108–310, § 8(k)(2), (3), (5), added cl. (vii).
+
+2003—Subsec. (a)(2). Pub. L. 108–88, § 8(c)(1), inserted “and for the period of october 1, 2003, through february 29, 2004” after “2003” in heading.
+
+Subsec. (a)(2)(A)(vi). Pub. L. 108–88, § 8(c)(2)–(4), added cl. (vi).
+
+Subsec. (a)(2)(B)(vi). Pub. L. 108–88, § 8(c)(2), (3), (5), added cl. (vi).
+
+Subsec. (a)(2)(C). Pub. L. 108–88, § 8(c)(6), inserted “(other than for the period of October 1, 2003, through February 29, 2004)” after “a fiscal year” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 108–88, § 8(e)(1), inserted “and for the period of october 1, 2003, through february 29, 2004” after “2003” in heading.
+
+Subsec. (b)(2)(A)(vi). Pub. L. 108–88, § 8(e)(2)–(4), added cl. (vi).
+
+Subsec. (b)(2)(B)(vi). Pub. L. 108–88, § 8(e)(2), (3), (5), added cl. (vi).
+
+Subsec. (c)(2). Pub. L. 108–88, § 8(f), which directed the amendment of section 5338(c)(2) by inserting “and for the period of october 1, 2003, through february 29, 2004” after “2003” in heading, by adding cl. (vi) to subpars. (A) and (B), and by inserting “or any portion of a fiscal year” after “fiscal year” in introductory provisions of subpar. (C), without specifying that title 49 of the United States Code was to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
+
+Subsec. (d)(2). Pub. L. 108–88, § 8(g)(1), inserted “and for the period of october 1, 2003, through february 29, 2004” after “2003” in heading.
+
+Subsec. (d)(2)(A)(vi). Pub. L. 108–88, § 8(g)(2)–(4), added cl. (vi).
+
+Subsec. (d)(2)(B)(vi). Pub. L. 108–88, § 8(g)(2), (3), (5), added cl. (vi).
+
+Subsec. (d)(2)(C). Pub. L. 108–88, § 8(g)(6), inserted “(other than for the period of October 1, 2003, through February 29, 2004)” after “a fiscal year” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 108–88, § 8(i)(1), inserted “and for the period of october 1, 2003, through february 29, 2004” after “2003” in heading.
+
+Subsec. (e)(2)(A). Pub. L. 108–88, § 8(i)(2), inserted “and $2,020,833 for the period of October 1, 2003, through February 29, 2004” after “2003”.
+
+Subsec. (e)(2)(B). Pub. L. 108–88, § 8(i)(3), inserted “and $505,833 for the period of October 1, 2003, through February 29, 2004” after “2003”.
+
+Subsec. (e)(2)(C)(i), (iii). Pub. L. 108–88, § 8(i)(4), inserted “(other than for the period of October 1, 2003, through February 29, 2004)” after “fiscal year”.
+
+Subsec. (f)(2). Pub. L. 108–88, § 8(k)(1), inserted “and for the period of october 1, 2003, through february 29, 2004” after “2003” in heading.
+
+Subsec. (f)(2)(A)(vi). Pub. L. 108–88, § 8(k)(2)–(4), added cl. (vi).
+
+Subsec. (f)(2)(B)(vi). Pub. L. 108–88, § 8(k)(2), (3), (5), added cl. (vi).
+
+1998—Pub. L. 105–178, § 3029(a), reenacted section catchline without change and amended text generally, substituting provisions relating to authorizations for Federal transit programs for fiscal years 1998 to 2003 for provisions relating to authorizations for Federal transit programs for fiscal years ending Sept. 30, 1993 to 1997 and for period from Oct. 1, 1997 to Mar. 31, 1998.
+
+Subsec. (c)(2)(A). Pub. L. 105–178, § 3029(c)(1)–(5), as added by Pub. L. 105–206, substituted “$42,200,000” for “$43,200,000”, “$48,400,000” for “$46,400,000”, “$50,200,000” for “$51,200,000”, “$53,800,000” for “$52,800,000”, and “$58,600,000” for “$57,600,000” in cls. (i) to (v), respectively.
+
+Subsec. (d)(2)(C)(iii). Pub. L. 105–178, § 3029(c)(6), as added by Pub. L. 105–206, inserted “, including not more than $1,000,000 shall be available to carry out section 5315(a)(16)” before semicolon.
+
+Subsec. (e)(1). Pub. L. 105–178, § 3029(c)(7)(A), (B), as added by Pub. L. 105–206, substituted “Subject to paragraph (2)(C), there are” for “There are” and “5505” for “5317(b)”.
+
+Subsec. (e)(2)(A). Pub. L. 105–178, § 3029(c)(7)(A), (C)(i), as added by Pub. L. 105–206, substituted “Subject to subparagraph (C), there shall” for “There shall” and “5505” for “5317(b)”.
+
+Subsec. (e)(2)(B). Pub. L. 105–178, § 3029(c)(7)(A), (C)(ii), as added by Pub. L. 105–206, substituted “Subject to subparagraph (C), in addition” for “In addition” and “5505” for “5317(b)”.
+
+Subsec. (e)(2)(C). Pub. L. 105–178, § 3029(c)(7)(C)(iii), as added by Pub. L. 105–206, added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 105–178, § 3029(c)(7)(D), as added by Pub. L. 105–206, added par. (3).
+
+Subsec. (g)(2). Pub. L. 105–178, § 3029(c)(8), as added by Pub. L. 105–206, substituted “(c)(1), (c)(2)(B), (d)(1), (d)(2)(B), (e)(1), (e)(2)(B), (f)(1), (f)(2)(B),” for “(c)(2)(B), (d)(2)(B), (e)(2)(B), (f)(2)(B),”.
+
+Subsec. (h). Pub. L. 105–178, § 3029(c)(9), as added by Pub. L. 105–206, inserted “under the Transportation Discretionary Spending Guarantee for the Mass Transit Category” after “subsections (a) through (f)” in introductory provisions.
+
+Subsec. (h)(5)(A) to (E). Pub. L. 105–178, § 3029(c)(10), as added by Pub. L. 105–206, added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
+
+“(A) for fiscal year 1999, $600,000,000;
+
+“(B) for fiscal year 2000, $610,000,000;
+
+“(C) for fiscal year 2001, $620,000,000;
+
+“(D) for fiscal year 2002, $630,000,000; and
+
+“(E) for fiscal year 2003, $630,000,000;”.
+
+1997—Subsec. (a)(1)(F). Pub. L. 102–240, § 3049(c)(1)(A), as added by Pub. L. 105–130, added subpar. (F).
+
+Subsec. (a)(2)(F). Pub. L. 102–240, § 3049(c)(1)(B), as added by Pub. L. 105–130, added subpar. (F).
+
+Subsec. (b)(1)(F). Pub. L. 102–240, § 3049(c)(2), as added by Pub. L. 105–130, added subpar. (F).
+
+Subsec. (c). Pub. L. 102–240, § 3049(c)(3), as added by Pub. L. 105–130, inserted “and not more than $1,500,000 for the period of October 1, 1997, through March 31, 1998,” after “1997,”.
+
+Subsec. (e). Pub. L. 102–240, § 3049(c)(4), as added by Pub. L. 105–130, inserted “and not more than $3,000,000 is available from the Fund (except the Account) for the Secretary for the period of October 1, 1997, through March 31, 1998,” after “1997,”.
+
+Subsec. (h)(3). Pub. L. 102–240, § 3049(c)(5), as added by Pub. L. 105–130, inserted before period at end “and $3,000,000 is available for section 5317 for the period of October 1, 1997, through March 31, 1998”.
+
+Subsec. (j)(5)(D). Pub. L. 102–240, § 3049(c)(6), as added by Pub. L. 105–130, added subpar. (D).
+
+Subsec. (k). Pub. L. 102–240, § 3049(c)(7), as added by Pub. L. 105–130, substituted “(e), or (m) of this section” for “or (e) of this section”.
+
+Subsec. (m). Pub. L. 102–240, § 3049(c)(8), as added by Pub. L. 105–130, added subsec. (m).
+
+1996—Subsec. (g)(2). Pub. L. 104–287 substituted “section 5311(b)(2)” for “section 5308(b)(2)”.
+
+#### Effective and Termination Dates of 2012 Amendment
+Amendment by section 20028 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+Amendment by section 113006 of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under [section 5305 of this title](./chapter-053-public-transportation.md#section-5305).
+
+Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1998 Amendment
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under [section 5303 of this title](./chapter-053-public-transportation.md#section-5303).
+
+#### Allocations for National Research and Technology Programs
+Pub. L. 109–59, title III, § 3046, Aug. 10, 2005, 119 Stat. 1706, as amended by Pub. L. 110–244, title II, § 201(o)(6), June 6, 2008, 122 Stat. 1615; Pub. L. 111–147, title IV, § 437(f), Mar. 18, 2010, 124 Stat. 93; Pub. L. 111–322, title II, § 2307(f), Dec. 22, 2010, 124 Stat. 3530; Pub. L. 112–5, title III, § 307(f), Mar. 4, 2011, 125 Stat. 21; Pub. L. 112–30, title I, § 137(f), Sept. 16, 2011, 125 Stat. 355; Pub. L. 112–102, title III, § 307(f), Mar. 30, 2012, 126 Stat. 281; Pub. L. 112–140, title III, § 307(f), June 29, 2012, 126 Stat. 402; Pub. L. 112–141, div. G, title III, § 113007(f), July 6, 2012, 126 Stat. 988, which allocated amounts appropriated pursuant to former subsec. (d) of this section for various national research and technology programs, was repealed by Pub. L. 112–141, div. B, § 20002(c)(5), July 6, 2012, 126 Stat. 622.
+
+#### Adjustments for Surface Transportation Extension Act of 1997
+Pub. L. 105–178, title III, § 3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in former [section 5337(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5337/a&num=0&edition=prelim).
+
+#### Training and Curriculum Development
+Pub. L. 105–178, title III, § 3015(d), as added by Pub. L. 105–206, title IX, § 9009(k)(2), July 22, 1998, 112 Stat. 857, and amended by Pub. L. 108–88, § 8(j)(3), Sept. 30, 2003, 117 Stat. 1124; Pub. L. 108–202, § 9(j)(2), Feb. 29, 2004, 118 Stat. 487; Pub. L. 108–224, § 7(j)(2), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, § 7(j)(2), June 30, 2004, 118 Stat. 707; Pub. L. 108–280, § 7(j)(2), July 30, 2004, 118 Stat. 884; Pub. L. 108–310, § 8(j)(3), Sept. 30, 2004, 118 Stat. 1157; Pub. L. 109–14, § 7(i)(2), May 31, 2005, 119 Stat. 332; Pub. L. 109–20, § 7(i)(2), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, § 7(i)(2), July 20, 2005, 119 Stat. 388; Pub. L. 109–37, § 7(i)(2), July 22, 2005, 119 Stat. 403; Pub. L. 109–40, § 7(i)(2), July 28, 2005, 119 Stat. 419, specified how funds made available by former subsec. (e)(2)(C)(iii) of this section could be used by certain institutions for transportation research, training, and curriculum development.
+
+#### Programs of Federal Transit Administration; Limitation on Obligations
+Pub. L. 109–115, div. A, title I, § 140, Nov. 30, 2005, 119 Stat. 2420, which provided that the limitations on obligations for the programs of the Federal Transit Administration were not to apply to any authority under this section previously made available for obligation, or to any other authority previously made available for obligation, was from the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006 and was repeated in provisions of subsequent appropriations acts which are not set out in the Code.
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. H, title I, § 160, Dec. 8, 2004, 118 Stat. 3227.
+
+Pub. L. 108–199, div. F, title I, § 160, Jan. 23, 2004, 118 Stat. 308.
+
+Pub. L. 108–7, div. I, title III, § 309, Feb. 20, 2003, 117 Stat. 407.
+
+Pub. L. 107–87, title III, § 309, Dec. 18, 2001, 115 Stat. 855.
+
+Pub. L. 106–346, § 101(a) [title III, § 311], Oct. 23, 2000, 114 Stat. 1356, 1356A–27.
+
+Pub. L. 106–69, title III, § 311, Oct. 9, 1999, 113 Stat. 1018.
+
+Pub. L. 105–277, div. A, § 101(g) [title III, § 311], Oct. 21, 1998, 112 Stat. 2681–439, 2681–467.
+
+Pub. L. 105–66, title III, § 311, Oct. 27, 1997, 111 Stat. 1443.
+
+Pub. L. 104–205, title III, § 311, Sept. 30, 1996, 110 Stat. 2971.
+
+Pub. L. 104–50, title III, § 312, Nov. 15, 1995, 109 Stat. 455.
+
+Pub. L. 103–331, title III, § 313, Sept. 30, 1994, 108 Stat. 2490.
+
+Pub. L. 103–122, title III, § 313, Oct. 27, 1993, 107 Stat. 1221.
+
+Pub. L. 102–388, title III, § 313, Oct. 6, 1992, 106 Stat. 1546.
+
+Pub. L. 102–143, title III, § 313, Oct. 28, 1991, 105 Stat. 941, as amended by Pub. L. 102–240, title III, §§ 3003(b), 3004(b), Dec. 18, 1991, 105 Stat. 2088.
+
+Pub. L. 101–516, title III, § 313, Nov. 5, 1990, 104 Stat. 2181.
+
+Pub. L. 101–164, title III, § 314, Nov. 21, 1989, 103 Stat. 1094.
+
+Pub. L. 100–457, title III, § 314, Sept. 30, 1988, 102 Stat. 2148.
+
+Pub. L. 100–202, § 101(l) [title III, § 314], Dec. 22, 1987, 101 Stat. 1329–358, 1329–379.
+
+Pub. L. 99–500, § 101(l) [H.R. 5205, title III, § 317], Oct. 18, 1986, 100 Stat. 1783–308, and Pub. L. 99–591, § 101(l) [H.R. 5205, title III, § 317], Oct. 30, 1986, 100 Stat. 3341–308.
+
+Pub. L. 99–190, § 101(e) [title III, § 322], Dec. 19, 1985, 99 Stat. 1267, 1287.
+
+
+<a id="section-5339"></a>
+## § 5339. Bus and bus facilities formula grants
+**(a) General Authority.—** The Secretary may make grants under this section to assist eligible recipients described in subsection (c)(1) in financing capital projects—
+
+(1) to replace, rehabilitate, and purchase buses and related equipment; and
+
+(2) to construct bus-related facilities.
+
+**(b) Grant Requirements.—** The requirements of section 5307 apply to recipients of grants made under this section.
+
+**(c) Eligible Recipients and Subrecipients.—**
+
+(1) **Recipients.—** — Eligible recipients under this section are designated recipients that operate fixed route bus service or that allocate funding to fixed route bus operators.
+
+(2) **Subrecipients.—** — A designated recipient that receives a grant under this section may allocate amounts of the grant to subrecipients that are public agencies or private nonprofit organizations engaged in public transportation.
+
+**(d) Distribution of Grant Funds.—** Funds allocated under section 5338(a)(2)(J) shall be distributed as follows:
+
+(1) **National distribution.—** — $65,500,000 shall be allocated to all States and territories, with each State receiving $1,250,000 and each territory receiving $500,000.
+
+(2) **Distribution using population and service factors.—** — The remainder of the funds not otherwise distributed under paragraph (1) shall be allocated pursuant to the formula set forth in section 5336 other than subsection (b).
+
+**(e) Transfers of Apportionments.—**
+
+(1) **Transfer flexibility for national distribution funds.—** — The Governor of a State may transfer any part of the State’s apportionment under subsection (d)(1) to supplement amounts apportioned to the State under [section 5311(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5311/c&num=0&edition=prelim) or amounts apportioned to urbanized areas under subsections (a) and (c) of [section 5336 of this title](./chapter-053-public-transportation.md#section-5336).
+
+(2) **Transfer flexibility for population and service factors funds.—** — The Governor of a State may expend in an urbanized area with a population of less than 200,000 any amounts apportioned under subsection (d)(2) that are not allocated to designated recipients in urbanized areas with a population of 200,000 or more.
+
+**(f) Government’s Share of Costs.—**
+
+(1) **Capital projects.—** — A grant for a capital project under this section shall be for 80 percent of the net capital costs of the project. A recipient of a grant under this section may provide additional local matching amounts.
+
+(2) **Remaining costs.—** — The remainder of the net project cost shall be provided—
+
+  (A) in cash from non-Government sources other than revenues from providing public transportation services;
+
+  (B) from revenues derived from the sale of advertising and concessions;
+
+  (C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital; or
+
+  (D) from amounts received under a service agreement with a State or local social service agency or private social service organization.
+
+**(g) Period of Availability to Recipients.—** Amounts made available under this section may be obligated by a recipient for 3 years after the fiscal year in which the amount is apportioned. Not later than 30 days after the end of the 3-year period described in the preceding sentence, any amount that is not obligated on the last day of that period shall be added to the amount that may be apportioned under this section in the next fiscal year.
+
+**(h) Definitions.—** For purposes of this section:
+
+(1) The term “State” means a State of the United States.
+
+(2) The term “territory” means the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the United States Virgin Islands.
+
+### Statutory Notes
+
+#### Amendments
+2012—Pub. L. 112–141 amended section generally. Prior to amendment, section related to alternatives analysis program.
+
+2005—Pub. L. 109–59 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Effective for funds not yet expended on the effective date of this section, the Federal share for funds under this chapter for a grantee named in section 603(14) of Public Law 97–468 shall be the same as the Federal share under 23 U.S.C. section 120(b) for Federal aid highway funds apportioned to the State in which it operates.”
+
+#### Effective Date of 2012 Amendment
+Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.
+
+
+<a id="section-5340"></a>
+## § 5340. Apportionments based on growing States and high density States formula factors
+**(a) Definition.—** In this section, the term “State” shall mean each of the 50 States of the United States.
+
+**(b) Allocation.—** Of the amounts made available for each fiscal year under section 5338(b)(2)(M),11 See References in Text note below. the Secretary shall apportion—
+
+(1) 50 percent to States and urbanized areas in accordance with subsection (c); and
+
+(2) 50 percent to States and urbanized areas in accordance with subsection (d).
+
+**(c) Growing State Apportionments.—**
+
+(1) **Apportionment among states.—** — The amounts apportioned under subsection (b)(1) shall provide each State with an amount equal to the total amount apportioned multiplied by a ratio equal to the population of that State forecast for the year that is 15 years after the most recent decennial census, divided by the total population of all States forecast for the year that is 15 years after the most recent decennial census. Such forecast shall be based on the population trend for each State between the most recent decennial census and the most recent estimate of population made by the Secretary of Commerce.
+
+(2) **Apportionments between urbanized areas and other than urbanized areas in each state.—**
+
+  (A) *In general.—* — The Secretary shall apportion amounts to each State under paragraph (1) so that urbanized areas in that State receive an amount equal to the amount apportioned to that State multiplied by a ratio equal to the sum of the forecast population of all urbanized areas in that State divided by the total forecast population of that State. In making the apportionment under this subparagraph, the Secretary shall utilize any available forecasts made by the State. If no forecasts are available, the Secretary shall utilize data on urbanized areas and total population from the most recent decennial census.
+
+  (B) *Remaining amounts.—* — Amounts remaining for each State after apportionment under subparagraph (A) shall be apportioned to that State and added to the amount made available for grants under section 5311.
+
+(3) **Apportionments among urbanized areas in each state.—** — The Secretary shall apportion amounts made available to urbanized areas in each State under paragraph (2)(A) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (2)(A) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
+
+**(d) High Density State Apportionments.—** Amounts to be apportioned under subsection (b)(2) shall be apportioned as follows:
+
+(1) **Eligible states.—** — The Secretary shall designate as eligible for an apportionment under this subsection all States with a population density in excess of 370 persons per square mile.
+
+(2) **State urbanized land factor.—** — For each State qualifying for an apportionment under paragraph (1), the Secretary shall calculate an amount equal to—
+
+  (A) the total land area of the State (in square miles); multiplied by
+
+  (B) 370; multiplied by
+
+  (C)
+
+    (i) the population of the State in urbanized areas; divided by
+
+    (ii) the total population of the State.
+
+(3) **State apportionment factor.—** — For each State qualifying for an apportionment under paragraph (1), the Secretary shall calculate an amount equal to the difference between the total population of the State less the amount calculated in paragraph (2).
+
+(4) **State apportionment.—** — Each State qualifying for an apportionment under paragraph (1) shall receive an amount equal to the amount to be apportioned under this subsection multiplied by the amount calculated for the State under paragraph (3) divided by the sum of the amounts calculated under paragraph (3) for all States qualifying for an apportionment under paragraph (1).
+
+(5) **Apportionments among urbanized areas in each state.—** — The Secretary shall apportion amounts made available to each State under paragraph (4) so that each urbanized area receives an amount equal to the amount apportioned under paragraph (4) multiplied by a ratio equal to the population of each urbanized area divided by the sum of populations of all urbanized areas in the State. Amounts apportioned to each urbanized area shall be added to amounts apportioned to that urbanized area under section 5336, and made available for grants under section 5307.
+
+### Statutory Notes
+
+#### References in Text
+Section 5338, referred to in subsec. (b), was amended generally by Pub. L. 112–141, div. B, § 20028, July 6, 2012, 126 Stat. 726, and, as so amended, no longer contains a subsec. (b)(2)(M). However, allocations in accordance with this section are described elsewhere in that section.

@@ -1,0 +1,1816 @@
+---
+title: 16
+chapter: '41'
+heading: COOPERATIVE FORESTRY ASSISTANCE
+section_count: 25
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
+---
+<a id="section-2101"></a>
+## § 2101. Findings, purpose, and policy
+**(a) Findings** Congress finds that—
+
+(1) most of the productive forest land of the United States is in private, State, and local governmental ownership, and the capacity of the United States to produce renewable forest resources is significantly dependent on such non-Federal forest lands;
+
+(2) adequate supplies of timber and other forest resources are essential to the United States, and adequate supplies are dependent on efficient methods for establishing, managing, and harvesting trees and processing, marketing, and using wood and wood products;
+
+(3) nearly one-half of the wood supply of the United States comes from nonindustrial private timberlands and such percentage could rise with expanded assistance programs;
+
+(4) managed forest lands provide habitats for fish and wildlife, as well as aesthetics, outdoor recreation opportunities, and other forest resources;
+
+(5) the soil, water, and air quality of the United States can be maintained and improved through good stewardship of privately held forest resources;
+
+(6) insects and diseases affecting trees occur and sometimes create emergency conditions on all land, whether Federal or non-Federal, and efforts to prevent and control such insects and diseases often require coordinated action by both Federal and non-Federal land managers;
+
+(7) fires in rural areas threaten human lives, property, forests and other resources, and Federal-State cooperation in forest fire protection has proven effective and valuable;
+
+(8) trees and forests are of great environmental and economic value to urban areas;
+
+(9) managed forests contribute to improving the quality, quantity, and timing of water yields that are of broad benefit to society;
+
+(10) over half the forest lands of the United States are in need of some type of conservation treatment;
+
+(11) forest landowners are being faced with increased pressure to convert their forest land to development and other purposes;
+
+(12) increased population pressures and user demands are being placed on private, as well as public, landholders to provide a wide variety of products and services, including fish and wildlife habitat, aesthetic quality, and recreational opportunities;
+
+(13) stewardship of privately held forest resources requires a long-term commitment that can be fostered through local, State, and Federal governmental actions;
+
+(14) the Department of Agriculture, through the coordinated efforts of its agencies with forestry responsibilities, cooperating with other Federal agencies, State foresters, and State political subdivisions, has the expertise and experience to assist private landowners in achieving individual goals and public benefits regarding forestry;
+
+(15) the products and services resulting from nonindustrial private forest land stewardship provide income and employment that contribute to the economic health and diversity of rural communities; 11 See 1990 Amendment note below.
+
+(16) sustainable agroforestry systems and tree planting in semiarid lands can improve environmental quality and maintain farm yields and income; and 1
+
+(18) 22 So in original. Probably should be “(17)”. the same forest resource supply, protection, and management issues that exist in the United States are also present on an international scale, and the forest and rangeland renewable resources of the world are threatened by deforestation due to conversion to agriculture of lands better suited to other purposes, over-grazing, over-harvesting, and other causes which pose a direct adverse threat to people, the global environment, and the world economy.1
+
+**(b) Purpose** It is the purpose of this chapter to authorize the Secretary of Agriculture (hereafter in this chapter referred to as the “Secretary”), with respect to non-Federal forest lands in the United States, and forest lands in foreign countries, of the United States, to assist in—
+
+(1) the establishment of a coordinated and cooperative Federal, State, and local forest stewardship program for management of the non-Federal forest lands;
+
+(2) the encouragement of the production of timber;
+
+(3) the prevention and control of insects and diseases affecting trees and forests;
+
+(4) the prevention and control of rural fires;
+
+(5) the efficient utilization of wood and wood residues, including the recycling of wood fiber;
+
+(6) the improvement and maintenance of fish and wildlife habitat;
+
+(7) the planning and conduct of urban forestry programs;
+
+(8) broadening existing forest management, fire protection, and insect and disease protection programs on non-Federal forest lands to meet the multiple use objectives of landowners in an environmentally sensitive manner;
+
+(9) providing opportunities to private landowners to protect ecologically valuable and threatened non-Federal forest lands; and
+
+(10) strengthening educational, technical, and financial assistance programs that provide assistance to owners of non-Federal forest lands in the United States, and forest lands in foreign countries,.33 So in original.
+
+**(c) Priorities** In allocating funds appropriated or otherwise made available under this chapter, the Secretary shall focus on the following national private forest conservation priorities, notwithstanding other priorities specified elsewhere in this chapter:
+
+(1) Conserving and managing working forest landscapes for multiple values and uses.
+
+(2) Protecting forests from threats, including catastrophic wildfires, hurricanes, tornados, windstorms, snow or ice storms, flooding, drought, invasive species, insect or disease outbreak, or development, and restoring appropriate forest types in response to such threats.
+
+(3) Enhancing public benefits from private forests, including air and water quality, soil conservation, biological diversity, carbon storage, forest products, forestry-related jobs, production of renewable energy, wildlife, wildlife corridors and wildlife habitat, and recreation.
+
+**(d) Reporting requirement** Not later than September 30, 2011, the Secretary shall submit to Congress a report describing how funds were used under this chapter, and through other programs administered by the Secretary, to address the national priorities specified in subsection (c) and the outcomes achieved in meeting the national priorities.
+
+**(e) Policy** It is the policy of Congress that it is in the national interest for the Secretary to work through and in cooperation with State foresters, or equivalent State officials, nongovernmental organizations, and the private sector in implementing Federal programs affecting non-Federal forest lands.
+
+**(f) Construction** This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (b) to (d) and (f), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Pub. L. 101–513 and Pub. L. 101–624 were approved by the President after Congress adjourned and in reverse order of passage by Congress. Accordingly, the amendments made by Pub. L. 101–624 were executed to text prior to the amendments made by Pub. L. 101–513 to reflect the probable intent of Congress.
+
+#### Amendments
+2008—Subsecs. (c) to (f). Pub. L. 110–246, § 8001, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively.
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings and declarations, and statements of purpose and national interest, and which related to application with forest and rangeland renewable resources provisions. See Codification note above.
+
+Pub. L. 101–513, § 607(b)(1), directed the amendment of subsec. (a) by striking out “and” at end of par. (16), substituting “; and” for period at end of par. (17), and adding par. (18) at end. The amendment of pars. (16) and (17) was executed to pars. (15) and (16) to reflect the probable intent of Congress. See Codification note above.
+
+Pub. L. 101–513, § 607(b)(2), which directed the amendment of subsec. (b) by inserting “in the United States, and forest lands in foreign countries,” after “non-Federal forest lands,” the first place it appears and in paragraph (10), was executed by making the insertion after “non-Federal forest lands” to reflect the probable intent of Congress. See Codification note above.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+#### Effective Date
+Section 17, formerly section 14, of Pub. L. 95–313, as renumbered § 17 by Pub. L. 101–624, title XII, § 1215(1), Nov. 28, 1990, 104 Stat. 3525, provided that: “The provisions of this Act [see Short Title note below] shall become effective October 1, 1978.”
+
+#### Short Title of 1990 Amendment
+Pub. L. 101–624, title XII, § 1201, Nov. 28, 1990, 104 Stat. 3521, provided that: “This title [enacting sections 582a–8, 1648, 1649, 1674a, 2103a to 2103c, 2106a, 2113, and 2114 of this title, amending this section and sections 1642, 1672, 1674, 2102 to 2106, and 2108 to 2110 of this title, and enacting provisions set out as notes under this section and sections 582a, 1601, 1642, and 2112 of this title] may be cited as the ‘Forest Stewardship Act of 1990’.”
+
+#### Short Title
+Pub. L. 95–313, § 1, July 1, 1978, 92 Stat. 365, provided: “That this Act [enacting this chapter, amending sections 1510 and 1606 of this title, repealing sections 565, 566, 567, 568c to 568e, 594–1 to 594–5, 594a, and 1509 of this title, and sections 2651 to 2654 of Title 7, Agriculture, enacting provisions set out as notes under this section and [section 1606 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1606), and repealing provisions set out as notes under sections 568c and 594–1 of this title] may be cited as the ‘Cooperative Forestry Assistance Act of 1978’.”
+
+#### America the Beautiful Act of 1990
+Pub. L. 101–624, title XII, subtitle C, Nov. 28, 1990, 104 Stat. 3553–3557, as amended by Pub. L. 102–237, title X, § 1018(e), Dec. 13, 1991, 105 Stat. 1905, provided that: “SEC. 1261. SHORT TITLE.“This subtitle may be cited as the ‘America the Beautiful Act of 1990’. “SEC. 1262. FINDINGS.“Congress finds that—“(1) trees and forests provide beauty and diversity to both rural and urban landscapes; “(2) trees and forests protect the United States’s soil, water, and wetland resources by filtering runoff and preventing erosion; “(3) trees and forests provide food and cover for many species of wildlife; “(4) trees and forests provide shade, block winds, and add moisture to the air, thereby mitigating the urban ‘heat island’ effect and significantly reducing energy use; “(5) trees and forests make important contributions to the environmental, social, and economic well-being of both rural and urban areas across the United States; and “(6) stewardship of trees and forests could be significantly enhanced by encouraging, promoting, and supporting partnerships and community service projects involving individuals, youth groups, organizations, businesses and governments at all levels. “SEC. 1263. PURPOSES.“The purposes of this subtitle are to—“(1) authorize the President to designate a private nonprofit foundation as eligible for a one-time grant from the Secretary of Agriculture, to be used for promoting public awareness and a spirit of volunteerism, soliciting private sector contributions, and overseeing the use of these contributions to encourage tree planting projects in communities and urban areas; “(2) promote the principles of basic forest stewardship through the nationwide planting, improvement, and maintenance of trees in order to increase reforestation, enhance the environmental and aesthetic qualities of the United States’s rural and urban areas, and reduce global carbon dioxide levels; “(3) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others, and enter into cost-sharing agreements with individuals, for the purpose of encouraging owners of nonindustrial private lands to plant and maintain trees and improve forests in rural areas; and “(4) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others for the purpose of encouraging units of local government, civic groups, and individuals to plant and maintain trees and improve forests in communities and urban areas. “SEC. 1264. TREE PLANTING FOUNDATION.“(a) Purpose.—The purpose of this section is to authorize the President to designate a private nonprofit Foundation as eligible to receive a grant from the Department of Agriculture to be used—“(1) to provide grants, including matching grants, to qualifying nonprofit organizations (including youth groups), municipalities, counties, towns and townships for the implementation of programs to promote public awareness and a spirit of volunteerism in support of tree planting, maintenance, management, protection, and cultivation projects in rural areas, communities and urban areas throughout the United States; “(2) to solicit public and private sector contributions through the mobilization of individuals, businesses, governments, and community organizations with the goal of increasing the number of trees planted, maintained, managed, and protected in rural areas, communities and urban environments; “(3) to accept and administer public and private gifts and make grants, including matching grants, to encourage local participation, for the planting, maintenance, management, protection, and cultivation of trees; and “(4) to ensure that our descendants will be able to share their ancestors’ pride when referring to their land as ‘America the Beautiful’. “(b) Authority.—The President is authorized to designate a private nonprofit organization (hereafter in this section referred to as the ‘Foundation’) as eligible to receive funds pursuant to subsections (d) and (e) upon determining that such organization can, consistent with its charter, carry out the purposes stated in subsection (a), and that the officers of such organization have the experience and expertise necessary to direct the activities of the organization. Nothing in this section shall be construed to make officers, employees, or members of the board of directors of the Foundation officers or employees of the United States. The Foundation shall be a private and nonprofit organization and not an agency or establishment of the United States. “(c) Implementation.—The Foundation shall carry out this section in accordance with the purposes stated in subsection (a). “(d) Funding.—For fiscal year 1991, the Secretary is authorized to make a grant of not to exceed $25,000,000 to the Foundation. “(e) Use of Funds.—Funds made available pursuant to subsection (d) shall be granted to the Foundation by the Secretary to enable the Foundation to carry out the purposes specified in subsection (a). “(f) Interest.—Notwithstanding any other provision of law, the Foundation may hold funds made available pursuant to subsection (e) in interest-bearing accounts prior to the disbursement of the funds for purposes specified in subsection (a) and may retain to carry out such purposes any interest earned on the deposits. “(g) Limitations on Uses of Funds.—“(1) In general.—The Foundation may use funds provided by this section only for making grants to qualified organizations, municipalities, counties, towns and townships for the implementation of projects and activities that are consistent with the purposes specified in subsection (a). “(2) Qualified organizations.—For the purposes of this section, qualified organizations shall consist of those organizations that meet the requirements of section 501(c)(3) of the Internal Revenue Code of 1986 ([26 U.S.C. 501(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim)) and have demonstrated a capability to implement the project or activity for which the Foundation funds will be used. “(h) Compensation from Outside Sources.—An officer or employee of the Foundation may not receive any salary or other compensation for services rendered to the Foundation from any source other than the Foundation. “(i) Stock and Dividends.—The Foundation shall not issue any shares of stock or declare or pay any dividends. “(j) Lobbying.—The Foundation shall not engage in lobbying or propaganda for the purpose of influencing legislation and shall not participate or intervene in any political campaign on behalf of any candidate for public office. “(k) Salary; Travel and Expenses; Conflicts of Interest.—“(1) Personal benefit from funds.—No part of the funds of the Foundation shall inure to the benefit of any board member, officer, or employee of the Foundation, except as salary or reasonable compensation for services or expenses. “(2) Travel and expense reimbursement.—Compensation for board members shall be limited to reimbursement for reasonable costs of travel and expenses. “(3) Conflicts of interest.—No director, officer, or employee of the Foundation shall participate, directly or indirectly, in the consideration or determination of any question before the Foundation affecting—“(A) the financial interests of the director, officer, or employee; or “(B) the interests of any corporation, partnership, entity, or organization in which such director, officer, or employee—“(i) is an officer, director, or trustee; or “(ii) has any direct or indirect financial interest. “(l) Records; Audits.—The Foundation shall ensure that—“(1) each recipient of assistance provided through the Foundation under this section maintains, for at least 5 years after the receipt of the assistance, separate accounts with respect to the assistance and such records as may be reasonably necessary to disclose fully—“(A) the amount and the disposition by the recipient of the proceeds of the assistance; “(B) the total cost of the project or undertaking in connection with which the assistance is given or used; “(C) the amount and nature of that portion of the cost of the project or undertaking supplied by other sources; and “(D) such other records as will facilitate an effective audit; and “(2) the Foundation and any duly authorized representative of the Foundation shall have access, for the purpose of audit and examination, to any books, documents, papers, and records of the recipient that are pertinent to assistance provided through the Foundation under this section. “(m) Audits.—“(1) Independent audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (e), and for the succeeding 5 fiscal years, the accounts of the Foundation shall be audited annually in accordance with generally accepted auditing standards by an independent certified public accountant or an independent licensed public accountant certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by subsection (n). “(2) Agency audits.—For the fiscal year in which the Foundation receives the grant awarded under subsection (d), and for the succeeding 5 fiscal years, the financial transactions undertaken pursuant to this section by the Foundation may be audited by any agency designated by the President. “(n) Annual Reports.—“(1) In general.—Not later than 3 months after the conclusion of each fiscal year, the Foundation shall publish an annual report that includes a comprehensive and detailed report of the operations, activities, financial condition, and accomplishments of the Foundation under this subtitle during the fiscal year. “(2) Termination.—The obligation of the Foundation to publish annual reports pursuant to this subsection shall terminate after publication of the report incorporating the findings of the final audit in accordance with procedures required by subsection (l). “(o) Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds under this section may not be commercially harvested and sold for Christmas trees. “(p) Authorization of Appropriations.—There is authorized to be appropriated $25,000,000 to be granted by the Secretary of Agriculture to the Foundation. All funds appropriated under this section may remain available until expended. “SEC. 1265. RURAL TREE PLANTING AND FOREST MANAGEMENT PROGRAM.“The Secretary of Agriculture is authorized to establish a rural tree planting and forest management program as a special component of the forest stewardship program and the stewardship incentive program established under sections 5 and 6 of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2102](./chapter-041-cooperative-forestry-assistance.md#section-2102)) [[16 U.S.C. 2103a](./chapter-041-cooperative-forestry-assistance.md#section-2103a), 2103b] (as amended by subtitle A). Such program shall terminate on December 31, 2001. “SEC. 1266. COMMUNITY TREE PLANTING AND IMPROVEMENT PROGRAM.“The Secretary of Agriculture is authorized to establish a community tree planting and improvement program as a special component of the urban and community forestry assistance program established under section 9 of the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2105](./chapter-041-cooperative-forestry-assistance.md#section-2105)) (as amended by section 1219). Such program shall terminate on December 31, 2001.”
+
+#### Tree Planting Initiative
+Pub. L. 99–198, title XII, § 1256, as added by Pub. L. 101–624, title XIV, § 1441(a), Nov. 28, 1990, 104 Stat. 3601, set forth policy relating to maintenance, afforestation, and reforestation of forest lands and provisions relating to implementation of policy and agreements with State forestry agencies, prior to repeal by Pub. L. 104–127, title III, § 336(e), Apr. 4, 1996, 110 Stat. 1007.
+
+#### Transfer of Forest Tree Nursery Facilities to States
+Pub. L. 87–492, June 25, 1962, 76 Stat. 107, provided: “That the Congress recognizes that for many years the United States and certain States have cooperated in the production of tree planting stock for use in the reforestation of the public and private lands of the Nation; that the program of production of tree planting stock which was initiated and pursued under the Soil Bank Act ([7 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1801&num=0&edition=prelim) et seq.) [repealed] was carried on under written agreements which provided for (a) cooperation between the Forest Service, on behalf of the United States, and the States which participated in the program, (b) payments to said States for costs and expenses incurred in the development of nursery facilities, (c) the holding of such funds by the States in trust for the purpose of carrying out the provisions of said agreements, and (d) restoration to the trust fund of an amount equal to the residual value of any supplies, materials, equipment, or improvements acquired or constructed with trust funds and transferred to State forestry work other than the soil bank program; that such program under said Soil Bank Act has been discontinued, but the need for the trees continues to be great; that the States and Federal Government are cooperating in the procurement, production, and distribution of forest-tree seeds and plants under section 4 of the Clarke-McNary Act of June 7, 1924 ([16 U.S.C. 567](./chapter-003-forests-forest-service-reforestation-management.md#section-567)), and in the reforestation of lands under title IV of the Agricultural Act of 1956 ([16 U.S.C. 568e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section568e&num=0&edition=prelim) and 568g); and that said participating States need the said supplies, materials, equipment, or improvements for use in connection with their respective forestry programs, and it is in the public interest to permit these States to use said property without the requirement that payment be made for the residual value thereof. “Sec. 2. For the purpose of assisting those States which participated in the program carried on under the Soil Bank Act [section 1801 et seq. of Title 7, Agriculture] [repealed] in continuing the production of needed tree planting stock and in other forestry programs, the Secretary of Agriculture is authorized to permit any supplies, materials, equipment, or improvements acquired or constructed with trust funds under the agreements referred to in section 1 to be used in such State forestry work as may further the objectives of related Federal programs, as he may approve, without the requirement that any payment be made by the State into the trust funds.”
+
+
+<a id="section-2101a"></a>
+## § 2101a. State-wide assessment and strategies for forest resources
+**(a) Assessment and strategies for forest resources** For a State to be eligible to receive funds under the authorities of this chapter, the State forester of that State or equivalent State official shall develop and submit to the Secretary, not later than two years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the following:
+
+(1) A State-wide assessment of forest resource conditions, including—
+
+  (A) the conditions and trends of forest resources in that State;
+
+  (B) the threats to forest lands and resources in that State consistent with the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim);
+
+  (C) any areas or regions of that State that are a priority; and
+
+  (D) any multi-State areas that are a regional priority.
+
+(2) A long-term State-wide forest resource strategy, including—
+
+  (A) strategies for addressing threats to forest resources in the State outlined in the assessment required by paragraph (1); and
+
+  (B) a description of the resources necessary for the State forester or equivalent State official from all sources to address the State-wide strategy.
+
+**(b) Updating** At such times as the Secretary determines to be necessary, the State forester or equivalent State official shall update and resubmit to the Secretary the State-wide assessment and State-wide strategy required by subsection (a).
+
+**(c) Coordination** In developing or updating the State-wide assessment and State-wide strategy required by subsection (a), the State Forester or equivalent State official shall coordinate with—
+
+(1) the State Forest Stewardship Coordinating Committee established for the State under [section 2113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2113/b&num=0&edition=prelim);
+
+(2) the State wildlife agency, with respect to strategies contained in the State wildlife action plans;
+
+(3) the State Technical Committee;
+
+(4) applicable Federal land management agencies; and
+
+(5) for purposes of the Forest Legacy Program under [section 2103c of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103c), the State lead agency designated by the Governor.
+
+**(d) Incorporation of other plans** In developing or updating the State-wide assessment and State-wide strategy required by subsection (a), the State forester or equivalent State official shall incorporate any forest management plan of the State, including community wildfire protection plans and State wildlife action plans.
+
+**(e) Sufficiency** Once approved by the Secretary, a State-wide assessment and State-wide strategy developed under subsection (a) shall be deemed to be sufficient to satisfy all relevant State planning and assessment requirements under this chapter.
+
+**(f) Funding**
+
+(1) **Authorization of appropriations** — There are authorized to be appropriated to carry out this section up to $10,000,000 for each of fiscal years 2008 through 2012.
+
+(2) **Additional funding sources** — In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any other funds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
+
+**(g) Annual report on use of funds** The State forester or equivalent State official shall submit to the Secretary an annual report detailing how funds made available to the State under this chapter are being used.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a), (e), (f)(2), and (g), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
+
+The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2102"></a>
+## § 2102. Rural forestry assistance
+**(a) Assistance to forest landowners and others** The Secretary may provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, and State extension directors, to enable such officials to provide technical information, advice, and related assistance to private forest land owners and managers, vendors, forest resource operators, forest resource professionals, public agencies, and individuals to enable such persons to carry out activities that are consistent with the purposes of this chapter, including—
+
+(1) protecting, maintaining, enhancing, restoring, and preserving forest lands and the multiple values and uses that depend on such lands;
+
+(2) identifying, protecting, maintaining, enhancing, and preserving wildlife and fish species, including threatened and endangered species, and their habitats;
+
+(3) implementing forest management technologies;
+
+(4) selecting, producing, and marketing alternative forest crops, products and services from forest lands;
+
+(5) protecting forest land from damage caused by fire, insects, disease, and damaging weather;
+
+(6) managing the rural-land and urban-land interface to balance the use of forest resources in and adjacent to urban and community areas;
+
+(7) identifying and managing recreational forest land resources;
+
+(8) identifying and protecting the aesthetic character of forest lands;
+
+(9) protecting forest land from conversion to alternative uses; and
+
+(10) the management of resources of forest lands, including—
+
+  (A) the harvesting, processing, and marketing of timber and other forest resources and the marketing and utilization of wood and wood products;
+
+  (B) the conversion of wood to energy for domestic, industrial, municipal, and other uses;
+
+  (C) the planning, management, and treatment of forest land, including site preparation, reforestation, thinning, prescribed burning, and other silvicultural activities designed to increase the quantity and improve the quality of timber and other forest resources;
+
+  (D) ensuring that forest regeneration or reforestation occurs if needed to sustain long-term resource productivity;
+
+  (E) protecting and improving forest soil fertility and the quality, quantity, and timing of water yields; and
+
+  (F) encouraging the investment of a portion of the proceeds from the sale of timber or other forest resources in stewardship activities that preserve, protect, maintain, and enhance their forest land.
+
+**(b) State forestry assistance** The Secretary is authorized to provide financial, technical, and related assistance to State foresters, or equivalent State officials, to—
+
+(1) develop genetically improved tree seeds;
+
+(2) develop and contract for the development of field arboretums, greenhouses, and tree nurseries, in cooperation with a State, to facilitate production and distribution of tree seeds and seedlings in States where the Secretary determines that there is an inadequate capacity to carry out present and future reforestation needs;
+
+(3) procure, produce, and distribute tree seeds and trees for the purpose of establishing forests, windbreaks, shelterbelts, woodlots, and other plantings;
+
+(4) plant tree seeds and seedlings on non-Federal forest lands that are suitable for the production of timber, recreation, and for other benefits associated with the growing of trees;
+
+(5) plan, organize, and implement measures on non-Federal forest lands, including thinning, prescribed burning, and other silvicultural activities designed to increase the quantity and improve the quality of trees and other vegetation, fish and wildlife habitat, and water yielded therefrom; and
+
+(6) protect or improve soil fertility on non-Federal forest lands and the quality, quantity, and timing of water yields therefrom.
+
+**(c) Implementation** In implementing this section, the Secretary shall cooperate with other Federal, State, and local natural resource management agencies, universities and the private sector.
+
+**(d) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+### Statutory Notes
+
+#### Amendments
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions which set forth Congressional findings relating to rural forestry assistance, related to financial, technical, and related assistance to State foresters or equivalent State officials, and authorized appropriations.
+
+
+<a id="section-2103"></a>
+## § 2103. Forest land enhancement program
+**(a) Establishment**
+
+(1) **In general** — The Secretary of Agriculture shall establish a forest land enhancement program—
+
+  (A) to provide financial assistance to State foresters; and
+
+  (B) to encourage the long-term sustainability of nonindustrial private forest lands in the United States by assisting the owners of nonindustrial private forest lands, through State foresters, in more actively managing the nonindustrial private forest lands and related resources of those owners through the use of State, Federal, and private sector resource management expertise, financial assistance, and educational programs.
+
+(2) **Coordination and consultation** — The Secretary, acting through State foresters, shall implement the program—
+
+  (A) in coordination with the State Forest Stewardship Coordinating Committees; and
+
+  (B) in consultation with other Federal, State, and local natural resource management agencies, institutions of higher education, and a broad range of private sector interests.
+
+**(b) Program objectives** In implementing the program, the Secretary shall target resources to achieve the following objectives:
+
+(1) Investing in practices to establish, restore, protect, manage, maintain, and enhance the health and productivity of the nonindustrial private forest lands in the United States for timber, habitat for flora and fauna, soil, water, and air quality, wetlands, and riparian buffers.
+
+(2) Ensuring that afforestation, reforestation, improvement of poorly stocked stands, timber stand improvement, practices necessary to improve seedling growth and survival, and growth enhancement practices occur where needed to enhance and sustain the long-term productivity of timber and nontimber forest resources to help meet future public demand for all forest resources and provide environmental benefits.
+
+(3) Reducing the risks and helping restore, recover, and mitigate the damage to forests caused by fire, insects, invasive species, disease, and damaging weather.
+
+(4) Increasing and enhancing carbon sequestration opportunities.
+
+(5) Enhancing implementation of agroforestry practices.
+
+(6) Maintaining and enhancing the forest landbase and leverage State and local financial and technical assistance to owners that promote the same conservation and environmental values.
+
+(7) Preserving the aesthetic quality of nonindustrial private forest lands and providing opportunities for outdoor recreation.
+
+**(c) State priority plan**
+
+(1) **Development** — The State Forester and State Forest Stewardship Coordinating Committee of a State shall jointly develop and submit to the Secretary a State priority plan that is intended to promote forest management objectives in that State.
+
+(2) **Report** — Not later than September 30, 2006, each State that implemented a State priority plan shall submit to the Secretary a report describing the status of all activities and practices funded under the program as of that date.
+
+**(d) Owner eligibility for assistance**
+
+(1) **Eligibility criteria** — To be eligible for cost-share assistance under the program, an owner of nonindustrial private forest lands shall agree—
+
+  (A) to develop and implement, in cooperation with a State forester, another State official, or a professional resources manager, a management plan that—
+
+    (i) except as provided in paragraph (2) or (3), provides for the treatment of not more than 1,000 acres of nonindustrial private forest lands;
+
+    (ii) is approved by the State forester; and
+
+    (iii) addresses site specific activities and practices; and
+
+  (B) to implement approved activities and practices in a manner consistent with the management plan for a period of not less than 10 years, unless the State forester approves a modification to the plan.
+
+(2) **Public benefit exception** — The Secretary may increase the acreage limitation specified in paragraph (1)(A)(i) to not more than 5,000 acres for an owner of nonindustrial private forest lands if the Secretary, in consultation with the State forester, determines that significant public benefits will accrue as a result of the provision of cost-share assistance under the program for the treatment of the additional acreage.
+
+(3) **Plan development exception** — An owner may receive cost-share assistance under the program for the purpose of developing a management plan under subsection (e) of this section that provides for the treatment of acreage in excess of the acreage limitations specified in paragraphs (1)(A)(i) and (2), except that the owner’s eligibility for cost-share assistance to implement approved activities and practices under the management plan remains subject to the acreage limitation specified in paragraph (1)(A)(i) or, if the Secretary makes the determination described in paragraph (2), the acreage limitation specified in that paragraph.
+
+**(e) Management plan**
+
+(1) **Submission and content** — An owner of nonindustrial private forest lands that seeks to participate in the program shall submit to the State forester of the State in which the lands are located a management plan that—
+
+  (A) identifies and describes projects and activities to be carried out by the owner to protect or enhance soil, water, air, range and aesthetic quality, recreation, timber, water, wetland, or fish and wildlife resources on the lands in a manner that is compatible with the objectives of the owner;
+
+  (B) addresses any criteria established by the State and the applicable Committee; and
+
+  (C) meets the other requirements of this section.
+
+(2) **Lands covered** — At a minimum, the management plan shall apply to those portions of the nonindustrial private forest lands of the owner on which any project or activity funded under the program will be carried out. In a case in which a project or activity may affect acreage outside the portion of the land on which the project or activity is carried out, the management plan shall apply to all lands of the owner that are in forest cover and may be affected by the project or activity.
+
+**(f) Approved activities**
+
+(1) **State list** — The Secretary shall develop for each State a list of approved forest activities and practices eligible for cost-share assistance that meets the purposes of the program. The Secretary shall develop the list for a State in consultation with the State forester and the Committee for that State.
+
+(2) **Types of activities** — Approved activities and practices under paragraph (1) may consist of activities and practices for the following purposes:
+
+  (A) The establishment, management, maintenance, and restoration of forests for shelterbelts, windbreaks, aesthetic quality, and other conservation purposes.
+
+  (B) The sustainable growth and management of forests for timber production.
+
+  (C) The restoration, use, and enhancement of forest wetland and riparian areas.
+
+  (D) The protection of water quality and watersheds through—
+
+    (i) the planting of trees in riparian areas; and
+
+    (ii) the enhanced management and maintenance of native vegetation on land vital to water quality.
+
+  (E) The management, maintenance, restoration, or development of habitat for plants, fish, and wildlife.
+
+  (F) The control, detection, monitoring, and prevention of the spread of invasive species and pests on nonindustrial private forest lands.
+
+  (G) The restoration of nonindustrial private forest land affected by invasive species and pests.
+
+  (H) The conduct of other management activities, such as the reduction of hazardous fuels, that reduce the risks to forests posed by, and that restore, recover, and mitigate the damage to forests caused by, fire or any other catastrophic event, as determined by the Secretary.
+
+  (I) The development of management plans;
+
+  (J) The conduct of energy conservation and carbon sequestration activities.
+
+  (K) The conduct of other activities approved by the Secretary, in consultation with the State forester and the appropriate Committees.
+
+**(g) Reimbursement of eligible activities**
+
+(1) **In general** — In the case of an eligible owner that has an approved management plan, the Secretary shall share the cost of implementing the approved activities and practices that the Secretary determines are appropriate.
+
+(2) **Rate** — The Secretary shall determine the appropriate reimbursement rate for cost-share payments under paragraph (1) and the schedule for making those payments.
+
+(3) **Maximum cost share** — The Secretary shall not make cost-share payments under this subsection to an owner in an amount in excess of 75 percent, or a lower percentage as determined by the State forester, of the total cost to the owner to implement the approved activities and practices under the management plan.
+
+(4) **Aggregate payment limit** — The Secretary shall determine the maximum aggregate amount of cost-share payments that an owner may receive under the program.
+
+(5) **Consultation** — The Secretary shall make determinations under this subsection in consultation with the State forester.
+
+**(h) Recapture**
+
+(1) **In general** — The Secretary shall establish and implement a mechanism to recapture payments made to an owner in the event that the owner fails to implement an approved activity or practice specified in the management plan for which the owner received cost-share payments.
+
+(2) **Additional remedy** — The remedy provided in paragraph (1) is in addition to any other remedy available to the Secretary.
+
+**(i) Distribution of cost-share funds** The Secretary, acting through the State foresters, shall distribute funds available for cost sharing under the program only after giving appropriate consideration to the following factors:
+
+(1) The public benefits that would result from the distribution.
+
+(2) The total acreage of nonindustrial private forest lands in each State.
+
+(3) The potential productivity of those lands, as determined by the Secretary.
+
+(4) The number of owners eligible for cost sharing in each State.
+
+(5) The opportunities to enhance nontimber resources on those lands, including—
+
+  (A) the protection of riparian buffers and forest wetland;
+
+  (B) the preservation of fish and wildlife habitat;
+
+  (C) the enhancement of soil, air, and water quality; and
+
+  (D) the preservation of aesthetic quality and opportunities for outdoor recreation.
+
+(6) The anticipated demand for timber and nontimber resources in each State.
+
+(7) The need to improve forest health to minimize the damaging effects of catastrophic fire, insects, disease, or weather.
+
+(8) The need and demand for agroforestry practices in each State.
+
+(9) The need to maintain and enhance the forest landbase.
+
+(10) The need for afforestation, reforestation, and timber stand improvement.
+
+**(j) Availability of funds** The Secretary shall use $100,000,000 of funds of the Commodity Credit Corporation to carry out the Program during the period beginning on May 13, 2002, and ending on September 30, 2007.
+
+**(k) Definitions** In this section:
+
+(1) **Nonindustrial private forest lands** — The term “nonindustrial private forest lands” means rural lands, as determined by the Secretary, that—
+
+  (A) have existing tree cover or are suitable for growing trees; and
+
+  (B) are owned by any nonindustrial private individual, group, association, corporation, Indian tribe, or other private legal entity so long as the individual, group, association, corporation, tribe, or entity has definitive decision-making authority over the lands.
+
+(2) **Committee** — The terms “State Forest Stewardship Coordinating Committee” and “Committee” means 11 So in original. Probably should be “mean”. a State Forest Stewardship Coordinating Committee established under [section 2113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2113/b&num=0&edition=prelim).
+
+(3) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+
+(4) **Owner** — The term “owner” means an owner of nonindustrial private forest land.
+
+(5) **Program** — The term “program” means the forest land enhancement program established by this section.
+
+(6) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(7) **State forester** — The term “State forester” means the director or other head of a State Forestry Agency or equivalent State official.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2103, Pub. L. 95–313, § 4, July 1, 1978, 92 Stat. 367; Pub. L. 101–624, title XII, §§ 1214, 1224(1), Nov. 28, 1990, 104 Stat. 3525, 3542; Pub. L. 104–127, title III, §§ 336(a)(2)(B), 373, Apr. 4, 1996, 110 Stat. 1005, 1015, related to forestry incentives program, prior to repeal by Pub. L. 107–171, title VIII, § 8001(a), May 13, 2002, 116 Stat. 468.
+
+#### Use of Remaining Funds
+Pub. L. 107–171, title VIII, § 8001(b), May 13, 2002, 116 Stat. 468, provided that: “Notwithstanding the amendment made by subsection (a) [repealing former sections 2103 and 2103b of this title], the Secretary of Agriculture may use funds appropriated for fiscal year 2002 for the forestry incentives program or the stewardship incentive program, but not expended before the date of enactment of this Act [May 13, 2002], to carry out sections 4 and 6 of the Cooperative Forestry Assistance Act of 1978 [former sections 2103 and 2103b of this title], as in effect on the date before the date of enactment of this Act.”
+
+#### Purposes of Forest Land Enhancement Program
+Pub. L. 107–171, title VIII, § 8002(a), May 13, 2002, 116 Stat. 468, provided that: “The purposes of this section [enacting this section and amending [section 6962 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section6962&num=0&edition=prelim), Agriculture] are— “(1) to strengthen the commitment of the Secretary of Agriculture to sustainable forest management to enhance the productivity of timber, fish and wildlife habitat, soil and water quality, wetland, recreational resources, and aesthetic values of forest land; and “(2) to establish a coordinated and cooperative Federal, State, and local sustainable forestry program for the establishment, management, maintenance, enhancement, and restoration of forests on nonindustrial private forest land.”
+
+
+<a id="section-2103a"></a>
+## § 2103a. Forest Stewardship Program
+**(a) Establishment** The Secretary, in consultation with State foresters or equivalent State officials, shall establish a Forest Stewardship Program (hereafter referred to in this section as the “Program”) to encourage the long-term stewardship of nonindustrial private forest lands by assisting owners of such lands to more actively manage their forest and related resources by utilizing existing State, Federal, and private sector resource management expertise and assistance programs.
+
+**(b) Goal** The goal of the Program shall be to enter at least 25,000,000 acres of nonindustrial private forest lands in the Program by December 31, 1995.
+
+**(c) “Nonindustrial private forest lands” defined** For the purposes of this section, the term “nonindustrial private forest lands” means rural, as determined by the Secretary, lands with existing tree cover, or suitable for growing trees, and owned by any private individual, group, association, corporation, Indian tribe, or other private legal entity.
+
+**(d) Implementation** In carrying out the Program the Secretary, in consultation with State foresters or equivalent State officials, shall provide financial, technical, educational, and related assistance to State foresters or equivalent State officials, including assistance to help such State foresters or equivalent officials to provide financial assistance to other State and local natural resource entities, both public and private, and land-grant universities for the delivery of information and professional assistance to owners of nonindustrial private forest lands. Such information and assistance shall be directed to help such owners understand and evaluate alternative actions they might take, including—
+
+(1) managing and enhancing the productivity of timber, fish and wildlife habitat, water quality, wetlands, recreational resources, and the aesthetic value of forest lands;
+
+(2) investing in practices to protect, maintain, and enhance the resources identified in paragraph (1);
+
+(3) ensuring that afforestation, reforestation, improvement of poorly stocked stands, timber stand improvement, practices necessary to improve seedling growth and survival, and growth enhancement practices occur where needed to enhance and sustain the long-term productivity of timber and nontimber forest resources to help meet future public demand for all forest resources and provide the environmental benefits that result; and
+
+(4) protecting their forests from damage caused by fire, insects, disease, and damaging weather.
+
+**(e) Eligibility** All nonindustrial private forest lands that are not in management under Federal, State, or private sector financial and technical assistance programs existing on November 28, 1990, are eligible for assistance under the Program. Nonindustrial private forest lands that are managed under such existing programs are eligible for assistance under the Program if forest management activities are expanded and enhanced and the landowner agrees to meet the requirements of this chapter.
+
+**(f) Duties of owners** To enter forest land into the Program, landowners shall—
+
+(1) prepare and submit to the State forester or equivalent State official a forest stewardship plan that meets the requirements of this section and that—
+
+  (A) is prepared by a professional resource manager;
+
+  (B) identifies and describes actions to be taken by the landowner to protect soil, water, range, aesthetic quality, recreation, timber, water, and fish and wildlife resources on such land in a manner that is compatible with the objectives of the landowner; and
+
+  (C) is approved by the State forester, or equivalent State official; and
+
+(2) agree that all activities conducted on such land shall be consistent with the stewardship plan.
+
+**(g) Stewardship recognition** The Secretary, in consultation with State foresters or equivalent State officials, is encouraged to develop an appropriate recognition program for landowners who practice stewardship management on their lands, with an appropriate, special recognition symbol and title.
+
+**(h) Authorization of appropriations** There are hereby authorized to be appropriated $25,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary thereafter, to carry out this section.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 5 of Pub. L. 95–313 was renumbered section 8 and is classified to [section 2104 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2104).
+
+#### Amendments
+1991—Subsec. (d). Pub. L. 102–237 substituted “State foresters” for “State Foresters” wherever appearing in introductory provisions.
+
+
+<a id="section-2103b"></a>
+## § 2103b. Watershed forestry assistance program
+**(a) Definition of nonindustrial private forest land** In this section, the term “nonindustrial private forest land” means rural land, as determined by the Secretary, that—
+
+(1) has existing tree cover or that is suitable for growing trees; and
+
+(2) is owned by any nonindustrial private individual, group, association, corporation, or other private legal entity, that has definitive decisionmaking authority over the land.
+
+**(b) General authority and purpose** The Secretary, acting through the Chief of the Forest Service and (where appropriate) through the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials at land grant colleges and universities and 1890 institutions for the purpose of expanding State forest stewardship capacities and activities through State forestry best-management practices and other means at the State level to address watershed issues on non-Federal forested land and potentially forested land.
+
+**(c) Technical assistance to protect water quality**
+
+(1) **In general** — The Secretary, in cooperation with State foresters or equivalent State officials, shall engage interested members of the public, including nonprofit organizations and local watershed councils, to develop a program of technical assistance to protect water quality described in paragraph (2).
+
+(2) **Purpose of program** — The program under this subsection shall be designed—
+
+  (A) to build and strengthen watershed partnerships that focus on forested landscapes at the State, regional, and local levels;
+
+  (B) to provide State forestry best-management practices and water quality technical assistance directly to owners of nonindustrial private forest land;
+
+  (C) to provide technical guidance to land managers and policymakers for water quality protection through forest management;
+
+  (D) to complement State and local efforts to protect water quality and provide enhanced opportunities for consultation and cooperation among Federal and State agencies charged with responsibility for water and watershed management; and
+
+  (E) to provide enhanced forest resource data and support for improved implementation and monitoring of State forestry best-management practices.
+
+(3) **Implementation** — In the case of a participating State, the program of technical assistance shall be implemented by State foresters or equivalent State officials.
+
+**(d) Watershed forestry cost-share program**
+
+(1) **In general** — The Secretary shall establish a watershed forestry cost-share program—
+
+  (A) which shall be—
+
+    (i) administered by the Forest Service; and
+
+    (ii) implemented by State foresters or equivalent State officials in participating States; and
+
+  (B) under which funds or other support provided to participating States shall be made available for State forestry best-management practices programs and watershed forestry projects.
+
+(2) **Watershed forestry projects** — The State forester, an equivalent State official of a participating State, or a Cooperative Extension official at a land grant college or university or 1890 institution, in coordination with the State Forest Stewardship Coordinating Committee established under [section 2113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2113/b&num=0&edition=prelim) (or an equivalent committee) for that State, shall make awards to communities, nonprofit groups, and owners of nonindustrial private forest land under the program for watershed forestry projects described in paragraph (3).
+
+(3) **Project elements and objectives** — A watershed forestry project shall accomplish critical forest stewardship, watershed protection, and restoration needs within a State by demonstrating the value of trees and forests to watershed health and condition through—
+
+  (A) the use of trees as solutions to water quality problems in urban and rural areas;
+
+  (B) community-based planning, involvement, and action through State, local, and nonprofit partnerships;
+
+  (C) application of and dissemination of monitoring information on forestry best-management practices relating to watershed forestry;
+
+  (D) watershed-scale forest management activities and conservation planning; and
+
+  (E)
+
+    (i) the restoration of wetland (as defined by the States) and stream-side forests; and
+
+    (ii) the establishment of riparian vegetative buffers.
+
+(4) **Cost-sharing**
+
+  (A) *Federal share*
+
+    (i) *Funds under this subsection* — Funds provided under this subsection for a watershed forestry project may not exceed 75 percent of the cost of the project.
+
+    (ii) *Other Federal funds* — The percentage of the cost of a project described in clause (i) that is not covered by funds made available under this subsection may be paid using other Federal funding sources, except that the total Federal share of the costs of the project may not exceed 90 percent.
+
+  (B) *Form* — The non-Federal share of the costs of a project may be provided in the form of cash, services, or other in-kind contributions.
+
+(5) **Prioritization** — The State Forest Stewardship Coordinating Committee for a State, or equivalent State committee, shall prioritize watersheds in that State to target watershed forestry projects funded under this subsection.
+
+(6) **Watershed forester** — Financial and technical assistance shall be made available to the State Forester or equivalent State official to create a State watershed or best-management practice forester position to—
+
+  (A) lead statewide programs; and
+
+  (B) coordinate watershed-level projects.
+
+**(e) Distribution**
+
+(1) **In general** — Of the funds made available for a fiscal year under subsection (g) of this section, the Secretary shall use—
+
+  (A) at least 75 percent of the funds to carry out the cost-share program under subsection (d) of this section; and
+
+  (B) the remainder of the funds to deliver technical assistance, education, and planning, at the local level, through the State Forester or equivalent State official.
+
+(2) **Special considerations** — Distribution of funds by the Secretary among States under paragraph (1) shall be made only after giving appropriate consideration to—
+
+  (A) the acres of agricultural land, nonindustrial private forest land, and highly erodible land in each State;
+
+  (B) the miles of riparian buffer needed;
+
+  (C) the miles of impaired stream segments and other impaired water bodies where forestry practices can be used to restore or protect water resources;
+
+  (D) the number of owners of nonindustrial private forest land in each State; and
+
+  (E) water quality cost savings that can be achieved through forest watershed management.
+
+**(f) Willing owners**
+
+(1) **In general** — Participation of an owner of nonindustrial private forest land in the watershed forestry assistance program under this section is voluntary.
+
+(2) **Written consent** — The watershed forestry assistance program shall not be carried out on nonindustrial private forest land without the written consent of the owner of, or entity having definitive decisionmaking over, the nonindustrial private forest land.
+
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2004 through 2008.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Prior Provisions
+A prior section 2103b, Pub. L. 95–313, § 6, as added Pub. L. 101–624, title XII, § 1216, Nov. 28, 1990, 104 Stat. 3526, established the Stewardship Incentive Program, prior to repeal by Pub. L. 107–171, title VIII, § 8001(a), May 13, 2002, 116 Stat. 468.
+
+A prior section 6 of Pub. L. 95–313 was renumbered section 9 and is classified to [section 2105 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2105).
+
+#### Amendments
+2008—Subsec. (b). Pub. L. 110–246, § 7511(c)(35), substituted “the National Institute of Food and Agriculture, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or cooperative extension officials” for “the Cooperative State Research, Education, and Extension Service, may provide technical, financial, and related assistance to State foresters, equivalent State officials, or Cooperative Extension officials”.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+Amendment by section 7511(c)(35) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2103c"></a>
+## § 2103c. Forest Legacy Program
+**(a) Establishment and purpose** The Secretary shall establish a program, to be known as the Forest Legacy Program, in cooperation with appropriate State, regional, and other units of government for the purposes of ascertaining and protecting environmentally important forest areas that are threatened by conversion to nonforest uses and, through the use of conservation easements and other mechanisms, for promoting forest land protection and other conservation opportunities. Such purposes shall also include the protection of important scenic, cultural, fish, wildlife, and recreational resources, riparian areas, and other ecological values.
+
+**(b) State and regional forest legacy programs** The Secretary shall exercise the authority under subsection (a) of this section in conjunction with State or regional programs that the Secretary deems consistent with this section.
+
+**(c) Interests in land** In addition to the authorities granted under [section 515 of this title](./chapter-002-national-forests.md#section-515) and [section 428a(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section428a/a&num=0&edition=prelim), the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
+
+**(d) Implementation**
+
+(1) **In general** — Lands and interests therein acquired under subsection (c) of this section may be held in perpetuity for program and easement administration purposes as the Secretary may provide. In administering lands and interests therein under the program, the Secretary shall identify the environmental values to be protected by entry of the lands into the program, management activities which are planned and the manner in which they may affect the values identified, and obtain from the landowner other information determined appropriate for administration and management purposes.
+
+(2) **Initial programs** — Not later than November 28, 1991, the Secretary shall establish a regional program in furtherance of the Northern Forest Lands Study in the States of New York, New Hampshire, Vermont, and Maine under Public Law 100–446. The Secretary shall establish additional programs in each of the Northeast, Midwest, South, and Western regions of the United States, and the Pacific Northwest (including the State of Washington), on the preparation of an assessment of the need for such programs.
+
+**(e) Eligibility** Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under [section 2113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2113/b&num=0&edition=prelim) and similar regional organizations, the Secretary shall establish eligibility criteria for the designation of forest areas from which lands may be entered into the Forest Legacy Program and subsequently select such appropriate areas. To be eligible, such areas shall have significant environmental values or shall be threatened by present or future conversion to nonforest uses. Of land proposed to be included in the Forest Legacy Program, the Secretary shall give priority to lands which can be effectively protected and managed, and which have important scenic or recreational values; riparian areas; fish and wildlife values, including threatened and endangered species; or other ecological values.
+
+**(f) Application** For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
+
+**(g) State consent** Where a State has not approved the acquisition of land under [section 515 of this title](./chapter-002-national-forests.md#section-515), the Secretary shall not acquire lands or interests therein under authority granted by this section outside an area of that State designated as a part of a program established under subsection (b) of this section.
+
+**(h) Forest management activities**
+
+(1) **In general** — Conservation easements or deed reservations acquired or reserved pursuant to this section may allow forest management activities, including timber management, on areas entered in the Forest Legacy Program insofar as the Secretary deems such activities consistent with the purposes of this section.
+
+(2) **Assignment of responsibilities** — For Forest Legacy Program areas, the Secretary may delegate or assign management and enforcement responsibilities over federally owned lands and interests in lands only to another governmental entity.
+
+**(i) Duties of owners** Under the terms of a conservation easement or other property interest acquired under subsection (b) 11 So in original. Probably should be subsection “(c)”. of this section, the landowner shall be required to manage property in a manner that is consistent with the purposes for which the land was entered in the Forest Legacy Program and shall not convert such property to other uses. Hunting, fishing, hiking, and similar recreational uses shall not be considered inconsistent with the purposes of this program.
+
+**(j) Compensation and cost sharing**
+
+(1) **Compensation** — The Secretary shall pay the fair market value of any property interest acquired under this section. Payments under this section shall be in accordance with Federal appraisal and acquisition standards and procedures.
+
+(2) **Cost sharing** — In accordance with terms and conditions that the Secretary shall prescribe, costs for the acquisition of lands or interests therein or project costs shall be shared among participating entities including regional organizations, State and other governmental units, landowners, corporations, or private organizations. Such costs may include, but are not limited to, those associated with planning, administration, property acquisition, and property management. To the extent practicable, the Federal share of total program costs shall not exceed 75 percent, including any in-kind contribution.
+
+**(k) Easements**
+
+(1) **Reserved interest deeds** — As used in this section, the term “conservation easement” includes an easement utilizing a reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
+
+(2) **Prohibitions on limitations** — Notwithstanding any provision of State law, no conservation easement held by the United States or its successors or assigns under this section shall be limited in duration or scope or be defeasible by—
+
+  (A) the conservation easement being in gross or appurtenant;
+
+  (B) the management of the conservation easement having been delegated or assigned to a non-Federal entity;
+
+  (C) any requirement under State law for re-recordation or renewal of the easement; or
+
+  (D) any future disestablishment of a Forest Legacy Program area or other Federal project for which the conservation easement was originally acquired.
+
+(3) **Construction** — Notwithstanding any provision of State law, conservation easements shall be construed to effect the Federal purposes for which they were acquired and, in interpreting their terms, there shall be no presumption favoring the conservation easement holder or fee owner.
+
+**(l) Optional State grants**
+
+(1) **In general** — The Secretary shall, at the request of a participating State, provide a grant to the State to carry out the Forest Legacy Program in the State.
+
+(2) **Administration** — If a State elects to receive a grant under this subsection—
+
+  (A) the Secretary shall use a portion of the funds made available under subsection (m) of this section, as determined by the Secretary, to provide a grant to the State; and
+
+  (B) the State shall use the grant to carry out the Forest Legacy Program in the State, including the acquisition by the State of lands and interests in lands.
+
+(3) **Transfer of Forest Legacy Program land—**
+
+  (A) *In general* — Subject to any terms and conditions that the Secretary may require (including the requirements described in subparagraph (B)), the Secretary may, at the request of the State of Vermont, convey to the State, by quitclaim deed, without consideration, any land or interest in land acquired in the State under the Forest Legacy Program.
+
+  (B) *Requirements* — In conveying land or an interest in land under subparagraph (A), the Secretary may require that—
+
+    (i) the deed conveying the land or interest in land include requirements for the management of the land in a manner that—
+
+      (I) conserves the land or interest in land; and
+
+      (II) is consistent with any other Forest Legacy Program purposes for which the land or interest in land was acquired;
+
+    (ii) if the land or interest in land is subsequently sold, exchanged, or otherwise disposed of by the State of Vermont, the State shall—
+
+      (I) reimburse the Secretary in an amount that is based on the current market value of the land or interest in land in proportion to the amount of consideration paid by the United States for the land or interest in land; or
+
+      (II) convey to the Secretary land or an interest in land that is equal in value to the land or interest in land conveyed.
+
+  (C) *Disposition of funds* — Amounts received by the Secretary under subparagraph (B)(ii) shall be credited to the Wildland Fire Management account, to remain available until expended.
+
+**(m) Appropriation** There are authorized to be appropriated such sums as may be necessary to carry out this section.
+
+### Statutory Notes
+
+#### References in Text
+Public Law 100–446, referred to in subsec. (d)(2), is Pub. L. 100–446, Sept. 27, 1988, 102 Stat. 1774. Provisions of the Act relating to functions of the Secretary of Agriculture in connection with forest lands are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+#### Prior Provisions
+A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classified to [section 2106 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2106).
+
+#### Amendments
+2003—Subsec. (l)(3). Pub. L. 108–108 added par. (3).
+
+1996—Subsecs. (l), (m). Pub. L. 104–127 added subsec. (l) and redesignated former subsec. (l) as (m).
+
+1991—Subsec. (d)(2). Pub. L. 102–237, § 1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
+
+Subsec. (e). Pub. L. 102–237, § 1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
+
+Subsec. (f). Pub. L. 102–237, § 1018(a)(2)(C), substituted “subsection (e)” for “subsection (d)”.
+
+
+<a id="section-2103d"></a>
+## § 2103d. Community forest and open space conservation program
+**(a) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means a local governmental entity, Indian tribe, or nonprofit organization that owns or acquires a parcel under the program.
+
+(2) **Indian tribe** — The term “Indian tribe” has the meaning given the term in [section 450b of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim).
+
+(3) **Local governmental entity** — The term “local governmental entity” includes any municipal government, county government, or other local government body with jurisdiction over local land use decisions.
+
+(4) **Nonprofit organization** — The term “nonprofit organization” means any organization that—
+
+  (A) is described in [section 170(h)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170/h/3&num=0&edition=prelim); and
+
+  (B) operates in accordance with 1 or more of the purposes specified in [section 170(h)(4)(A) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section170/h/4/A&num=0&edition=prelim).
+
+(5) **Program** — The term “Program” means the community forest and open space conservation program established under subsection (b).
+
+(6) **Secretary** — The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+
+**(b) Establishment** The Secretary shall establish a program, to be known as the “community forest and open space conservation program”.
+
+**(c) Grant program**
+
+(1) **In general** — The Secretary may award grants to eligible entities to acquire private forest land,11 So in original. Probably should be “lands,”. to be owned in fee simple, that—
+
+  (A) are threatened by conversion to nonforest uses; and
+
+  (B) provide public benefits to communities, including—
+
+    (i) economic benefits through sustainable forest management;
+
+    (ii) environmental benefits, including clean water and wildlife habitat;
+
+    (iii) benefits from forest-based educational programs, including vocational education programs in forestry;
+
+    (iv) benefits from serving as models of effective forest stewardship for private landowners; and
+
+    (v) recreational benefits, including hunting and fishing.
+
+(2) **Federal cost share** — An eligible entity may receive a grant under the Program in an amount equal to not more than 50 percent of the cost of acquiring 1 or more parcels, as determined by the Secretary.
+
+(3) **Non-Federal share** — As a condition of receipt of the grant, an eligible entity that receives a grant under the Program shall provide, in cash, donation, or in kind, a non-Federal matching share in an amount that is at least equal to the amount of the grant received.
+
+(4) **Appraisal of parcels** — To determine the non-Federal share of the cost of a parcel of privately-owned forest land under paragraph (2), an eligible entity shall require appraisals of the land that comply with the Uniform Appraisal Standards for Federal Land Acquisitions developed by the Interagency Land Acquisition Conference.
+
+(5) **Application** — An eligible entity that seeks to receive a grant under the Program shall submit to the State forester or equivalent official (or in the case of an Indian tribe, an equivalent official of the Indian tribe) an application that includes—
+
+  (A) a description of the land to be acquired;
+
+  (B) a forest plan that provides—
+
+    (i) a description of community benefits to be achieved from the acquisition of the private forest land; and
+
+    (ii) an explanation of the manner in which any private forest land to be acquired using funds from the grant will be managed; and
+
+  (C) such other relevant information as the Secretary may require.
+
+(6) **Effect on trust land**
+
+  (A) *Ineligibility* — The Secretary shall not provide a grant under the Program for any project on land held in trust by the United States (including Indian reservations and allotment land).
+
+  (B) *Acquired land* — No land acquired using a grant provided under the Program shall be converted to land held in trust by the United States on behalf of any Indian tribe.
+
+(7) **Applications to Secretary** — The State forester or equivalent official (or in the case of an Indian tribe, an equivalent official of the Indian tribe) shall submit to the Secretary a list that includes a description of each project submitted by an eligible entity at such times and in such form as the Secretary shall prescribe.
+
+**(d) Duties of eligible entity** An eligible entity shall provide public access to, and manage, forest land acquired with a grant under this section in a manner that is consistent with the purposes for which the land was acquired under the Program.
+
+**(e) Prohibited uses**
+
+(1) **In general** — Subject to paragraphs (2) and (3), an eligible entity that acquires a parcel under the Program shall not sell the parcel or convert the parcel to nonforest use.
+
+(2) **Reimbursement of funds** — An eligible entity that sells or converts to nonforest use a parcel acquired under the Program shall pay to the Federal Government an amount equal to the greater of the current sale price, or current appraised value, of the parcel.
+
+(3) **Loss of eligibility** — An eligible entity that sells or converts a parcel acquired under the Program shall not be eligible for additional grants under the Program.
+
+**(f) State administration and technical assistance** The Secretary may allocate not more than 10 percent of all funds made available to carry out the Program for each fiscal year to State foresters or equivalent officials (including equivalent officials of Indian tribes) for Program administration and technical assistance.
+
+**(g) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+#### Findings
+Pub. L. 110–234, title VIII, § 8003(a), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, § 4(a), title VIII, § 8003(a), June 18, 2008, 122 Stat. 1664, 2043, provided that: “Congress finds that— “(1) the Forest Service projects that, by calendar year 2030, approximately 44,000,000 acres of privately-owned forest land will be developed throughout the United States; “(2) public access to parcels of privately-owned forest land for outdoor recreational activities, including hunting, fishing, and trapping, has declined and, as a result, participation in those activities has also declined in cases in which public access is not secured; “(3) rising rates of obesity and other public health problems relating to the inactivity of the citizens of the United States have been shown to be ameliorated by improving public access to safe and attractive areas for outdoor recreation; “(4) in rapidly-growing communities of all sizes throughout the United States, remaining parcels of forest land play an essential role in protecting public water supplies; “(5) forest parcels owned by local governmental entities and nonprofit organizations are providing important demonstration sites for private landowners to learn forest management techniques; “(6) throughout the United States, communities of diverse types and sizes are deriving significant financial and community benefits from managing forest land owned by local governmental entities for timber and other forest products; and “(7) there is an urgent need for local governmental entities to be able to leverage financial resources in order to purchase important parcels of privately-owned forest land as the parcels are offered for sale.”
+
+[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.]
+
+
+<a id="section-2104"></a>
+## § 2104. Forest health protection
+**(a) In general** The Secretary may protect trees and forests and wood products, stored wood, and wood in use directly on the National Forest System and, in cooperation with others, on other lands in the United States, from natural and man-made causes, to—
+
+(1) enhance the growth and maintenance of trees and forests;
+
+(2) promote the stability of forest-related industries and employment associated therewith through the protection of forest resources;
+
+(3) aid in forest fire prevention and control;
+
+(4) conserve forest cover on watersheds, shelterbelts, and windbreaks;
+
+(5) protect outdoor recreation opportunities and other forest resources; and
+
+(6) extend timber supplies by protecting wood products, stored wood, and wood in use.
+
+**(b) Activities** Subject to subsections (c), (d), and (e) of this section and to such other conditions the Secretary may prescribe, the Secretary may, directly on the National Forest System, in cooperation with other Federal departments on other Federal lands, and in cooperation with State foresters, or equivalent State officials, subdivisions of States, agencies, institutions, organizations, or individuals on non-Federal lands—
+
+(1) conduct surveys to detect and appraise insect infestations and disease conditions and man-made stresses affecting trees and establish a monitoring system throughout the forests of the United States to determine detrimental changes or improvements that occur over time, and report annually concerning such surveys and monitoring;
+
+(2) determine the biological, chemical, and mechanical measures necessary to prevent, retard, control, or suppress incipient, potential, threatening, or emergency insect infestations and disease conditions affecting trees;
+
+(3) plan, organize, direct, and perform measures the Secretary determines necessary to prevent, retard, control, or suppress incipient, potential, threatening, or emergency insect infestations and disease epidemics affecting trees;
+
+(4) provide technical information, advice, and related assistance on the various techniques available to maintain a healthy forest and in managing and coordinating the use of pesticides and other toxic substances applied to trees and other vegetation, and to wood products, stored wood, and wood in use;
+
+(5) develop applied technology and conduct pilot tests of research results prior to the full-scale application of such technology in affected forests;
+
+(6) promote the implementation of appropriate silvicultural or management techniques that may improve or protect the health of the forests of the United States; and
+
+(7) take any other actions the Secretary determines necessary to accomplish the objectives and purposes of this section.
+
+**(c) Consent of entity** Operations under this section to prevent, retard, control, or suppress insects or diseases affecting forests and trees on land not controlled or administered by the Secretary shall not be conducted without the consent, cooperation, and participation of the entity having ownership of or jurisdiction over the affected land.
+
+**(d) Contribution by entity** No money appropriated to implement this section shall be expended to prevent, retard, control, or suppress insects or diseases affecting trees on non-Federal land until the entity having ownership of or jurisdiction over the affected land contributes, or agrees to contribute, to the work to be done in the amount and in the manner determined appropriate by the Secretary.
+
+**(e) Allotments to other agencies** The Secretary may, in the Secretary’s discretion, and out of any money appropriated to implement this section, make allocations to Federal agencies having jurisdiction over lands held or owned by the United States in the amounts the Secretary determines necessary to prevent, retard, control, or suppress insect infestations and disease epidemics affecting trees on those lands.
+
+**(f) Limitation on use of appropriations**
+
+(1) **Removing dead trees** — No amounts appropriated shall be used to—
+
+  (A) pay the cost of felling and removing dead or dying trees unless the Secretary determines that such actions are necessary to prevent the spread of a major insect infestation or disease epidemic severely affecting trees; or
+
+  (B) compensate for the value of any property injured, damaged, or destroyed by any cause.
+
+(2) **Insects and diseases affecting trees** — The Secretary may procure materials and equipment necessary to prevent, retard, control, or suppress insects and diseases affecting trees without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim), under whatever procedures the Secretary may prescribe, if the Secretary determines that such action is necessary and in the public interest.
+
+**(g) Partnerships** The Secretary, by contract or cooperative agreement, may provide financial assistance through the Forest Service to State foresters or equivalent State officials, and private forestry and other organizations, to monitor forest health and protect the forest lands of the United States. The Secretary shall require contribution by the non-Federal entity in the amount and in the manner determined appropriate. Such non-Federal share may be in the form of cash, services, or equipment, as determined appropriate by the Secretary.
+
+**(h) Authorization of appropriations** There are authorized to be appropriated annually such sums as may be necessary to carry out subsections (a) through (g) of this section.
+
+**(i) Integrated pest management**
+
+(1) **In general** — Subject to the provisions of subsections (c) and (e) of this section, the Secretary shall, in cooperation with State foresters or equivalent State officials, subdivisions of States, or other entities on non-Federal lands (hereafter in this subsection referred to as the “cooperator”)—
+
+  (A) provide cost-share assistance to such cooperators who have established an acceptable integrated pest management strategy, as determined by the Secretary, that will prevent, retard, control, or suppress gypsy moth, southern pine beetle, spruce budworm infestations, or other major insect infestations in an amount no less than 50 percent nor greater than 75 percent of the cost of implementing such strategy; and
+
+  (B) upon request, assist the cooperator in the development of such integrated pest management strategy.
+
+(2) **Authorization of appropriations** — There are hereby authorized to be appropriated annually $10,000,000 to implement this subsection.
+
+### Statutory Notes
+
+#### Codification
+In subsec. (f)(2), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Prior Provisions
+A prior section 8 of Pub. L. 95–313 was renumbered section 11 and is classified to [section 2107 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2107).
+
+#### Amendments
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to insect and disease control on Federal and non-Federal forest lands, additional protective functions and responsibilities concerning such lands, consent, cooperation, and participation of, and contribution by, entity having jurisdiction over such lands, allocations to Federal agencies having jurisdiction over such lands, availability and limitations on use of appropriated amounts, and authorization of appropriations.
+
+#### Stewardship End Result Contracting Projects
+Pub. L. 107–63, title III, § 332, Nov. 5, 2001, 115 Stat. 471, provided in part that: “The authority to enter into stewardship and end result contracts provided to the Forest Service in accordance with section 347 of title III of section 101(e) of division A of Public Law 105–277 [set out as a note below] is hereby expanded to authorize the Forest Service to enter into an additional 28 contracts subject to the same terms and conditions as provided in that section: Provided, That of the additional contracts authorized by this section at least 9 shall be allocated to Region 1 and at least 3 to Region 6.”
+
+Similar provisions were contained in Pub. L. 106–291, title III, § 338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, § 2604, July 24, 2001, 115 Stat. 178.
+
+Pub. L. 105–277, div. A, § 101(e) [title III, § 347], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 341], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, § 332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, § 323, Feb. 20, 2003, 117 Stat. 275, provided that: “(a) In General.—Until September 30, 2013, the Forest Service and the Bureau of Land Management, via agreement or contract as appropriate, may enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve land management goals for the national forests and the public lands that meet local and rural community needs. “(b) Land Management Goals.—The land management goals of a project under subsection (a) may include, among other things—“(1) road and trail maintenance or obliteration to restore or maintain water quality; “(2) soil productivity, habitat for wildlife and fisheries, or other resource values; “(3) setting of prescribed fires to improve the composition, structure, condition, and health of stands or to improve wildlife habitat; “(4) removing vegetation or other activities to promote healthy forest stands, reduce fire hazards, or achieve other land management objectives; “(5) watershed restoration and maintenance; “(6) restoration and maintenance of wildlife and fish habitat; and “(7) control of noxious and exotic weeds and reestablishing native plant species. “(c) Agreements or Contracts.—“(1) Procurement procedure.—A source for performance of an agreement or contract under subsection (a) shall be selected on a best-value basis, including consideration of source under other public and private agreements or contracts. “(2) Term.—A multiyear contract may be entered into under subsection (a) in accordance with section 304B of the Federal Property and Administrative Services Act of 1949 ([former] [41 U.S.C. 254c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section254c&num=0&edition=prelim)) [now [41 U.S.C. 3903](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim)], except that the period of the contract may exceed 5 years but may not exceed 10 years. “(3) Offsets.—“(A) In general.—In connection with agreement or contracts under subsection (a), the Forest Service and the Bureau of Land Management may apply the value of timber or other forest products removed as an offset against the cost of services received. “(B) Methods of appraisal.—The value of timber or other forest products used as offsets under subparagraph (A)—“(i) shall be determined using appropriate methods of appraisal commensurate with the quantity of products to be removed; “(ii) may be determined using a unit of measure appropriate to the agreement or contracts; and “(iii) may include valuing products on a per-acre basis. “(4) Relation to other laws.—The Forest Service may enter into agreement or contracts under subsection (a), notwithstanding subsections (d) and (g) of section 14 of the National Forest Management Act of 1976 ([16 U.S.C. 472a](./chapter-002-national-forests.md#section-472a)). “(5) Contracting officer.—Notwithstanding any other provision of law, the Secretary of Agriculture or the Secretary of the Interior may determine the appropriate contracting officer to enter into and administer an agreement or contract under subsection (a). “(d) Receipts.—“(1) In general.—The Forest Service and the Bureau of Land Management may collect monies from an agreement or contract under subsection (a) so long as such collection is a secondary objective of negotiating contracts that will best achieve the purposes of this section. “(2) Use.—Monies from an agreement or contract under subsection (a) may be retained by the Forest Service and the Bureau of Land Management and shall be available for expenditure without further appropriation at the project site from which the monies are collected or at another project site. “(3) Relation to other laws.—The value of services received by the Forest Service or the Bureau of Land Management under a stewardship contract project conducted under this section, and any payments made or resources provided by the contractor or the Forest Service or the Bureau of Land Management under such a project, shall not be considered to be monies received from the National Forest System or the public lands under any provision of law. The Act of June 9, 1930 ([16 U.S.C. 576](./chapter-003-forests-forest-service-reforestation-management.md#section-576) et seq.; commonly known as the Knutson-Vandenberg Act), shall not apply to stewardship contracts entered into under this section. “(e) Costs of Removal.—The Forest Service may collect deposits from contractors covering the costs of removal of timber or other forest products pursuant to the Act of August 11, 1916 (39 Stat. 462, chapter 313; [16 U.S.C. 490](./chapter-002-national-forests.md#section-490)); and the next to the last paragraph under the heading ‘Forest Service.’ under the heading ‘Department of Agriculture’ in the Act of June 30, 1914 (38 Stat. 430, chapter 131; [16 U.S.C. 498](./chapter-002-national-forests.md#section-498)); notwithstanding the fact that the timber purchasers did not harvest the timber. “(f) Performance and Payment Guarantees.—“(1) In general.—The Forest Service and the Bureau of Land Management may require performance and payment bonds, in accordance with sections 103–2 and 103–2 of part 28 of the Federal Acquisition Regulation (48 C.F.R. 28.103–2, 28.103–3), in an amount that the contracting officer considers sufficient to protect the Government’s investment in receipts generated by the contractor from the estimated value of the forest products to be removed under contract under subsection (a). “(2) Excess offset value.—If the offset value of the forest products exceeds the value of the resource improvement treatments, the Forest Service and the Bureau of Land Management may—“(A) collect any residual receipts pursuant to the Act of June 9, 1930 (46 Stat. 527, chapter 416; [16 U.S.C. 576b](./chapter-003-forests-forest-service-reforestation-management.md#section-576b)); and “(B) apply the excess to other authorized stewardship projects. “(g) Monitoring, Evaluation and Reporting.—The Forest Service and the Bureau of Land Management shall establish a multiparty monitoring and evaluation process that accesses the stewardship contracting projects conducted under this section. Besides the Forest Service and the Bureau of Land Management, participants in this process may include any cooperating governmental agencies, including tribal governments, and any interested groups or individuals. The Forest Service and the Bureau of Land Management shall report annually to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate on—“(1) the status of development, execution, and administration of agreements or contracts under subsection (a); “(2) the specific accomplishments that have resulted; and “(3) the role of local communities in development of agreements or contract plans.”
+
+#### Herger-Feinstein Quincy Library Group Forest Recovery
+Pub. L. 105–277, div. A, § 101(e) [title IV], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, § 6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, § 434, Dec. 26, 2007, 121 Stat. 2153; Pub. L. 111–8, div. E, title IV, § 428, Mar. 11, 2009, 123 Stat. 749, provided that: “Sec. 401. Pilot Project for Plumas, Lassen, and Tahoe National Forests to Implement Quincy Library Group Proposal. (a) Definition.—For purposes of this section, the term ‘Quincy Library Group-Community Stability Proposal’ means the agreement by a coalition of representatives of fisheries, timber, environmental, county government, citizen groups, and local communities that formed in northern California to develop a resource management program that promotes ecologic and economic health for certain Federal lands and communities in the Sierra Nevada area. Such proposal includes the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993, and prepared by VESTRA Resources of Redding, California. “(b) Pilot Project Required.—“(1) Pilot project and purpose.—The Secretary of Agriculture (in this section referred to as the ‘Secretary’), acting through the Forest Service and after completion of an environmental impact statement (a record of decision for which shall be adopted within 300 days), shall conduct a pilot project on the Federal lands described in paragraph (2) to implement and demonstrate the effectiveness of the resource management activities described in subsection (d) and the other requirements of this section, as recommended in the Quincy Library Group-Community Stability Proposal. “(2) Pilot project area.—The Secretary shall conduct the pilot project on the Federal lands within Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest in the State of California designated as ‘Available for Group Selection’ on the map entitled ‘QUINCY LIBRARY GROUP Community Stability Proposal’, dated October 12, 1993 (in this section referred to as the ‘pilot project area’). Such map shall be on file and available for inspection in the appropriate offices of the Forest Service. “(c) Exclusion of Certain Lands, Riparian Protection and Compliance.—“(1) Exclusion.—All spotted owl habitat areas and protected activity centers located within the pilot project area designated under subsection (b)(2) will be deferred from resource management activities required under subsection (d) and timber harvesting during the term of the pilot project. “(2) Riparian protection.—“(A) In general.—The Scientific Analysis Team guidelines for riparian system protection described in subparagraph (B) shall apply to all resource management activities conducted under subsection (d) and all timber harvesting activities that occur in the pilot project area during the term of the pilot project. “(B) Guidelines described.—The guidelines referred to in subparagraph (A) are those in the document entitled ‘Viability Assessments and Management Considerations for Species Associated with Late-Successional and Old-Growth Forests of the Pacific Northwest’, a Forest Service research document dated March 1993 and co-authored by the Scientific Analysis Team, including Dr. Jack Ward Thomas. “(C) Limitation.—Nothing in this section shall be construed to require the application of the Scientific Analysis Team guidelines to any livestock grazing in the pilot project area during the term of the pilot project, unless the livestock grazing is being conducted in the specific location at which the Scientific Analysis Team guidelines are being applied to an activity under subsection (d). “(3) Compliance.—All resource management activities required by subsection (d) shall be implemented to the extent consistent with applicable Federal law and the standards and guidelines for the conservation of the California spotted owl as set forth in the California Spotted Owl Sierran Provence Interim Guidelines or the subsequently issued guidelines, whichever are in effect. “(4) Roadless area protection.—The Regional Forester for Region 5 shall direct that any resource management activity required by subsection (d)(1) and (2), all road building, all timber harvesting activities, and any riparian management under subsection (d)(4) that utilizes road construction or timber harvesting shall not be conducted on Federal lands within the Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of the Tahoe National Forest that are designated as either ‘Off Base’ or ‘Deferred’ on the map referred to in subsection (a). Such direction shall be effective during the term of the pilot project. “(d) Resource Management Activities.—During the term of the pilot project, the Secretary shall implement and carry out the following resource management activities on an acreage basis on the Federal lands included within the pilot project area designated under subsection (b)(2):“(1) Fuelbreak construction.—Construction of a strategic system of defensible fuel profile zones, including shaded fuelbreaks, utilizing thinning, individual tree selection, and other methods of vegetation management consistent with the Quincy Library Group-Community Stability Proposal, on not less than 40,000, but not more than 60,000, acres per year. “(2) Group selection and individual tree selection.—Utilization of group selection and individual tree selection uneven-aged forest management prescriptions described in the Quincy Library Group-Community Stability Proposal to achieve a desired future condition of all-age, multistory, fire resilient forests as follows:“(A) Group selection.—Group selection on an average acreage of .57 percent of the pilot project area land each year of the pilot project. “(B) Individual tree selection.—Individual tree selection may also be utilized within the pilot project area. “(3) Total acreage.—The total acreage on which resource management activities are implemented under this subsection shall not exceed 70,000 acres each year. “(4) Riparian management.—A program of riparian management, including wide protection zones and riparian restoration projects, consistent with riparian protection guidelines in subsection (c)(2)(B). “(e) Cost-Effectiveness.—In conducting the pilot project, Secretary shall use the most cost-effective means available, as determined by the Secretary, to implement resource management activities described in subsection (d). “(f) Funding.—“(1) Source of funds.—In conducting the pilot project, the Secretary shall use, subject to the relevant reprogramming guidelines of the House and Senate Committees on Appropriations—“(A) those funds specifically provided to the Forest Service by the Secretary to implement resource management activities according to the Quincy Library Group-Community Stability Proposal; and “(B) year-end excess funds that are allocated for the administration and management of Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest. “(2) Prohibition on use of certain funds.—The Secretary may not conduct the pilot project using funds appropriated for any other unit of the National Forest System. “(3) Flexibility.—Subject to normal reprogramming guidelines, during the term of the pilot project, the forest supervisors of Plumas National Forest, Lassen National Forest, and Tahoe National Forest may allocate and use all accounts that contain year-end excess funds and all available excess funds for the administration and management of Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest to perform the resource management activities described in subsection (d). “(4) Restriction.—The Secretary or the forest supervisors, as the case may be, shall not utilize authority provided under paragraphs (1)(B) and (3) if, in their judgment, doing so will limit other nontimber related multiple use activities for which such funds were available. “(5) Overhead.—The Secretary shall seek to ensure that of amounts available to carry out this section—“(A) not more than 12 percent is used or allocated for general administration or other overhead; and “(B) at least 88 percent is used to implement and carry out activities required by this section. “(6) Authorized supplemental funds.—There are authorized to be appropriated to implement and carry out the pilot project such sums as are necessary. “(7) Baseline funds.—Amounts available for resource management activities authorized under subsection (d) shall at a minimum include existing baseline funding levels. “(g) Term of Pilot Project.—The Secretary shall conduct the pilot project until September 30, 2012. “(h) Consultation.—(1) The statement required by subsection (b)(1) shall be prepared in consultation with interested members of the public, including the Quincy Library Group. “(2) Contracting.—The Forest Service, subject to the availability of appropriations, may carry out any (or all) of the requirements of this section using private contracts. “[(i)] By June 1, 2008, the Forest Service shall initiate a collaborative process with the Plaintiffs in Sierra Nevada Forest Prot. Campaign v. Rey, Case No. CIV–S–05–0205 MCE/GGH (E.D. Cal.), appeal docketed sub nom. Sierra Forest Legacy v. Rey, No. 07–16892 (9th Cir. Oct. 23, 2007) and the Quincy Library Group to determine whether modifications to the Pilot Project are appropriate for the remainder of the Pilot Project. “(j) Status Reports.—“(1) In general.—Not later than February 28 of each year during the term of the pilot project, the Secretary shall submit to Congress a report on the status of the pilot project. The report shall include at least the following:“(A) A complete accounting of the use of funds made available under subsection (f)(1)(A) until such funds are fully expended. “(B) A complete accounting of the use of funds and accounts made available under subsection (f)(1) for the previous fiscal year, including a schedule of the amounts drawn from each account used to perform resource management activities described in subsection (d). “(C) A description of total acres treated for each of the resource management activities required under subsection (d), forest health improvements, fire risk reductions, water yield increases, and other natural resources-related benefits achieved by the implementation of the resource management activities described in subsection (d). “(D) A description of the economic benefits to local communities achieved by the implementation of the pilot project. “(E) A comparison of the revenues generated by, and costs incurred in, the implementation of the resource management activities described in subsection (d) on the Federal lands included in the pilot project area with the revenues and costs during each of the fiscal years 1992 through 1997 for timber management of such lands before their inclusion in the pilot project. “(F) A proposed schedule for the resource management activities to be undertaken in the pilot project area during the 1-year period beginning on the date of submittal of the report. “(G) A description of any adverse environmental impacts from the pilot project. “(2) Limitation on expenditures.—The amount of Federal funds expended on each annual report under this subsection shall not exceed $125,000. “(k) Final Report.—“(1) In general.—The Secretary shall establish an independent scientific panel to review and report on whether, and to what extent, implementation of the pilot project under this section achieved the goals stated in the Quincy Library Group-Community Stability Proposal, including improved ecological health and community stability. The membership of the panel shall reflect expertise in diverse disciplines in order to adequately address all of those goals. “(2) Preparation.—The panel shall initiate such review no sooner than 18 months after the first day of the term of the pilot project under subsection (g). The panel shall prepare the report in consultation with interested members of the public, including the Quincy Library Group. The report shall include, but not be limited to, the following:“(A) A description of any adverse environmental impacts resulting from implementation of the pilot project. “(B) An assessment of watershed monitoring data on lands treated pursuant to this section. Such assessment shall address the following issues on a priority basis: timing of water releases; water quality changes; and water yield changes over the short- and long-term in the pilot project area. “(3) Submission to the congress.—The panel shall submit the final report to the Congress as soon as practicable, but in no case later than 18 months after completion of the pilot project. “(4) Limitation on expenditures.—The amount of Federal funds expended for the report under this subsection, other than for watershed monitoring, shall not exceed $350,000. The amount of Federal funds expended for watershed monitoring under this subsection shall not exceed $175,000 for each fiscal year in which the report is prepared. “(l) Relationship to Other Laws.—Nothing in this section exempts the pilot project from any Federal environmental law. “(m) Section 106 of Public Law 108–148 [[16 U.S.C. 6516](./chapter-084-healthy-forest-restoration.md#section-6516)] shall apply to all projects authorized by this Act [probably should be this section]. Sections 104 and 105 of Public Law 108–148 [[16 U.S.C. 6514](./chapter-084-healthy-forest-restoration.md#section-6514), 6515] may be applied to projects authorized by this Act. “Sec. 402. Short Title. [Section 401 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-401) may be cited as the ‘Herger-Feinstein Quincy Library Group Forest Recovery Act’.”
+
+[Pub. L. 108–7, div. F, title III, § 338, Feb. 20, 2003, 117 Stat. 278, provided that: “Congress reaffirms its original intent that the Herger-Feinstein Quincy Library Group Forest Recovery Act of 1998 [Pub. L. 105–277, div. A, § 101(e) [title IV, § 401], set out above] be implemented, and hereby extends the expiration of the Quincy Library Group Act by 5 years.” ]
+
+
+<a id="section-2104a"></a>
+## § 2104a. Pest and Disease Revolving Loan Fund
+**(a) Definitions** In this section:
+
+(1) **Authorized equipment**
+
+  (A) *In general* — The term “authorized equipment” means any equipment necessary for the management of forest land.
+
+  (B) *Inclusions* — The term “authorized equipment” includes—
+
+    (i) cherry pickers;
+
+    (ii) equipment necessary for—
+
+      (I) the construction of staging and marshalling areas;
+
+      (II) the planting of trees; and
+
+      (III) the surveying of forest land;
+
+    (iii) vehicles capable of transporting harvested trees;
+
+    (iv) wood chippers; and
+
+    (v) any other appropriate equipment, as determined by the Secretary.
+
+(2) **Fund** — The term “Fund” means the Pest and Disease Revolving Loan Fund established by subsection (b).
+
+(3) **Secretary** — The term “Secretary” means the Secretary of Agriculture, acting through the Deputy Chief of the State and Private Forestry organization.
+
+**(b) Establishment of Fund** There is established in the Treasury of the United States a revolving fund, to be known as the “Pest and Disease Revolving Loan Fund”, consisting of such amounts as are appropriated to the Fund under subsection (f).
+
+**(c) Expenditures from Fund**
+
+(1) **In general** — Subject to paragraph (2), on request by the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary such amounts as the Secretary determines are necessary to provide loans under subsection (e).
+
+(2) **Administrative expenses** — An amount not exceeding 10 percent of the amounts in the Fund shall be available for each fiscal year to pay the administrative expenses necessary to carry out this section.
+
+**(d) Transfers of amounts**
+
+(1) **In general** — The amounts required to be transferred to the Fund under this section shall be transferred at least monthly from the general fund of the Treasury to the Fund on the basis of estimates made by the Secretary of the Treasury.
+
+(2) **Adjustments** — Proper adjustment shall be made in amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred.
+
+**(e) Uses of Fund**
+
+(1) **Loans**
+
+  (A) *In general* — The Secretary shall use amounts in the Fund to provide loans to eligible units of local government to finance purchases of authorized equipment to monitor, remove, dispose of, and replace infested trees that are located—
+
+    (i) on land under the jurisdiction of the eligible units of local government; and
+
+    (ii) within the borders of quarantine areas infested by plant pests.
+
+  (B) *Maximum amount* — The maximum amount of a loan that may be provided by the Secretary to an eligible unit of local government under this subsection shall be the lesser of—
+
+    (i) the amount that the eligible unit of local government has appropriated to finance purchases of authorized equipment in accordance with subparagraph (A); or
+
+    (ii) $5,000,000.
+
+  (C) *Interest rate* — The interest rate on any loan made by the Secretary under this paragraph shall be a rate equal to 2 percent.
+
+  (D) *Report* — Not later than 180 days after the date on which an eligible unit of local government receives a loan provided by the Secretary under subparagraph (A), the eligible unit of local government shall submit to the Secretary a report that describes each purchase made by the eligible unit of local government using assistance provided through the loan.
+
+(2) **Loan repayment schedule**
+
+  (A) *In general* — To be eligible to receive a loan from the Secretary under paragraph (1), in accordance with each requirement described in subparagraph (B), an eligible unit of local government shall enter into an agreement with the Secretary to establish a loan repayment schedule relating to the repayment of the loan.
+
+  (B) *Requirements relating to loan repayment schedule* — A loan repayment schedule established under subparagraph (A) shall require the eligible unit of local government—
+
+    (i) to repay to the Secretary of the Treasury, not later than 1 year after the date on which the eligible unit of local government receives a loan under paragraph (1), and semiannually thereafter, an amount equal to the quotient obtained by dividing—
+
+      (I) the principal amount of the loan (including interest); by
+
+      (II) the total quantity of payments that the eligible unit of local government is required to make during the repayment period of the loan; and
+
+    (ii) not later than 20 years after the date on which the eligible unit of local government receives a loan under paragraph (1), to complete repayment to the Secretary of the Treasury of the loan made under this section (including interest).
+
+**(f) Authorization of appropriations** There are authorized to be appropriated to the Fund such sums as are necessary to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2105"></a>
+## § 2105. Urban and community forestry assistance
+**(a) Findings** The Congress finds that—
+
+(1) the health of forests in urban areas and communities, including cities, their suburbs, and towns, in the United States is on the decline;
+
+(2) forest lands, shade trees, and open spaces in urban areas and communities improve the quality of life for residents;
+
+(3) forest lands and associated natural resources enhance the economic value of residential and commercial property in urban and community settings;
+
+(4) urban trees are 15 times more effective than forest trees at reducing the buildup of carbon dioxide and aid in promoting energy conservation through mitigation of the heat island effect in urban areas;
+
+(5) tree plantings and ground covers such as low growing dense perennial turfgrass sod in urban areas and communities can aid in reducing carbon dioxide emissions, mitigating the heat island effect, and reducing energy consumption, thus contributing to efforts to reduce global warming trends;
+
+(6) efforts to encourage tree plantings and protect existing open spaces in urban areas and communities can contribute to the social well-being and promote a sense of community in these areas; and
+
+(7) strengthened research, education, technical assistance, and public information and participation in tree planting and maintenance programs for trees and complementary ground covers for urban and community forests are needed to provide for the protection and expansion of tree cover and open space in urban areas and communities.
+
+**(b) Purposes** The purposes of this section are to—
+
+(1) improve understanding of the benefits of preserving existing tree cover in urban areas and communities;
+
+(2) encourage owners of private residences and commercial properties to maintain trees and expand forest cover on their properties;
+
+(3) provide education programs and technical assistance to State and local organizations (including community associations and schools) in maintaining forested lands and individual trees in urban and community settings and identifying appropriate tree species and sites for expanding forest cover;
+
+(4) provide assistance through competitive matching grants awarded to local units of government, approved organizations that meet the requirements of [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), or other local community tree volunteer groups, for urban and community forestry projects;
+
+(5) implement a tree planting program to complement urban and community tree maintenance and open space programs and to reduce carbon dioxide emissions, conserve energy, and improve air quality in addition to providing other environmental benefits;
+
+(6) promote the establishment of demonstration projects in selected urban and community settings to illustrate the benefits of maintaining and creating forest cover and trees;
+
+(7) enhance the technical skills and understanding of sound tree maintenance and arboricultural practices including practices involving the cultivation of trees, shrubs and complementary ground covers, of individuals involved in the planning, development, and maintenance of urban and community forests and trees; and
+
+(8) expand existing research and educational efforts intended to improve understanding of—
+
+  (A) tree growth and maintenance, tree physiology and morphology, species adaptations, and forest ecology,
+
+  (B) the value of integrating trees and ground covers,
+
+  (C) the economic, environmental, social, and psychological benefits of trees and forest cover in urban and community environments, and
+
+  (D) the role of urban trees in conserving energy and mitigating the urban heat island.
+
+**(c) General authority** The Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the purpose of encouraging States to provide information and technical assistance to units of local government and others that will encourage cooperative efforts to plan urban forestry programs and to plant, protect, and maintain, and utilize wood from, trees in open spaces, greenbelts, roadside screens, parks, woodlands, curb areas, and residential developments in urban areas. In providing such assistance, the Secretary is authorized to cooperate with interested members of the public, including nonprofit private organizations. The Secretary is also authorized to cooperate directly with units of local government and others in implementing this section whenever the Secretary and the affected State forester or equivalent State official agree that direct cooperation would better achieve the purposes of this section.
+
+**(d) Program of education and technical assistance** The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
+
+(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species, number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
+
+(2) assist State and local organizations (including community associations and schools) in organizing and conducting urban and community forestry projects and programs;
+
+(3) improve education and technical support in—
+
+  (A) selecting tree species appropriate for planting in urban and community environments and for promotion of energy conservation;
+
+  (B) providing for proper tree planting, maintenance, and protection in urban areas and communities;
+
+  (C) protecting individual trees and preserving existing open spaces with or without tree cover; and
+
+  (D) identifying opportunities for expanding tree cover in urban areas and communities;
+
+(4) assist in the development of State and local management plans for trees and associated resources in urban areas and communities; and
+
+(5) increase public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments and expand knowledge of the ecological relationships and benefits of trees and related resources in these environments.
+
+**(e) Procurement of plant materials** The Secretary, in cooperation with State foresters or equivalent State officials, shall assist in identifying sources of plant materials and may procure or otherwise obtain such plant materials from public or private sources and may make such plant materials available to urban areas and communities for the purpose of reforesting open spaces, replacing dead and dying urban trees, promoting energy conservation, and providing other environmental benefits through expanding tree cover in urban areas and communities.
+
+**(f) Challenge cost-share program**
+
+(1) **In general** — The Secretary shall establish an urban and community forestry challenge cost-share program. Funds or other support shall be provided under such program to eligible communities and organizations, on a competitive basis, for urban and community forestry projects. The Secretary shall annually make awards under the program in accordance with criteria developed in consultation with, and after consideration of recommendations received from, the National Urban and Community Forestry Advisory Council established under subsection (g) of this section. Each State forester or equivalent State official may make recommendations to the Secretary for awards under the program for project proposals in their State which meet such criteria. Awards shall be consistent with the cost-share requirements of this section.
+
+(2) **Cost-sharing** — The Federal share of support for a project provided under this subsection may not exceed 50 percent of the support for that project and shall be provided on a matching basis. The non-Federal share of such support may be in the form of cash, services, or in-kind contributions.
+
+**(g) Forestry Advisory Council**
+
+(1) **Establishment and purpose** — The Secretary shall establish a National Urban and Community Forestry Advisory Council (hereafter in this section referred to as the “Council”) for the purpose of—
+
+  (A) developing a national urban and community forestry action plan;
+
+  (B) evaluating the implementation of that plan; and
+
+  (C) developing criteria for, and submitting recommendations with respect to, the urban and community forestry challenge cost-share program under subsection (f) of this section.
+
+(2) **Composition and operation**
+
+  (A) *Composition* — The Council shall be composed of 15 members appointed by the Secretary, as follows:
+
+    (i) 2 members representing national nonprofit forestry and conservation citizen organizations,
+
+    (ii) 3 members, 1 each representing State, county, and city and town governments,
+
+    (iii) 1 member representing the forest products, nursery, or related industries,
+
+    (iv) 1 member representing urban forestry, landscape, or design consultants,
+
+    (v) 2 members representing academic institutions with an expertise in urban and community forestry activities,
+
+    (vi) 1 member representing State forestry agencies or equivalent State agencies,
+
+    (vii) 1 member representing a professional renewable natural resource or arboricultural society,
+
+    (viii) 1 member from the National Institute of Food and Agriculture,
+
+    (ix) 1 member from the Forest Service, and
+
+    (x) 2 members who are not officers or employees of any governmental body, 1 of whom is a resident of a community with a population of less than 50,000 as of the most recent census and both of whom have expertise and have been active in urban and community forestry.
+
+  (B) *Vacancy* — A vacancy in the Council shall be filled in the manner in which the original appointment was made.
+
+  (C) *Chairperson* — The Secretary shall select 1 member, from members appointed to the Council, who is not an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
+
+  (D) *Terms*
+
+    (i) *In general* — Except as provided in clauses (ii) and (iii) of this paragraph, members shall be appointed for terms of 3 years, and no member may serve more than 2 consecutive terms on the Council.
+
+    (ii) *Staggered terms* — Of the members first appointed—
+
+      (I) 5, including the chairperson and 2 governmental employees, shall be appointed for a term of 3 years,
+
+      (II) 5, including 2 governmental employees, shall be appointed for a term of 2 years, and
+
+      (III) 5, including 2 governmental employees, shall be appointed for a term of 1 year, as designated by the Secretary at the time of appointment.
+
+    (iii) *Continuation* — Any member appointed to fill a vacancy occurring before the expiration of the term of the member’s predecessor shall be appointed only for the remainder of such term. A member may serve after the expiration of the member’s term until the member’s successor has taken office.
+
+  (E) *Compensation*
+
+    (i) *In general* — Except as provided in clause (ii), members of the Council shall serve without pay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
+
+    (ii) *Federal officers and employees* — Members of the Council who are full-time officers or employees of the United States shall receive no additional pay, allowances, or benefits by reason of their service on the Council.
+
+    (iii) *Financial and administrative support* — The Secretary shall provide financial and administrative support for the Council.
+
+(3) **Urban and Community Forestry Action Plan** — Within 1 year after November 28, 1990, and every 10 years thereafter, the Council shall prepare a National Urban and Community Forestry Action Plan. The plan shall include (but not be limited to) the following:
+
+  (A) An assessment of the current status of urban forest resources in the United States.
+
+  (B) A review of urban and community forestry programs and activities in the United States, including education and technical assistance activities conducted by the Department of Agriculture, and other Federal agencies, the State forestry organizations, private industry, private nonprofit organizations, community and civic organizations and interested others.
+
+  (C) Recommendations for improving the status of the Nation’s urban and community forest resources, including education and technical assistance and modifications required in existing programs and policies of relevant Federal agencies.
+
+  (D) A review of urban and community forestry research, including—
+
+    (i) a review of all ongoing research associated with urban and community forests, arboricultural practices, and the economic, social, and psychological benefits of trees and forest cover in urban and community environments being conducted by the Forest Service, other Federal agencies, and associated land grant colleges and universities;
+
+    (ii) recommendations for new and expanded research efforts directed toward urban and community forestry concerns; and
+
+    (iii) a summary of research priorities and an estimate of the funds needed to implement such research, on an annual basis, for the next 10 years.
+
+  (E) Proposed criteria for evaluating proposed projects under the urban and community forestry challenge cost share program under subsection (f) of this section, with special emphasis given to projects that would demonstrate the benefits of improved forest management (including the maintenance and establishment of forest cover and trees) in urban areas and communities.
+
+  (F) An estimate of the resources needed to implement the National Urban and Community Forestry Action Plan for the succeeding 10 fiscal years.
+
+(4) **Amendment of plan** — The plan may be amended by a majority of the Council members. Such amendments shall be incorporated into the Council’s annual review of the plan submitted to the Secretary pursuant to paragraph (5) of this subsection.
+
+(5) **Review of plan** — The Council shall submit the plan to the Secretary and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate upon its completion. Beginning no later than one year after the plan is submitted and annually thereafter, the Council shall submit a review of the plan to the Secretary no later than December 31. The review shall consist of—
+
+  (A) the Council’s assessment of prior year accomplishments in research, education, technical assistance, and related activities in urban and community forestry;
+
+  (B) the Council’s recommendations for research, education, technical assistance, and related activities in the succeeding year; and
+
+  (C) the Council’s recommendations for the urban and community forestry challenge cost share projects to be funded during the succeeding year.
+  The review submitted to the Secretary shall be incorporated into the annual report required under [section 1601(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1601/d&num=0&edition=prelim).
+
+(6) **Detail of personnel** — Upon request of the Council, the Secretary is authorized to detail, on a reimbursable basis, any of the personnel of the Department of Agriculture to the Council to assist the Council in carrying out its duties under this chapter.
+
+**(h) Definitions** For the purposes of this section—
+
+(1) the term “Council” means the National Urban and Community Forestry Advisory Council established under subsection (g) of this section;
+
+(2) the term “plan” means the National Urban and Community Forestry Action Plan developed under subsection (g)(3) of this section; and
+
+(3) the term “urban and community area” includes cities, their suburbs, and towns.
+
+**(i) Authorization of appropriations** There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
+
+### Statutory Notes
+
+#### Codification
+November 28, 1990, referred to in subsec. (g)(3), was in the original “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 101–624, which amended this section generally, to reflect the probable intent of Congress.
+
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2008—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, § 7511(c)(36), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+
+1991—Subsec. (g)(1)(C), (3)(E). Pub. L. 102–237, § 1018(a)(3)(A), (B), substituted “subsection (f)” for “subsection (e)”.
+
+Subsec. (h)(1). Pub. L. 102–237, § 1018(a)(3)(C), substituted “subsection (g)” for “subsection (f)”.
+
+Subsec. (h)(2). Pub. L. 102–237, § 1018(a)(3)(D), substituted “subsection (g)(3)” for “subsection (f)(3)”.
+
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Congressional findings concerning urban forestry assistance, financial, technical, and related assistance to State foresters or equivalent State officials to encourage planning of urban forestry programs, and authorization of appropriations.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+Amendment by section 7511(c)(36) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522&num=0&edition=prelim), Agriculture.
+
+#### Termination of Advisory Councils
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+
+<a id="section-2106"></a>
+## § 2106. Rural fire prevention and control
+**(a) Congressional findings** Congress finds that—
+
+(1) significant accomplishments have been made by the Secretary and cooperating States in the prevention and control of fires on forest lands and on nonforested watersheds for more than fifty years;
+
+(2) progress is being made by the Secretary and cooperating States and rural communities in the protection of human lives, agricultural crops and livestock, property and other improvements, and natural resources from fires in rural areas;
+
+(3) notwithstanding the accomplishments and progress that have been made, fire prevention and control on rural lands and in rural communities are of continuing high priority to protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
+
+(4) the effective cooperative relationships between the Secretary and the States regarding fire prevention and control on rural lands and in rural communities should be retained and improved;
+
+(5) efforts in fire prevention and control in rural areas should be coordinated among Federal, State, and local agencies; and
+
+(6) in addition to providing assistance to State and local rural fire prevention and control programs, the Secretary should provide prompt and adequate assistance whenever a rural fire emergency overwhelms, or threatens to overwhelm, the firefighting capability of the affected State or rural area.
+
+**(b) Implementation of provisions** Notwithstanding the Federal Fire Prevention and Control Act of 1974 [[15 U.S.C. 2201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2201&num=0&edition=prelim) et seq.] the Secretary is authorized, under whatever conditions the Secretary may prescribe, to—
+
+(1) cooperate with State foresters or equivalent State officials in developing systems and methods for the prevention, control, suppression, and prescribed use of fires on rural lands and in rural communities that will protect human lives, agricultural crops and livestock, property and other improvements, and natural resources;
+
+(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
+
+(3) provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) 11 See References in Text note below. of title 7; and
+
+(4) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, including rural volunteer fire departments, to conduct preparedness and mobilization activities, including training, equipping, and otherwise enabling State and local firefighting agencies to respond to requests for fire suppression assistance.
+
+**(c) Encouragement of use of excess personal property by State and local fire forces receiving assistance; cooperation and assistance of Administrator of General Services** The Secretary, with the cooperation and assistance of the Administrator of General Services, shall encourage the use of excess personal property (within the meaning of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41) by State and local fire forces receiving assistance under this section.
+
+**(d) Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions** To promote maximum effectiveness and economy, the Secretary shall seek to coordinate the assistance the Secretary provides under this section with the assistance provided by the Secretary of Commerce under the Federal Fire Prevention and Control Act of 1974 [[15 U.S.C. 2201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2201&num=0&edition=prelim) et seq.].
+
+**(e) Authorization of appropriations for implementation of provisions**
+
+(1) There are hereby authorized to be appropriated annually such sums as may be needed to implement paragraphs (1), (2), and (3) of subsection (b) of this section.
+
+(2)
+
+  (A) There are hereby authorized to be appropriated annually $70,000,000 to carry out subsection (b)(4) of this section. Of the total amount appropriated to carry out subsection (b)(4) of this section—
+
+    (i) one-half shall be available only for State foresters or equivalent State officials, and through them to other agencies and individuals, of which not less than $100,000 shall be made available to each State; and
+
+    (ii) one-half shall be available only for rural volunteer fire departments.
+
+  (B) The Federal share of the cost of any activity carried out with funds made available pursuant to this paragraph may not exceed 50 percent of the cost of that activity. The non-Federal share for such activity may be in the form of cash, services, or in kind contributions.
+
+**(f) Special rural fire disaster fund; establishment, appropriations, etc.** There shall be established in the Treasury a special rural fire disaster fund that shall be immediately available to and used by the Secretary to supplement any other money available to carry out this section with respect to rural fire emergencies, as determined by the Secretary. The Secretary shall determine that State and local resources are fully used or will be fully used before expending money in the disaster fund to assist a State in which one or more rural fire emergencies exist. There are hereby authorized to be appropriated such sums as may be needed to establish and replenish the disaster fund established by this subsection.
+
+**(g) Definitions** As used in this section—
+
+(1) the term “rural volunteer fire department” means any organized, not for profit, fire protection organization that provides service primarily to a community or city with a population of 10,000 or less or to a rural area, as defined by the Secretary, whose firefighting personnel is 80 percent or more volunteer, and that is recognized as a fire department by the laws of the State; and
+
+(2) the term “mobilization” means any activity in which one firefighting organization assists another that has requested assistance.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classified principally to chapter 49 (§ 2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under [section 2201 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2201&num=0&edition=prelim) and Tables.
+
+[Section 1926(a)(7) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1926/a/7&num=0&edition=prelim), referred to in subsec. (b)(3), was repealed by Pub. L. 107–171, title VI, § 6020(b)(1), May 13, 2002, 116 Stat. 363.
+
+#### Codification
+In subsec. (c), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Prior Provisions
+A prior section 10 of Pub. L. 95–313 was renumbered section 13 and is classified to [section 2109 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2109).
+
+#### Amendments
+1991—Subsec. (g)(2). Pub. L. 102–237 substituted “firefighting organization” for “fire fighting organization”.
+
+1990—Subsec. (b)(4). Pub. L. 101–624, § 1220(a), added par. (4).
+
+Subsec. (e). Pub. L. 101–624, § 1220(b), designated existing provisions as par. (1), inserted reference to paragraphs (1), (2), and (3) of subsec. (b), and added par. (2).
+
+Subsec. (g). Pub. L. 101–624, § 1220(c), added subsec. (g).
+
+#### Transfer of Functions
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, [15 U.S.C. 2201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2201&num=0&edition=prelim) et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, § 201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§ 1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+
+
+<a id="section-2106a"></a>
+## § 2106a. Emergency reforestation assistance
+**(a) In general** The Secretary of Agriculture is authorized to provide assistance under this section to eligible landowners who suffer destruction of 35 percent or more of a commercial tree stand due to damaging weather, related condition, or wildfire.
+
+**(b) Form of assistance** The assistance, if any, provided by the Secretary under this section shall consist of either—
+
+(1) reimbursement of up to 65 percent of the cost of reestablishing such tree stand damaged by the damaging weather, related condition, or wildfire in excess of 35 percent mortality; or
+
+(2) at the discretion of the Secretary, provision of sufficient tree seedlings to reestablish such tree stand.
+
+**(c) Conditions**
+
+(1) **Limitation on assistance** — No person may receive an amount in excess of $25,000 in any fiscal year, or an equivalent value in tree seedlings, under this section.
+
+(2) **Ineligibility** — A person who has qualifying gross revenues in excess of $2,000,000 annually, as determined by the Secretary, shall not be eligible to receive any disaster payment or other benefits under this section.
+
+(3) **Implementation** — In implementing this section, the Secretary shall issue regulations—
+
+  (A) defining the term “person” for the purposes of this section that shall conform, to the extent practicable, to the regulations defining the term “person” issued under [section 1308 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308&num=0&edition=prelim) (before the amendment made by section 1703(a) 11 See References in Text note below. of the Food, Conservation, and Energy Act of 2008);
+
+  (B) prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitations established under this subsection; and
+
+  (C) ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry Assistance Act of 1978 ([16 U.S.C. 2101](./chapter-041-cooperative-forestry-assistance.md#section-2101) et seq.), and the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3839aa) et seq.], or other Federal program.
+
+**(d) Definitions** As used in this section—
+
+(1) the term “damaging weather” includes drought, hail, excessive moisture, freeze, tornado, hurricane, excessive wind, or any combination thereof;
+
+(2) the term “eligible landowner” means a person who—
+
+  (A) produces annual crops from trees for commercial purposes and owns 500 acres or less of such trees;
+
+  (B) owns 1,000 acres or less of private forest land; or
+
+  (C) owns more than 1,000 acres but less than 5,000 acres of private forest land if the Secretary, in the Secretary’s discretion, determines the person eligible;
+
+(3) the term “qualifying gross revenues” means—
+
+  (A) if a majority of the person’s annual income is received from farming, ranching, and forestry operations, the gross revenue from the person’s farming, ranching, and forestry operations; and
+
+  (B) if less than a majority of the person’s annual income is received from farming, ranching, and forestry operations, the person’s gross revenue from all sources;
+
+(4) the term “related condition” includes insect infestations, disease, or other deterioration of a tree stand that is accelerated or exacerbated by damaging weather;
+
+(5) the term “reestablish” includes site preparation, reforestation of a damaged stand, and timber stand improvement practices, including thinning, prescribed burning, and other practices approved by the Secretary for reforestation;
+
+(6) the term “Secretary” means the Secretary of Agriculture; and
+
+(7) the term “wildfire” means any forest or range fire.
+
+**(e) Retroactive assistance** The Secretary shall use funds provided under this section to reimburse landowners for approved reforestation practices that were implemented before November 28, 1990. The Secretary shall not make reimbursements for reforestation practices that were implemented prior to September 1, 1989.
+
+### Statutory Notes
+
+#### References in Text
+Section 1703(a) of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (c)(3)(A), probably means section 1603 of Pub. L. 110–246, because Pub. L. 110–246 does not contain a section 1703 and subsec. (b)(3) of section 1603 of Pub. L. 110–246 amended [section 1308 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308&num=0&edition=prelim), Agriculture, by striking out provisions relating to issuance of regulations defining “person”.
+
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c)(3)(C), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to this chapter (§ 2101 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
+
+The Food Security Act of 1985, referred to in subsec. (c)(3)(C), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 4 of subtitle D of title XII of the Act is classified generally to part IV (§ 3839aa et seq.) of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+Section was enacted as part of the Federal Stewardship Act of 1990 and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
+
+#### Amendments
+2008—Subsec. (c)(3)(A). Pub. L. 110–246, § 1603(g)(5), inserted “(before the amendment made by section 1703(a) of the Food, Conservation, and Energy Act of 2008)” after “[section 1308 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1308&num=0&edition=prelim)”.
+
+1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under [section 590p(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590p/b&num=0&edition=prelim)”.
+
+1991—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “([16 U.S.C. 2101](./chapter-041-cooperative-forestry-assistance.md#section-2101) et seq.)” after “1978” and made technical amendment to reference to [section 590p(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590p/b&num=0&edition=prelim) to correct corresponding provision of original Act.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2106b"></a>
+## § 2106b. Use of money collected from States for fire suppression assistance
+
+Any money collected from the States for fire suppression assistance rendered by the Forest Service on non-Federal lands not in the vicinity of National Forest System lands shall on and after October 21, 1998, be used to reimburse the applicable appropriation and shall remain available until expended as the Secretary may direct in conducting activities authorized by [16 U.S.C. 2101](./chapter-041-cooperative-forestry-assistance.md#section-2101) note, 2101–2110, 1606, and 2111.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
+
+#### Similar Provisions
+Provisions similar to this section were contained in the following prior appropriation acts:
+
+Pub. L. 105–83, title II, Nov. 14, 1997, 111 Stat. 1577.
+
+Pub. L. 104–208, div. A, title I, § 101(d) [title II], Sept. 30, 1996, 110 Stat. 3009–181, 3009–208.
+
+Pub. L. 104–134, title I, § 101(c) [title II], Apr. 26, 1996, 110 Stat. 1321–156, 1321–185; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
+
+Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2524.
+
+Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1403.
+
+Pub. L. 102–381, title II, Oct. 5, 1992, 106 Stat. 1402.
+
+Pub. L. 102–154, title II, Nov. 13, 1991, 105 Stat. 1018.
+
+Pub. L. 101–512, title II, Nov. 5, 1990, 104 Stat. 1943.
+
+Pub. L. 101–121, title II, Oct. 23, 1989, 103 Stat. 727.
+
+Pub. L. 100–446, title II, Sept. 27, 1988, 102 Stat. 1810.
+
+
+<a id="section-2106c"></a>
+## § 2106c. Enhanced community fire protection
+**(a) Cooperative management related to wildfire threats** The Secretary may cooperate with State foresters and equivalent State officials in the management of lands in the United States for the following purposes:
+
+(1) Aid in wildfire prevention and control.
+
+(2) Protect communities from wildfire threats.
+
+(3) Enhance the growth and maintenance of trees and forests that promote overall forest health.
+
+(4) Ensure the continued production of all forest resources, including timber, outdoor recreation opportunities, wildlife habitat, and clean water, through conservation of forest cover on watersheds, shelterbelts, and windbreaks.
+
+**(b) Community and Private Land Fire Assistance Program**
+
+(1) **Establishment; purpose** — The Secretary shall establish a Community and Private Land Fire Assistance program (in this subsection referred to as the “Program”)—
+
+  (A) to focus the Federal role in promoting optimal firefighting efficiency at the Federal, State, and local levels;
+
+  (B) to augment Federal projects that establish landscape level protection from wildfires;
+
+  (C) to expand outreach and education programs to homeowners and communities about fire prevention; and
+
+  (D) to establish space around homes and property of private landowners that is defensible against wildfires.
+
+(2) **Administration and implementation** — The Program shall be administered by the Forest Service and implemented through State foresters or equivalent State officials.
+
+(3) **Components** — In coordination with existing authorities under this chapter, the Secretary, in consultation with the State forester or equivalent State official, may undertake on non-Federal lands—
+
+  (A) fuel hazard mitigation and prevention;
+
+  (B) invasive species management;
+
+  (C) multiresource wildfire planning;
+
+  (D) community protection planning;
+
+  (E) community and landowner education enterprises, including the program known as FIREWISE;
+
+  (F) market development and expansion;
+
+  (G) improved wood utilization; and
+
+  (H) special restoration projects.
+
+(4) **Consent required** — Program activities undertaken by the Secretary on non-Federal lands shall be undertaken only with the consent of the owner of the lands.
+
+(5) **Considerations** — The Secretary shall use persons in the local community wherever possible to carry out projects under the Program.
+
+**(c) Consultation** In carrying out this section, the Secretary shall consult with the Administrator of the United States Fire Administration, the Director of the National Institute of Standards and Technology, and the heads of other Federal agencies, as necessary.
+
+**(d) Authorization of appropriations** There are hereby authorized to be appropriated to the Secretary to carry out this section—
+
+(1) $35,000,000 for each of fiscal years 2002 through 2007; and
+
+(2) such sums as are necessary for fiscal years thereafter.
+
+### Statutory Notes
+
+#### Findings for Enhanced Community Fire Protection
+Pub. L. 107–171, title VIII, § 8003(a), May 13, 2002, 116 Stat. 473, provided that: “Congress finds the following: “(1) The severity and intensity of wildland fires has increased dramatically over the past few decades as a result of past fire and land management policies. “(2) The record 2000 fire season is a prime example of what can be expected if action is not taken. “(3) Wildland fires threaten not only the forested resources of the United States, but also the thousands of communities intermingled with the wildlands in the wildland-urban interface. “(4) The National Fire Plan, if implemented to achieve appropriate priorities, is the proper, coordinated, and most effective means to address the issue of wildfires. “(5) While adequate authorities exist to tackle the wildfire issues at the landscape level on Federal lands, there is limited authority to take action on most private lands, and the largest threat to life and property exists on private lands. “(6) There is a significant Federal interest in enhancing community protection from wildfire.”
+
+
+<a id="section-2107"></a>
+## § 2107. Financial, technical, and related assistance to States
+**(a) Development of State organizations for protection and management of non-Federal forest lands; scope of assistance; request by officials** To aid in achieving maximum effectiveness in the programs and activities conducted under this chapter, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials for the development of stronger and more efficient State organizations that will enable them to fulfill better their responsibilities for the protection and management of non-Federal forest lands. Assistance under this subsection may include, but will not be limited to, assistance in matters related to organization management, program planning and management, budget and fiscal accounting services, personnel training and management, information services, and recordkeeping. Assistance under this subsection may be extended only upon request by State foresters or equivalent State officials.
+
+**(b) Assembly, analysis, display, and reporting of State forest resources data, resources planning, etc.; scope of assistance; other statutory provisions unaffected** To ensure that data regarding forest lands are available for and effectively presented in State and Federal natural resources planning, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials in the assembly, analysis, display, and reporting of State forest resources data, in the training of State forest resources planners, and in participating in natural resources planning at the State and Federal levels. The Secretary shall restrict assistance under this subsection to the implementation of the forestry aspects of State and Federal natural resources planning conducted under other laws. This subsection shall not be construed, in any way whatsoever, as extending, limiting, amending, repealing, or otherwise affecting any other law or authority.
+
+**(c) Technology implementation program; scope of program; availability of funds; use of forest resources planning committees** To ensure that new technology is introduced, new information is integrated into existing technology, and forest resources research findings are promptly made available to State forestry personnel, private forest landowners and managers, vendors, forest operators, wood proc­essors, public agencies, and individuals, the Secretary is authorized to carry out a program of technology implementation.
+
+(1) In implementing this subsection, the Secretary is authorized to work through State foresters or equivalent State officials, and, if the State forester or equivalent State official is unable to deliver these services, the Secretary is authorized to act through appropriate United States Department of Agriculture agencies, subdivisions of States, agencies, institutions, organizations, or individuals to—
+
+  (A) strengthen technical assistance and service programs of cooperators participating in programs under this chapter by applying research results and conducting pilot projects and field tests of management and utilization practices, equipment, and technologies, related to programs and activities authorized under this chapter;
+
+  (B) study the effects of tax laws, methods, and practices on forest management;
+
+  (C) develop and maintain technical information systems in support of programs and activities authorized under this chapter;
+
+  (D) test, evaluate, and seek registration of chemicals for use in implementing the programs and activities authorized under this chapter;
+
+  (E) conduct other activities, including training of State forestry personnel whom the Secretary deems necessary to ensure that the programs and activities authorized under this chapter are responsive to special problems, unique situations, and changing conditions.
+
+(2) The Secretary may make funds available to cooperators under this chapter without regard to the provisions of section 3324(a) and (b) of title 31, which prohibits advances of public money.
+
+(3) The Secretary shall use forest resources planning committees at National and State levels in implementing this subsection.
+
+**(d) Authorization of appropriations** There are hereby authorized to be appropriated annually such sums as may be needed to implement this section.
+
+### Statutory Notes
+
+#### Codification
+In subsec. (c)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes ([31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+#### Prior Provisions
+A prior section 11 of Pub. L. 95–313 was renumbered section 14 and is classified to [section 2110 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2110).
+
+
+<a id="section-2108"></a>
+## § 2108. Consolidation of payments
+**(a) Request by State; excluded funds** To provide flexibility in funding activities authorized under this chapter, the Secretary may, upon the request of any State, consolidate the annual financial assistance payments to that State under this chapter, in lieu of functional cost sharing mechanisms, formulas, or agreements. However, consolidated payments shall not include money appropriated under [section 2103 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103) or money from any special Treasury fund established under this chapter.
+
+**(b) State forest resources programs as basis** Consolidation of payments made under this section shall be based upon State forest resources programs developed by State foresters or equivalent State officials, and reviewed by the Secretary.
+
+**(c) Amount of payments** Consolidated payments to any State during any fiscal year shall not exceed the total amount of non-Federal funds expended within the State during that year to implement its State forest resources program. However, the Secretary may make payments that exceed the non-Federal amount expended for selected activities under the program, if the total Federal expenditure during any fiscal year does not exceed the total non-Federal expenditure during that year under the State forest resources program.
+
+**(d) Certification requirement by State forester or equivalent State official for Federal payment** The Secretary may make consolidated payments on the certificate of the State forester or equivalent State official that the conditions for Federal payment have been met.
+
+**(e) Administration of consolidated payments program not to adversely affect, etc., other programs** The Secretary shall administer this section to ensure that the use of consolidated payments does not adversely affect or eliminate any program authorized under this chapter.
+
+**(f) Total annual amount of financial assistance to participating State; financial assistance for special projects not to be included in determining base amount** Subject to applicable appropriation Acts, the total annual amount of financial assistance to any participating State after July 1, 1978, shall not be less than the base amount of financial assistance provided to that State under all the provisions of law specified in [section 2111 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2111) during the fiscal year in which this chapter is enacted. However, financial assistance for special projects of two years or less duration shall not be included in determining the base amount for any participating State.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 12 of Pub. L. 95–313, which amended [section 1606 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1606) and enacted provisions set out as a note under that section, was renumbered section 15.
+
+#### Amendments
+1990—Subsec. (f). Pub. L. 101–624, § 1224(2), made technical amendment to reference to [section 2111 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2111) to reflect renumbering of corresponding section of original act.
+
+
+<a id="section-2109"></a>
+## § 2109. General provisions
+**(a) Cooperative and coordinating requirements for implementation of programs, etc.** In implementing this chapter, the Secretary shall, to the maximum extent practicable—
+
+(1) work through, cooperate with, and assist State foresters or equivalent State officials;
+
+(2) encourage cooperation and coordination between State foresters or equivalent State officials and other State agencies that manage renewable natural resources;
+
+(3) use and encourage cooperators under this chapter to use, private agencies, consult­ants, organizations, firms, and individuals to furnish necessary materials and services; and
+
+(4) promote effectiveness and economy by coordinating the direct actions and assistance authorized under this chapter with related programs the Secretary administers, and with cooperative programs of other agencies.
+
+**(b) Availability of appropriations** Money appropriated under this chapter shall remain available until expended.
+
+**(c) Consultation requirements for implementation of programs, etc.** Requirements for the development of State forest resources programs and State participation in management assistance, planning assistance, and technology implementation, the apportionment of funds among States participating under this chapter, the administrative expenses in connection with activities and programs under this chapter, and the amounts to be expended by the Secretary to assist non-State cooperators under this chapter, shall be determined by the Secretary in consultation with a committee of not less than five State foresters or equivalent State officials selected by a majority of the State foresters or equivalent State officials from States participating in programs under this chapter. However, the Secretary need not consult with such committee regarding funds to be expended under emergency conditions that the Secretary may determine.
+
+**(d) Definitions** For the purposes of this chapter—
+
+(1) The terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau, and the territories and possessions of the United States;
+
+(2) The term “forest resources” shall include esthetics, fish and wildlife, forage, outdoor recreation opportunities, timber, and water; and
+
+(3) The term “urban forestry” means the planning, establishment, protection, and management of trees and associated plants, individually, in small groups, or under forest conditions within cities, their suburbs, and towns.
+
+**(e) Rules and regulations** The Secretary may prescribe rules and regulations, as the Secretary deems appropriate, to implement the provisions of this chapter.
+
+**(f) Granting, etc., authorities** The Secretary is authorized to make grants, agreements, contracts, and other arrangements the Secretary deems necessary to implement this chapter.
+
+**(g) Construction of statutory provisions** This chapter shall be construed as supplementing all other laws relating to the Department of Agriculture and shall not be construed as limiting or repealing any existing law or authority of the Secretary, except as specifically cited in [section 2111 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2111).
+
+**(h) Additional assistance** In addition to the authority provided elsewhere in this chapter, the Secretary may provide assistance to other countries with respect to the activities described in paragraphs (1) through (10) of [section 2102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2102/b&num=0&edition=prelim), paragraphs (1) through (5) of section 2104(b) 11 See References in Text note below. of this title, and paragraphs (1) through (3) of [section 2105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2105/b&num=0&edition=prelim). For the purposes of providing assistance to other countries under this subsection, the term “non-Federal forest land” shall mean any forest land and related renewable natural resources in such countries. In providing the assistance authorized under this subsection, the Secretary shall coordinate with other Federal officials, departments, agencies, or international organizations, as the President may direct. The references to “State foresters or equivalent State officials” in this chapter shall not apply to the assistance provided by the Secretary to other countries under this subsection.
+
+### Statutory Notes
+
+#### References in Text
+[Section 2104(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2104/b&num=0&edition=prelim), referred to in subsec. (h), was in the original a reference to section 7(b), meaning section 7(b) of Pub. L. 95–313, which has been translated as reading section 8(b) of Pub. L. 95–313 as the probable intent of Congress. Section 7(b) of Pub. L. 95–313, which is classified to [section 2103c of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103c), does not contain pars. (1) to (5).
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Prior Provisions
+A prior section 13 of Pub. L. 95–313 was renumbered section 16 and is classified to [section 2111 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2111).
+
+#### Amendments
+2008—Subsec. (d)(1). Pub. L. 110–246, § 8004, substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau,” for “the Trust Territory of the Pacific Islands,”.
+
+1990—Subsec. (g). Pub. L. 101–624, § 1224(3), made technical amendment to reference to [section 2111 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2111) to reflect renumbering of corresponding section of original act.
+
+Subsec. (h). Pub. L. 101–513, which directed amendment of section 12 of Pub. L. 95–313 by adding a new subsec. (h), was executed to this section to reflect the probable intent of Congress.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2109a"></a>
+## § 2109a. Competitive allocation of funds to State foresters or equivalent State officials
+**(a) Competition** Beginning not later than 3 years after the date of the enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall competitively allocate a portion, to be determined by the Secretary, of the funds available under this chapter to State foresters or equivalent State officials.
+
+**(b) Determination** In determining the competitive allocation of funds under subsection (a), the Secretary shall consult with the Forest Resource Coordinating Committee established by [section 2113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2113/a&num=0&edition=prelim).
+
+**(c) Priority** The Secretary shall give priority for funding to States for which the long-term State-wide forest resource strategies submitted under [section 2101a(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101a/a/2&num=0&edition=prelim) will best promote the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2109b"></a>
+## § 2109b. Competitive allocation of funds for cooperative forest innovation partnership projects
+**(a) Cooperative forest innovation partnership projects** The Secretary may competitively allocate not more than 5 percent of the funds made available under this chapter to support innovative national, regional, or local education, outreach, or technology transfer projects that the Secretary determines would substantially increase the ability of the Department of Agriculture to address the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim).
+
+**(b) Eligibility** Notwithstanding the eligibility limitations contained in this chapter, any State or local government, Indian tribe, land-grant college or university, or private entity shall be eligible to compete for funds to be competitively allocated under subsection (a).
+
+**(c) Cost-share requirement** In carrying out subsection (a), the Secretary shall not cover more than 50 percent of the total cost of a project under such subsection. In calculating the total cost of a project and contributions made with regard to the project, the Secretary shall include in-kind contributions.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Effective Date
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2110"></a>
+## § 2110. Statement of limitation
+
+This chapter shall not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, unless such property rights are voluntarily conveyed or limited by contract or other agreement. This chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 14 of Pub. L. 95–313 was renumbered section 17 and is set out as a note under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101).
+
+#### Amendments
+1990—Pub. L. 101–624, § 1221, amended section generally. Prior to amendment, section read as follows: “This chapter does not authorize the Federal Government to regulate the use of private land or to deprive owners of land of their rights to property or to income from the sale of property, and this chapter does not diminish in any way the rights and responsibilities of the States and political subdivisions of States.”
+
+
+<a id="section-2111"></a>
+## § 2111. Other Federal programs
+**(a) Repeal of statutory authorities** The following laws, and portions of laws, are hereby repealed:
+
+(1) sections 1, 2, 3, and 4 of the Act of June 7, 1924, known as the Clarke-McNary Act (43 Stat. 653–654, as amended; [16 U.S.C. 564](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section564&num=0&edition=prelim), 565, 566, 567);
+
+(2) the Act of April 26, 1940, known as the White Pine Blister Rust Protection Act (54 Stat. 168; [16 U.S.C. 594a](./chapter-004-protection-of-timber-and-depredations.md#section-594a));
+
+(3) the Forest Pest Control Act;
+
+(4) the Cooperative Forest Management Act;
+
+(5) section 401 of the Agricultural Act of 1956 [[16 U.S.C. 568e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section568e&num=0&edition=prelim)];
+
+(6) title IV of the Rural Development Act of 1972 [[7 U.S.C. 2651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2651&num=0&edition=prelim) et seq.]; and
+
+(7) section 1009 and the proviso to section 1010 11 See References in Text note below. of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 [[16 U.S.C. 1509](./chapter-034-rural-environmental-conservation-program.md#section-1509), 1510].
+
+**(b) Force and effect of contracts and cooperative and other agreements under cooperative forestry programs executed under authority of repealed statutes** Contracts and cooperative and other agreements under cooperative forestry programs executed under authority of the Acts, or portions thereof, repealed under subsection (a) of this section shall remain in effect until revoked or amended by their own terms or under other provisions of law.
+
+**(c) Availability of funds appropriated under authority of repealed statutes for cooperative forestry assistance programs** Funds appropriated under the authority of the Acts, or portions thereof, repealed under subsection (a) of this section shall be available for expenditure for the programs authorized under this chapter.
+
+### Statutory Notes
+
+#### References in Text
+Act of April 26, 1940, known as the White Pine Blister Rust Protection Act (54 Stat. 168; [16 U.S.C. 594a](./chapter-004-protection-of-timber-and-depredations.md#section-594a)), referred to in subsec. (a)(2), is act Apr. 26, 1940, ch. 159, 54 Stat. 168, which enacted [section 594a of this title](./chapter-004-protection-of-timber-and-depredations.md#section-594a).
+
+The Forest Pest Control Act, referred to in subsec. (a)(3), is act June 25, 1947, ch. 141, 61 Stat. 177, as amended, which enacted sections 594–1 to 594–5 of this title and enacted provisions set out as notes under [section 594–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section594–1&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+
+The Cooperative Forest Management Act, referred to in subsec. (a)(4), is act Aug. 25, 1950, ch. 781, 64 Stat. 473, as amended, which enacted sections 568c and 568d of this title, repealed [section 568b of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-568b), and enacted a provision set out as a note under [section 568c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section568c&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+
+The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§ 2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+
+Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to [section 1510 of this title](./chapter-034-rural-environmental-conservation-program.md#section-1510) prior to repeal by Pub. L. 104–127, title III, § 336(d)(1), Apr. 4, 1996, 110 Stat. 1006.
+
+
+<a id="section-2112"></a>
+## § 2112. Cooperative national forest products marketing program
+**(a) Findings and purposes**
+
+(1) **Findings** — Congress finds that—
+
+  (A) the health and vitality of the domestic forest products industry is important to the well-being of the economy of the United States;
+
+  (B) the domestic forest products industry has a significant potential for expansion in both domestic and foreign markets;
+
+  (C) many small-sized to medium-sized forest products firms lack the tools that would enable them to meet the increasing challenge of foreign competition in domestic and foreign markets; and
+
+  (D) a new cooperative forest products marketing program will improve the competitiveness of the United States forest products industry.
+
+(2) **Purposes** — The purposes of this section are to—
+
+  (A) provide direct technical assistance to the United States forest products industry to improve marketing activities;
+
+  (B) provide cost-share grants to States to support State and regional forest products marketing programs; and
+
+  (C) target assistance to small-sized and medium-sized producers of solid wood and processed wood products, including pulp.
+
+**(b) Program authority**
+
+(1) **In general** — The Secretary shall establish a cooperative national forest products marketing program under this chapter that provides—
+
+  (A) technical assistance to States, landowners, and small-sized to medium-sized forest products firms on ways to improve domestic and foreign markets for forest products; and
+
+  (B) grants of financial assistance with matching requirements to the States to assist in State and regional forest products marketing efforts targeted to aid small-sized to medium-sized forest products firms and private, nonindustrial forest landowners.
+
+(2) **Interstate cooperative agreements** — Grant agreements shall encourage the establishment of interstate cooperative agreements by the States for the purpose of promoting the development of domestic and foreign markets for forest products.
+
+**(c) Limitations**
+
+(1) **Cooperation with other Federal agencies** — In carrying out this section, the Secretary shall cooperate with Federal departments and agencies to avoid the duplication of efforts and to increase program efficiency.
+
+(2) **Domestic program** — The program authorized under this section shall be carried out within the United States and not be extended to Department of Agriculture activities in foreign countries.
+
+**(d) Authorization for appropriations** There are authorized to be appropriated $5,000,000 for each of the fiscal years 1988 through 1991, to carry out this section.
+
+**(e) Program report** The Secretary shall report to Congress annually on the activities taken under the marketing program established under this section. A final report including recommendations for program changes and the need and desirability of the reauthorization of this authority, and required levels of funding, shall be submitted to Congress not later than September 30, 1990.
+
+### Statutory Notes
+
+#### International Forest Products Trade Institute
+Section 1247 of Pub. L. 101–624, as amended by Pub. L. 102–237, title X, § 1018(c), Dec. 13, 1991, 105 Stat. 1905, provided that: “(a) Establishment.—The Secretary of Agriculture may establish an International Forest Products Trade Institute (hereafter in this section referred to as the ‘Institute’). “(b) Mission.—The mission of the Institute will be to increase the competitive position of the forest industries of the northeastern United States as major producers of international forest products in order to increase domestic employment and stimulate rural development, and to provide a knowledgeable, objective analysis of global forest resource problems. “(c) Functions.—The Institute shall—“(1) emphasize the application of existing knowledge to the manufacturing and international marketing of forest products as well as conduct new research related to the competitiveness of the northeastern forest products industry; “(2) study and evaluate domestic and international forest, forest sector, agroforestry, development, economic, and trade policies; “(3) design, analyze and test technologically appropriate manufacturing, processing and marketing systems which are supportive of and consistent with forest policy and management strategies formulated by the Institute and which enhance opportunities for markets in forest products; and “(4) formulate and test management strategies for—“(A) United States forests, and “(B) manufacturing facilities that promote ecologically sustainable use, and long-term management, of international forests. “(d) Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
+
+
+<a id="section-2113"></a>
+## § 2113. Federal, State, and local coordination and cooperation
+**(a) Forest Resource Coordinating Committee**
+
+(1) **Establishment** — The Secretary shall establish a committee, to be known as the “Forest Resource Coordinating Committee” (in this section referred to as the “Coordinating Committee”), to coordinate nonindustrial private forestry activities within the Department of Agriculture and with the private sector.
+
+(2) **Composition** — The Coordinating Committee shall be composed of the following:
+
+  (A) The Chief of the Forest Service.
+
+  (B) The Chief of the Natural Resources Conservation Service.
+
+  (C) The Director of the Farm Service Agency.
+
+  (D) The Director of the National Institute of Food and Agriculture.
+
+  (E) Non-Federal representatives appointed by the Secretary to 3 year terms, although initial appointees shall have staggered terms, including the following persons:
+
+    (i) At least three State foresters or equivalent State officials from geographically diverse regions of the United States.
+
+    (ii) A representative of a State fish and wildlife agency.
+
+    (iii) An owner of nonindustrial private forest land.
+
+    (iv) A forest industry representative.
+
+    (v) A conservation organization representative.
+
+    (vi) A land-grant university or college representative.
+
+    (vii) A private forestry consultant.
+
+    (viii) A representative from a State Technical Committee established under [section 3861 of this title](./chapter-058-erodible-land-and-wetland-conservation-and-reserve-program.md#section-3861).
+
+  (F) Such other persons as determined by the Secretary to be appropriate.
+
+(3) **Chairperson** — The Chief of the Forest Service shall serve as chairperson of the Coordinating Committee.
+
+(4) **Duties** — The Coordinating Committee shall—
+
+  (A) provide direction and coordination of actions within the Department of Agriculture, and coordination with State agencies and the private sector, to effectively address the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim), with specific focus 11 So in original. The word “on” probably should appear after “focus”. owners of nonindustrial private forest land;
+
+  (B) clarify individual agency responsibilities of each agency represented on the Coordinating Committee concerning the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim), with specific focus on nonindustrial private forest land;
+
+  (C) provide advice on the allocation of funds, including the competitive funds set-aside by sections 2109a and 2109b of this title; and
+
+  (D) assist the Secretary in developing and reviewing the report required by [section 2101(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/d&num=0&edition=prelim).
+
+(5) **Meeting** — The Coordinating Committee shall meet annually to discuss progress in addressing the national priorities specified in [section 2101(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101/c&num=0&edition=prelim) and issues regarding nonindustrial private forest land.
+
+(6) **Compensation**
+
+  (A) *Federal members* — Members of the Coordinating Committee who are full-time officers or employees of the United States shall receive no additional pay, allowances, or benefits by reason of their service on the Coordinating Committee.
+
+  (B) *Non-Federal members* — Non-federal 22 So in original. Probably should be “Non-Federal”. members of the Coordinating Committee shall serve without pay, but may be reimbursed for reasonable costs incurred while performing their duties on behalf of the Coordinating Committee.
+
+**(b) State Coordinating Committees**
+
+(1) **Establishment**
+
+  (A) *In general* — The Secretary, in consultation with the State forester or equivalent State official of each State, shall establish a State Forest Stewardship Coordinating Committee (hereafter referred to in this section as the “State Coordinating Committee”) for each such State.
+
+  (B) *Composition* — The State Coordinating Committee shall be chaired and administered by the State forester, or equivalent State official, or the designee thereof, and shall be composed, to the extent practicable, of—
+
+    (i) representatives from the Forest Service, Soil Conservation Service, Agricultural Stabilization and Conservation Service, and National Institute of Food and Agriculture;
+
+    (ii) representatives, to be appointed by the State forester or equivalent State official, representative of—
+
+      (I) local government;
+
+      (II) consulting foresters;
+
+      (III) environmental organizations;
+
+      (IV) forest products industry;
+
+      (V) forest land owners;
+
+      (VI) land-trust organizations, if applicable in the State;
+
+      (VII) conservation organizations;
+
+      (VIII) the State fish and wildlife agency; and
+
+      (IX) the State Technical Committee.
+
+    (iii) any other individuals determined appropriate by the Secretary.
+
+  (C) *Terms* — The members of the State Coordinating Committee appointed under subparagraph (B)(ii) shall serve 3-year terms, with the initial members serving staggered terms as determined by the State forester or equivalent State official, and may be reappointed for consecutive terms.
+
+  (D) *Existing committees* — Existing State forestry committees may be used to complement, formulate, or replace the State Coordinating Committees to avoid duplication of efforts if such existing committees are made up of membership that is similar to that described in subparagraph (B)(ii), and if such existing committees include landowners and the general public in their memberships.
+
+(2) **Duties** — A State Coordinating Committee shall—
+
+  (A) consult with other Department of Agriculture and State committees that address State and private forestry issues;
+
+  (B) make recommendations to the Secretary concerning the assignment of priorities and the coordination of responsibilities for the implementation of this chapter by the various Federal and State forest management agencies that take into consideration the mandates of each such agency;
+
+  (C) make recommendations to the State forester or equivalent State official concerning the development of the State-wide assessment and strategy regarding forest resource conditions under [section 2101a of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101a); and
+
+  (D) make recommendations to the Secretary concerning those forest lands that should be given priority for inclusion in the Forest Legacy Program established pursuant to [section 2103c of this title](./chapter-041-cooperative-forestry-assistance.md#section-2103c).
+
+(3) **Termination** — The State Coordinating Committees shall not terminate.
+
+(4) **Rule of construction** — Nothing in this section shall be construed to compel action by any State official.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2008—Subsec. (a). Pub. L. 110–246, § 8005, added subsec. (a) and struck out former subsec (a) which related to: in par. (1) establishment of a Forest Resource Coordinating Committee; in par. (2) composition of the Committee; in par. (3) designation of a chairperson; and in par. (4) duties of the Committee.
+
+Subsec. (b)(1)(B)(i). Pub. L. 110–246, § 7511(c)(37), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+
+Subsec. (b)(1)(B)(ii)(IX). Pub. L. 110–246, § 8006(1), added subcl. (IX).
+
+Subsec. (b)(2)(C). Pub. L. 110–246, § 8006(2), substituted “the State-wide assessment and strategy regarding forest resource conditions under [section 2101a of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101a)” for “a Forest Stewardship Plan under paragraph (3)”.
+
+Subsec. (b)(3) to (6). Pub. L. 110–246, § 8006(3), (4), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which related to development of a Forest Stewardship Plan and authorized the use of other plans if they fully conformed to section objectives.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522&num=0&edition=prelim), Agriculture.
+
+
+<a id="section-2114"></a>
+## § 2114. Administration
+**(a) In general** The Secretary shall administer this chapter in accordance with regulations that the Secretary shall develop.
+
+**(b) Guidelines** The regulations promulgated under this chapter shall include guidelines for the administration of this chapter at the Federal and State levels and shall identify the measures and activities that are eligible for cost sharing under this chapter.
+
+**(c) Existing mechanisms** Existing mechanisms shall be used to the extent possible to make payments and deliver services to the landowner under this chapter.
+
+**(d) Land grant universities** The Secretary, in consultation with State foresters or equivalent State officials, may provide assistance directly to other State and local natural resource management agencies and land grant universities in implementing this chapter in cases in which the State foresters or equivalent State officials are not able to make fund transfers to other State and local agencies.

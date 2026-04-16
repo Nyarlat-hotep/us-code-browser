@@ -1,0 +1,31 @@
+---
+title: 49
+chapter: '483'
+heading: AVIATION SECURITY FUNDING
+section_count: 1
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
+---
+<a id="section-48301"></a>
+## § 48301. Aviation security funding
+**(a) In General.—** There are authorized to be appropriated for fiscal years 2002, 2003, 2004, 2005, 2007, 2008, 2009, 2010, and 2011 such sums as may be necessary to carry out chapter 449 and related aviation security activities under this title. Any amounts appropriated pursuant to this section for fiscal year 2002 shall remain available until expended.
+
+**(b) Grants for Aircraft Security.—** There is authorized to be appropriated $500,000,000 for fiscal year 2002 to the Secretary of Transportation to make grants to or other agreements with air carriers (including intrastate air carriers) to—
+
+(1) fortify cockpit doors to deny access from the cabin to the pilots in the cockpit;
+
+(2) provide for the use of video monitors or other devices to alert the cockpit crew to activity in the passenger cabin;
+
+(3) ensure continuous operation of the aircraft transponder in the event the crew faces an emergency; and
+
+(4) provide for the use of other innovative technologies to enhance aircraft security.
+
+### Statutory Notes
+
+#### Amendments
+2007—Subsec. (a). Pub. L. 110–53 substituted “2007, 2008, 2009, 2010, and 2011” for “and 2006”.
+
+2004—Subsec. (a). Pub. L. 108–458 substituted “2005, and 2006” for “and 2005”.
+
+#### Deemed References to Chapters 509 and 511 of Title 51
+General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101).

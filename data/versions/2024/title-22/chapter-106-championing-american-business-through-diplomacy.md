@@ -1,0 +1,171 @@
+---
+title: 22
+chapter: '106'
+heading: CHAMPIONING AMERICAN BUSINESS THROUGH DIPLOMACY
+section_count: 6
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
+---
+<a id="section-9901"></a>
+## § 9901. Findings
+
+Congress makes the following findings:
+
+(1) According to the 2017 National Security Strategy of the United States of America, “Retaining our position as the world’s preeminent economic actor strengthens our ability to use the tools of economic diplomacy for the good of Americans and others.”.
+
+(2) A November 7, 2018, cable from Secretary of State Michael R. Pompeo to all diplomatic and consular posts—“Boosting Commercial Diplomacy Around the World”—stated that “helping American companies is a foreign policy priority. . .Promoting broad-based, responsible, and sustainable economic growth helps to stabilize regions and creates new and growing markets for U.S. companies. A transparent and level playing field for U.S. investment in these countries counters real and growing challenges such as China’s Belt and Road initiative.”.
+
+(3) In the January–February 2019 issue of The Foreign Service Journal, Ambassador Barbara Stephenson, the President of the American Foreign Service Association, wrote, “Foreign Service support for American business. . .is a major reason why the U.S. Foreign Service was created.”.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 116–94, div. J, title VII, § 701, Dec. 20, 2019, 133 Stat. 3069, provided that: “This title [enacting this chapter and amending sections 2651a, 3927, and 4028 of this title] may be cited as the ‘Championing American Business Through Diplomacy Act of 2019’.”
+
+#### Direction to Embassy Deal Teams
+Pub. L. 118–31, div. F, title LXV, § 6503, Dec. 22, 2023, 137 Stat. 1007, provided that: “(a) Purposes.—The purposes of deal teams at United States embassies and consulates are—“(1) to promote a private sector-led approach—“(A) to advance economic growth and job creation that is tailored, as appropriate, to specific economic sectors; and “(B) to advance strategic partnerships; “(2) to prioritize efforts—“(A) to identify commercial and investment opportunities; “(B) to advocate for improvements in the business and investment climate; “(C) to engage and consult with private sector partners; and “(D) to report on the activities described in subparagraphs (A) through (C), in accordance with the applicable requirements under sections 706 and 707 of the Championing American Business Through Diplomacy Act of 2019 ([22 U.S.C. 9902](./chapter-106-championing-american-business-through-diplomacy.md#section-9902) and 9903); “(3)(A)(i) to identify trade and investment opportunities for United States companies in foreign markets; or “(ii) to assist with existing trade and investment opportunities already identified by United States companies; and “(B) to deploy United States Government economic and other tools to help such United States companies to secure their objectives; “(4) to identify and facilitate opportunities for entities in a host country to increase exports to, or investment in, the United States in order to grow two-way trade and investment; “(5) to modernize, streamline, and improve access to resources and services designed to promote increased trade and investment opportunities; “(6) to identify and secure United States or allied government support of strategic projects, such as ports, railways, energy production and distribution, critical minerals development, telecommunications networks, and other critical infrastructure projects vulnerable to predatory investment by an authoritarian country or entity in such country where support or investment serves an important United States interest; “(7) to coordinate across the Unites States Government to ensure the appropriate and most effective use of United States Government tools to support United States economic, commercial, and investment objectives; and “(8) to coordinate with the multi-agency DC Central Deal Team, established in February 2020, on the matters described in paragraphs (1) through (7) and other relevant matters. “(b) Clarification.—A deal team may be composed of the personnel comprising the mission economic team formed pursuant to section 207 of the Foreign Service Act of 1980 [[22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)]. “(c) Restrictions.—A deal team may not provide support for, or assist a United States person with a transaction involving, a government, or an entity owned or controlled by a government, if the Secretary [of State] determines that such government—“(1) has repeatedly provided support for acts of international terrorism, as described in—“(A) section 1754(c)(1)(A)(i) of the Export Control Reform Act of 2018 (subtitle B of title XVII of Public Law 115–232) [[50 U.S.C. 4813(c)(1)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A/i&num=0&edition=prelim)]; “(B) section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371/a&num=0&edition=prelim)); “(C) section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780/d&num=0&edition=prelim)); or “(D) any other relevant provision of law; or “(2) has engaged in an activity that would trigger a restriction under section 116(a) or 502B(a)(2) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151n/a&num=0&edition=prelim) and 2304(a)(2)) or any other relevant provision of law. “(d) Further Restrictions.—“(1) Prohibition on support of sanctioned persons.—Deal teams may not carry out activities prohibited under United States sanctions laws or regulations, including dealings with persons on the list of specially designated persons and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury, except to the extent otherwise authorized by the Secretary of the Treasury or the Secretary. “(2) Prohibition on support of activities subject to sanctions.—Any person receiving support from a deal team must be in compliance with all United States sanctions laws and regulations as a condition for receiving such assistance. “(e) Chief of Mission Authority and Accountability.—The chief of mission to a foreign country—“(1) is the designated leader of a deal team in such country; and “(2) shall be held accountable for the performance and effectiveness of United States deal teams in such country. “(f) Guidance Cable.—The Department [of State] shall send out regular guidance on Deal Team efforts by an All Diplomatic and Consular Posts (referred to in this section as ‘ALDAC’) that—“(1) describes the role of deal teams; and “(2) includes relevant and up-to-date information to enhance the effectiveness of deal teams in a country. “(g) Confidentiality of Information.—“(1) In general.—In preparing the cable required under subsection (f), the Secretary shall protect from disclosure any proprietary information of a United States person marked as business confidential information unless the person submitting such information—“(A) had notice, at the time of submission, that such information would be released by; or “(B) subsequently consents to the release of such information. “(2) Treatment as trade secrets.—Proprietary information obtained by the United States Government from a United States person pursuant to the activities of deal teams shall be—“(A) considered to be trade secrets and commercial or financial information (as such terms are used under [section 552b(c)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c/4&num=0&edition=prelim), United States Code); and “(B) exempt from disclosure without the express approval of the person. “(h) Sunset.—The requirements under subsections (f) through (h) [sic] shall terminate on the date that is 5 years after the date of the enactment of this division [Dec. 22, 2023].”
+
+#### Establishment of a “Deal Team of the Year” Award
+Pub. L. 118–31, div. F, title LXV, § 6504, Dec. 22, 2023, 137 Stat. 1009, provided that: “(a) Establishment.—The Secretary [of State] shall establish a new award, to be known as the ‘Deal Team of the Year Award’, and annually present the award to a deal team at one United States mission in each region to recognize outstanding achievements in supporting a United States company or companies pursuing commercial deals abroad or in identifying new deal prospects for United States companies. “(b) Award Content.—“(1) Department of state.—Each member of a deal team receiving an award pursuant to subsection (a) shall receive a certificate that is signed by the Secretary and—“(A) in the case of a member of the Foreign Service, is included in the next employee evaluation report; or “(B) in the case of a Civil Service employee, is included in the next annual performance review. “(2) Other federal agencies.—If an award is presented pursuant to subsection (a) to a Federal Government employee who is not employed by the Department [of State], the employing agency may determine whether to provide such employee any recognition or benefits in addition to the recognition or benefits provided by the Department. “(c) Eligibility.—Any interagency economics team at a United States overseas mission under chief of mission authority that assists United States companies with identifying, navigating, and securing trade and investment opportunities in a foreign country or that facilitates beneficial foreign investment into the United States is eligible for an award under this section. “(d) Report.—Not later than the last day of the fiscal year in which awards are presented pursuant to subsection (a), the Secretary shall submit to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives], the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Accountability of the House of Representatives a report that includes—“(1) each mission receiving a Deal Team of the Year Award.[;] “(2) the names and agencies of each awardee within the recipient deal teams; and “(3) a detailed description of the reason such deal teams received such award.”
+
+
+<a id="section-9902"></a>
+## § 9902. Report from each mission on matters of commercial relations
+**(a) In general** Not later than 1 year after December 20, 2019, and annually thereafter, the chief of mission at each bilateral diplomatic mission of the United States and the Director of the American Institute in Taiwan shall submit to the Secretary of State mission plans that include the following:
+
+(1) Data and other information regarding actions taken by each such mission or Institute during the previous year to foster commercial relations and safeguard United States economic and business interests in the country or region in which each such chief of mission and the Director serves.
+
+(2) Each such mission’s and Institute’s anticipated economic and commercial priorities for the coming year.
+
+**(b) Report to Congress** The Secretary of State, after receiving the information required under subsection (a), shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report, disaggregated by country or region, on activities and initiatives, including with appropriate examples, to create an enabling environment and otherwise promote United States economic and business interests in each such country or region, as well as information about significant foreign competition to United States businesses in the relevant country or region, including state-directed investments by foreign governments and United States strategic competitors in such country or region.
+
+
+<a id="section-9903"></a>
+## § 9903. Consolidated report on unified investment climate statement and country commercial guide
+**(a) In general** The Secretary of State and the Secretary of Commerce shall jointly produce and make publicly available on a United States Government internet website an annual country- and region-specific report regarding commercial relations with foreign countries and regions and safeguarding United States economic and business interests abroad, including with regard to United States exports and investments, including by small- and medium-size enterprises.
+
+**(b) Matters to be included** Each report required under subsection (a) shall include the following with respect to each country or region covered by each such report:
+
+(1) Information about doing business in each country or region.
+
+(2) Background information about each country’s or region’s political environment.
+
+(3) Information about selling United States products and services in each country or region.
+
+(4) Leading sectors for United States exports and investment in each country or region.
+
+(5) Information about trade regulations, customs, and standards in each country or region, such as—
+
+  (A) information on import tariffs; and
+
+  (B) documentation about which United States businesses should be aware when exporting, including any prohibited items or temporary entry procedures.
+
+(6) Investment climate statements describing each country’s or region’s openness to foreign investments, such as information relating to each country’s or region’s—
+
+  (A) investment policies;
+
+  (B) market barriers;
+
+  (C) business risks;
+
+  (D) legal and regulatory system, including dispute resolution;
+
+  (E) level of public and private sector corruption;
+
+  (F) level of political violence and instability;
+
+  (G) adherence to internationally recognized core labor standards; and
+
+  (H) protection of property rights.
+
+(7) Information about trade and project financing in each country or region, such as each country’s or region’s—
+
+  (A) banking and financial system, and how United States businesses typically get paid;
+
+  (B) foreign exchange controls; and
+
+  (C) important sources of funding for project financing.
+
+(8) Relevant business travel information and business customs in each country or region.
+
+(9) Information about services and personnel of the diplomatic mission of the United States available to United States businesses to support their activities in each country or region.
+
+(10) Any significant trade or commercial agreement that exists between the United States and each country or region.
+
+(11) A point of contact at the diplomatic or consular mission of the United States in each country or region for United States businesses.
+
+**(c) Rule of construction** Nothing in this section may be construed to require the duplication of existing reports.
+
+
+<a id="section-9904"></a>
+## § 9904. Whole-of-government coordination and consultation to support United States economic and business interests
+**(a) In general** The Secretary of State, in consultation with the Administrator of the United States Agency for International Development, the Secretary of Commerce, the Secretary of the Treasury, and the United States Trade Representative, shall have primary responsibility for coordinating a whole-of-government effort to expand United States efforts in supporting United States economic and business interests abroad. The Secretary may delegate responsibilities under this chapter to a senior, Senate-confirmed Department of State official.
+
+**(b) Responsibilities** The Secretary shall—
+
+(1) chair the interagency coordinating committee established under subsection (c);
+
+(2) develop and implement the joint strategic plan required under subsection (c)(4) for all United States trade-related and trade capacity building and related technical assistance programs, in consultation with the coordinating committee established under subsection (c);
+
+(3) advise the Federal departments and agencies designated by the President to participate in the interagency coordinating committee under this section in identifying the most needed and effective ways for United States diplomatic and consular posts and the departments and agencies that staff such posts to support the expansion of United States trade relations with host governments;
+
+(4) consult with the private sector in the development of government-wide trade expansion efforts, including establishing a point of contact and lead office within the Department of State to receive private-sector recommendations and comments concerning trade capacity assistance, coordination, consultations, and country-specific issues;
+
+(5) consult with the Office of Management and Budget regarding the administrative and human resources needs that may be required to implement the provisions of this chapter; and
+
+(6) brief Congress on trade capacity building programs and make recommendations, as appropriate, to Congress for improvements in trade capacity building efforts.
+
+**(c) Economic Diplomacy Action Group**
+
+(1) **Establishment** — The President shall establish an interagency coordinating committee, to be known as the “Economic Diplomacy Action Group”, to coordinate and carry out the purposes of this section.
+
+(2) **Leadership** — The Group shall be chaired by the Secretary of State and the vice-chairs shall be the United States Trade Representative and the Secretary of Commerce. The Secretaries and the United States Trade Representative may delegate responsibilities under this chapter to appropriate, senior, Senate-confirmed officials.
+
+(3) **Membership** — The President may appoint to the Group senior officials from the United States Agency for International Development, the Department of Agriculture, the Department of the Treasury, the Export-Import Bank, the United States Development Finance Corporation, and any such other relevant executive branch department or agency as the President determines to be substantially involved in trade capacity building and related assistance efforts in developing countries.
+
+(4) **Development of joint strategic plan** — The Group shall develop a joint strategic plan for all United States capacity building and technical assistance programs.
+
+**(d) Diplomacy trade expansion advisory committee**
+
+(1) **Establishment of TEAC** — The Chair and Vice-Chairs of the Economic Diplomacy Action Group shall establish a trade expansion advisory committee with selected representatives of the United States private sector and other organizations, including labor organizations, with direct and relevant operational experience in importing from and exporting into developing countries, as appropriate, to provide comment and advice on priorities for trade expansion initiatives. The Chair and Vice-Chairs of the Group may also appoint representatives from select non-profit organizations to the advisory committee if such representatives can demonstrate both a presence in and relevant operational or programmatic experience with trade capacity building efforts in developing countries.
+
+(2) **Meetings** — The trade expansion advisory committee shall convene at least twice annually or more often as necessary at the call of the Chair and Vice-Chairs of the Group.
+
+(3) **Strategic planning advice** — The trade expansion advisory committee shall advise the Chair and Vice-Chairs of the Group on ways that embassies can better support the United States private sector abroad, including assisting the Chair and Vice-Chairs—
+
+  (A) in soliciting private-sector advice;
+
+  (B) with respect to implementation of strategic planning; and
+
+  (C) in advancing the overall mission and goals of United States national security.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a) and (c)(2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of div. J of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 3069, known as the Championing American Business Through Diplomacy Act of 2019, to reflect the probable intent of Congress, notwithstanding section 3 of Pub. L. 116–94, set out as a note under [section 1 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), General Provisions. This chapter referred to in subsec. (b)(5), was in the original “this title”, meaning title VII of div. J. of Pub. L. 116–94. Title VII is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-championing-american-business-through-diplomacy.md#section-9901) and Tables.
+
+
+<a id="section-9905"></a>
+## § 9905. Private sector consultation and coordination
+**(a) Consultation with private sector by embassy** In developing the priorities for trade expansion initiatives described in [section 9904(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9904/d&num=0&edition=prelim), embassy mission teams shall convene local representatives of the United States private sector and the private sector of host countries to consult on issues affecting trade at the borders of such countries and take into account the private sector’s operational expertise and experience confronting the trade barriers in such countries as well as its recommendations for reform and best practices.
+
+**(b) Inclusion of private-sector comments in mission plans** Written comments from local United States private sector representatives shall be included in the trade expansion component of mission plans submitted by the chief of mission to the Secretary of State, with recommendations and comments from the mission team, for the purpose of informing the development of the joint strategic plan on trade expansion priorities required pursuant to [section 9904(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9904/c/4&num=0&edition=prelim) and recommended funding for the implementation of such plan.
+
+**(c) Designated embassy point of contact for private sector consultation** Each chief of mission shall designate an appropriate point of contact within the embassy who shall receive recommendations from appropriate private sector representatives regarding the implementation of the strategic plan required under [section 9904(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9904/c/4&num=0&edition=prelim) and ongoing trade barriers negatively impacting priority trade expansion. The chief of mission shall ensure that the designated point of contact shall be reasonably available for consultations with appropriate private sector representatives and to receive recommendations with respect to country-specific issues that may arise that will foreseeably disrupt trade.
+
+**(d) Requirement to protect business confidential information**
+
+(1) **In general** — The Secretary of State, Secretary of Commerce, and United States Trade Representative as well as the heads of all other agencies involved in the Economic Diplomacy Action Group established under [section 9904(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9904/c&num=0&edition=prelim) shall protect from disclosure any proprietary information submitted by any private sector representative and marked as “business confidential information”, unless the party submitting the confidential business information had notice, at the time of submission, that such information would be released by the head of any such department or agency, or such party subsequently consents to the release of the information. To the extent business confidential information is provided, a non-confidential version of the information shall also be provided, in which the business confidential information is summarized or, if necessary, deleted.
+
+(2) **Treatment as trade secrets** — Proprietary information submitted by a private party in accordance with this chapter shall be considered to be a matter falling within the meaning of trade secrets and commercial or financial information exemption under [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) and shall be exempt from disclosure without the express approval of the private party.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (d)(2), was in the original “this Act” and was translated as reading “this title”, meaning title VII of div. J of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 3069, known as the Championing American Business Through Diplomacy Act of 2019, to reflect the probable intent of Congress, notwithstanding section 3 of Pub. L. 116–94, set out as a note under [section 1 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), General Provisions. Title VII is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-championing-american-business-through-diplomacy.md#section-9901) and Tables.
+
+
+<a id="section-9906"></a>
+## § 9906. Improving awareness of United States Government tools and services to support United States businesses overseas
+
+The Secretary of State and the Secretary of Commerce shall take actions to improve the awareness of United States businesses with respect to United States Government tools and services to assist such businesses overseas, especially small and medium-sized enterprises, including by coordinating with State trade agencies, Export Assistance Centers, and Small Businesses Development Centers.

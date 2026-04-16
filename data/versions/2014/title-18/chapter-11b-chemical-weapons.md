@@ -1,0 +1,184 @@
+---
+title: 18
+chapter: 11B
+heading: CHEMICAL WEAPONS
+section_count: 7
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
+---
+<a id="section-229"></a>
+## § 229. Prohibited activities
+**(a) Unlawful Conduct.—** Except as provided in subsection (b), it shall be unlawful for any person knowingly—
+
+(1) to develop, produce, otherwise acquire, transfer directly or indirectly, receive, stockpile, retain, own, possess, or use, or threaten to use, any chemical weapon; or
+
+(2) to assist or induce, in any way, any person to violate paragraph (1), or to attempt or conspire to violate paragraph (1).
+
+**(b) Exempted Agencies and Persons.—**
+
+(1) **In general.—** — Subsection (a) does not apply to the retention, ownership, possession, transfer, or receipt of a chemical weapon by a department, agency, or other entity of the United States, or by a person described in paragraph (2), pending destruction of the weapon.
+
+(2) **Exempted persons.—** — A person referred to in paragraph (1) is—
+
+  (A) any person, including a member of the Armed Forces of the United States, who is authorized by law or by an appropriate officer of the United States to retain, own, possess, transfer, or receive the chemical weapon; or
+
+  (B) in an emergency situation, any otherwise nonculpable person if the person is attempting to destroy or seize the weapon.
+
+**(c) Jurisdiction.—** Conduct prohibited by subsection (a) is within the jurisdiction of the United States if the prohibited conduct—
+
+(1) takes place in the United States;
+
+(2) takes place outside of the United States and is committed by a national of the United States;
+
+(3) is committed against a national of the United States while the national is outside the United States; or
+
+(4) is committed against any property that is owned, leased, or used by the United States or by any department or agency of the United States, whether the property is within or outside the United States.
+
+### Statutory Notes
+
+#### Regulations
+For authority to issue regulations under this chapter, see section 3 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under [section 6711 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6711&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+#### Revocations of Export Privileges
+Pub. L. 105–277, div. I, title II, § 211, Oct. 21, 1998, 112 Stat. 2681–872, provided that: “If the President determines, after notice and an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), United States Code, that any person within the United States, or any national of the United States located outside the United States, has committed any violation of [section 229 of title 18](./chapter-11b-chemical-weapons.md#section-229), United States Code, the President may issue an order for the suspension or revocation of the authority of the person to export from the United States any goods or technology (as such terms are defined in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415)).”
+
+[For authority of Secretary of Commerce to suspend or revoke export privileges pursuant to section 211 of Pub. L. 105–277, set out above, see section 4 of Ex. Ord. No. 13128, June 25, 1999, 64 F.R. 34703, set out as a note under [section 6711 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6711&num=0&edition=prelim), Foreign Relations and Intercourse.]
+
+
+<a id="section-229a"></a>
+## § 229A. Penalties
+**(a) Criminal Penalties.—**
+
+(1) **In general.—** — Any person who violates [section 229 of this title](./chapter-11b-chemical-weapons.md#section-229) shall be fined under this title, or imprisoned for any term of years, or both.
+
+(2) **Death penalty.—** — Any person who violates [section 229 of this title](./chapter-11b-chemical-weapons.md#section-229) and by whose action the death of another person is the result shall be punished by death or imprisoned for life.
+
+**(b) Civil Penalties.—**
+
+(1) **In general.—** — The Attorney General may bring a civil action in the appropriate United States district court against any person who violates [section 229 of this title](./chapter-11b-chemical-weapons.md#section-229) and, upon proof of such violation by a preponderance of the evidence, such person shall be subject to pay a civil penalty in an amount not to exceed $100,000 for each such violation.
+
+(2) **Relation to other proceedings.—** — The imposition of a civil penalty under this subsection does not preclude any other criminal or civil statutory, common law, or administrative remedy, which is available by law to the United States or any other person.
+
+**(c) Reimbursement of Costs.—** The court shall order any person convicted of an offense under subsection (a) to reimburse the United States for any expenses incurred by the United States incident to the seizure, storage, handling, transportation, and destruction or other disposition of any property that was seized in connection with an investigation of the commission of the offense by that person. A person ordered to reimburse the United States for expenses under this subsection shall be jointly and severally liable for such expenses with each other person, if any, who is ordered under this subsection to reimburse the United States for the same expenses.
+
+
+<a id="section-229b"></a>
+## § 229B. Criminal forfeitures; destruction of weapons
+**(a) Property Subject to Criminal Forfeiture.—** Any person convicted under section 229A(a) shall forfeit to the United States irrespective of any provision of State law—
+
+(1) any property, real or personal, owned, possessed, or used by a person involved in the offense;
+
+(2) any property constituting, or derived from, and proceeds the person obtained, directly or indirectly, as the result of such violation; and
+
+(3) any of the property used in any manner or part, to commit, or to facilitate the commission of, such violation.
+The court, in imposing sentence on such person, shall order, in addition to any other sentence imposed pursuant to section 229A(a), that the person forfeit to the United States all property described in this subsection. In lieu of a fine otherwise authorized by section 229A(a), a defendant who derived profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.
+
+**(b) Procedures.—**
+
+(1) **General.—** — Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed by subsections (b) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim)), except that any reference under those subsections to—
+
+  (A) “this subchapter or subchapter II” shall be deemed to be a reference to section 229A(a); and
+
+  (B) “subsection (a)” shall be deemed to be a reference to subsection (a) of this section.
+
+(2) **Temporary restraining orders.—**
+
+  (A) *In general.—* — For the purposes of forfeiture proceedings under this section, a temporary restraining order may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if, in addition to the circumstances described in section 413(e)(2) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853/e/2&num=0&edition=prelim)), the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and exigent circumstances exist that place the life or health of any person in danger.
+
+  (B) *Warrant of seizure.—* — If the court enters a temporary restraining order under this paragraph, it shall also issue a warrant authorizing the seizure of such property.
+
+  (C) *Applicable procedures.—* — The procedures and time limits applicable to temporary restraining orders under section 413(e)(2) and (3) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 853(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853/e/2&num=0&edition=prelim) and (3)) shall apply to temporary restraining orders under this paragraph.
+
+**(c) Affirmative Defense.—** It is an affirmative defense against a forfeiture under subsection (b) that the property—
+
+(1) is for a purpose not prohibited under the Chemical Weapons Convention; and
+
+(2) is of a type and quantity that under the circumstances is consistent with that purpose.
+
+**(d) Destruction or Other Disposition.—** The Attorney General shall provide for the destruction or other appropriate disposition of any chemical weapon seized and forfeited pursuant to this section.
+
+**(e) Assistance.—** The Attorney General may request the head of any agency of the United States to assist in the handling, storage, transportation, or destruction of property seized under this section.
+
+**(f) Owner Liability.—** The owner or possessor of any property seized under this section shall be liable to the United States for any expenses incurred incident to the seizure, including any expenses relating to the handling, storage, transportation, and destruction or other disposition of the seized property.
+
+
+<a id="section-229c"></a>
+## § 229C. Individual self-defense devices
+
+Nothing in this chapter shall be construed to prohibit any individual self-defense device, including those using a pepper spray or chemical mace.
+
+
+<a id="section-229d"></a>
+## § 229D. Injunctions
+
+The United States may obtain in a civil action an injunction against—
+
+(1) the conduct prohibited under section 229 or 229C of this title; or
+
+(2) the preparation or solicitation to engage in conduct prohibited under section 229 or 229D 11 So in original. of this title.
+
+
+<a id="section-229e"></a>
+## § 229E. Requests for military assistance to enforce prohibition in certain emergencies
+
+The Attorney General may request the Secretary of Defense to provide assistance under [section 382 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382&num=0&edition=prelim) in support of Department of Justice activities relating to the enforcement of [section 229 of this title](./chapter-11b-chemical-weapons.md#section-229) in an emergency situation involving a chemical weapon. The authority to make such a request may be exercised by another official of the Department of Justice in accordance with [section 382(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section382/f/2&num=0&edition=prelim).
+
+
+<a id="section-229f"></a>
+## § 229F. Definitions
+
+In this chapter:
+
+(1) **Chemical weapon.—** — The term “chemical weapon” means the following, together or separately:
+
+  (A) A toxic chemical and its precursors, except where intended for a purpose not prohibited under this chapter as long as the type and quantity is consistent with such a purpose.
+
+  (B) A munition or device, specifically designed to cause death or other harm through toxic properties of those toxic chemicals specified in subparagraph (A), which would be released as a result of the employment of such munition or device.
+
+  (C) Any equipment specifically designed for use directly in connection with the employment of munitions or devices specified in subparagraph (B).
+
+(2) **Chemical weapons convention; convention.—** — The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, opened for signature on January 13, 1993.
+
+(3) **Key component of a binary or multicomponent chemical system.—** — The term “key component of a binary or multicomponent chemical system” means the precursor which plays the most important role in determining the toxic properties of the final product and reacts rapidly with other chemicals in the binary or multicomponent system.
+
+(4) **National of the united states.—** — The term “national of the United States” has the same meaning given such term in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim)).
+
+(5) **Person.—** — The term “person”, except as otherwise provided, means any individual, corporation, partnership, firm, association, trust, estate, public or private institution, any State or any political subdivision thereof, or any political entity within a State, any foreign government or nation or any agency, instrumentality or political subdivision of any such government or nation, or other entity located in the United States.
+
+(6) **Precursor.—**
+
+  (A) *In general.—* — The term “precursor” means any chemical reactant which takes part at any stage in the production by whatever method of a toxic chemical. The term includes any key component of a binary or multicomponent chemical system.
+
+  (B) *List of precursors.—* — Precursors which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+
+(7) **Purposes not prohibited by this chapter.—** — The term “purposes not prohibited by this chapter” means the following:
+
+  (A) *Peaceful purposes.—* — Any peaceful purpose related to an industrial, agricultural, research, medical, or pharmaceutical activity or other activity.
+
+  (B) *Protective purposes.—* — Any purpose directly related to protection against toxic chemicals and to protection against chemical weapons.
+
+  (C) *Unrelated military purposes.—* — Any military purpose of the United States that is not connected with the use of a chemical weapon or that is not dependent on the use of the toxic or poisonous properties of the chemical weapon to cause death or other harm.
+
+  (D) *Law enforcement purposes.—* — Any law enforcement purpose, including any domestic riot control purpose and including imposition of capital punishment.
+
+(8) **Toxic chemical.—**
+
+  (A) *In general.—* — The term “toxic chemical” means any chemical which through its chemical action on life processes can cause death, temporary incapacitation or permanent harm to humans or animals. The term includes all such chemicals, regardless of their origin or of their method of production, and regardless of whether they are produced in facilities, in munitions or elsewhere.
+
+  (B) *List of toxic chemicals.—* — Toxic chemicals which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+
+(9) **United states.—** — The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
+
+  (A) any of the places within the provisions of paragraph (41) 11 See References in Text note below. of [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim), United States Code;
+
+  (B) any civil aircraft of the United States or public aircraft, as such terms are defined in paragraphs (17) and (37),1 respectively, of [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim), United States Code; and
+
+  (C) any vessel of the United States, as such term is defined in [section 70502(b) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502/b&num=0&edition=prelim), United States Code.
+
+### Statutory Notes
+
+#### References in Text
+Paragraphs (17), (37), and (41) of [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim), referred to in par. (9)(A), (B), probably means paragraphs (17), (37), and (41) of subsection (a) of [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim). Paragraphs (37) and (41) were subsequently redesignated as (41) and (46), respectively, by Pub. L. 108–176, title II, § 225(a)(1), (3), Dec. 12, 2003, 117 Stat. 2528.
+
+#### Amendments
+2006—Par. (9)(C). Pub. L. 109–304 substituted “[section 70502(b) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70502/b&num=0&edition=prelim), United States Code” for “section 3(b) of the Maritime Drug Enforcement Act, as amended (46 U.S.C., App. sec. 1903(b))”.

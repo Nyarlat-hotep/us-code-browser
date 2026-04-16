@@ -1,0 +1,76 @@
+---
+title: 7
+chapter: 109A
+heading: CONTROL OF WILD ANIMALS
+section_count: 4
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7&num=0&edition=prelim
+---
+<a id="section-8351"></a>
+## § 8351. Predatory and other wild animals
+
+The Secretary of Agriculture may conduct a program of wildlife services with respect to injurious animal species and take any action the Secretary considers necessary in conducting the program. The Secretary shall administer the program in a manner consistent with all of the wildlife services authorities in effect on the day before October 28, 2000.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 426 of this title](./chapter-017-miscellaneous-matters.md#section-426) prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2000—Pub. L. 106–387 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “The Secretary of Agriculture is authorized and directed to conduct such investigations, experiments, and tests as he may deem necessary in order to determine, demonstrate, and promulgate the best methods of eradication, suppression, or bringing under control on national forests and other areas of the public domain as well as on State, Territory, or privately owned lands of mountain lions, wolves, coyotes, bobcats, prairie dogs, gophers, ground squirrels, jack rabbits, brown tree snakes, and other animals injurious to agriculture, horticulture, forestry, animal husbandry, wild game animals, fur-bearing animals, and birds, and for the protection of stock and other domestic animals through the suppression of rabies and tularemia in predatory or other wild animals; and to conduct campaigns for the destruction or control of such animals: Provided, That in carrying out the provisions of this section the Secretary of Agriculture may cooperate with States, individuals, and public and private agencies, organizations, and institutions.”
+
+1991—Pub. L. 102–237 inserted “brown tree snakes,” after “rabbits,”.
+
+#### Transfer of Functions
+Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
+
+Pub. L. 99–190, § 101(a) [H.R. 3037, title I, § 101], Dec. 19, 1985, 99 Stat. 1185; Pub. L. 100–202, § 106, Dec. 22, 1987, 101 Stat. 1329–433, provided in part: “That effective upon the date of enactment of this Act [Dec. 19, 1985] and notwithstanding any other provision of law, the authorities of the Secretary of Agriculture under the Act of March 2, 1931 (46 Stat. 1468; [7 U.S.C. 426–426b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section426–426b&num=0&edition=prelim)) [now [7 U.S.C. 8351](./chapter-109a-control-of-wild-animals.md#section-8351), 8352], (transferred to the Secretary of the Interior pursuant to section 4(f) of 1939 Reorganization Plan No. II) and all personnel, property, records, unexpended balances of appropriations, allocations and other funds of the Fish and Wildlife Service, United States Department of the Interior used, held, available or to be made available in connection with the administration of such Act, are hereby transferred from the Secretary of the Interior to the Secretary of Agriculture, and this appropriation shall be available to carry out such authorities.”
+
+#### Wolf Livestock Loss Demonstration Project
+Pub. L. 111–11, title VI, subtitle C, Mar. 30, 2009, 123 Stat. 1170, provided that: “SEC. 6201. DEFINITIONS.“In this subtitle:“(1) Indian tribe.—The term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)]. “(2) Livestock.—The term ‘livestock’ means cattle, swine, horses, mules, sheep, goats, livestock guard animals, and other domestic animals, as determined by the Secretary. “(3) Program.—The term ‘program’ means the demonstration program established under section 6202(a). “(4) Secretaries.—The term ‘Secretaries’ means the Secretary of the Interior and the Secretary of Agriculture, acting jointly. “SEC. 6202. WOLF COMPENSATION AND PREVENTION PROGRAM.“(a) In General.—The Secretaries shall establish a 5-year demonstration program to provide grants to States and Indian tribes—“(1) to assist livestock producers in undertaking proactive, non-lethal activities to reduce the risk of livestock loss due to predation by wolves; and “(2) to compensate livestock producers for livestock losses due to such predation. “(b) Criteria and Requirements.—The Secretaries shall—“(1) establish criteria and requirements to implement the program; and “(2) when promulgating regulations to implement the program under paragraph (1), consult with States that have implemented State programs that provide assistance to—“(A) livestock producers to undertake proactive activities to reduce the risk of livestock loss due to predation by wolves; or “(B) provide compensation to livestock producers for livestock losses due to such predation. “(c) Eligibility.—To be eligible to receive a grant under subsection (a), a State or Indian tribe shall—“(1) designate an appropriate agency of the State or Indian tribe to administer the 1 or more programs funded by the grant; “(2) establish 1 or more accounts to receive grant funds; “(3) maintain files of all claims received under programs funded by the grant, including supporting documentation; “(4) submit to the Secretary—“(A) annual reports that include—“(i) a summary of claims and expenditures under the program during the year; and “(ii) a description of any action taken on the claims; and “(B) such other reports as the Secretary may require to assist the Secretary in determining the effectiveness of activities provided assistance under this section; and “(5) promulgate rules for reimbursing livestock producers under the program. “(d) Allocation of Funding.—The Secretaries shall allocate funding made available to carry out this subtitle—“(1) equally between the uses identified in paragraphs (1) and (2) of subsection (a); and “(2) among States and Indian tribes based on—“(A) the level of livestock predation in the State or on the land owned by, or held in trust for the benefit of, the Indian tribe; “(B) whether the State or Indian tribe is located in a geographical area that is at high risk for livestock predation; or “(C) any other factors that the Secretaries determine are appropriate. “(e) Eligible Land.—Activities and losses described in subsection (a) may occur on Federal, State, or private land, or land owned by, or held in trust for the benefit of, an Indian tribe. “(f) Federal Cost Share.—The Federal share of the cost of any activity provided assistance made available under this subtitle shall not exceed 50 percent of the total cost of the activity. “SEC. 6203. AUTHORIZATION OF APPROPRIATIONS.“There is authorized to be appropriated to carry out this subtitle $1,000,000 for fiscal year 2009 and each fiscal year thereafter.”
+
+
+<a id="section-8352"></a>
+## § 8352. Authorization of expenditures for the eradication and control of predatory and other wild animals
+
+The Secretary of Agriculture is authorized to make such expenditures for equipment, supplies, and materials, including the employment of persons and means in the District of Columbia and elsewhere, and to employ such means as may be necessary to execute the functions imposed upon him by [section 8351 of this title](./chapter-109a-control-of-wild-animals.md#section-8351).
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 426b of this title](./chapter-017-miscellaneous-matters.md#section-426b) prior to editorial reclassification and renumbering as this section.
+
+#### Transfer of Functions
+Functions of Secretary of Agriculture administered through Bureau of Biological Survey, relating to conservation of wildlife, game, and migratory birds, transferred to Secretary of the Interior by 1939 Reorg. Plan No. II, § 4(f), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. See also sections 401 to 404 of said plan for provisions relating to transfer of functions, records, property, personnel, and funds.
+
+
+<a id="section-8353"></a>
+## § 8353. Control of nuisance mammals and birds and those constituting reservoirs of zoonotic diseases; exception
+
+On and after December 22, 1987, the Secretary of Agriculture is authorized, except for urban rodent control, to conduct activities and to enter into agreements with States, local jurisdictions, individuals, and public and private agencies, organizations, and institutions in the control of nuisance mammals and birds and those mammal and bird species that are reservoirs for zoonotic diseases, and to deposit any money collected under any such agreement into the appropriation accounts that incur the costs to be available immediately and to remain available until expended for Animal Damage Control activities.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 426c of this title](./chapter-017-miscellaneous-matters.md#section-426c) prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-8354"></a>
+## § 8354. Expenditures for cooperative agreements to lease aircraft
+
+On and after November 10, 2005, notwithstanding any other provision of law, the Secretary of Agriculture may use appropriations available to the Secretary for activities authorized under sections 8351 to 8353 11 See Reference in Text note below. of this title, under this or any other Act, to enter into cooperative agreements, with a State, political subdivision, or agency thereof, a public or private agency, organization, or any other person, to lease aircraft if the Secretary determines that the objectives of the agreement will: (1) serve a mutual interest of the parties to the agreement in carrying out the programs administered by the Animal and Plant Health Inspection Service, Wildlife Services; and (2) all parties will contribute resources to the accomplishment of these objectives; award of a cooperative agreement authorized by the Secretary may be made for an initial term not to exceed 5 years.
+
+### Statutory Notes
+
+#### References in Text
+Sections 8351 to 8353 of this title, referred to in text, was in the original a reference to “sections 426–426c of title 7, United States Code” and was translated as meaning act Mar. 2, 1931, ch. 370, 46 Stat. 1468, and Pub. L. 100–202, §101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–331, which were formerly classified to sections 426 to 426c of this title. Sections 1 and 3 of the act of Mar. 2, 1931, which were formerly classified to sections 426 and 426b of this title, were editorially reclassified as sections 8351 and 8352, respectively, of this title. Section 2 of the act of Mar. 2, 1931, which was formerly classified to [section 426a of this title](./chapter-017-miscellaneous-matters.md#section-426a), was omitted from the Code as obsolete. Pub. L. 100–202, §101(k) [title I], Dec. 22, 1987, 101 Stat. 1329–322, 1329–331, which was formerly classified to [section 426c of this title](./chapter-017-miscellaneous-matters.md#section-426c), was editorially reclassified as [section 8353 of this title](./chapter-109a-control-of-wild-animals.md#section-8353).
+
+#### Codification
+Section was formerly classified to [section 426d of this title](./chapter-017-miscellaneous-matters.md#section-426d) prior to editorial reclassification and renumbering as this section.
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 108–447, div. A, title VII, § 758, Dec. 8, 2004, 118 Stat. 2846.
+
+Pub. L. 108–199, div. A, title VII, § 776, Jan. 23, 2004, 118 Stat. 41.

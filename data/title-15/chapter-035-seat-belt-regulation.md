@@ -1,0 +1,14 @@
+---
+title: 15
+chapter: '35'
+heading: SEAT BELT REGULATION
+section_count: 1
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
+---
+<a id="section-1321-to-1323"></a>
+## § 1321 to 1323. Repealed. Pub. L. 89–563, title I, § 117(a), Sept. 9, 1966, 80 Stat. 727
+
+### Statutory Notes
+
+Sections, Pub. L. 88–201, §§ 1–3, Dec. 13, 1963, 77 Stat. 361, provided for the promulgation of standards for seat belts in motor vehicles and set the penalty for the unlawful sale, importation, or introduction into commerce of seat belts not meeting the published standards. For savings provision, see section 117(b) to (e) of Pub. L. 89–563, formerly set out as a note under [section 1301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1301&num=0&edition=prelim).

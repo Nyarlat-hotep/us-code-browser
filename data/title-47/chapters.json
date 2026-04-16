@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "chapter-001-telegraphs",
+    "heading": "TELEGRAPHS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-002-submarine-cables",
+    "heading": "SUBMARINE CABLES",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-003-radiotelegraphs",
+    "heading": "RADIOTELEGRAPHS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-004-radio-act-of-1927",
+    "heading": "RADIO ACT OF 1927",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-005-wire-or-radio-communication",
+    "heading": "WIRE OR RADIO COMMUNICATION",
+    "section_count": 252
+  },
+  {
+    "slug": "chapter-006-communications-satellite-system",
+    "heading": "COMMUNICATIONS SATELLITE SYSTEM",
+    "section_count": 27
+  },
+  {
+    "slug": "chapter-007-campaign-communications",
+    "heading": "CAMPAIGN COMMUNICATIONS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-008-national-telecommunications-and-information-administration",
+    "heading": "NATIONAL TELECOMMUNICATIONS AND INFORMATION ADMINISTRATION",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-009-interception-of-digital-and-other-communications",
+    "heading": "INTERCEPTION OF DIGITAL AND OTHER COMMUNICATIONS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-010-satellite-carrier-retransmission-eligibility",
+    "heading": "SATELLITE CARRIER RETRANSMISSION ELIGIBILITY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-011-commercial-mobile-service-alerts",
+    "heading": "COMMERCIAL MOBILE SERVICE ALERTS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-012-broadband",
+    "heading": "BROADBAND",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-013-public-safety-communications-and-electromagnetic-spectrum-auctions",
+    "heading": "PUBLIC SAFETY COMMUNICATIONS AND ELECTROMAGNETIC SPECTRUM AUCTIONS",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-014-making-opportunities-for-broadband-investment-and-limiting-excessive-and-needless-obstacles-to-wireless",
+    "heading": "MAKING OPPORTUNITIES FOR BROADBAND INVESTMENT AND LIMITING EXCESSIVE AND NEEDLESS OBSTACLES TO WIRELESS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-015-secure-and-trusted-communications-networks",
+    "heading": "SECURE AND TRUSTED COMMUNICATIONS NETWORKS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-016-broadband-access",
+    "heading": "BROADBAND ACCESS",
+    "section_count": 16
+  }
+]

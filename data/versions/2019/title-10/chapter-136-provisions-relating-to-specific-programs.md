@@ -1,0 +1,191 @@
+---
+title: 10
+chapter: '136'
+heading: PROVISIONS RELATING TO SPECIFIC PROGRAMS
+section_count: 4
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
+---
+<a id="section-2281"></a>
+## § 2281. Global Positioning System
+**(a) Sustainment and Operation for Military Purposes.—** The Secretary of Defense shall provide for the sustainment of the capabilities of the Global Positioning System (hereinafter in this section referred to as the “GPS”), and the operation of basic GPS services, that are beneficial for the national security interests of the United States. In doing so, the Secretary shall—
+
+(1) develop appropriate measures for preventing hostile use of the GPS so as to make it unnecessary for the Secretary to use the selective availability feature of the system continuously while not hindering the use of the GPS by the United States and its allies for military purposes; and
+
+(2) ensure that United States armed forces have the capability to use the GPS effectively despite hostile attempts to prevent the use of the system by such forces.
+
+**(b) Sustainment and Operation for Civilian Purposes.—** The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peaceful civil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
+
+(1) shall provide for the sustainment and operation of the GPS Standard Positioning Service in order to meet the performance requirements of the Federal Radionavigation Plan prepared jointly by the Secretary of Defense and the Secretary of Transportation pursuant to subsection (c);
+
+(2) shall coordinate with the Secretary of Transportation regarding the development and implementation by the Government of augmentations to the basic GPS that achieve or enhance uses of the system in support of transportation;
+
+(3) shall coordinate with the Secretary of Commerce, the United States Trade Representative, and other appropriate officials to facilitate the development of new and expanded civil and commercial uses for the GPS;
+
+(4) shall develop measures for preventing hostile use of the GPS in a particular area without hindering peaceful civil use of the system elsewhere; and
+
+(5) may not agree to any restriction on the Global Positioning System proposed by the head of a department or agency of the United States outside the Department of Defense in the exercise of that official’s regulatory authority that would adversely affect the military potential of the Global Positioning System.
+
+**(c) Federal Radionavigation Plan.—** The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act 11 See References in Text note below. ([47 U.S.C. 756](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section756&num=0&edition=prelim)). The plan, and any amendment to the plan, shall be published in the Federal Register.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “basic GPS services” means the following components of the Global Positioning System that are operated and maintained by the Department of Defense:
+
+  (A) The constellation of satellites.
+
+  (B) The navigation payloads that produce the Global Positioning System signals.
+
+  (C) The ground stations, data links, and associated command and control facilities.
+
+(2) The term “GPS Standard Positioning Service” means the civil and commercial service provided by the basic Global Positioning System as defined in the 1996 Federal Radionavigation Plan (published jointly by the Secretary of Defense and the Secretary of Transportation in July 1997).
+
+### Statutory Notes
+
+#### References in Text
+Section 507 of the International Maritime Satellite Telecommunications Act, referred to in subsec. (c), is section 507 of Pub. L. 87–624 which was classified to [section 756 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section756&num=0&edition=prelim), Telecommunications, prior to repeal by Pub. L. 103–414, title III, § 304(b)(5), Oct. 25, 1994, 108 Stat. 4298.
+
+#### Amendments
+2013—Subsecs. (d), (e). Pub. L. 112–239 redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to biennial reports on the Global Positioning System.
+
+2009—Subsec. (d)(1). Pub. L. 111–84, § 1032(a)(1), in introductory provisions, substituted “the Deputy Secretary of Defense and the Deputy Secretary of Transportation, in their capacity as co-chairs of the National Executive Committee for Space-Based Positioning, Navigation, and Timing,” for “the Secretary of Defense” and “the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on Armed Services, Energy and Commerce, and Transportation and Infrastructure of the House of Representatives” for “the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
+
+Subsec. (d)(1)(B)(ii). Pub. L. 111–84, § 1032(b), inserted “validated” before “performance requirements” and “in accordance with Office of Management and Budget Circular A–109” after “Plan”.
+
+Subsec. (d)(2). Pub. L. 111–84, § 1032(a)(2), added par. (2) and struck out former par. (2), which read as follows: “In preparing the parts of each such report required under subparagraphs (C), (D), (E), (F), and (G) of paragraph (1), the Secretary of Defense shall consult with the Secretary of State, the Secretary of Commerce, and the Secretary of Transportation.”
+
+2003—Subsec. (d)(1)(C). Pub. L. 108–136, § 914(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The most recent determination by the President regarding continued use of the selective availability feature of the system and the expected date of any change or elimination of the use of that feature.”
+
+Subsec. (d)(1)(D). Pub. L. 108–136, § 914(a)(3), redesignated subpar. (E) as (D) and substituted “Progress and challenges in” for “Any progress made toward”. Former subpar. (D) redesignated (C).
+
+Subsec. (d)(1)(E). Pub. L. 108–136, § 914(a)(4), added subpar. (E). Former subpar. (E) redesignated (D).
+
+Subsec. (d)(1)(F). Pub. L. 108–136, § 914(a)(4), added subpar. (F) and struck out former subpar. (F) which read as follows: “Any progress made toward protecting GPS from disruption and interference.”
+
+Subsec. (d)(2). Pub. L. 108–136, § 914(b), inserted “(C),” after “under subparagraphs”.
+
+1999—Subsec. (d)(1). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
+
+#### Capacity To Receive Allied and Non-Allied Signals
+Pub. L. 115–232, div. A, title XVI, § 1609, Aug. 13, 2018, 132 Stat. 2110, provided that: “(a) Capability for Trusted Signals.—“(1) Requirement.—Except as provided by paragraph (2), subject to appropriate mitigation efforts, the Secretary of the Air Force shall ensure that military Global Positioning System user equipment terminals have the capability to receive trusted signals from the Galileo satellites of the European Union and the QZSS satellites of Japan, beginning with increment 2 of the acquisition of such terminals. “(2) Waiver.—The Secretary of Defense may waive, on a case-by-case basis, the requirement under paragraph (1) for military Global Positioning System user equipment terminals to have the capability described in such paragraph if the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing—“(A) the rationale for why the Secretary could not integrate such capability beginning with increment 2 of the acquisition of such terminals; and “(B) a plan, including a timeline, to incorporate such capability in future increments of such terminals. “(3) Limitation on delegation.—The Secretary of Defense may not delegate the authority under paragraph (2) to make a waiver below the Deputy Secretary of Defense. “(b) Capability for Other Signals.—The Secretary of the Air Force shall ensure that military Global Positioning System user equipment terminals having the capability to receive non-allied positioning, navigation, and timing signals, beginning with increment 2 of the acquisition of such terminals, if the Secretary of Defense, in consultation with the Commander of the United States Strategic Command, determines that—“(1) the benefits of receiving such signals outweigh the risks; or “(2) such risks can be appropriately mitigated. “(c) Engagement.—The Secretary of Defense and the Secretary of State shall jointly engage with relevant allies of the United States to—“(1) enable military Global Positioning System user equipment terminals to receive the positioning, navigation, and timing signals of such allies; and “(2) negotiate as appropriate other potential agreements relating to the enhancement of positioning, navigation, and timing.”
+
+#### Designation of Component of Department of Defense Responsible for Coordination of Modernization Efforts Relating to Military-Code Capable GPS Receiver Cards
+Pub. L. 115–232, div. A, title XVI, § 1610, Aug. 13, 2018, 132 Stat. 2111, provided that: “(a) Designation.—Not later than 30 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense, in coordination with the Secretaries of the military departments and the heads of Defense Agencies the Secretary determines appropriate, shall designate a component of the Office of the Secretary of Defense to be responsible for coordinating common solutions for the M-code modernization efforts among the military departments, Defense Agencies, and other appropriate elements of the Department of Defense. “(b) Roles and Responsibilities.—The roles and responsibilities of the component selected under subsection (a) shall include the following:“(1) Identify the elements of the Department of Defense and the programs of the Department that require M-code capable receiver cards and determine—“(A) the number of total receiver cards required by the Department, including the number required for each such element and program and the military departments; “(B) the timeline, by fiscal year, for each program of the Department conducting M-code modernization efforts; and “(C) the projected cost for each such program. “(2) Systematically collect integration test data, lessons learned, and design solutions, and share such information with other elements of the Department. “(3) Identify ways the Department can prevent duplication in conducting M-code modernization efforts, and identify, to the extent practicable, potential cost savings that could be realized by addressing such duplication. “(4) Coordinate the integration, testing, and procurement of M-code capable receiver cards to ensure that the Department maximizes the buying power of the Department, reduces duplication, and saves resources, where possible. “(c) Support.—The Secretary of Defense shall ensure the military departments, the Defense Agencies, and other elements of the Department of Defense provide the component selected under subsection (a) with the appropriate support and resources needed to perform the roles and responsibilities under subsection (b). “(d) Reports.—Not later than March 15, 2019, and annually thereafter through 2021, the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on M-code modernization efforts. Each report shall include, with respect to the period covered by the report, the following:“(1) The projected cost and schedule, by fiscal year, for the Department to acquire M-code capable receiver cards. “(2) The programs of the Department conducting M-code modernization efforts. “(3) The number of M-code capable receiver cards procured by the Department, the number of such receiver cards yet to be procured, and the percentage of the M-code modernization efforts completed by each program identified under paragraph (2). “(e) Definitions.—In this section:“(1) The term ‘M-code capable receiver card’ means a Global Positioning System receiver card that is capable of receiving military code that provides enhanced positioning, navigation, and timing capabilities and improved resistance to existing and emerging threats, such as jamming. “(2) The term ‘M-code modernization efforts’ means the development, integration, testing, and procurement programs of the Department of Defense relating to developing M-code capable receiver cards.”
+
+#### Quarterly Reports on Global Positioning System III Space Segment, Global Positioning System Operational Control Segment, and Military Global Positioning System User Equipment Acquisition Programs
+Pub. L. 114–92, div. A, title XVI, § 1621, Nov. 25, 2015, 129 Stat. 1109, provided that: “(a) Reports Required.—Not later than 90 days after the date of the enactment of this Act [Nov. 25, 2015], and every 90 days thereafter, the Secretary of the Air Force shall submit to the Comptroller General of the United States a report and supporting documentation on the Global Positioning System III space segment, the Global Positioning System operational control segment, and the Military Global Positioning System user equipment acquisition programs. “(b) Elements.—Each report required by subsection (a) shall include, with respect to an acquisition program specified in that subsection, the following:“(1) A statement of the status of the program with respect to cost, schedule, and performance. “(2) A description of any changes to the requirements of the program. “(3) A description of any technical risks impacting the cost, schedule, and performance of the program. “(4) An assessment of how such risks are to be addressed and the costs associated with such risks. “(5) An assessment of the extent to which the segments of the program are synchronized. “(c) Briefings by Comptroller General.—The Comptroller General shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on a report submitted under subsection (a)—“(1) in the case of the first such report, not later than 30 days after receiving that report; and “(2) as the Comptroller General considers appropriate thereafter. “(d) Termination.—The requirement under subsection (a) shall terminate with respect to an acquisition program specified in that subsection on the date on which that program reaches initial operational capability.”
+
+#### Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments
+Pub. L. 113–66, div. A, title XVI, § 1602(b), Dec. 26, 2013, 127 Stat. 943, which limited construction within United States territory of global navigation satellite system ground monitoring stations controlled by foreign governments, was transferred to subsec. (a) of section 2279c (now 2279d) of this title by Pub. L. 115–91, div. A, title XVI, § 1602(b)(1), Dec. 12, 2017, 131 Stat. 1722.
+
+#### Use of Funds for Global Positioning System
+Pub. L. 112–10, div. A, title VIII, § 8068, Apr. 15, 2011, 125 Stat. 73, provided that: “Funds available to the Department of Defense for the Global Positioning System during the current fiscal year, and hereafter, may be used to fund civil requirements associated with the satellite and ground control segments of such system’s modernization program.”
+
+#### Limitation on Use of Funds for Purchasing Global Positioning System User Equipment
+Pub. L. 111–383, div. A, title IX, § 913, Jan. 7, 2011, 124 Stat. 4328, as amended by Pub. L. 114–92, div. A, title XVI, § 1605, Nov. 25, 2015, 129 Stat. 1099, provided that: “(a) In General.—Except as provided in subsections (b) and (c), none of the funds authorized to be appropriated or otherwise made available by this Act or any other Act for the Department of Defense may be obligated or expended to purchase user equipment for the Global Positioning System during fiscal years after fiscal year 2017 unless the equipment is capable of receiving the military code (commonly known as the ‘M code’) from the Global Positioning System. “(b) Exception.—The limitation under subsection (a) shall not apply with respect to the purchase of passenger vehicles or commercial vehicles in which Global Positioning System equipment is installed. “(c) Waiver.—The Secretary of Defense may waive the limitation under subsection (a) if the Secretary determines that—“(1) suitable user equipment capable of receiving the military code from the Global Positioning System is not available; or “(2) with respect to a purchase of user equipment, the Department of Defense does not require that user equipment to be capable of receiving the military code from the Global Positioning System. “(d) Limitation on Delegation of Waiver Authority.—The Secretary of Defense may not delegate the authority to make a waiver under subsection (c) to an official below the level of the Secretaries of the military departments or the Under Secretary of Defense for Acquisition, Technology, and Logistics.”
+
+#### Authorization of Interagency Support for Global Positioning System
+Pub. L. 106–405, § 8, Nov. 1, 2000, 114 Stat. 1753, as amended by Pub. L. 109–364, div. A, title IX, § 911, Oct. 17, 2006, 120 Stat. 2354, provided that: “The use of multi-agency funding and other forms of support is hereby authorized for the functions and activities of the following organizations established pursuant to the United States Space-Based Position, Navigation, and Timing Policy issued December 8, 2004 (and any successor organization, to the extent the successor organization performs the functions of the specified organization): “(1) The interagency committee known as the National Space-Based Positioning, Navigation, and Timing Executive Committee. “(2) The support office for the committee specified in paragraph (1) known as the National Space-Based Positioning, Navigation, and Timing Coordination Office. “(3) The Federal advisory committee known as the National Space-Based Positioning, Navigation, and Timing Advisory Board.”
+
+#### Enhanced Global Positioning System Program
+Pub. L. 105–261, div. A, title II, § 218, Oct. 17, 1998, 112 Stat. 1951, provided that: “(a) Policy on Priority for Development of Enhanced GPS System.—The development of an enhanced Global Positioning System is an urgent national security priority. “(b) Development Required.—To fulfill the requirements described in section 279(b) of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 243) [set out as a note below] and [section 2281 of title 10](./chapter-136-provisions-relating-to-specific-programs.md#section-2281), United States Code, the Secretary of Defense shall develop an enhanced Global Positioning System in accordance with the priority declared in subsection (a). The enhanced Global Positioning System shall include the following elements:“(1) An evolved satellite system that includes increased signal power and other improvements such as regional-level directional signal enhancements. “(2) Enhanced receivers and user equipment that are capable of providing military users with direct access to encrypted Global Positioning System signals. “(3) To the extent funded by the Secretary of Transportation, additional civil frequencies and other enhancements for civil users. “(c) Sense of Congress Regarding Funding.—It is the sense of Congress that—“(1) the Secretary of Defense should ensure that the future-years defense program provides for sufficient funding to develop and deploy an enhanced Global Positioning System in accordance with the priority declared in subsection (a); and “(2) the Secretary of Transportation should provide sufficient funding to support additional civil frequencies for the Global Positioning System and other enhancements of the system for civil users. “(d) Plan for Development of Enhanced Global Positioning System.—Not later than April 15, 1999, the Secretary of Defense shall submit to Congress a plan for carrying out the requirements of subsection (b). “(e) Delayed Effective Date for Limitation on Procurement of Systems Not GPS-Equipped.— [Amended section 152(b) of Pub. L. 103–160, set out as a note below.] “(f) Funding From Authorized Appropriations for Fiscal Year 1999.—Of the amounts authorized to be appropriated under section 201(3) [112 Stat. 1946], $44,000,000 shall be available to establish and carry out an enhanced Global Positioning System program.”
+
+#### Sustainment and Operation of Global Positioning System
+Pub. L. 105–85, div. A, title X, § 1074(a), (b), Nov. 18, 1997, 111 Stat. 1907, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Global Positioning System (consisting of a constellation of satellites and associated facilities capable of providing users on earth with a highly precise statement of their location on earth) makes significant contributions to the attainment of the national security and foreign policy goals of the United States, the safety and efficiency of international transportation, and the economic growth, trade, and productivity of the United States. “(2) The infrastructure for the Global Positioning System (including both space and ground segments of the infrastructure) is vital to the effectiveness of United States and allied military forces and to the protection of the national security interests of the United States. “(3) In addition to having military uses, the Global Positioning System has essential civil, commercial, and scientific uses. “(4) As a result of the increasing demand of civil, commercial, and scientific users of the Global Positioning System—“(A) there has emerged in the United States a new commercial industry to provide Global Positioning System equipment and related services to the many and varied users of the system; and “(B) there have been rapid technical advancements in Global Positioning System equipment and services that have contributed significantly to reductions in the cost of the Global Positioning System and increases in the technical capabilities and availability of the system for military uses. “(5) It is in the national interest of the United States for the United States—“(A) to support continuation of the multiple-use character of the Global Positioning System; “(B) to promote broader acceptance and use of the Global Positioning System and the technological standards that facilitate expanded use of the system for civil purposes; “(C) to coordinate with other countries to ensure (i) efficient management of the electromagnetic spectrum used by the Global Positioning System, and (ii) protection of that spectrum in order to prevent disruption of signals from the system and interference with that portion of the electromagnetic spectrum used by the system; and “(D) to encourage open access in all international markets to the Global Positioning System and supporting equipment, services, and techniques. “(b) International Cooperation.—Congress urges the President to promote the security of the United States and its allies, the public safety, and commercial interests by taking the following steps:“(1) Undertaking a coordinated effort within the executive branch to seek to establish the Global Positioning System, and augmentations to the system, as a worldwide resource. “(2) Seeking to enter into international agreements to establish signal and service standards that protect the Global Positioning System from disruption and interference. “(3) Undertaking efforts to eliminate any barriers to, and other restrictions of foreign governments on, peaceful uses of the Global Positioning System. “(4) Requiring that any proposed international agreement involving nonmilitary use of the Global Positioning System or any augmentation to the system not be agreed to by the United States unless the proposed agreement has been reviewed by the Secretary of State, the Secretary of Defense, the Secretary of Transportation, and the Secretary of Commerce (acting as the Interagency Global Positioning System Executive Board established by Presidential Decision Directive NSTC–6, dated March 28, 1996).”
+
+#### Access to Global Positioning System
+Pub. L. 104–106, div. A, title II, § 279, Feb. 10, 1996, 110 Stat. 243, provided that: “(a) Conditional Prohibition on Use of Selective Availability Feature.—Except as provided in subsection (b), after May 1, 1996, the Secretary of Defense may not (through use of the feature known as ‘selective availability’) deny access of non-Department of Defense users to the full capabilities of the Global Positioning System. “(b) Plan.—Subsection (a) shall cease to apply upon submission by the Secretary of Defense to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives of a plan for enhancement of the Global Positioning System that provides for—“(1) development and acquisition of effective capabilities to deny hostile military forces the ability to use the Global Positioning System without hindering the ability of United States military forces and civil users to have access to and use of the system, together with a specific date by which those capabilities could be operational; and “(2) development and acquisition of receivers for the Global Positioning System and other techniques for weapons and weapon systems that provide substantially improved resistance to jamming and other forms of electronic interference or disruption, together with a specific date by which those receivers and other techniques could be operational with United States military forces.”
+
+#### Limitation on Procurement of Systems Not GPS-Equipped
+Pub. L. 103–160, div. A, title I, § 152(b), Nov. 30, 1993, 107 Stat. 1578, as amended by Pub. L. 105–261, div. A, title II, § 218(e), Oct. 17, 1998, 112 Stat. 1952; Pub. L. 109–163, div. A, title II, § 260(a), Jan. 6, 2006, 119 Stat. 3185, provided that: “After September 30, 2007, funds may not be obligated to modify or procure any Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver.”
+
+[Pub. L. 109–163, div. A, title II, § 260(b), Jan. 6, 2006, 119 Stat. 3186, provided that: “The amendment made by subsection (a) [amending section 152(b) of Pub. L. 103–160, set out above] shall be deemed to have taken effect at the close of September 30, 2005, and any obligation or expenditure of funds by the Department of Defense during the period beginning on October 1, 2005, and ending on the date of the enactment of this Act [Jan. 6, 2006] to modify or procure a Department of Defense aircraft, ship, armored vehicle, or indirect-fire weapon system that is not equipped with a Global Positioning System receiver is hereby ratified with respect to the provision of law specified in subsection (a).” ]
+
+
+<a id="section-2282"></a>
+## § 2282. Repealed. Pub. L. 114–328, div. A, title XII, § 1241(d)(5)(A), Dec. 23, 2016, 130 Stat. 2504]
+
+### Statutory Notes
+
+Section, added Pub. L. 113–291, div. A, title XII, § 1205(a)(1), Dec. 19, 2014, 128 Stat. 3533, related to authority to build the capacity of foreign security forces. See [section 333 of this title](./chapter-016-security-cooperation.md#section-333).
+
+A prior section 2282, added Pub. L. 106–398, § 1 [[div. A], title I, § 131(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–28; amended Pub. L. 108–136, div. A, title X, § 1031(a)(14), Nov. 24, 2003, 117 Stat. 1597, related to annual report on the B–2 bomber aircraft, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(13)(A), Dec. 31, 2011, 125 Stat. 1583.
+
+#### Effective Date of Repeal
+Pub. L. 114–328, div. A, title XII, § 1241(d)(5), Dec. 23, 2016, 130 Stat. 2504, provided that the repeal of this section is effective as of the date that is 270 days after Dec. 23, 2016.
+
+
+<a id="section-2283"></a>
+## § 2283. Department of Defense small business strategy
+**(a) In General.—** The Secretary of Defense shall implement a small business strategy for the Department of Defense that meets the requirements of this section.
+
+**(b) Unified Management Structure.—** As part of the small business strategy described in subsection (a), the Secretary shall ensure that there is a unified management structure within the Department for the functions of the Department relating to—
+
+(1) programs and activities related to small business concerns (as defined in section 3 of the Small Business Act);
+
+(2) manufacturing and industrial base policy; and
+
+(3) any procurement technical assistance program established under chapter 142 of this title.
+
+**(c) Purpose of Small Business Programs.—** The Secretary shall ensure that programs and activities of the Department of Defense related to small business concerns are carried out so as to further national defense programs and priorities and the statements of purpose for Department of Defense acquisition set forth in section 801 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1449).
+
+**(d) Points of Entry Into Defense Market.—** The Secretary shall ensure—
+
+(1) that opportunities for small business concerns to contract with the Department of Defense are identified clearly; and
+
+(2) that small business concerns are able to have access to program managers, contracting officers, and other persons using the products or services of such concern to the extent necessary to inform such persons of emerging and existing capabilities of such concerns.
+
+**(e) Enhanced Outreach Under Procurement Technical Assistance Program Market.—** The Secretary shall enable and promote activities to provide coordinated outreach to small business concerns through any procurement technical assistance program established under chapter 142 of this title to facilitate small business contracting with the Department of Defense.
+
+### Statutory Notes
+
+#### References in Text
+Section 3 of the Small Business Act, referred to in subsec. (b)(1), is classified to [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim), Commerce and Trade.
+
+Section 801 of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (c), is section 801 of Pub. L. 115–91, which is set out as a note under [section 2302 of this title](./chapter-137-procurement-generally.md#section-2302).
+
+#### Implementation
+Pub. L. 115–232, div. A, title VIII, § 851(b), Aug. 13, 2018, 132 Stat. 1884, provided that: “(1) Deadline.—The Secretary of Defense shall develop the small business strategy required by [section 2283 of title 10](./chapter-136-provisions-relating-to-specific-programs.md#section-2283), United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018]. “(2) Notice to congress and publication.—Upon completion of the development of the small business strategy pursuant to paragraph (1), the Secretary shall—“(A) transmit the strategy to Congress; and “(B) publish the strategy on a public website of the Department of Defense.”
+
+
+<a id="section-2284"></a>
+## § 2284. Explosive Ordnance Disposal Defense Program
+**(a) In General.—** The Secretary of Defense shall carry out a program to be known as the “Explosive Ordnance Disposal Defense Program” (in this section referred to as the “Program”) under which the Secretary shall ensure close and continuous coordination between military departments on matters relating to explosive ordnance disposal support for commanders of geographic and functional combatant commands.
+
+**(b) Roles, Responsibilities, and Authorities.—** The plan under subsection (a) shall include provisions under which—
+
+(1) the Secretary of Defense shall—
+
+  (A) assign the responsibility for the direction, coordination, 11 So in original. The word “and” probably should appear. integration of the Program within the Department of Defense to an Assistant Secretary of Defense;
+
+  (B) the Assistant Secretary of Defense to whom responsibility is assigned under paragraph (1) 22 So in original. shall serve as the key individual for the Program responsible for developing and overseeing policy, plans, programs, and budgets, and issuing guidance and providing direction on Department of Defense explosive ordnance disposal activities;
+
+  (C) designate the Secretary of the Navy, or a designee of the Secretary’s choice, as the executive agent for the Department of Defense responsible for providing oversight of the joint program executive officer who coordinates and integrates joint requirements for explosive ordnance disposal and carries out joint research, development, test, and evaluation and procurement activities on behalf of the military departments and combatant commands with respect to explosive ordnance disposal;
+
+  (D) designate a combat support agency to exercise fund management responsibility of the Department of Defense-wide program element for explosive ordnance disposal research, development, test, and evaluation, transactions other than contracts, cooperative agreements, and grants related to [section 2371 of this title](./chapter-139-research-and-development.md#section-2371) during research projects including rapid prototyping and limited procurement urgent activities, and acquisition; and
+
+  (E) designate an Army explosive ordnance disposal-qualified general officer from the combat support agency designated under subparagraph (D) to serve as the Chairman of the Department of Defense explosive ordnance disposal defense program board; and
+
+(2) the Secretary of each military department shall assess the needs of the military department concerned with respect to explosive ordnance disposal and may carry out research, development, test, and evaluation activities, including other transactions and procurement activities to address military department unique needs such as weapon systems, manned and unmanned vehicles and platforms, cyber and communication equipment, and the integration of explosive ordnance disposal sets, kits and outfits and explosive ordnance disposal tools, equipment, sets, kits, and outfits developed by the department.
+
+**(c) Annual Budget Justification Documents.—**
+
+(1) For fiscal year 2021 and each fiscal year thereafter, the Secretary of Defense shall submit to Congress with the defense budget materials a consolidated budget justification display, in classified and unclassified form, that includes all of activities of the Department of Defense relating to the Program.
+
+(2) The budget display under paragraph (1) for a fiscal year shall include a single program element for each of the following:
+
+  (A) Civilian and military pay.
+
+  (B) Research, development, test, and evaluation.
+
+  (C) Procurement.
+
+  (D) Other transaction agreements.
+
+  (E) Military construction.
+
+(3) The budget display shall include funding data for each of the military department’s respective activities related to explosive ordnance disposal, including—
+
+  (A) operation and maintenance; and
+
+  (B) overseas contingency operations.

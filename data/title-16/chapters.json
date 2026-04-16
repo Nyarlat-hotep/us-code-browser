@@ -1,0 +1,767 @@
+[
+  {
+    "slug": "chapter-001-national-parks-military-parks-monuments-and-seashores",
+    "heading": "NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES",
+    "section_count": 2320
+  },
+  {
+    "slug": "chapter-1a-historic-sites-buildings-objects-and-antiquities",
+    "heading": "HISTORIC SITES, BUILDINGS, OBJECTS, AND ANTIQUITIES",
+    "section_count": 91
+  },
+  {
+    "slug": "chapter-1b-archaeological-resources-protection",
+    "heading": "ARCHAEOLOGICAL RESOURCES PROTECTION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-1c-paleontological-resources-preservation",
+    "heading": "PALEONTOLOGICAL RESOURCES PRESERVATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-002-national-forests",
+    "heading": "NATIONAL FORESTS",
+    "section_count": 219
+  },
+  {
+    "slug": "chapter-003-forests-forest-service-reforestation-management",
+    "heading": "FORESTS; FOREST SERVICE; REFORESTATION; MANAGEMENT",
+    "section_count": 176
+  },
+  {
+    "slug": "chapter-3a-unemployment-relief-through-performance-of-useful-public-work",
+    "heading": "UNEMPLOYMENT RELIEF THROUGH PERFORMANCE OF USEFUL PUBLIC WORK",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-3b-soil-conservation",
+    "heading": "SOIL CONSERVATION",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-3c-water-conservation",
+    "heading": "WATER CONSERVATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-004-protection-of-timber-and-depredations",
+    "heading": "PROTECTION OF TIMBER, AND DEPREDATIONS",
+    "section_count": 40
+  },
+  {
+    "slug": "chapter-005-protection-of-fur-seals-and-other-fur-bearing-animals",
+    "heading": "PROTECTION OF FUR SEALS AND OTHER FUR-BEARING ANIMALS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-5a-protection-and-conservation-of-wildlife",
+    "heading": "PROTECTION AND CONSERVATION OF WILDLIFE",
+    "section_count": 40
+  },
+  {
+    "slug": "chapter-5b-wildlife-restoration",
+    "heading": "WILDLIFE RESTORATION",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-5c-conservation-programs-on-government-lands",
+    "heading": "CONSERVATION PROGRAMS ON GOVERNMENT LANDS",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-006-game-and-bird-preserves-protection",
+    "heading": "GAME AND BIRD PRESERVES; PROTECTION",
+    "section_count": 121
+  },
+  {
+    "slug": "chapter-007-protection-of-migratory-game-and-insectivorous-birds",
+    "heading": "PROTECTION OF MIGRATORY GAME AND INSECTIVOROUS BIRDS",
+    "section_count": 64
+  },
+  {
+    "slug": "chapter-008-upper-mississippi-river-national-wildlife-and-fish-refuge",
+    "heading": "UPPER MISSISSIPPI RIVER NATIONAL WILDLIFE AND FISH REFUGE",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-009-fish-and-wildlife-service",
+    "heading": "FISH AND WILDLIFE SERVICE",
+    "section_count": 43
+  },
+  {
+    "slug": "chapter-9a-preservation-of-fishery-resources",
+    "heading": "PRESERVATION OF FISHERY RESOURCES",
+    "section_count": 44
+  },
+  {
+    "slug": "chapter-9b-national-fish-hatchery-system-enhancement",
+    "heading": "NATIONAL FISH HATCHERY SYSTEM ENHANCEMENT",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-010-northern-pacific-halibut-fishing",
+    "heading": "NORTHERN PACIFIC HALIBUT FISHING",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-10a-sockeye-or-pink-salmon-fishing",
+    "heading": "SOCKEYE OR PINK SALMON FISHING",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-10b-fish-restoration-and-management-projects",
+    "heading": "FISH RESTORATION AND MANAGEMENT PROJECTS",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-10c-fish-research-and-experimentation-program",
+    "heading": "FISH RESEARCH AND EXPERIMENTATION PROGRAM",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-10d-state-commercial-fisheries-research-and-development-projects",
+    "heading": "STATE COMMERCIAL FISHERIES RESEARCH AND DEVELOPMENT PROJECTS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-011-regulation-of-landing-curing-and-sale-of-sponges-taken-from-gulf-of-mexico-and-straits-of-florida",
+    "heading": "REGULATION OF LANDING, CURING, AND SALE OF SPONGES TAKEN FROM GULF OF MEXICO AND STRAITS OF FLORIDA",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-012-federal-regulation-and-development-of-power",
+    "heading": "FEDERAL REGULATION AND DEVELOPMENT OF POWER",
+    "section_count": 112
+  },
+  {
+    "slug": "chapter-12a-tennessee-valley-authority",
+    "heading": "TENNESSEE VALLEY AUTHORITY",
+    "section_count": 46
+  },
+  {
+    "slug": "chapter-12b-bonneville-project",
+    "heading": "BONNEVILLE PROJECT",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-12c-fort-peck-project",
+    "heading": "FORT PECK PROJECT",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-12d-columbia-basin-project",
+    "heading": "COLUMBIA BASIN PROJECT",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-12e-niagara-power-project",
+    "heading": "NIAGARA POWER PROJECT",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-12f-pacific-northwest-consumer-power-preference-reciprocal-priority-in-other-regions",
+    "heading": "PACIFIC NORTHWEST CONSUMER POWER PREFERENCE; RECIPROCAL PRIORITY IN OTHER REGIONS",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-12g-pacific-northwest-federal-transmission-system",
+    "heading": "PACIFIC NORTHWEST FEDERAL TRANSMISSION SYSTEM",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-12h-pacific-northwest-electric-power-planning-and-conservation",
+    "heading": "PACIFIC NORTHWEST ELECTRIC POWER PLANNING AND CONSERVATION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-013-regulation-of-transportation-in-interstate-or-foreign-commerce-of-black-bass-and-other-fish",
+    "heading": "REGULATION OF TRANSPORTATION IN INTERSTATE OR FOREIGN COMMERCE OF BLACK BASS AND OTHER FISH",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-014-regulation-of-whaling",
+    "heading": "REGULATION OF WHALING",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-14a-whale-conservation-and-protection",
+    "heading": "WHALE CONSERVATION AND PROTECTION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-015-predatory-sea-lampreys-in-the-great-lakes",
+    "heading": "PREDATORY SEA LAMPREYS IN THE GREAT LAKES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-15a-great-lakes-fisheries",
+    "heading": "GREAT LAKES FISHERIES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-15b-great-lakes-fish-and-wildlife-restoration",
+    "heading": "GREAT LAKES FISH AND WILDLIFE RESTORATION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-15c-great-lakes-fish-and-wildlife-tissue-bank",
+    "heading": "GREAT LAKES FISH AND WILDLIFE TISSUE BANK",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-016-tuna-conventions",
+    "heading": "TUNA CONVENTIONS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-16a-atlantic-tunas-convention",
+    "heading": "ATLANTIC TUNAS CONVENTION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-16b-eastern-pacific-tuna-fishing",
+    "heading": "EASTERN PACIFIC TUNA FISHING",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-16c-south-pacific-tuna-fishing",
+    "heading": "SOUTH PACIFIC TUNA FISHING",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-017-northwest-atlantic-fisheries",
+    "heading": "NORTHWEST ATLANTIC FISHERIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-018-watershed-protection-and-flood-prevention",
+    "heading": "WATERSHED PROTECTION AND FLOOD PREVENTION",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-18a-cooperative-watershed-management-program",
+    "heading": "COOPERATIVE WATERSHED MANAGEMENT PROGRAM",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-019-north-pacific-fisheries",
+    "heading": "NORTH PACIFIC FISHERIES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-020-national-fisheries-center-and-aquarium",
+    "heading": "NATIONAL FISHERIES CENTER AND AQUARIUM",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-021-prohibition-of-foreign-fishing-vessels-in-the-territorial-waters-of-the-united-states",
+    "heading": "PROHIBITION OF FOREIGN FISHING VESSELS IN THE TERRITORIAL WATERS OF THE UNITED STATES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-21a-fisheries-zone-contiguous-to-territorial-sea-of-the-united-states",
+    "heading": "FISHERIES ZONE CONTIGUOUS TO TERRITORIAL SEA OF THE UNITED STATES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-21b-prohibition-of-certain-foreign-fishing-vessels-in-united-states-fisheries",
+    "heading": "PROHIBITION OF CERTAIN FOREIGN FISHING VESSELS IN UNITED STATES FISHERIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-21c-offshore-shrimp-fisheries",
+    "heading": "OFFSHORE SHRIMP FISHERIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-022-international-parks",
+    "heading": "INTERNATIONAL PARKS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-023-national-wilderness-preservation-system",
+    "heading": "NATIONAL WILDERNESS PRESERVATION SYSTEM",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-024-conservation-and-protection-of-north-pacific-fur-seals",
+    "heading": "CONSERVATION AND PROTECTION OF NORTH PACIFIC FUR SEALS",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-025-jellyfish-or-sea-nettles-other-such-pests-and-seaweed-in-coastal-waters-control-or-elimination",
+    "heading": "JELLYFISH OR SEA NETTLES, OTHER SUCH PESTS, AND SEAWEED IN COASTAL WATERS: CONTROL OR ELIMINATION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-25a-crown-of-thorns-starfish",
+    "heading": "CROWN OF THORNS STARFISH",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-25b-reefs-for-marine-life-conservation",
+    "heading": "REEFS FOR MARINE LIFE CONSERVATION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-026-estuarine-areas",
+    "heading": "ESTUARINE AREAS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-027-national-trails-system",
+    "heading": "NATIONAL TRAILS SYSTEM",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-27a-national-recreational-trails-fund",
+    "heading": "NATIONAL RECREATIONAL TRAILS FUND",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-028-wild-and-scenic-rivers",
+    "heading": "WILD AND SCENIC RIVERS",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-029-water-bank-program-for-wetlands-preservation",
+    "heading": "WATER BANK PROGRAM FOR WETLANDS PRESERVATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-030-wild-horses-and-burros-protection-management-and-control",
+    "heading": "WILD HORSES AND BURROS: PROTECTION, MANAGEMENT, AND CONTROL",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-031-marine-mammal-protection",
+    "heading": "MARINE MAMMAL PROTECTION",
+    "section_count": 65
+  },
+  {
+    "slug": "chapter-032-marine-sanctuaries",
+    "heading": "MARINE SANCTUARIES",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-32a-regional-marine-research-programs",
+    "heading": "REGIONAL MARINE RESEARCH PROGRAMS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-033-coastal-zone-management",
+    "heading": "COASTAL ZONE MANAGEMENT",
+    "section_count": 27
+  },
+  {
+    "slug": "chapter-034-rural-environmental-conservation-program",
+    "heading": "RURAL ENVIRONMENTAL CONSERVATION PROGRAM",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-035-endangered-species",
+    "heading": "ENDANGERED SPECIES",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-036-forest-and-rangeland-renewable-resources-planning",
+    "heading": "FOREST AND RANGELAND RENEWABLE RESOURCES PLANNING",
+    "section_count": 42
+  },
+  {
+    "slug": "chapter-037-youth-conservation-corps-and-public-lands-corps",
+    "heading": "YOUTH CONSERVATION CORPS AND PUBLIC LANDS CORPS",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-038-fishery-conservation-and-management",
+    "heading": "FISHERY CONSERVATION AND MANAGEMENT",
+    "section_count": 65
+  },
+  {
+    "slug": "chapter-039-mining-activity-within-national-park-system-areas",
+    "heading": "MINING ACTIVITY WITHIN NATIONAL PARK SYSTEM AREAS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-040-soil-and-water-resources-conservation",
+    "heading": "SOIL AND WATER RESOURCES CONSERVATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-041-cooperative-forestry-assistance",
+    "heading": "COOPERATIVE FORESTRY ASSISTANCE",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-042-emergency-conservation-program",
+    "heading": "EMERGENCY CONSERVATION PROGRAM",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-043-public-transportation-programs-for-national-park-system-areas",
+    "heading": "PUBLIC TRANSPORTATION PROGRAMS FOR NATIONAL PARK SYSTEM AREAS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-044-antarctic-conservation",
+    "heading": "ANTARCTIC CONSERVATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-44a-antarctic-marine-living-resources-convention",
+    "heading": "ANTARCTIC MARINE LIVING RESOURCES CONVENTION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-44b-antarctic-mineral-resources-protection",
+    "heading": "ANTARCTIC MINERAL RESOURCES PROTECTION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-045-urban-park-and-recreation-recovery-program",
+    "heading": "URBAN PARK AND RECREATION RECOVERY PROGRAM",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-046-public-utility-regulatory-policies",
+    "heading": "PUBLIC UTILITY REGULATORY POLICIES",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-047-small-hydroelectric-power-projects",
+    "heading": "SMALL HYDROELECTRIC POWER PROJECTS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-048-national-aquaculture-policy-planning-and-development",
+    "heading": "NATIONAL AQUACULTURE POLICY, PLANNING, AND DEVELOPMENT",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-049-fish-and-wildlife-conservation",
+    "heading": "FISH AND WILDLIFE CONSERVATION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-050-chesapeake-bay-research-coordination",
+    "heading": "CHESAPEAKE BAY RESEARCH COORDINATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-051-alaska-national-interest-lands-conservation",
+    "heading": "ALASKA NATIONAL INTEREST LANDS CONSERVATION",
+    "section_count": 75
+  },
+  {
+    "slug": "chapter-052-salmon-and-steelhead-conservation-and-enhancement",
+    "heading": "SALMON AND STEELHEAD CONSERVATION AND ENHANCEMENT",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-053-control-of-illegally-taken-fish-and-wildlife",
+    "heading": "CONTROL OF ILLEGALLY TAKEN FISH AND WILDLIFE",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-054-resource-conservation",
+    "heading": "RESOURCE CONSERVATION",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-055-coastal-barrier-resources",
+    "heading": "COASTAL BARRIER RESOURCES",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-056-north-atlantic-salmon-fishing",
+    "heading": "NORTH ATLANTIC SALMON FISHING",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-56a-pacific-salmon-fishing",
+    "heading": "PACIFIC SALMON FISHING",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-057-national-fish-and-wildlife-foundation",
+    "heading": "NATIONAL FISH AND WILDLIFE FOUNDATION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-57a-partnerships-for-wildlife",
+    "heading": "PARTNERSHIPS FOR WILDLIFE",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-57b-partners-for-fish-and-wildlife",
+    "heading": "PARTNERS FOR FISH AND WILDLIFE",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-058-erodible-land-and-wetland-conservation-and-reserve-program",
+    "heading": "ERODIBLE LAND AND WETLAND CONSERVATION AND RESERVE PROGRAM",
+    "section_count": 72
+  },
+  {
+    "slug": "chapter-059-wetlands-resources",
+    "heading": "WETLANDS RESOURCES",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-59a-wetlands",
+    "heading": "WETLANDS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-060-fish-and-seafood-promotion",
+    "heading": "FISH AND SEAFOOD PROMOTION",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-061-interjurisdictional-fisheries",
+    "heading": "INTERJURISDICTIONAL FISHERIES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-062-african-elephant-conservation",
+    "heading": "AFRICAN ELEPHANT CONSERVATION",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-62a-asian-elephant-conservation",
+    "heading": "ASIAN ELEPHANT CONSERVATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-063-federal-cave-resources-protection",
+    "heading": "FEDERAL CAVE RESOURCES PROTECTION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-064-north-american-wetlands-conservation",
+    "heading": "NORTH AMERICAN WETLANDS CONSERVATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-065-international-forestry-cooperation",
+    "heading": "INTERNATIONAL FORESTRY COOPERATION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-066-take-pride-in-america-program",
+    "heading": "TAKE PRIDE IN AMERICA PROGRAM",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-067-aquatic-nuisance-prevention-and-control",
+    "heading": "AQUATIC NUISANCE PREVENTION AND CONTROL",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-068-pacific-yew-conservation-and-management",
+    "heading": "PACIFIC YEW CONSERVATION AND MANAGEMENT",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-069-wild-exotic-bird-conservation",
+    "heading": "WILD EXOTIC BIRD CONSERVATION",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-070-north-pacific-anadromous-stocks-convention",
+    "heading": "NORTH PACIFIC ANADROMOUS STOCKS CONVENTION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-071-atlantic-coastal-fisheries-cooperative-management",
+    "heading": "ATLANTIC COASTAL FISHERIES COOPERATIVE MANAGEMENT",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-71a-atlantic-striped-bass-conservation",
+    "heading": "ATLANTIC STRIPED BASS CONSERVATION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-072-recreational-hunting-safety",
+    "heading": "RECREATIONAL HUNTING SAFETY",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-073-rhinoceros-and-tiger-conservation",
+    "heading": "RHINOCEROS AND TIGER CONSERVATION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-074-national-maritime-heritage",
+    "heading": "NATIONAL MARITIME HERITAGE",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-075-high-seas-fishing-compliance",
+    "heading": "HIGH SEAS FISHING COMPLIANCE",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-076-northwest-atlantic-fisheries-convention",
+    "heading": "NORTHWEST ATLANTIC FISHERIES CONVENTION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-077-yukon-river-salmon",
+    "heading": "YUKON RIVER SALMON",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-078-national-natural-resources-conservation-foundation",
+    "heading": "NATIONAL NATURAL RESOURCES CONSERVATION FOUNDATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-079-national-park-service-management",
+    "heading": "NATIONAL PARK SERVICE MANAGEMENT",
+    "section_count": 32
+  },
+  {
+    "slug": "chapter-080-neotropical-migratory-bird-conservation",
+    "heading": "NEOTROPICAL MIGRATORY BIRD CONSERVATION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-081-user-fees-under-forest-system-recreation-residence-program",
+    "heading": "USER FEES UNDER FOREST SYSTEM RECREATION RESIDENCE PROGRAM",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-81a-national-forest-organizational-camp-fee-improvement",
+    "heading": "NATIONAL FOREST ORGANIZATIONAL CAMP FEE IMPROVEMENT",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-082-great-ape-conservation",
+    "heading": "GREAT APE CONSERVATION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-083-coral-reef-conservation",
+    "heading": "CORAL REEF CONSERVATION",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-83a-coral-reef-conservation-management-and-assistance",
+    "heading": "CORAL REEF CONSERVATION, MANAGEMENT, AND ASSISTANCE",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-084-healthy-forest-restoration",
+    "heading": "HEALTHY FOREST RESTORATION",
+    "section_count": 39
+  },
+  {
+    "slug": "chapter-085-marine-turtle-conservation",
+    "heading": "MARINE TURTLE CONSERVATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-086-southwest-forest-health-and-wildfire-prevention",
+    "heading": "SOUTHWEST FOREST HEALTH AND WILDFIRE PREVENTION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-087-federal-lands-recreation-enhancement",
+    "heading": "FEDERAL LANDS RECREATION ENHANCEMENT",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-87a-modernizing-access-to-public-land",
+    "heading": "MODERNIZING ACCESS TO PUBLIC LAND",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-87b-modernizing-access-to-public-waters",
+    "heading": "MODERNIZING ACCESS TO PUBLIC WATERS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-088-western-and-central-pacific-fisheries-convention",
+    "heading": "WESTERN AND CENTRAL PACIFIC FISHERIES CONVENTION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-089-pacific-whiting",
+    "heading": "PACIFIC WHITING",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-090-secure-rural-schools-and-community-self-determination",
+    "heading": "SECURE RURAL SCHOOLS AND COMMUNITY SELF-DETERMINATION",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-091-national-landscape-conservation-system",
+    "heading": "NATIONAL LANDSCAPE CONSERVATION SYSTEM",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-092-forest-landscape-restoration",
+    "heading": "FOREST LANDSCAPE RESTORATION",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-093-agreement-on-port-state-measures-to-prevent-deter-and-eliminate-illegal-unreported-and-unregulated-fishing",
+    "heading": "AGREEMENT ON PORT STATE MEASURES TO PREVENT, DETER AND ELIMINATE ILLEGAL, UNREPORTED AND UNREGULATED FISHING",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-094-national-oceans-and-coastal-security",
+    "heading": "NATIONAL OCEANS AND COASTAL SECURITY",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking",
+    "heading": "ELIMINATE, NEUTRALIZE, AND DISRUPT WILDLIFE TRAFFICKING",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-096-north-pacific-fisheries-convention",
+    "heading": "NORTH PACIFIC FISHERIES CONVENTION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-097-convention-on-the-conservation-and-management-of-high-seas-fishery-resources-in-the-south-pacific",
+    "heading": "CONVENTION ON THE CONSERVATION AND MANAGEMENT OF HIGH SEAS FISHERY RESOURCES IN THE SOUTH PACIFIC",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-098-sportsmens-access-to-federal-land",
+    "heading": "SPORTSMEN’S ACCESS TO FEDERAL LAND",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-099-maritime-security-and-fisheries-enforcement",
+    "heading": "MARITIME SECURITY AND FISHERIES ENFORCEMENT",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-100-nutria-eradication-and-control",
+    "heading": "NUTRIA ERADICATION AND CONTROL",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-101-national-fish-habitat-conservation-through-partnerships",
+    "heading": "NATIONAL FISH HABITAT CONSERVATION THROUGH PARTNERSHIPS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-102-coastal-habitat-conservation",
+    "heading": "COASTAL HABITAT CONSERVATION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-103-expanding-public-lands-outdoor-recreation-experiences",
+    "heading": "EXPANDING PUBLIC LANDS OUTDOOR RECREATION EXPERIENCES",
+    "section_count": 50
+  }
+]

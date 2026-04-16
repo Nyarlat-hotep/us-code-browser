@@ -1,0 +1,183 @@
+---
+title: 46
+chapter: '541'
+heading: MISCELLANEOUS
+section_count: 2
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
+---
+<a id="section-54101"></a>
+## § 54101. Assistance for small shipyards
+**(a) Establishment of Program.—** Subject to the availability of appropriations, the Administrator of the Maritime Administration shall execute agreements with shipyards to provide assistance—
+
+(1) in the form of grants, loans, and loan guarantees to small shipyards for capital improvements; and
+
+(2) for maritime training programs to foster technical skills and operational productivity relating to shipbuilding, ship repair, and associated industries.
+
+**(b) Awards.—**
+
+(1) **In general.—** — In providing assistance under the program, the Administrator shall consider projects that foster—
+
+  (A) efficiency, competitive operations, and quality ship construction, repair, and reconfiguration; and
+
+  (B) employee skills and enhanced productivity related to shipbuilding, ship repair, and associated industries.
+
+(2) **Timing of grant notice.—** — The Administrator shall post a Notice of Funding Opportunity regarding grants awarded under this section not more than 15 days after the date of enactment of the appropriations Act for the fiscal year concerned.
+
+(3) **Timing of grants.—** — The Administrator shall award grants under this section not later than 120 days after the date of the enactment of the appropriations Act for the fiscal year concerned.
+
+(4) **Reuse of unexpended grant funds.—** — Notwithstanding paragraph (3), amounts awarded as a grant under this section that are not expended by the grantee shall remain available to the Administrator for use for grants under this section.
+
+**(c) Use of Funds.—**
+
+(1) **In general.—** — Assistance provided under this section may be used to—
+
+  (A) make capital and related improvements in small shipyards; and
+
+  (B) provide training for workers in shipbuilding, ship repair, and associated industries.
+
+(2) **Administrative costs.—** — Not more than 2 percent of amounts made available to carry out the program may be used for the necessary costs of grant administration.
+
+**(d) Prohibited Uses.—** Grants awarded under this section may not be used to construct buildings or other physical facilities or to acquire land.
+
+**(e) Matching Requirements; Allocation.—**
+
+(1) **Federal funding.—** — Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
+
+(2) **Allocation of funds.—** — The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
+
+**(f) Applications.—**
+
+(1) **In general.—** — To be eligible for assistance under this section, an applicant shall submit an application, in such form, and containing such information and assurances as the Administrator may require, within 60 days after the date of enactment of the appropriations Act for the fiscal year concerned.
+
+(2) **Minimum standards for payment or reimbursement.—** — Each application submitted under paragraph (1) shall include a comprehensive description of—
+
+  (A) the need for the project;
+
+  (B) the methodology for implementing the project; and
+
+  (C) any existing programs or arrangements that can be used to supplement or leverage assistance under the program.
+
+(3) **Procedural safeguards.—** — The Administrator, in consultation with the Office of the Inspector General, shall issue guidelines to establish appropriate accounting, reporting, and review procedures to ensure that—
+
+  (A) grant funds are used for the purposes for which they were made available;
+
+  (B) grantees have properly accounted for all expenditures of grant funds; and
+
+  (C) grant funds not used for such purposes and amounts not obligated or expended are returned.
+
+(4) **Project approval required.—** — The Administrator may not award a grant under this section unless the Administrator determines that—
+
+  (A) sufficient funding is available to meet the matching requirements of subsection (e);
+
+  (B) the project will be completed without unreasonable delay; and
+
+  (C) the recipient has authority to carry out the proposed project.
+
+**(g) Audits and Examinations.—** All grantees under this section shall maintain such records as the Administrator may require and make such records available for review and audit by the Administrator.
+
+**(h) Small Shipyard Defined.—** In this section, the term “small shipyard” means a shipyard facility in one geographic location that does not have more than 1,200 employees.
+
+**(i) Authorization of Appropriations.—** There are authorized to be appropriated to the Administrator of the Maritime Administration for each of fiscal years 2018, 2019, and 2020 to carry out this section $35,000,000.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 54101, added and amended Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(B)–(D), Jan. 28, 2008, 122 Stat. 599, which related to assistance for small shipyards and maritime communities, was repealed by Pub. L. 110–417, div. C, title XXXV, § 3508(b), Oct. 14, 2008, 122 Stat. 4769, as amended by Pub. L. 111–84, div. A, title X, § 1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
+
+#### Amendments
+2018—Subsec. (b)(2) to (4). Pub. L. 115–232, § 3511, added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and, in par. (4), substituted “paragraph (3)” for “paragraph (2)”.
+
+Subsec. (f)(2). Pub. L. 115–232, § 3546(r), added par. (2) and struck out former par. (2) consisting of subpar. (A) and cls. (i) to (iii) which related to minimum standards for payment or reimbursement.
+
+2017—Pub. L. 115–91, § 3505(a)(1), struck out “and maritime communities” after “shipyards” in section catchline.
+
+Subsec. (a)(2). Pub. L. 115–91, § 3505(a)(2), substituted “relating to shipbuilding, ship repair, and associated industries.” for “in communities whose economies are related to or dependent upon the maritime industry.”
+
+Subsec. (b). Pub. L. 115–91, § 3505(a)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+“(b) Awards.—In providing assistance under the program, the Administrator shall—
+
+“(1) take into account—
+
+“(A) the economic circumstances and conditions of maritime communities;
+
+“(B) projects that would be effective in fostering efficiency, competitive operations, and quality ship construction, repair, and reconfiguration; and
+
+“(C) projects that would be effective in fostering employee skills and enhancing productivity; and
+
+“(2) make grants within 120 days after the date of enactment of the appropriations Act for the fiscal year concerned.”
+
+Subsec. (c)(1). Pub. L. 115–91, § 3505(a)(4), inserted “to” after “may be used” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) to (C) which read as follows:
+
+“(A) to make capital and related improvements in small shipyards located in or near maritime communities;
+
+“(B) to provide training for workers in communities whose economies are related to the maritime industry; and
+
+“(C) for such other purposes as the Administrator determines to be consistent with and supplemental to such activities.”
+
+Subsec. (d). Pub. L. 115–91, § 3505(a)(5), struck out “unless such use is specifically approved by the Administrator in support of subsection (c)(1)(C)” before period at end.
+
+Subsec. (e)(1). Pub. L. 115–91, § 3505(a)(6)(C), struck out “Except as provided in paragraph (2),” before “Federal funds”.
+
+Subsec. (e)(2), (3). Pub. L. 115–91, § 3505(a)(6)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “Exception.—If the Administrator determines that a proposed project merits support and cannot be undertaken without a higher percentage of Federal financial assistance, the Administrator may award a grant for such project with a lesser matching requirement than is described in paragraph (1).”
+
+Subsec. (i). Pub. L. 115–91, § 3501(b), substituted “2018, 2019, and 2020 to carry out this section $35,000,000” for “2015 through 2017 to carry out this section—
+
+“(1) $5,000,000 for training grants; and
+
+“(2) $25,000,000 for capital and related improvements”.
+
+2014—Subsec. (i). Pub. L. 113–281 substituted “2015 through 2017” for “2009 through 2013” in introductory provisions.
+
+
+<a id="section-54102"></a>
+## § 54102. Centers of excellence for domestic maritime workforce training and education
+**(a) Designation.—** The Secretary of Transportation may designate as a center of excellence for domestic maritime workforce training and education a covered training entity located in a State that borders on the—
+
+(1) Gulf of Mexico;
+
+(2) Atlantic Ocean;
+
+(3) Long Island Sound;
+
+(4) Pacific Ocean;
+
+(5) Great Lakes;
+
+(6) Mississippi River System;
+
+(7) Arctic; or
+
+(8) Gulf of Alaska.
+
+**(b) Assistance.—** The Secretary may enter into a cooperative agreement (as that term is used in [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)) with a center of excellence designated under subsection (a) to support maritime workforce training and education at the center of excellence, including efforts of the center of excellence to—
+
+(1) admit additional students;
+
+(2) recruit and train faculty;
+
+(3) expand facilities;
+
+(4) create new maritime career pathways; or
+
+(5) award students credit for prior experience, including military service.
+
+**(c) Definitions.—** In this section,
+
+(1) **Covered training entity.—** — the term “covered training entity” means an entity that is—
+
+  (A) a community or technical college; or
+
+  (B) a maritime training center—
+
+    (i) operated by, or under the supervision of, a State; and
+
+    (ii) with a maritime training program in operation on the date of enactment of this section.
+
+(2) **Arctic.—** — The term “Arctic” has the meaning that term has under section 112 of the Arctic Research and Policy Act of 1984 ([15 U.S.C. 4111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (c)(1)(B)(ii), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.

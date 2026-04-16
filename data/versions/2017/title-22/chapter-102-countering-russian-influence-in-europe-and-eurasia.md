@@ -1,0 +1,926 @@
+---
+title: 22
+chapter: '102'
+heading: COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA
+section_count: 23
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
+---
+<a id="section-9501"></a>
+## § 9501. Exception relating to activities of the National Aeronautics and Space Administration
+**(a) In general** This chapter and the amendments made by this Act shall not apply with respect to activities of the National Aeronautics and Space Administration.
+
+**(b) Rule of construction** Nothing in this chapter or the amendments made by this Act shall be construed to authorize the imposition of any sanction or other condition, limitation, restriction, or prohibition, that directly or indirectly impedes the supply by any entity of the Russian Federation of any product or service, or the procurement of such product or service by any contractor or subcontractor of the United States or any other entity, relating to or in connection with any space launch conducted for—
+
+(1) the National Aeronautics and Space Administration; or
+
+(2) any other non-Department of Defense customer.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “This Act” and was translated as reading “This title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, known as the Countering Russian Influence in Europe and Eurasia Act of 2017, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+
+<a id="section-9502"></a>
+## § 9502. Rule of construction
+
+Nothing in this part or the amendments made by this part shall be construed—
+
+(1) to supersede the limitations or exceptions on the use of rocket engines for national security purposes under section 1608 of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3626; [10 U.S.C. 2271](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2271&num=0&edition=prelim) note), as amended by section 1607 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1100) and section 1602 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2582); or
+
+(2) to prohibit a contractor or subcontractor of the Department of Defense from acquiring components referred to in such section 1608.
+
+### Statutory Notes
+
+#### References in Text
+This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, 8924 of this title. For complete classification of part 2 to the Code, see Tables.
+
+
+<a id="section-9511"></a>
+## § 9511. Findings
+
+Congress makes the following findings:
+
+(1) On March 6, 2014, President Barack Obama issued Executive Order No. 13660 (79 Fed. Reg. 13493; relating to blocking property of certain persons contributing to the situation in Ukraine), which authorizes the Secretary of the Treasury, in consultation with the Secretary of State, to impose sanctions on those determined to be undermining democratic processes and institutions in Ukraine or threatening the peace, security, stability, sovereignty, and territorial integrity of Ukraine. President Obama subsequently issued Executive Order No. 13661 (79 Fed. Reg. 15535; relating to blocking property of additional persons contributing to the situation in Ukraine) and Executive Order No. 13662 (79 Fed. Reg. 16169; relating to blocking property of additional persons contributing to the situation in Ukraine) to expand sanctions on certain persons contributing to the situation in Ukraine.
+
+(2) On December 18, 2014, the Ukraine Freedom Support Act of 2014 was enacted (Public Law 113–272; [22 U.S.C. 8921](./chapter-96a-ukraine-freedom-support.md#section-8921) et seq.), which includes provisions directing the President to impose sanctions on foreign persons that the President determines to be entities owned or controlled by the Government of the Russian Federation or nationals of the Russian Federation that manufacture, sell, transfer, or otherwise provide certain defense articles into Syria.
+
+(3) On April 1, 2015, President Obama issued Executive Order No. 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), which authorizes the Secretary of the Treasury, in consultation with the Attorney General and the Secretary of State, to impose sanctions on persons determined to be engaged in malicious cyber-hacking.
+
+(4) On July 26, 2016, President Obama approved a Presidential Policy Directive on United States Cyber Incident Coordination, which states, “certain cyber incidents that have significant impacts on an entity, our national security, or the broader economy require a unique approach to response efforts”.
+
+(5) On December 29, 2016, President Obama issued an annex to Executive Order No. 13694,11 See References in Text note below. which authorized sanctions on the following entities and individuals:
+
+  (A) The Main Intelligence Directorate (also known as Glavnoe Razvedyvatel’noe Upravlenie or the GRU) in Moscow, Russian Federation.
+
+  (B) The Federal Security Service (also known as Federalnaya Sluzhba Bezopasnosti or the FSB) in Moscow, Russian Federation.
+
+  (C) The Special Technology Center (also known as STLC, Ltd. Special Technology Center St. Petersburg) in St. Petersburg, Russian Federation.
+
+  (D) Zorsecurity (also known as Esage Lab) in Moscow, Russian Federation.
+
+  (E) The autonomous noncommercial organization known as the Professional Association of Designers of Data Processing Systems (also known as ANO PO KSI) in Moscow, Russian Federation.
+
+  (F) Igor Valentinovich Korobov.
+
+  (G) Sergey Aleksandrovich Gizunov.
+
+  (H) Igor Olegovich Kostyukov.
+
+  (I) Vladimir Stepanovich Alexseyev.
+
+(6) On January 6, 2017, an assessment of the United States intelligence community entitled, “Assessing Russian Activities and Intentions in Recent U.S. Elections” stated, “Russian President Vladimir Putin ordered an influence campaign in 2016 aimed at the United States presidential election.” The assessment warns that “Moscow will apply lessons learned from its Putin-ordered campaign aimed at the U.S. Presidential election to future influence efforts worldwide, including against U.S. allies and their election processes”.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order No. 13660, referred to in par. (1), is Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13661, referred to in par. (1), is Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13662, referred to in par. (1), is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+The Ukraine Freedom Support Act of 2014, referred to in par. (2), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8921 of this title](./chapter-96a-ukraine-freedom-support.md#section-8921) and Tables.
+
+Executive Order No. 13694, referred to in par. (3), is Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+The annex to Executive Order No. 13694, referred to in par. (5), probably means Ex. Ord. No. 13757, §§ 1–3, Dec. 28, 2016, 82 F.R. 1, 2, which amended Ex. Ord. No. 13694.
+
+#### Short Title
+Pub. L. 115–44, title II, § 201, Aug. 2, 2017, 131 Stat. 898, provided that: “This title [enacting this chapter and sections 8909 and 8910 of this title, amending sections 8901, 8907, 8908, 8923, and 8924 of this title, [section 5326 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5326&num=0&edition=prelim), Money and Finance, and [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense, and enacting provisions set out as notes under this section and [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim)] may be cited as the ‘Countering Russian Influence in Europe and Eurasia Act of 2017’.”
+
+Pub. L. 115–44, title II, § 215, Aug. 2, 2017, 131 Stat. 900, provided that: “This part [part 1 (§§ 215, 216) of subtitle A of title II of Pub. L. 115–44, enacting part A of this subchapter] may be cited as the ‘Russia Sanctions Review Act of 2017’.”
+
+#### Rule of Construction
+Pub. L. 115–44, title II, § 291, Aug. 2, 2017, 131 Stat. 939, provided that: “Nothing in this title [see section 201 of Pub. L. 115–44, set out as a Short Title note above] or the amendments made by this title (other than sections 216 and 236(b) [enacting sections 9511 and 9530(b) of this title, respectively]) shall be construed to limit the authority of the President under the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.).”
+
+
+<a id="section-9521"></a>
+## § 9521. Sense of Congress
+
+It is the sense of Congress that the President—
+
+(1) should continue to uphold and seek unity with European and other key partners on sanctions implemented against the Russian Federation, which have been effective and instrumental in countering Russian aggression in Ukraine;
+
+(2) should engage to the fullest extent possible with partner governments with regard to closing loopholes, including the allowance of extended prepayment for the delivery of goods and commodities and other loopholes, in multilateral and unilateral restrictive measures against the Russian Federation, with the aim of maximizing alignment of those measures; and
+
+(3) should increase efforts to vigorously enforce compliance with sanctions in place as of August 2, 2017, with respect to the Russian Federation in response to the crisis in eastern Ukraine, cyber intrusions and attacks, and human rights violators in the Russian Federation.
+
+
+<a id="section-9522"></a>
+## § 9522. Congressional review of certain actions relating to sanctions imposed with respect to the Russian federation
+**(a) Submission to Congress of proposed action**
+
+(1) **In general** — Notwithstanding any other provision of law, before taking any action described in paragraph (2), the President shall submit to the appropriate congressional committees and leadership a report that describes the proposed action and the reasons for that action.
+
+(2) **Actions described**
+
+  (A) *In general* — An action described in this paragraph is—
+
+    (i) an action to terminate the application of any sanctions described in subparagraph (B);
+
+    (ii) with respect to sanctions described in subparagraph (B) imposed by the President with respect to a person, an action to waive the application of those sanctions with respect to that person; or
+
+    (iii) a licensing action that significantly alters United States’ 11 So in original. Probably should be “United States”. foreign policy with regard to the Russian Federation.
+
+  (B) *Sanctions described* — The sanctions described in this subparagraph are—
+
+    (i) sanctions provided for under—
+
+      (I) this chapter or any provision of law amended by this title, including the Executive orders codified under [section 9522 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9522);
+
+      (II) the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014 ([22 U.S.C. 8901](./chapter-096-sovereignty-integrity-democracy-and-economic-stability-of-ukraine.md#section-8901) et seq.); or
+
+      (III) the Ukraine Freedom Support Act of 2014 ([22 U.S.C. 8921](./chapter-96a-ukraine-freedom-support.md#section-8921) et seq.); and
+
+    (ii) the prohibition on access to the properties of the Government of the Russian Federation located in Maryland and New York that the President ordered vacated on December 29, 2016.
+
+(3) **Description of type of action** — Each report submitted under paragraph (1) with respect to an action described in paragraph (2) shall include a description of whether the action—
+
+  (A) is not intended to significantly alter United States foreign policy with regard to the Russian Federation; or
+
+  (B) is intended to significantly alter United States foreign policy with regard to the Russian Federation.
+
+(4) **Inclusion of additional matter**
+
+  (A) *In general* — Each report submitted under paragraph (1) that relates to an action that is intended to significantly alter United States foreign policy with regard to the Russian Federation shall include a description of—
+
+    (i) the significant alteration to United States foreign policy with regard to the Russian Federation;
+
+    (ii) the anticipated effect of the action on the national security interests of the United States; and
+
+    (iii) the policy objectives for which the sanctions affected by the action were initially imposed.
+
+  (B) *Requests from banking and financial services committees* — The Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives may request the submission to the Committee of the matter described in clauses (ii) and (iii) of subparagraph (A) with respect to a report submitted under paragraph (1) that relates to an action that is not intended to significantly alter United States foreign policy with regard to the Russian Federation.
+
+(5) **Confidentiality of proprietary information** — Proprietary information that can be associated with a particular person with respect to an action described in paragraph (2) may be included in a report submitted under paragraph (1) only if the appropriate congressional committees and leadership provide assurances of confidentiality, unless such person otherwise consents in writing to such disclosure.
+
+(6) **Rule of construction** — Paragraph (2)(A)(iii) shall not be construed to require the submission of a report under paragraph (1) with respect to the routine issuance of a license that does not significantly alter United States foreign policy with regard to the Russian Federation.
+
+**(b) Period for review by Congress**
+
+(1) **In general** — During the period of 30 calendar days beginning on the date on which the President submits a report under subsection (a)(1)—
+
+  (A) in the case of a report that relates to an action that is not intended to significantly alter United States foreign policy with regard to the Russian Federation, the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives should, as appropriate, hold hearings and briefings and otherwise obtain information in order to fully review the report; and
+
+  (B) in the case of a report that relates to an action that is intended to significantly alter United States foreign policy with regard to the Russian Federation, the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives should, as appropriate, hold hearings and briefings and otherwise obtain information in order to fully review the report.
+
+(2) **Exception** — The period for congressional review under paragraph (1) of a report required to be submitted under subsection (a)(1) shall be 60 calendar days if the report is submitted on or after July 10 and on or before September 7 in any calendar year.
+
+(3) **Limitation on actions during initial congressional review period** — Notwithstanding any other provision of law, during the period for congressional review provided for under paragraph (1) of a report submitted under subsection (a)(1) proposing an action described in subsection (a)(2), including any additional period for such review as applicable under the exception provided in paragraph (2), the President may not take that action unless a joint resolution of approval with respect to that action is enacted in accordance with subsection (c).
+
+(4) **Limitation on actions during presidential consideration of a joint resolution of disapproval** — Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), the President may not take that action for a period of 12 calendar days after the date of passage of the joint resolution of disapproval.
+
+(5) **Limitation on actions during congressional reconsideration of a joint resolution of disapproval** — Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) passes both Houses of Congress in accordance with subsection (c), and the President vetoes the joint resolution, the President may not take that action for a period of 10 calendar days after the date of the President’s veto.
+
+(6) **Effect of enactment of a joint resolution of disapproval** — Notwithstanding any other provision of law, if a joint resolution of disapproval relating to a report submitted under subsection (a)(1) proposing an action described in subsection (a)(2) is enacted in accordance with subsection (c), the President may not take that action.
+
+**(c) Joint resolutions of disapproval or approval defined** In this subsection:
+
+(1) **Joint resolution of approval** — The term “joint resolution of approval” means only a joint resolution of either House of Congress—
+
+  (A) the title of which is as follows: “A joint resolution approving the President’s proposal to take an action relating to the application of certain sanctions with respect to the Russian Federation.”; and
+
+  (B) the sole matter after the resolving clause of which is the following: “Congress approves of the action relating to the application of sanctions imposed with respect to the Russian Federation proposed by the President in the report submitted to Congress under section 216(a)(1) of the Russia Sanctions Review Act of 2017 22 See References in Text note below. on ___ relating to ___.”, with the first blank space being filled with the appropriate date and the second blank space being filled with a short description of the proposed action.
+
+(2) **Joint resolution of disapproval** — The term “joint resolution of disapproval” means only a joint resolution of either House of Congress—
+
+  (A) the title of which is as follows: “A joint resolution disapproving the President’s proposal to take an action relating to the application of certain sanctions with respect to the Russian Federation.”; and
+
+  (B) the sole matter after the resolving clause of which is the following: “Congress disapproves of the action relating to the application of sanctions imposed with respect to the Russian Federation proposed by the President in the report submitted to Congress under section 216(a)(1) of the Russia Sanctions Review Act of 2017 2 on ___ relating to ___.”, with the first blank space being filled with the appropriate date and the second blank space being filled with a short description of the proposed action.
+
+(3) **Introduction** — During the period of 30 calendar days provided for under subsection (b)(1), including any additional period as applicable under the exception provided in subsection (b)(2), a joint resolution of approval or joint resolution of disapproval may be introduced—
+
+  (A) in the House of Representatives, by the majority leader or the minority leader; and
+
+  (B) in the Senate, by the majority leader (or the majority leader’s designee) or the minority leader (or the minority leader’s designee).
+
+(4) **Floor consideration in House of Representatives** — If a committee of the House of Representatives to which a joint resolution of approval or joint resolution of disapproval has been referred has not reported the joint resolution within 10 calendar days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
+
+(5) **Consideration in the Senate**
+
+  (A) *Committee referral* — A joint resolution of approval or joint resolution of disapproval introduced in the Senate shall be—
+
+    (i) referred to the Committee on Banking, Housing, and Urban Affairs if the joint resolution relates to a report under subsection (a)(3)(A) that relates to an action that is not intended to significantly alter United States foreign policy with regard to the Russian Federation; and
+
+    (ii) referred to the Committee on Foreign Relations if the joint resolution relates to a report under subsection (a)(3)(B) that relates to an action that is intended to significantly alter United States foreign policy with respect to the Russian Federation.
+
+  (B) *Reporting and discharge* — If the committee to which a joint resolution of approval or joint resolution of disapproval was referred has not reported the joint resolution within 10 calendar days after the date of referral of the joint resolution, that committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be placed on the appropriate calendar.
+
+  (C) *Proceeding to consideration* — Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the Committee on Banking, Housing, and Urban Affairs or the Committee on Foreign Relations, as the case may be, reports a joint resolution of approval or joint resolution of disapproval to the Senate or has been discharged from consideration of such a joint resolution (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order.
+
+  (D) *Rulings of the chair on procedure* — Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution of approval or joint resolution of disapproval shall be decided without debate.
+
+  (E) *Consideration of veto messages* — Debate in the Senate of any veto message with respect to a joint resolution of approval or joint resolution of disapproval, including all debatable motions and appeals in connection with the joint resolution, shall be limited to 10 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+
+(6) **Rules relating to Senate and House of Representatives**
+
+  (A) *Treatment of Senate joint resolution in House* — In the House of Representatives, the following procedures shall apply to a joint resolution of approval or a joint resolution of disapproval received from the Senate (unless the House has already passed a joint resolution relating to the same proposed action):
+
+    (i) The joint resolution shall be referred to the appropriate committees.
+
+    (ii) If a committee to which a joint resolution has been referred has not reported the joint resolution within 2 calendar days after the date of referral, that committee shall be discharged from further consideration of the joint resolution.
+
+    (iii) Beginning on the third legislative day after each committee to which a joint resolution has been referred reports the joint resolution to the House or has been discharged from further consideration thereof, it shall be in order to move to proceed to consider the joint resolution in the House. All points of order against the motion are waived. Such a motion shall not be in order after the House has disposed of a motion to proceed on the joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+
+    (iv) The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to final passage without intervening motion except 2 hours of debate equally divided and controlled by the sponsor of the joint resolution (or a designee) and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+
+  (B) *Treatment of House joint resolution in Senate*
+
+    (i) If, before the passage by the Senate of a joint resolution of approval or joint resolution of disapproval, the Senate receives an identical joint resolution from the House of Representatives, the following procedures shall apply:
+
+      (I) That joint resolution shall not be referred to a committee.
+
+      (II) With respect to that joint resolution—
+
+        (aa) the procedure in the Senate shall be the same as if no joint resolution had been received from the House of Representatives; but
+
+        (bb) the vote on passage shall be on the joint resolution from the House of Representatives.
+
+    (ii) If, following passage of a joint resolution of approval or joint resolution of disapproval in the Senate, the Senate receives an identical joint resolution from the House of Representatives, that joint resolution shall be placed on the appropriate Senate calendar.
+
+    (iii) If a joint resolution of approval or a joint resolution of disapproval is received from the House, and no companion joint resolution has been introduced in the Senate, the Senate procedures under this subsection shall apply to the House joint resolution.
+
+  (C) *Application to revenue measures* — The provisions of this paragraph shall not apply in the House of Representatives to a joint resolution of approval or joint resolution of disapproval that is a revenue measure.
+
+(7) **Rules of House of Representatives and Senate** — This subsection is enacted by Congress—
+
+  (A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, and supersedes other rules only to the extent that it is inconsistent with such rules; and
+
+  (B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+**(d) Appropriate congressional committees and leadership defined** In this section, the term “appropriate congressional committees and leadership” means—
+
+(1) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the majority and minority leaders of the Senate; and
+
+(2) the Committee on Financial Services, the Committee on Foreign Affairs, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a)(2)(B)(i)(I), was in the original “this title”. See below.
+
+This title, referred to in subsec. (a)(2)(B)(i)(I), is title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+The Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, referred to in subsec. (a)(2)(B)(i)(II), is Pub. L. 113–95, Apr. 3, 2014, 128 Stat. 1088, which is classified generally to chapter 96 (§ 8901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8901 of this title](./chapter-096-sovereignty-integrity-democracy-and-economic-stability-of-ukraine.md#section-8901) and Tables.
+
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(2)(B)(i)(III), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8921 of this title](./chapter-96a-ukraine-freedom-support.md#section-8921) and Tables.
+
+Section 216(a)(1) of the Russia Sanctions Review Act of 2017, referred to in subsec. (c)(1)(B), (2)(B), is subsec. (a)(1) of this section.
+
+
+<a id="section-9523"></a>
+## § 9523. Definitions
+
+In this part:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+
+  (A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Finance of the Senate; and
+
+  (B) the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Ways and Means of the House of Representatives.
+
+(2) **Good** — The term “good” has the meaning given that term in [section 4618 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4618&num=0&edition=prelim) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.)).
+
+(3) **International financial institution** — The term “international financial institution” has the meaning given that term in [section 262r(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c&num=0&edition=prelim).
+
+(4) **Knowingly** — The term “knowingly”, with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+(5) **Person** — The term “person” means an individual or entity.
+
+(6) **United States person** — The term “United States person” means—
+
+  (A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+  (B) an entity organized under the laws of the United States or of any jurisdiction within the United States, including a foreign branch of such an entity.
+
+### Statutory Notes
+
+#### References in Text
+This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, and 8924 of this title. For complete classification of part 2 to the Code, see Tables.
+
+The International Emergency Economic Powers Act, referred to in par. (2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+
+<a id="section-9524"></a>
+## § 9524. Codification of sanctions relating to the Russian Federation
+**(a) Codification** United States sanctions provided for in Executive Order No. 13660 (79 Fed. Reg. 13493; relating to blocking property of certain persons contributing to the situation in Ukraine), Executive Order No. 13661 (79 Fed. Reg. 15535; relating to blocking property of additional persons contributing to the situation in Ukraine), Executive Order No. 13662 (79 Fed. Reg. 16169; relating to blocking property of additional persons contributing to the situation in Ukraine), Executive Order No. 13685 (79 Fed. Reg. 77357; relating to blocking property of certain persons and prohibiting certain transactions with respect to the Crimea region of Ukraine), Executive Order No. 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), and Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respect to significant malicious cyber-enabled activities), as in effect on the day before August 2, 2017, including with respect to all persons sanctioned under such Executive orders, shall remain in effect except as provided in subsection (b).
+
+**(b) Termination of certain sanctions** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may terminate the application of sanctions described in subsection (a) that are imposed on a person in connection with activity conducted by the person if the President submits to the appropriate congressional committees a notice that—
+
+(1) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+(2) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions described in subsection (a) in the future.
+
+**(c) Application of new cyber sanctions** The President may waive the initial application under subsection (a) of sanctions with respect to a person under Executive Order No. 13694 or 13757 only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter; and
+
+(2) a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
+
+**(d) Application of new Ukraine-related sanctions** The President may waive the initial application under subsection (a) of sanctions with respect to a person under Executive Order No. 13660, 13661, 13662, or 13685 only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter; and
+
+(2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order No. 13660, referred to in subsecs. (a) and (d), is Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13661, referred to in subsecs. (a) and (d), is Ex. Ord. No. 13661, Mar. 16, 2014, 79 F.R. 15535, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13662, referred to in subsecs. (a) and (d), is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13685, referred to in subsecs. (a) and (d), is Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13694, referred to in subsecs. (a) and (c), is Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+Executive Order No. 13757, referred to in subsecs. (a) and (c), is Ex. Ord. No. 13757, Dec. 28, 2016, 82 F.R. 1. Sections 1 to 3 of the Order amended Ex. Ord. No. 13694, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+This chapter, referred to in subsecs. (c)(1)(B) and (d)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+
+<a id="section-9525"></a>
+## § 9525. Modification of implementation of Executive Order No. 13662
+**(a) Determination that certain entities are subject to sanctions** The Secretary of the Treasury may determine that a person meets one or more of the criteria in section 1(a) of Executive Order No. 13662 if that person is a state-owned entity operating in the railway or metals and mining sector of the economy of the Russian Federation.
+
+**(b) Modification of Directive 1 with respect to the financial services sector of the Russian Federation economy** Not later than 60 days after August 2, 2017, the Secretary of the Treasury shall modify Directive 1 (as amended), dated September 12, 2014, issued by the Office of Foreign Assets Control under Executive Order No. 13662, or any successor directive (which shall be effective beginning on the date that is 60 days after the date of such modification), to ensure that the directive prohibits the conduct by United States persons or persons within the United States of all transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity of persons determined to be subject to the directive, their property, or their interests in property.
+
+**(c) Modification of Directive 2 with respect to the energy sector of the Russian Federation economy** Not later than 60 days after August 2, 2017, the Secretary of the Treasury shall modify Directive 2 (as amended), dated September 12, 2014, issued by the Office of Foreign Assets Control under Executive Order No. 13662, or any successor directive (which shall be effective beginning on the date that is 60 days after the date of such modification), to ensure that the directive prohibits the conduct by United States persons or persons within the United States of all transactions in, provision of financing for, and other dealings in new debt of longer than 60 days maturity of persons determined to be subject to the directive, their property, or their interests in property.
+
+**(d) Modification of Directive 4** Not later than 90 days after August 2, 2017, the Secretary of the Treasury shall modify Directive 4, dated September 12, 2014, issued by the Office of Foreign Assets Control under Executive Order No. 13662, or any successor directive (which shall be effective beginning on the date that is 90 days after the date of such modification), to ensure that the directive prohibits the provision, exportation, or reexportation, directly or indirectly, by United States persons or persons within the United States, of goods, services (except for financial services), or technology in support of exploration or production for new deepwater, Arctic offshore, or shale projects—
+
+(1) that have the potential to produce oil; and
+
+(2) that involve any person determined to be subject to the directive or the property or interests in property of such a person who has a controlling interest or a substantial non-controlling ownership interest in such a project defined as not less than a 33 percent interest.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order No. 13662, referred to in section catchline and text, is Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
+
+
+<a id="section-9526"></a>
+## § 9526. Imposition of sanctions with respect to activities of the Russian Federation undermining cybersecurity
+**(a) In general** On and after the date that is 60 days after August 2, 2017, the President shall—
+
+(1) impose the sanctions described in subsection (b) with respect to any person that the President determines—
+
+  (A) knowingly engages in significant activities undermining cybersecurity against any person, including a democratic institution, or government on behalf of the Government of the Russian Federation; or
+
+  (B) is owned or controlled by, or acts or purports to act for or on behalf of, directly or indirectly, a person described in subparagraph (A);
+
+(2) impose five or more of the sanctions described in [section 9529 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9529) with respect to any person that the President determines knowingly materially assists, sponsors, or provides financial, material, or technological support for, or goods or services (except financial services) in support of, an activity described in paragraph (1)(A); and
+
+(3) impose three or more of the sanctions described in [section 8923(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8923/c&num=0&edition=prelim) with respect to any person that the President determines knowingly provides financial services in support of an activity described in paragraph (1)(A).
+
+**(b) Sanctions described** The sanctions described in this subsection are the following:
+
+(1) **Asset blocking** — The exercise of all powers granted to the President by the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a person determined by the President to be subject to subsection (a)(1) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+(2) **Exclusion from the United States and revocation of visa or other documentation** — In the case of an alien determined by the President to be subject to subsection (a)(1), denial of a visa to, and exclusion from the United States of, the alien, and revocation in accordance with [section 1201(i) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1201/i&num=0&edition=prelim), of any visa or other documentation of the alien.
+
+**(c) Application of new cyber sanctions** The President may waive the initial application under subsection (a) of sanctions with respect to a person only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter; and
+
+(2) a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
+
+**(d) Significant activities undermining cybersecurity defined** In this section, the term “significant activities undermining cybersecurity” includes—
+
+(1) significant efforts—
+
+  (A) to deny access to or degrade, disrupt, or destroy an information and communications technology system or network; or
+
+  (B) to exfiltrate, degrade, corrupt, destroy, or release information from such a system or network without authorization for purposes of—
+
+    (i) conducting influence operations; or
+
+    (ii) causing a significant misappropriation of funds, economic resources, trade secrets, personal identifications, or financial information for commercial or competitive advantage or private financial gain;
+
+(2) significant destructive malware attacks; and
+
+(3) significant denial of service activities.
+
+### Statutory Notes
+
+#### References in Text
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+#### References in Text
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+
+<a id="section-9527"></a>
+## § 9527. Imposition of sanctions with respect to persons engaging in transactions with the intelligence or defense sectors of the Government of the Russian Federation
+**(a) In general** On and after the date that is 180 days after August 2, 2017, the President shall impose five or more of the sanctions described in [section 9529 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9529) with respect to a person the President determines knowingly, on or after August 2, 2017, engages in a significant transaction with a person that is part of, or operates for or on behalf of, the defense or intelligence sectors of the Government of the Russian Federation, including the Main Intelligence Agency of the General Staff of the Armed Forces of the Russian Federation or the Federal Security Service of the Russian Federation.
+
+**(b) Application of new sanctions** The President may waive the initial application of sanctions under subsection (a) with respect to a person only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter; and
+
+(2) a certification that the Government of the Russian Federation has made significant efforts to reduce the number and intensity of cyber intrusions conducted by that Government.
+
+**(c) Delay of imposition of sanctions** The President may delay the imposition of sanctions under subsection (a) with respect to a person if the President certifies to the appropriate congressional committees, not less frequently than every 180 days while the delay is in effect, that the person is substantially reducing the number of significant transactions described in subsection (a) in which that person engages.
+
+**(d) Requirement to issue guidance** Not later than 60 days after August 2, 2017, the President shall issue regulations or other guidance to specify the persons that are part of, or operate for or on behalf of, the defense and intelligence sectors of the Government of the Russian Federation.
+
+**(e) Penalties** A person that violates, attempts to violate, conspires to violate, or causes a violation of subsection (a) or any regulation, license, or order issued to carry out subsection (a) shall be subject to the penalties set forth in subsections (b) and (c) of [section 1705 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1705&num=0&edition=prelim) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (b)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+
+<a id="section-9528"></a>
+## § 9528. Sanctions with respect to the development of pipelines in the Russian Federation
+**(a) In general** The President, in coordination with allies of the United States, may impose five or more of the sanctions described in [section 9529 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9529) with respect to a person if the President determines that the person knowingly, on or after August 2, 2017, makes an investment described in subsection (b) or sells, leases, or provides to the Russian Federation, for the construction of Russian energy export pipelines, goods, services, technology, information, or support described in subsection (c)—
+
+(1) any of which has a fair market value of $1,000,000 or more; or
+
+(2) that, during a 12-month period, have an aggregate fair market value of $5,000,000 or more.
+
+**(b) Investment described** An investment described in this subsection is an investment that directly and significantly contributes to the enhancement of the ability of the Russian Federation to construct energy export pipelines.
+
+**(c) Goods, services, technology, information, or support described** Goods, services, technology, information, or support described in this subsection are goods, services, technology, information, or support that could directly and significantly facilitate the maintenance or expansion of the construction, modernization, or repair of energy export pipelines by the Russian Federation.
+
+
+<a id="section-9529"></a>
+## § 9529. Sanctions with respect to investment in or facilitation of privatization of State-owned assets by the Russian Federation
+**(a) In general** The President shall impose five or more of the sanctions described in [section 9529 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9529) if the President determines that a person, with actual knowledge, on or after August 2, 2017, makes an investment of $10,000,000 or more (or any combination of investments of not less than $1,000,000 each, which in the aggregate equals or exceeds $10,000,000 in any 12-month period), or facilitates such an investment, if the investment directly and significantly contributes to the ability of the Russian Federation to privatize state-owned assets in a manner that unjustly benefits—
+
+(1) officials of the Government of the Russian Federation; or
+
+(2) close associates or family members of those officials.
+
+**(b) Application of new sanctions** The President may waive the initial application of sanctions under subsection (a) with respect to a person only if the President submits to the appropriate congressional committees—
+
+(1) a written determination that the waiver—
+
+  (A) is in the vital national security interests of the United States; or
+
+  (B) will further the enforcement of this chapter; and
+
+(2) a certification that the Government of the Russian Federation is taking steps to implement the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, the Minsk Protocol, which was agreed to on September 5, 2014, and any successor agreements that are agreed to by the Government of Ukraine.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (b)(1)(B), was in the original “this title”, meaning title II of Pub. L. 115–44, Aug. 2, 2017, 131 Stat. 898, which is classified principally to this chapter. For complete classification of title II to the Code, see section 201 of Pub. L. 115–44, set out as a Short Title note under [section 9501 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9501) and Tables.
+
+
+<a id="section-9530"></a>
+## § 9530. Sanctions with respect to the transfer of arms and related materiel to Syria
+**(a) Imposition of sanctions**
+
+(1) **In general** — The President shall impose on a foreign person the sanctions described in subsection (b) if the President determines that such foreign person has, on or after August 2, 2017, knowingly exported, transferred, or otherwise provided to Syria significant financial, material, or technological support that contributes materially to the ability of the Government of Syria to—
+
+  (A) acquire or develop chemical, biological, or nuclear weapons or related technologies;
+
+  (B) acquire or develop ballistic or cruise missile capabilities;
+
+  (C) acquire or develop destabilizing numbers and types of advanced conventional weapons;
+
+  (D) acquire significant defense articles, defense services, or defense information (as such terms are defined under the Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.)); or
+
+  (E) acquire items designated by the President for purposes of the United States Munitions List under section 38(a)(1) of the Arms Export Control Act ([22 U.S.C. 2778(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778/a/1&num=0&edition=prelim)).
+
+(2) **Applicability to other foreign persons** — The sanctions described in subsection (b) shall also be imposed on any foreign person that—
+
+  (A) is a successor entity to a foreign person described in paragraph (1); or
+
+  (B) is owned or controlled by, or has acted for or on behalf of, a foreign person described in paragraph (1).
+
+**(b) Sanctions described** The sanctions to be imposed on a foreign person described in subsection (a) are the following:
+
+(1) **Blocking of property** — The President shall exercise all powers granted by the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) (except that the requirements of section 202 of such Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim)) shall not apply) to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+(2) **Aliens ineligible for visas, admission, or parole**
+
+  (A) *Exclusion from the United States* — If the foreign person is an individual, the Secretary of State shall deny a visa to, and the Secretary of Homeland Security shall exclude from the United States, the foreign person.
+
+  (B) *Current visas revoked*
+
+    (i) *In general* — The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of one of such Secretaries) shall revoke any visa or other entry documentation issued to the foreign person regardless of when issued.
+
+    (ii) *Effect of revocation* — A revocation under clause (i) shall take effect immediately and shall automatically cancel any other valid visa or entry documentation that is in the possession of the foreign person.
+
+**(c) Waiver** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may waive the application of sanctions under subsection (b) with respect to a person if the President determines that such a waiver is in the national security interest of the United States.
+
+**(d) Definitions** In this section:
+
+(1) **Financial, material, or technological support** — The term “financial, material, or technological support” has the meaning given such term in section 542.304 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+(2) **Foreign person** — The term “foreign person” has the meaning given such term in section 594.304 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+(3) **Syria** — The term “Syria” has the meaning given such term in section 542.316 of title 31, Code of Federal Regulations (or any corresponding similar regulation or ruling).
+
+### Statutory Notes
+
+#### References in Text
+The Arms Export Control Act, referred to in subsec. (a)(1)(D), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+
+<a id="section-9531"></a>
+## § 9531. Sanctions described
+**(a) Sanctions described** The sanctions to be imposed with respect to a person under section 9524(a)(2), 9525(b), 9526(a), or 9527(a) of this title are the following:
+
+(1) **Export-Import Bank assistance for exports to sanctioned persons** — The President may direct the Export-Import Bank of the United States not to give approval to the issuance of any guarantee, insurance, extension of credit, or participation in the extension of credit in connection with the export of any goods or services to the sanctioned person.
+
+(2) **Export sanction** — The President may order the United States Government not to issue any specific license and not to grant any other specific permission or authority to export any goods or technology to the sanctioned person under—
+
+  (A) the Export Administration Act of 1979 ([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.));
+
+  (B) the Arms Export Control Act ([22 U.S.C. 2751](./chapter-039-arms-export-control.md#section-2751) et seq.);
+
+  (C) the Atomic Energy Act of 1954 ([42 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) et seq.); or
+
+  (D) any other statute that requires the prior review and approval of the United States Government as a condition for the export or reexport of goods or services.
+
+(3) **Loans from United States financial institutions** — The President may prohibit any United States financial institution from making loans or providing credits to the sanctioned person totaling more than $10,000,000 in any 12-month period unless the person is engaged in activities to relieve human suffering and the loans or credits are provided for such activities.
+
+(4) **Loans from international financial institutions** — The President may direct the United States executive director to each international financial institution to use the voice and vote of the United States to oppose any loan from the international financial institution that would benefit the sanctioned person.
+
+(5) **Prohibitions on financial institutions** — The following prohibitions may be imposed against the sanctioned person if that person is a financial institution:
+
+  (A) *Prohibition on designation as primary dealer* — Neither the Board of Governors of the Federal Reserve System nor the Federal Reserve Bank of New York may designate, or permit the continuation of any prior designation of, the financial institution as a primary dealer in United States Government debt instruments.
+
+  (B) *Prohibition on service as a repository of government funds* — The financial institution may not serve as agent of the United States Government or serve as repository for United States Government funds.
+  The imposition of either sanction under subparagraph (A) or (B) shall be treated as one sanction for purposes of subsection (b), and the imposition of both such sanctions shall be treated as two sanctions for purposes of subsection (b).
+
+(6) **Procurement sanction** — The United States Government may not procure, or enter into any contract for the procurement of, any goods or services from the sanctioned person.
+
+(7) **Foreign exchange** — The President may, pursuant to such regulations as the President may prescribe, prohibit any transactions in foreign exchange that are subject to the jurisdiction of the United States and in which the sanctioned person has any interest.
+
+(8) **Banking transactions** — The President may, pursuant to such regulations as the President may prescribe, prohibit any transfers of credit or payments between financial institutions or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person.
+
+(9) **Property transactions** — The President may, pursuant to such regulations as the President may prescribe, prohibit any person from—
+
+  (A) acquiring, holding, withholding, using, transferring, withdrawing, transporting, importing, or exporting any property that is subject to the jurisdiction of the United States and with respect to which the sanctioned person has any interest;
+
+  (B) dealing in or exercising any right, power, or privilege with respect to such property; or
+
+  (C) conducting any transaction involving such property.
+
+(10) **Ban on investment in equity or debt of sanctioned person** — The President may, pursuant to such regulations or guidelines as the President may prescribe, prohibit any United States person from investing in or purchasing significant amounts of equity or debt instruments of the sanctioned person.
+
+(11) **Exclusion of corporate officers** — The President may direct the Secretary of State to deny a visa to, and the Secretary of Homeland Security to exclude from the United States, any alien that the President determines is a corporate officer or principal of, or a shareholder with a controlling interest in, the sanctioned person.
+
+(12) **Sanctions on principal executive officers** — The President may impose on the principal executive officer or officers of the sanctioned person, or on persons performing similar functions and with similar authorities as such officer or officers, any of the sanctions under this subsection.
+
+**(b) Sanctioned person defined** In this section, the term “sanctioned person” means a person subject to sanctions under section 9524(a)(2), 9525(b), 9526(a), or 9527(a) of this title.
+
+### Statutory Notes
+
+#### References in Text
+The Export Administration Act of 1979, referred to in subsec. (a)(2)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which is classified principally to chapter 56 (§ 4601 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+
+The International Emergency Economic Powers Act, referred to in subsec. (a)(2)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+The Arms Export Control Act, referred to in subsec. (a)(2)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+
+The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+
+
+<a id="section-9532"></a>
+## § 9532. Exceptions, waiver, and termination
+**(a) Exceptions** The provisions of this part and amendments made by this part shall not apply with respect to the following:
+
+(1) Activities subject to the reporting requirements under title V of the National Security Act of 1947 ([50 U.S.C. 3091](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3091&num=0&edition=prelim) et seq.), or any authorized intelligence activities of the United States.
+
+(2) The admission of an alien to the United States if such admission is necessary to comply with United States obligations under the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, under the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or under other international agreements.
+
+**(b) Waiver of sanctions that are imposed** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), if the President imposes sanctions with respect to a person under this part or the amendments made by this part, the President may waive the application of those sanctions if the President determines that such a waiver is in the national security interest of the United States.
+
+**(c) Termination** Subject to [section 9511 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9511), the President may terminate the application of sanctions under section 9524, 9525, 9526, 9527, or 9528 of this title with respect to a person if the President submits to the appropriate congressional committees—
+
+(1) a notice of and justification for the termination; and
+
+(2) a notice that—
+
+  (A) the person is not engaging in the activity that was the basis for the sanctions or has taken significant verifiable steps toward stopping the activity; and
+
+  (B) the President has received reliable assurances that the person will not knowingly engage in activity subject to sanctions under this part in the future.
+
+### Statutory Notes
+
+#### References in Text
+This part, referred to in text, is part 2 (§§ 221–238) of subtitle A of title II of Pub. L. 115–44, which enacted this part and sections 8909 and 8910 of this title and amended sections 8901, 8907, 8908, 8923, 8924 of this title. For complete classification of part 2 to the Code, see Tables.
+
+The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495. Title V of the Act is classified generally to subchapter III (§ 3091 et seq.) of chapter 44 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-9541"></a>
+## § 9541. Findings
+
+Congress makes the following findings:
+
+(1) The Government of the Russian Federation has sought to exert influence throughout Europe and Eurasia, including in the former states of the Soviet Union, by providing resources to political parties, think tanks, and civil society groups that sow distrust in democratic institutions and actors, promote xenophobic and illiberal views, and otherwise undermine European unity. The Government of the Russian Federation has also engaged in well-documented corruption practices as a means toward undermining and buying influence in European and Eurasian countries.
+
+(2) The Government of the Russian Federation has largely eliminated a once-vibrant Russian-language independent media sector and severely curtails free and independent media within the borders of the Russian Federation. Russian-language media organizations that are funded and controlled by the Government of the Russian Federation and disseminate information within and outside of the Russian Federation routinely traffic in anti-Western disinformation, while few independent, fact-based media sources provide objective reporting for Russian-speaking audiences inside or outside of the Russian Federation.
+
+(3) The Government of the Russian Federation continues to violate its commitments under the Memorandum on Security Assurances in connection with Ukraine’s Accession to the Treaty on the Non-Proliferation of Nuclear Weapons, done at Budapest December 5, 1994, and the Conference on Security and Co-operation in Europe Final Act, concluded at Helsinki August 1, 1975 (commonly referred to as the “Helsinki Final Act”), which laid the ground-work for the establishment of the Organization for Security and Co-operation in Europe, of which the Russian Federation is a member, by its illegal annexation of Crimea in 2014, its illegal occupation of South Ossetia and Abkhazia in Georgia in 2008, and its ongoing destabilizing activities in eastern Ukraine.
+
+(4) The Government of the Russian Federation continues to ignore the terms of the August 2008 ceasefire agreement relating to Georgia, which requires the withdrawal of Russian Federation troops, free access by humanitarian groups to the regions of South Ossetia and Abkhazia, and monitoring of the conflict areas by the European Union Monitoring Mission.
+
+(5) The Government of the Russian Federation is failing to comply with the terms of the Minsk Agreement to address the ongoing conflict in eastern Ukraine, signed in Minsk, Belarus, on February 11, 2015, by the leaders of Ukraine, Russia, France, and Germany, as well as the Minsk Protocol, which was agreed to on September 5, 2014.
+
+(6) The Government of the Russian Federation is—
+
+  (A) in violation of the Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of their Intermediate-Range and Shorter-Range Missiles, signed at Washington December 8, 1987, and entered into force June 1, 1988 (commonly known as the “INF Treaty”); and
+
+  (B) failing to meet its obligations under the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002 (commonly known as the “Open Skies Treaty”).
+
+
+<a id="section-9542"></a>
+## § 9542. Sense of Congress
+
+It is the sense of Congress that—
+
+(1) the Government of the Russian Federation bears responsibility for the continuing violence in Eastern Ukraine, including the death on April 24, 2017, of Joseph Stone, a citizen of the United States working as a monitor for the Organization for Security and Co-operation in Europe;
+
+(2) the President should call on the Government of the Russian Federation—
+
+  (A) to withdraw all of its forces from the territories of Georgia, Ukraine, and Moldova;
+
+  (B) to return control of the borders of those territories to their respective governments; and
+
+  (C) to cease all efforts to undermine the popularly elected governments of those countries;
+
+(3) the Government of the Russian Federation has applied, and continues to apply, to the countries and peoples of Georgia and Ukraine, traditional uses of force, intelligence operations, and influence campaigns, which represent clear and present threats to the countries of Europe and Eurasia;
+
+(4) in response, the countries of Europe and Eurasia should redouble efforts to build resilience within their institutions, political systems, and civil societies;
+
+(5) the United States supports the institutions that the Government of the Russian Federation seeks to undermine, including the North Atlantic Treaty Organization and the European Union;
+
+(6) a strong North Atlantic Treaty Organization is critical to maintaining peace and security in Europe and Eurasia;
+
+(7) the United States should continue to work with the European Union as a partner against aggression by the Government of the Russian Federation, coordinating aid programs, development assistance, and other counter-Russian efforts;
+
+(8) the United States should encourage the establishment of a commission for media freedom within the Council of Europe, modeled on the Venice Commission regarding rule of law issues, that would be chartered to provide governments with expert recommendations on maintaining legal and regulatory regimes supportive of free and independent media and an informed citizenry able to distinguish between fact-based reporting, opinion, and disinformation;
+
+(9) in addition to working to strengthen the North Atlantic Treaty Organization and the European Union, the United States should work with the individual countries of Europe and Eurasia—
+
+  (A) to identify vulnerabilities to aggression, disinformation, corruption, and so-called hybrid warfare by the Government of the Russian Federation;
+
+  (B) to establish strategic and technical plans for addressing those vulnerabilities;
+
+  (C) to ensure that the financial systems of those countries are not being used to shield illicit financial activity by officials of the Government of the Russian Federation or individuals in President Vladimir Putin’s inner circle who have been enriched through corruption;
+
+  (D) to investigate and prosecute cases of corruption by Russian actors; and
+
+  (E) to work toward full compliance with the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions (commonly referred to as the “Anti-Bribery Convention”) of the Organization for Economic Co-operation and Development; and
+
+(10) the President of the United States should use the authority of the President to impose sanctions under—
+
+  (A) the Sergei Magnitsky Rule of Law Accountability Act of 2012 (title IV of Public Law 112–208; [22 U.S.C. 5811](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5811) note); and
+
+  (B) the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; [22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note).
+
+### Statutory Notes
+
+#### References in Text
+The Sergei Magnitsky Rule of Law Accountability Act of 2012, referred to in par. (10)(A), is title IV of Pub. L. 112–208, title IV, Dec. 14, 2012, 126 Stat. 1502, which is set out as a note under [section 5811 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5811).
+
+The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§ 1261–1265) of title XII of div. A of Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533, which is set out as a note under [section 2656 of this title](./chapter-038-department-of-state.md#section-2656).
+
+
+<a id="section-9543"></a>
+## § 9543. Coordinating aid and assistance across Europe and Eurasia
+**(a) Authorization of appropriations** There are authorized to be appropriated for the Countering Russian Influence Fund $250,000,000 for fiscal years 2018 and 2019.
+
+**(b) Use of funds** Amounts in the Countering Russian Influence Fund shall be used to effectively implement, prioritized in the following order and subject to the availability of funds, the following goals:
+
+(1) To assist in protecting critical infrastructure and electoral mechanisms from cyberattacks in the following countries:
+
+  (A) Countries that are members of the North Atlantic Treaty Organization or the European Union that the Secretary of State determines—
+
+    (i) are vulnerable to influence by the Russian Federation; and
+
+    (ii) lack the economic capability to effectively respond to aggression by the Russian Federation without the support of the United States.
+
+  (B) Countries that are participating in the enlargement process of the North Atlantic Treaty Organization or the European Union, including Albania, Bosnia and Herzegovina, Georgia, Macedonia, Moldova, Kosovo, Serbia, and Ukraine.
+
+(2) To combat corruption, improve the rule of law, and otherwise strengthen independent judiciaries and prosecutors general offices in the countries described in paragraph (1).
+
+(3) To respond to the humanitarian crises and instability caused or aggravated by the invasions and occupations of Georgia and Ukraine by the Russian Federation.
+
+(4) To improve participatory legislative processes and legal education, political transparency and competition, and compliance with international obligations in the countries described in paragraph (1).
+
+(5) To build the capacity of civil society, media, and other nongovernmental organizations countering the influence and propaganda of the Russian Federation to combat corruption, prioritize access to truthful information, and operate freely in all regions in the countries described in paragraph (1).
+
+(6) To assist the Secretary of State in executing the functions specified in section 1287(b) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; [22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note) for the purposes of recognizing, understanding, exposing, and countering propaganda and disinformation efforts by foreign governments, in coordination with the relevant regional Assistant Secretary or Assistant Secretaries of the Department of State.
+
+**(c) Revision of activities for which amounts may be used** The Secretary of State may modify the goals described in subsection (b) if, not later than 15 days before revising such a goal, the Secretary notifies the appropriate congressional committees of the revision.
+
+**(d) Implementation**
+
+(1) **In general** — The Secretary of State shall, acting through the Coordinator of United States Assistance to Europe and Eurasia (authorized pursuant to [section 5461 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5461) and [section 5812 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812)), and in consultation with the Administrator for the United States Agency for International Development, the Director of the Global Engagement Center of the Department of State, the Secretary of Defense, the Chairman of the Broadcasting Board of Governors, and the heads of other relevant Federal agencies, coordinate and carry out activities to achieve the goals described in subsection (b).
+
+(2) **Method** — Activities to achieve the goals described in subsection (b) shall be carried out through—
+
+  (A) initiatives of the United States Government;
+
+  (B) Federal grant programs such as the Information Access Fund; or
+
+  (C) nongovernmental or international organizations, such as the Organization for Security and Co-operation in Europe, the National Endowment for Democracy, the Black Sea Trust, the Balkan Trust for Democracy, the Prague Civil Society Centre, the North Atlantic Treaty Organization Strategic Communications Centre of Excellence, the European Endowment for Democracy, and related organizations.
+
+(3) **Report on implementation**
+
+  (A) *In general* — Not later than April 1 of each year, the Secretary of State, acting through the Coordinator of United States Assistance to Europe and Eurasia, shall submit to the appropriate congressional committees a report on the programs and activities carried out to achieve the goals described in subsection (b) during the preceding fiscal year.
+
+  (B) *Elements* — Each report required by subparagraph (A) shall include, with respect to each program or activity described in that subparagraph—
+
+    (i) the amount of funding for the program or activity;
+
+    (ii) the goal described in subsection (b) to which the program or activity relates; and
+
+    (iii) an assessment of whether or not the goal was met.
+
+**(e) Coordination With global partners**
+
+(1) **In general** — In order to maximize cost efficiency, eliminate duplication, and speed the achievement of the goals described in subsection (b), the Secretary of State shall ensure coordination with—
+
+  (A) the European Union and its institutions;
+
+  (B) the governments of countries that are members of the North Atlantic Treaty Organization or the European Union; and
+
+  (C) international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (b).
+
+(2) **Report by Secretary of State** — Not later than April 1 of each year, the Secretary of State shall submit to the appropriate congressional committees a report that includes—
+
+  (A) the amount of funding provided to each country referred to in subsection (b) by—
+
+    (i) the European Union or its institutions;
+
+    (ii) the government of each country that is a member of the European Union or the North Atlantic Treaty Organization; and
+
+    (iii) international organizations and quasi-governmental funding entities that carry out programs and activities that seek to accomplish the goals described in subsection (b); and
+
+  (B) an assessment of whether the funding described in subparagraph (A) is commensurate with funding provided by the United States for those goals.
+
+**(f) Rule of construction** Nothing in this section shall be construed to apply to or limit United States foreign assistance not provided using amounts available in the Countering Russian Influence Fund.
+
+**(g) Ensuring adequate staffing for governance activities** In order to ensure that the United States Government is properly focused on combating corruption, improving rule of law, and building the capacity of civil society, media, and other nongovernmental organizations in countries described in subsection (b)(1), the Secretary of State shall establish a pilot program for Foreign Service officer positions focused on governance and anticorruption activities in such countries.
+
+
+<a id="section-9544"></a>
+## § 9544. Report on media organizations controlled and funded by the Government of the Russian Federation
+**(a) In general** Not later than 90 days after August 2, 2017, and annually thereafter, the President shall submit to the appropriate congressional committees a report that includes a description of media organizations that are controlled and funded by the Government of the Russian Federation, and any affiliated entities, whether operating within or outside the Russian Federation, including broadcast and satellite-based television, radio, Internet, and print media organizations.
+
+**(b) Form of report** The report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
+
+
+<a id="section-9545"></a>
+## § 9545. Report on Russian Federation influence on elections in Europe and Eurasia
+**(a) In general** Not later than 90 days after August 2, 2017, and annually thereafter, the President shall submit to the appropriate congressional committees and leadership a report on funds provided by, or funds the use of which was directed by, the Government of the Russian Federation or any Russian person with the intention of influencing the outcome of any election or campaign in any country in Europe or Eurasia during the preceding year, including through direct support to any political party, candidate, lobbying campaign, nongovernmental organization, or civic organization.
+
+**(b) Form of report** Each report required by subsection (a) shall be submitted in unclassified form but may include a classified annex.
+
+**(c) Definitions** In this section:
+
+(1) **Appropriate congressional committees and leadership** — The term “appropriate congressional committees and leadership” means—
+
+  (A) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Appropriations, the Select Committee on Intelligence, and the majority and minority leaders of the Senate; and
+
+  (B) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Armed Services, the Committee on Homeland Security, the Committee on Appropriations, the Permanent Select Committee on Intelligence, and the Speaker, the majority leader, and the minority leader of the House of Representatives.
+
+(2) **Russian person** — The term “Russian person” means—
+
+  (A) an individual who is a citizen or national of the Russian Federation; or
+
+  (B) an entity organized under the laws of the Russian Federation or otherwise subject to the jurisdiction of the Government of the Russian Federation.
+
+
+<a id="section-9546"></a>
+## § 9546. Ukranian energy security
+**(a) Statement of policy** It is the policy of the United States—
+
+(1) to support the Government of Ukraine in restoring its sovereign and territorial integrity;
+
+(2) to condemn and oppose all of the destabilizing efforts by the Government of the Russian Federation in Ukraine in violation of its obligations and international commitments;
+
+(3) to never recognize the illegal annexation of Crimea by the Government of the Russian Federation or the separation of any portion of Ukrainian territory through the use of military force;
+
+(4) to deter the Government of the Russian Federation from further destabilizing and invading Ukraine and other independent countries in Central and Eastern Europe and the Caucuses;
+
+(5) to assist in promoting reform in regulatory oversight and operations in Ukraine’s energy sector, including the establishment and empowerment of an independent regulatory organization;
+
+(6) to encourage and support fair competition, market liberalization, and reliability in Ukraine’s energy sector;
+
+(7) to help Ukraine and United States allies and partners in Europe reduce their dependence on Russian energy resources, especially natural gas, which the Government of the Russian Federation uses as a weapon to coerce, intimidate, and influence other countries;
+
+(8) to work with European Union member states and European Union institutions to promote energy security through developing diversified and liberalized energy markets that provide diversified sources, suppliers, and routes;
+
+(9) to continue to oppose the NordStream 2 pipeline given its detrimental impacts on the European Union’s energy security, gas market development in Central and Eastern Europe, and energy reforms in Ukraine; and
+
+(10) that the United States Government should prioritize the export of United States energy resources in order to create American jobs, help United States allies and partners, and strengthen United States foreign policy.
+
+**(b) Plan to promote energy security in Ukraine**
+
+(1) **In general** — The Secretary of State, in coordination with the Administrator of the United States Agency for International Development and the Secretary of Energy, shall work with the Government of Ukraine to develop a plan to increase energy security in Ukraine, increase the amount of energy produced in Ukraine, and reduce Ukraine’s reliance on energy imports from the Russian Federation.
+
+(2) **Elements** — The plan developed under paragraph (1) shall include strategies for market liberalization, effective regulation and oversight, supply diversification, energy reliability, and energy efficiency, such as through supporting—
+
+  (A) the promotion of advanced technology and modern operating practices in Ukraine’s oil and gas sector;
+
+  (B) modern geophysical and meteorological survey work as needed followed by international tenders to help attract qualified investment into exploration and development of areas with untapped resources in Ukraine;
+
+  (C) a broadening of Ukraine’s electric power transmission interconnection with Europe;
+
+  (D) the strengthening of Ukraine’s capability to maintain electric power grid stability and reliability;
+
+  (E) independent regulatory oversight and operations of Ukraine’s gas market and electricity sector;
+
+  (F) the implementation of primary gas law including pricing, tariff structure, and legal regulatory implementation;
+
+  (G) privatization of government owned energy companies through credible legal frameworks and a transparent process compliant with international best practices;
+
+  (H) procurement and transport of emergency fuel supplies, including reverse pipeline flows from Europe;
+
+  (I) provision of technical assistance for crisis planning, crisis response, and public outreach;
+
+  (J) repair of infrastructure to enable the transport of fuel supplies;
+
+  (K) repair of power generating or power transmission equipment or facilities; and
+
+  (L) improved building energy efficiency and other measures designed to reduce energy demand in Ukraine.
+
+(3) **Reports**
+
+  (A) *Implementation of Ukraine Freedom Support Act of 2014 [[22 U.S.C. 8921](./chapter-96a-ukraine-freedom-support.md#section-8921) et seq.] provisions* — Not later than 180 days after August 2, 2017, the Secretary of State shall submit to the appropriate congressional committees a report detailing the status of implementing the provisions required under section 7(c) of the Ukraine Freedom Support Act of 2014 ([22 U.S.C. 8926(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8926/c&num=0&edition=prelim)), including detailing the plans required under that section, the level of funding that has been allocated to and expended for the strategies set forth under that section, and progress that has been made in implementing the strategies developed pursuant to that section.
+
+  (B) *In general* — Not later than 180 days after August 2, 2017, and every 180 days thereafter, the Secretary of State shall submit to the appropriate congressional committees a report detailing the plan developed under paragraph (1), the level of funding that has been allocated to and expended for the strategies set forth in paragraph (2), and progress that has been made in implementing the strategies.
+
+  (C) *Briefings* — The Secretary of State, or a designee of the Secretary, shall brief the appropriate congressional committees not later than 30 days after the submission of each report under subparagraph (B). In addition, the Department of State shall make relevant officials available upon request to brief the appropriate congressional committees on all available information that relates directly or indirectly to Ukraine or energy security in Eastern Europe.
+
+  (D) *Appropriate congressional committees defined* — In this paragraph, the term “appropriate congressional committees” means—
+
+    (i) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
+
+    (ii) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.
+
+**(c) Supporting efforts of countries in Europe and Eurasia to decrease their dependence on Russian sources of energy**
+
+(1) **Findings** — Congress makes the following findings:
+
+  (A) The Government of the Russian Federation uses its strong position in the energy sector as leverage to manipulate the internal politics and foreign relations of the countries of Europe and Eurasia.
+
+  (B) This influence is based not only on the Russian Federation’s oil and natural gas resources, but also on its state-owned nuclear power and electricity companies.
+
+(2) **Sense of Congress** — It is the sense of Congress that—
+
+  (A) the United States should assist the efforts of the countries of Europe and Eurasia to enhance their energy security through diversification of energy supplies in order to lessen dependencies on Russian Federation energy resources and state-owned entities; and
+
+  (B) the Export-Import Bank of the United States and the Overseas Private Investment Corporation should play key roles in supporting critical energy projects that contribute to that goal.
+
+(3) **Use of Countering Russian Influence Fund to provide technical assistance** — Amounts in the Countering Russian Influence Fund pursuant to [section 9543 of this title](./chapter-102-countering-russian-influence-in-europe-and-eurasia.md#section-9543) shall be used to provide technical advice to countries described in subsection (b)(1) of such section designed to enhance energy security and lessen dependence on energy from Russian Federation sources.
+
+**(d) Authorization of appropriations** There is authorized to be appropriated for the Department of State a total of $30,000,000 for fiscal years 2018 and 2019 to carry out the strategies set forth in subsection (b)(2) and other activities under this section related to the promotion of energy security in Ukraine.
+
+**(e) Rule of construction** Nothing in this section shall be construed as affecting the responsibilities required and authorities provided under section 7 of the Ukraine Freedom Support Act of 2014 ([22 U.S.C. 8926](./chapter-96a-ukraine-freedom-support.md#section-8926)).
+
+### Statutory Notes
+
+#### References in Text
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (b)(3)(A), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§ 8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8921 of this title](./chapter-96a-ukraine-freedom-support.md#section-8921) and Tables.
+
+
+<a id="section-9547"></a>
+## § 9547. Termination
+
+The provisions of this subchapter shall terminate on the date that is 5 years after August 2, 2017.
+
+
+<a id="section-9548"></a>
+## § 9548. Appropriate congressional committees defined
+
+Except as otherwise provided, in this subchapter, the term “appropriate congressional committees” means—
+
+(1) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
+
+(2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Armed Services, the Committee on Homeland Security, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.

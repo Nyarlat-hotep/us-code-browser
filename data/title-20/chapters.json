@@ -1,0 +1,432 @@
+[
+  {
+    "slug": "chapter-001-office-of-education",
+    "heading": "OFFICE OF EDUCATION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-002-teaching-of-agricultural-trade-home-economics-and-industrial-subjects",
+    "heading": "TEACHING OF AGRICULTURAL, TRADE, HOME ECONOMICS, AND INDUSTRIAL SUBJECTS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-003-smithsonian-institution-national-museums-and-art-galleries",
+    "heading": "SMITHSONIAN INSTITUTION, NATIONAL MUSEUMS AND ART GALLERIES",
+    "section_count": 142
+  },
+  {
+    "slug": "chapter-004-national-zoological-park",
+    "heading": "NATIONAL ZOOLOGICAL PARK",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-005-government-collections-and-institutions-for-research-and-material-for-educational-institutions",
+    "heading": "GOVERNMENT COLLECTIONS AND INSTITUTIONS FOR RESEARCH, AND MATERIAL FOR EDUCATIONAL INSTITUTIONS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-006-american-printing-house-for-the-blind",
+    "heading": "AMERICAN PRINTING HOUSE FOR THE BLIND",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-6a-vending-facilities-for-blind-in-federal-buildings",
+    "heading": "VENDING FACILITIES FOR BLIND IN FEDERAL BUILDINGS",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-007-instruction-as-to-nature-and-effect-of-alcoholic-drinks-and-narcotics",
+    "heading": "INSTRUCTION AS TO NATURE AND EFFECT OF ALCOHOLIC DRINKS AND NARCOTICS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-008-howard-university",
+    "heading": "HOWARD UNIVERSITY",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-009-national-training-school-for-boys",
+    "heading": "NATIONAL TRAINING SCHOOL FOR BOYS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-010-national-training-school-for-girls",
+    "heading": "NATIONAL TRAINING SCHOOL FOR GIRLS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-011-national-arboretum",
+    "heading": "NATIONAL ARBORETUM",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-012-foreign-and-exchange-students",
+    "heading": "FOREIGN AND EXCHANGE STUDENTS",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-013-financial-assistance-to-local-educational-agencies",
+    "heading": "FINANCIAL ASSISTANCE TO LOCAL EDUCATIONAL AGENCIES",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-014-school-construction-in-areas-affected-by-federal-activities",
+    "heading": "SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-015-studies-and-research-on-problems-in-education",
+    "heading": "STUDIES AND RESEARCH ON PROBLEMS IN EDUCATION",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-016-public-library-services-and-construction",
+    "heading": "PUBLIC LIBRARY SERVICES AND CONSTRUCTION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-017-national-defense-education-program",
+    "heading": "NATIONAL DEFENSE EDUCATION PROGRAM",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-018-grants-for-teaching-in-the-education-of-handicapped-children",
+    "heading": "GRANTS FOR TEACHING IN THE EDUCATION OF HANDICAPPED CHILDREN",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-18a-early-education-programs-for-handicapped-children",
+    "heading": "EARLY EDUCATION PROGRAMS FOR HANDICAPPED CHILDREN",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-019-school-construction-in-areas-affected-by-federal-activities",
+    "heading": "SCHOOL CONSTRUCTION IN AREAS AFFECTED BY FEDERAL ACTIVITIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-020-grants-for-teaching-in-the-education-of-the-deaf",
+    "heading": "GRANTS FOR TEACHING IN THE EDUCATION OF THE DEAF",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-20a-national-technical-institute-for-the-deaf",
+    "heading": "NATIONAL TECHNICAL INSTITUTE FOR THE DEAF",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-20b-gallaudet-college",
+    "heading": "GALLAUDET COLLEGE",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-021-higher-education-facilities",
+    "heading": "HIGHER EDUCATION FACILITIES",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-022-national-council-on-the-arts",
+    "heading": "NATIONAL COUNCIL ON THE ARTS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-023-training-and-fellowship-programs-for-community-development",
+    "heading": "TRAINING AND FELLOWSHIP PROGRAMS FOR COMMUNITY DEVELOPMENT",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-024-grants-for-educational-materials-facilities-and-services-and-strengthening-of-educational-agencies",
+    "heading": "GRANTS FOR EDUCATIONAL MATERIALS, FACILITIES AND SERVICES, AND STRENGTHENING OF EDUCATIONAL AGENCIES",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-025-pay-and-personnel-program-for-overseas-teachers",
+    "heading": "PAY AND PERSONNEL PROGRAM FOR OVERSEAS TEACHERS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-25a-overseas-defense-dependents-education",
+    "heading": "OVERSEAS DEFENSE DEPENDENTS’ EDUCATION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services",
+    "heading": "SUPPORT AND SCHOLARSHIP IN HUMANITIES AND ARTS; MUSEUM SERVICES",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-26a-indemnity-for-exhibitions-of-arts-and-artifacts",
+    "heading": "INDEMNITY FOR EXHIBITIONS OF ARTS AND ARTIFACTS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-027-national-vocational-student-loan-insurance",
+    "heading": "NATIONAL VOCATIONAL STUDENT LOAN INSURANCE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-028-higher-education-resources-and-student-assistance",
+    "heading": "HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE",
+    "section_count": 435
+  },
+  {
+    "slug": "chapter-029-international-studies-and-research",
+    "heading": "INTERNATIONAL STUDIES AND RESEARCH",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-030-basic-education-for-adults",
+    "heading": "BASIC EDUCATION FOR ADULTS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-031-general-provisions-concerning-education",
+    "heading": "GENERAL PROVISIONS CONCERNING EDUCATION",
+    "section_count": 65
+  },
+  {
+    "slug": "chapter-032-vocational-education",
+    "heading": "VOCATIONAL EDUCATION",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-033-education-of-individuals-with-disabilities",
+    "heading": "EDUCATION OF INDIVIDUALS WITH DISABILITIES",
+    "section_count": 53
+  },
+  {
+    "slug": "chapter-034-national-commission-on-libraries-and-information-science",
+    "heading": "NATIONAL COMMISSION ON LIBRARIES AND INFORMATION SCIENCE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-035-environmental-education",
+    "heading": "ENVIRONMENTAL EDUCATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-036-emergency-school-aid",
+    "heading": "EMERGENCY SCHOOL AID",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-037-assignment-or-transportation-of-students",
+    "heading": "ASSIGNMENT OR TRANSPORTATION OF STUDENTS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-038-discrimination-based-on-sex-or-blindness",
+    "heading": "DISCRIMINATION BASED ON SEX OR BLINDNESS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-039-equal-educational-opportunities-and-transportation-of-students",
+    "heading": "EQUAL EDUCATIONAL OPPORTUNITIES AND TRANSPORTATION OF STUDENTS",
+    "section_count": 27
+  },
+  {
+    "slug": "chapter-040-consolidation-of-education-programs",
+    "heading": "CONSOLIDATION OF EDUCATION PROGRAMS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-041-national-reading-improvement-program",
+    "heading": "NATIONAL READING IMPROVEMENT PROGRAM",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-042-harry-s-truman-memorial-scholarships",
+    "heading": "HARRY S TRUMAN MEMORIAL SCHOLARSHIPS",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-043-american-folklife-preservation",
+    "heading": "AMERICAN FOLKLIFE PRESERVATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-044-career-and-technical-education",
+    "heading": "CAREER AND TECHNICAL EDUCATION",
+    "section_count": 39
+  },
+  {
+    "slug": "chapter-045-career-education-and-career-development",
+    "heading": "CAREER EDUCATION AND CAREER DEVELOPMENT",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-046-career-education-incentive",
+    "heading": "CAREER EDUCATION INCENTIVE",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-047-strengthening-and-improvement-of-elementary-and-secondary-schools",
+    "heading": "STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS",
+    "section_count": 64
+  },
+  {
+    "slug": "chapter-048-department-of-education",
+    "heading": "DEPARTMENT OF EDUCATION",
+    "section_count": 66
+  },
+  {
+    "slug": "chapter-049-asbestos-school-hazard-detection-and-control",
+    "heading": "ASBESTOS SCHOOL HAZARD DETECTION AND CONTROL",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-050-national-center-for-the-study-of-afro-american-history-and-culture",
+    "heading": "NATIONAL CENTER FOR THE STUDY OF AFRO-AMERICAN HISTORY AND CULTURE",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-051-elementary-and-secondary-education-block-grant",
+    "heading": "ELEMENTARY AND SECONDARY EDUCATION BLOCK GRANT",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-052-education-for-economic-security",
+    "heading": "EDUCATION FOR ECONOMIC SECURITY",
+    "section_count": 51
+  },
+  {
+    "slug": "chapter-053-emergency-immigrant-education-assistance",
+    "heading": "EMERGENCY IMMIGRANT EDUCATION ASSISTANCE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-054-leadership-in-educational-administration",
+    "heading": "LEADERSHIP IN EDUCATIONAL ADMINISTRATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-055-education-of-the-deaf",
+    "heading": "EDUCATION OF THE DEAF",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-056-american-indian-alaska-native-and-native-hawaiian-culture-and-art-development",
+    "heading": "AMERICAN INDIAN, ALASKA NATIVE, AND NATIVE HAWAIIAN CULTURE AND ART DEVELOPMENT",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-057-james-madison-memorial-fellowship-program",
+    "heading": "JAMES MADISON MEMORIAL FELLOWSHIP PROGRAM",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-058-drug-free-schools-and-communities",
+    "heading": "DRUG-FREE SCHOOLS AND COMMUNITIES",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-059-barry-goldwater-scholarship-and-excellence-in-education-program",
+    "heading": "BARRY GOLDWATER SCHOLARSHIP AND EXCELLENCE IN EDUCATION PROGRAM",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-060-fund-for-the-improvement-and-reform-of-schools-and-teaching",
+    "heading": "FUND FOR THE IMPROVEMENT AND REFORM OF SCHOOLS AND TEACHING",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-061-education-for-native-hawaiians",
+    "heading": "EDUCATION FOR NATIVE HAWAIIANS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-062-education-and-training-for-american-competitiveness",
+    "heading": "EDUCATION AND TRAINING FOR AMERICAN COMPETITIVENESS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-063-eisenhower-exchange-fellowship-program",
+    "heading": "EISENHOWER EXCHANGE FELLOWSHIP PROGRAM",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-064-excellence-in-mathematics-science-and-engineering-education",
+    "heading": "EXCELLENCE IN MATHEMATICS, SCIENCE, AND ENGINEERING EDUCATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-065-national-environmental-education",
+    "heading": "NATIONAL ENVIRONMENTAL EDUCATION",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-066-morris-k-udall-and-stewart-l-udall-foundation",
+    "heading": "MORRIS K. UDALL AND STEWART L. UDALL FOUNDATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-067-christopher-columbus-fellowship-foundation",
+    "heading": "CHRISTOPHER COLUMBUS FELLOWSHIP FOUNDATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-068-national-education-reform",
+    "heading": "NATIONAL EDUCATION REFORM",
+    "section_count": 52
+  },
+  {
+    "slug": "chapter-069-school-to-work-opportunities",
+    "heading": "SCHOOL-TO-WORK OPPORTUNITIES",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools",
+    "heading": "STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS",
+    "section_count": 371
+  },
+  {
+    "slug": "chapter-071-national-education-statistics",
+    "heading": "NATIONAL EDUCATION STATISTICS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-072-museum-and-library-services",
+    "heading": "MUSEUM AND LIBRARY SERVICES",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-073-adult-education-and-literacy",
+    "heading": "ADULT EDUCATION AND LITERACY",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-074-troops-to-teachers-program",
+    "heading": "TROOPS-TO-TEACHERS PROGRAM",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-075-early-learning-opportunities",
+    "heading": "EARLY LEARNING OPPORTUNITIES",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-076-education-research-statistics-evaluation-information-and-dissemination",
+    "heading": "EDUCATION RESEARCH, STATISTICS, EVALUATION, INFORMATION, AND DISSEMINATION",
+    "section_count": 57
+  },
+  {
+    "slug": "chapter-077-financial-literacy-and-education-improvement",
+    "heading": "FINANCIAL LITERACY AND EDUCATION IMPROVEMENT",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-078-science-technology-engineering-mathematics-and-critical-foreign-language-education",
+    "heading": "SCIENCE, TECHNOLOGY, ENGINEERING, MATHEMATICS, AND CRITICAL FOREIGN LANGUAGE EDUCATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-079-stem-training-grant-program",
+    "heading": "STEM-TRAINING GRANT PROGRAM",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-080-state-fiscal-stabilization-fund",
+    "heading": "STATE FISCAL STABILIZATION FUND",
+    "section_count": 13
+  }
+]

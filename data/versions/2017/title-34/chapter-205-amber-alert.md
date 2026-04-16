@@ -1,0 +1,162 @@
+---
+title: 34
+chapter: '205'
+heading: AMBER ALERT
+section_count: 5
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
+---
+<a id="section-20501"></a>
+## § 20501. National coordination of AMBER Alert communications network
+**(a) Coordination within Department of Justice** The Attorney General shall assign an officer of the Department of Justice to act as the national coordinator of the AMBER Alert communications network regarding abducted children. The officer so designated shall be known as the AMBER Alert Coordinator of the Department of Justice.
+
+**(b) Duties** In acting as the national coordinator of the AMBER Alert communications network, the Coordinator shall—
+
+(1) seek to eliminate gaps in the network, including gaps in areas of interstate travel;
+
+(2) work with States to encourage the development of additional elements (known as local AMBER plans) in the network;
+
+(3) work with States to ensure appropriate regional coordination of various elements of the network; and
+
+(4) act as the nationwide point of contact for—
+
+  (A) the development of the network; and
+
+  (B) regional coordination of alerts on abducted children through the network.
+
+**(c) Consultation with Federal Bureau of Investigation** In carrying out duties under subsection (b), the Coordinator shall notify and consult with the Director of the Federal Bureau of Investigation concerning each child abduction for which an alert is issued through the AMBER Alert communications network.
+
+**(d) Cooperation** The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
+
+**(e) Report** Not later than March 1, 2005, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the AMBER plans of each State that has implemented such a plan. The Coordinator shall prepare the report in consultation with the Secretary of Transportation.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 5791 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-20502"></a>
+## § 20502. Minimum standards for issuance and dissemination of alerts through AMBER Alert communications network
+**(a) Establishment of minimum standards** Subject to subsection (b), the AMBER Alert Coordinator of the Department of Justice shall establish minimum standards for—
+
+(1) the issuance of alerts through the AMBER Alert communications network; and
+
+(2) the extent of the dissemination of alerts issued through the network.
+
+**(b) Limitations**
+
+(1) The minimum standards established under subsection (a) shall be adoptable on a voluntary basis only.
+
+(2) The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that appropriate information relating to the special needs of an abducted child (including health care needs) are disseminated to the appropriate law enforcement, public health, and other public officials.
+
+(3) The minimum standards shall, to the maximum extent practicable (as determined by the Coordinator in consultation with State and local law enforcement agencies), provide that the dissemination of an alert through the AMBER Alert communications network be limited to the geographic areas most likely to facilitate the recovery of the abducted child concerned.
+
+(4) In carrying out activities under subsection (a), the Coordinator may not interfere with the current system of voluntary coordination between local broadcasters and State and local law enforcement agencies for purposes of the AMBER Alert communications network.
+
+**(c) Cooperation**
+
+(1) The Coordinator shall cooperate with the Secretary of Transportation and the Federal Communications Commission in carrying out activities under this section.
+
+(2) The Coordinator shall also cooperate with local broadcasters and State and local law enforcement agencies in establishing minimum standards under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 5791a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-20503"></a>
+## § 20503. Grant program for notification and communications systems along highways for recovery of abducted children
+**(a) Program required** The Secretary of Transportation shall carry out a program to provide grants to States for the development or enhancement of notification or communications systems along highways for alerts and other information for the recovery of abducted children.
+
+**(b) Development grants**
+
+(1) **In general** — The Secretary may make a grant to a State under this subsection for the development of a State program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. The State program shall provide for the planning, coordination, and design of systems, protocols, and message sets that support the coordination and communication necessary to notify motorists about abductions of children.
+
+(2) **Eligible activities** — A grant under this subsection may be used by a State for the following purposes:
+
+  (A) To develop general policies and procedures to guide the use of changeable message signs or other motorist information systems to notify motorists about abductions of children.
+
+  (B) To develop guidance or policies on the content and format of alert messages to be conveyed on changeable message signs or other traveler information systems.
+
+  (C) To coordinate State, regional, and local plans for the use of changeable message signs or other transportation related issues.
+
+  (D) To plan secure and reliable communications systems and protocols among public safety and transportation agencies or modify existing communications systems to support the notification of motorists about abductions of children.
+
+  (E) To plan and design improved systems for communicating with motorists, including the capability for issuing wide area alerts to motorists.
+
+  (F) To plan systems and protocols to facilitate the efficient issuance of child abduction notification and other key information to motorists during off-hours.
+
+  (G) To provide training and guidance to transportation authorities to facilitate appropriate use of changeable message signs and other traveler information systems for the notification of motorists about abductions of children.
+
+**(c) Implementation grants**
+
+(1) **In general** — The Secretary may make a grant to a State under this subsection for the implementation of a program for the use of changeable message signs or other motorist information systems to notify motorists about abductions of children. A State shall be eligible for a grant under this subsection if the Secretary determines that the State has developed a State program in accordance with subsection (b).
+
+(2) **Eligible activities** — A grant under this subsection may be used by a State to support the implementation of systems that use changeable message signs or other motorist information systems to notify motorists about abductions of children. Such support may include the purchase and installation of changeable message signs or other motorist information systems to notify motorists about abductions of children.
+
+**(d) Federal share** The Federal share of the cost of any activities funded by a grant under this section may not exceed 80 percent.
+
+**(e) Distribution of grant amounts** The Secretary shall, to the maximum extent practicable, distribute grants under this section equally among the States that apply for a grant under this section within the time period prescribed by the Secretary.
+
+**(f) Administration** The Secretary shall prescribe requirements, including application requirements, for the receipt of grants under this section.
+
+**(g) Definition** In this section, the term “State” means any of the 50 States, the District of Columbia, or Puerto Rico.
+
+**(h) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $20,000,000 for fiscal year 2004. Such amounts shall remain available until expended.
+
+**(i) Study of State programs**
+
+(1) **Study** — The Secretary shall conduct a study to examine State barriers to the adoption and implementation of State programs for the use of communications systems along highways for alerts and other information for the recovery of abducted children.
+
+(2) **Report** — Not later than 1 year after April 30, 2003, the Secretary shall transmit to Congress a report on the results of the study, together with any recommendations the Secretary determines appropriate.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 5791b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791b&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-20504"></a>
+## § 20504. Grant program for support of AMBER Alert communications plans
+**(a) Program required** The Attorney General shall carry out a program to provide grants to States for the development or enhancement of programs and activities for the support of AMBER Alert communications plans.
+
+**(b) Activities** Activities funded by grants under the program under subsection (a) may include—
+
+(1) the development and implementation of education and training programs, and associated materials, relating to AMBER Alert communications plans;
+
+(2) the development and implementation of law enforcement programs, and associated equipment, relating to AMBER Alert communications plans;
+
+(3) the development and implementation of new technologies to improve AMBER Alert communications; and
+
+(4) such other activities as the Attorney General considers appropriate for supporting the AMBER Alert communications program.
+
+**(c) Federal share** The Federal share of the cost of any activities funded by a grant under the program under subsection (a) may not exceed 50 percent.
+
+**(d) Distribution of grant amounts on geographic basis** The Attorney General shall, to the maximum extent practicable, ensure the distribution of grants under the program under subsection (a) on an equitable basis throughout the various regions of the United States.
+
+**(e) Administration** The Attorney General shall prescribe requirements, including application requirements, for grants under the program under subsection (a).
+
+**(f) Authorization of appropriations**
+
+(1) There is authorized to be appropriated for the Department of Justice $5,000,000 for fiscal year 2004 to carry out this section and, in addition, $5,000,000 for fiscal year 2004 to carry out subsection (b)(3).
+
+(2) Amounts appropriated pursuant to the authorization of appropriations in paragraph (1) shall remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 5791c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791c&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-20505"></a>
+## § 20505. Limitation on liability
+**(a)** Except as provided in subsection (b), the National Center for Missing and Exploited Children, including any of its officers, employees, or agents, shall not be liable for damages in any civil action for defamation, libel, slander, or harm to reputation arising out of any action or communication by the National Center for Missing and Exploited Children, its officers, employees, or agents, in connection with any clearinghouse, hotline or complaint intake or forwarding program or in connection with activity that is wholly or partially funded by the United States and undertaken in cooperation with, or at the direction of a Federal law enforcement agency.
+
+**(b)** The limitation in subsection (a) does not apply in any action in which the plaintiff proves that the National Center for Missing and Exploited Children, its officers, employees, or agents acted with actual malice, or provided information or took action for a purpose unrelated to an activity mandated by Federal law. For purposes of this subsection, the prevention, or detection of crime, and the safety, recovery, or protection of missing or exploited children shall be deemed, per se, to be an activity mandated by Federal law.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 5791d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5791d&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

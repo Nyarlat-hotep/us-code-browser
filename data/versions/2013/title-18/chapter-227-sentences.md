@@ -1,0 +1,1409 @@
+---
+title: 18
+chapter: '227'
+heading: SENTENCES
+section_count: 25
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
+---
+<a id="section-3551"></a>
+## § 3551. Authorized sentences
+**(a) In General.—** Except as otherwise specifically provided, a defendant who has been found guilty of an offense described in any Federal statute, including sections 13 and 1153 of this title, other than an Act of Congress applicable exclu­sively in the District of Columbia or the Uniform Code of Military Justice, shall be sentenced in accordance with the provisions of this chapter so as to achieve the purposes set forth in subparagraphs (A) through (D) of section 3553(a)(2) to the extent that they are applicable in light of all the circumstances of the case.
+
+**(b) Individuals.—** An individual found guilty of an offense shall be sentenced, in accordance with the provisions of section 3553, to—
+
+(1) a term of probation as authorized by subchapter B;
+
+(2) a fine as authorized by subchapter C; or
+
+(3) a term of imprisonment as authorized by subchapter D.
+A sentence to pay a fine may be imposed in addition to any other sentence. A sanction authorized by section 3554, 3555, or 3556 may be imposed in addition to the sentence required by this subsection.
+
+**(c) Organizations.—** An organization found guilty of an offense shall be sentenced, in accordance with the provisions of section 3553, to—
+
+(1) a term of probation as authorized by subchapter B; or
+
+(2) a fine as authorized by subchapter C.
+A sentence to pay a fine may be imposed in addition to a sentence to probation. A sanction authorized by section 3554, 3555, or 3556 may be imposed in addition to the sentence required by this subsection.
+
+### Statutory Notes
+
+#### References in Text
+Acts of Congress applicable exclusively in the District of Columbia, referred to in subsec. (a), are classified generally to the District of Columbia Code.
+
+The Uniform Code of Military Justice, referred to in subsec. (a), is classified generally to chapter 47 (§ 801 et seq.) of Title 10, Armed Forces.
+
+#### Amendments
+1990—Subsec. (a). Pub. L. 101–647 inserted “including sections 13 and 1153 of this title,” after “any Federal statute,”.
+
+#### Effective Date; Savings Provision
+Pub. L. 98–473, title II, § 235, Oct. 12, 1984, 98 Stat. 2031, as amended by Pub. L. 99–217, §§ 2, 4, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–646, § 35, Nov. 10, 1986, 100 Stat. 3599; Pub. L. 100–182, § 2, Dec. 7, 1987, 101 Stat. 1266; Pub. L. 104–232, § 4, Oct. 2, 1996, 110 Stat. 3056, provided that: “(a)(1) This chapter [chapter II (§§ 211–239) of title II of Pub. L. 98–473, see Tables for classification] shall take effect on the first day of the first calendar month beginning 36 months after the date of enactment [Oct. 12, 1984] and shall apply only to offenses committed after the taking effect of this chapter, except that—“(A) the repeal of chapter 402 of title 18, United States Code, shall take effect on the date of enactment [Oct. 12, 1984]; “(B)(i) chapter 58 of title 28, United States Code, shall take effect on the date of enactment of this Act [Oct. 12, 1984] or October 1, 1983, whichever occurs later, and the United States Sentencing Commission shall submit the initial sentencing guidelines promulgated under [section 994(a)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/1&num=0&edition=prelim) to the Congress within 30 months of the effective date of such chapter 58; and “(ii) the sentencing guidelines promulgated pursuant to section 994(a)(1) shall not go into effect until—“(I) the United States Sentencing Commission has submitted the initial set of sentencing guidelines to the Congress pursuant to subparagraph (B)(i), along with a report stating the reasons for the Commission’s recommendations; “(II) the General Accounting Office [now Government Accountability Office] has undertaken a study of the guidelines, and their potential impact in comparison with the operation of the existing sentencing and parole release system, and has, within one hundred and fifty days of submission of the guidelines, reported to the Congress the results of its study; and “(III) the day after the Congress has had six months after the date described in subclause (I) in which to examine the guidelines and consider the reports; and “(IV) section 212(a)(2) [enacting chapters 227 and 229 of this title and repealing former chapters 227, 229, and 231 of this title] takes effect, in the case of the initial sentencing guidelines so promulgated. “(2) For the purposes of [section 992(a) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section992/a&num=0&edition=prelim), the terms of the first members of the United States Sentencing Commission shall not begin to run until the sentencing guidelines go into effect pursuant to paragraph (1)(B)(ii). “(b)(1) The following provisions of law in effect on the day before the effective date of this Act shall remain in effect for five years after the effective date as to an individual who committed an offense or an act of juvenile delinquency before the effective date and as to a term of imprisonment during the period described in subsection (a)(1)(B):“(A) Chapter 311 of title 18, United States Code. “(B) Chapter 309 of title 18, United States Code. “(C) Sections 4251 through 4255 of title 18, United States Code. “(D) Sections 5041 and 5042 of title 18, United States Code. “(E) Sections 5017 through 5020 of title 18, United States Code, as to a sentence imposed before the date of enactment [Oct. 12, 1984]. “(F) The maximum term of imprisonment in effect on the effective date for an offense committed before the effective date. “(G) Any other law relating to a violation of a condition of release or to arrest authority with regard to a person who violates a condition of release. “[(2) Repealed. Pub. L. 104–232, § 4, Oct. 2, 1996, 110 Stat. 3056.] “(3) The United States Parole Commission shall set a release date, for an individual who will be in its jurisdiction the day before the expiration of five years after the effective date of this Act, pursuant to [section 4206 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4206&num=0&edition=prelim), United States Code. A release date set pursuant to this paragraph shall be set early enough to permit consideration of an appeal of the release date, in accordance with Parole Commission procedures, before the expiration of five years following the effective date of this Act. “(4) Notwithstanding the other provisions of this subsection, all laws in effect on the day before the effective date of this Act pertaining to an individual who is—“(A) released pursuant to a provision listed in paragraph (1); and “(B)(i) subject to supervision on the day before the expiration of the five-year period following the effective date of this Act; or “(ii) released on a date set pursuant to paragraph (3); including laws pertaining to terms and conditions of release, revocation of release, provision of counsel, and payment of transportation costs, shall remain in effect as to the individual until the expiration of his sentence, except that the district court shall determine, in accord with the Federal Rules of Criminal Procedure, whether release should be revoked or the conditions of release amended for violation of a condition of release. “(5) Notwithstanding the provisions of [section 991 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section991&num=0&edition=prelim), United States Code, and sections 4351 and 5002 of title 18, United States Code, the Chairman of the United States Parole Commission or his designee shall be a member of the National Institute of Corrections, and the Chairman of the United States Parole Commission shall be a member of the Advisory Corrections Council and a nonvoting member of the United States Sentencing Commission, ex officio, until the expiration of the five-year period following the effective date of this Act. Notwithstanding the provisions of [section 4351 of title 18](./chapter-319-national-institute-of-corrections.md#section-4351), during the five-year period the National Institute of Corrections shall have seventeen members, including seven ex officio members. Notwithstanding the provisions of [section 991 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section991&num=0&edition=prelim), during the five-year period the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members.”
+
+[Pub. L. 104–232, § 3(b)(2), Oct. 2, 1996, 110 Stat. 3056, provided that: “Effective on the date the plan [alternative plan by Attorney General for transfer of United States Parole Commission’s functions to another entity within Department of Justice pursuant to section 3 of Pub. L. 104–232, set out as a note under [section 4201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4201&num=0&edition=prelim)] takes effect, paragraphs (3) and (4) of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out above] (98 Stat. 2032) are repealed.” ]
+
+[Pub. L. 112–44, § 2, Oct. 21, 2011, 125 Stat. 532, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘24 years’ or ‘24-year period’ shall be deemed a reference to ‘26 years’ or ‘26-year period’, respectively.” ]
+
+[Pub. L. 110–312, § 2, Aug. 12, 2008, 122 Stat. 3013, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 ([18 U.S.C. 3551](./chapter-227-sentences.md#section-3551) note; Public Law 98–473; 98 Stat. 2032), as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘21 years’ or ‘21-year period’ shall be deemed a reference to ‘24 years’ or ‘24-year period’, respectively.” ]
+
+[Pub. L. 109–76, § 2, Sept. 29, 2005, 119 Stat. 2035, provided that: “For purposes of section 235(b) of the Sentencing Reform Act of 1984 [Pub. L. 98–473, set out above] (98 Stat. 2032) as such section relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘eighteen years’ or ‘eighteen-year period’ shall be deemed a reference to ‘21 years’ or ‘21-year period’, respectively.” ]
+
+[For purposes of section 235(b) of Pub. L. 98–473, set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “fifteen years” or “fifteen-year period” are deemed to be references to “eighteen years” or “eighteen-year period”, respectively, see section 11017(a) of Pub. L. 107–273, set out as a note under [section 4202 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4202&num=0&edition=prelim).]
+
+[For purposes of section 235(b) of Pub. L. 98–473, set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “ten years” or “ten-year period” are deemed to be references to “fifteen years” or “fifteen-year period”, respectively, see section 2(a) of Pub. L. 104–232, set out as a note under [section 4201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4201&num=0&edition=prelim).]
+
+[Pub. L. 101–650, title III, § 316, Dec. 1, 1990, 104 Stat. 5115, provided that: “For the purposes of section 235(b) of Public Law 98–473 [set out above] as it relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘five years’ or a ‘five-year period’ shall be deemed a reference to ‘ten years’ or a ‘ten-year period’, respectively.” ]
+
+#### Short Title of 2008 Amendment
+Pub. L. 110–312, § 1, Aug. 12, 2008, 122 Stat. 3013, provided that: “This Act [enacting provisions set out as a note under this section] may be cited as the ‘United States Parole Commission Extension Act of 2008’.”
+
+#### Short Title of 2005 Amendment
+Pub. L. 109–76, § 1, Sept. 29, 2005, 119 Stat. 2035, provided that: “This Act [enacting provisions set out as a note under this section and enacting provisions listed in a table relating to sentencing guidelines set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘United States Parole Commission Extension and Sentencing Commission Authority Act of 2005’.”
+
+#### Short Title of 1996 Amendment
+Pub. L. 104–132, title II, § 201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle [subtitle A (§§ 201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, [section 2248 of this title](./chapter-109a-sexual-abuse.md#section-2248), and [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
+
+#### Short Title of 1987 Amendment
+Pub. L. 100–182, § 1, Dec. 7, 1987, 101 Stat. 1266, provided that: “This Act [amending sections 3006A, 3553, 3561, 3563, 3564, 3583, 3663, 3672, 3742, and 4106 of this title, [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure, and sections 504 and 1111 of Title 29, Labor, enacting provisions set out as notes under sections 3006A and 3553 of this title, rule 35 of the Federal Rules of Criminal Procedure, set out in the Appendix to this title, and [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), and amending provisions set out as a note under this section] may be cited as the ‘Sentencing Act of 1987’.”
+
+#### Short Title of 1985 Amendment
+Pub. L. 99–217, § 1, Dec. 26, 1985, 99 Stat. 1728, provided that: “This Act [amending [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure, and provisions set out as a note under this section] may be cited as the ‘Sentencing Reform Amendments Act of 1985’.”
+
+#### Short Title
+Pub. L. 98–473, title II, § 211, Oct. 12, 1984, 98 Stat. 1987, provided that: “This chapter [chapter II (§§ 211–239) of title II of Pub. L. 98–473, see Tables for classification] may be cited as the ‘Sentencing Reform Act of 1984’.”
+
+#### Mandatory Victim Restitution; Promulgation of Regulations by Attorney General
+Pub. L. 104–132, title II, § 209, Apr. 24, 1996, 110 Stat. 1240, provided that: “Not later than 90 days after the date of enactment of this subtitle [Apr. 24, 1996], the Attorney General shall promulgate guidelines, or amend existing guidelines, to carry out this subtitle [subtitle A (§§ 201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out above] and the amendments made by this subtitle and to ensure that— “(1) in all plea agreements negotiated by the United States, consideration is given to requesting that the defendant provide full restitution to all victims of all charges contained in the indictment or information, without regard to the counts to which the defendant actually pleaded; and “(2) orders of restitution made pursuant to the amendments made by this subtitle are enforced to the fullest extent of the law.”
+
+#### Sentencing of Nonviolent and Nonserious Offenders; Sense of Congress
+Pub. L. 98–473, title II, § 239, Oct. 12, 1984, 98 Stat. 2039, provided that: “Since, due to an impending crisis in prison overcrowding, available Federal prison space must be treated as a scarce resource in the sentencing of criminal defendants; “Since, sentencing decisions should be designed to ensure that prison resources are, first and foremost, reserved for those violent and serious criminal offenders who pose the most dangerous threat to society; “Since, in cases of nonviolent and nonserious offenders, the interests of society as a whole as well as individual victims of crime can continue to be served through the imposition of alternative sentences, such as restitution and community service; “Since, in the two years preceding the enactment of sentencing guidelines, Federal sentencing practice should ensure that scarce prison resources are available to house violent and serious criminal offenders by the increased use of restitution, community service, and other alternative sentences in cases of nonviolent and nonserious offenders: Now, therefore, be it “Declared, That it is the sense of the Senate that in the two years preceding the enactment of the sentencing guidelines, Federal judges, in determining the particular sentence to be imposed, consider— “(1) the nature and circumstances of the offense and the history and characteristics of the defendant; “(2) the general appropriateness of imposing a sentence other than imprisonment in cases in which the defendant has not been convicted of a crime of violence or otherwise serious offense; and “(3) the general appropriateness of imposing a sentence of imprisonment in cases in which the defendant has been convicted of a crime of violence or otherwise serious offense.”
+
+
+<a id="section-3552"></a>
+## § 3552. Presentence reports
+**(a) Presentence Investigation and Report by Probation Officer.—** A United States probation officer shall make a presentence investigation of a defendant that is required pursuant to the provisions of Rule 32(c) of the Federal Rules of Criminal Procedure, and shall, before the imposition of sentence, report the results of the investigation to the court.
+
+**(b) Presentence Study and Report by Bureau of Prisons.—** If the court, before or after its receipt of a report specified in subsection (a) or (c), desires more information than is otherwise available to it as a basis for determining the sentence to be imposed on a defendant found guilty of a misdemeanor or felony, it may order a study of the defendant. The study shall be conducted in the local community by qualified consultants unless the sentencing judge finds that there is a compelling reason for the study to be done by the Bureau of Prisons or there are no adequate professional resources available in the local community to perform the study. The period of the study shall be no more than sixty days. The order shall specify the additional information that the court needs before determining the sentence to be imposed. Such an order shall be treated for administrative purposes as a provisional sentence of imprisonment for the maximum term authorized by section 3581(b) for the offense committed. The study shall inquire into such matters as are specified by the court and any other matters that the Bureau of Prisons or the professional consultants believe are pertinent to the factors set forth in section 3553(a). The period of the study may, in the discretion of the court, be extended for an additional period of not more than sixty days. By the expiration of the period of the study, or by the expiration of any extension granted by the court, the United States marshal shall, if the defendant is in custody, return the defendant to the court for final sentencing. The Bureau of Prisons or the professional consultants shall provide the court with a written report of the pertinent results of the study and make to the court whatever recommendations the Bureau or the consultants believe will be helpful to a proper resolution of the case. The report shall include recommendations of the Bureau or the consultants concerning the guidelines and policy statements, promulgated by the Sentencing Commission pursuant to [28 U.S.C. 994(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a&num=0&edition=prelim), that they believe are applicable to the defendant’s case. After receiving the report and the recommendations, the court shall proceed finally to sentence the defendant in accordance with the sentencing alternatives and procedures available under this chapter.
+
+**(c) Presentence Examination and Report by Psychiatric or Psychological Examiners.—** If the court, before or after its receipt of a report specified in subsection (a) or (b) desires more information than is otherwise available to it as a basis for determining the mental condition of the defendant, the court may order the same psychiatric or psychological examination and report thereon as may be ordered under [section 4244(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4244/b&num=0&edition=prelim).
+
+**(d) Disclosure of Presentence Reports.—** The court shall assure that a report filed pursuant to this section is disclosed to the defendant, the counsel for the defendant, and the attorney for the Government at least ten days prior to the date set for sentencing, unless this minimum period is waived by the defendant. The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.
+
+### Statutory Notes
+
+#### Amendments
+1990—Subsec. (d). Pub. L. 101–647 inserted at end “The court shall provide a copy of the presentence report to the attorney for the Government to use in collecting an assessment, criminal fine, forfeiture or restitution imposed.”
+
+1986—Subsec. (b). Pub. L. 99–646, § 7(a)(1), (2), substituted “study shall be” for “study shall take” and inserted “, if the defendant is in custody,” after “United States marshal shall”.
+
+Subsec. (c). Pub. L. 99–646, § 7(a)(3), substituted “the court may order the same psychiatric or psychological examination and report thereon as may be ordered under [section 4244(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4244/b&num=0&edition=prelim)” for “it may order that the defendant undergo a psychiatric or psychological examination and that the court be provided with a written report of the results of the examination pursuant to the provisions of section 4247”.
+
+#### Effective Date of 1990 Amendment
+Amendment by Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under [section 3001 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section3001&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date of 1986 Amendment
+Pub. L. 99–646, § 7(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of [section 3552 of title 18](./chapter-227-sentences.md#section-3552), United States Code [Nov. 1, 1987].”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Use of Certain Technology To Facilitate Criminal Conduct
+Pub. L. 104–294, title V, § 501, Oct. 11, 1996, 110 Stat. 3497, provided that: “(a) Information.—The Administrative Office of the United States courts shall establish policies and procedures for the inclusion in all presentence reports of information that specifically identifies and describes any use of encryption or scrambling technology that would be relevant to an enhancement under section 3C1.1 (dealing with Obstructing or Impeding the Administration of Justice) of the Sentencing Guidelines or to offense conduct under the Sentencing Guidelines. “(b) Compiling and Report.—The United States Sentencing Commission shall—“(1) compile and analyze any information contained in documentation described in subsection (a) relating to the use of encryption or scrambling technology to facilitate or conceal criminal conduct; and “(2) based on the information compiled and analyzed under paragraph (1), annually report to the Congress on the nature and extent of the use of encryption or scrambling technology to facilitate or conceal criminal conduct.”
+
+
+<a id="section-3553"></a>
+## § 3553. Imposition of a sentence
+**(a) Factors To Be Considered in Imposing a Sentence.—** The court shall impose a sentence sufficient, but not greater than necessary, to comply with the purposes set forth in paragraph (2) of this subsection. The court, in determining the particular sentence to be imposed, shall consider—
+
+(1) the nature and circumstances of the offense and the history and characteristics of the defendant;
+
+(2) the need for the sentence imposed—
+
+  (A) to reflect the seriousness of the offense, to promote respect for the law, and to provide just punishment for the offense;
+
+  (B) to afford adequate deterrence to criminal conduct;
+
+  (C) to protect the public from further crimes of the defendant; and
+
+  (D) to provide the defendant with needed educational or vocational training, medical care, or other correctional treatment in the most effective manner;
+
+(3) the kinds of sentences available;
+
+(4) the kinds of sentence and the sentencing range established for—
+
+  (A) the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines—
+
+    (i) issued by the Sentencing Commission pursuant to [section 994(a)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/1&num=0&edition=prelim), United States Code, subject to any amendments made to such guidelines by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under [section 994(p) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/p&num=0&edition=prelim)); and
+
+    (ii) that, except as provided in section 3742(g), are in effect on the date the defendant is sentenced; or
+
+  (B) in the case of a violation of probation or supervised release, the applicable guidelines or policy statements issued by the Sentencing Commission pursuant to [section 994(a)(3) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/3&num=0&edition=prelim), United States Code, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under [section 994(p) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/p&num=0&edition=prelim));
+
+(5) any pertinent policy statement—
+
+  (A) issued by the Sentencing Commission pursuant to [section 994(a)(2) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/2&num=0&edition=prelim), United States Code, subject to any amendments made to such policy statement by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under [section 994(p) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/p&num=0&edition=prelim)); and
+
+  (B) that, except as provided in section 3742(g), is in effect on the date the defendant is sentenced.11 So in original. The period probably should be a semicolon.
+
+(6) the need to avoid unwarranted sentence disparities among defendants with similar records who have been found guilty of similar conduct; and
+
+(7) the need to provide restitution to any victims of the offense.
+
+**(b) Application of Guidelines in Imposing a Sentence.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
+
+(2) **Child crimes and sexual offenses.—**
+
+  (A) *22 So in original. No subpar. (B) has been enacted. Sentencing.—* — In sentencing a defendant convicted of an offense under section 1201 involving a minor victim, an offense under section 1591, or an offense under chapter 71, 109A, 110, or 117, the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless—
+
+    (i) the court finds that there exists an aggravating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence greater than that described;
+
+    (ii) the court finds that there exists a mitigating circumstance of a kind or to a degree, that—
+
+      (I) has been affirmatively and specifically identified as a permissible ground of downward departure in the sentencing guidelines or policy statements issued under [section 994(a) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a&num=0&edition=prelim), taking account of any amendments to such sentencing guidelines or policy statements by Congress;
+
+      (II) has not been taken into consideration by the Sentencing Commission in formulating the guidelines; and
+
+      (III) should result in a sentence different from that described; or
+
+    (iii) the court finds, on motion of the Government, that the defendant has provided substantial assistance in the investigation or prosecution of another person who has committed an offense and that this assistance established a mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence lower than that described.
+In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission, together with any amendments thereto by act of Congress. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission, together with any amendments to such guidelines or policy statements by act of Congress.
+
+**(c) Statement of Reasons for Imposing a Sentence.—** The court, at the time of sentencing, shall state in open court the reasons for its imposition of the particular sentence, and, if the sentence—
+
+(1) is of the kind, and within the range, described in subsection (a)(4), and that range exceeds 24 months, the reason for imposing a sentence at a particular point within the range; or
+
+(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in a statement of reasons form issued under [section 994(w)(1)(B) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/w/1/B&num=0&edition=prelim), except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
+If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court’s statement of reasons, together with the order of judgment and commitment, to the Probation System and to the Sentencing Commission,,33 So in original. and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
+
+**(d) Presentence Procedure for an Order of Notice.—** Prior to imposing an order of notice pursuant to section 3555, the court shall give notice to the defendant and the Government that it is considering imposing such an order. Upon motion of the defendant or the Government, or on its own motion, the court shall—
+
+(1) permit the defendant and the Government to submit affidavits and written memoranda addressing matters relevant to the imposition of such an order;
+
+(2) afford counsel an opportunity in open court to address orally the appropriateness of the imposition of such an order; and
+
+(3) include in its statement of reasons pursuant to subsection (c) specific reasons underlying its determinations regarding the nature of such an order.
+Upon motion of the defendant or the Government, or on its own motion, the court may in its discretion employ any additional procedures that it concludes will not unduly complicate or prolong the sentencing process.
+
+**(e) Limited Authority To Impose a Sentence Below a Statutory Minimum.—** Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant’s substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to [section 994 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), United States Code.
+
+**(f) Limitation on Applicability of Statutory Minimums in Certain Cases.—** Notwithstanding any other provision of law, in the case of an offense under section 401, 404, or 406 of the Controlled Substances Act ([21 U.S.C. 841](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841&num=0&edition=prelim), 844, 846) or section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960&num=0&edition=prelim), 963), the court shall impose a sentence pursuant to guidelines promulgated by the United States Sentencing Commission under [section 994 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim) without regard to any statutory minimum sentence, if the court finds at sentencing, after the Government has been afforded the opportunity to make a recommendation, that—
+
+(1) the defendant does not have more than 1 criminal history point, as determined under the sentencing guidelines;
+
+(2) the defendant did not use violence or credible threats of violence or possess a firearm or other dangerous weapon (or induce another participant to do so) in connection with the offense;
+
+(3) the offense did not result in death or serious bodily injury to any person;
+
+(4) the defendant was not an organizer, leader, manager, or supervisor of others in the offense, as determined under the sentencing guidelines and was not engaged in a continuing criminal enterprise, as defined in section 408 of the Controlled Substances Act; and
+
+(5) not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set out in the Appendix to this title.
+
+Section 408 of the Controlled Substances Act, referred to in subsec. (f)(4), is classified to [section 848 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section848&num=0&edition=prelim), Food and Drugs.
+
+#### Constitutionality
+For information regarding constitutionality of certain provisions of this section, as amended by section 401(a)(1) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+
+#### Amendments
+2010—Subsec. (c)(2). Pub. L. 111–174 substituted “a statement of reasons form issued under [section 994(w)(1)(B) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/w/1/B&num=0&edition=prelim)” for “the written order of judgment and commitment”.
+
+2003—Subsec. (a)(4)(A). Pub. L. 108–21, § 401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to [section 994(a)(1) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/1&num=0&edition=prelim), United States Code, and that are in effect on the date the defendant is sentenced; or”.
+
+Subsec. (a)(4)(B). Pub. L. 108–21, § 401(j)(5)(B), inserted before semicolon at end “, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under [section 994(p) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/p&num=0&edition=prelim))”.
+
+Subsec. (a)(5). Pub. L. 108–21, § 401(j)(5)(C), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “any pertinent policy statement issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/2&num=0&edition=prelim) that is in effect on the date the defendant is sentenced;”.
+
+Subsec. (b). Pub. L. 108–21, § 401(a), designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the court” for “The court”, and added par. (2) and concluding provisions.
+
+Subsec. (c). Pub. L. 108–21, § 401(c)(2), (3), in concluding provisions, inserted “, together with the order of judgment and commitment,” after “the court’s statement of reasons” and “and to the Sentencing Commission,” after “to the Probation System”.
+
+Subsec. (c)(2). Pub. L. 108–21, § 401(c)(1), substituted “described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements” for “described”.
+
+2002—Subsec. (e). Pub. L. 107–273 inserted “a” before “minimum sentence”.
+
+1996—Subsec. (f). Pub. L. 104–294, § 601(h), amended directory language of Pub. L. 103–322, § 80001(a). See 1994 Amendment note below.
+
+Pub. L. 104–294, § 601(b)(5), in introductory provisions, substituted “section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 960](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960&num=0&edition=prelim), 963)” for “section 1010 or 1013 of the Controlled Substances Import and Export Act ([21 U.S.C. 961](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section961&num=0&edition=prelim), 963)”.
+
+Subsec. (f)(4). Pub. L. 104–294, § 601(b)(6), substituted “section 408 of the Controlled Substances Act” for “[21 U.S.C. 848](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section848&num=0&edition=prelim)”.
+
+1994—Subsec. (a)(4). Pub. L. 103–322, § 280001, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/1&num=0&edition=prelim) and that are in effect on the date the defendant is sentenced;”.
+
+Subsec. (f). Pub. L. 103–322, § 80001(a), as amended by Pub. L. 104–294, § 601(h), added subsec. (f).
+
+1988—Subsec. (c). Pub. L. 100–690 inserted “or other appropriate public record” after “transcription” in second sentence and struck out “clerk of the” before “court” in last sentence.
+
+1987—Subsec. (b). Pub. L. 100–182, § 3(1), (2), substituted “court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
+
+Pub. L. 100–182, § 3(3), inserted after first sentence “In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.”
+
+Pub. L. 100–182, § 16(a), substituted “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.” for “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2).”
+
+Subsec. (c)(1). Pub. L. 100–182, § 17, inserted “and that range exceeds 24 months,”.
+
+1986—Subsec. (a)(7). Pub. L. 99–646, § 81(a), added par. (7).
+
+Subsec. (b). Pub. L. 99–646, § 9(a), inserted provision relating to sentencing in the absence of applicable guidelines.
+
+Subsec. (c). Pub. L. 99–646, § 8(a), substituted “If the court does not order restitution, or orders only partial restitution” for “If the sentence does not include an order of restitution”.
+
+Subsec. (d). Pub. L. 99–646, § 80(a), struck out “or restitution” after “notice” in heading, and struck out “or an order of restitution pursuant to section 3556,” after “section 3555,” in introductory text.
+
+Subsec. (e). Pub. L. 99–570 added subsec. (e).
+
+#### Effective Date of 1994 Amendment
+Pub. L. 103–322, title VIII, § 80001(c), Sept. 13, 1994, 108 Stat. 1986, provided that: “The amendment made by subsection (a) [amending this section] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act [Sept. 13, 1994].”
+
+#### Effective Date of 1987 Amendment
+Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under [section 3006A of this title](./chapter-201-general-provisions.md#section-3006a).
+
+#### Effective Date of 1986 Amendments
+Pub. L. 99–646, § 8(c), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section [amending this section and [section 3663 of this title](./chapter-232-miscellaneous-sentencing-provisions.md#section-3663)] shall take effect on the date of the taking effect of [section 3553 of title 18](./chapter-227-sentences.md#section-3553), United States Code [Nov. 1, 1987].”
+
+Pub. L. 99–646, § 9(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of [section 3553 of title 18](./chapter-227-sentences.md#section-3553), United States Code [Nov. 1, 1987].”
+
+Pub. L. 99–646, § 80(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 [section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987].”
+
+Pub. L. 99–646, § 81(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 [section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987].”
+
+Pub. L. 99–570, title I, § 1007(b), Oct. 27, 1986, 100 Stat. 3207–7, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of [section 3553 of title 18](./chapter-227-sentences.md#section-3553), United States Code [Nov. 1, 1987].”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Report by Attorney General
+Pub. L. 108–21, title IV, § 401(l), Apr. 30, 2003, 117 Stat. 674, provided that: “(1) Defined term.—For purposes of this section [amending this section, [section 3742 of this title](./chapter-235-appeal.md#section-3742), and [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure, enacting provisions set out as a note under [section 991 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section991&num=0&edition=prelim), and enacting provisions listed in a table relating to sentencing guidelines set out under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim)], the term ‘report described in paragraph (3)’ means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act [Apr. 30, 2003]—“(A) to ensure that Department of Justice attorneys oppose sentencing adjustments, including downward departures, that are not supported by the facts and the law; “(B) to ensure that Department of Justice attorneys in such cases make a sufficient record so as to permit the possibility of an appeal; “(C) to delineate objective criteria, specified by the Attorney General, as to which such cases may warrant consideration of an appeal, either because of the nature or magnitude of the sentencing error, its prevalence in the district, or its prevalence with respect to a particular judge; “(D) to ensure that Department of Justice attorneys promptly notify the designated Department of Justice component in Washington concerning such adverse sentencing decisions; and “(E) to ensure the vigorous pursuit of appropriate and meritorious appeals of such adverse decisions. “(2) Report required.—“(A) In general.—Not later than 15 days after a district court’s grant of a downward departure in any case, other than a case involving a downward departure for substantial assistance to authorities pursuant to section 5K1.1 of the United States Sentencing Guidelines, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate containing the information described under subparagraph (B). “(B) Contents.—The report submitted pursuant to subparagraph (A) shall set forth—“(i) the case; “(ii) the facts involved; “(iii) the identity of the district court judge; “(iv) the district court’s stated reasons, whether or not the court provided the United States with advance notice of its intention to depart; and “(v) the position of the parties with respect to the downward departure, whether or not the United States has filed, or intends to file, a motion for reconsideration. “(C) Appeal of the departure.—Not later than 5 days after a decision by the Solicitor General regarding the authorization of an appeal of the departure, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate that describes the decision of the Solicitor General and the basis for such decision. “(3) Effective date.—Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act [Apr. 30, 2003], except that such paragraph shall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3).”
+
+#### Authority To Lower a Sentence Below Statutory Minimum for Old Offenses
+Pub. L. 100–182, § 24, Dec. 7, 1987, 101 Stat. 1271, provided that: “Notwithstanding section 235 of the Comprehensive Crime Control Act of 1984 [section 235 of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)]— “(1) [section 3553(e) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3553/e&num=0&edition=prelim), United States Code; “(2) rule 35(b) of the Federal Rules of Criminal Procedure as amended by section 215(b) of such Act [set out in the Appendix to this title]; and “(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by the United States Sentencing Commission pursuant to chapter 58 of title 28, United States Code, shall apply in the case of an offense committed before the taking effect of such guidelines.”
+
+
+<a id="section-3554"></a>
+## § 3554. Order of criminal forfeiture
+
+The court, in imposing a sentence on a defendant who has been found guilty of an offense described in [section 1962 of this title](./chapter-096-racketeer-influenced-and-corrupt-organizations.md#section-1962) or in title II or III of the Comprehensive Drug Abuse Prevention and Control Act of 1970 shall order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant forfeit property to the United States in accordance with the provisions of [section 1963 of this title](./chapter-096-racketeer-influenced-and-corrupt-organizations.md#section-1963) or section 413 of the Comprehensive Drug Abuse and Control Act of 1970.
+
+### Statutory Notes
+
+#### References in Text
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. Title II of this Act, known as the Controlled Substances Act, is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title III of this Act, known as the Controlled Substances Import and Export Act, is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. Section 413 of this Act is classified to [section 853 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under sections 801 and 951 of Title 21 and Tables.
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3555"></a>
+## § 3555. Order of notice to victims
+
+The court, in imposing a sentence on a defendant who has been found guilty of an offense involving fraud or other intentionally deceptive practices, may order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant give reasonable notice and explanation of the conviction, in such form as the court may approve, to the victims of the offense. The notice may be ordered to be given by mail, by advertising in designated areas or through designated media, or by other appropriate means. In determining whether to require the defendant to give such notice, the court shall consider the factors set forth in section 3553(a) to the extent that they are applicable and shall consider the cost involved in giving the notice as it relates to the loss caused by the offense, and shall not require the defendant to bear the costs of notice in excess of $20,000.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3556"></a>
+## § 3556. Order of restitution
+
+The court, in imposing a sentence on a defendant who has been found guilty of an offense shall order restitution in accordance with section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section.
+
+### Statutory Notes
+
+#### Amendments
+1996—Pub. L. 104–132 substituted “shall order restitution” for “may order restitution” and “section 3663A, and may order restitution in accordance with section 3663. The procedures under section 3664 shall apply to all orders of restitution under this section” for “sections 3663 and 3664”.
+
+1986—Pub. L. 99–646 substituted “may order restitution in accordance with sections 3663 and 3664” for “under this title, or an offense under section 902(h), (i), (j), or (n) of the Federal Aviation Act of 1958 ([49 U.S.C. 1472](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1472&num=0&edition=prelim)), may order, in addition to the sentence that is imposed pursuant to the provisions of section 3551, that the defendant make restitution to any victim of the offense in accordance with the provisions of sections 3663 and 3664”.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under [section 2248 of this title](./chapter-109a-sexual-abuse.md#section-2248).
+
+#### Effective Date of 1986 Amendment
+Pub. L. 99–646, § 20(c), Nov. 10, 1986, 100 Stat. 3596, provided that: “The amendments made by this section [amending this section and [section 3663 of this title](./chapter-232-miscellaneous-sentencing-provisions.md#section-3663)] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 [section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987].”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3557"></a>
+## § 3557. Review of a sentence
+
+The review of a sentence imposed pursuant to section 3551 is governed by the provisions of section 3742.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3558"></a>
+## § 3558. Implementation of a sentence
+
+The implementation of a sentence imposed pursuant to section 3551 is governed by the provisions of chapter 229.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3559"></a>
+## § 3559. Sentencing classification of offenses
+**(a) Classification.—** An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—
+
+(1) life imprisonment, or if the maximum penalty is death, as a Class A felony;
+
+(2) twenty-five years or more, as a Class B felony;
+
+(3) less than twenty-five years but ten or more years, as a Class C felony;
+
+(4) less than ten years but five or more years, as a Class D felony;
+
+(5) less than five years but more than one year, as a Class E felony;
+
+(6) one year or less but more than six months, as a Class A misdemeanor;
+
+(7) six months or less but more than thirty days, as a Class B misdemeanor;
+
+(8) thirty days or less but more than five days, as a Class C misdemeanor; or
+
+(9) five days or less, or if no imprisonment is authorized, as an infraction.
+
+**(b) Effect of Classification.—** Except as provided in subsection (c), an offense classified under subsection (a) carries all the incidents assigned to the applicable letter designation, except that the maximum term of imprisonment is the term authorized by the law describing the offense.
+
+**(c) Imprisonment of Certain Violent Felons.—**
+
+(1) **Mandatory life imprisonment.—** — Notwithstanding any other provision of law, a person who is convicted in a court of the United States of a serious violent felony shall be sentenced to life imprisonment if—
+
+  (A) the person has been convicted (and those convictions have become final) on separate prior occasions in a court of the United States or of a State of—
+
+    (i) 2 or more serious violent felonies; or
+
+    (ii) one or more serious violent felonies and one or more serious drug offenses; and
+
+  (B) each serious violent felony or serious drug offense used as a basis for sentencing under this subsection, other than the first, was committed after the defendant’s conviction of the preceding serious violent felony or serious drug offense.
+
+(2) **Definitions.—** — For purposes of this subsection—
+
+  (A) the term “assault with intent to commit rape” means an offense that has as its elements engaging in physical contact with another person or using or brandishing a weapon against another person with intent to commit aggravated sexual abuse or sexual abuse (as described in sections 2241 and 2242);
+
+  (B) the term “arson” means an offense that has as its elements maliciously damaging or destroying any building, inhabited structure, vehicle, vessel, or real property by means of fire or an explosive;
+
+  (C) the term “extortion” means an offense that has as its elements the extraction of anything of value from another person by threatening or placing that person in fear of injury to any person or kidnapping of any person;
+
+  (D) the term “firearms use” means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used was subject to prosecution in a court of the United States or a court of a State, or both;
+
+  (E) the term “kidnapping” means an offense that has as its elements the abduction, restraining, confining, or carrying away of another person by force or threat of force;
+
+  (F) the term “serious violent felony” means—
+
+    (i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in [section 46502 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section46502&num=0&edition=prelim)); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
+
+    (ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
+
+  (G) the term “State” means a State of the United States, the District of Columbia, and a commonwealth, territory, or possession of the United States; and
+
+  (H) the term “serious drug offense” means—
+
+    (i) an offense that is punishable under section 401(b)(1)(A) or 408 of the Controlled Substances Act ([21 U.S.C. 841(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1/A&num=0&edition=prelim), 848) or section 1010(b)(1)(A) of the Controlled Substances Import and Export Act ([21 U.S.C. 960(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960/b/1/A&num=0&edition=prelim)); or
+
+    (ii) an offense under State law that, had the offense been prosecuted in a court of the United States, would have been punishable under section 401(b)(1)(A) or 408 of the Controlled Substances Act ([21 U.S.C. 841(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section841/b/1/A&num=0&edition=prelim), 848) or section 1010(b)(1)(A) of the Controlled Substances Import and Export Act ([21 U.S.C. 960(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section960/b/1/A&num=0&edition=prelim)).
+
+(3) **Nonqualifying felonies.—**
+
+  (A) *Robbery in certain cases.—* — Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
+
+    (i) no firearm or other dangerous weapon was used in the offense and no threat of use of a firearm or other dangerous weapon was involved in the offense; and
+
+    (ii) the offense did not result in death or serious bodily injury (as defined in section 1365) to any person.
+
+  (B) *Arson in certain cases.—* — Arson shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
+
+    (i) the offense posed no threat to human life; and
+
+    (ii) the defendant reasonably believed the offense posed no threat to human life.
+
+(4) **Information filed by united states attorney.—** — The provisions of section 411(a) of the Controlled Substances Act ([21 U.S.C. 851(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section851/a&num=0&edition=prelim)) shall apply to the imposition of sentence under this subsection.
+
+(5) **Rule of construction.—** — This subsection shall not be construed to preclude imposition of the death penalty.
+
+(6) **Special provision for indian country.—** — No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
+
+(7) **Resentencing upon overturning of prior conviction.—** — If the conviction for a serious violent felony or serious drug offense that was a basis for sentencing under this subsection is found, pursuant to any appropriate State or Federal procedure, to be unconstitutional or is vitiated on the explicit basis of innocence, or if the convicted person is pardoned on the explicit basis of innocence, the person serving a sentence imposed under this subsection shall be resentenced to any sentence that was available at the time of the original sentencing.
+
+**(d) Death or Imprisonment for Crimes Against Children.—**
+
+(1) **In general.—** — Subject to paragraph (2) and notwithstanding any other provision of law, a person who is convicted of a Federal offense that is a serious violent felony (as defined in subsection (c)) or a violation of section 2422, 2423, or 2251 shall, unless the sentence of death is imposed, be sentenced to imprisonment for life, if—
+
+  (A) the victim of the offense has not attained the age of 14 years;
+
+  (B) the victim dies as a result of the offense; and
+
+  (C) the defendant, in the course of the offense, engages in conduct described in section 3591(a)(2).
+
+(2) **Exception.—** — With respect to a person convicted of a Federal offense described in paragraph (1), the court may impose any lesser sentence that is authorized by law to take into account any substantial assistance provided by the defendant in the investigation or prosecution of another person who has committed an offense, in accordance with the Federal Sentencing Guidelines and the policy statements of the Federal Sentencing Commission pursuant to [section 994(p) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/p&num=0&edition=prelim), or for other good cause.
+
+**(e) Mandatory Life Imprisonment for Repeated Sex Offenses Against Children.—**
+
+(1) **In general.—** — A person who is convicted of a Federal sex offense in which a minor is the victim shall be sentenced to life imprisonment if the person has a prior sex conviction in which a minor was the victim, unless the sentence of death is imposed.
+
+(2) **Definitions.—** — For the purposes of this subsection—
+
+  (A) the term “Federal sex offense” means an offense under section 1591 (relating to sex trafficking of children), 2241 (relating to aggravated sexual abuse), 2242 (relating to sexual abuse), 2244(a)(1) (relating to abusive sexual contact), 2245 (relating to sexual abuse resulting in death), 2251 (relating to sexual exploitation of children), 2251A (relating to selling or buying of children), 2422(b) (relating to coercion and enticement of a minor into prostitution), or 2423(a) (relating to transportation of minors);
+
+  (B) the term “State sex offense” means an offense under State law that is punishable by more than one year in prison and consists of conduct that would be a Federal sex offense if, to the extent or in the manner specified in the applicable provision of this title—
+
+    (i) the offense involved interstate or foreign commerce, or the use of the mails; or
+
+    (ii) the conduct occurred in any commonwealth, territory, or possession of the United States, within the special maritime and territorial jurisdiction of the United States, in a Federal prison, on any land or building owned by, leased to, or otherwise used by or under the control of the Government of the United States, or in the Indian country (as defined in section 1151);
+
+  (C) the term “prior sex conviction” means a conviction for which the sentence was imposed before the conduct occurred constituting the subsequent Federal sex offense, and which was for a Federal sex offense or a State sex offense;
+
+  (D) the term “minor” means an individual who has not attained the age of 17 years; and
+
+  (E) the term “State” has the meaning given that term in subsection (c)(2).
+
+(3) **Nonqualifying Felonies.—** — An offense described in section 2422(b) or 2423(a) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
+
+  (A) the sexual act or activity was consensual and not for the purpose of commercial or pecuniary gain;
+
+  (B) the sexual act or activity would not be punishable by more than one year in prison under the law of the State in which it occurred; or
+
+  (C) no sexual act or activity occurred.
+
+**(f) Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—** A person who is convicted of a Federal offense that is a crime of violence against the person of an individual who has not attained the age of 18 years shall, unless a greater mandatory minimum sentence of imprisonment is otherwise provided by law and regardless of any maximum term of imprisonment otherwise provided for the offense—
+
+(1) if the crime of violence is murder, be imprisoned for life or for any term of years not less than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of [section 3591(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3591/a/2&num=0&edition=prelim);
+
+(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as defined in section 114), be imprisoned for life or any term of years not less than 25; and
+
+(3) if the crime of violence results in serious bodily injury (as defined in section 1365), or if a dangerous weapon was used during and in relation to the crime of violence, be imprisoned for life or for any term of years not less than 10.
+
+**(g)**
+
+(1) If a defendant who is convicted of a felony offense (other than offense of which an element is the false registration of a domain name) knowingly falsely registered a domain name and knowingly used that domain name in the course of that offense, the maximum imprisonment otherwise provided by law for that offense shall be doubled or increased by 7 years, whichever is less.
+
+(2) As used in this section—
+
+  (A) the term “falsely registers” means registers in a manner that prevents the effective identification of or contact with the person who registers; and
+
+  (B) the term “domain name” has the meaning given that term is 11 So in original. Probably should be “in”. section 45 of the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes” approved July 5, 1946 (commonly referred to as the “Trademark Act of 1946”) ([15 U.S.C. 1127](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1127&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Amendments
+2006—Subsec. (e)(2)(A). Pub. L. 109–248, § 206(c), inserted “1591 (relating to sex trafficking of children),” after “under section”.
+
+Subsecs. (f), (g). Pub. L. 109–248, § 202, added subsec. (f) and redesignated former subsec. (f) as (g).
+
+2004—Subsec. (f). Pub. L. 108–482 added subsec. (f).
+
+2003—Subsec. (e). Pub. L. 108–21 added subsec. (e).
+
+1998—Subsec. (c)(2)(F)(i). Pub. L. 105–386 inserted “firearms possession (as described in section 924(c));” after “firearms use;”.
+
+Subsec. (d). Pub. L. 105–314 added subsec. (d).
+
+1994—Subsec. (b). Pub. L. 103–322, § 70001(1), substituted “Except as provided in subsection (c), an” for “An”.
+
+Subsec. (c). Pub. L. 103–322, § 70001(2), added subsec. (c).
+
+1988—Subsec. (a). Pub. L. 100–690, § 7041(a)(1), substituted “classified if the maximum term of imprisonment authorized is—” for “classified—
+
+“(1) if the maximum term of imprisonment authorized is—”.
+
+Subsec. (a)(1) to (9). Pub. L. 100–690, § 7041(a)(2), (b), redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, and substituted “twenty-five” for “twenty” in pars. (2) and (3).
+
+1987—Subsec. (b). Pub. L. 100–185 substituted “, except that the maximum term of imprisonment is the term authorized by the law describing the offense.” for “except that:
+
+“(1) the maximum fine that may be imposed is the fine authorized by the statute describing the offense, or by this chapter, whichever is the greater; and
+
+“(2) the maximum term of imprisonment is the term authorized by the statute describing the offense.”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3561"></a>
+## § 3561. Sentence of probation
+**(a) In General.—** A defendant who has been found guilty of an offense may be sentenced to a term of probation unless—
+
+(1) the offense is a Class A or Class B felony and the defendant is an individual;
+
+(2) the offense is an offense for which probation has been expressly precluded; or
+
+(3) the defendant is sentenced at the same time to a term of imprisonment for the same or a different offense that is not a petty offense.
+
+**(b) Domestic Violence Offenders.—** A defendant who has been convicted for the first time of a domestic violence crime shall be sentenced to a term of probation if not sentenced to a term of imprisonment. The term “domestic violence crime” means a crime of violence for which the defendant may be prosecuted in a court of the United States in which the victim or intended victim is the spouse, former spouse, intimate partner, former intimate partner, child, or former child of the defendant, or any other relative of the defendant.
+
+**(c) Authorized Terms.—** The authorized terms of probation are—
+
+(1) for a felony, not less than one nor more than five years;
+
+(2) for a misdemeanor, not more than five years; and
+
+(3) for an infraction, not more than one year.
+
+### Statutory Notes
+
+#### Prior Provisions
+For a prior section 3561, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+1996—Subsec. (b). Pub. L. 104–294 struck out “or any relative defendant, child, or former child of the defendant,” before “or any other relative of the defendant”.
+
+1994—Subsec. (a)(3). Pub. L. 103–322, § 280004, inserted before period at end “that is not a petty offense”.
+
+Subsecs. (b), (c). Pub. L. 103–322, § 320921(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+1987—Subsec. (a)(1). Pub. L. 100–182 inserted “and the defendant is an individual” after “Class B felony”.
+
+1986—Subsec. (a). Pub. L. 99–646 struck out at end “The liability of a defendant for any unexecuted fine or other punishment imposed as to which probation is granted shall be fully discharged by the fulfillment of the terms and conditions of probation.”
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).
+
+#### Effective Date of 1987 Amendment
+Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under [section 3006A of this title](./chapter-201-general-provisions.md#section-3006a).
+
+#### Effective Date of 1986 Amendment
+Pub. L. 99–646, § 10(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such section 3561(a) [Nov. 1, 1987].”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3562"></a>
+## § 3562. Imposition of a sentence of probation
+**(a) Factors To Be Considered in Imposing a Term of Probation.—** The court, in determining whether to impose a term of probation, and, if a term of probation is to be imposed, in determining the length of the term and the conditions of probation, shall consider the factors set forth in section 3553(a) to the extent that they are applicable.
+
+**(b) Effect of Finality of Judgment.—** Notwithstanding the fact that a sentence of probation can subsequently be—
+
+(1) modified or revoked pursuant to the provisions of section 3564 or 3565;
+
+(2) corrected pursuant to the provisions of rule 35 of the Federal Rules of Criminal Procedure and section 3742; or
+
+(3) appealed and modified, if outside the guideline range, pursuant to the provisions of section 3742;
+a judgment of conviction that includes such a sentence constitutes a final judgment for all other purposes.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), are set out in the Appendix to this title.
+
+#### Prior Provisions
+For a prior section 3562, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+1990—Subsec. (b)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3563"></a>
+## § 3563. Conditions of probation
+**(a) Mandatory Conditions.—** The court shall provide, as an explicit condition of a sentence of probation—
+
+(1) for a felony, a misdemeanor, or an infraction, that the defendant not commit another Federal, State, or local crime during the term of probation;
+
+(2) for a felony, that the defendant also abide by at least one condition set forth in subsection (b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event the court shall impose one or more of the other conditions set forth under subsection (b);
+
+(3) for a felony, a misdemeanor, or an infraction, that the defendant not unlawfully possess a controlled substance;
+
+(4) for a domestic violence crime as defined in section 3561(b) by a defendant convicted of such an offense for the first time that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant;
+
+(5) for a felony, a misdemeanor, or an infraction, that the defendant refrain from any unlawful use of a controlled substance and submit to one drug test within 15 days of release on probation and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance, but the condition stated in this paragraph may be ameliorated or suspended by the court for any individual defendant if the defendant’s presentence report or other reliable sentencing information indicates a low risk of future substance abuse by the defendant;
+
+(6) that the defendant—
+
+  (A) make restitution in accordance with sections 2248, 2259, 2264, 2327, 3663, 3663A, and 3664; and
+
+  (B) pay the assessment imposed in accordance with section 3013;
+
+(7) that the defendant will notify the court of any material change in the defendant’s economic circumstances that might affect the defendant’s ability to pay restitution, fines, or special assessments;
+
+(8) for a person required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act; and
+
+(9) that the defendant cooperate in the collection of a DNA sample from the defendant if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000.
+If the court has imposed and ordered execution of a fine and placed the defendant on probation, payment of the fine or adherence to the court-established installment schedule shall be a condition of the probation.
+
+**(b) Discretionary Conditions.—** The court may provide, as further conditions of a sentence of probation, to the extent that such conditions are reasonably related to the factors set forth in section 3553(a)(1) and (a)(2) and to the extent that such conditions involve only such deprivations of liberty or property as are reasonably necessary for the purposes indicated in section 3553(a)(2), that the defendant—
+
+(1) support his dependents and meet other family responsibilities;
+
+(2) make restitution to a victim of the offense under section 3556 (but not subject to the limitation of section 3663(a) or 3663A(c)(1)(A));
+
+(3) give to the victims of the offense the notice ordered pursuant to the provisions of section 3555;
+
+(4) work conscientiously at suitable employment or pursue conscientiously a course of study or vocational training that will equip him for suitable employment;
+
+(5) refrain, in the case of an individual, from engaging in a specified occupation, business, or profession bearing a reasonably direct relationship to the conduct constituting the offense, or engage in such a specified occupation, business, or profession only to a stated degree or under stated circumstances;
+
+(6) refrain from frequenting specified kinds of places or from associating unnecessarily with specified persons;
+
+(7) refrain from excessive use of alcohol, or any use of a narcotic drug or other controlled substance, as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)), without a prescription by a licensed medical practitioner;
+
+(8) refrain from possessing a firearm, destructive device, or other dangerous weapon;
+
+(9) undergo available medical, psychiatric, or psychological treatment, including treatment for drug or alcohol dependency, as specified by the court, and remain in a specified institution if required for that purpose;
+
+(10) remain in the custody of the Bureau of Prisons during nights, weekends, or other intervals of time, totaling no more than the lesser of one year or the term of imprisonment authorized for the offense, during the first year of the term of probation or supervised release;
+
+(11) reside at, or participate in the program of, a community corrections facility (including a facility maintained or under contract to the Bureau of Prisons) for all or part of the term of probation;
+
+(12) work in community service as directed by the court;
+
+(13) reside in a specified place or area, or refrain from residing in a specified place or area;
+
+(14) remain within the jurisdiction of the court, unless granted permission to leave by the court or a probation officer;
+
+(15) report to a probation officer as directed by the court or the probation officer;
+
+(16) permit a probation officer to visit him at his home or elsewhere as specified by the court;
+
+(17) answer inquiries by a probation officer and notify the probation officer promptly of any change in address or employment;
+
+(18) notify the probation officer promptly if arrested or questioned by a law enforcement officer;
+
+(19) remain at his place of residence during nonworking hours and, if the court finds it appropriate, that compliance with this condition be monitored by telephonic or electronic signaling devices, except that a condition under this paragraph may be imposed only as an alternative to incarceration;
+
+(20) comply with the terms of any court order or order of an administrative process pursuant to the law of a State, the District of Columbia, or any other possession or territory of the United States, requiring payments by the defendant for the support and maintenance of a child or of a child and the parent with whom the child is living;
+
+(21) be ordered deported by a United States district court, or United States magistrate judge, pursuant to a stipulation entered into by the defendant and the United States under section 238(d)(5) of the Immigration and Nationality Act, except that, in the absence of a stipulation, the United States district court or a United States magistrate judge, may order deportation as a condition of probation, if, after notice and hearing pursuant to such section, the Attorney General demonstrates by clear and convincing evidence that the alien is deportable;
+
+(22) satisfy such other conditions as the court may impose or; 11 So in original. Probably should be “; or”.
+
+(23) if required to register under the Sex Offender Registration and Notification Act, submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communication or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of probation or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer’s supervision functions.
+
+**(c) Modifications of Conditions.—** The court may modify, reduce, or enlarge the conditions of a sentence of probation at any time prior to the expiration or termination of the term of probation, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the conditions of probation.
+
+**(d) Written Statement of Conditions.—** The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the sentence is subject, and that is sufficiently clear and specific to serve as a guide for the defendant’s conduct and for such supervision as is required.
+
+**(e) Results of Drug Testing.—** The results of a drug test administered in accordance with subsection (a)(5) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with subsection (a)(5).
+
+### Statutory Notes
+
+#### References in Text
+The Sex Offender Registration and Notification Act, referred to in subsecs. (a)(8) and (b)(23), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a)(9), is classified to [section 14135a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135a&num=0&edition=prelim), The Public Health and Welfare.
+
+Section 238(d)(5) of the Immigration and Nationality Act, referred to in subsec. (b)(21), is classified to [section 1228(d)(5) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1228/d/5&num=0&edition=prelim), Aliens and Nationality.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to this title.
+
+#### Prior Provisions
+For a prior section 3563, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+2008—Subsec. (a)(2). Pub. L. 110–406, § 14(a), substituted “(b)(2) or (b)(12), unless the court has imposed a fine under this chapter, or” for “(b)(2), (b)(3), or (b)(13),”.
+
+Subsec. (b)(10). Pub. L. 110–406, § 14(c), inserted “or supervised release” after “probation”.
+
+2006—Subsec. (a)(8). Pub. L. 109–248, § 141(d), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994); and”.
+
+Subsec. (b)(21). Pub. L. 109–248, § 210(a)(1), which directed amendment of par. (21) by striking “or”, was executed by striking “or” at the end of the par. to reflect the probable intent of Congress.
+
+Subsec. (b)(22). Pub. L. 109–248, § 210(a)(2), substituted “or;” for period at end.
+
+Subsec. (b)(23). Pub. L. 109–248, § 210(a)(3), added par. (23).
+
+2002—Subsec. (a). Pub. L. 107–273, § 4002(e)(12)(A), made technical correction to directory language of Pub. L. 105–119, § 115(a)(8)(B)(i). See 1997 Amendment note below.
+
+Subsec. (a)(3) to (5). Pub. L. 107–273, § 4002(c)(1), repealed Pub. L. 104–294, § 601(k)(1), (2). See 1996 Amendment notes below.
+
+Subsec. (e). Pub. L. 107–273, § 4002(e)(12)(B), made technical correction to directory language of Pub. L. 107–273, § 115(a)(8)(B)(ii). See 1997 Amendment note below.
+
+2000—Subsec. (a)(9). Pub. L. 106–546 added par. (9).
+
+1997—Subsec. (a). Pub. L. 105–119, § 115(a)(8)(B)(i), as amended by Pub. L. 107–273, § 4002(e)(12)(A), struck out at end “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).” and inserted these provisions at the end of this section.
+
+Subsec. (a)(6), (7). Pub. L. 105–119, § 115(a)(8)(B)(iii)(I), made technical amendment to place pars. (6) and (7) in numerical order immediately after par. (5).
+
+Subsec. (a)(8). Pub. L. 105–119, § 115(a)(8)(B)(iii)(II)– (IV), added par. (8).
+
+Subsec. (e). Pub. L. 105–119, § 115(a)(8)(B)(ii), as amended by Pub. L. 107–273, § 4002(e)(12)(B), designated provisions which were struck out from the concluding provisions of subsec. (a) and inserted at the end of this section by Pub. L. 105–119, § 115(a)(8)(B)(i), as amended, as subsec. (e), inserted subsec. heading, and substituted “subsection (a)(5)” for “paragraph (4)” in two places.
+
+1996—Subsec. (a)(3). Pub. L. 104–294, § 601(k)(2)(A), which could not be executed due to prior amendment by Pub. L. 104–132, § 203(1)(A), was repealed by Pub. L. 107–273, § 4002(c)(1). See below.
+
+Pub. L. 104–132, § 203(1)(A), struck out “and” at end of par. (3).
+
+Subsec. (a)(4), (5). Pub. L. 104–294, § 601(k)(3), transferred pars. (4) and (5) to appear in numerical order.
+
+Pub. L. 104–294, § 601(k)(1), (2)(B), which could not be executed due to prior amendment by Pub. L. 104–132, § 203(1)(B)–(D), was repealed by Pub. L. 107–273, § 4002(c)(1). See below.
+
+Pub. L. 104–132, § 203(1)(B)–(D), redesignated second par. (4), relating to conditions of probation concerning drug use and testing, as (5), and substituted semicolon for period at end of pars. (4) and (5).
+
+Subsec. (a)(6), (7). Pub. L. 104–132, § 203(1)(E), added pars. (6) and (7).
+
+Subsec. (b)(2). Pub. L. 104–132, § 203(2)(C), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “make restitution to a victim of the offense under sections 3663 and 3664 (but not subject to the limitations of section 3663(a));”.
+
+Pub. L. 104–132, § 203(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “pay a fine imposed pursuant to the provisions of subchapter C;”.
+
+Subsec. (b)(3) to (20). Pub. L. 104–132, § 203(2)(B), redesignated pars. (4) to (21) as (3) to (20), respectively. Former par. (3) redesignated (2).
+
+Subsec. (b)(21). Pub. L. 104–208, § 374(b), added par. (21). Former par. (21) redesignated (22).
+
+Pub. L. 104–208, § 308(g)(10)(E), substituted “238(d)(5)” for “242A(d)(5)”.
+
+Pub. L. 104–132, § 203(2)(B), redesignated par. (22) as (21). Former par. (21) redesignated (20).
+
+Subsec. (b)(22). Pub. L. 104–208, § 374(b), redesignated par. (21) as (22).
+
+Pub. L. 104–132, § 203(b)(2), redesignated par. (22) as (21).
+
+1994—Subsec. (a). Pub. L. 103–322, § 20414(b)(4), inserted at end of concluding provisions “The results of a drug test administered in accordance with paragraph (4) shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A defendant who tests positive may be detained pending verification of a positive drug test result. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3565(b), when considering any action against a defendant who fails a drug test administered in accordance with paragraph (4).”
+
+Subsec. (a)(2). Pub. L. 103–322, §§ 20414(b)(1), 320921(b)(1), amended par. (2) identically, striking out “and” at end.
+
+Subsec. (a)(3). Pub. L. 103–322, § 280002, substituted “unlawfully possess a controlled substance” for “possess illegal controlled substances”.
+
+Pub. L. 103–322, §§ 20414(b)(2), 320921(b)(2), amended par. (3) identically, substituting “; and” for period at end.
+
+Subsec. (a)(4). Pub. L. 103–322, § 320921(b)(3), added par. (4) relating to attendance at a rehabilitation program in the case of conviction of a domestic violence crime.
+
+Pub. L. 103–322, § 20414(b)(3), added at end of subsec. (a) par. (4) relating to conditions of probation concerning drug use and testing.
+
+1992—Subsec. (b)(21), (22). Pub. L. 102–521 added par. (21) and redesignated former par. (21) as (22).
+
+1990—Subsec. (a). Pub. L. 101–647, § 3584(1), substituted “defendant” for “defendent” in last sentence.
+
+Subsec. (b)(3). Pub. L. 101–647, § 3584(2), substituted “under sections 3663 and 3664” for “pursuant to the provisions of section 3663 and 3664” and “section 3663(a)” for “3663(a)”.
+
+1988—Subsec. (a)(2). Pub. L. 100–690, § 7086, inserted “, unless the court finds on the record that extraordinary circumstances exist that would make such a condition plainly unreasonable, in which event the court shall impose one or more of the other conditions set forth under subsection (b)”.
+
+Subsec. (a)(3). Pub. L. 100–690, § 7303(a)(1), added par. (3).
+
+Subsec. (b)(3). Pub. L. 100–690, § 7110, substituted “3663 and 3664 (but not subject to the limitations of 3663(a))” for “3556”.
+
+Subsec. (b)(20), (21). Pub. L. 100–690, § 7305(a), added par. (20) and redesignated former par. (20) as (21).
+
+1987—Subsec. (b)(12). Pub. L. 100–182, § 18, inserted “(including a facility maintained or under contract to the Bureau of Prisons)” after “facility”.
+
+Subsec. (c). Pub. L. 100–182, § 10, struck out comma after “The court may” and substituted “the modification of probation and” for “revocation or modification of probation”.
+
+1986—Subsec. (b)(11). Pub. L. 99–646, § 11(a), struck out “in section 3581(b)” after “the offense”.
+
+Subsec. (c). Pub. L. 99–646, § 12(a), struck out “, after a hearing” after “court may” and inserted “the provisions of the Federal Rules of Criminal Procedure relating to revocation or modification of probation” after “pursuant to”.
+
+#### Effective Date of 2002 Amendment
+Pub. L. 107–273, div. B, title IV, § 4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+
+Pub. L. 107–273, div. B, title IV, § 4002(e)(12), Nov. 2, 2002, 116 Stat. 1811, provided that the amendment made by section 4002(e)(12) is effective Nov. 26, 1997.
+
+#### Effective Date of 1997 Amendment
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
+
+#### Effective Date of 1996 Amendments
+Amendment by section 308(g)(10)(E) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim), Aliens and Nationality.
+
+Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under [section 2248 of this title](./chapter-109a-sexual-abuse.md#section-2248).
+
+#### Effective Date of 1988 Amendment
+Pub. L. 100–690, title VII, § 7303(d), Nov. 18, 1988, 102 Stat. 4464, provided that: “The amendments made by this section [amending this section and sections 3565, 3583, 4209, and 4214 of this title] shall apply with respect to persons whose probation, supervised release, or parole begins after December 31, 1988.”
+
+#### Effective Date of 1987 Amendment
+Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under [section 3006A of this title](./chapter-201-general-provisions.md#section-3006a).
+
+#### Effective Date of 1986 Amendment
+Pub. L. 99–646, § 11(b), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the taking effect of such section 3563(b)(11) [Nov. 1, 1987].”
+
+Pub. L. 99–646, § 12(c)(1), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the taking effect of such section 3563(c) [Nov. 1, 1987].”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3564"></a>
+## § 3564. Running of a term of probation
+**(a) Commencement.—** A term of probation commences on the day that the sentence of probation is imposed, unless otherwise ordered by the court.
+
+**(b) Concurrence With Other Sentences.—** Multiple terms of probation, whether imposed at the same time or at different times, run concurrently with each other. A term of probation runs concurrently with any Federal, State, or local term of probation, supervised release, or parole for another offense to which the defendant is subject or becomes subject during the term of probation. A term of probation does not run while the defendant is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than thirty consecutive days.
+
+**(c) Early Termination.—** The court, after considering the factors set forth in section 3553(a) to the extent that they are applicable, may, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation, terminate a term of probation previously ordered and discharge the defendant at any time in the case of a misdemeanor or an infraction or at any time after the expiration of one year of probation in the case of a felony, if it is satisfied that such action is warranted by the conduct of the defendant and the interest of justice.
+
+**(d) Extension.—** The court may, after a hearing, extend a term of probation, if less than the maximum authorized term was previously imposed, at any time prior to the expiration or termination of the term of probation, pursuant to the provisions applicable to the initial setting of the term of probation.
+
+**(e) Subject to Revocation.—** A sentence of probation remains conditional and subject to revocation until its expiration or termination.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to this title.
+
+#### Prior Provisions
+For a prior section 3564, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+1987—Subsec. (c). Pub. L. 100–182 inserted “, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation,” after “may”.
+
+1986—Subsec. (b). Pub. L. 99–646 substituted provision that the term of probation does not run while the defendant is imprisoned in connection with a conviction for a Federal, State, or local crime unless the imprisonment is for a period of less than thirty consecutive days, for provision that the term of probation does not run during any period in which the defendant is imprisoned for a period of at least thirty consecutive days in connection with a conviction for a Federal, State, or local crime.
+
+#### Effective Date of 1987 Amendment
+Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under [section 3006A of this title](./chapter-201-general-provisions.md#section-3006a).
+
+#### Effective Date of 1986 Amendment
+Pub. L. 99–646, § 13(b), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of such section 3564 [Nov. 1, 1987].”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3565"></a>
+## § 3565. Revocation of probation
+**(a) Continuation or Revocation.—** If the defendant violates a condition of probation at any time prior to the expiration or termination of the term of probation, the court may, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, and after considering the factors set forth in section 3553(a) to the extent that they are applicable—
+
+(1) continue him on probation, with or without extending the term or modifying or enlarging the conditions; or
+
+(2) revoke the sentence of probation and resentence the defendant under subchapter A.
+
+**(b) Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusal To Comply With Drug Testing.—** If the defendant—
+
+(1) possesses a controlled substance in violation of the condition set forth in section 3563(a)(3);
+
+(2) possesses a firearm, as such term is defined in [section 921 of this title](./chapter-044-firearms.md#section-921), in violation of Federal law, or otherwise violates a condition of probation prohibiting the defendant from possessing a firearm;
+
+(3) refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4); 11 See References in Text note below. or
+
+(4) as a part of drug testing, tests positive for illegal controlled substances more than 3 times over the course of 1 year;
+the court shall revoke the sentence of probation and resentence the defendant under subchapter A to a sentence that includes a term of imprisonment.
+
+**(c) Delayed Revocation.—** The power of the court to revoke a sentence of probation for violation of a condition of probation, and to impose another sentence, extends beyond the expiration of the term of probation for any period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to this title.
+
+Section 3563(a)(4), referred to in subsec. (b)(3), probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, § 203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
+
+#### Prior Provisions
+For a prior section 3565, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+2002—Subsec. (b)(4). Pub. L. 107–273 added par. (4).
+
+1994—Subsec. (a). Pub. L. 103–322, § 110506(a)(2), struck out concluding sentence which read as follows: “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
+
+Subsec. (a)(2). Pub. L. 103–322, § 110506(a)(1), substituted “resentence the defendant under subchapter A” for “impose any other sentence that was available under subchapter A at the time of the initial sentencing”.
+
+Subsec. (b). Pub. L. 103–322, § 110506(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
+
+“(b) Mandatory Revocation for Possession of a Firearm.—If the defendant is in actual possession of a firearm, as that term is defined in [section 921 of this title](./chapter-044-firearms.md#section-921), at any time prior to the expiration or termination of the term of probation, the court shall, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, revoke the sentence of probation and impose any other sentence that was available under subchapter A at the time of the initial sentencing.”
+
+1990—Subsec. (a)(1). Pub. L. 101–647 substituted “or modifying” for “of modifying”.
+
+1988—Subsec. (a). Pub. L. 100–690, § 7303(a)(2), inserted at end “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
+
+Subsecs. (b), (c). Pub. L. 100–690, § 6214, added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### Effective Date of 1988 Amendment
+Amendment by section 7303(a)(2) of Pub. L. 100–690 applicable with respect to persons whose probation, supervised release, or parole begins after Dec. 31, 1988, see section 7303(d) of Pub. L. 100–690, set out as a note under [section 3563 of this title](./chapter-227-sentences.md#section-3563).
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3566"></a>
+## § 3566. Implementation of a sentence of probation
+
+The implementation of a sentence of probation is governed by the provisions of subchapter A of chapter 229.
+
+### Statutory Notes
+
+#### Prior Provisions
+For prior sections 3566 to 3570, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3571"></a>
+## § 3571. Sentence of fine
+**(a) In General.—** A defendant who has been found guilty of an offense may be sentenced to pay a fine.
+
+**(b) Fines for Individuals.—** Except as provided in subsection (e) of this section, an individual who has been found guilty of an offense may be fined not more than the greatest of—
+
+(1) the amount specified in the law setting forth the offense;
+
+(2) the applicable amount under subsection (d) of this section;
+
+(3) for a felony, not more than $250,000;
+
+(4) for a misdemeanor resulting in death, not more than $250,000;
+
+(5) for a Class A misdemeanor that does not result in death, not more than $100,000;
+
+(6) for a Class B or C misdemeanor that does not result in death, not more than $5,000; or
+
+(7) for an infraction, not more than $5,000.
+
+**(c) Fines for Organizations.—** Except as provided in subsection (e) of this section, an organization that has been found guilty of an offense may be fined not more than the greatest of—
+
+(1) the amount specified in the law setting forth the offense;
+
+(2) the applicable amount under subsection (d) of this section;
+
+(3) for a felony, not more than $500,000;
+
+(4) for a misdemeanor resulting in death, not more than $500,000;
+
+(5) for a Class A misdemeanor that does not result in death, not more than $200,000;
+
+(6) for a Class B or C misdemeanor that does not result in death, not more than $10,000; and
+
+(7) for an infraction, not more than $10,000.
+
+**(d) Alternative Fine Based on Gain or Loss.—** If any person derives pecuniary gain from the offense, or if the offense results in pecuniary loss to a person other than the defendant, the defendant may be fined not more than the greater of twice the gross gain or twice the gross loss, unless imposition of a fine under this subsection would unduly complicate or prolong the sentencing process.
+
+**(e) Special Rule for Lower Fine Specified in Substantive Provision.—** If a law setting forth an offense specifies no fine or a fine that is lower than the fine otherwise applicable under this section and such law, by specific reference, exempts the offense from the applicability of the fine otherwise applicable under this section, the defendant may not be fined more than the amount specified in the law setting forth the offense.
+
+### Statutory Notes
+
+#### Prior Provisions
+For a prior section 3571, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+1987—Pub. L. 100–185 amended section generally, revising and restating as subsecs. (a) to (e) provisions formerly contained in subsecs. (a) and (b).
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3572"></a>
+## § 3572. Imposition of a sentence of fine and related matters
+**(a) Factors To Be Considered.—** In determining whether to impose a fine, and the amount, time for payment, and method of payment of a fine, the court shall consider, in addition to the factors set forth in section 3553(a)—
+
+(1) the defendant’s income, earning capacity, and financial resources;
+
+(2) the burden that the fine will impose upon the defendant, any person who is financially dependent on the defendant, or any other person (including a government) that would be responsible for the welfare of any person financially dependent on the defendant, relative to the burden that alternative punishments would impose;
+
+(3) any pecuniary loss inflicted upon others as a result of the offense;
+
+(4) whether restitution is ordered or made and the amount of such restitution;
+
+(5) the need to deprive the defendant of illegally obtained gains from the offense;
+
+(6) the expected costs to the government of any imprisonment, supervised release, or probation component of the sentence;
+
+(7) whether the defendant can pass on to consumers or other persons the expense of the fine; and
+
+(8) if the defendant is an organization, the size of the organization and any measure taken by the organization to discipline any officer, director, employee, or agent of the organization responsible for the offense and to prevent a recurrence of such an offense.
+
+**(b) Fine Not to Impair Ability to Make Restitution.—** If, as a result of a conviction, the defendant has the obligation to make restitution to a victim of the offense, other than the United States, the court shall impose a fine or other monetary penalty only to the extent that such fine or penalty will not impair the ability of the defendant to make restitution.
+
+**(c) Effect of Finality of Judgment.—** Notwithstanding the fact that a sentence to pay a fine can subsequently be—
+
+(1) modified or remitted under section 3573;
+
+(2) corrected under rule 35 of the Federal Rules of Criminal Procedure and section 3742; or
+
+(3) appealed and modified under section 3742;
+a judgment that includes such a sentence is a final judgment for all other purposes.
+
+**(d) Time, Method of Payment, and Related Items.—**
+
+(1) A person sentenced to pay a fine or other monetary penalty, including restitution, shall make such payment immediately, unless, in the interest of justice, the court provides for payment on a date certain or in installments. If the court provides for payment in installments, the installments shall be in equal monthly payments over the period provided by the court, unless the court establishes another schedule.
+
+(2) If the judgment, or, in the case of a restitution order, the order, permits other than immediate payment, the length of time over which scheduled payments will be made shall be set by the court, but shall be the shortest time in which full payment can reasonably be made.
+
+(3) A judgment for a fine which permits payments in installments shall include a requirement that the defendant will notify the court of any material change in the defendant’s economic circumstances that might affect the defendant’s ability to pay the fine. Upon receipt of such notice the court may, on its own motion or the motion of any party, adjust the payment schedule, or require immediate payment in full, as the interests of justice require.
+
+**(e) Alternative Sentence Precluded.—** At the time a defendant is sentenced to pay a fine, the court may not impose an alternative sentence to be carried out if the fine is not paid.
+
+**(f) Responsibility for Payment of Monetary Obligation Relating to Organization.—** If a sentence includes a fine, special assessment, restitution or other monetary obligation (including interest) with respect to an organization, each individual authorized to make disbursements for the organization has a duty to pay the obligation from assets of the organization. If such an obligation is imposed on a director, officer, shareholder, employee, or agent of an organization, payments may not be made, directly or indirectly, from assets of the organization, unless the court finds that such payment is expressly permissible under applicable State law.
+
+**(g) Security for Stayed Fine.—** If a sentence imposing a fine is stayed, the court shall, absent exceptional circumstances (as determined by the court)—
+
+(1) require the defendant to deposit, in the registry of the district court, any amount of the fine that is due;
+
+(2) require the defendant to provide a bond or other security to ensure payment of the fine; or
+
+(3) restrain the defendant from transferring or dissipating assets.
+
+**(h) Delinquency.—** A fine or payment of restitution is delinquent if a payment is more than 30 days late.
+
+**(i) Default.—** A fine or payment of restitution is in default if a payment is delinquent for more than 90 days. Notwithstanding any installment schedule, when a fine or payment of restitution is in default, the entire amount of the fine or restitution is due within 30 days after notification of the default, subject to the provisions of section 3613A.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (c)(2), are set out in the Appendix to this title.
+
+#### Prior Provisions
+For a prior section 3572, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+1996—Subsec. (b). Pub. L. 104–132, § 207(b)(1), inserted “other than the United States,” after “offense,”.
+
+Subsec. (d). Pub. L. 104–132, § 207(b)(2)(A), (B), substituted “(1) A person sentenced to pay a fine or other monetary penalty, including restitution,” for “A person sentenced to pay a fine or other monetary penalty” and struck out at end “If the judgment permits other than immediate payment, the period provided for shall not exceed five years, excluding any period served by the defendant as imprisonment for the offense.”
+
+Subsec. (d)(2), (3). Pub. L. 104–132, § 207(b)(2)(C), added pars. (2) and (3).
+
+Subsec. (f). Pub. L. 104–132, § 207(b)(3), inserted “restitution” after “special assessment,”.
+
+Subsec. (h). Pub. L. 104–132, § 207(b)(4), inserted “or payment of restitution” after “A fine”.
+
+Subsec. (i). Pub. L. 104–132, § 207(b)(5), inserted “or payment of restitution” after “A fine” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule.”
+
+1994—Subsec. (a)(6) to (8). Pub. L. 103–322 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+
+1990—Subsec. (c)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+
+1987—Pub. L. 100–185 inserted “and related matters” in section catchline and amended text generally, revising and restating as subsecs. (a) to (i) provisions formerly contained in subsecs. (a) to (j).
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–132 to be effective, to extent constitutionally permissible, for sentencing proceedings in cases in which defendant is convicted on or after Apr. 24, 1996, see section 211 of Pub. L. 104–132, set out as a note under [section 2248 of this title](./chapter-109a-sexual-abuse.md#section-2248).
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3573"></a>
+## § 3573. Petition of the Government for modification or remission
+
+Upon petition of the Government showing that reasonable efforts to collect a fine or assessment are not likely to be effective, the court may, in the interest of justice—
+
+(1) remit all or part of the unpaid portion of the fine or special assessment, including interest and penalties;
+
+(2) defer payment of the fine or special assessment to a date certain or pursuant to an installment schedule; or
+
+(3) extend a date certain or an installment schedule previously ordered. A petition under this subsection shall be filed in the court in which sentence was originally imposed, unless the court transfers jurisdiction to another court. This section shall apply to all fines and assessments irrespective of the date of imposition.
+
+### Statutory Notes
+
+#### Prior Provisions
+For a prior section 3573, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Amendments
+1988—Pub. L. 100–690 inserted at end “This section shall apply to all fines and assessments irrespective of the date of imposition.”
+
+1987—Pub. L. 100–185 substituted “Petition of the Government for modification or remission” for “Modification or remission of fine” in section catchline and amended text generally, revising and restating as a single paragraph with three numbered clauses provisions formerly contained in subsecs. (a) and (b).
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3574"></a>
+## § 3574. Implementation of a sentence of fine
+
+The implementation of a sentence to pay a fine is governed by the provisions of subchapter B of chapter 229.
+
+### Statutory Notes
+
+#### Prior Provisions
+For prior sections 3574 to 3580, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3581"></a>
+## § 3581. Sentence of imprisonment
+**(a) In General.—** A defendant who has been found guilty of an offense may be sentenced to a term of imprisonment.
+
+**(b) Authorized Terms.—** The authorized terms of imprisonment are—
+
+(1) for a Class A felony, the duration of the defendant’s life or any period of time;
+
+(2) for a Class B felony, not more than twenty-five years;
+
+(3) for a Class C felony, not more than twelve years;
+
+(4) for a Class D felony, not more than six years;
+
+(5) for a Class E felony, not more than three years;
+
+(6) for a Class A misdemeanor, not more than one year;
+
+(7) for a Class B misdemeanor, not more than six months;
+
+(8) for a Class C misdemeanor, not more than thirty days; and
+
+(9) for an infraction, not more than five days.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3582"></a>
+## § 3582. Imposition of a sentence of imprisonment
+**(a) Factors To Be Considered in Imposing a Term of Imprisonment.—** The court, in determining whether to impose a term of imprisonment, and, if a term of imprisonment is to be imposed, in determining the length of the term, shall consider the factors set forth in section 3553(a) to the extent that they are applicable, recognizing that imprisonment is not an appropriate means of promoting correction and rehabilitation. In determining whether to make a recommendation concerning the type of prison facility appropriate for the defendant, the court shall consider any pertinent policy statements issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a/2&num=0&edition=prelim).
+
+**(b) Effect of Finality of Judgment.—** Notwithstanding the fact that a sentence to imprisonment can subsequently be—
+
+(1) modified pursuant to the provisions of subsection (c);
+
+(2) corrected pursuant to the provisions of rule 35 of the Federal Rules of Criminal Procedure and section 3742; or
+
+(3) appealed and modified, if outside the guideline range, pursuant to the provisions of section 3742;
+a judgment of conviction that includes such a sentence constitutes a final judgment for all other purposes.
+
+**(c) Modification of an Imposed Term of Imprisonment.—** The court may not modify a term of imprisonment once it has been imposed except that—
+
+(1) in any case—
+
+  (A) the court, upon motion of the Director of the Bureau of Prisons, may reduce the term of imprisonment (and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment), after considering the factors set forth in section 3553(a) to the extent that they are applicable, if it finds that—
+
+    (i) extraordinary and compelling reasons warrant such a reduction; or
+
+    (ii) the defendant is at least 70 years of age, has served at least 30 years in prison, pursuant to a sentence imposed under section 3559(c), for the offense or offenses for which the defendant is currently imprisoned, and a determination has been made by the Director of the Bureau of Prisons that the defendant is not a danger to the safety of any other person or the community, as provided under section 3142(g);
+    and that such a reduction is consistent with applicable policy statements issued by the Sentencing Commission; and
+
+  (B) the court may modify an imposed term of imprisonment to the extent otherwise expressly permitted by statute or by Rule 35 of the Federal Rules of Criminal Procedure; and
+
+(2) in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission pursuant to [28 U.S.C. 994](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim)(o), upon motion of the defendant or the Director of the Bureau of Prisons, or on its own motion, the court may reduce the term of imprisonment, after considering the factors set forth in section 3553(a) to the extent that they are applicable, if such a reduction is consistent with applicable policy statements issued by the Sentencing Commission.
+
+**(d) Inclusion of an Order To Limit Criminal Association of Organized Crime and Drug Offenders.—** The court, in imposing a sentence to a term of imprisonment upon a defendant convicted of a felony set forth in chapter 95 (racketeering) or 96 (racketeer influenced and corrupt organizations) of this title or in the Comprehensive Drug Abuse Prevention and Control Act of 1970 ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), or at any time thereafter upon motion by the Director of the Bureau of Prisons or a United States attorney, may include as a part of the sentence an order that requires that the defendant not associate or communicate with a specified person, other than his attorney, upon a showing of probable cause to believe that association or communication with such person is for the purpose of enabling the defendant to control, manage, direct, finance, or otherwise participate in an illegal enterprise.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Criminal Procedure, referred to in subsec. (b)(2), are set out in the Appendix to this title.
+
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (d), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2002—Subsec. (c)(1)(A). Pub. L. 107–273 inserted “(and may impose a term of probation or supervised release with or without conditions that does not exceed the unserved portion of the original term of imprisonment)” after “may reduce the term of imprisonment” in introductory provisions.
+
+1996—Subsec. (c)(1)(A)(i). Pub. L. 104–294 inserted “or” after semicolon at end.
+
+1994—Subsec. (c)(1)(A). Pub. L. 103–322, inserted a dash after “if it finds that”, designated “extraordinary and compelling reasons warrant such a reduction” as cl. (i), inserted a semicolon at end of cl. (i), realigned margins accordingly, and added cl. (ii) before concluding provisions.
+
+1990—Subsec. (b)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+
+1988—Subsec. (c)(2). Pub. L. 100–690 substituted “994(o)” for “994(n)”.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under [section 13 of this title](./chapter-001-general-provisions.md#section-13).
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3583"></a>
+## § 3583. Inclusion of a term of supervised release after imprisonment
+**(a) In General.—** The court, in imposing a sentence to a term of imprisonment for a felony or a misdemeanor, may include as a part of the sentence a requirement that the defendant be placed on a term of supervised release after imprisonment, except that the court shall include as a part of the sentence a requirement that the defendant be placed on a term of supervised release if such a term is required by statute or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b).
+
+**(b) Authorized Terms of Supervised Release.—** Except as otherwise provided, the authorized terms of supervised release are—
+
+(1) for a Class A or Class B felony, not more than five years;
+
+(2) for a Class C or Class D felony, not more than three years; and
+
+(3) for a Class E felony, or for a misdemeanor (other than a petty offense), not more than one year.
+
+**(c) Factors To Be Considered in Including a Term of Supervised Release.—** The court, in determining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7).
+
+**(d) Conditions of Supervised Release.—** The court shall order, as an explicit condition of supervised release, that the defendant not commit another Federal, State, or local crime during the term of supervision and that the defendant not unlawfully possess a controlled substance. The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant. The court shall order, as an explicit condition of supervised release for a person required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act. The court shall order, as an explicit condition of supervised release, that the defendant cooperate in the collection of a DNA sample from the defendant, if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000. The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4).11 See References in Text note below. The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test. The court may order, as a further condition of supervised release, to the extent that such condition—
+
+(1) is reasonably related to the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), and (a)(2)(D);
+
+(2) involves no greater deprivation of liberty than is reasonably necessary for the purposes set forth in section 3553(a)(2)(B), (a)(2)(C), and (a)(2)(D); and
+
+(3) is consistent with any pertinent policy statements issued by the Sentencing Commission pursuant to [28 U.S.C. 994(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a&num=0&edition=prelim);
+any condition set forth as a discretionary condition of probation in section 3563(b) and any other condition it considers to be appropriate, provided, however that a condition set forth in subsection 3563(b)(10) shall be imposed only for a violation of a condition of supervised release in accordance with section 3583(e)(2) and only when facilities are available. If an alien defendant is subject to deportation, the court may provide, as a condition of supervised release, that he be deported and remain outside the United States, and may order that he be delivered to a duly authorized immigration official for such deportation. The court may order, as an explicit condition of supervised release for a person who is a felon and required to register under the Sex Offender Registration and Notification Act, that the person submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communications or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of supervised release or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer’s supervision functions.
+
+**(e) Modification of Conditions or Revocation.—** The court may, after considering the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7)—
+
+(1) terminate a term of supervised release and discharge the defendant released at any time after the expiration of one year of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation, if it is satisfied that such action is warranted by the conduct of the defendant released and the interest of justice;
+
+(2) extend a term of supervised release if less than the maximum authorized term was previously imposed, and may modify, reduce, or enlarge the conditions of supervised release, at any time prior to the expiration or termination of the term of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the terms and conditions of post-release supervision;
+
+(3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on post­release supervision, if the court, pursuant to the Federal Rules of Criminal Procedure applicable to revocation of probation or supervised release, finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve on any such revocation more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case; or
+
+(4) order the defendant to remain at his place of residence during nonworking hours and, if the court so directs, to have compliance monitored by telephone or electronic signaling devices, except that an order under this paragraph may be imposed only as an alternative to incarceration.
+
+**(f) Written Statement of Conditions.—** The court shall direct that the probation officer provide the defendant with a written statement that sets forth all the conditions to which the term of supervised release is subject, and that is sufficiently clear and specific to serve as a guide for the defendant’s conduct and for such supervision as is required.
+
+**(g) Mandatory Revocation for Possession of Controlled Substance or Firearm or for Refusal To Comply With Drug Testing.—** If the defendant—
+
+(1) possesses a controlled substance in violation of the condition set forth in subsection (d);
+
+(2) possesses a firearm, as such term is defined in [section 921 of this title](./chapter-044-firearms.md#section-921), in violation of Federal law, or otherwise violates a condition of supervised release prohibiting the defendant from possessing a firearm;
+
+(3) refuses to comply with drug testing imposed as a condition of supervised release; or
+
+(4) as a part of drug testing, tests positive for illegal controlled substances more than 3 times over the course of 1 year;
+the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment not to exceed the maximum term of imprisonment authorized under subsection (e)(3).
+
+**(h) Supervised Release Following Revocation.—** When a term of supervised release is revoked and the defendant is required to serve a term of imprisonment, the court may include a requirement that the defendant be placed on a term of supervised release after imprisonment. The length of such a term of supervised release shall not exceed the term of supervised release authorized by statute for the offense that resulted in the original term of supervised release, less any term of imprisonment that was imposed upon revocation of supervised release.
+
+**(i) Delayed Revocation.—** The power of the court to revoke a term of supervised release for violation of a condition of supervised release, and to order the defendant to serve a term of imprisonment and, subject to the limitations in subsection (h), a further term of supervised release, extends beyond the expiration of the term of supervised release for any period reasonably necessary for the adjudication of matters arising before its expiration if, before its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
+
+**(j) Supervised Release Terms for Terrorism Predicates.—** Notwithstanding subsection (b), the authorized term of supervised release for any offense listed in section 2332b(g)(5)(B) is any term of years or life.
+
+**(k)** Notwithstanding subsection (b), the authorized term of supervised release for any offense under section 1201 involving a minor victim, and for any offense under section 1591, 2241, 2242, 2243, 2244, 2245, 2250, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, 2423, or 2425, is any term of years not less than 5, or life. If a defendant required to register under the Sex Offender Registration and Notification Act commits any criminal offense under chapter 109A, 110, or 117, or section 1201 or 1591, for which imprisonment for a term longer than 1 year can be imposed, the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment under subsection (e)(3) without regard to the exception contained therein. Such term shall be not less than 5 years.
+
+### Statutory Notes
+
+#### References in Text
+The Sex Offender Registration and Notification Act, referred to in subsecs. (d) and (k), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 16901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) and Tables.
+
+Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (d), is classified to [section 14135a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135a&num=0&edition=prelim), The Public Health and Welfare.
+
+Section 3563(a)(4), referred to in subsec. (d), probably means the par. (4) of section 3563(a) added by section 20414(b)(3) of Pub. L. 103–322, which was renumbered par. (5) by Pub. L. 104–132, title II, § 203(1)(C), Apr. 24, 1996, 110 Stat. 1227.
+
+The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), (2), (3), are set out in the Appendix to this title.
+
+#### Amendments
+2008—Subsec. (d). Pub. L. 110–406 substituted “section 3563(b) and any other condition it considers to be appropriate, provided, however that a condition set forth in subsection 3563(b)(10) shall be imposed only for a violation of a condition of supervised release in accordance with section 3583(e)(2) and only when facilities are available.” for “section 3563(b)(1) through (b)(10) and (b)(12) through (b)(20), and any other condition it considers to be appropriate.” in concluding provisions.
+
+2006—Subsec. (d). Pub. L. 109–248, §§ 141(e)(1), 210(b), substituted “required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act.” for “described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994).” in third sentence of introductory provisions and inserted “The court may order, as an explicit condition of supervised release for a person who is a felon and required to register under the Sex Offender Registration and Notification Act, that the person submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communications or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of supervised release or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer’s supervision functions.” at end of concluding provisions.
+
+Subsec. (j). Pub. L. 109–177 struck out “, the commission of which resulted in, or created a foreseeable risk of, death or serious bodily injury to another person,” before “is any term of years or life.”
+
+Subsec. (k). Pub. L. 109–248, § 141(e)(2), substituted “2243, 2244, 2245, 2250” for “2244(a)(1), 2244(a)(2)”, inserted “not less than 5,” after “any term of years”, and inserted “If a defendant required to register under the Sex Offender Registration and Notification Act commits any criminal offense under chapter 109A, 110, or 117, or section 1201 or 1591, for which imprisonment for a term longer than 1 year can be imposed, the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment under subsection (e)(3) without regard to the exception contained therein. Such term shall be not less than 5 years.” at end.
+
+2003—Subsec. (e)(3). Pub. L. 108–21, § 101(1), inserted “on any such revocation” after “required to serve”.
+
+Subsec. (h). Pub. L. 108–21, § 101(2), struck out “that is less than the maximum term of imprisonment authorized under subsection (e)(3)” after “required to serve a term of imprisonment”.
+
+Subsec. (k). Pub. L. 108–21, § 101(3), added subsec. (k).
+
+2002—Subsecs. (c), (e). Pub. L. 107–273, § 3007, substituted “(a)(6), and (a)(7)” for “and (a)(6)”.
+
+Subsec. (g)(4). Pub. L. 107–273, § 2103(b), added par. (4).
+
+2001—Subsec. (j). Pub. L. 107–56 added subsec. (j).
+
+2000—Subsec. (d). Pub. L. 106–546 inserted “The court shall order, as an explicit condition of supervised release, that the defendant cooperate in the collection of a DNA sample from the defendant, if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000.” before “The court shall also order,”.
+
+1997—Subsec. (d). Pub. L. 105–119 inserted after second sentence “The court shall order, as an explicit condition of supervised release for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994).”
+
+1994—Subsec. (a). Pub. L. 103–322, § 320921(c)(1), inserted before period at end “or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b)”.
+
+Subsec. (d). Pub. L. 103–322, § 320921(c)(2), inserted after first sentence “The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant.”
+
+Pub. L. 103–322, § 20414(c), inserted after first sentence “The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4). The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual’s current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test.”
+
+Pub. L. 103–322, § 110505(1), substituted “unlawfully possess a controlled substance” for “possess illegal controlled substances” in first sentence.
+
+Subsec. (e)(1). Pub. L. 103–322, § 110505(2)(A), substituted “defendant” for “person” in two places.
+
+Subsec. (e)(3). Pub. L. 103–322, § 110505(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “revoke a term of supervised release, and require the person to serve in prison all or part of the term of supervised release without credit for time previously served on postrelease supervision, if it finds by a preponderance of the evidence that the person violated a condition of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure that are applicable to probation revocation and to the provisions of applicable policy statements issued by the Sentencing Commission, except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the offense was a Class C or D felony; or”.
+
+Subsec. (e)(4). Pub. L. 103–322, § 110505(2)(A), substituted “defendant” for “person”.
+
+Subsecs. (g) to (i). Pub. L. 103–322, § 110505(3), added subsecs. (g) to (i) and struck out former subsec. (g) which read as follows:
+
+“(g) Possession of Controlled Substances.—If the defendant is found by the court to be in the possession of a controlled substance, the court shall terminate the term of supervised release and require the defendant to serve in prison not less than one-third of the term of supervised release.”
+
+1990—Subsec. (d)(2). Pub. L. 101–647, § 3589(1), inserted a comma after “3553(a)(2)(B)”.
+
+Subsec. (e)(2) to (5). Pub. L. 101–647, § 3589(2)(A)–(C), struck out “or” at end of par. (2), substituted “; or” for period at end of par. (3), and redesignated par. (5) as (4).
+
+1988—Subsec. (d). Pub. L. 100–690, § 7303(b)(1), inserted “and that the defendant not possess illegal controlled substances” before period at end of first sentence.
+
+Pub. L. 100–690, § 7305(b)(1), substituted “(b)(20)” for “(b)(19)” in concluding provisions.
+
+Subsec. (d)(1). Pub. L. 100–690, § 7108(a)(1), inserted “(a)(2)(C),” after “(a)(2)(B),”.
+
+Subsec. (d)(2). Pub. L. 100–690, § 7108(a)(2), which directed that “(a)(2)(C),” be inserted after “(a)(2)(B),”, was executed by inserting “(a)(2)(C),” after “(a)(2)(B)” as the probable intent of Congress, because no comma appeared after “(a)(2)(B)”.
+
+Subsec. (e). Pub. L. 100–690, § 7108(b)(1), inserted “(a)(2)(C),” after “(a)(2)(B),” in introductory provisions.
+
+Subsec. (e)(2). Pub. L. 100–690, § 7108(b)(2), inserted “or” after “supervision;”.
+
+Subsec. (e)(3). Pub. L. 100–690, § 7305(b)(2)(A), which directed amendment of par. (3) by striking “or” at the end could not be executed because of the intervening amendment by Pub. L. 100–690, § 7108(b)(3), (4). See below.
+
+Pub. L. 100–690, § 7108(b)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “treat a violation of a condition of a term of supervised release as contempt of court pursuant to [section 401(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section401/3&num=0&edition=prelim); or”.
+
+Subsec. (e)(4). Pub. L. 100–690, § 7305(b)(2)(B), which directed amendment of par. (4) by striking the period at the end and inserting “; or” could not be executed because subsec. (e) did not contain a par. (4) after the intervening amendment by Pub. L. 100–690, § 7108(b)(4). See below.
+
+Pub. L. 100–690, § 7108(b)(4), redesignated par. (4) as (3).
+
+Subsec. (e)(5). Pub. L. 100–690, § 7305(b)(2)(C), added par. (5).
+
+Subsec. (g). Pub. L. 100–690, § 7303(b)(2), added subsec. (g).
+
+1987—Subsec. (b)(1). Pub. L. 100–182, § 8(1), substituted “five years” for “three years”.
+
+Subsec. (b)(2). Pub. L. 100–182, § 8(2), substituted “three years” for “two years”.
+
+Subsec. (b)(3). Pub. L. 100–182, § 8(3), inserted “(other than a petty offense)” after “misdemeanor”.
+
+Subsec. (c). Pub. L. 100–182, § 9, inserted “(a)(2)(C),”.
+
+Subsec. (e)(1). Pub. L. 100–182, § 12(1), inserted “pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation,”.
+
+Subsec. (e)(2). Pub. L. 100–182, § 12(2), struck out “after a hearing,” before “extend a term” and inserted “the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and” after “pursuant to”.
+
+Subsec. (e)(4). Pub. L. 100–182, § 25, inserted “, except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the offense was a Class C or D felony” before “Commission” at end.
+
+1986—Subsec. (a). Pub. L. 99–570, § 1006(a)(1), inserted “, except that the court shall include as a part of the sentence a requirement that the defendant be placed on a term of supervised release if such a term is required by statute”.
+
+Subsec. (b). Pub. L. 99–570, § 1006(a)(2), substituted “Except as otherwise provided, the” for “The”.
+
+Subsec. (e). Pub. L. 99–570, § 1006(a)(3)(A), and Pub. L. 99–646, § 14(a)(1), amended section catchline identically, substituting “conditions or revocation” for “term or conditions”.
+
+Subsec. (e)(1). Pub. L. 99–646, § 14(a)(2), struck out “previously ordered” before “and discharge”.
+
+Subsec. (e)(4). Pub. L. 99–570, § 224(a)(3)(B)–(D), added par. (4).
+
+#### Effective Date of 1997 Amendment
+Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section 115(c)(1) of Pub. L. 105–119, set out as a note under [section 3521 of this title](./chapter-224-protection-of-witnesses.md#section-3521).
+
+#### Effective Date of 1988 Amendment
+Amendment by section 7303(b) of Pub. L. 100–690 applicable with respect to persons whose probation, supervised release, or parole begins after Dec. 31, 1988, see section 7303(d) of Pub. L. 100–690, set out as a note under [section 3563 of this title](./chapter-227-sentences.md#section-3563).
+
+#### Effective Date of 1987 Amendment
+Amendment by Pub. L. 100–182 applicable with respect to offenses committed after Dec. 7, 1987, see section 26 of Pub. L. 100–182, set out as a note under [section 3006A of this title](./chapter-201-general-provisions.md#section-3006a).
+
+#### Effective Date of 1986 Amendments
+Pub. L. 99–646, § 14(b), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the taking effect of [section 3583 of title 18](./chapter-227-sentences.md#section-3583), United States Code [Nov. 1, 1987].”
+
+Pub. L. 99–570, title I, § 1006(a)(4), Oct. 27, 1986, 100 Stat. 3207–7, provided that: “The amendments made by this subsection [amending this section] shall take effect on the date of the taking effect of [section 3583 of title 18](./chapter-227-sentences.md#section-3583), United States Code [Nov. 1, 1987].”
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3584"></a>
+## § 3584. Multiple sentences of imprisonment
+**(a) Imposition of Concurrent or Consecutive Terms.—** If multiple terms of imprisonment are imposed on a defendant at the same time, or if a term of imprisonment is imposed on a defendant who is already subject to an undischarged term of imprisonment, the terms may run concurrently or consecutively, except that the terms may not run consecutively for an attempt and for another offense that was the sole objective of the attempt. Multiple terms of imprisonment imposed at the same time run concurrently unless the court orders or the statute mandates that the terms are to run consecutively. Multiple terms of imprisonment imposed at different times run consecutively unless the court orders that the terms are to run concurrently.
+
+**(b) Factors To Be Considered in Imposing Concurrent or Consecutive Terms.—** The court, in determining whether the terms imposed are to be ordered to run concurrently or consecutively, shall consider, as to each offense for which a term of imprisonment is being imposed, the factors set forth in section 3553(a).
+
+**(c) Treatment of Multiple Sentence as an Aggregate.—** Multiple terms of imprisonment ordered to run consecutively or concurrently shall be treated for administrative purposes as a single, aggregate term of imprisonment.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3585"></a>
+## § 3585. Calculation of a term of imprisonment
+**(a) Commencement of Sentence.—** A sentence to a term of imprisonment commences on the date the defendant is received in custody awaiting transportation to, or arrives voluntarily to commence service of sentence at, the official detention facility at which the sentence is to be served.
+
+**(b) Credit for Prior Custody.—** A defendant shall be given credit toward the service of a term of imprisonment for any time he has spent in official detention prior to the date the sentence commences—
+
+(1) as a result of the offense for which the sentence was imposed; or
+
+(2) as a result of any other charge for which the defendant was arrested after the commission of the offense for which the sentence was imposed;
+that has not been credited against another sentence.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
+
+
+<a id="section-3586"></a>
+## § 3586. Implementation of a sentence of imprisonment
+
+The implementation of a sentence of imprisonment is governed by the provisions of subchapter C of chapter 229 and, if the sentence includes a term of supervised release, by the provisions of subchapter A of chapter 229.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of this section, see section 235(a)(1) of Pub. L. 98–473, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).

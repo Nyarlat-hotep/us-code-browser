@@ -1,0 +1,413 @@
+---
+title: 50
+chapter: '34'
+heading: NATIONAL EMERGENCIES
+section_count: 6
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
+---
+<a id="section-1601"></a>
+## § 1601. Termination of existing declared emergencies
+**(a)** All powers and authorities possessed by the President, any other officer or employee of the Federal Government, or any executive agency, as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), as a result of the existence of any declaration of national emergency in effect on September 14, 1976, are terminated two years from September 14, 1976. Such termination shall not affect—
+
+(1) any action taken or proceeding pending not finally concluded or determined on such date;
+
+(2) any action or proceeding based on any act committed prior to such date; or
+
+(3) any rights or duties that matured or penalties that were incurred prior to such date.
+
+**(b)** For the purpose of this section, the words “any national emergency in effect” means a general declaration of emergency made by the President.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 94–412, § 1, Sept. 14, 1976, 90 Stat. 1255, provided: “That this Act [enacting this chapter, amending [section 1481 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1481&num=0&edition=prelim), Aliens and Nationality, and [section 2667 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667&num=0&edition=prelim), Armed Forces, repealing [section 249 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section249&num=0&edition=prelim), Banks and Banking, [section 831d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831d&num=0&edition=prelim), Conservation, [section 1383 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1383&num=0&edition=prelim), Crimes and Criminal Procedure, [section 211b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section211b&num=0&edition=prelim), The Public Health and Welfare, and section 1742 of the former Appendix to this title, and enacting provisions set out below] may be cited as the ‘National Emergencies Act’.”
+
+#### Savings Provision
+Pub. L. 94–412, title V, § 501(h), Sept. 14, 1976, 90 Stat. 1258, provided that: “This section [amending [section 1481 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1481&num=0&edition=prelim), Aliens and Nationality and [section 2667 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667&num=0&edition=prelim), Armed Forces, and repealing [section 249 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section249&num=0&edition=prelim), Banks and Banking, [section 831d of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831d&num=0&edition=prelim), Conservation, [section 1383 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1383&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 211b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section211b&num=0&edition=prelim), The Public Health and Welfare] shall not affect— “(1) any action taken or proceeding pending not finally concluded or determined at the time of repeal; “(2) any action or proceeding based on any act committed prior to repeal; or “(3) any rights or duties that matured or penalties that were incurred prior to repeal.”
+
+
+<a id="section-1621"></a>
+## § 1621. Declaration of national emergency by President; publication in Federal Register; effect on other laws; superseding legislation
+**(a)** With respect to Acts of Congress authorizing the exercise, during the period of a national emergency, of any special or extraordinary power, the President is authorized to declare such national emergency. Such proclamation shall immediately be transmitted to the Congress and published in the Federal Register.
+
+**(b)** Any provisions of law conferring powers and authorities to be exercised during a national emergency shall be effective and remain in effect (1) only when the President (in accordance with subsection (a) of this section), specifically declares a national emergency, and (2) only in accordance with this chapter. No law enacted after September 14, 1976, shall supersede this subchapter unless it does so in specific terms, referring to this subchapter, and declaring that the new law supersedes the provisions of this subchapter.
+
+### Statutory Notes
+
+#### Proc. No. 7463. Declaration of National Emergency by Reason of Certain Terrorist Attacks
+Proc. No. 7463, Sept. 14, 2001, 66 F.R. 48199, provided:
+
+A national emergency exists by reason of the terrorist attacks at the World Trade Center, New York, New York, and the Pentagon, and the continuing and immediate threat of further attacks on the United States.
+
+NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States of America, by virtue of the authority vested in me as President by the Constitution and the laws of the United States, I hereby declare that the national emergency has existed since September 11, 2001, and, pursuant to the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), I intend to utilize the following statutes: sections 123, 123a, 527, 2201(c), 12006, and 12302 of title 10, United States Code, and sections 331, 359, and 367 [now 2127, 2308, and 2314] of title 14, United States Code.
+
+This proclamation immediately shall be published in the Federal Register or disseminated through the Emergency Federal Register, and transmitted to the Congress.
+
+This proclamation is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of September, in the year of our Lord two thousand one, and of the Independence of the United States of America the two hundred and twenty-sixth.
+
+George W. Bush.
+
+#### Continuation of National Emergency Declared by Proc. No. 7463
+Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897, provided:
+
+Consistent with section 202(d) of the National Emergencies Act, [50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
+
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2022. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+
+This notice shall be published in the Federal Register and transmitted to the Congress.
+
+J.R. Biden, Jr.
+
+Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 9, 2021, 86 F.R. 50835.
+
+Notice of President of the United States, dated Sept. 10, 2020, 85 F.R. 56467.
+
+Notice of President of the United States, dated Sept. 12, 2019, 84 F.R. 48545.
+
+Notice of President of the United States, dated Sept. 10, 2018, 83 F.R. 46067.
+
+Notice of President of the United States, dated Sept. 11, 2017, 82 F.R. 43153.
+
+Notice of President of the United States, dated Aug. 30, 2016, 81 F.R. 60579.
+
+Notice of President of the United States, dated Sept. 10, 2015, 80 F.R. 55013.
+
+Notice of President of the United States, dated Sept. 4, 2014, 79 F.R. 53279.
+
+Notice of President of the United States, dated Sept. 10, 2013, 78 F.R. 56581.
+
+Notice of President of the United States, dated Sept. 11, 2012, 77 F.R. 56517.
+
+Notice of President of the United States, dated Sept. 9, 2011, 76 F.R. 56633.
+
+Notice of President of the United States, dated Sept. 10, 2010, 75 F.R. 55661.
+
+Notice of President of the United States, dated Sept. 10, 2009, 74 F.R. 46883.
+
+Notice of President of the United States, dated Aug. 28, 2008, 73 F.R. 51211.
+
+Notice of President of the United States, dated Sept. 12, 2007, 72 F.R. 52465.
+
+Notice of President of the United States, dated Sept. 5, 2006, 71 F.R. 52733.
+
+Notice of President of the United States, dated Sept. 8, 2005, 70 F.R. 54229.
+
+Notice of President of the United States, dated Sept. 10, 2004, 69 F.R. 55313.
+
+Notice of President of the United States, dated Sept. 10, 2003, 68 F.R. 53665.
+
+Notice of President of the United States, dated Sept. 12, 2002, 67 F.R. 58317.
+
+#### Proclamation No. 9844
+Proc. No. 9844, Feb. 15, 2019, 84 F.R. 4949, which declared a national emergency at the southern border of the United States, was terminated by Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, set out below.
+
+Continuations of national emergency declared by Proc. No. 9844 were contained in the following:
+
+Notice of President of the United States, dated Jan. 15, 2021, 86 F.R. 6557.
+
+Notice of President of the United States, dated Feb. 13, 2020, 85 F.R. 8715.
+
+#### Proc. No. 9994. Declaring a National Emergency Concerning the Novel Coronavirus Disease (COVID–19) Outbreak
+Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, provided:
+
+In December 2019, a novel (new) coronavirus known as SARS–CoV–2 (“the virus”) was first detected in Wuhan, Hubei Province, People’s Republic of China, causing outbreaks of the coronavirus disease COVID–19 that has now spread globally. The Secretary of Health and Human Services (HHS) declared a public health emergency on January 31, 2020, under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)), in response to COVID–19. I have taken sweeping action to control the spread of the virus in the United States, including by suspending entry of foreign nationals seeking entry who had been physically present within the prior 14 days in certain jurisdictions where COVID–19 outbreaks have occurred, including the People’s Republic of China, the Islamic Republic of Iran, and the Schengen Area of Europe. The Federal Government, along with State and local governments, has taken preventive and proactive measures to slow the spread of the virus and treat those affected, including by instituting Federal quarantines for individuals evacuated from foreign nations, issuing a declaration pursuant to section 319F–3 of the Public Health Service Act ([42 U.S.C. 247d–6d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6d&num=0&edition=prelim)), and releasing policies to accelerate the acquisition of personal protective equipment and streamline bringing new diagnostic capabilities to laboratories. On March 11, 2020, the World Health Organization announced that the COVID–19 outbreak can be characterized as a pandemic, as the rates of infection continue to rise in many locations around the world and across the United States.
+
+The spread of COVID–19 within our Nation’s communities threatens to strain our Nation’s healthcare systems. As of March 12, 2020, 1,645 people from 47 States have been infected with the virus that causes COVID–19. It is incumbent on hospitals and medical facilities throughout the country to assess their preparedness posture and be prepared to surge capacity and capability. Additional measures, however, are needed to successfully contain and combat the virus in the United States.
+
+NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States, by the authority vested in me by the Constitution and the laws of the United States of America, including sections 201 and 301 of the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.) [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621), 1631] and consistent with section 1135 of the Social Security Act (SSA), as amended ([42 U.S.C. 1320b–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5&num=0&edition=prelim)), do hereby find and proclaim that the COVID–19 outbreak in the United States constitutes a national emergency, beginning March 1, 2020. Pursuant to this declaration, I direct as follows:
+
+Section 1. Emergency Authority. The Secretary of HHS may exercise the authority under section 1135 of the SSA to temporarily waive or modify certain requirements of the Medicare, Medicaid, and State Children’s Health Insurance programs and of the Health Insurance Portability and Accountability Act Privacy Rule throughout the duration of the public health emergency declared in response to the COVID–19 outbreak.
+
+Sec. 2. Certification and Notice. In exercising this authority, the Secretary of HHS shall provide certification and advance written notice to the Congress as required by section 1135(d) of the SSA ([42 U.S.C. 1320b–5(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/d&num=0&edition=prelim)).
+
+Sec. 3. General Provisions. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This proclamation shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this thirteenth day of March, in the year of our Lord two thousand twenty, and of the Independence of the United States of America the two hundred and forty-fourth.
+
+Donald J. Trump.
+
+#### Continuation of the National Emergency Declared by Proc. No. 9994
+Notice of President of the United States, dated Feb. 18, 2022, 87 F.R. 10289, provided:
+
+On March 13, 2020, by Proclamation 9994 [set out above], the President declared a national emergency concerning the coronavirus disease 2019 (COVID–19) pandemic. The COVID–19 pandemic continues to cause significant risk to the public health and safety of the Nation. For this reason, the national emergency declared on March 13, 2020, and beginning March 1, 2020, must continue in effect beyond March 1, 2022. Therefore, in accordance with section 202(d) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim)), I am continuing the national emergency declared in Proclamation 9994 concerning the COVID–19 pandemic.
+
+This notice shall be published in the Federal Register and transmitted to the Congress.
+
+J.R. Biden, Jr.
+
+Prior continuation of the national emergency declared by Proc. No. 9994 was contained in the following:
+
+Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11599.
+
+#### Proc. No. 10142. Termination of Emergency With Respect to the Southern Border of the United States and Redirection of Funds Diverted to Border Wall Construction
+Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, provided:
+
+Like every nation, the United States has a right and a duty to secure its borders and protect its people against threats. But building a massive wall that spans the entire southern border is not a serious policy solution. It is a waste of money that diverts attention from genuine threats to our homeland security. My Administration is committed to ensuring that the United States has a comprehensive and humane immigration system that operates consistently with our Nation’s values. In furtherance of that commitment, I have determined that the declaration of a national emergency at our southern border in Proclamation 9844 of February 15, 2019 (Declaring a National Emergency Concerning the Southern Border of the United States) [formerly set out above], was unwarranted. It shall be the policy of my Administration that no more American taxpayer dollars be diverted to construct a border wall. I am also directing a careful review of all resources appropriated or redirected to construct a southern border wall.
+
+NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States of America, by the authority vested in me by the Constitution and the laws of the United States of America, including section 202 [[50 U.S.C. 1622](./chapter-034-national-emergencies.md#section-1622)] of the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), hereby declare that the national emergency declared by Proclamation 9844, and continued on February 13, 2020 (85 Fed. Reg. 8715), and January 15, 2021 [86 F.R. 6557], is terminated and that the authorites invoked in that proclamation will no longer be used to construct a wall at southen border. I hereby futher direct as follows:
+
+Section 1. Pause in Construction and Obligation of Funds. (a) The Secretary of Defense and the Secretary of Homeland Security, in consultation with the Director of the Office of Management and Budget, shall direct the appropriate officials within their respective departments to:
+
+(i) pause work on each construction project on the southern border wall, to the extent permitted by law, as soon as possible but in no case later than seven days from the date of this proclamation [Jan. 20, 2021], to permit:
+
+(A) assessment of the legality of the funding and contracting methods used to construct the wall;
+
+(B) assessment of the administrative and contractual consequences of ceasing each wall construction project; and
+
+(C) completion and implementation of the plan developed in accordance with section 2 of this proclamation;
+
+(ii) pause immediately the obligation of funds related to construction of the southern border wall, to the extent permitted by law; and
+
+(iii) compile detailed information on all southern border wall construction contracts, the completion status of each wall construction project, and the funds used for wall construction since February 15, 2019, including directly appropriated funds and funds drawn from the Treasury Forfeiture Fund ([31 U.S.C. 9705(g)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9705/g/4/B&num=0&edition=prelim)), the Department of Defense Drug Interdiction and Counter-Drug Activities account ([10 U.S.C. 284](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section284&num=0&edition=prelim)), and the Department of Defense Military Construction account (pursuant to the emergency authorities in [10 U.S.C. 2808(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2808/a&num=0&edition=prelim) and [33 U.S.C. 2293(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2293/a&num=0&edition=prelim)).
+
+(b) The pause directed in subsection (a)(i) of this section shall apply to wall projects funded by redirected funds as well as wall projects funded by direct appropriations. The Secretary of Defense and the Secretary of Homeland Security may make an exception to the pause, however, for urgent measures needed to avert immediate physical dangers or where an exception is required to ensure that funds appropriated by the Congress fulfill their intended purpose.
+
+Sec. 2. Plan for Redirecting Funding and Repurposing Contracts. The Secretary of Defense and the Secretary of Homeland Security, in coordination with the Secretary of the Treasury, the Attorney General, the Director of the Office of Management and Budget, and the heads of any other appropriate executive departments and agencies, and in consultation with the Assistant to the President for National Security Affairs, shall develop a plan for the redirection of funds concerning the southern border wall, as appropriate and consistent with applicable law. The process of developing the plan shall include consideration of terminating or repurposing contracts with private contractors engaged in wall construction, while providing for the expenditure of any funds that the Congress expressly appropriated for wall construction, consistent with their appropriated purpose. The plan shall be developed within 60 days from the date of this proclamation. After the plan is developed, the Secretary of Defense and the Secretary of Homeland Security shall take all appropriate steps to resume, modify, or terminate projects and to otherwise implement the plan.
+
+Sec. 3. Definition. Consistent with Executive Order 13767 of January 25, 2017 (Border Security and Immigration Enforcement Improvements) [former [8 U.S.C. 1103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1103&num=0&edition=prelim) note], for the purposes of this proclamation, “wall” means a contiguous, physical wall or other similarly secure, contiguous, and impassable physical barrier.
+
+Sec. 4. General Provisions. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This proclamation shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This proclamation is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of January, in the year of our Lord two thousand twenty-one, and of the Independence of the United States of America the two hundred and forty-fifth.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 13920. Securing the United States Bulk-Power System
+Ex. Ord. No. 13920, May 1, 2020, 85 F.R. 26595, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act ([50 U.S.C. 1701](./chapter-035-international-emergency-economic-powers.md#section-1701) et seq.) (IEEPA), the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.) (NEA), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code,
+
+I, DONALD J. TRUMP, President of the United States of America, find that foreign adversaries are increasingly creating and exploiting vulnerabilities in the United States bulk-power system, which provides the electricity that supports our national defense, vital emergency services, critical infrastructure, economy, and way of life. The bulk-power system is a target of those seeking to commit malicious acts against the United States and its people, including malicious cyber activities, because a successful attack on our bulk-power system would present significant risks to our economy, human health and safety, and would render the United States less capable of acting in defense of itself and its allies. I further find that the unrestricted acquisition or use in the United States of bulk-power system electric equipment designed, developed, manufactured, or supplied by persons owned by, controlled by, or subject to the jurisdiction or direction of foreign adversaries augments the ability of foreign adversaries to create and exploit vulnerabilities in bulk-power system electric equipment, with potentially catastrophic effects. I therefore determine that the unrestricted foreign supply of bulk-power system electric equipment constitutes an unusual and extraordinary threat to the national security, foreign policy, and economy of the United States, which has its source in whole or in substantial part outside the United States. This threat exists both in the case of individual acquisitions and when acquisitions are considered as a class. Although maintaining an open investment climate in bulk-power system electric equipment, and in the United States economy more generally, is important for the overall growth and prosperity of the United States, such openness must be balanced with the need to protect our Nation against a critical national security threat. To address this threat, additional steps are required to protect the security, integrity, and reliability of bulk-power system electric equipment used in the United States. In light of these findings, I hereby declare a national emergency with respect to the threat to the United States bulk-power system.
+
+Accordingly, I hereby order:
+
+Section 1. Prohibitions and Implementation. (a) The following actions are prohibited: any acquisition, importation, transfer, or installation of any bulk-power system electric equipment (transaction) by any person, or with respect to any property, subject to the jurisdiction of the United States, where the transaction involves any property in which any foreign country or a national thereof has any interest (including through an interest in a contract for the provision of the equipment), where the transaction was initiated after the date of this order [May 1, 2020], and where the Secretary of Energy (Secretary), in coordination with the Director of the Office of Management and Budget and in consultation with the Secretary of Defense, the Secretary of Homeland Security, the Director of National Intelligence, and, as appropriate, the heads of other executive departments and agencies (agencies), has determined that:
+
+(i) the transaction involves bulk-power system electric equipment designed, developed, manufactured, or supplied, by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary; and
+
+(ii) the transaction:
+
+(A) poses an undue risk of sabotage to or subversion of the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of the bulk-power system in the United States;
+
+(B) poses an undue risk of catastrophic effects on the security or resiliency of United States critical infrastructure or the economy of the United States; or
+
+(C) otherwise poses an unacceptable risk to the national security of the United States or the security and safety of United States persons.
+
+(b) The Secretary, in consultation with the heads of other agencies as appropriate, may at the Secretary’s discretion design or negotiate measures to mitigate concerns identified under section 1(a) of this order. Such measures may serve as a precondition to the approval by the Secretary of a transaction or of a class of transactions that would otherwise be prohibited pursuant to this order.
+
+(c) The prohibitions in subsection (a) of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order.
+
+(d) The Secretary, in consultation with the heads of other agencies as appropriate, may establish and publish criteria for recognizing particular equipment and particular vendors in the bulk-power system electric equipment market as pre-qualified for future transactions; and may apply these criteria to establish and publish a list of pre-qualified equipment and vendors. Nothing in this provision limits the Secretary’s authority under this section to prohibit or otherwise regulate any transaction involving pre-qualified equipment or vendors.
+
+Sec. 2. Authorities. (a) The Secretary is hereby authorized to take such actions, including directing the timing and manner of the cessation of pending and future transactions prohibited pursuant to section 1 of this order, adopting appropriate rules and regulations, and employing all other powers granted to the President by IEEPA as may be necessary to implement this order. The heads of all agencies, including the Board of Directors of the Tennessee Valley Authority, shall take all appropriate measures within their authority as appropriate and consistent with applicable law, to implement this order.
+
+(b) Rules and regulations issued pursuant to this order may, among other things, determine that particular countries or persons are foreign adversaries exclusively for the purposes of this order; identify persons owned by, controlled by, or subject to the jurisdiction or direction of foreign adversaries exclusively for the purposes of this order; identify particular equipment or countries with respect to which transactions involving bulk-power system electric equipment warrant particular scrutiny under the provisions of this order; establish procedures to license transactions otherwise prohibited pursuant to this order; and identify a mechanism and relevant factors for the negotiation of agreements to mitigate concerns raised in connection with subsection 1(a) of this order. Within 150 days of the date of this order, the Secretary, in consultation with the Secretary of Defense, the Secretary of Homeland Security, the Director of National Intelligence, and, as appropriate, the heads of other agencies, shall publish rules or regulations implementing the authorities delegated to the Secretary by this order.
+
+(c) The Secretary may, consistent with applicable law, redelegate any of the authorities conferred on the Secretary pursuant to this section within the Department of Energy.
+
+(d) As soon as practicable, the Secretary, in consultation with the Secretary of Defense, the Secretary of the Interior, the Secretary of Homeland Security, the Director of National Intelligence, the Board of Directors of the Tennessee Valley Authority, and the heads of such other agencies as the Secretary considers appropriate, shall:
+
+(i) identify bulk-power system electric equipment designed, developed, manufactured, or supplied, by persons owned by, controlled by, or subject to the jurisdiction or direction of a foreign adversary that poses an undue risk of sabotage to or subversion of the design, integrity, manufacturing, production, distribution, installation, operation, or maintenance of the bulk-power system in the United States, poses an undue risk of catastrophic effects on the security or resiliency of United States critical infrastructure or the economy of the United States, or otherwise poses an unacceptable risk to the national security of the United States or the security and safety of United States persons; and
+
+(ii) develop recommendations on ways to identify, isolate, monitor, or replace such items as soon as practicable, taking into consideration overall risk to the bulk-power system.
+
+Sec. 3. Task Force on Federal Energy Infrastructure Procurement Policies Related to National Security. (a) There is hereby established a Task Force on Federal Energy Infrastructure Procurement Policies Related to National Security (Task Force), which shall work to protect the Nation from national security threats through the coordination of Federal Government procurement of energy infrastructure and the sharing of risk information and risk management practices to inform such procurement. The Task Force shall be chaired by the Secretary or the Secretary’s designee.
+
+(b) In addition to the Chair of the Task Force (Chair), the Task Force membership shall include the following heads of agencies, or their designees:
+
+(i) the Secretary of Defense;
+
+(ii) the Secretary of the Interior;
+
+(iii) the Secretary of Commerce;
+
+(iv) the Secretary of Homeland Security;
+
+(v) the Director of National Intelligence;
+
+(vi) the Director of the Office of Management and Budget; and
+
+(vii) the head of any other agency that the Chair may designate in consultation with the Secretary of Defense and the Secretary of the Interior.
+
+(c) The Task Force shall:
+
+(i) develop a recommended consistent set of energy infrastructure procurement policies and procedures for agencies, to the extent consistent with law, to ensure that national security considerations are fully integrated across the Federal Government, and submit such recommendations to the Federal Acquisition Regulatory Council (FAR Council);
+
+(ii) evaluate the methods and criteria used to incorporate national security considerations into energy security and cybersecurity policymaking;
+
+(iii) consult with the Electricity Subsector Coordinating Council and the Oil and Natural Gas Subsector Coordinating Council in developing the recommendations and evaluation described in subsections (c)(i) through (ii) of this section; and
+
+(iv) conduct any other studies, develop any other recommendations, and submit any such studies and recommendations to the President, as appropriate and as directed by the Secretary.
+
+(d) The Department of Energy shall provide administrative support and funding for the Task Force, to the extent consistent with applicable law.
+
+(e) The Task Force shall meet as required by the Chair and, unless extended by the Chair, shall terminate once it has accomplished the objectives set forth in subsection (c) of this section, as determined by the Chair, and completed the reports described in subsection (f) of this section.
+
+(f) The Task Force shall submit to the President, through the Chair and the Director of the Office of Management and Budget:
+
+(i) a report within 1 year from the date of this order [May 1, 2020];
+
+(ii) a subsequent report at least once annually thereafter while the Task Force remains in existence; and
+
+(iii) such other reports as appropriate and as directed by the Chair.
+
+(g) In the reports submitted under subsection (f) of this section, the Task Force shall summarize its progress, findings, and recommendations described in subsection (c) of this section.
+
+(h) Because attacks on the bulk-power system can originate through the distribution system, the Task Force shall engage with distribution system industry groups, to the extent consistent with law and national security. Within 180 days of receiving the recommendations pursuant to subsection (c)(i) of this section, the FAR Council shall consider proposing for notice and public comment an amendment to the applicable provisions in the Federal Acquisition Regulation to implement the recommendations provided pursuant to subsection (c)(i) of this section.
+
+Sec. 4. Definitions. For purposes of this order, the following definitions shall apply:
+
+(a) The term “bulk-power system” means (i) facilities and control systems necessary for operating an interconnected electric energy transmission network (or any portion thereof); and (ii) electric energy from generation facilities needed to maintain transmission reliability. For the purpose of this order, this definition includes transmission lines rated at 69,000 volts (69 kV) or more, but does not include facilities used in the local distribution of electric energy.
+
+(b) The term “bulk-power system electric equipment” means items used in bulk-power system substations, control rooms, or power generating stations, including reactors, capacitors, substation transformers, current coupling capacitors, large generators, backup generators, substation voltage regulators, shunt capacitor equipment, automatic circuit reclosers, instrument transformers, coupling capacity voltage transformers, protective relaying, metering equipment, high voltage circuit breakers, generation turbines, industrial control systems, distributed control systems, and safety instrumented systems. Items not included in the preceding list and that have broader application of use beyond the bulk-power system are outside the scope of this order.
+
+(c) The term “entity” means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
+
+(d) The term “foreign adversary” means any foreign government or foreign non-government person engaged in a long-term pattern or serious instances of conduct significantly adverse to the national security of the United States or its allies or the security and safety of United States persons.
+
+(e) The term “person” means an individual or entity.
+
+(f) The term “procurement” means the acquiring by contract with appropriated funds of supplies or services, including installation services, by and for the use of the Federal Government, through purchase, whether the supplies or services are already in existence or must be created, developed, demonstrated, and evaluated.
+
+(g) The term “United States person” means any United States citizen, permanent resident alien, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States.
+
+Sec. 5. Recurring and Final Reports to the Congress. The Secretary is hereby authorized to submit recurring and final reports to the Congress regarding the national emergency declared in this order, consistent with section 401(c) of the NEA ([50 U.S.C. 1641(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641/c&num=0&edition=prelim)) and section 204(c) of IEEPA ([50 U.S.C. 1703(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1703/c&num=0&edition=prelim)).
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.
+
+[Ex. Ord. No. 13920, set out above, suspended for 90 days and Secretary of Energy and Director of the Office of Management and Budget to jointly consider whether to recommend a replacement order be issued, see section 7(c) of Ex. Ord. No. 13990, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.]
+
+
+<a id="section-1622"></a>
+## § 1622. National emergencies
+**(a) Termination methods** Any national emergency declared by the President in accordance with this subchapter shall terminate if—
+
+(1) there is enacted into law a joint resolution terminating the emergency; or
+
+(2) the President issues a proclamation terminating the emergency.
+Any national emergency declared by the President shall be terminated on the date specified in any joint resolution referred to in clause (1) or on the date specified in a proclamation by the President terminating the emergency as provided in clause (2) of this subsection, whichever date is earlier, and any powers or authorities exercised by reason of said emergency shall cease to be exercised after such specified date, except that such termination shall not affect—
+
+(A) any action taken or proceeding pending not finally concluded or determined on such date;
+
+(B) any action or proceeding based on any act committed prior to such date; or
+
+(C) any rights or duties that matured or penalties that were incurred prior to such date.
+
+**(b) Termination review of national emergencies by Congress** Not later than six months after a national emergency is declared, and not later than the end of each six-month period thereafter that such emergency continues, each House of Congress shall meet to consider a vote on a joint resolution to determine whether that emergency shall be terminated.
+
+**(c) Joint resolution; referral to Congressional committees; conference committee in event of disagreement; filing of report; termination procedure deemed part of rules of House and Senate**
+
+(1) A joint resolution to terminate a national emergency declared by the President shall be referred to the appropriate committee of the House of Representatives or the Senate, as the case may be. One such joint resolution shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution is referred to such committee, unless such House shall otherwise determine by the yeas and nays.
+
+(2) Any joint resolution so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days after the day on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
+
+(3) Such a joint resolution passed by one House shall be referred to the appropriate committee of the other House and shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution is referred to such committee and shall thereupon become the pending business of such House and shall be voted upon within three calendar days after the day on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
+
+(4) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the day on which managers on the part of the Senate and the House have been appointed. Notwithstanding any rule in either House concerning the printing of conference reports or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed in the House in which such report is filed first. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.
+
+(5) Paragraphs (1)–(4) of this subsection, subsection (b) of this section, and [section 1651(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1651/b&num=0&edition=prelim) are enacted by Congress—
+
+  (A) as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such they are deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in the House in the case of resolutions described by this subsection; and they supersede other rules only to the extent that they are inconsistent therewith; and
+
+  (B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
+
+**(d) Automatic termination of national emergency; continuation notice from President to Congress; publication in Federal Register** Any national emergency declared by the President in accordance with this subchapter, and not otherwise previously terminated, shall terminate on the anniversary of the declaration of that emergency if, within the ninety-day period prior to each anniversary date, the President does not publish in the Federal Register and transmit to the Congress a notice stating that such emergency is to continue in effect after such anniversary.
+
+### Statutory Notes
+
+#### Amendments
+1985—Subsecs. (a) to (c). Pub. L. 99–93 substituted “there is enacted into law a joint resolution terminating the emergency” for “Congress terminates the emergency by concurrent resolution” in par. (1) of subsec. (a), and substituted “joint resolution” for “concurrent resolution” wherever appearing in second sentence of subsec. (a), subsec. (b), and pars. (1) to (4) of subsec. (c).
+
+
+<a id="section-1631"></a>
+## § 1631. Declaration of national emergency by Executive order; authority; publication in Federal Register; transmittal to Congress
+
+When the President declares a national emergency, no powers or authorities made available by statute for use in the event of an emergency shall be exercised unless and until the President specifies the provisions of law under which he proposes that he, or other officers will act. Such specification may be made either in the declaration of a national emergency, or by one or more contemporaneous or subsequent Executive orders published in the Federal Register and transmitted to the Congress.
+
+### Statutory Notes
+
+#### Release of American Hostages in Iran
+For provisions relating to the release of the American hostages in Iran, see Ex. Ord. Nos. 12276 to 12285, Jan. 19, 1981, 46 F.R. 7913 to 7932, listed in a table under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701).
+
+
+<a id="section-1641"></a>
+## § 1641. Accountability and reporting requirements of President
+**(a) Maintenance of file and index of Presidential orders, rules and regulations during national emergency** When the President declares a national emergency, or Congress declares war, the President shall be responsible for maintaining a file and index of all significant orders of the President, including Executive orders and proclamations, and each Executive agency shall maintain a file and index of all rules and regulations, issued during such emergency or war issued pursuant to such declarations.
+
+**(b) Presidential orders, rules and regulations; transmittal to Congress** All such significant orders of the President, including Executive orders, and such rules and regulations shall be transmitted to the Congress promptly under means to assure confidentiality where appropriate.
+
+**(c) Expenditures during national emergency; Presidential reports to Congress** When the President declares a national emergency or Congress declares war, the President shall transmit to Congress, within ninety days after the end of each six-month period after such declaration, a report on the total expenditures incurred by the United States Government during such six-month period which are directly attributable to the exercise of powers and authorities conferred by such declaration. Not later than ninety days after the termination of each such emergency or war, the President shall transmit a final report on all such expenditures.
+
+
+<a id="section-1651"></a>
+## § 1651. Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies
+**(a)** The provisions of this chapter shall not apply to the following provisions of law, the powers and authorities conferred thereby, and actions taken thereunder:
+
+(1) Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+
+(2) Section 3727(a)–(e)(1) of title 31.
+
+(3) [Section 6305 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6305&num=0&edition=prelim).
+
+(4) Public Law 85–804 (Act of Aug. 28, 1958, 72 Stat. 972; [50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431) et seq.).
+
+(5) [Section 3201(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3201/a&num=0&edition=prelim).
+
+**(b)** Each committee of the House of Representatives and the Senate having jurisdiction with respect to any provision of law referred to in subsection (a) of this section shall make a complete study and investigation concerning that provision of law and make a report, including any recommendations and proposed revisions such committee may have, to its respective House of Congress within two hundred and seventy days after September 14, 1976.
+
+### Statutory Notes
+
+#### References in Text
+Public Law 85–804, referred to in subsec. (a)(4), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+In subsec. (a)(1), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Act of June 30, 1949 ([41 U.S.C. 252](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section252&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In subsec. (a)(2), “Section 3727(a)–(e)(1) of title 31” substituted for “Section 3477 of the Revised Statutes, as amended ([31 U.S.C. 203](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section203&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+In subsec. (a)(3), “[Section 6305 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6305&num=0&edition=prelim)” substituted for “Section 3737 of the Revised Statutes, as amended ([41 U.S.C. 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section15&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+2021—Subsec. (a). Pub. L. 117–81 added pars. (1) to (5) and struck out former pars. (1) to (5), which set out sections and provisions to which the provisions of this chapter are inapplicable.
+
+2002—Subsec. (a). Pub. L. 107–314 struck out par. (2), which read “Act of April 28, 1942 ([40 U.S.C. 278b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section278b&num=0&edition=prelim));”, and redesignated pars. (3) to (7) as (1) to (5), respectively.
+
+1998—Subsec. (a)(6). Pub. L. 105–362 substituted “1431 et seq.” for “1431–1435”.
+
+1980—Subsec. (a)(8). Pub. L. 96–513 struck out par. (8) which made reference to sections 3313, 6386(c), and 8313 of title 10.
+
+1977—Subsec. (a)(1). Pub. L. 95–223 struck out par. (1) which read as follows: “Section 5(b) of the Act of October 6, 1917, as amended ([12 U.S.C. 95a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section95a&num=0&edition=prelim); 50 U.S.C. App. 5(b));”.
+
+#### Effective Date of 1980 Amendment
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.

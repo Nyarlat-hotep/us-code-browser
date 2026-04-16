@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "chapter-001-administration",
+    "heading": "ADMINISTRATION",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-003-collection-and-publication-of-statistics",
+    "heading": "COLLECTION AND PUBLICATION OF STATISTICS",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-005-censuses",
+    "heading": "CENSUSES",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-007-offenses-and-penalties",
+    "heading": "OFFENSES AND PENALTIES",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-009-collection-and-publication-of-foreign-commerce-and-trade-statistics",
+    "heading": "COLLECTION AND PUBLICATION OF FOREIGN COMMERCE AND TRADE STATISTICS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-010-exchange-of-census-information",
+    "heading": "EXCHANGE OF CENSUS INFORMATION",
+    "section_count": 2
+  }
+]

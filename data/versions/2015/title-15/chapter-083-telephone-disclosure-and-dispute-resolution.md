@@ -1,0 +1,287 @@
+---
+title: 15
+chapter: '83'
+heading: TELEPHONE DISCLOSURE AND DISPUTE RESOLUTION
+section_count: 9
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
+---
+<a id="section-5701"></a>
+## § 5701. Definitions
+
+As used in this subchapter—
+
+(1) The term “telephone-billed purchase” means any purchase that is completed solely as a consequence of the completion of the call or a subsequent dialing, touch tone entry, or comparable action of the caller. Such term does not include—
+
+  (A) a purchase by a caller pursuant to a preexisting agreement with the vendor;
+
+  (B) local exchange telephone services or interexchange telephone services or any service that the Federal Communications Commission determines, by rule—
+
+    (i) is closely related to the provision of local exchange telephone services or interexchange telephone services; and
+
+    (ii) is subject to billing dispute resolution procedures required by Federal or State statute or regulation; or
+
+  (C) the purchase of goods or services which is otherwise subject to billing dispute resolution procedures required by Federal statute or regulation.
+
+(2) A “billing error” consists of any of the following:
+
+  (A) A reflection on a billing statement for a telephone-billed purchase which was not made by the customer or, if made, was not in the amount reflected on such statement.
+
+  (B) A reflection on a billing statement of a telephone-billed purchase for which the customer requests additional clarification, including documentary evidence thereof.
+
+  (C) A reflection on a billing statement of a telephone-billed purchase that was not accepted by the customer or not provided to the customer in accordance with the stated terms of the transaction.
+
+  (D) A reflection on a billing statement of a telephone-billed purchase for a call made to an 800 or other toll free telephone number.
+
+  (E) The failure to reflect properly on a billing statement a payment made by the customer or a credit issued to the customer with respect to a telephone-billed purchase.
+
+  (F) A computation error or similar error of an accounting nature on a statement.
+
+  (G) Failure to transmit the billing statement to the last known address of the customer, unless that address was furnished less than twenty days before the end of the billing cycle for which the statement is required.
+
+  (H) Any other error described in regulations prescribed by the Commission pursuant to [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+(3) The term “Commission” means the Federal Trade Commission.
+
+(4) The term “providing carrier” means a local exchange or interexchange common carrier providing telephone services (other than local exchange services) to a vendor for a telephone-billed purchase that is the subject of a billing error complaint.
+
+(5) The term “vendor” means any person who, through the use of the telephone, offers goods or services for a telephone-billed purchase.
+
+(6) The term “customer” means any person who acquires or attempts to acquire goods or services in a telephone-billed purchase.
+
+
+<a id="section-5711"></a>
+## § 5711. Short title; findings
+**(a) Short title** This chapter may be cited as the “Telephone Disclosure and Dispute Resolution Act”.
+
+**(b) Findings** The Congress finds the following:
+
+(1) The use of pay-per-call services, most commonly through the use of 900 telephone numbers, has grown exponentially in the past few years into a national, billion-dollar industry as a result of recent technological innovations. Such services are convenient to consumers, cost-effective to vendors, and profitable to communications common carriers.
+
+(2) Many pay-per-call businesses provide valuable information, increase consumer choices, and stimulate innovative and responsive services that benefit the public.
+
+(3) The interstate nature of the pay-per-call industry means that its activities are beyond the reach of individual States and therefore requires Federal regulatory treatment to protect the public interest.
+
+(4) The lack of nationally uniform regulatory guidelines has led to confusion for callers, subscribers, industry participants, and regulatory agencies as to the rights of callers and the oversight responsibilities of regulatory authorities, and has allowed some pay-per-call businesses to engage in practices that abuse the rights of consumers.
+
+(5) Some interstate pay-per-call businesses have engaged in practices which are misleading to the consumer, harmful to the public interest, or contrary to accepted standards of business practices and thus cause harm to the many reputable businesses that are serving the public.
+
+(6) Because the consumer most often incurs a financial obligation as soon as a pay-per-call transaction is completed, the accuracy and descriptiveness of vendor advertisements become crucial in avoiding consumer abuse. The obligation for accuracy should include price-per-call and duration-of-call information, odds disclosure for lotteries, games, and sweepstakes, and obligations for obtaining parental consent from callers under 18.
+
+(7) The continued growth of the legitimate pay-per-call industry is dependent upon consumer confidence that unfair and deceptive behavior will be effectively curtailed and that consumers will have adequate rights of redress.
+
+(8) Vendors of telephone-billed goods and services must also feel confident in their rights and obligations for resolving billing disputes if they are to use this new marketplace for the sale of products of more than nominal value.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 102–556, Oct. 28, 1992, 106 Stat. 4181, which enacted this chapter and [section 228 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section228&num=0&edition=prelim), Telecommunications, amended sections 227 and 302a of Title 47, enacted provisions set out as a note under [section 302a of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section302a&num=0&edition=prelim), and amended provisions set out as a note under [section 227 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-5712"></a>
+## § 5712. Federal Trade Commission regulations
+**(a) In general**
+
+(1) **Advertising regulations** — The Commission shall prescribe rules in accordance with this subsection to prohibit unfair and deceptive acts and practices in any advertisement for pay-per-call services. Such rules shall require that the person offering such pay-per-call services—
+
+  (A) clearly and conspicuously disclose in any advertising the cost of the use of such telephone number, including the total cost or the cost per minute and any other fees for that service and for any other pay-per-call service to which the caller may be transferred;
+
+  (B) in the case of an advertisement which offers a prize or award or a service or product at no cost or for a reduced cost, clearly and conspicuously disclose the odds of being able to receive such prize, award, service, or product at no cost or reduced cost, or, if such odds are not calculable in advance, disclose the factors determining such odds;
+
+  (C) in the case of an advertisement that promotes a service that is not operated or expressly authorized by a Federal agency but that provides information on a Federal program, include at the beginning of such advertisement a clear disclosure that the service is not authorized, endorsed, or approved by any Federal agency;
+
+  (D) shall not direct such advertisement at children under the age of 12, unless such service is a bona fide educational service;
+
+  (E) in the case of advertising directed primarily to individuals under the age of 18, clearly and conspicuously state in such advertising that such individual must have the consent of such individual’s parent or legal guardian for the use of such services;
+
+  (F) be prohibited from using advertisements that emit electronic tones which can automatically dial a pay-per-call telephone number;
+
+  (G) ensure that, whenever the number to be called is shown in television and print media advertisements, the charges for the call are clear and conspicuous and (when shown in television advertisements) displayed for the same duration as that number is displayed;
+
+  (H) in delivering any telephone message soliciting calls to a pay-per-call service, specify clearly, and at no less than the audible volume of the solicitation, the total cost and the cost per minute and any other fees for that service and for any other pay-per-call service to which the caller may be transferred; and
+
+  (I) not advertise an 800 telephone number, or any other telephone number advertised or widely understood to be toll free, from which callers are connected to an access number for a pay-per-call service.
+
+(2) **Pay-per-call service standards** — The Commission shall prescribe rules to require that each provider of pay-per-call services—
+
+  (A) include in each pay-per-call message an introductory disclosure message that—
+
+    (i) describes the service being provided;
+
+    (ii) specifies clearly and at a reasonably understandable volume the total cost or the cost per minute and any other fees for that service and for any other pay-per-call service to which the caller may be transferred;
+
+    (iii) informs the caller that charges for the call begin at the end of the introductory message;
+
+    (iv) informs the caller that parental consent is required for calls made by children; and
+
+    (v) in the case of a pay-per-call service that is not operated or expressly authorized by a Federal agency but that provides information on any Federal program, a statement that clearly states that the service is not authorized, endorsed, or approved by any Federal agency;
+
+  (B) enable the caller to hang up at or before the end of the introductory message without incurring any charge whatsoever;
+
+  (C) not direct such services at children under the age of 12, unless such service is a bona fide educational service;
+
+  (D) stop the assessment of time-based charges immediately upon disconnection by the caller;
+
+  (E) disable any bypass mechanism which allows frequent callers to avoid listening to the disclosure message described in subparagraph (A) after the institution of any price increase and for a period of time sufficient to give such frequent callers adequate and sufficient notice of the price change;
+
+  (F) be prohibited from providing pay-per-call services through an 800 number or other telephone number advertised or widely understood to be toll free;
+
+  (G) be prohibited from billing consumers in excess of the amounts described in the introductory message and from billing for services provided in violation of the rules prescribed by the Commission pursuant to this section;
+
+  (H) ensure that any billing statement for such provider’s charges shall—
+
+    (i) display any charges for pay-per-call services in a part of the consumer’s bill that is identified as not being related to local and long distance telephone charges; and
+
+    (ii) for each charge so displayed, specify, at a minimum, the type of service, the amount of the charge, and the date, time, and duration of the call;
+
+  (I) be liable for refunds to consumers who have been billed for pay-per-call services pursuant to programs that have been found to have violated the regulations prescribed pursuant to this section or subchapter II of this chapter or any other Federal law; and
+
+  (J) comply with such additional standards as the Commission may prescribe to prevent abusive practices.
+
+(3) **Access to information** — The Commission shall by rule require a common carrier that provides telephone services to a provider of pay-per-call services to make available to the Commission any records and financial information maintained by such carrier relating to the arrangements (other than for the provision of local exchange service) between such carrier and any provider of pay-per-call services.
+
+(4) **Evasions** — The rules issued by the Commission under this section shall include provisions to prohibit unfair or deceptive acts or practices that evade such rules or undermine the rights provided to customers under this subchapter, including through the use of alternative billing or other procedures.
+
+(5) **Exemptions** — The regulations prescribed by the Commission pursuant to paragraph (2)(A) may exempt from the requirements of such paragraph—
+
+  (A) calls from frequent callers or regular subscribers using a bypass mechanism to avoid listening to the disclosure message required by such regulations, subject to the requirements of paragraph (2)(E); or
+
+  (B) pay-per-call services provided at nominal charges, as defined by the Commission in such regulations.
+
+(6) **Consideration of other rules required** — In conducting a proceeding under this section, the Commission shall consider requiring, by rule or regulation, that providers of pay-per-call services—
+
+  (A) automatically disconnect a call after one full cycle of the program; and
+
+  (B) include a beep tone or other appropriate and clear signal during a live interactive group program so that callers will be alerted to the passage of time.
+
+(7) **Special rule for infrequent publications** — The rules prescribed by the Commission under subparagraphs (A) and (G) of paragraph (1) may permit, in the case of publications that are widely distributed, that are printed annually or less frequently, and that have an established policy of not publishing specific prices, advertising that in lieu of the cost disclosures required by such subparagraphs, clearly and conspicuously disclose that use of the telephone number may result in a substantial charge.
+
+(8) **Treatment of rules** — A rule issued under this subsection shall be treated as a rule issued under [section 57a(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim).
+
+**(b) Rulemaking** The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+**(c) Enforcement** Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule respecting unfair or deceptive acts or practices under [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45). Notwithstanding [section 45(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45/a/2&num=0&edition=prelim), communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
+
+
+<a id="section-5713"></a>
+## § 5713. Actions by States
+**(a) In general** Whenever an attorney general of any State has reason to believe that the interests of the residents of that State have been or are being threatened or adversely affected because any person has engaged or is engaging in a pattern or practice which violates any rule of the Commission under [section 5711(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5711/a&num=0&edition=prelim), the State may bring a civil action on behalf of its residents in an appropriate district court of the United States to enjoin such pattern or practice, to enforce compliance with such rule of the Commission, to obtain damages on behalf of their residents, or to obtain such further and other relief as the court may deem appropriate.
+
+**(b) Notice** The State shall serve prior written notice of any civil action under subsection (a) of this section upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
+
+**(c) Venue** Any civil action brought under this section in a district court of the United States may be brought in the district wherein the defendant is found or is an inhabitant or transacts business or wherein the violation occurred or is occurring, and process in such cases may be served in any district in which the defendant is an inhabitant or wherever the defendant may be found.
+
+**(d) Investigatory powers** For purposes of bringing any civil action under this section, nothing in this chapter shall prevent the attorney general from exercising the powers conferred on the attorney general by the laws of such State to conduct investigations or to administer oaths or affirmations or to compel the attendance of witnesses or the production of documentary and other evidence.
+
+**(e) Effect on State court proceedings** Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal antifraud statute of such State.
+
+**(f) Limitation** Whenever the Commission has instituted a civil action for violation of any rule or regulation under this chapter, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission’s complaint for violation of any rule as alleged in the Commission’s complaint.
+
+**(g) Actions by other State officials**
+
+(1) Nothing contained in this section shall prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
+
+(2) In addition to actions brought by an attorney general of a State under subsection (a) of this section, such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) of this section against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under [section 5711(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5711/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (d) and (f), was in the original “this Act”, meaning Pub. L. 102–556, Oct. 28, 1992, 106 Stat. 4181, known as the Telephone Disclosure and Dispute Resolution Act. For complete classification of this Act to the Code, see References in Text note set out under [section 5701 of this title](./chapter-083-telephone-disclosure-and-dispute-resolution.md#section-5701) and Tables.
+
+
+<a id="section-5714"></a>
+## § 5714. Administration and applicability of subchapter
+**(a) In general** Except as otherwise provided in [section 5712 of this title](./chapter-083-telephone-disclosure-and-dispute-resolution.md#section-5712), this subchapter shall be enforced by the Commission under the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.). Consequently, no activity which is outside the jurisdiction of that Act shall be affected by this chapter, except for purposes of this subchapter.
+
+**(b) Actions by Commission** The Commission shall prevent any person from violating a rule of the Commission under [section 5711 of this title](./chapter-083-telephone-disclosure-and-dispute-resolution.md#section-5711) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.) were incorporated into and made a part of this subchapter. Any person who violates such rule shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of the Federal Trade Commission Act were incorporated into and made a part of this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+
+
+<a id="section-5721"></a>
+## § 5721. Definitions
+
+For purposes of this subchapter:
+
+(1) The term “pay-per-call services” has the meaning provided in [section 228(i) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section228/i&num=0&edition=prelim), except that the Commission by rule may, notwithstanding subparagraphs (B) and (C) of [section 228(i)(1) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section228/i/1&num=0&edition=prelim), extend such definition to other similar services providing audio information or audio entertainment if the Commission determines that such services are susceptible to the unfair and deceptive practices that are prohibited by the rules prescribed pursuant to [section 5711(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5711/a&num=0&edition=prelim).
+
+(2) The term “attorney general” means the chief legal officer of a State.
+
+(3) The term “State” means any State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, and any territory or possession of the United States.
+
+(4) The term “Commission” means the Federal Trade Commission.
+
+### Statutory Notes
+
+#### Amendments
+1996—Par. (1). Pub. L. 104–104 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The term ‘pay-per-call services’ has the meaning provided in [section 228 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section228&num=0&edition=prelim).”
+
+
+<a id="section-5722"></a>
+## § 5722. Regulations
+**(a) In general**
+
+(1) **Rules required** — The Commission shall, in accordance with the requirements of this section, prescribe rules establishing procedures for the correction of billing errors with respect to telephone-billed purchases. The rules prescribed by the Commission shall also include provisions to prohibit unfair or deceptive acts or practices that evade such rules or undermine the rights provided to customers under this subchapter.
+
+(2) **Substantial similarity to credit billing** — The Commission shall promulgate rules under this section that impose requirements that are substantially similar to the requirements imposed, with respect to the resolution of credit disputes, under the Truth in Lending and Fair Credit Billing Acts [[15 U.S.C. 1601](./chapter-041-consumer-credit-protection.md#section-1601) et seq., 1666 et seq.].
+
+(3) **Treatment of rule** — A rule issued under paragraph (1) shall be treated as a rule issued under [section 57a(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section57a/a/1/B&num=0&edition=prelim).
+
+**(b) Rulemaking schedule and procedure** The Commission shall prescribe the rules under subsection (a) of this section within 270 days after October 28, 1992. Such rules shall be prescribed in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+**(c) Enforcement** Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under [section 45 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45) regarding unfair or deceptive acts or practices. Notwithstanding [section 45(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45/a/2&num=0&edition=prelim), communications common carriers shall be subject to the jurisdiction of the Commission for purposes of this subchapter.
+
+**(d) Correction of billing errors and correction of credit reports** In prescribing rules under this section, the Commission shall consider, with respect to telephone-billed purchases, the following:
+
+(1) The initiation of a billing review by a customer.
+
+(2) Responses by billing entities and providing carriers to the initiation of a billing review.
+
+(3) Investigations concerning delivery of telephone-billed purchases.
+
+(4) Limitations upon providing carrier responsibilities, including limitations on a carrier’s responsibility to verify delivery of audio information or entertainment.
+
+(5) Requirements on actions by billing entities to set aside charges from a customer’s billing statement.
+
+(6) Limitations on collection actions by billing entities and vendors.
+
+(7) The regulation of credit reports on billing disputes.
+
+(8) The prompt notification of credit to an account.
+
+(9) Rights of customers and telephone common carriers regarding claims and defenses.
+
+(10) The extent to which the regulations should diverge from requirements under the Truth in Lending and Fair Credit Billing Acts [[15 U.S.C. 1601](./chapter-041-consumer-credit-protection.md#section-1601) et seq., 1666 et seq.] in order to protect customers, and in order to be cost effective to billing entities.
+
+### Statutory Notes
+
+#### References in Text
+The Truth in Lending Act, referred to in subsecs. (a)(2) and (d)(10), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
+
+The Fair Credit Billing Act, referred to in subsecs. (a)(2) and (d)(10), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which is classified principally to part D (§ 1666 et seq.) of subchapter I of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
+
+
+<a id="section-5723"></a>
+## § 5723. Relation to State laws
+**(a) State law applicable unless inconsistent** This subchapter does not annul, alter, or affect, or exempt any person subject to the provisions of this subchapter from complying with, the laws of any State with respect to telephone billing practices, except to the extent that those laws are inconsistent with any provision of this subchapter, and then only to the extent of the inconsistency. The Commission is authorized to determine whether such inconsistencies exist. The Commission may not determine that any State law is inconsistent with any provision of this subchapter 11 See References in Text note below. if the Commission determines that such law gives greater protection to the consumer.
+
+**(b) Regulatory exemptions** The Commission shall by regulation exempt from the requirements of this subchapter any class of telephone-billed purchase transactions within any State if it determines that under the law of that State that class of transactions is subject to requirements substantially similar to those imposed under this subchapter 1 or that such law gives greater protection to the consumer, and that there is adequate provision for enforcement.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to the last time in subsecs. (a) and (b), was in the original “this chapter” and was translated as reading “this title” meaning title III of Pub. L. 102–556, to reflect the probable intent of Congress because Pub. L. 102–556 does not contain chapters.
+
+
+<a id="section-5724"></a>
+## § 5724. Enforcement
+
+The Commission shall enforce the requirements of this subchapter. For the purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All the functions and powers of the Commission under that Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in that Act. The Commission may prescribe such regulations as are necessary or appropriate to implement the provisions of this subchapter.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.

@@ -1,0 +1,287 @@
+[
+  {
+    "slug": "chapter-001-bureau-of-indian-affairs",
+    "heading": "BUREAU OF INDIAN AFFAIRS",
+    "section_count": 31
+  },
+  {
+    "slug": "chapter-002-officers-of-indian-affairs",
+    "heading": "OFFICERS OF INDIAN AFFAIRS",
+    "section_count": 43
+  },
+  {
+    "slug": "chapter-2a-indian-claims-commission",
+    "heading": "INDIAN CLAIMS COMMISSION",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-003-agreements-with-indians",
+    "heading": "AGREEMENTS WITH INDIANS",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-004-performance-by-united-states-of-obligations-to-indians",
+    "heading": "PERFORMANCE BY UNITED STATES OF OBLIGATIONS TO INDIANS",
+    "section_count": 82
+  },
+  {
+    "slug": "chapter-005-protection-of-indians",
+    "heading": "PROTECTION OF INDIANS",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-006-government-of-indian-country-and-reservations",
+    "heading": "GOVERNMENT OF INDIAN COUNTRY AND RESERVATIONS",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-007-education-of-indians",
+    "heading": "EDUCATION OF INDIANS",
+    "section_count": 42
+  },
+  {
+    "slug": "chapter-7a-promotion-of-social-and-economic-welfare",
+    "heading": "PROMOTION OF SOCIAL AND ECONOMIC WELFARE",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-008-rights-of-way-through-indian-lands",
+    "heading": "RIGHTS-OF-WAY THROUGH INDIAN LANDS",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-009-allotment-of-indian-lands",
+    "heading": "ALLOTMENT OF INDIAN LANDS",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-010-descent-and-distribution-heirs-of-allottee",
+    "heading": "DESCENT AND DISTRIBUTION; HEIRS OF ALLOTTEE",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-011-irrigation-of-allotted-lands",
+    "heading": "IRRIGATION OF ALLOTTED LANDS",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-012-lease-sale-or-surrender-of-allotted-or-unallotted-lands",
+    "heading": "LEASE, SALE, OR SURRENDER OF ALLOTTED OR UNALLOTTED LANDS",
+    "section_count": 65
+  },
+  {
+    "slug": "chapter-013-ceded-indian-lands",
+    "heading": "CEDED INDIAN LANDS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-014-miscellaneous",
+    "heading": "MISCELLANEOUS",
+    "section_count": 948
+  },
+  {
+    "slug": "chapter-015-constitutional-rights-of-indians",
+    "heading": "CONSTITUTIONAL RIGHTS OF INDIANS",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-016-distribution-of-judgment-funds",
+    "heading": "DISTRIBUTION OF JUDGMENT FUNDS",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-017-financing-economic-development-of-indians-and-indian-organizations",
+    "heading": "FINANCING ECONOMIC DEVELOPMENT OF INDIANS AND INDIAN ORGANIZATIONS",
+    "section_count": 44
+  },
+  {
+    "slug": "chapter-018-indian-health-care",
+    "heading": "INDIAN HEALTH CARE",
+    "section_count": 166
+  },
+  {
+    "slug": "chapter-019-indian-land-claims-settlements",
+    "heading": "INDIAN LAND CLAIMS SETTLEMENTS",
+    "section_count": 154
+  },
+  {
+    "slug": "chapter-020-tribally-controlled-colleges-and-universities-assistance",
+    "heading": "TRIBALLY CONTROLLED COLLEGES AND UNIVERSITIES ASSISTANCE",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-021-indian-child-welfare",
+    "heading": "INDIAN CHILD WELFARE",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-022-bureau-of-indian-affairs-programs",
+    "heading": "BUREAU OF INDIAN AFFAIRS PROGRAMS",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-023-development-of-tribal-mineral-resources",
+    "heading": "DEVELOPMENT OF TRIBAL MINERAL RESOURCES",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-024-indian-land-consolidation",
+    "heading": "INDIAN LAND CONSOLIDATION",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-025-old-age-assistance-claims-settlement",
+    "heading": "OLD AGE ASSISTANCE CLAIMS SETTLEMENT",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment",
+    "heading": "INDIAN ALCOHOL AND SUBSTANCE ABUSE PREVENTION AND TREATMENT",
+    "section_count": 23
+  },
+  {
+    "slug": "chapter-027-tribally-controlled-school-grants",
+    "heading": "TRIBALLY CONTROLLED SCHOOL GRANTS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-028-indian-education-program",
+    "heading": "INDIAN EDUCATION PROGRAM",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-029-indian-gaming-regulation",
+    "heading": "INDIAN GAMING REGULATION",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-030-indian-law-enforcement-reform",
+    "heading": "INDIAN LAW ENFORCEMENT REFORM",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-031-native-american-languages",
+    "heading": "NATIVE AMERICAN LANGUAGES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-032-native-american-graves-protection-and-repatriation",
+    "heading": "NATIVE AMERICAN GRAVES PROTECTION AND REPATRIATION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-32a-cultural-and-heritage-cooperation-authority",
+    "heading": "CULTURAL AND HERITAGE COOPERATION AUTHORITY",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-32b-safeguard-tribal-objects-of-patrimony",
+    "heading": "SAFEGUARD TRIBAL OBJECTS OF PATRIMONY",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-033-national-indian-forest-resources-management",
+    "heading": "NATIONAL INDIAN FOREST RESOURCES MANAGEMENT",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-034-indian-child-protection-and-family-violence-prevention",
+    "heading": "INDIAN CHILD PROTECTION AND FAMILY VIOLENCE PREVENTION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-035-indian-higher-education-programs",
+    "heading": "INDIAN HIGHER EDUCATION PROGRAMS",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-036-indian-employment-training-and-related-services",
+    "heading": "INDIAN EMPLOYMENT, TRAINING AND RELATED SERVICES",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-037-indian-energy",
+    "heading": "INDIAN ENERGY",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-038-indian-tribal-justice-support",
+    "heading": "INDIAN TRIBAL JUSTICE SUPPORT",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-38a-indian-tribal-justice-technical-and-legal-assistance",
+    "heading": "INDIAN TRIBAL JUSTICE TECHNICAL AND LEGAL ASSISTANCE",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-039-american-indian-agricultural-resource-management",
+    "heading": "AMERICAN INDIAN AGRICULTURAL RESOURCE MANAGEMENT",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-040-indian-dams-safety",
+    "heading": "INDIAN DAMS SAFETY",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-041-indian-lands-open-dump-cleanup",
+    "heading": "INDIAN LANDS OPEN DUMP CLEANUP",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-042-american-indian-trust-fund-management-reform",
+    "heading": "AMERICAN INDIAN TRUST FUND MANAGEMENT REFORM",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-043-native-american-housing-assistance-and-self-determination",
+    "heading": "NATIVE AMERICAN HOUSING ASSISTANCE AND SELF-DETERMINATION",
+    "section_count": 71
+  },
+  {
+    "slug": "chapter-044-native-american-business-development-trade-promotion-and-tourism",
+    "heading": "NATIVE AMERICAN BUSINESS DEVELOPMENT, TRADE PROMOTION, AND TOURISM",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-44a-native-american-tourism-and-improving-visitor-experience",
+    "heading": "NATIVE AMERICAN TOURISM AND IMPROVING VISITOR EXPERIENCE",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-045-protection-of-indians-and-conservation-of-resources",
+    "heading": "PROTECTION OF INDIANS AND CONSERVATION OF RESOURCES",
+    "section_count": 44
+  },
+  {
+    "slug": "chapter-45a-oklahoma-indian-welfare",
+    "heading": "OKLAHOMA INDIAN WELFARE",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-046-indian-self-determination-and-education-assistance",
+    "heading": "INDIAN SELF-DETERMINATION AND EDUCATION ASSISTANCE",
+    "section_count": 79
+  },
+  {
+    "slug": "chapter-047-conveyance-of-submarginal-land",
+    "heading": "CONVEYANCE OF SUBMARGINAL LAND",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-048-indian-trust-asset-reform",
+    "heading": "INDIAN TRUST ASSET REFORM",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-049-savannas-act",
+    "heading": "SAVANNA’S ACT",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-050-native-american-business-incubators-program",
+    "heading": "NATIVE AMERICAN BUSINESS INCUBATORS PROGRAM",
+    "section_count": 7
+  }
+]

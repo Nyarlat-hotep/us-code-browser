@@ -1,0 +1,314 @@
+---
+title: 12
+chapter: '48'
+heading: FINANCIAL INSTITUTIONS REGULATORY IMPROVEMENT
+section_count: 10
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
+---
+<a id="section-4801"></a>
+## § 4801. Incorporated definitions
+
+Unless otherwise specifically provided in this chapter, for purposes of this chapter—
+
+(1) the terms “appropriate Federal banking agency”, “Federal banking agencies”, “insured depository institution”, and “State bank supervisor” have the same meanings as in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813); and
+
+(2) the term “insured credit union” has the same meaning as in [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752).
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in original “this title” meaning title III of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2214, which enacted this chapter, sections 633 and 2606 of this title, and [section 5329 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5329&num=0&edition=prelim), Money and Finance, amended sections 1, 24, 27, 72, 93, 161, 248, 250, 324, 375a, 375b, 482, 1462a, 1464, 1468, 1813, 1815, 1817, 1819 to 1821, 1823, 1828, 1831f, 1831m, 1831p–1, 1831t, 1842, 1843, 1849, 1865, 1953, 2605, 3201, 3205, 3207, 3351, and 4313 of this title and sections 77c, 78c, 1667c, and 1681g of Title 15, Commerce and Trade, enacted provisions set out as notes under this section, sections 24, 633, 1468, 1820, 1831p–1, and 1831t of this title, and sections 78c and 1667c of Title 15, and amended provisions set out as notes under sections 1825 and 1828 of this title. For complete classification of title III to the Code, see Tables.
+
+#### Use of Subordinated Debt To Protect Financial System and Deposit Funds From “Too Big To Fail” Institutions
+Pub. L. 106–102, title I, § 108, Nov. 12, 1999, 113 Stat. 1361, provided that: “(a) Study Required.—The Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall conduct a study of—“(1) the feasibility and appropriateness of establishing a requirement that, with respect to large insured depository institutions and depository institution holding companies the failure of which could have serious adverse effects on economic conditions or financial stability, such institutions and holding companies maintain some portion of their capital in the form of subordinated debt in order to bring market forces and market discipline to bear on the operation of, and the assessment of the viability of, such institutions and companies and reduce the risk to economic conditions, financial stability, and any deposit insurance fund; “(2) if such requirement is feasible and appropriate, the appropriate amount or percentage of capital that should be subordinated debt consistent with such purposes; and “(3) the manner in which any such requirement could be incorporated into existing capital standards and other issues relating to the transition to such a requirement. “(b) Report.—Before the end of the 18-month period beginning on the date of the enactment of this Act [Nov. 12, 1999], the Board of Governors of the Federal Reserve System and the Secretary of the Treasury shall submit a report to the Congress containing the findings and conclusions of the Board and the Secretary in connection with the study required under subsection (a), together with such legislative and administrative proposals as the Board and the Secretary may determine to be appropriate. “(c) Definitions.—For purposes of subsection (a), the following definitions shall apply:“(1) Bank holding company.—The term ‘bank holding company’ has the meaning given the term in section 2 of the Bank Holding Company Act of 1956 [[12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841)]. “(2) Insured depository institution.—The term ‘insured depository institution’ has the meaning given the term in section 3(c) of the Federal Deposit Insurance Act [[12 U.S.C. 1813(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/c&num=0&edition=prelim)]. “(3) Subordinated debt.—The term ‘subordinated debt’ means unsecured debt that—“(A) has an original weighted average maturity of not less than 5 years; “(B) is subordinated as to payment of principal and interest to all other indebtedness of the bank, including deposits; “(C) is not supported by any form of credit enhancement, including a guarantee or standby letter of credit; and “(D) is not held in whole or in part by any affiliate or institution-affiliated party of the insured depository institution or bank holding company.”
+
+#### Study and Report on Adapting Existing Legislative Requirements to Online Banking and Lending
+Pub. L. 106–102, title VII, § 729, Nov. 12, 1999, 113 Stat. 1476, provided that: “(a) Study Required.—The Federal banking agencies shall conduct a study of banking regulations regarding the delivery of financial services, including those regulations that may assume that there will be person-to-person contact during the course of a financial services transaction, and report their recommendations on adapting those existing requirements to online banking and lending. “(b) Report Required.—Before the end of the 2-year period beginning on the date of the enactment of this Act [Nov. 12, 1999], the Federal banking agencies shall submit a report to the Congress on the findings and conclusions of the agencies with respect to the study required under subsection (a), together with such recommendations for legislative or regulatory action as the agencies may determine to be appropriate. “(c) Definition.—For purposes of this section, the term ‘Federal banking agencies’ means each Federal banking agency (as defined in section 3(z) of the Federal Deposit Insurance Act [[12 U.S.C. 1813(z)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/z&num=0&edition=prelim)]).”
+
+#### Treasury Report on Reduced Taxation and Viability of Small Banks
+Pub. L. 105–219, title IV, § 403, Aug. 7, 1998, 112 Stat. 935, provided that: “The Secretary [of the Treasury] shall, not later than 1 year after the date of enactment of this Act [Aug. 7, 1998], submit a report to the Congress containing— “(1) recommendations for such legislative and administrative action as the Secretary deems appropriate, that would reduce and simplify the tax burden for—“(A) insured depository institutions having less than $1,000,000,000 in assets; and “(B) banks having total assets of not less than $1,000,000,000 nor more than $10,000,000,000; and “(2) any other recommendations that the Secretary deems appropriate that would preserve the viability and growth of small banking institutions in the United States.”
+
+#### Study and Report on Capital Standards and Their Impact on Economy
+Pub. L. 103–325, title III, § 328, Sept. 23, 1994, 108 Stat. 2230, provided that: “(a) In General.—The Secretary of the Treasury, in consultation with the Federal banking agencies, shall conduct a study of the effect that the implementation of risk-based capital standards for depository institutions, including the Basle international capital standards, is having on—“(1) the safety and soundness of insured depository institutions; “(2) the availability of credit, particularly to individuals and small businesses; and “(3) economic growth. “(b) Report.—“(1) In general.—Before the end of the 1-year period beginning on the date of enactment of this Act [Sept. 23, 1994], the Secretary of the Treasury shall submit a report to the Congress on the findings and conclusions of the Secretary with respect to the study conducted under subsection (a). “(2) Recommendations.—The report shall contain any recommendations with respect to capital standards that the Secretary of the Treasury may determine to be appropriate.”
+
+#### Study on Impact of Payment of Interest on Reserves
+Pub. L. 103–325, title III, § 329, Sept. 23, 1994, 108 Stat. 2230, provided that: “(a) Federal Reserve Study.—Not later than 180 days after the date of enactment of this Act [Sept. 23, 1994], the Board of Governors of the Federal Reserve System, in consultation with the Federal Deposit Insurance Corporation and the National Credit Union Administration Board, shall conduct a study and report to the Congress on—“(1) the necessity, for monetary policy purposes, of continuing to require insured depository institutions to maintain sterile reserves; “(2) the appropriateness of paying a market rate of interest to insured depository institutions on sterile reserves or, in the alternative, providing for payment of such interest into the appropriate deposit insurance fund; “(3) the monetary impact that the failure to pay interest on sterile reserves has had on insured depository institutions, including an estimate of the total dollar amount of interest and the potential income lost by insured depository institutions; and “(4) the impact that the failure to pay interest on sterile reserves has had on the ability of the banking industry to compete with nonbanking providers of financial services and with foreign banks. “(b) Budgetary Impact Study.—Not later than 180 days after the date of enactment of this Act [Sept. 23, 1994], the Director of the Office of Management and Budget and the Director of the Congressional Budget Office, in consultation with the Committees on the Budget of the Senate and the House of Representatives, shall jointly conduct a study and report to the Congress on the budgetary impact of—“(1) paying a market rate of interest to insured depository institutions on sterile reserves; and “(2) paying such interest into the respective deposit insurance funds.”
+
+#### Study and Report on Consumer Credit System
+Pub. L. 103–325, title III, § 330, Sept. 23, 1994, 108 Stat. 2231, provided that: “(a) Study.—The Secretary of the Treasury, in consultation with the Board of Governors of the Federal Reserve System, the Administrator of the Small Business Administration, the Secretary of Housing and Urban Development, and the other Federal banking agencies, shall conduct a study of the process, including any Federal laws, by which credit is made available for consumers and small businesses in order to identify procedures, including any Federal laws, which have the effect of—“(1) reducing the amount of credit available for such purposes or the number of persons eligible for such credit; “(2) increasing the level of consumer inconvenience, cost, and time delays in connection with the extension of consumer and small business credit without corresponding benefit with respect to the protection of consumers or small businesses or the safety and soundness of insured depository institutions; and “(3) increasing costs and burdens on insured depository institutions, insured credit unions, and other lenders without corresponding benefit with respect to the protection of consumers or small business concerns or to the safety and soundness of insured institutions. “(b) Report.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Sept. 23, 1994], the Secretary of the Treasury shall submit a report to the Congress on the findings and conclusions of the Secretary with respect to the study conducted under subsection (a). “(2) Recommendations.—The report required by paragraph (1) shall contain any recommendations for administrative action or statutory changes that the Secretary of the Treasury may determine to be appropriate. “(c) Public Participation.—In conducting the study required by subsection (a), comments shall be solicited from consumers, representatives of consumers, insured depository institutions, insured credit unions, other lenders, and other interested parties.”
+
+#### Study on Check-Related Fraud
+Pub. L. 103–325, title III, § 333, Sept. 23, 1994, 108 Stat. 2233, provided that: “(a) Study.—The Board of Governors of the Federal Reserve System (hereafter in this section referred to as the ‘Board’) shall conduct a study on the advisability of extending the 1-business-day period specified in section 603(b)(1) of the Expedited Funds Availability Act [[12 U.S.C. 4002(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4002/b/1&num=0&edition=prelim)], regarding availability of funds deposited by local checks, to 2 business days. “(b) Considerations.—In conducting the study under subsection (a), the Board shall consider—“(1) whether there is a pattern of significant increases in check-related losses at depository institutions attributable to the provisions of the Expedited Funds Availability Act [[12 U.S.C. 4001](./chapter-041-expedited-funds-availability.md#section-4001) et seq.]; and “(2) whether extension of the time period referred to in subsection (a) is necessary to diminish the volume of any such check-related losses. “(c) Report to the Congress.—Not later than 2 years after the date of enactment of this Act [Sept. 23, 1994], the Board shall submit a report to the Congress concerning the results of the study conducted under this section and including any recommendations for legislative action.”
+
+#### Feasibility Study of Data Bank
+Pub. L. 103–325, title III, § 341, Sept. 23, 1994, 108 Stat. 2238, provided that: “(a) In General.—Not later than 18 months after the date of enactment of this Act [Sept. 23, 1994], the Federal Financial Institutions Examination Council shall—“(1) study the feasibility, including the costs and benefits to insured depository institutions, of establishing and maintaining a data bank for reports submitted by any depository institution to a Federal banking agency; and “(2) report the results of such study to the Congress. “(b) Additional Factors.—The study required under subsection (a) shall consider the feasibility of—“(1) permitting depository institutions to file reports directly with the data bank; and “(2) permitting Federal banking agencies, State bank supervisors, and the public to obtain access to any appropriate report on file with the data bank which such agency or supervisor or the public is otherwise authorized to receive.”
+
+#### Timely Completion of CRA Review
+Pub. L. 103–325, title III, § 342, Sept. 23, 1994, 108 Stat. 2238, provided that: “The comprehensive regulatory review of the Community Reinvestment Act of 1977 [[12 U.S.C. 2901](./chapter-030-community-reinvestment.md#section-2901) et seq.] that, as of the date of enactment of this Act [Sept. 23, 1994], is being conducted by the Federal banking agencies, shall be completed at the earliest practicable time.”
+
+#### Waiver of Right of Rescission for Certain Refinancing Transactions
+Pub. L. 103–325, title III, § 344, Sept. 23, 1994, 108 Stat. 2239, provided that: “Not later than 6 months after the date of enactment of this Act [Sept. 23, 1994], the Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council to such Board, consumers, representatives of consumers, lenders, and other interested parties, shall submit recommendations to the Congress regarding whether a waiver or modification, at the option of a consumer, of the right of rescission under section 125 of the Truth in Lending Act [[15 U.S.C. 1635](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1635&num=0&edition=prelim)] with respect to transactions which constitute a refinancing or consolidation (with no new advances) of the principal balance then due, and any accrued and unpaid finance charges of an existing extension of credit by a different creditor secured by an interest in the same property, would benefit consumers.”
+
+
+<a id="section-4802"></a>
+## § 4802. Administrative consideration of burden with new regulations
+**(a) Agency considerations** In determining the effective date and administrative compliance requirements for new regulations that impose additional reporting, disclosure, or other requirements on insured depository institutions, each Federal banking agency shall consider, consistent with the principles of safety and soundness and the public interest—
+
+(1) any administrative burdens that such regulations would place on depository institutions, including small depository institutions and customers of depository institutions; and
+
+(2) the benefits of such regulations.
+
+**(b) Adequate transition period for new regulations**
+
+(1) **In general** — New regulations and amendments to regulations prescribed by a Federal banking agency which impose additional reporting, disclosures, or other new requirements on insured depository institutions shall take effect on the first day of a calendar quarter which begins on or after the date on which the regulations are published in final form, unless—
+
+  (A) the agency determines, for good cause published with the regulation, that the regulation should become effective before such time;
+
+  (B) the regulation is issued by the Board of Governors of the Federal Reserve System in connection with the implementation of monetary policy; or
+
+  (C) the regulation is required to take effect on a date other than the date determined under this paragraph pursuant to any other Act of Congress.
+
+(2) **Early compliance** — Any person who is subject to a regulation described in paragraph (1) may comply with the regulation before the effective date of the regulation.
+
+
+<a id="section-4803"></a>
+## § 4803. Streamlining of regulatory requirements
+**(a) Review of regulations; regulatory uniformity** During the 2-year period beginning on September 23, 1994, each Federal banking agency shall, consistent with the principles of safety and soundness, statutory law and policy, and the public interest—
+
+(1) conduct a review of the regulations and written policies of that agency to—
+
+  (A) streamline and modify those regulations and policies in order to improve efficiency, reduce unnecessary costs, and eliminate unwarranted constraints on credit availability;
+
+  (B) remove inconsistencies and outmoded and duplicative requirements; and
+
+  (C) with respect to regulations prescribed pursuant to section 1828(o) of this title, consider the impact that such standards have on the availability of credit for small business, residential, and agricultural purposes, and on low- and moderate-income communities;
+
+(2) review the extent to which existing regulations require insured depository institutions and insured credit unions to produce unnecessary internal written policies and eliminate such requirements, where appropriate;
+
+(3) work jointly with the other Federal banking agencies to make uniform all regulations and guidelines implementing common statutory or supervisory policies; and
+
+(4) submit a joint report to the Congress at the end of such 2-year period detailing the progress of the agencies in carrying out this subsection.
+
+**(b) Review of disclosures** The Board of Governors of the Federal Reserve System, in consultation with the consumer advisory council to such Board, consumers, representatives of consumers, lenders, and other interested persons, shall—
+
+(1) review the regulations and written policies of the Board with respect to disclosures pursuant to the Truth in Lending Act [[15 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) et seq.] with regard to variable-rate mortgages in order to simplify the disclosures, if necessary, and make the disclosures more meaningful and comprehensible to consumers;
+
+(2) implement any necessary regulatory changes, consistent with applicable law; and
+
+(3) not later than 2 years after completion of the review required by paragraph (1), submit a report to the Congress on the results of its actions taken in accordance with this subsection and any recommended legislative actions.
+
+### Statutory Notes
+
+#### References in Text
+The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+
+#### Amendments
+1996—Subsec. (a)(2) to (4). Pub. L. 104–208 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+#### Update on Review of Regulations and Paperwork Reductions
+Pub. L. 105–219, title IV, § 402, Aug. 7, 1998, 112 Stat. 935, provided that: “Not later than 1 year after the date of enactment of this Act [Aug. 7, 1998], the Federal banking agencies [see [12 U.S.C. 1813(z)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/z&num=0&edition=prelim)] shall submit a report to the Congress detailing their progress in carrying out section 303(a) of the Riegle Community Development and Regulatory Improvement Act of 1994 [[12 U.S.C. 4803(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4803/a&num=0&edition=prelim)], since their submission of the report dated September 23, 1996, as required by section 303(a)(4) of that Act.”
+
+
+<a id="section-4804"></a>
+## § 4804. Elimination of duplicative filings
+
+The Federal banking agencies shall work jointly—
+
+(1) to eliminate, to the extent practicable, duplicative or otherwise unnecessary requests for information in connection with applications or notices to the agencies; and
+
+(2) to harmonize, to the extent practicable, any inconsistent publication and public notice requirements.
+
+
+<a id="section-4805"></a>
+## § 4805. Call report simplification
+**(a) Modernization of call report filing and disclosure system** In order to reduce the administrative requirements pertaining to bank reports of condition, savings association financial reports, and bank holding company consolidated and parent-only financial statements, and to improve the timeliness of such reports and statements, the Federal banking agencies shall—
+
+(1) work jointly to develop a system under which—
+
+  (A) insured depository institutions and their affiliates may file such reports and statements electronically; and
+
+  (B) the Federal banking agencies may make such reports and statements available to the public electronically; and
+
+(2) not later than 1 year after September 23, 1994, report to the Congress and make recommendations for legislation that would enhance efficiency for filers and users of such reports and statements.
+
+**(b) Uniform reports and simplification of instructions** The Federal banking agencies shall, consistent with the principles of safety and soundness, work jointly—
+
+(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a) of this section; and
+
+(2) to simplify instructions accompanying such reports and statements and to provide an index to the instructions that is adequate to meet the needs of both filers and users.
+
+**(c) Review of call report schedule** Each Federal banking agency shall—
+
+(1) review the information required by schedules supplementing the core information referred to in subsection (b) of this section; and
+
+(2) eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
+
+### Statutory Notes
+
+#### Codification
+Provisions similar to this section are contained in [section 4805a of this title](./chapter-048-financial-institutions-regulatory-improvement.md#section-4805a).
+
+
+<a id="section-4805a"></a>
+## § 4805a. Call report simplification
+**(a) Modernization of call report filing and disclosure system** In order to reduce the administrative requirements pertaining to bank reports of condition, savings association financial reports, and bank holding company consolidated and parent-only financial statements, and to improve the timeliness of such reports and statements, the Federal banking agencies shall—
+
+(1) work jointly to develop a system under which—
+
+  (A) insured depository institutions and their affiliates may file such reports and statements electronically; and
+
+  (B) the Federal banking agencies may make such reports and statements available to the public electronically; and
+
+(2) not later than 1 year after December 27, 2000, report to the Congress and make recommendations for legislation that would enhance efficiency for filers and users of such reports and statements.
+
+**(b) Uniform reports and simplification of instructions** The Federal banking agencies shall, consistent with the principles of safety and soundness, work jointly—
+
+(1) to adopt a single form for the filing of core information required to be submitted under Federal law to all such agencies in the reports and statements referred to in subsection (a) of this section; and
+
+(2) to simplify instructions accompanying such reports and statements and to provide an index to the instructions that is adequate to meet the needs of both filers and users.
+
+**(c) Review of call report schedule** Each Federal banking agency shall—
+
+(1) review the information required by schedules supplementing the core information referred to in subsection (b) of this section; and
+
+(2) eliminate requirements that are not warranted for reasons of safety and soundness or other public purposes.
+
+**(d) Definition** In this section, the term “Federal banking agency” has the same meaning as in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Financial Regulatory Relief and Economic Efficiency Act of 2000, and also as part of the American Homeownership and Economic Opportunity Act of 2000, and not as part of title III of Pub. L. 103–325 which comprises this chapter.
+
+Provisions similar to this section are contained in [section 4805 of this title](./chapter-048-financial-institutions-regulatory-improvement.md#section-4805).
+
+
+<a id="section-4806"></a>
+## § 4806. Regulatory appeals process, ombudsman, and alternative dispute resolution
+**(a) In general** Not later than 180 days after September 23, 1994, each appropriate Federal banking agency and the National Credit Union Administration Board shall establish an independent intra-agency appellate process. The process shall be available to review material supervisory determinations made at insured depository institutions or at insured credit unions that the agency supervises.
+
+**(b) Review process** In establishing the independent appellate process under subsection (a) of this section, each agency shall ensure that—
+
+(1) any appeal of a material supervisory determination by an insured depository institution or insured credit union is heard and decided expeditiously; and
+
+(2) appropriate safeguards exist for protecting the appellant from retaliation by agency examiners.
+
+**(c) Comment period** Not later than 90 days after September 23, 1994, each appropriate Federal banking agency and the National Credit Union Administration Board shall provide public notice and opportunity for comment on proposed guidelines for the establishment of an appellate process under this section.
+
+**(d) Agency ombudsman**
+
+(1) **Establishment required** — Not later than 180 days after September 23, 1994, each Federal banking agency and the National Credit Union Administration Board shall appoint an ombudsman.
+
+(2) **Duties of ombudsman** — The ombudsman appointed in accordance with paragraph (1) for any agency shall—
+
+  (A) act as a liaison between the agency and any affected person with respect to any problem such party may have in dealing with the agency resulting from the regulatory activities of the agency; and
+
+  (B) assure that safeguards exist to encourage complainants to come forward and preserve confidentiality.
+
+**(e) Alternative dispute resolution pilot program**
+
+(1) **In general** — Not later than 18 months after September 23, 1994, each Federal banking agency and the National Credit Union Administration Board shall develop and implement a pilot program for using alternative means of dispute resolution of issues in controversy (hereafter in this section referred to as the “alternative dispute resolution program”) that is consistent with the requirements of subchapter IV of chapter 5 of title 5 if the parties to the dispute, including the agency, agree to such proceeding.
+
+(2) **Standards** — An alternative dispute resolution pilot program developed under paragraph (1) shall—
+
+  (A) be fair to all interested parties to a dispute;
+
+  (B) resolve disputes expeditiously; and
+
+  (C) be less costly than traditional means of dispute resolution, including litigation.
+
+(3) **Independent evaluation** — Not later than 18 months after the date on which a pilot program is implemented under paragraph (1), the Administrative Conference of the United States shall submit to the Congress a report containing—
+
+  (A) an evaluation of that pilot program;
+
+  (B) the extent to which the pilot programs meet the standards established under paragraph (2);
+
+  (C) the extent to which parties to disputes were offered alternative means of dispute resolution and the frequency with which the parties, including the agencies, accepted or declined to use such means; and
+
+  (D) any recommendations of the Conference to improve the alternative dispute resolution procedures of the Federal banking agencies and the National Credit Union Administration Board.
+
+(4) **Implementation of program** — At any time after completion of the evaluation under paragraph (3)(A), any Federal banking agency and the National Credit Union Administration Board may implement an alternative dispute resolution program throughout the agency, taking into account the results of that evaluation.
+
+(5) **Coordination with existing agency ADR programs**
+
+  (A) *Evaluation required* — If any Federal banking agency or the National Credit Union Administration maintains an alternative dispute resolution program as of September 23, 1994, under any other provision of law, the Administrative Conference of the United States shall include such program in the evaluation conducted under paragraph (3)(A).
+
+  (B) *Multiple ADR programs* — No provision of this section shall be construed as precluding any Federal banking agency or the National Credit Union Administration Board from establishing more than 1 alternative means of dispute resolution.
+
+**(f) Definitions** For purposes of this section, the following definitions shall apply:
+
+(1) **Material supervisory determinations** — The term “material supervisory determinations”—
+
+  (A) includes determinations relating to—
+
+    (i) examination ratings;
+
+    (ii) the adequacy of loan loss reserve provisions; and
+
+    (iii) loan classifications on loans that are significant to an institution; and
+
+  (B) does not include a determination by a Federal banking agency or the National Credit Union Administration Board to appoint a conservator or receiver for an insured depository institution or a liquidating agent for an insured credit union, as the case may be, or a decision to take action pursuant to section 1831o of this title or [section 1790a of this title](./chapter-014-federal-credit-unions.md#section-1790a), as appropriate.
+
+(2) **Independent appellate process** — The term “independent appellate process” means a review by an agency official who does not directly or indirectly report to the agency official who made the material supervisory determination under review.
+
+(3) **Alternative means of dispute resolution** — The term “alternative means of dispute resolution” has the meaning given to such term in [section 571 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section571&num=0&edition=prelim).
+
+(4) **Issues in controversy** — The term “issues in controversy” means—
+
+  (A) any final agency decision involving any claim against an insured depository institution or insured credit union for which the agency has been appointed conservator or receiver or for which a liquidating agent has been appointed, as the case may be;
+
+  (B) any final action taken by an agency in the agency’s capacity as conservator or receiver for an insured depository institution or by the liquidating agent appointed for an insured credit union; and
+
+  (C) any other issue for which the appropriate Federal banking agency or the National Credit Union Administration Board determines that alternative means of dispute resolution would be appropriate.
+
+**(g) Effect on other authority** Nothing in this section shall affect the authority of an appropriate Federal banking agency or the National Credit Union Administration Board to take enforcement or supervisory action.
+
+### Statutory Notes
+
+#### Termination of Administrative Conference of United States
+For termination of Administrative Conference of United States, see provision of title IV of Pub. L. 104–52, set out as a note preceding [section 591 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section591&num=0&edition=prelim), Government Organization and Employees.
+
+
+<a id="section-4807"></a>
+## § 4807. Time limit on agency consideration of completed applications
+**(a) In general** Each Federal banking agency shall take final action on any application to the agency before the end of the 1-year period beginning on the date on which a completed application is received by the agency.
+
+**(b) Waiver by applicant authorized** Any person submitting an application to a Federal banking agency may waive the applicability of subsection (a) of this section with respect to such application at any time.
+
+
+<a id="section-4808"></a>
+## § 4808. Revising regulatory requirements for transfers of all types of assets with recourse
+**(a) Review and revision of regulations**
+
+(1) **In general** — During the 180-day period beginning on September 23, 1994, each appropriate Federal banking agency shall, consistent with the principles of safety and soundness and the public interest—
+
+  (A) review the agency’s regulations and written policies relating to transfers of assets with recourse by insured depository institutions; and
+
+  (B) in consultation with the other Federal banking agencies, promulgate regulations that better reflect the exposure of an insured depository institution to credit risk from transfers of assets with recourse.
+
+(2) **Regulations required** — Before the end of the 180-day period beginning on September 23, 1994, each appropriate Federal banking agency shall prescribe the regulations developed pursuant to paragraph (1)(B).
+
+**(b) Regulations required**
+
+(1) **In general** — After the end of the 180-day period beginning on September 23, 1994, the amount of risk-based capital required to be maintained, under regulations prescribed by the appropriate Federal banking agency, by any insured depository institution with respect to assets transferred with recourse by such institution may not exceed the maximum amount of recourse for which such institution is contractually liable under the recourse agreement.
+
+(2) **Exception for safety and soundness** — The appropriate Federal banking agency may require any insured depository institution to maintain risk-based capital in an amount greater than the amount determined under paragraph (1), if the agency determines, by regulation or order, that such higher amount is necessary for safety and soundness reasons.
+
+**(c) Coordination with [section 1835(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1835/b&num=0&edition=prelim)** This section shall not be construed as superseding the applicability of [section 1835(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1835/b&num=0&edition=prelim).
+
+**(d) Definitions** For purposes of this section, the terms “appropriate Federal banking agency”, “Federal banking agency”, and “insured depository institution” have the same meanings as in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+
+<a id="section-4809"></a>
+## § 4809. “Plain language” requirement for Federal banking agency rules
+**(a) In general** Each Federal banking agency shall use plain language in all proposed and final rulemakings published by the agency in the Federal Register after January 1, 2000.
+
+**(b) Report** Not later than March 1, 2001, each Federal banking agency shall submit to the Congress a report that describes how the agency has complied with subsection (a) of this section.
+
+**(c) Definition** For purposes of this section, the term “Federal banking agency” has the meaning given that term in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of title III of Pub. L. 103–322 which comprises this chapter.

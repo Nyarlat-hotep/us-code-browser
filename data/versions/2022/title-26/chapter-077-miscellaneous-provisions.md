@@ -1,0 +1,1997 @@
+---
+title: 26
+chapter: '77'
+heading: MISCELLANEOUS PROVISIONS
+section_count: 33
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
+---
+<a id="section-7501"></a>
+## § 7501. Liability for taxes withheld or collected
+**(a) General rule** Whenever any person is required to collect or withhold any internal revenue tax from any other person and to pay over such tax to the United States, the amount of tax so collected or withheld shall be held to be a special fund in trust for the United States. The amount of such fund shall be assessed, collected, and paid in the same manner and subject to the same provisions and limitations (including penalties) as are applicable with respect to the taxes from which such fund arose.
+
+**(b) Penalties** For penalties applicable to violations of this section, see sections 6672 and 7202.
+
+
+<a id="section-7502"></a>
+## § 7502. Timely mailing treated as timely filing and paying
+**(a) General rule**
+
+(1) **Date of delivery** — If any return, claim, statement, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of the internal revenue laws is, after such period or such date, delivered by United States mail to the agency, officer, or office with which such return, claim, statement, or other document is required to be filed, or to which such payment is required to be made, the date of the United States postmark stamped on the cover in which such return, claim, statement, or other document, or payment, is mailed shall be deemed to be the date of delivery or the date of payment, as the case may be.
+
+(2) **Mailing requirements** — This subsection shall apply only if—
+
+  (A) the postmark date falls within the prescribed period or on or before the prescribed date—
+
+    (i) for the filing (including any extension granted for such filing) of the return, claim, statement, or other document, or
+
+    (ii) for making the payment (including any extension granted for making such payment), and
+
+  (B) the return, claim, statement, or other document, or payment was, within the time prescribed in subparagraph (A), deposited in the mail in the United States in an envelope or other appropriate wrapper, postage prepaid, properly addressed to the agency, officer, or office with which the return, claim, statement, or other document is required to be filed, or to which such payment is required to be made.
+
+**(b) Postmarks** This section shall apply in the case of postmarks not made by the United States Postal Service only if and to the extent provided by regulations prescribed by the Secretary.
+
+**(c) Registered and certified mailing; electronic filing**
+
+(1) **Registered mail** — For purposes of this section, if any return, claim, statement, or other document, or payment, is sent by United States registered mail—
+
+  (A) such registration shall be prima facie evidence that the return, claim, statement, or other document was delivered to the agency, officer, or office to which addressed; and
+
+  (B) the date of registration shall be deemed the postmark date.
+
+(2) **Certified mail; electronic filing** — The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail and electronic filing.
+
+**(d) Exceptions** This section shall not apply with respect to—
+
+(1) the filing of a document in, or the making of a payment to, any court other than the Tax Court,
+
+(2) currency or other medium of payment unless actually received and accounted for, or
+
+(3) returns, claims, statements, or other documents, or payments, which are required under any provision of the internal revenue laws or the regulations thereunder to be delivered by any method other than by mailing.
+
+**(e) Mailing of deposits**
+
+(1) **Date of deposit** — If any deposit required to be made (pursuant to regulations prescribed by the Secretary under section 6302(c)) on or before a prescribed date is, after such date, delivered by the United States mail to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit, such deposit shall be deemed received by such bank, trust company, domestic building and loan association, or credit union on the date the deposit was mailed.
+
+(2) **Mailing requirements** — Paragraph (1) shall apply only if the person required to make the deposit establishes that—
+
+  (A) the date of mailing falls on or before the second day before the prescribed date for making the deposit (including any extension of time granted for making such deposit), and
+
+  (B) the deposit was, on or before such second day, mailed in the United States in an envelope or other appropriate wrapper, postage prepaid, properly addressed to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit.
+  In applying subsection (c) for purposes of this subsection, the term “payment” includes “deposit”, and the reference to the postmark date refers to the date of mailing.
+
+(3) **No application to certain deposits** — Paragraph (1) shall not apply with respect to any deposit of $20,000 or more by any person who is required to deposit any tax more than once a month.
+
+**(f) Treatment of private delivery services**
+
+(1) **In general** — Any reference in this section to the United States mail shall be treated as including a reference to any designated delivery service, and any reference in this section to a postmark by the United States Postal Service shall be treated as including a reference to any date recorded or marked as described in paragraph (2)(C) by any designated delivery service.
+
+(2) **Designated delivery service** — For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+
+  (A) is available to the general public,
+
+  (B) is at least as timely and reliable on a regular basis as the United States mail,
+
+  (C) records electronically to its data base, kept in the regular course of its business, or marks on the cover in which any item referred to in this section is to be delivered, the date on which such item was given to such trade or business for delivery, and
+
+  (D) meets such other criteria as the Secretary may prescribe.
+
+(3) **Equivalents of registered and certified mail** — The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
+
+### Statutory Notes
+
+#### Amendments
+1998—Subsec. (c). Pub. L. 105–206 inserted “; electronic filing” after “mailing” in heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows:
+
+“(1) Registered mail.—For purposes of this section, if any such return, claim, statement, or other document, or payment, is sent by United States registered mail—
+
+“(A) such registration shall be prima facie evidence that the return, claim, statement, or other document was delivered to the agency, officer, or office to which addressed, and
+
+“(B) the date of registration shall be deemed the postmark date.
+
+“(2) Certified mail.—The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) of this subsection with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail.”
+
+1996—Subsec. (f). Pub. L. 104–168 added subsec. (f).
+
+1986—Subsec. (e)(3). Pub. L. 99–514 substituted “any tax” for “the tax”.
+
+1984—Subsec. (e)(3). Pub. L. 98–369 added par. (3).
+
+1977—Subsec. (e). Pub. L. 95–147 substituted “, trust company, domestic building and loan association, or credit union” for “or trust company” in three places.
+
+1976—Subsec. (b). Pub. L. 94–455, § 1906(a)(49), (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
+
+Subsecs. (c)(2), (e)(1). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+1968—Subsec. (e). Pub. L. 90–364 added subsec. (e).
+
+1966—Subsec. (a). Pub. L. 89–713 inserted filing of tax returns and the payments of tax to the list of operations to which the timely-mailing-timely-filing provisions of the subsec. apply and altered the subsec. structurally by dividing its provisions into pars. (1) and (2).
+
+Subsec. (b). Pub. L. 89–713 substituted “Postmarks” for “Stamp machine” in heading.
+
+Subsec. (c). Pub. L. 89–713 inserted returns and payments to the list of operations to which the timely-mailing-timely-filing provisions apply and altered par. (1) structurally by dividing its provisions into subpars. (A) and (B).
+
+Subsec. (d). Pub. L. 89–713 designated existing provisions as par. (1) and added pars. (2) and (3).
+
+1958—Subsec. (c). Pub. L. 85–866 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 1986 Amendment
+Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48).
+
+#### Effective Date of 1984 Amendment
+Pub. L. 98–369, div. A, title I, § 157(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by this section [amending this section] shall apply to deposits required to be made after July 31, 1984.”
+
+#### Effective Date of 1977 Amendment
+Amendment by Pub. L. 95–147 applicable to amounts deposited after Oct. 28, 1977, see section 3(c) of Pub. L. 95–147, set out as a note under [section 6302 of this title](./chapter-064-collection.md#section-6302).
+
+#### Effective Date of 1976 Amendment
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under [section 6013 of this title](./chapter-061-information-and-returns.md#section-6013).
+
+#### Effective Date of 1968 Amendment
+Pub. L. 90–364, title I, § 106(b), June 28, 1968, 82 Stat. 266, provided that: “The amendment made by subsec. (a) [amending this section] shall apply only as to mailing occurring after the date of the enactment of this Act [June 28, 1968].”
+
+#### Effective Date of 1966 Amendment
+Pub. L. 89–713, § 5(c), Nov. 2, 1966, 80 Stat. 1111, provided that: “The amendments made by this section [amending this section] shall apply only if the mailing occurs after the date of the enactment of this Act [Nov. 2, 1966].”
+
+#### Effective Date of 1958 Amendment
+Pub. L. 85–866, title I, § 89(d), Sept. 2, 1958, 72 Stat. 1666, provided that: “This section [amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title] shall apply only if the mailing occurs after the date of the enactment of this Act [Sept. 2, 1958].”
+
+#### Plan Amendments Not Required Until January 1, 1989
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+#### Provisions of Internal Revenue Code of 1939
+Pub. L. 85–866, title I, § 89(c), Sept. 2, 1958, 72 Stat. 1666, provided that: “In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail.”
+
+
+<a id="section-7503"></a>
+## § 7503. Time for performance of acts where last day falls on Saturday, Sunday, or legal holiday
+
+When the last day prescribed under authority of the internal revenue laws for performing any act falls on Saturday, Sunday, or a legal holiday, the performance of such act shall be considered timely if it is performed on the next succeeding day which is not a Saturday, Sunday, or a legal holiday. For purposes of this section, the last day for the performance of any act shall be determined by including any authorized extension of time; the term “legal holiday” means a legal holiday in the District of Columbia; and in the case of any return, statement, or other document required to be filed, or any other act required under authority of the internal revenue laws to be performed, at any office of the Secretary or at any other office of the United States or any agency thereof, located outside the District of Columbia but within an internal revenue district, the term “legal holiday” also means a Statewide legal holiday in the State where such office is located.
+
+### Statutory Notes
+
+#### Amendments
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Applicability of This Section for Purposes of Section 10222(b) of Pub. L. 100–203
+Pub. L. 100–647, title VI, § 6278, Nov. 10, 1988, 102 Stat. 3754, provided that: “Section 7503 of the 1986 Code shall apply for purposes of determining whether any disposition meets the requirements of section 10222(b)(2)(B) of the Revenue Act of 1987 [Pub. L. 100–203, set out as a note under [section 301 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-301)]. If any disposition meets the requirements of such section by reason of the preceding sentence, for all purposes of the 1986 Code, such disposition shall be deemed to have occurred on December 31, 1988.”
+
+
+<a id="section-7504"></a>
+## § 7504. Fractional parts of a dollar
+
+The Secretary may by regulations provide that in the allowance of any amount as a credit or refund, or in the collection of any amount as a deficiency or underpayment, of any tax imposed by this title, a fractional part of a dollar shall be disregarded, unless it amounts to 50 cents or more, in which case it shall be increased to 1 dollar.
+
+### Statutory Notes
+
+#### Amendments
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+
+<a id="section-7505"></a>
+## § 7505. Sale of personal property acquired by the United States
+**(a) Sale** Any personal property acquired by the United States in payment of or as security for debts arising under the internal revenue laws may be sold by the Secretary in accordance with such regulations as may be prescribed by the Secretary.
+
+**(b) Accounting** In case of the resale of such property, the proceeds of the sale shall be paid into the Treasury as internal revenue collections, and there shall be rendered a distinct account of all charges incurred in such sales.
+
+### Statutory Notes
+
+#### Amendments
+1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+1966—Pub. L. 89–719 substituted “acquired by the United States in payment of or as security for debts arising under the internal revenue laws” for “purchased by the United States under the authority of section 6335(e) (relating to purchase for the account of the United States of property sold under levy)” in subsec. (a), and substituted “acquired” for “purchased” in section catchline.
+
+#### Effective Date of 1966 Amendment
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under [section 6323 of this title](./chapter-064-collection.md#section-6323).
+
+
+<a id="section-7506"></a>
+## § 7506. Administration of real estate acquired by the United States
+**(a) Person charged with** The Secretary shall have charge of all real estate which is or shall become the property of the United States by judgment of forfeiture under the internal revenue laws, or which has been or shall be assigned, set off, or conveyed by purchase or otherwise to the United States in payment of debts or penalties arising under the laws relating to internal revenue, or which has been or shall be vested in the United States by mortgage or other security for the payment of such debts, or which has been redeemed by the United States, and of all trusts created for the use of the United States in payment of such debts due them.
+
+**(b) Sale** The Secretary, may, at public sale, and upon not less than 20 days’ notice, sell and dispose of any real estate owned or held by the United States as aforesaid.
+
+**(c) Lease** Until such sale, the Secretary may lease such real estate owned as aforesaid on such terms and for such period as the Secretary shall deem proper.
+
+**(d) Release to debtor** In cases where real estate has or may become the property of the United States by conveyance or otherwise, in payment of or as security for a debt arising under the laws relating to internal revenue, and such debt shall have been paid, together with the interest thereon, at the rate of 1 percent per month, to the United States, within 2 years from the date of the acquisition of such real estate, it shall be lawful for the Secretary to release by deed or otherwise convey such real estate to the debtor from whom it was taken, or to his heirs or other legal representatives.
+
+### Statutory Notes
+
+#### Amendments
+1976—Subsecs. (a) to (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+1966—Subsec. (a). Pub. L. 89–719 inserted reference to real estate which has been redeemed by the United States.
+
+#### Effective Date of 1966 Amendment
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under [section 6323 of this title](./chapter-064-collection.md#section-6323).
+
+
+<a id="section-7507"></a>
+## § 7507. Exemption of insolvent banks from tax
+**(a) Assets in general** Whenever and after any bank or trust company, a substantial portion of the business of which consists of receiving deposits and making loans and discounts, has ceased to do business by reason of insolvency or bankruptcy, no tax shall be assessed or collected, or paid into the Treasury of the United States, on account of such bank or trust company, which shall diminish the assets thereof necessary for the full payment of all its depositors; and such tax shall be abated from such national banks as are found by the Comptroller of the Currency to be insolvent; and the Secretary, when the facts shall appear to him, is authorized to remit so much of the said tax against any such insolvent banks and trust companies organized under State law as shall be found to affect the claims of their depositors.
+
+**(b) Segregated assets; earnings** Whenever any bank or trust company, a substantial portion of the business of which consists of receiving deposits and making loans and discounts, has been released or discharged from its liability to its depositors for any part of their claims against it, and such depositors have accepted, in lieu thereof, a lien upon subsequent earnings of such bank or trust company, or claims against assets segregated by such bank or trust company or against assets transferred from it to an individual or corporate trustee or agent, no tax shall be assessed or collected, or paid into the Treasury of the United States, on account of such bank or trust company, such individual or corporate trustee or such agent, which shall diminish the assets thereof which are available for the payment of such depositor claims and which are necessary for the full payment thereof. The term “agent”, as used in this subsection, shall be deemed to include a corporation acting as a liquidating agent.
+
+**(c) Refund; reassessment; statutes of limitation**
+
+(1) Any such tax collected shall be deemed to be erroneously collected, and shall be refunded subject to all provisions and limitations of law, so far as applicable, relating to the refunding of taxes.
+
+(2) Any tax, the assessment, collection, or payment of which is barred under subsection (a), or any such tax which has been abated or remitted shall be assessed or reassessed whenever it shall appear that payment of the tax will not diminish the assets as aforesaid.
+
+(3) Any tax, the assessment, collection, or payment of which is barred under subsection (b), or any such tax which has been refunded shall be assessed or reassessed after full payment of such claims of depositors to the extent of the remaining assets segregated or transferred as described in subsection (b).
+
+(4) The running of the statute of limitations on the making of assessment and collection shall be suspended during, and for 90 days beyond, the period for which, pursuant to this section, assessment or collection may not be made, and a tax may be reassessed as provided in paragraphs (2) and (3) of this subsection and collected, during the time within which, had there been no abatement, collection might have been made.
+
+**(d) Exception of employment taxes** This section shall not apply to any tax imposed by chapter 21 or chapter 23.
+
+### Statutory Notes
+
+#### Amendments
+1976—Subsec. (a). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+Subsec. (c). Pub. L. 94–455, § 1906(a)(50), struck out “after May 28, 1938” in par. (2) after “or remitted” and in par. (3) after “been refunded”.
+
+#### Effective Date of 1976 Amendment
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under [section 6013 of this title](./chapter-061-information-and-returns.md#section-6013).
+
+
+<a id="section-7508"></a>
+## § 7508. Time for performing certain acts postponed by reason of service in combat zone or contingency operation
+**(a) Time to be disregarded** In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a “combat zone” for purposes of section 112, or when deployed outside the United States away from the individual’s permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in [section 101(a)(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13&num=0&edition=prelim), United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
+
+(1) Whether any of the following acts was performed within the time prescribed therefor:
+
+  (A) Filing any return of income, estate, gift, employment, or excise tax;
+
+  (B) Payment of any income, estate, gift, employment, or excise tax or any installment thereof or of any other liability to the United States in respect thereof;
+
+  (C) Filing a petition with the Tax Court, or filing a notice of appeal from a decision of the Tax Court;
+
+  (D) Allowance of a credit or refund of any tax;
+
+  (E) Filing a claim for credit or refund of any tax;
+
+  (F) Bringing suit upon any such claim for credit or refund;
+
+  (G) Assessment of any tax;
+
+  (H) Giving or making any notice or demand for the payment of any tax, or with respect to any liability to the United States in respect of any tax;
+
+  (I) Collection, by the Secretary, by levy or otherwise, of the amount of any liability in respect of any tax;
+
+  (J) Bringing suit by the United States, or any officer on its behalf, in respect of any liability in respect of any tax or in respect of any erroneous refund; and
+
+  (K) Any other act required or permitted under the internal revenue laws specified by the Secretary;
+
+(2) The amount of any credit or refund; and
+
+(3) Any certification of a seriously delinquent tax debt under section 7345.
+
+**(b) Special rule for overpayments**
+
+(1) **In general** — Subsection (a) shall not apply for purposes of determining the amount of interest on any overpayment of tax.
+
+(2) **Special rules** — If an individual is entitled to the benefits of subsection (a) with respect to any return and such return is timely filed (determined after the application of such subsection), subsections (b)(3) and (e) of section 6611 shall not apply.
+
+**(c) Application to spouse** The provisions of this section shall apply to the spouse of any individual entitled to the benefits of subsection (a). Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause this section to apply for any spouse for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
+
+**(d) Missing status** The period of service in the area or contingency operation referred to in subsection (a) shall include the period during which an individual entitled to benefits under subsection (a) is in a missing status, within the meaning of section 6013(f)(3).
+
+**(e) Exceptions**
+
+(1) **Tax in jeopardy; cases under title 11 of the United States Code and receiverships; and transferred assets** — Notwithstanding the provisions of subsection (a), any action or proceeding authorized by section 6851 (regardless of the taxable year for which the tax arose), chapter 70, or 71, as well as any other action or proceeding authorized by law in connection therewith, may be taken, begun, or prosecuted. In any other case in which the Secretary determines that collection of the amount of any assessment would be jeopardized by delay, the provisions of subsection (a) shall not operate to stay collection of such amount by levy or otherwise as authorized by law. There shall be excluded from any amount assessed or collected pursuant to this paragraph the amount of interest, penalty, additional amount, and addition to the tax, if any, in respect of the period disregarded under subsection (a). In any case to which this paragraph relates, if the Secretary is required to give any notice to or make any demand upon any person, such requirement shall be deemed to be satisfied if the notice or demand is prepared and signed, in any case in which the address of such person last known to the Secretary is in an area for which United States post offices under instructions of the Postmaster General are not, by reason of the combatant activities, accepting mail for delivery at the time the notice or demand is signed. In such case the notice or demand shall be deemed to have been given or made upon the date it is signed.
+
+(2) **Action taken before ascertainment of right to benefits** — The assessment or collection of any internal revenue tax or of any liability to the United States in respect of any internal revenue tax, or any action or proceeding by or on behalf of the United States in connection therewith, may be made, taken, begun, or prosecuted in accordance with law, without regard to the provisions of subsection (a), unless prior to such assessment collection, action, or proceeding it is ascertained that the person concerned is entitled to the benefits of subsection (a).
+
+(3) **Collection period after assessment not extended as a result of hospitalization** — With respect to any period of continuous qualified hospitalization described in subsection (a) and the next 180 days thereafter, subsection (a) shall not apply in the application of section 6502.
+
+**(f) Treatment of individuals performing Desert Shield services**
+
+(1) **In general** — Any individual who performed Desert Shield services (and the spouse of such individual) shall be entitled to the benefits of this section in the same manner as if such services were services referred to in subsection (a).
+
+(2) **Desert Shield services** — For purposes of this subsection, the term “Desert Shield services” means any services in the Armed Forces of the United States or in support of such Armed Forces if—
+
+  (A) such services are performed in the area designated by the President pursuant to this subparagraph as the “Persian Gulf Desert Shield area”, and
+
+  (B) such services are performed during the period beginning on August 2, 1990, and ending on the date on which any portion of the area referred to in subparagraph (A) is designated by the President as a combat zone pursuant to section 112.
+
+**(g) Qualified hospitalization** For purposes of subsection (a), the term “qualified hospitalization” means—
+
+(1) any hospitalization outside the United States, and
+
+(2) any hospitalization inside the United States, except that not more than 5 years of hospitalization may be taken into account under this paragraph.
+Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
+
+### Statutory Notes
+
+#### Amendments
+2021—Subsec. (a)(1)(C). Pub. L. 117–58, § 80502(a)(1), added subpar. (C) and struck out former subpar. (C) which read as follows: “Filing a petition with the Tax Court for redetermination of a deficiency, or for review of a decision rendered by the Tax Court;”.
+
+Subsec. (a)(1)(J). Pub. L. 117–58, § 80502(a)(2), inserted “or in respect of any erroneous refund” after “any tax”.
+
+2015—Subsec. (a)(3). Pub. L. 114–94 added par. (3).
+
+Subsec. (e)(3). Pub. L. 114–113 added par. (3).
+
+2005—Subsec. (a)(1)(A), (B). Pub. L. 109–73 amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
+
+“(A) Filing any return of income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby);
+
+“(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;”.
+
+2003—Pub. L. 108–121, § 104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
+
+Subsec. (a). Pub. L. 108–121, § 104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual’s permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in [section 101(a)(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13&num=0&edition=prelim), United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
+
+Subsec. (d). Pub. L. 108–121, § 104(b)(1), inserted “or contingency operation” after “area”.
+
+2002—Subsec. (a)(1)(K). Pub. L. 107–134 struck out “in regulations prescribed under this section” before “by the Secretary”.
+
+1991—Subsec. (a). Pub. L. 102–2, § 1(c)(1), in introductory provisions, struck out “outside the United States” before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
+
+Subsec. (a)(2). Pub. L. 102–2, § 1(b)(2), struck out “(including interest)” after “refund”.
+
+Subsecs. (b) to (e). Pub. L. 102–2, § 1(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+
+Subsecs. (f), (g). Pub. L. 102–2, § 1(a), (c)(2), added subsecs. (f) and (g).
+
+1986—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not cause this section to apply to any spouse for any taxable year beginning—
+
+“(1) after December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
+
+“(2) more than 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in paragraph (1).”
+
+1983—Subsec. (b)(1). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
+
+1980—Subsec. (d). Pub. L. 96–589 substituted “cases under title 11 of the United States Code and receiverships” for “bankruptcy and receiverships” in par. (1) heading.
+
+1976—Pub. L. 94–455, § 1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
+
+Subsec. (a). Pub. L. 94–455, § 1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
+
+Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “taxable year beginning more than 2 years after” in provisions preceding par. (1), substituted “after January 2, 1978” for “the date of the enactment of this subsection” in par. (1), and substituted “more than 2 years after the date designated” for “the date designated” in par. (2).
+
+Subsec. (d). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+
+1975—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title V, § 80502(b), Nov. 15, 2021, 135 Stat. 1336, provided that: “The amendments made by this section [amending this section] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act [Nov. 15, 2021].”
+
+#### Effective Date of 2015 Amendment
+Pub. L. 114–113, div. Q, title III, § 309(b), Dec. 18, 2015, 129 Stat. 3090, provided that: “The amendment made by this section [amending this section] shall apply to taxes assessed before, on, or after the date of the enactment of this Act [Dec. 18, 2015].”
+
+#### Effective Date of 2005 Amendment
+Pub. L. 109–73, title IV, § 403(c), Sept. 23, 2005, 119 Stat. 2027, provided that: “The amendment made by subsection (a) [amending this section] shall apply for any period for performing an act which has not expired before August 25, 2005.”
+
+#### Effective Date of 2003 Amendment
+Pub. L. 108–121, title I, § 104(c), Nov. 11, 2003, 117 Stat. 1338, provided that: “The amendments made by this section [amending this section] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act [Nov. 11, 2003].”
+
+#### Effective Date of 2002 Amendment
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under [section 6081 of this title](./chapter-061-information-and-returns.md#section-6081).
+
+#### Effective Date of 1991 Amendment
+Pub. L. 102–2, § 1(d), Jan. 30, 1991, 105 Stat. 6, provided that: “The amendments made by this section [amending this section] shall take effect on August 2, 1990.”
+
+#### Effective Date of 1986 Amendment
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1982, see section 1708(b) of Pub. L. 99–514, set out as a note under [section 2 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-2).
+
+#### Effective Date of 1980 Amendment
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under [section 108 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-108).
+
+#### Effective Date of 1976 Amendment
+Amendment by Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under [section 6013 of this title](./chapter-061-information-and-returns.md#section-6013).
+
+#### Effective Date of 1975 Amendment
+Pub. L. 93–597, § 5(b), Jan. 2, 1975, 88 Stat. 1953, provided that: “The amendments made by subsection (a) [amending this section] shall apply to taxable years ending on or after February 28, 1961.”
+
+#### Transfer of Functions
+Office of Postmaster General of Post Office Department abolished and all functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, § 4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under [section 201 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section201&num=0&edition=prelim), Postal Service.
+
+#### Ex. Ord. No. 12750. Designation of Arabian Peninsula Areas, Airspace, and Adjacent Waters as Persian Gulf Desert Shield Area
+Ex. Ord. No. 12750, Feb. 14, 1991, 56 F.R. 6785, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7508 of the Internal Revenue Code of 1986 ([26 U.S.C. 7508](./chapter-077-miscellaneous-provisions.md#section-7508)), I hereby designate, for purposes of that section, the following locations, including the air space above such locations, as the Persian Gulf Desert Shield area in which any individual who performed Desert Shield services (including the spouse of such individual) is entitled to the benefits of section 7508 of the Internal Revenue Code of 1986:
+
+—the Persian Gulf
+
+—the Red Sea
+
+—the Gulf of Oman
+
+—that portion of the Arabian Sea that lies north of 10 degrees north latitude and west of 68 degrees east longitude
+
+—the Gulf of Aden
+
+—the total land area of Iraq, Kuwait, Saudi Arabia, Oman, Bahrain, Qatar, and the United Arab Emirates.
+
+George Bush.
+
+
+<a id="section-7508a"></a>
+## § 7508A. Authority to postpone certain deadlines by reason of Federally declared disaster, significant fire, or terroristic or military actions
+**(a) In general** In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(i)(5)(A)), a significant fire, or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
+
+(1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster, fire, or action),
+
+(2) the amount of any interest, penalty, additional amount, or addition to the tax for periods after such date, and
+
+(3) the amount of any credit or refund.
+
+**(b) Special rules regarding pensions, etc.** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a disaster, fire, or action described in subsection (a), the Secretary may specify a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this title. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+
+**(c) Special rules for overpayments** The rules of section 7508(b) shall apply for purposes of this section.
+
+**(d) Mandatory 60-day extension**
+
+(1) **In general** — In the case of any qualified taxpayer, the period—
+
+  (A) beginning on the earliest incident date specified in the declaration to which the disaster area referred to in paragraph (2) relates, and
+
+  (B) ending on the date which is 60 days after the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued,
+  shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such qualified taxpayer, whether any of the acts described in subparagraphs (A) through (F) of section 7508(a)(1) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date determined under subparagraph (B)).
+
+(2) **Qualified taxpayer** — For purposes of this subsection, the term “qualified taxpayer” means—
+
+  (A) any individual whose principal residence (for purposes of section 1033(h)(4)) is located in a disaster area,
+
+  (B) any taxpayer if the taxpayer’s principal place of business (other than the business of performing services as an employee) is located in a disaster area,
+
+  (C) any individual who is a relief worker affiliated with a recognized government or philanthropic organization and who is assisting in a disaster area,
+
+  (D) any taxpayer whose records necessary to meet a deadline for an act described in section 7508(a)(1) are maintained in a disaster area,
+
+  (E) any individual visiting a disaster area who was killed or injured as a result of the disaster, and
+
+  (F) solely with respect to a joint return, any spouse of an individual described in any preceding subparagraph of this paragraph.
+
+(3) **Disaster area** — For purposes of this subsection, the term “disaster area” means an area in which a major disaster for which the President provides financial assistance under section 408 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5174](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174&num=0&edition=prelim)) occurs.
+
+(4) **Application to rules regarding pensions** — In the case of any person described in subsection (b), a rule similar to the rule of paragraph (1) shall apply for purposes of subsection (b) with respect to—
+
+  (A) making contributions to a qualified retirement plan (within the meaning of section 4974(c)) under section 219(f)(3), 404(a)(6), 404(h)(1)(B), or 404(m)(2),
+
+  (B) making distributions under section 408(d)(4),
+
+  (C) recharacterizing contributions under section 408A(d)(6), and
+
+  (D) making a rollover under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3).
+
+(5) **Coordination with periods specified by the Secretary** — Any period described in paragraph (1) with respect to any person (including by reason of the application of paragraph (4)) shall be in addition to (or concurrent with, as the case may be) any period specified under subsection (a) or (b) with respect to such person.
+
+(6) **Multiple declarations** — For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
+
+**(e) Significant fire** For purposes of this section, the term “significant fire” means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+### Statutory Notes
+
+#### References in Text
+Section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (e), is classified to [section 5187 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5187&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Amendments
+2021—Pub. L. 117–58, § 80504(b)(1), substituted “Federally declared disaster, significant fire,” for “Presidentially declared disaster” in section catchline.
+
+Subsec. (a). Pub. L. 117–58, § 80504(a)(1), which directed insertion of “, a significant fire,” after “federally declared disaster (as defined in section 165(i)(5)(A))”, was executed by making the insertion after “federally declared disaster (as defined by section 165(i)(5)(A))” in introductory provisions, to reflect the probable intent of Congress.
+
+Subsec. (a)(1). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
+
+Subsec. (b). Pub. L. 117–58, § 80504(a)(2), inserted “, fire,” after “disaster”.
+
+Subsec. (d)(1). Pub. L. 117–58, § 80501(a)(1)(B), in concluding provisions, substituted “in determining, under the internal revenue laws, in respect of any tax liability of such qualified taxpayer, whether any of the acts described in subparagraphs (A) through (F) of section 7508(a)(1) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date determined under subparagraph (B))” for “in the same manner as a period specified under subsection (a)”.
+
+Subsec. (d)(1)(B). Pub. L. 117–58, § 80501(a)(1)(A), substituted “the later of such earliest incident date described in subparagraph (A) or the date such declaration was issued” for “the latest incident date so specified”.
+
+Subsec. (d)(3). Pub. L. 117–58, § 80501(a)(2), added par. (3) and struck out former par. (3) which defined the term “disaster area”.
+
+Subsec. (d)(6). Pub. L. 117–58, § 80501(a)(3), added par. (6).
+
+Subsec. (e). Pub. L. 117–58, § 80504(a)(3), added subsec. (e).
+
+2019—Subsec. (d). Pub. L. 116–94 added subsec. (d).
+
+2018—Subsec. (a). Pub. L. 115–141 substituted “section 165(i)(5)(A)” for “section 165(h)(3)(C)(i)” in introductory provisions.
+
+2008—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
+
+2002—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
+
+2001—Subsec. (a). Pub. L. 107–16 substituted “120 days” for “90 days” in introductory provisions.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 117–58, div. H, title V, § 80501(b), Nov. 15, 2021, 135 Stat. 1335, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of enactment of this Act [Nov. 15, 2021].”
+
+Pub. L. 117–58, div. H, title V, § 80504(c), Nov. 15, 2021, 135 Stat. 1337, provided that: “The amendments made by this section [amending this section] shall apply to fires for which assistance is provided after the date of the enactment of this Act [Nov. 15, 2021].”
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–94, div. Q, title II, § 205(b), Dec. 20, 2019, 133 Stat. 3246, provided that: “The amendment made by this section [amending this section] shall apply to federally declared disasters declared after the date of the enactment of this Act [Dec. 20, 2019].”
+
+#### Effective Date of 2008 Amendment
+Amendment by Pub. L. 110–343 applicable to disasters declared in taxable years beginning after Dec. 31, 2007, see section 706(d)(1) of Pub. L. 110–343, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
+
+#### Effective Date of 2002 Amendment
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under [section 6081 of this title](./chapter-061-information-and-returns.md#section-6081).
+
+#### Effective Date of 2001 Amendment
+Pub. L. 107–16, title VIII, § 802(b), June 7, 2001, 115 Stat. 149, provided that: “The amendment made by this section [amending this section] shall take effect on the date of enactment of this Act [June 7, 2001].”
+
+#### Effective Date
+Pub. L. 105–34, title IX, § 911(c), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendments made by this section [enacting this section] shall apply with respect to any period for performing an act that has not expired before the date of the enactment of this Act [Aug. 5, 1997].”
+
+#### Savings Provision
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
+#### Extension of Certain Deferred Payroll Taxes by Reason of Coronavirus Pandemic
+Pub. L. 116–260, div. N, title II, § 274, Dec. 27, 2020, 134 Stat. 1978, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled ‘Relief with Respect to Employment Tax Deadlines Applicable to Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic’) and any successor or related regulation, notice, or guidance is applied— “(1) by substituting ‘December 31, 2021’ for ‘April 30, 2021’ each place it appears therein, and “(2) by substituting ‘January 1, 2022’ for ‘May 1, 2021’ each place it appears therein.”
+
+#### Authority To Postpone Certain Tax-Related Deadlines by Reason of Y2K Failures
+Pub. L. 106–170, title V, § 522, Dec. 17, 1999, 113 Stat. 1927, provided that: “(a) In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary’s delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—“(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and “(2) the amount of any credit or refund. “(b) Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
+
+#### Abatement of Interest on Underpayments by Taxpayers in Presidentially Declared Disaster Areas
+Pub. L. 105–34, title IX, § 915, Aug. 5, 1997, 111 Stat. 879, as amended by Pub. L. 105–277, div. J, title IV, § 4003(e)(1), Oct. 21, 1998, 112 Stat. 2681–909, provided that: “(a) In General.—If the Secretary of the Treasury extends for any period the time for filing income tax returns under section 6081 of the Internal Revenue Code of 1986 and the time for paying income tax with respect to such returns under section 6161 of such Code (and waives any penalties relating to the failure to so file or so pay) for any individual located in a Presidentially declared disaster area, the Secretary shall, notwithstanding section 7508A(b) of such Code, abate for such period the assessment of any interest prescribed under section 6601 of such Code on such income tax. “(b) Presidentially Declared Disaster Area.—For purposes of subsection (a), the term ‘Presidentially declared disaster area’ means, with respect to any individual, any area which the President has determined during 1997 or 1998 warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.]. “(c) Individual.—For purposes of this section, the term ‘individual’ shall not include any estate or trust. “(d) Effective Date.—This section shall apply to disasters declared after December 31, 1996.”
+
+#### Deferring Payroll Tax Obligations in Light of the Ongoing COVID–19 Disaster
+Memorandum of President of the United States, Aug. 8, 2020, 85 F.R. 49587, provided:
+
+Memorandum for the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. The 2019 novel coronavirus (COVID–19) that originated in the People’s Republic of China has caused significant, sudden, and unexpected disruptions to the American economy. On March 13, 2020, I determined that the COVID–19 pandemic is of sufficient severity and magnitude to warrant an emergency declaration under section 501(b) [[42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)] of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, [42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim)—5207, and that is still the case today. American workers have been particularly hard hit by this ongoing disaster. While the Department of the Treasury has already undertaken historic efforts to alleviate the hardships of our citizens, it is clear that further temporary relief is necessary to support working Americans during these challenging times. To that end, today I am directing the Secretary of the Treasury to use his authority to defer certain payroll tax obligations with respect to the American workers most in need. This modest, targeted action will put money directly in the pockets of American workers and generate additional incentives for work and employment, right when the money is needed most.
+
+Sec. 2. Deferring Certain Payroll Tax Obligations. The Secretary of the Treasury is hereby directed to use his authority pursuant to [26 U.S.C. 7508A](./chapter-077-miscellaneous-provisions.md#section-7508a) to defer the withholding, deposit, and payment of the tax imposed by [26 U.S.C. 3101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3101/a&num=0&edition=prelim), and so much of the tax imposed by [26 U.S.C. 3201](./chapter-022-railroad-retirement-tax-act.md#section-3201) as is attributable to the rate in effect under [26 U.S.C. 3101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3101/a&num=0&edition=prelim), on wages or compensation, as applicable, paid during the period of September 1, 2020, through December 31, 2020, subject to the following conditions:
+
+(a) The deferral shall be made available with respect to any employee the amount of whose wages or compensation, as applicable, payable during any bi-weekly pay period generally is less than $4,000, calculated on a pre-tax basis, or the equivalent amount with respect to other pay periods.
+
+(b) Amounts deferred pursuant to the implementation of this memorandum shall be deferred without any penalties, interest, additional amount, or addition to the tax.
+
+Sec. 3. Authorizing Guidance. The Secretary of the Treasury shall issue guidance to implement this memorandum.
+
+Sec. 4. Tax Forgiveness. The Secretary of the Treasury shall explore avenues, including legislation, to eliminate the obligation to pay the taxes deferred pursuant to the implementation of this memorandum.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) You are authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
+
+<a id="section-7509"></a>
+## § 7509. Expenditures incurred by the United States Postal Service
+
+The Postmaster General or his delegate shall at least once a month transfer to the Treasury of the United States a statement of the additional expenditures in the District of Columbia and elsewhere incurred by the United States Postal Service in performing the duties, if any, imposed upon such Service with respect to chapter 21, relating to the tax under the Federal Insurance Contributions Act, and the Secretary shall be authorized and directed to advance from time to time to the credit of the United States Postal Service, from appropriations made for the collection of the taxes imposed by chapter 21, such sums as may be required for such additional expenditures incurred by the United States Postal Service.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
+
+#### Amendments
+1976—Pub. L. 94–455 substituted “United States Postal Service” for “Post Office Department” in section catchline and wherever appearing in text, “such Service” for “such Department”, and struck out “, together with the receipts required to be deposited under section 6803(a),” after “Treasury of the United States” and “or his delegate” after “Secretary”.
+
+#### Effective Date of 1976 Amendment
+Amendment by Pub. L. 94–455 effective first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as a note under [section 6013 of this title](./chapter-061-information-and-returns.md#section-6013).
+
+
+<a id="section-7510"></a>
+## § 7510. Exemption from tax of domestic goods purchased for the United States
+
+The privilege existing by provision of law on December 1, 1873, or thereafter of purchasing supplies of goods imported from foreign countries for the use of the United States, duty free, shall be extended, under such regulations as the Secretary may prescribe, to all articles of domestic production which are subject to tax by the provisions of this title.
+
+### Statutory Notes
+
+#### Amendments
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+
+<a id="section-7511"></a>
+## § 7511. Repealed. Pub. L. 87–456, title III, § 302(d), May 24, 1962, 76 Stat. 77]
+
+### Statutory Notes
+
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 900, related to exemption of consular officers and employees of foreign states from payment of internal revenue taxes on imported articles.
+
+#### Effective Date of Repeal
+Repeal effective with respect to articles entered, or withdrawn from warehouse, for consumption on or after Aug. 31, 1963, see section 501(a) of Pub. L. 87–456, title V, May 24, 1962, 76 Stat. 78.
+
+
+<a id="section-7512"></a>
+## § 7512. Separate accounting for certain collected taxes, etc.
+**(a) General rule** Whenever any person who is required to collect, account for, and pay over any tax imposed by subtitle C or chapter 33—
+
+(1) at the time and in the manner prescribed by law or regulations (A) fails to collect, truthfully account for, or pay over such tax, or (B) fails to make deposits, payments, or returns of such tax, and
+
+(2) is notified, by notice delivered in hand to such person, of any such failure,
+then all the requirements of subsection (b) shall be complied with. In the case of a corporation, partnership, or trust, notice delivered in hand to an officer, partner, or trustee, shall, for purposes of this section, be deemed to be notice delivered in hand to such corporation, partnership, or trust and to all officers, partners, trustees, and employees thereof.
+
+**(b) Requirements** Any person who is required to collect, account for, and pay over any tax imposed by subtitle C or chapter 33, if notice has been delivered to such person in accordance with subsection (a), shall collect the taxes imposed by subtitle C or chapter 33 which become collectible after delivery of such notice, shall (not later than the end of the second banking day after any amount of such taxes is collected) deposit such amount in a separate account in a bank (as defined in section 581), and shall keep the amount of such taxes in such account until payment over to the United States. Any such account shall be designated as a special fund in trust for the United States, payable to the United States by such person as trustee.
+
+**(c) Relief from further compliance with subsection (b)** Whenever the Secretary is satisfied, with respect to any notification made under subsection (a), that all requirements of law and regulations with respect to the taxes imposed by subtitle C or chapter 33, as the case may be, will henceforth be complied with, he may cancel such notification. Such cancellation shall take effect at such time as is specified in the notice of such cancellation.
+
+### Statutory Notes
+
+#### Amendments
+1988—Subsec. (a). Pub. L. 100–418, § 1941(b)(2)(O)(i), substituted “or chapter 33” for “, by chapter 33, or by section 4986” in introductory provisions.
+
+Subsec. (b). Pub. L. 100–418, § 1941(b)(2)(O)(i), (ii), substituted “or chapter 33” for “, by chapter 33, or by section 4986” and “or chapter 33” for “, chapter 33, or section 4986”.
+
+Subsec. (c). Pub. L. 100–418, § 1941(b)(2)(O)(ii), substituted “or chapter 33” for “, chapter 33, or section 4986”.
+
+1980—Subsecs. (a) to (c). Pub. L. 96–223 inserted references to tax imposed by section 4986.
+
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 1988 Amendment
+Amendment by Pub. L. 100–418 applicable to crude oil removed from the premises on or after Aug. 23, 1988, see section 1941(c) of Pub. L. 100–418, set out as a note under [section 164 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-164).
+
+#### Effective Date of 1980 Amendment
+Amendment by Pub. L. 96–223 applicable to periods after Feb. 29, 1980, see section 101(i) of Pub. L. 96–223, set out as a note under [section 6161 of this title](./chapter-062-time-and-place-for-paying-tax.md#section-6161).
+
+#### Notification of Failure To Collect, Account for, and Pay Over Taxes
+Pub. L. 85–321, § 4, Feb. 11, 1958, 72 Stat. 6, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Notification may be made under section 7512(a) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (as added by the first section of this Act)— “(1) in the case of taxes imposed by subtitle C of such Code, only with respect to pay periods beginning after the date of the enactment of this Act [Feb. 11, 1958]; and “(2) in the case of taxes imposed by chapter 33 of such Code, only with respect to taxes so imposed after the date of the enactment of this Act [Feb. 11, 1958].”
+
+
+<a id="section-7513"></a>
+## § 7513. Reproduction of returns and other documents
+**(a) In general** The Secretary is authorized to have any Federal agency or any person process films or other photoimpressions of any return, document, or other matter, and make reproductions from films or photoimpressions of any return, document, or other matter.
+
+**(b) Regulations** The Secretary shall prescribe regulations which shall provide such safeguards as in the opinion of the Secretary are necessary or appropriate to protect the film, photoimpressions, and reproductions made therefrom, against any unauthorized use, and to protect the information contained therein against any unauthorized disclosure.
+
+**(c) Penalty** For penalty for violation of regulations for safeguarding against unauthorized use of any film or photoimpression, or reproduction made therefrom, and against unauthorized disclosure of information contained therein, see section 7213.
+
+### Statutory Notes
+
+#### Amendments
+1976—Subsecs. (a), (b). Pub. L. 94–455, § 1906(b) (13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+
+Subsecs. (c), (d). Pub. L. 94–455, § 1202(f), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to legal status and evidentiary use of reproductions.
+
+#### Effective Date
+Section effective Aug. 17, 1954, see section 1(c) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under [section 165 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-165).
+
+
+<a id="section-7514"></a>
+## § 7514. Authority to prescribe or modify seals
+
+The Secretary is authorized to prescribe or modify seals of office for the district directors of internal revenue and other officers or employees of the Treasury Department to whom any of the functions of the Secretary of the Treasury shall have been or may be delegated. Each seal so prescribed shall contain such device as the Secretary may select. Each seal shall remain in the custody of any officer or employee whom the Secretary may designate, and, in accordance with the regulations approved by the Secretary, may be affixed in lieu of the seal of the Treasury Department to any certificate or attestation (except for material to be published in the Federal Register) that may be required of such officer or employee. Judicial notice shall be taken of any seal prescribed in accordance with this authority, a facsimile of which has been published in the Federal Register together with the regulations prescribing such seal and the affixation thereof.
+
+### Statutory Notes
+
+#### Amendments
+1976—Pub. L. 94–455 substituted “functions of the Secretary of the Treasury” for “functions of the Secretary” after “whom any of the” and struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date
+Section effective Aug. 17, 1954, see section 1(c) of Pub. L. 85–866, set out as an Effective Date of 1958 Amendment note under [section 165 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-165).
+
+
+<a id="section-7515"></a>
+## § 7515. Repealed. Pub. L. 94–455, title XII, § 1202(h)(4), Oct. 4, 1976, 90 Stat. 1688]
+
+### Statutory Notes
+
+Section, added Pub. L. 87–870, § 3(a)(1), Oct. 23, 1962, 76 Stat. 1160, authorized Secretary, within his discretion and upon written request, to make special statistical studies and compilations from any information received by compliance with this title, such studies were authorized to be made jointly with party or parties requesting them and transcripts to be made available to requesting party for a fee.
+
+#### Effective Date of Repeal
+Repeal effective Jan. 1, 1977, see section 1202(i) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under [section 6103 of this title](./chapter-061-information-and-returns.md#section-6103).
+
+
+<a id="section-7516"></a>
+## § 7516. Supplying training and training aids on request
+
+The Secretary is authorized within his discretion, upon written request, to admit employees and officials of any State, the Commonwealth of Puerto Rico, any possession of the United States, any political subdivision or instrumentality of any of the foregoing, the District of Columbia, or any foreign government to training courses conducted by the Internal Revenue Service, and to supply them with texts and other training aids. The Secretary may require payment from the party or parties making the request of a reasonable fee not to exceed the cost of the training and training aids supplied pursuant to such request.
+
+### Statutory Notes
+
+#### Amendments
+1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+
+<a id="section-7517"></a>
+## § 7517. Furnishing on request of statement explaining estate or gift valuation
+**(a) General rule** If the Secretary makes a determination or a proposed determination of the value of an item of property for purposes of the tax imposed under chapter 11, 12, or 13, he shall furnish, on the written request of the executor, donor, or the person required to make the return of the tax imposed by chapter 13 (as the case may be), to such executor, donor, or person a written statement containing the material required by subsection (b). Such statement shall be furnished not later than 45 days after the later of the date of such request or the date of such determination or proposed determination.
+
+**(b) Contents of statement** A statement required to be furnished under subsection (a) with respect to the value of an item of property shall—
+
+(1) explain the basis on which the valuation was determined or proposed,
+
+(2) set forth any computation used in arriving at such value, and
+
+(3) contain a copy of any expert appraisal made by or for the Secretary.
+
+**(c) Effect of statement** Except to the extent otherwise provided by law, the value determined or proposed by the Secretary with respect to which a statement is furnished under this section, and the method used in arriving at such value, shall not be binding on the Secretary.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 94–455, title XX, § 2008(d)(1), Oct. 4, 1976, 90 Stat. 1892, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsection (a) [enacting this section and amending sections 2031 and 2512 of this title]— “(A) insofar as they relate to the tax imposed under chapter 11 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954, section 2001 et seq. of this title], shall apply to the estates of decedents dying after December 31, 1976, and “(B) insofar as they relate to the tax imposed under chapter 12 of such Code [section 2501 et seq. of this title], shall apply to gifts made after December 31, 1976.”
+
+
+<a id="section-7518"></a>
+## § 7518. Tax incentives relating to merchant marine capital construction funds
+**(a) Ceiling on deposits**
+
+(1) **In general** — The amount deposited in a fund established under chapter 535 of title 46 of the United States Code (hereinafter in this section referred to as a “capital construction fund”) shall not exceed for any taxable year the sum of:
+
+  (A) that portion of the taxable income of the owner or lessee for such year (computed as provided in chapter 1 but without regard to the carryback of any net operating loss or net capital loss and without regard to this section) which is attributable to the operation of the agreement vessels in the foreign or domestic commerce of the United States or in the fisheries of the United States,
+
+  (B) the amount allowable as a deduction under section 167 for such year with respect to the agreement vessels,
+
+  (C) if the transaction is not taken into account for purposes of subparagraph (A), the net proceeds (as defined in joint regulations) from—
+
+    (i) the sale or other disposition of any agreement vessel, or
+
+    (ii) insurance or indemnity attributable to any agreement vessel, and
+
+  (D) the receipts from the investment or reinvestment of amounts held in such fund.
+
+(2) **Limitations on deposits by lessees** — In the case of a lessee, the maximum amount which may be deposited with respect to an agreement vessel by reason of paragraph (1)(B) for any period shall be reduced by any amount which, under an agreement entered into under chapter 535 of title 46, United States Code, the owner is required or permitted to deposit for such period with respect to such vessel by reason of paragraph (1)(B).
+
+(3) **Certain barges and containers included** — For purposes of paragraph (1), the term “agreement vessel” includes barges and containers which are part of the complement of such vessel and which are provided for in the agreement.
+
+**(b) Requirements as to investments**
+
+(1) **In general** — Amounts in any capital construction fund shall be kept in the depository or depositories specified in the agreement and shall be subject to such trustee and other fiduciary requirements as may be specified by the Secretary.
+
+(2) **Limitation on fund investments** — Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
+
+(3) **Investment in certain preferred stock permitted** — For purposes of this subsection, if the common stock of a corporation meets the requirements of this subsection and if the preferred stock of such corporation would meet such requirements but for the fact that it cannot be listed and registered as required because it is nonvoting stock, such preferred stock shall be treated as meeting the requirements of this subsection.
+
+**(c) Nontaxability for deposits**
+
+(1) **In general** — For purposes of this title—
+
+  (A) taxable income (determined without regard to this section and chapter 535 of title 46, United States Code) for the taxable year shall be reduced by an amount equal to the amount deposited for the taxable year out of amounts referred to in subsection (a)(1)(A),
+
+  (B) gain from a transaction referred to in subsection (a)(1)(C) shall not be taken into account if an amount equal to the net proceeds (as defined in joint regulations) from such transaction is deposited in the fund,
+
+  (C) the earnings (including gains and losses) from the investment and reinvestment of amounts held in the fund shall not be taken into account,
+
+  (D) the earnings and profits (within the meaning of section 316) of any corporation shall be determined without regard to this section and chapter 535 of title 46, United States Code, and
+
+  (E) in applying the tax imposed by section 531 (relating to the accumulated earnings tax), amounts while held in the fund shall not be taken into account.
+
+(2) **Only qualified deposits eligible for treatment** — Paragraph (1) shall apply with respect to any amount only if such amount is deposited in the fund pursuant to the agreement and not later than the time provided in joint regulations.
+
+**(d) Establishment of accounts** For purposes of this section—
+
+(1) **In general** — Within a capital construction fund 3 accounts shall be maintained:
+
+  (A) the capital account,
+
+  (B) the capital gain account, and
+
+  (C) the ordinary income account.
+
+(2) **Capital account** — The capital account shall consist of—
+
+  (A) amounts referred to in subsection (a)(1)(B),
+
+  (B) amounts referred to in subsection (a)(1)(C) other than that portion thereof which represents gain not taken into account by reason of subsection (c)(1)(B),
+
+  (C) the percentage applicable under section 243(a)(1) of any dividend received by the fund with respect to which the person maintaining the fund would (but for subsection (c)(1)(C)) be allowed a deduction under section 243, and
+
+  (D) interest income exempt from taxation under section 103.
+
+(3) **Capital gain account** — The capital gain account shall consist of—
+
+  (A) amounts representing capital gains on assets held for more than 6 months and referred to in subsection (a)(1)(C) or (a)(1)(D), reduced by
+
+  (B) amounts representing capital losses on assets held in the fund for more than 6 months.
+
+(4) **Ordinary income account** — The ordinary income account shall consist of—
+
+  (A) amounts referred to in subsection (a)(1)(A),
+
+  (B)
+
+    (i) amounts representing capital gains on assets held for 6 months or less and referred to in subsection (a)(1)(C) or (a)(1)(D), reduced by
+
+    (ii) amounts representing capital losses on assets held in the fund for 6 months or less,
+
+  (C) interest (not including any tax-exempt interest referred to in paragraph (2)(D)) and other ordinary income (not including any dividend referred to in subparagraph (E)) received on assets held in the fund,
+
+  (D) ordinary income from a transaction described in subsection (a)(1)(C), and
+
+  (E) the portion of any dividend referred to in paragraph (2)(C) not taken into account under such paragraph.
+
+(5) **Capital losses only allowed to offset certain gains** — Except on termination of a capital construction fund, capital losses referred to in paragraph (3)(B) or in paragraph (4)(B)(ii) shall be allowed only as an offset to gains referred to in paragraph (3)(A) or (4)(B)(i), respectively.
+
+**(e) Purposes of qualified withdrawals**
+
+(1) **In general** — A qualified withdrawal from the fund is one made in accordance with the terms of the agreement but only if it is for:
+
+  (A) the acquisition, construction, or reconstruction of a qualified vessel,
+
+  (B) the acquisition, construction, or reconstruction of barges and containers which are part of the complement of a qualified vessel, or
+
+  (C) the payment of the principal on indebtedness incurred in connection with the acquisition, construction, or reconstruction of a qualified vessel or a barge or container which is part of the complement of a qualified vessel.
+  Except to the extent provided in regulations prescribed by the Secretary, subparagraph (B), and so much of subparagraph (C) as relates only to barges and containers, shall apply only with respect to barges and containers constructed in the United States.
+
+(2) **Penalty for failing to fulfill any substantial obligation** — Under joint regulations, if the Secretary determines that any substantial obligation under any agreement is not being fulfilled, he may, after notice and opportunity for hearing to the person maintaining the fund, treat the entire fund or any portion thereof as an amount withdrawn from the fund in a nonqualified withdrawal.
+
+**(f) Tax treatment of qualified withdrawals**
+
+(1) **Ordering rule** — Any qualified withdrawal from a fund shall be treated—
+
+  (A) first as made out of the capital account,
+
+  (B) second as made out of the capital gain account, and
+
+  (C) third as made out of the ordinary income account.
+
+(2) **Adjustment to basis of vessel, etc., where withdrawal from ordinary income account** — If any portion of a qualified withdrawal for a vessel, barge, or container is made out of the ordinary income account, the basis of such vessel, barge, or container shall be reduced by an amount equal to such portion.
+
+(3) **Adjustment to basis of vessel, etc., where withdrawal from capital gain account** — If any portion of a qualified withdrawal for a vessel, barge, or container is made out of the capital gain account, the basis of such vessel, barge, or container shall be reduced by an amount equal to such portion.
+
+(4) **Adjustment to basis of vessels, etc., where withdrawals pay principal on debt** — If any portion of a qualified withdrawal to pay the principal on any indebtedness is made out of the ordinary income account or the capital gain account, then an amount equal to the aggregate reduction which would be required by paragraphs (2) and (3) if this were a qualified withdrawal for a purpose described in such paragraphs shall be applied, in the order provided in joint regulations, to reduce the basis of vessels, barges, and containers owned by the person maintaining the fund. Any amount of a withdrawal remaining after the application of the preceding sentence shall be treated as a nonqualified withdrawal.
+
+(5) **Ordinary income recapture of basis reduction** — If any property the basis of which was reduced under paragraph (2), (3), or (4) is disposed of, any gain realized on such disposition, to the extent it does not exceed the aggregate reduction in the basis of such property under such paragraphs, shall be treated as an amount referred to in subsection (g)(3)(A) which was withdrawn on the date of such disposition. Subject to such conditions and requirements as may be provided in joint regulations, the preceding sentence shall not apply to a disposition where there is a redeposit in an amount determined under joint regulations which will, insofar as practicable, restore the fund to the position it was in before the withdrawal.
+
+**(g) Tax treatment of nonqualified withdrawals**
+
+(1) **In general** — Except as provided in subsection (h), any withdrawal from a capital construction fund which is not a qualified withdrawal shall be treated as a nonqualified withdrawal.
+
+(2) **Ordering rule** — Any nonqualified withdrawal from a fund shall be treated—
+
+  (A) first as made out of the ordinary income account,
+
+  (B) second as made out of the capital gain account, and
+
+  (C) third as made out of the capital account.
+  For purposes of this section, items withdrawn from any account shall be treated as withdrawn on a first-in-first-out basis; except that (i) any nonqualified withdrawal for research, development, and design expenses incident to new and advanced ship design, machinery and equipment, and (ii) any amount treated as a nonqualified withdrawal under the second sentence of subsection (f)(4), shall be treated as withdrawn on a last-in-first-out basis.
+
+(3) **Operating rules** — For purposes of this title—
+
+  (A) any amount referred to in paragraph (2)(A) shall be included in income as an item of ordinary income for the taxable year in which the withdrawal is made,
+
+  (B) any amount referred to in paragraph (2)(B) shall be included in income for the taxable year in which the withdrawal is made as an item of gain realized during such year from the disposition of an asset held for more than 6 months, and
+
+  (C) for the period on or before the last date prescribed for payment of tax for the taxable year in which this withdrawal is made—
+
+    (i) no interest shall be payable under section 6601 and no addition to the tax shall be payable under section 6651,
+
+    (ii) interest on the amount of the additional tax attributable to any item referred to in subparagraph (A) or (B) shall be paid at the applicable rate (as defined in paragraph (4)) from the last date prescribed for payment of the tax for the taxable year for which such item was deposited in the fund, and
+
+    (iii) no interest shall be payable on amounts referred to in clauses (i) and (ii) of paragraph (2) or in the case of any nonqualified withdrawal arising from the application of the recapture provision of section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969.
+
+(4) **Interest rate** — For purposes of paragraph (3)(C)(ii), the applicable rate of interest for any nonqualified withdrawal shall be determined and published jointly by the Secretary of the Treasury or his delegate and the applicable Secretary and shall bear a relationship to 8 percent which the Secretaries determine under joint regulations to be comparable to the relationship which the money rates and investment yields for the calendar year immediately preceding the beginning of the taxable year bear to the money rates and investment yields for the calendar year 1970.
+
+(5) **Amount not withdrawn from fund after 25 years from deposit taxed as nonqualified withdrawal**
+
+  (A) *In general* — The applicable percentage of any amount which remains in a capital construction fund at the close of the 26th, 27th, 28th, 29th, or 30th taxable year following the taxable year for which such amount was deposited shall be treated as a nonqualified withdrawal in accordance with the following table: If the amount remains in the fund at the close of the—The applicable percentage is— 26th taxable year20 percent 27th taxable year40 percent 28th taxable year60 percent 29th taxable year80 percent 30th taxable year100 percent.
+
+  (B) *Earnings treated as deposits* — The earnings of any capital construction fund for any taxable year (other than net gains) shall be treated for purposes of this paragraph as an amount deposited for such taxable year.
+
+  (C) *Amounts committed treated as withdrawn* — For purposes of subparagraph (A), an amount shall not be treated as remaining in a capital construction fund at the close of any taxable year to the extent there is a binding contract at the close of such year for a qualified withdrawal of such amount with respect to an identified item for which such withdrawal may be made.
+
+  (D) *Authority to treat excess funds as withdrawn* — If the Secretary determines that the balance in any capital construction fund exceeds the amount which is appropriate to meet the vessel construction program objectives of the person who established such fund, the amount of such excess shall be treated as a nonqualified withdrawal under subparagraph (A) unless such person develops appropriate program objectives within 3 years to dissipate such excess.
+
+  (E) *Amounts in fund on January 1, 1987* — For purposes of this paragraph, all amounts in a capital construction fund on January 1, 1987, shall be treated as deposited in such fund on such date.
+
+(6) **Nonqualified withdrawals taxed at highest marginal rate**
+
+  (A) *In general* — In the case of any taxable year for which there is a nonqualified withdrawal (including any amount so treated under paragraph (5)), the tax imposed by chapter 1 shall be determined—
+
+    (i) by excluding such withdrawal from gross income, and
+
+    (ii) by increasing the tax imposed by chapter 1 by the product of the amount of such withdrawal and the highest rate of tax specified in section 1 (section 11 in the case of a corporation).
+    In the case of a taxpayer other than a corporation, with respect to the portion of any nonqualified withdrawal made out of the capital gain account during a taxable year to which section 1(h) applies, the rate of tax taken into account under the preceding sentence shall not exceed 20 percent.
+
+  (B) *Tax benefit rule* — If any portion of a nonqualified withdrawal is properly attributable to deposits (other than earnings on deposits) made by the taxpayer in any taxable year which did not reduce the taxpayer’s liability for tax under chapter 1 for any taxable year preceding the taxable year in which such withdrawal occurs—
+
+    (i) such portion shall not be taken into account under subparagraph (A), and
+
+    (ii) an amount equal to such portion shall be treated as allowed as a deduction under section 172 for the taxable year in which such withdrawal occurs.
+
+  (C) *Coordination with deduction for net operating losses* — Any nonqualified withdrawal excluded from gross income under subparagraph (A) shall be excluded in determining taxable income under section 172(b)(2).
+
+**(h) Certain corporate reorganizations and changes in partnerships** Under joint regulations—
+
+(1) a transfer of a fund from one person to another person in a transaction to which section 381 applies may be treated as if such transaction did not constitute a nonqualified withdrawal, and
+
+(2) a similar rule shall be applied in the case of a continuation of a partnership.
+
+**(i) Definitions** For purposes of this section, any term defined in chapter 535 of title 46, United States Code, which is also used in this section (including the definition of “Secretary”) shall have the meaning given such term by such chapter as in effect on the date of the enactment of this section.
+
+### Statutory Notes
+
+#### References in Text
+Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, § 22, 52 Stat. 960; July 17, 1952, ch. 939, § 16, 66 Stat. 764; and May 10, 1956, ch. 247, § 1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, § 20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under [section 53101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53101&num=0&edition=prelim), Shipping.
+
+The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
+
+#### Amendments
+2018—Subsec. (i). Pub. L. 115–141 substituted “chapter 535 of title 46, United States Code,” for “section 607(k) of the Merchant Marine Act, 1936” and “such chapter” for “such section 607(k)”.
+
+2017—Subsec. (g)(6)(A). Pub. L. 115–97, § 13001(b)(7), in concluding provisions, substituted “In the case of a taxpayer other than a corporation, with respect to the portion” for “With respect to the portion” and struck out “(34 percent in the case of a corporation)” after “shall not exceed 20 percent”.
+
+Pub. L. 115–97, § 13001(b)(2)(Q), struck out “or 1201(a)” after “section 1(h)” in concluding provisions.
+
+2014—Subsec. (g)(4). Pub. L. 113–295, which directed substitution of “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal” and all that followed through “ ‘shall be determined”, was executed by substituting “any nonqualified withdrawal shall be determined” for “any nonqualified withdrawal—
+
+“(A) made in a taxable year beginning in 1970 or 1971 is 8 percent, or
+
+“(B) made in a taxable year beginning after 1971, shall be determined”
+
+to reflect the probable intent of Congress.
+
+2013—Subsec. (g)(6)(A). Pub. L. 112–240 substituted “20 percent” for “15 percent” in concluding provisions.
+
+2006—Subsec. (a)(1). Pub. L. 109–304, § 17(e)(6)(A), substituted “chapter 535 of title 46 of the United States Code” for “section 607 of the Merchant Marine Act, 1936”.
+
+Subsecs. (a)(2), (c)(1)(A), (D). Pub. L. 109–304, § 17(e)(6)(B), substituted “chapter 535 of title 46, United States Code” for “section 607 of the Merchant Marine Act, 1936”.
+
+Subsec. (g)(3)(C)(iii). Pub. L. 109–304, § 17(e)(6)(C), substituted “Merchant Marine Act, 1936,” for “Merchant Marine Act of 1936”.
+
+2003—Subsec. (g)(6)(A). Pub. L. 108–27 substituted “15 percent” for “20 percent” in concluding provisions.
+
+1997—Subsec. (g)(6)(A). Pub. L. 105–34 substituted “20 percent” for “28 percent” in concluding provisions.
+
+1990—Subsec. (g)(6)(A). Pub. L. 101–508 substituted “section 1(h)” for “section 1(j)” in last sentence.
+
+1988—Subsec. (g)(1). Pub. L. 100–647, § 1018(u)(23), substituted “not a qualified withdrawal” for “not qualified withdrawal”.
+
+Subsec. (g)(6)(A). Pub. L. 100–647, § 1002(m)(1), substituted “section 1(j)” for “section 1(i)”.
+
+#### Effective Date of 2017 Amendment
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+#### Effective Date of 2013 Amendment
+Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 102(d)(1) of Pub. L. 112–240, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+#### Effective Date of 2003 Amendment
+Amendment by Pub. L. 108–27 applicable to taxable years ending on or after May 6, 2003, see section 301(d) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+#### Effective Date of 1997 Amendment
+Amendment by Pub. L. 105–34 applicable to taxable years ending after May 6, 1997, see section 311(d) of Pub. L. 105–34, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+#### Effective Date of 1990 Amendment
+Amendment by Pub. L. 101–508 applicable to taxable years beginning after Dec. 31, 1990, see section 11101(e) of Pub. L. 101–508, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+#### Effective Date of 1988 Amendment
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+#### Effective Date
+Pub. L. 99–514, title II, § 261(g), Oct. 22, 1986, 100 Stat. 2216, provided that: “The amendments made by this section [enacting this section and amending [section 26 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-26) and [section 1177 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1177&num=0&edition=prelim), Appendix, Shipping] shall apply to taxable years beginning after December 31, 1986.”
+
+#### Merchant Marine Capital Construction Funds
+Pub. L. 99–514, title II, § 261(a), Oct. 22, 1986, 100 Stat. 2208, provided that: “The purpose of this section [enacting this section, amending [section 26 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-26) and [section 1177 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1177&num=0&edition=prelim), Appendix, and enacting provisions set out as a note above] is to coordinate the application of the Internal Revenue Code of 1986 with the capital construction program under the Merchant Marine Act, 1936 [see [46 U.S.C. 53501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53501&num=0&edition=prelim) et seq.].”
+
+
+<a id="section-7519"></a>
+## § 7519. Required payments for entities electing not to have required taxable year
+**(a) General rule** This section applies to a partnership or S corporation for any taxable year, if—
+
+(1) an election under section 444 is in effect for the taxable year, and
+
+(2) the required payment determined under subsection (b) for such taxable year (or any preceding taxable year) exceeds $500.
+
+**(b) Required payment** For purposes of this section, the term “required payment” means, with respect to any applicable election year of a partnership or S corporation, an amount equal to—
+
+(1) the excess of the product of—
+
+  (A) the applicable percentage of the adjusted highest section 1 rate, multiplied by
+
+  (B) the net base year income of the entity, over
+
+(2) the net required payment balance.
+For purposes of paragraph (1)(A), the term “adjusted highest section 1 rate” means the highest rate of tax in effect under section 1 as of the end of the base year plus 1 percentage point (or, in the case of applicable election years beginning in 1987, 36 percent).
+
+**(c) Refund of payments**
+
+(1) **In general** — If, for any applicable election year, the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), the entity shall be entitled to a refund of such excess for such year.
+
+(2) **Termination of elections, etc.** — If—
+
+  (A) an election under section 444 is terminated effective with respect to any year, or
+
+  (B) the entity is liquidated during any year, the entity shall be entitled to a refund of the net required payment balance.
+
+(3) **Date on which refund payable** — Any refund under this subsection shall be payable on the later of—
+
+  (A) April 15 of the calendar year following—
+
+    (i) in the case of the year referred to in paragraph (1), the calendar year in which it begins,
+
+    (ii) in the case of the year referred to in paragraph (2), the calendar year in which it ends, or
+
+  (B) the day 90 days after the day on which claim therefor is filed with the Secretary.
+
+**(d) Net base year income** For purposes of this section—
+
+(1) **In general** — An entity’s net base year income shall be equal to the sum of—
+
+  (A) the deferral ratio multiplied by the entity’s net income for the base year, plus
+
+  (B) the excess (if any) of—
+
+    (i) the deferral ratio multiplied by the aggregate amount of applicable payments made by the entity during the base year, over
+
+    (ii) the aggregate amount of such applicable payments made during the deferral period of the base year.
+  For purposes of this paragraph, the term “deferral ratio” means the ratio which the number of months in the deferral period of the base year bears to the number of months in the partnership’s or S corporation’s taxable year.
+
+(2) **Net income** — Net income is determined by taking into account the aggregate amount of the following items—
+
+  (A) *Partnerships* — In the case of a partnership, net income shall be the amount (not below zero) determined by taking into account the aggregate amount of the partnership’s items described in section 702(a) (other than credits and tax-exempt income).
+
+  (B) *S corporations* — In the case of an S corporation, net income shall be the amount (not below zero) determined by taking into account the aggregate amount of the S corporation’s items described in section 1366(a) (other than credits and tax-exempt income). If the S corporation was a C corporation for the base year, its taxable income for such year shall be treated as its net income for such year (and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3)).
+
+  (C) *Certain limitations disregarded* — For purposes of subparagraph (A) or (B), any limitation on the amount of any item described in either such paragraph which may be taken into account for purposes of computing the taxable income of a partner or shareholder shall be disregarded.
+
+(3) **Applicable payments**
+
+  (A) *In general* — The term “applicable payment” means amounts paid by a partnership or S corporation which are includible in gross income of a partner or shareholder.
+
+  (B) *Exceptions* — The term “applicable payment” shall not include any—
+
+    (i) gain from the sale or exchange of property between the partner or shareholder and the partnership or S corporation, and
+
+    (ii) dividend paid by the S corporation.
+
+(4) **Applicable percentage** — The applicable percentage is the percentage determined in accordance with the following table: If the applicable election year of the partnership or S corporation begins during:The applicable percentage is: 198725 198850 198975 1990 or thereafter100. Notwithstanding the preceding provisions of this paragraph, the applicable percentage for any partnership or S corporation shall be 100 percent unless more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.
+
+(5) **Treatment of guaranteed payments**
+
+  (A) *In general* — Any guaranteed payment by a partnership shall not be treated as an applicable payment, and the amount of the net income of the partnership shall be determined by not taking such guaranteed payment into account.
+
+  (B) *Guaranteed payment* — For purposes of subparagraph (A), the term “guaranteed payment” means any payment referred to in section 707(c).
+
+**(e) Other definitions and special rules** For purposes of this section—
+
+(1) **Deferral period** — The term “deferral period” has the meaning given to such term by section 444(b)(4).
+
+(2) **Years**
+
+  (A) *Base year* — The term “base year” means, with respect to any applicable election year, the taxable year of the partnership or S corporation preceding such applicable election year.
+
+  (B) *Applicable election year* — The term “applicable election year” means any taxable year of a partnership or S corporation with respect to which an election is in effect under section 444.
+
+(3) **Requirement of reporting** — Each partnership or S corporation which makes an election under section 444 shall include on any required return or statement such information as the Secretary shall prescribe as is necessary to carry out the provisions of this section.
+
+(4) **Net required payment balance** — The term “net required payment balance” means the excess (if any) of—
+
+  (A) the aggregate of the required payments under this section for all preceding applicable election years, over
+
+  (B) the aggregate amount allowable as a refund to the entity under subsection (c) for all preceding applicable election years.
+
+**(f) Administrative provisions**
+
+(1) **In general** — Except as otherwise provided in this subsection or in regulations prescribed by the Secretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
+
+(2) **Due date** — The amount of any payment required by this section shall be paid on or before April 15 of the calendar year following the calendar year in which the applicable election year begins (or such later date as may be prescribed by the Secretary).
+
+(3) **Interest** — For purposes of determining interest, any payment required by this section shall be treated as a tax; except that no interest shall be allowed with respect to any refund of a payment made under this section.
+
+(4) **Penalties**
+
+  (A) *In general* — In the case of any failure by any person to pay on the date prescribed therefor any amount required by this section, there shall be imposed on such person a penalty of 10 percent of the underpayment. For purposes of the preceding sentence, the term “underpayment” means the excess of the amount of the payment required under this section over the amount (if any) of such payment paid on or before the date prescribed therefor. No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.
+
+  (B) *Negligence and fraud penalties made applicable* — For purposes of part II of subchapter A of chapter 68, any payment required by this section shall be treated as a tax.
+
+  (C) *Willful failure* — If any partnership or S corporation willfully fails to comply with the requirements of this section, section 444 shall cease to apply with respect to such partnership or S corporation.
+
+**(g) Regulations** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the provisions of this section and section 280H, including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
+
+(1) 2 or more applicable election years begin in the same calendar year, or
+
+(2) the base year is a taxable year of less than 12 months.
+
+### Statutory Notes
+
+#### References in Text
+Section 806(e)(2)(C) of the Tax Reform Act of 1986, referred to in subsec. (d)(4), is section 806(e)(2)(C) of Pub. L. 99–514, which is set out as a note under [section 1378 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1378).
+
+#### Amendments
+1997—Subsec. (f)(4)(A). Pub. L. 105–34 inserted at end “No penalty shall be imposed under this subparagraph on any failure which is shown to be due to reasonable cause and not willful neglect.”
+
+1990—Subsec. (c)(3). Pub. L. 101–508 substituted “payable on the later of” for “payable on later of”.
+
+1989—Subsec. (d)(4). Pub. L. 101–239, § 7821(b), struck out “for taxable years beginning after 1987,” before “the applicable percentage” and substituted “unless more than 50 percent” for “if more than 50 percent” and “who would have been entitled” for “who would not have been entitled”.
+
+Subsec. (f)(4)(B). Pub. L. 101–239, § 7721(c)(12), substituted “part II of subchapter A of chapter 68” for “section 6653”.
+
+1988—Subsec. (b)(2). Pub. L. 100–647, § 2004(e)(4)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the amount of the required payment for the preceding applicable election year.”
+
+Subsec. (c). Pub. L. 100–647, § 2004(e)(5), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “If the amount determined under subsection (b)(2) exceeds the amount determined under subsection (b)(1), then the entity shall be entitled to a refund of such excess.”
+
+Subsec. (d)(2)(A). Pub. L. 100–647, § 2004(e)(10), substituted “(other than credits and tax-exempt income)” for “(other than credits)”.
+
+Subsec. (d)(2)(B). Pub. L. 100–647, § 2004(e)(7), (10), substituted “(other than credits and tax-exempt income)” for “(other than credits)” and inserted before period at end “(and such corporation shall be treated as an S corporation for such taxable year for purposes of paragraph (3))”.
+
+Subsec. (d)(3)(A). Pub. L. 100–647, § 2004(e)(14)(B), struck out “or incurred” after “amounts paid”.
+
+Subsec. (d)(4). Pub. L. 100–647, § 2004(e)(9), inserted at end “Notwithstanding the preceding provisions of this paragraph, for taxable years beginning after 1987, the applicable percentage for any partnership or S corporation shall be 100 percent if more than 50 percent of such entity’s net income for the short taxable year which would have resulted if the entity had not made an election under section 444 would have been allocated to partners or shareholders who would not have been entitled to the benefits of section 806(e)(2)(C) of the Tax Reform Act of 1986 with respect to such income.”
+
+Subsec. (d)(5). Pub. L. 100–647, § 2004(e)(8), added par. (5).
+
+Subsec. (e)(4). Pub. L. 100–647, § 2004(e)(4)(B), added par. (4).
+
+Subsec. (g). Pub. L. 100–647, § 2004(e)(6), substituted “including regulations providing for appropriate adjustments in the application of this section and sections 280H and 444 in cases where—
+
+“(1) 2 or more applicable election years begin in the same calendar year, or
+
+“(2) the base year is a taxable year of less than 12 months” for “including regulations for annualizing the income and applicable payments of an entity if the base year is a taxable year of less than 12 months”.
+
+#### Effective Date of 1997 Amendment
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Aug. 5, 1997, see section 1281(e) of Pub. L. 105–34, set out as a note under [section 6652 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6652).
+
+#### Effective Date of 1989 Amendment
+Amendment by section 7721(c)(12) of Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under [section 461 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-461).
+
+Pub. L. 101–239, title VII, § 7821(b), Dec. 19, 1989, 103 Stat. 2424, provided that the amendment made by that section is effective with respect to taxable years beginning after 1988.
+
+#### Effective Date of 1988 Amendment
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under [section 56 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56).
+
+#### Effective Date
+Section applicable to applicable election years beginning after Dec. 31, 1986, see section 10206(d)(2) of Pub. L. 100–203, set out as a note under [section 444 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-444).
+
+
+<a id="section-7520"></a>
+## § 7520. Valuation tables
+**(a) General rule** For purposes of this title, the value of any annuity, any interest for life or a term of years, or any remainder or reversionary interest shall be determined—
+
+(1) under tables prescribed by the Secretary, and
+
+(2) by using an interest rate (rounded to the nearest 2/10ths of 1 percent) equal to 120 percent of the Federal midterm rate in effect under section 1274(d)(1) for the month in which the valuation date falls.
+If an income, estate, or gift tax charitable contribution is allowable for any part of the property transferred, the taxpayer may elect to use such Federal midterm rate for either of the 2 months preceding the month in which the valuation date falls for purposes of paragraph (2). In the case of transfers of more than 1 interest in the same property with respect to which the taxpayer may use the same rate under paragraph (2), the taxpayer shall use the same rate with respect to each such interest.
+
+**(b) Section not to apply for certain purposes** This section shall not apply for purposes of part I of subchapter D of chapter 1 or any other provision specified in regulations.
+
+**(c) Tables**
+
+(1) **In general** — The tables prescribed by the Secretary for purposes of subsection (a) shall contain valuation factors for a series of interest rate categories.
+
+(2) **Revision for recent mortality charges** — The Secretary shall revise the initial tables prescribed for purposes of subsection (a) to take into account the most recent mortality experience available as of the time of such revision. Such tables shall be revised not less frequently than once each 10 years to take into account the most recent mortality experience available as of the time of the revision.
+
+**(d) Valuation date** For purposes of this section, the term “valuation date” means the date as of which the valuation is made.
+
+**(e) Tables to include formulas** For purposes of this section, the term “tables” includes formulas.
+
+### Statutory Notes
+
+#### Codification
+Another section 7520 was renumbered [section 7521 of this title](./chapter-077-miscellaneous-provisions.md#section-7521).
+
+#### Amendments
+2014—Subsec. (c)(2), (3). Pub. L. 113–295 redesignated par. (3) as (2), substituted “The Secretary” for “Not later than December 31, 1989, the Secretary” and struck out “thereafter” after “once each 10 years”, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Not later than the day 3 months after the date of the enactment of this section, the Secretary shall prescribe initial tables for purposes of subsection (a). Such tables may be based on the same mortality experience as used for purposes of section 2031 on the date of the enactment of this section.”
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
+#### Effective Date
+Pub. L. 100–647, title V, § 5031(c), Nov. 10, 1988, 102 Stat. 3669, provided that: “The amendments made by this section [enacting this section] shall apply in cases where the date as of which the valuation is to be made occurs on or after the 1st day of the 6th calendar month beginning after the date of the enactment of this Act [Nov. 10, 1988].”
+
+
+<a id="section-7521"></a>
+## § 7521. Procedures involving taxpayer interviews
+**(a) Recording of interviews**
+
+(1) **Recording by taxpayer** — Any officer or employee of the Internal Revenue Service in connection with any in-person interview with any taxpayer relating to the determination or collection of any tax shall, upon advance request of such taxpayer, allow the taxpayer to make an audio recording of such interview at the taxpayer’s own expense and with the taxpayer’s own equipment.
+
+(2) **Recording by IRS officer or employee** — An officer or employee of the Internal Revenue Service may record any interview described in paragraph (1) if such officer or employee—
+
+  (A) informs the taxpayer of such recording prior to the interview, and
+
+  (B) upon request of the taxpayer, provides the taxpayer with a transcript or copy of such recording but only if the taxpayer provides reimbursement for the cost of the transcription and reproduction of such transcript or copy.
+
+**(b) Safeguards**
+
+(1) **Explanations of processes** — An officer or employee of the Internal Revenue Service shall before or at an initial interview provide to the taxpayer—
+
+  (A) in the case of an in-person interview with the taxpayer relating to the determination of any tax, an explanation of the audit process and the taxpayer’s rights under such process, or
+
+  (B) in the case of an in-person interview with the taxpayer relating to the collection of any tax, an explanation of the collection process and the taxpayer’s rights under such process.
+
+(2) **Right of consultation** — If the taxpayer clearly states to an officer or employee of the Internal Revenue Service at any time during any interview (other than an interview initiated by an administrative summons issued under subchapter A of chapter 78) that the taxpayer wishes to consult with an attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service, such officer or employee shall suspend such interview regardless of whether the taxpayer may have answered one or more questions.
+
+**(c) Representatives holding power of attorney** Any attorney, certified public accountant, enrolled agent, enrolled actuary, or any other person permitted to represent the taxpayer before the Internal Revenue Service who is not disbarred or suspended from practice before the Internal Revenue Service and who has a written power of attorney executed by the taxpayer may be authorized by such taxpayer to represent the taxpayer in any interview described in subsection (a). An officer or employee of the Internal Revenue Service may not require a taxpayer to accompany the representative in the absence of an administrative summons issued to the taxpayer under subchapter A of chapter 78. Such an officer or employee, with the consent of the immediate supervisor of such officer or employee, may notify the taxpayer directly that such officer or employee believes such representative is responsible for unreasonable delay or hindrance of an Internal Revenue Service examination or investigation of the taxpayer.
+
+**(d) Section not to apply to certain investigations** This section shall not apply to criminal investigations or investigations relating to the integrity of any officer or employee of the Internal Revenue Service.
+
+### Statutory Notes
+
+#### Codification
+Another section 7521 was renumbered [section 7522 of this title](./chapter-077-miscellaneous-provisions.md#section-7522).
+
+#### Effective Date
+Pub. L. 100–647, title VI, § 6228(d), Nov. 10, 1988, 102 Stat. 3732, provided that: “The amendments made by subsections (a) and (c) [enacting this section] shall apply to interviews conducted on or after the date which is 90 days after the date of the enactment of this Act [Nov. 10, 1988].”
+
+
+<a id="section-7522"></a>
+## § 7522. Content of tax due, deficiency, and other notices
+**(a) General rule** Any notice to which this section applies shall describe the basis for, and identify the amounts (if any) of, the tax due, interest, additional amounts, additions to the tax, and assessable penalties included in such notice. An inadequate description under the preceding sentence shall not invalidate such notice.
+
+**(b) Notices to which section applies** This section shall apply to—
+
+(1) any tax due notice or deficiency notice described in section 6155, 6212, or 6303,
+
+(2) any notice generated out of any information return matching program, and
+
+(3) the 1st letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Independent Office of Appeals.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (b)(3). Pub. L. 116–25 substituted “Internal Revenue Service Independent Office of Appeals” for “Internal Revenue Service Office of Appeals”.
+
+#### Effective Date
+Pub. L. 100–647, title VI, § 6233(c), Nov. 10, 1988, 102 Stat. 3735, provided that: “The amendments made by this section [enacting this section] shall apply to mailings made on or after January 1, 1990.”
+
+
+<a id="section-7523"></a>
+## § 7523. Graphic presentation of major categories of Federal outlays and income
+**(a) General rule** In the case of any booklet of instructions for Form 1040, 1040A, or 1040EZ prepared by the Secretary for filing individual income tax returns for taxable years beginning in any calendar year, the Secretary shall include in a prominent place—
+
+(1) a pie-shaped graph showing the relative sizes of the major outlay categories, and
+
+(2) a pie-shaped graph showing the relative sizes of the major income categories.
+
+**(b) Definitions and special rules** For purposes of subsection (a)—
+
+(1) **Major outlay categories** — The term “major outlay categories” means the following:
+
+  (A) Defense, veterans, and foreign affairs.
+
+  (B) Social security, medicare, and other retirement.
+
+  (C) Physical, human, and community development.
+
+  (D) Social programs.
+
+  (E) Law enforcement and general government.
+
+  (F) Interest on the debt.
+
+(2) **Major income categories** — The term “major income categories” means the following:
+
+  (A) Social security, medicare, and unemployment and other retirement taxes.
+
+  (B) Personal income taxes.
+
+  (C) Corporate income taxes.
+
+  (D) Borrowing to cover the deficit.
+
+  (E) Excise, customs, estate, gift, and miscellaneous taxes.
+
+(3) **Required footnotes** — The pie-shaped graph showing the major outlay categories shall include the following footnotes:
+
+  (A) A footnote to the category referred to in paragraph (1)(A) showing the percentage of the total outlays which is for defense, the percentage of total outlays which is for veterans, and the percentage of total outlays which is for foreign affairs.
+
+  (B) A footnote to the category referred to in paragraph (1)(C) showing that such category consists of agriculture, natural resources, environment, transportation, education, job training, economic development, space, energy, and general science.
+
+  (C) A footnote to the category referred to in paragraph (1)(D) showing the percentage of the total outlays which is for medicaid, supplemental nutrition assistance program benefits, and assistance under a State program funded under part A of title IV of the Social Security Act and the percentage of total outlays which is for public health, unemployment, assisted housing, and social services.
+
+(4) **Data on which graphs are based** — The graphs required under subsection (a) shall be based on data for the most recent fiscal year for which complete data is available as of the completion of the preparation of the instructions by the Secretary.
+
+### Statutory Notes
+
+#### References in Text
+The Social Security Act, referred to in subsec. (b)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+#### Codification
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2008—Subsec. (b)(3)(C). Pub. L. 110–246, § 4002(b)(1)(E), (2)(O), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+
+1996—Subsec. (b)(3)(C). Pub. L. 104–193, § 110(l)(4), formerly § 110(l)(8), as renumbered by Pub. L. 105–33, substituted “assistance under a State program funded under part A of title IV of the Social Security Act” for “aid to families with dependent children”.
+
+#### Effective Date of 2008 Amendment
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+Amendment by section 4002(b)(1)(E), (2)(O) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under [section 1161 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1161&num=0&edition=prelim), The Congress.
+
+#### Effective Date of 1996 Amendment
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under [section 601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Effective Date
+Pub. L. 101–508, title XI, § 11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: “The amendments made by this section [enacting this section] shall apply to instructions prepared for taxable years beginning after 1990.”
+
+
+<a id="section-7524"></a>
+## § 7524. Annual notice of tax delinquency
+
+Not less often than annually, the Secretary shall send a written notice to each taxpayer who has a tax delinquent account of the amount of the tax delinquency as of the date of the notice.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 104–168, title XII, § 1204(c), July 30, 1996, 110 Stat. 1471, provided that: “The amendments made by this section [enacting this section] shall apply to calendar years after 1996.”
+
+
+<a id="section-7525"></a>
+## § 7525. Confidentiality privileges relating to taxpayer communications
+**(a) Uniform application to taxpayer communications with federally authorized practitioners**
+
+(1) **General rule** — With respect to tax advice, the same common law protections of confidentiality which apply to a communication between a taxpayer and an attorney shall also apply to a communication between a taxpayer and any federally authorized tax practitioner to the extent the communication would be considered a privileged communication if it were between a taxpayer and an attorney.
+
+(2) **Limitations** — Paragraph (1) may only be asserted in—
+
+  (A) any noncriminal tax matter before the Internal Revenue Service; and
+
+  (B) any noncriminal tax proceeding in Federal court brought by or against the United States.
+
+(3) **Definitions** — For purposes of this subsection—
+
+  (A) *Federally authorized tax practitioner* — The term “federally authorized tax practitioner” means any individual who is authorized under Federal law to practice before the Internal Revenue Service if such practice is subject to Federal regulation under [section 330 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section330&num=0&edition=prelim), United States Code.
+
+  (B) *Tax advice* — The term “tax advice” means advice given by an individual with respect to a matter which is within the scope of the individual’s authority to practice described in subparagraph (A).
+
+**(b) Section not to apply to communications regarding tax shelters** The privilege under subsection (a) shall not apply to any written communication which is—
+
+(1) between a federally authorized tax practitioner and—
+
+  (A) any person,
+
+  (B) any director, officer, employee, agent, or representative of the person, or
+
+  (C) any other person holding a capital or profits interest in the person, and
+
+(2) in connection with the promotion of the direct or indirect participation of the person in any tax shelter (as defined in section 6662(d)(2)(C)(ii)).
+
+### Statutory Notes
+
+#### Amendments
+2004—Subsec. (b). Pub. L. 108–357 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “The privilege under subsection (a) shall not apply to any written communication between a federally authorized tax practitioner and a director, shareholder, officer, or employee, agent, or representative of a corporation in connection with the promotion of the direct or indirect participation of such corporation in any tax shelter (as defined in section 6662(d)(2)(C)(iii)).”
+
+#### Effective Date of 2004 Amendment
+Pub. L. 108–357, title VIII, § 813(b), Oct. 22, 2004, 118 Stat. 1581, provided that: “The amendment made by this section [amending this section] shall apply to communications made on or after the date of the enactment of this Act [Oct. 22, 2004].”
+
+#### Effective Date
+Pub. L. 105–206, title III, § 3411(c), July 22, 1998, 112 Stat. 751, provided that: “The amendments made by this section [enacting this section] shall apply to communications made on or after the date of the enactment of this Act [July 22, 1998].”
+
+
+<a id="section-7526"></a>
+## § 7526. Low-income taxpayer clinics
+**(a) In general** The Secretary may, subject to the availability of appropriated funds, make grants to provide matching funds for the development, expansion, or continuation of qualified low-income taxpayer clinics.
+
+**(b) Definitions** For purposes of this section—
+
+(1) **Qualified low-income taxpayer clinic**
+
+  (A) *In general* — The term “qualified low-income taxpayer clinic” means a clinic that—
+
+    (i) does not charge more than a nominal fee for its services (except for reimbursement of actual costs incurred); and
+
+    (ii)
+
+      (I) represents low-income taxpayers in controversies with the Internal Revenue Service; or
+
+      (II) operates programs to inform individuals for whom English is a second language about their rights and responsibilities under this title.
+
+  (B) *Representation of low-income taxpayers* — A clinic meets the requirements of subparagraph (A)(ii)(I) if—
+
+    (i) at least 90 percent of the taxpayers represented by the clinic have incomes which do not exceed 250 percent of the poverty level, as determined in accordance with criteria established by the Director of the Office of Management and Budget; and
+
+    (ii) the amount in controversy for any taxable year generally does not exceed the amount specified in section 7463.
+
+(2) **Clinic** — The term “clinic” includes—
+
+  (A) a clinical program at an accredited law, business, or accounting school in which students represent low-income taxpayers in controversies arising under this title; and
+
+  (B) an organization described in section 501(c) and exempt from tax under section 501(a) which satisfies the requirements of paragraph (1) through representation of taxpayers or referral of taxpayers to qualified representatives.
+
+(3) **Qualified representative** — The term “qualified representative” means any individual (whether or not an attorney) who is authorized to practice before the Internal Revenue Service or the applicable court.
+
+**(c) Special rules and limitations**
+
+(1) **Aggregate limitation** — Unless otherwise provided by specific appropriation, the Secretary shall not allocate more than $6,000,000 per year (exclusive of costs of administering the program) to grants under this section.
+
+(2) **Limitation on annual grants to a clinic** — The aggregate amount of grants which may be made under this section to a clinic for a year shall not exceed $100,000.
+
+(3) **Multi-year grants** — Upon application of a qualified low-income taxpayer clinic, the Secretary is authorized to award a multi-year grant not to exceed 3 years.
+
+(4) **Criteria for awards** — In determining whether to make a grant under this section, the Secretary shall consider—
+
+  (A) the numbers of taxpayers who will be served by the clinic, including the number of taxpayers in the geographical area for whom English is a second language;
+
+  (B) the existence of other low-income taxpayer clinics serving the same population;
+
+  (C) the quality of the program offered by the low-income taxpayer clinic, including the qualifications of its administrators and qualified representatives, and its record, if any, in providing service to low-income taxpayers; and
+
+  (D) alternative funding sources available to the clinic, including amounts received from other grants and contributions, and the endowment and resources of the institution sponsoring the clinic.
+
+(5) **Requirement of matching funds** — A low-income taxpayer clinic must provide matching funds on a dollar-for-dollar basis for all grants provided under this section. Matching funds may include—
+
+  (A) the salary (including fringe benefits) of individuals performing services for the clinic; and
+
+  (B) the cost of equipment used in the clinic.
+  Indirect expenses, including general overhead of the institution sponsoring the clinic, shall not be counted as matching funds.
+
+(6) **Provision of information regarding qualified low-income taxpayer clinics** — Notwithstanding any other provision of law, officers and employees of the Department of the Treasury may—
+
+  (A) advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from one or more specific qualified low-income taxpayer clinics receiving funding under this section, and
+
+  (B) provide information regarding the location of, and contact information for, such clinics.
+
+### Statutory Notes
+
+#### Amendments
+2019—Subsec. (c)(6). Pub. L. 116–25 added par. (6).
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title I, § 1402(b), July 1, 2019, 133 Stat. 997, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [July 1, 2019].”
+
+#### Effective Date
+Pub. L. 105–206, title III, § 3601(c), July 22, 1998, 112 Stat. 776, provided that: “The amendments made by this section [enacting this section] shall take effect on the date of the enactment of this Act [July 22, 1998].”
+
+
+<a id="section-7526a"></a>
+## § 7526A. Return preparation programs for applicable taxpayers
+**(a) Establishment of Volunteer Income Tax Assistance Matching Grant Program** The Secretary shall establish a Community Volunteer Income Tax Assistance Matching Grant Program under which the Secretary may, subject to the availability of appropriated funds, make grants to provide matching funds for the development, expansion, or continuation of qualified return preparation programs assisting applicable taxpayers and members of underserved populations.
+
+**(b) Use of funds**
+
+(1) **In general** — Qualified return preparation programs may use grants received under this section for—
+
+  (A) ordinary and necessary costs associated with program operation in accordance with cost principles under the applicable Office of Management and Budget circular, including—
+
+    (i) wages or salaries of persons coordinating the activities of the program,
+
+    (ii) developing training materials, conducting training, and performing quality reviews of the returns prepared under the program,
+
+    (iii) equipment purchases, and
+
+    (iv) vehicle-related expenses associated with remote or rural tax preparation services,
+
+  (B) outreach and educational activities described in subsection (c)(2)(B), and
+
+  (C) services related to financial education and capability, asset development, and the establishment of savings accounts in connection with tax return preparation.
+
+(2) **Requirement of matching funds** — A qualified return preparation program must provide matching funds on a dollar-for-dollar basis for all grants provided under this section. Matching funds may include—
+
+  (A) the salary (including fringe benefits) of individuals performing services for the program,
+
+  (B) the cost of equipment used in the program, and
+
+  (C) other ordinary and necessary costs associated with the program.
+  Indirect expenses, including general overhead of any entity administering the program, shall not be counted as matching funds.
+
+**(c) Application**
+
+(1) **In general** — Each applicant for a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require.
+
+(2) **Priority** — In awarding grants under this section, the Secretary shall give priority to applications which demonstrate—
+
+  (A) assistance to applicable taxpayers, with emphasis on outreach to, and services for, such taxpayers,
+
+  (B) taxpayer outreach and educational activities relating to eligibility and availability of income supports available through this title, including the earned income tax credit, and
+
+  (C) specific outreach and focus on one or more underserved populations.
+
+(3) **Amounts taken into account** — In determining matching grants under this section, the Secretary shall only take into account amounts provided by the qualified return preparation program for expenses described in subsection (b).
+
+**(d) Program adherence**
+
+(1) **In general** — The Secretary shall establish procedures for, and shall conduct not less frequently than once every 5 calendar years during which a qualified return preparation program is operating under a grant under this section, periodic site visits—
+
+  (A) to ensure the program is carrying out the purposes of this section, and
+
+  (B) to determine whether the program meets such program adherence standards as the Secretary shall by regulation or other guidance prescribe.
+
+(2) **Additional requirements for grant recipients not meeting program adherence standards** — In the case of any qualified return preparation program which—
+
+  (A) is awarded a grant under this section, and
+
+  (B) is subsequently determined—
+
+    (i) not to meet the program adherence standards described in paragraph (1)(B), or
+
+    (ii) not to be otherwise carrying out the purposes of this section,
+  such program shall not be eligible for any additional grants under this section unless such program provides sufficient documentation of corrective measures established to address any such deficiencies determined.
+
+**(e) Definitions** For purposes of this section—
+
+(1) **Qualified return preparation program** — The term “qualified return preparation program” means any program—
+
+  (A) which provides assistance to individuals, not less than 90 percent of whom are applicable taxpayers, in preparing and filing Federal income tax returns,
+
+  (B) which is administered by a qualified entity,
+
+  (C) in which all volunteers who assist in the preparation of Federal income tax returns meet the training requirements prescribed by the Secretary, and
+
+  (D) which uses a quality review process which reviews 100 percent of all returns.
+
+(2) **Qualified entity**
+
+  (A) *In general* — The term “qualified entity” means any entity which—
+
+    (i) is an eligible organization,
+
+    (ii) is in compliance with Federal tax filing and payment requirements,
+
+    (iii) is not debarred or suspended from Federal contracts, grants, or cooperative agreements, and
+
+    (iv) agrees to provide documentation to substantiate any matching funds provided pursuant to the grant program under this section.
+
+  (B) *Eligible organization* — The term “eligible organization” means—
+
+    (i) an institution of higher education which is described in section 102 (other than subsection (a)(1)(C) thereof) of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)), as in effect on the date of the enactment of this section, and which has not been disqualified from participating in a program under title IV of such Act,
+
+    (ii) an organization described in section 501(c) and exempt from tax under section 501(a),
+
+    (iii) a local government agency, including—
+
+      (I) a county or municipal government agency, and
+
+      (II) an Indian tribe, as defined in section 4(13) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/13&num=0&edition=prelim)), including any tribally designated housing entity (as defined in section 4(22) of such Act ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))), tribal subsidiary, subdivision, or other wholly owned tribal entity,
+
+    (iv) a local, State, regional, or national coalition (with one lead organization which meets the eligibility requirements of clause (i), (ii), or (iii) acting as the applicant organization), or
+
+    (v) in the case of applicable taxpayers and members of underserved populations with respect to which no organizations described in the preceding clauses are available—
+
+      (I) a State government agency, or
+
+      (II) an office providing Cooperative Extension services (as established at the land-grant colleges and universities under the Smith-Lever Act of May 8, 1914).
+
+(3) **Applicable taxpayers** — The term “applicable taxpayer” means a taxpayer whose income for the taxable year does not exceed an amount equal to the completed phaseout amount under section 32(b) for a married couple filing a joint return with three or more qualifying children, as determined in a revenue procedure or other published guidance.
+
+(4) **Underserved population** — The term “underserved population” includes populations of persons with disabilities, persons with limited English proficiency, Native Americans, individuals living in rural areas, members of the Armed Forces and their spouses, and the elderly.
+
+**(f) Special rules and limitations**
+
+(1) **Duration of grants** — Upon application of a qualified return preparation program, the Secretary is authorized to award a multi-year grant not to exceed 3 years.
+
+(2) **Aggregate limitation** — Unless otherwise provided by specific appropriation, the Secretary shall not allocate more than $30 million per fiscal year (exclusive of costs of administering the program) to grants under this section.
+
+**(g) Promotion of programs**
+
+(1) **In general** — The Secretary shall promote tax preparation through qualified return preparation programs through the use of mass communications and other means.
+
+(2) **Provision of information regarding qualified return preparation programs** — The Secretary may provide taxpayers information regarding qualified return preparation programs receiving grants under this section.
+
+(3) **Referrals to low-income taxpayer clinics** — Qualified return preparation programs receiving a grant under this section are encouraged, in appropriate cases, to—
+
+  (A) advise taxpayers of the availability of, and eligibility requirements for receiving, advice and assistance from qualified low-income taxpayer clinics receiving funding under section 7526, and
+
+  (B) provide information regarding the location of, and contact information for, such clinics.
+
+### Statutory Notes
+
+#### References in Text
+The Higher Education Act of 1965 and such Act, referred to in subsec. (e)(2)(B)(i), are Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+
+The date of the enactment of this section, referred to in subsec. (e)(2)(B)(i), is the date of enactment of Pub. L. 116–25, which was approved July 1, 2019.
+
+The Smith-Lever Act, referred to in subsec. (e)(2)(B)(v)(II), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section341&num=0&edition=prelim) and Tables.
+
+
+<a id="section-7527"></a>
+## § 7527. Advance payment of credit for health insurance costs of eligible individuals
+**(a) General rule** Not later than the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, the Secretary shall establish a program for making payments on behalf of certified individuals to providers of qualified health insurance (as defined in section 35(e)) for such individuals.
+
+**(b) Limitation on advance payments during any taxable year** The Secretary may make payments under subsection (a) only to the extent that the total amount of such payments made on behalf of any individual during the taxable year does not exceed 72.5 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+
+**(c) Certified individual** For purposes of this section, the term “certified individual” means any individual for whom a qualified health insurance costs credit eligibility certificate is in effect.
+
+**(d) Qualified health insurance costs eligibility certificate**
+
+(1) **In general** — For purposes of this section, the term “qualified health insurance costs eligibility certificate” means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
+
+  (A) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
+
+  (B) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).
+
+(2) **Inclusion of certain information** — In the case of any statement described in paragraph (1), such statement shall not be treated as a qualified health insurance costs credit eligibility certificate unless such statement includes—
+
+  (A) the name, address, and telephone number of the State office or offices responsible for providing the individual with assistance with enrollment in qualified health insurance (as defined in section 35(e)),
+
+  (B) a list of the coverage options that are treated as qualified health insurance (as so defined) by the State in which the individual resides, and
+
+  (C) in the case of a TAA-eligible individual (as defined in section 4980B(f)(5)(C)(iv)(II)), a statement informing the individual that the individual has 63 days from the date that is 7 days after the date of the issuance of such certificate to enroll in such insurance without a lapse in creditable coverage (as defined in section 9801(c)).
+
+**(e) Payment for premiums due prior to commencement of advance payments**
+
+(1) **In general** — The program established under subsection (a) shall provide that the Secretary shall make 1 or more retroactive payments on behalf of a certified individual in an aggregate amount equal to 72.5 percent of the premiums for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months (as defined in section 35(b)) occurring—
+
+  (A) after the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015; and
+
+  (B) prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).
+
+(2) **Reduction of payment for amounts received under national emergency grants** — The amount of any payment determined under paragraph (1) shall be reduced by the amount of any payment made to the taxpayer for the purchase of qualified health insurance under a national emergency grant pursuant to section 173(f) of the Workforce Investment Act of 1998 (as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act) for a taxable year including the eligible coverage months described in paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015, referred to in subsecs. (a) and (e)(1)(A), is the date of enactment of title IV of Pub. L. 114–27, which was approved June 29, 2015.
+
+Section 173(f) of the Workforce Investment Act of 1998, referred to in subsec. (e)(2), was classified to former [section 2918(f) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim), Labor, prior to repeal by Pub. L. 113–128, title V, §§ 506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015.
+
+The date of enactment of the Workforce Innovation and Opportunity Act, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 113–128, which was approved July 22, 2014.
+
+#### Amendments
+2015—Subsec. (a). Pub. L. 114–27, § 407(c)(1), substituted “the date that is 1 year after the date of the enactment of the Trade Adjustment Assistance Reauthorization Act of 2015” for “August 1, 2003”.
+
+Subsec. (e)(1). Pub. L. 114–27, § 407(c)(2), substituted “occurring—” for “occurring prior to the first month for which an advance payment is made on behalf of such individual under subsection (a).” and added subpars. (A) and (B).
+
+2014—Subsec. (e)(2). Pub. L. 113–128 inserted “(as in effect on the day before the date of enactment of the Workforce Innovation and Opportunity Act)” after “of 1998”.
+
+2011—Subsec. (b). Pub. L. 112–40, § 241(b)(2)(A), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
+
+Subsec. (d)(2). Pub. L. 112–40, § 241(b)(2)(B), struck out “which is issued before February 13, 2011” after “in paragraph (1)” in introductory provisions.
+
+Subsec. (e). Pub. L. 112–40, § 241(b)(2)(D), struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
+
+Subsec. (e)(1). Pub. L. 112–40, § 241(b)(2)(C), substituted “72.5 percent” for “80 percent”.
+
+2010—Subsec. (b). Pub. L. 111–344, § 111(b), substituted “February 13, 2011” for “January 1, 2011”.
+
+Subsec. (d)(2). Pub. L. 111–344, § 118(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+Subsec. (e). Pub. L. 111–344, § 112(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+
+2009—Subsec. (b). Pub. L. 111–5, § 1899A(a)(2), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
+
+Subsec. (d). Pub. L. 111–5, § 1899H(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “For purposes of this section, the term ‘qualified health insurance costs credit eligibility certificate’ means any written statement that an individual is an eligible individual (as defined in section 35(c)) if such statement provides such information as the Secretary may require for purposes of this section and—
+
+“(1) in the case of an eligible TAA recipient (as defined in section 35(c)(2)) or an eligible alternative TAA recipient (as defined in section 35(c)(3)), is certified by the Secretary of Labor (or by any other person or entity designated by the Secretary), or
+
+“(2) in the case of an eligible PBGC pension recipient (as defined in section 35(c)(4)), is certified by the Pension Benefit Guaranty Corporation (or by any other person or entity designated by the Secretary).”
+
+Subsec. (e). Pub. L. 111–5, § 1899B(a), added subsec. (e).
+
+#### Effective Date of 2015 Amendment
+Amendment by Pub. L. 114–27 applicable to coverage months in taxable years beginning after Dec. 31, 2013, see section 407(f) of Pub. L. 114–27, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
+
+#### Effective Date of 2011 Amendment
+Amendment by Pub. L. 112–40 applicable to coverage months beginning after Feb. 12, 2011, except that amendment by section 241(b)(2)(B) of Pub. L. 112–40 applicable to certificates issued after the date which is 30 days after Oct. 21, 2011, and amendment by section 241(b)(2)(D) of Pub. L. 112–40 applicable to coverage months beginning after the date which is 30 days after Oct. 21, 2011, see section 241(c) of Pub. L. 112–40, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
+
+#### Effective Date of 2010 Amendment
+Amendment by section 111(b) of Pub. L. 111–344 applicable to coverage months beginning after Dec. 31, 2010, see section 111(c) of Pub. L. 111–344, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
+
+Pub. L. 111–344, title I, § 112(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section [amending this section] shall apply to coverage months beginning after December 31, 2010.”
+
+Pub. L. 111–344, title I, § 118(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after December 31, 2010.”
+
+#### Effective Date of 2009 Amendment
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under [section 2271 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2271&num=0&edition=prelim), Customs Duties.
+
+Amendment by section 1899A(a)(2) of Pub. L. 111–5 applicable to coverage months beginning on or after the first day of the first month beginning 60 days after Feb. 17, 2009, see section 1899A(b) of Pub. L. 111–5, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
+
+Pub. L. 111–5, div. B, title I, § 1899B(b), Feb. 17, 2009, 123 Stat. 424, provided that: “The amendments made by this section [amending this section] shall apply to coverage months beginning after December 31, 2008.”
+
+Pub. L. 111–5, div. B, title I, § 1899H(b), Feb. 17, 2009, 123 Stat. 431, provided that: “The amendment made by this section [amending this section] shall apply to certificates issued after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
+
+#### Construction
+Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under [section 35 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-35).
+
+#### Transitional Rule
+Pub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, provided that: “The Secretary of the Treasury shall not be required to make any payments under section 7527(e) of the Internal Revenue Code of 1986, as added by this section, until after the date that is 6 months after the date of the enactment of this Act [Feb. 17, 2009].”
+
+
+<a id="section-7527a"></a>
+## § 7527A. Advance payment of child tax credit
+**(a) In general** The Secretary shall establish a program for making periodic payments to taxpayers which, in the aggregate during any calendar year, equal the annual advance amount determined with respect to such taxpayer for such calendar year. Except as provided in subsection (b)(3)(B), the periodic payments made to any taxpayer for any calendar year shall be in equal amounts.
+
+**(b) Annual advance amount** For purposes of this section—
+
+(1) **In general** — Except as otherwise provided in this subsection, the term “annual advance amount” means, with respect to any taxpayer for any calendar year, the amount (if any) which is estimated by the Secretary as being equal to 50 percent of the amount which would be treated as allowed under subpart C of part IV of subchapter A of chapter 1 by reason of section 24(i)(1) for the taxpayer’s taxable year beginning in such calendar year if—
+
+  (A) the status of the taxpayer as a taxpayer described in section 24(i)(1) is determined with respect to the reference taxable year,
+
+  (B) the taxpayer’s modified adjusted gross income for such taxable year is equal to the taxpayer’s modified adjusted gross income for the reference taxable year,
+
+  (C) the only children of such taxpayer for such taxable year are qualifying children properly claimed on the taxpayer’s return of tax for the reference taxable year, and
+
+  (D) the ages of such children (and the status of such children as qualifying children) are determined for such taxable year by taking into account the passage of time since the reference taxable year.
+
+(2) **Reference taxable year** — Except as provided in paragraph (3)(A), the term “reference taxable year” means, with respect to any taxpayer for any calendar year, the taxpayer’s taxable year beginning in the preceding calendar year or, in the case of taxpayer who did not file a return of tax for such taxable year, the taxpayer’s taxable year beginning in the second preceding calendar year.
+
+(3) **Modifications during calendar year**
+
+  (A) *In general* — The Secretary may modify, during any calendar year, the annual advance amount with respect to any taxpayer for such calendar year to take into account—
+
+    (i) a return of tax filed by such taxpayer during such calendar year (and the taxable year to which such return relates may be taken into account as the reference taxable year), and
+
+    (ii) any other information provided by the taxpayer to the Secretary which allows the Secretary to determine payments under subsection (a) which, in the aggregate during any taxable year of the taxpayer, more closely total the Secretary’s estimate of the amount treated as allowed under subpart C of part IV of subchapter A of chapter 1 by reason of section 24(i)(1) for such taxable year of such taxpayer.
+
+  (B) *Adjustment to reflect excess or deficit in prior payments* — In the case of any modification of the annual advance amount under subparagraph (A), the Secretary may adjust the amount of any periodic payment made after the date of such modification to properly take into account the amount by which any periodic payment made before such date was greater than or less than the amount that such payment would have been on the basis of the annual advance amount as so modified.
+
+(4) **Determination of status** — If information contained in the taxpayer’s return of tax for the reference taxable year does not establish the status of the taxpayer as being described in section 24(i)(1), the Secretary shall, for purposes of paragraph (1)(A), determine such status based on information known to the Secretary.
+
+(5) **Treatment of certain deaths** — A child shall not be taken into account in determining the annual advance amount under paragraph (1) if the death of such child is known to the Secretary as of the beginning of the calendar year for which the estimate under such paragraph is made.
+
+**(c) On-line information portal** The Secretary shall establish an on-line portal which allows taxpayers to—
+
+(1) elect not to receive payments under this section, and
+
+(2) provide information to the Secretary which would be relevant to a modification under subsection (b)(3)(B) of the annual advance amount, including information regarding—
+
+  (A) a change in the number of the taxpayer’s qualifying children, including by reason of the birth of a child,
+
+  (B) a change in the taxpayer’s marital status,
+
+  (C) a significant change in the taxpayer’s income, and
+
+  (D) any other factor which the Secretary may provide.
+
+**(d) Notice of payments** Not later than January 31 of the calendar year following any calendar year during which the Secretary makes one or more payments to any taxpayer under this section, the Secretary shall provide such taxpayer with a written notice which includes the taxpayer’s taxpayer identity (as defined in section 6103(b)(6)), the aggregate amount of such payments made to such taxpayer during such calendar year, and such other information as the Secretary determines appropriate.
+
+**(e) Administrative provisions**
+
+(1) **Application of electronic funds payment requirement** — The payments made by the Secretary under subsection (a) shall be made by electronic funds transfer to the same extent and in the same manner as if such payments were Federal payments not made under this title.
+
+(2) **Application of certain rules** — Rules similar to the rules of subparagraphs (B) and (C) of section 6428A(f)(3) shall apply for purposes of this section.
+
+(3) **Exception from reduction or offset** — Any payment made to any individual under this section shall not be—
+
+  (A) subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 or any similar authority permitting offset, or
+
+  (B) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.
+
+(4) **Application of advance payments in the possessions of the United States**
+
+  (A) *In general* — The advance payment amount determined under this section shall be determined—
+
+    (i) by applying section 24(i)(1) without regard to the phrase “or is a bona fide resident of Puerto Rico (within the meaning of section 937(a))”, and
+
+    (ii) without regard to section 24(k)(3)(C)(ii)(I).
+
+  (B) *Mirror code possessions* — In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
+
+  (C) *Administrative expenses of advance payments*
+
+    (i) *Mirror code possessions* — In the case of any possession described in subparagraph (B) which makes the election described in such subparagraph, the amount otherwise paid by the Secretary to such possession under section 24(k)(1)(A) with respect to taxable years beginning in 2021 shall be increased by $300,000 if such possession has a plan, which has been approved by the Secretary, for making advance payments consistent with such election.
+
+    (ii) *American Samoa* — The amount otherwise paid by the Secretary to American Samoa under subparagraph (A) of section 24(k)(3) with respect to taxable years beginning in 2021 shall be increased by $300,000 if the plan described in subparagraph (B) of such section includes a program, which has been approved by the Secretary, for making advance payments under rules similar to the rules of this section.
+
+    (iii) *Timing of payment* — The Secretary may pay, upon the request of the possession of the United States to which the payment is to be made, the amount of the increase determined under clause (i) or (ii) immediately upon approval of the plan referred to in such clause, respectively.
+
+**(f) Application** No payments shall be made under the program established under subsection (a) with respect to—
+
+(1) any period before July 1, 2021, or
+
+(2) any period after December 31, 2021.
+
+**(g) Regulations** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this section and subsections (i)(1) and (j) of section 24, including regulations or other guidance which provides for the application of such provisions where the filing status of the taxpayer for a taxable year is different from the status used for determining the annual advance amount.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as an Effective Date of 2021 Amendment note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+
+#### Establishment of Advance Payment Program
+Pub. L. 117–2, title IX, § 9611(c)(2), Mar. 11, 2021, 135 Stat. 150, provided that: “The Secretary of the Treasury (or the Secretary’s designee) shall establish the program described in section 7527A of the Internal Revenue Code of 1986 as soon as practicable after the date of the enactment of this Act [Mar. 11, 2021], except that the Secretary shall ensure that the timing of the establishment of such program does not interfere with carrying out section 6428B(g) as rapidly as possible.”
+
+
+<a id="section-7528"></a>
+## § 7528. Internal Revenue Service user fees
+**(a) General rule** The Secretary shall establish a program requiring the payment of user fees for—
+
+(1) requests to the Internal Revenue Service for ruling letters, opinion letters, and determination letters, and
+
+(2) other similar requests.
+
+**(b) Program criteria**
+
+(1) **In general** — The fees charged under the program required by subsection (a)—
+
+  (A) shall vary according to categories (or subcategories) established by the Secretary,
+
+  (B) shall be determined after taking into account the average time for (and difficulty of) complying with requests in each category (and subcategory), and
+
+  (C) shall be payable in advance.
+
+(2) **Exemptions, etc.**
+
+  (A) *In general* — The Secretary shall provide for such exemptions (and reduced fees) under such program as the Secretary determines to be appropriate.
+
+  (B) *Exemption for certain requests regarding pension plans* — The Secretary shall not require payment of user fees under such program for requests for determination letters with respect to the qualified status of a pension benefit plan maintained solely by 1 or more eligible employers or any trust which is part of the plan. The preceding sentence shall not apply to any request—
+
+    (i) made after the later of—
+
+      (I) the fifth plan year the pension benefit plan is in existence, or
+
+      (II) the end of any remedial amendment period with respect to the plan beginning within the first 5 plan years, or
+
+    (ii) made by the sponsor of any prototype or similar plan which the sponsor intends to market to participating employers.
+
+  (C) *Definitions and special rules* — For purposes of subparagraph (B)—
+
+    (i) *Pension benefit plan* — The term “pension benefit plan” means a pension, profit-sharing, stock bonus, annuity, or employee stock ownership plan.
+
+    (ii) *Eligible employer* — The term “eligible employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I)) which has at least 1 employee who is not a highly compensated employee (as defined in section 414(q)) and is participating in the plan. The determination of whether an employer is an eligible employer under subparagraph (B) shall be made as of the date of the request described in such subparagraph.
+
+    (iii) *Determination of average fees charged* — For purposes of any determination of average fees charged, any request to which subparagraph (B) applies shall not be taken into account.
+
+(3) **Average fee requirement** — The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table: Average CategoryFee Employee plan ruling and opinion$250 Exempt organization ruling$350 Employee plan determination$300 Exempt organization determination$275 Chief counsel ruling$200.
+
+(4) **Certified professional employer organizations** — The fee charged under the program in connection with the certification by the Secretary of a professional employer organization under section 7705 shall be an annual fee not to exceed $1,000 per year.
+
+### Statutory Notes
+
+#### Amendments
+2014—Subsec. (b)(4). Pub. L. 113–295 added par. (4).
+
+2007—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.”
+
+2004—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
+
+#### Effective Date of 2014 Amendment
+Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under [section 3302 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3302).
+
+#### Effective Date of 2004 Amendment
+Pub. L. 108–357, title VIII, § 891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: “The amendment made by this section [amending this section] shall apply to requests after the date of the enactment of this Act [Oct. 22, 2004].”
+
+#### Effective Date of 2003 Amendment
+Pub. L. 108–89, title II, § 202(d), Oct. 1, 2003, 117 Stat. 1133, provided that: “The amendments made by this section [enacting this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under [section 7801 of this title](./chapter-080-general-rules.md#section-7801)] shall apply to requests made after the date of the enactment of this Act [Oct. 1, 2003].”
+
+#### Limitations
+Pub. L. 108–89, title II, § 202(c), Oct. 1, 2003, 117 Stat. 1133, provided that: “Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act.”
+
+
+<a id="section-7529"></a>
+## § 7529. Notification of suspected identity theft
+**(a) In general** If the Secretary determines that there has been or may have been an unauthorized use of the identity of any individual, the Secretary shall, without jeopardizing an investigation relating to tax administration—
+
+(1) as soon as practicable—
+
+  (A) notify the individual of such determination,
+
+  (B) provide instructions on how to file a report with law enforcement regarding the unauthorized use,
+
+  (C) identify any steps to be taken by the individual to permit law enforcement to access personal information of the individual during the investigation,
+
+  (D) provide information regarding actions the individual may take in order to protect the individual from harm relating to the unauthorized use, and
+
+  (E) offer identity protection measures to the individual, such as the use of an identity protection personal identification number, and
+
+(2) at the time the information described in paragraph (1) is provided (or, if not available at such time, as soon as practicable thereafter), issue additional notifications to such individual (or such individual’s designee) regarding—
+
+  (A) whether an investigation has been initiated in regards to such unauthorized use,
+
+  (B) whether the investigation substantiated an unauthorized use of the identity of the individual, and
+
+  (C) whether—
+
+    (i) any action has been taken against a person relating to such unauthorized use, or
+
+    (ii) any referral has been made for criminal prosecution of such person and, to the extent such information is available, whether such person has been criminally charged by indictment or information.
+
+**(b) Employment-related identity theft**
+
+(1) **In general** — For purposes of this section, the unauthorized use of the identity of an individual includes the unauthorized use of the identity of the individual to obtain employment.
+
+(2) **Determination of employment-related identity theft** — For purposes of this section, in making a determination as to whether there has been or may have been an unauthorized use of the identity of an individual to obtain employment, the Secretary shall review any information—
+
+  (A) obtained from a statement described in section 6051 or an information return relating to compensation for services rendered other than as an employee, or
+
+  (B) provided to the Internal Revenue Service by the Social Security Administration regarding any statement described in section 6051,
+  which indicates that the social security account number provided on such statement or information return does not correspond with the name provided on such statement or information return or the name on the tax return reporting the income which is included on such statement or information return.
+
+### Statutory Notes
+
+#### Effective Date of 2019 Amendment
+Pub. L. 116–25, title II, § 2007(d), July 1, 2019, 133 Stat. 1006, provided that: “The amendments made by this section [enacting this section and amending [section 432 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section432&num=0&edition=prelim), The Public Health and Welfare] shall apply to determinations made after the date that is 6 months after the date of the enactment of this Act [July 1, 2019].”
+
+#### Public-Private Partnership To Address Identity Theft Refund Fraud
+Pub. L. 116–25, title II, § 2001, July 1, 2019, 133 Stat. 1001, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall work collaboratively with the public and private sectors to protect taxpayers from identity theft refund fraud.”
+
+#### Information Sharing and Analysis Center
+Pub. L. 116–25, title II, § 2003(a), (b), July 1, 2019, 133 Stat. 1001, provided that: “(a) In General.—The Secretary of the Treasury (or the Secretary’s delegate) may participate in an information sharing and analysis center to centralize, standardize, and enhance data compilation and analysis to facilitate sharing actionable data and information with respect to identity theft tax refund fraud. “(b) Development of Performance Metrics.—The Secretary of the Treasury (or the Secretary’s delegate) shall develop metrics for measuring the success of such center in detecting and preventing identity theft tax refund fraud.”
+
+#### Single Point of Contact for Tax-Related Identity Theft Victims
+Pub. L. 116–25, title II, § 2006, July 1, 2019, 133 Stat. 1004, provided that: “(a) In General.—The Secretary of the Treasury (or the Secretary’s delegate) shall establish and implement procedures to ensure that any taxpayer whose return has been delayed or otherwise adversely affected due to tax-related identity theft has a single point of contact at the Internal Revenue Service throughout the processing of the taxpayer’s case. The single point of contact shall track the taxpayer’s case to completion and coordinate with other Internal Revenue Service employees to resolve case issues as quickly as possible. “(b) Single Point of Contact.—“(1) In general.—For purposes of subsection (a), the single point of contact shall consist of a team or subset of specially trained employees who—“(A) have the ability to work across functions to resolve the issues involved in the taxpayer’s case; and “(B) shall be accountable for handling the case until its resolution. “(2) Team or subset.—The employees included within the team or subset described in paragraph (1) may change as required to meet the needs of the Internal Revenue Service, provided that procedures have been established to—“(A) ensure continuity of records and case history; and “(B) notify the taxpayer when appropriate.”
+
+#### Examination of Both Paper and Electronic Statements and Returns
+Pub. L. 116–25, title II, § 2007(b)(1), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall examine the statements, information returns, and tax returns described in section 7529(b)(2) of the Internal Revenue Code of 1986 (as added by subsection (a)) for any evidence of employment-related identity theft, regardless of whether such statements or returns are submitted electronically or on paper.”
+
+#### Underreporting of Income
+Pub. L. 116–25, title II, § 2007(b)(3), July 1, 2019, 133 Stat. 1006, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall establish procedures to ensure that income reported in connection with the unauthorized use of a taxpayer’s identity is not taken into account in determining any penalty for underreporting of income by the victim of identity theft.”
+
+#### Guidelines for Stolen Identity Refund Fraud Cases
+Pub. L. 116–25, title II, § 2008, July 1, 2019, 133 Stat. 1006, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [July 1, 2019], the Secretary of the Treasury (or the Secretary’s delegate), in consultation with the National Taxpayer Advocate, shall develop and implement publicly available guidelines for management of cases involving stolen identity refund fraud in a manner that reduces the administrative burden on taxpayers who are victims of such fraud. “(b) Standards and Procedures To Be Considered.—The guidelines described in subsection (a) may include—“(1) standards for—“(A) the average length of time in which a case involving stolen identity refund fraud should be resolved; “(B) the maximum length of time, on average, a taxpayer who is a victim of stolen identity refund fraud and is entitled to a tax refund which has been stolen should have to wait to receive such refund; and “(C) the maximum number of offices and employees within the Internal Revenue Service with whom a taxpayer who is a victim of stolen identity refund fraud should be required to interact in order to resolve a case; “(2) standards for opening, assigning, reassigning, or closing a case involving stolen identity refund fraud; and “(3) procedures for implementing and accomplishing the standards described in paragraphs (1) and (2), and measures for evaluating such procedures and determining whether such standards have been successfully implemented.”
+
+
+<a id="section-7530"></a>
+## § 7530. Application of earned income tax credit to possessions of the United States
+**(a) Puerto Rico**
+
+(1) **In general** — With respect to calendar year 2021 and each calendar year thereafter, the Secretary shall, except as otherwise provided in this subsection, make payments to Puerto Rico equal to—
+
+  (A) the specified matching amount for such calendar year, plus
+
+  (B) in the case of calendar years 2021 through 2025, the lesser of—
+
+    (i) the expenditures made by Puerto Rico during such calendar year for education efforts with respect to individual taxpayers and tax return preparers relating to the earned income tax credit, or
+
+    (ii) $1,000,000.
+
+(2) **Requirement to reform earned income tax credit** — The Secretary shall not make any payments under paragraph (1) with respect to any calendar year unless Puerto Rico has in effect an earned income tax credit for taxable years beginning in or with such calendar year which (relative to the earned income tax credit which was in effect for taxable years beginning in or with calendar year 2019) increases the percentage of earned income which is allowed as a credit for each group of individuals with respect to which such percentage is separately stated or determined in a manner designed to substantially increase workforce participation.
+
+(3) **Specified matching amount** — For purposes of this subsection—
+
+  (A) *In general* — The term “specified matching amount” means, with respect to any calendar year, the lesser of—
+
+    (i) the excess (if any) of—
+
+      (I) the cost to Puerto Rico of the earned income tax credit for taxable years beginning in or with such calendar year, over
+
+      (II) the base amount for such calendar year, or
+
+    (ii) the product of 3, multiplied by the base amount for such calendar year.
+
+  (B) *Base amount*
+
+    (i) *Base amount for 2021* — In the case of calendar year 2021, the term “base amount” means the greater of—
+
+      (I) the cost to Puerto Rico of the earned income tax credit for taxable years beginning in or with calendar year 2019 (rounded to the nearest multiple of $1,000,000), or
+
+      (II) $200,000,000.
+
+    (ii) *Inflation adjustment* — In the case of any calendar year after 2021, the term “base amount” means the dollar amount determined under clause (i) increased by an amount equal to—
+
+      (I) such dollar amount, multiplied by—
+
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2020” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    Any amount determined under this clause shall be rounded to the nearest multiple of $1,000,000.
+
+(4) **Rules related to payments**
+
+  (A) *Timing of payments* — The Secretary shall make payments under paragraph (1) for any calendar year—
+
+    (i) after receipt of such information as the Secretary may require to determine such payments, and
+
+    (ii) except as provided in clause (i), within a reasonable period of time before the due date for individual income tax returns (as determined under the laws of Puerto Rico) for taxable years which began on the first day of such calendar year.
+
+  (B) *Information* — The Secretary may require the reporting of such information as the Secretary may require to carry out this subsection.
+
+  (C) *Determination of cost of earned income tax credit* — For purposes of this subsection, the cost to Puerto Rico of the earned income tax credit shall be determined by the Secretary on the basis of the laws of Puerto Rico and shall include reductions in revenues received by Puerto Rico by reason of such credit and refunds attributable to such credit, but shall not include any administrative costs with respect to such credit.
+
+**(b) Possessions with mirror code tax systems**
+
+(1) **In general** — With respect to calendar year 2021 and each calendar year thereafter, the Secretary shall, except as otherwise provided in this subsection, make payments to the Virgin Islands, Guam, and the Commonwealth of the Northern Mariana Islands equal to—
+
+  (A) the cost to such possession of the earned income tax credit for taxable years beginning in or with such calendar year, plus
+
+  (B) in the case of calendar years 2021 through 2025, the lesser of—
+
+    (i) the expenditures made by such possession during such calendar year for education efforts with respect to individual taxpayers and tax return preparers relating to such earned income tax credit, or
+
+    (ii) $50,000.
+
+(2) **Application of certain rules** — Rules similar to the rules of subparagraphs (A), (B), and (C) of subsection (a)(4) shall apply for purposes of this subsection.
+
+**(c) American Samoa**
+
+(1) **In general** — With respect to calendar year 2021 and each calendar year thereafter, the Secretary shall, except as otherwise provided in this subsection, make payments to American Samoa equal to—
+
+  (A) the lesser of—
+
+    (i) the cost to American Samoa of the earned income tax credit for taxable years beginning in or with such calendar year, or
+
+    (ii) $16,000,000, plus
+
+  (B) in the case of calendar years 2021 through 2025, the lesser of—
+
+    (i) the expenditures made by American Samoa during such calendar year for education efforts with respect to individual taxpayers and tax return preparers relating to such earned income tax credit, or
+
+    (ii) $50,000.
+
+(2) **Requirement to enact and maintain an earned income tax credit** — The Secretary shall not make any payments under paragraph (1) with respect to any calendar year unless American Samoa has in effect an earned income tax credit for taxable years beginning in or with such calendar year which allows a refundable tax credit to individuals on the basis of the taxpayer’s earned income which is designed to substantially increase workforce participation.
+
+(3) **Inflation adjustment** — In the case of any calendar year after 2021, the $16,000,000 amount in paragraph (1)(A)(ii) shall be increased by an amount equal to—
+
+  (A) such dollar amount, multiplied by—
+
+  (B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2020” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  Any increase determined under this clause shall be rounded to the nearest multiple of $100,000.
+
+(4) **Application of certain rules** — Rules similar to the rules of subparagraphs (A), (B), and (C) of subsection (a)(4) shall apply for purposes of this subsection.
+
+**(d) Treatment of payments** For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under this section shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.

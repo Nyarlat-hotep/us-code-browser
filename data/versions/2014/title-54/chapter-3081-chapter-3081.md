@@ -1,0 +1,114 @@
+---
+title: 54
+chapter: '3081'
+heading: Chapter 3081
+section_count: 3
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&num=0&edition=prelim
+---
+<a id="section-308101"></a>
+## § 308101. Definition
+
+In this chapter, the term “Secretary” means the Secretary, acting through the American Battlefield Protection Program.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 308101 | [16 U.S.C. 469k–1(c)(1)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/D&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(D), Mar. 30, 2009, 123 Stat. 1213. |
+
+#### Purpose
+Pub. L. 111–11, title VII, § 7301(a), Mar. 30, 2009, 123 Stat. 1213, provided that: “The purpose of this section [enacting former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim), Conservation] is to assist citizens, public and private institutions, and governments at all levels in planning, interpreting, and protecting sites where historic battles were fought on American soil during the armed conflicts that shaped the growth and development of the United States, in order that present and future generations may learn and gain inspiration from the ground where Americans made their ultimate sacrifice.”
+
+
+<a id="section-308102"></a>
+## § 308102. Preservation assistance
+**(a) In General.—** Using the established national historic preservation program to the extent practicable, the Secretary shall encourage, support, assist, recognize, and work in partnership with citizens, Federal, State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations in identifying, researching, evaluating, interpreting, and protecting historic battlefields and associated sites on a national, State, and local level.
+
+**(b) Financial Assistance.—** To carry out subsection (a), the Secretary may use a cooperative agreement, grant, contract, or other generally adopted means of providing financial assistance.
+
+**(c) Authorization of Appropriations.—** There is authorized to be appropriated to carry out this section $3,000,000 for each fiscal year, to remain available until expended.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 308102 | [16 U.S.C. 469k–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/b&num=0&edition=prelim) | Pub. L. 111–11, title VII, subtitle D, § 7301(b), Mar. 30, 2009, 123 Stat. 1213. |
+
+
+<a id="section-308103"></a>
+## § 308103. Battlefield acquisition grant program
+**(a) Definition.—** In this section, the term “eligible site” means a site—
+
+(1) that is not within the exterior boundaries of a System unit; and
+
+(2) that is identified in the document entitled “Report on the Nation’s Civil War Battlefields”, prepared by the Civil War Sites Advisory Commission, and dated July 1993.
+
+**(b) Establishment.—** The Secretary shall establish a battlefield acquisition grant program under which the Secretary may provide grants to State and local governments to pay the Federal share of the cost of acquiring interests in eligible sites for the preservation and protection of those eligible sites.
+
+**(c) Nonprofit Partners.—** A State or local government may acquire an interest in an eligible site using a grant under this section in partnership with a nonprofit organization.
+
+**(d) Non-Federal Share.—** The non-Federal share of the total cost of acquiring an interest in an eligible site under this section shall be not less than 50 percent.
+
+**(e) Limitation on Land Use.—** An interest in an eligible site acquired under this section shall be subject to [section 200305(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200305/f/3&num=0&edition=prelim).
+
+**(f) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary to provide grants under this section $10,000,000 for each of fiscal years 2012 and 2013.
+
+### Statutory Notes
+
+#### Amendment Not Shown in Text
+This section was derived from section 469k–1(c)(1)(A) to (C), (2) to (6) of Title 16, Conservation. Pursuant to section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding [section 100101 of this title](./chapter-1001-chapter-1001.md#section-100101), this section replaces the former provisions as they existed on Jan. 15, 2013, and any amendment to the former provisions enacted after Jan. 15, 2013, is deemed to amend this section. The former provisions were amended after Jan. 15, 2013, by Pub. L. 113–76, div. G, title IV, § 429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, § 421, Dec. 16, 2014, 128 Stat. 2449; and Pub. L. 113–291, div. B, title XXX, § 3050, Dec. 19, 2014, 128 Stat. 3799.
+
+Subsec. (c)(6) of former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim) (corresponding to subsec. (f) of this section) was amended by Pub. L. 113–76 by striking “2013” and inserting “2014” and by Pub. L. 113–235 by striking “2014” and inserting “2021”.
+
+The amendments made by Pub. L. 113–291 to subsec. (c) of former [section 469k–1 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1&num=0&edition=prelim), along with the corresponding provisions of this section, when present, are as follows:
+
+(1) In paragraph (1)—
+
+(A) by striking subparagraph (A) [see subsec. (a)(2) of this section] and inserting the following:
+
+“(A) Battlefield report.—The term ‘battlefield report’ means, collectively—
+
+“(i) the report entitled ‘Report on the Nation’s Civil War Battlefields’, prepared by the Civil War Sites Advisory Commission, and dated July 1993; and
+
+“(ii) the report entitled ‘Report to Congress on the Historic Preservation of Revolutionary War and War of 1812 Sites in the United States’, prepared by the National Park Service, and dated September 2007.”; and
+
+(B) in subparagraph (C)(ii) [incorporated into subsec. (a)(2) of this section with no direct correspondence], by striking “Battlefield Report” and inserting “battlefield report”;
+
+(2) In paragraph (2) [subsec. (b) of this section], by inserting “eligible sites or” after “acquiring”;
+
+(3) In paragraph (3) [subsec. (c) of this section], by inserting “an eligible site or” after “acquire”;
+
+(4) In paragraph (4) [subsec. (d) of this section], by inserting “an eligible site or” after “acquiring”;
+
+(5) In paragraph (5) [subsec. (e) of this section], by striking “An” and inserting “An eligible site or an”;
+
+(6) By redesignating paragraph (6) [subsec. (f) of this section] as paragraph (9);
+
+(7) By inserting after paragraph (5) [subsec. (e) of this section] the following new paragraphs:
+
+“(6) Willing sellers.—Acquisition of land or interests in land under this subsection shall be from willing sellers only.
+
+“(7) Report.—Not later than 5 years after the date of the enactment of this paragraph, the Secretary shall submit to Congress a report on the activities carried out under this subsection, including a description of—
+
+“(A) preservation activities carried out at the battlefields and associated sites identified in the battlefield report during the period between publication of the battlefield report and the report required under this paragraph;
+
+“(B) changes in the condition of the battlefields and associated sites during that period; and
+
+“(C) any other relevant developments relating to the battlefields and associated sites during that period.
+
+“(8) Prohibition on lobbying.—None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or appropriation matters pending before Congress.”; and
+
+(8) In paragraph (9) [subsec. (f) of this section] (as redesignated), by striking “2014” and inserting “2021”. [This amendment is identical to amendment made by Pub. L. 113–235.]
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 308103(a) | [16 U.S.C. 469k–1(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/A&num=0&edition=prelim), (C) | Pub. L. 111–11, title VII, subtitle D, § 7301(c)(1)(A) through (C), (2) through (6), Mar. 30, 2009, 123 Stat. 1213. |
+| 308103(b) | [16 U.S.C. 469k–1(c)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/B&num=0&edition=prelim), (2) |  |
+| 308103(c) | [16 U.S.C. 469k–1(c)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/1/B&num=0&edition=prelim), (3) |  |
+| 308103(d) through (f) | [16 U.S.C. 469k–1(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section469k–1/c/4&num=0&edition=prelim) through (6) |  |
+
+In subsection (f), reference to fiscal years 2009 to 2011 is omitted as obsolete.

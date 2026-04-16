@@ -1,0 +1,317 @@
+[
+  {
+    "slug": "chapter-001-organization",
+    "heading": "ORGANIZATION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-003-powers",
+    "heading": "POWERS",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-004-inspectors-general",
+    "heading": "INSPECTORS GENERAL",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-005-administrative-procedure",
+    "heading": "ADMINISTRATIVE PROCEDURE",
+    "section_count": 47
+  },
+  {
+    "slug": "chapter-006-the-analysis-of-regulatory-functions",
+    "heading": "THE ANALYSIS OF REGULATORY FUNCTIONS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-007-judicial-review",
+    "heading": "JUDICIAL REVIEW",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-008-congressional-review-of-agency-rulemaking",
+    "heading": "CONGRESSIONAL REVIEW OF AGENCY RULEMAKING",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-009-executive-reorganization",
+    "heading": "EXECUTIVE REORGANIZATION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-010-federal-advisory-committees",
+    "heading": "FEDERAL ADVISORY COMMITTEES",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-011-office-of-personnel-management",
+    "heading": "OFFICE OF PERSONNEL MANAGEMENT",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action",
+    "heading": "MERIT SYSTEMS PROTECTION BOARD, OFFICE OF SPECIAL COUNSEL, AND EMPLOYEE RIGHT OF ACTION",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-013-special-authority",
+    "heading": "SPECIAL AUTHORITY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-014-agency-chief-human-capital-officers",
+    "heading": "AGENCY CHIEF HUMAN CAPITAL OFFICERS",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-015-political-activity-of-certain-state-and-local-employees",
+    "heading": "POLITICAL ACTIVITY OF CERTAIN STATE AND LOCAL EMPLOYEES",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-021-definitions",
+    "heading": "DEFINITIONS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-023-merit-system-principles",
+    "heading": "MERIT SYSTEM PRINCIPLES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-029-commissions-oaths-records-and-reports",
+    "heading": "COMMISSIONS, OATHS, RECORDS, AND REPORTS",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-031-authority-for-employment",
+    "heading": "AUTHORITY FOR EMPLOYMENT",
+    "section_count": 28
+  },
+  {
+    "slug": "chapter-033-examination-selection-and-placement",
+    "heading": "EXAMINATION, SELECTION, AND PLACEMENT",
+    "section_count": 81
+  },
+  {
+    "slug": "chapter-034-part-time-career-employment-opportunities",
+    "heading": "PART-TIME CAREER EMPLOYMENT OPPORTUNITIES",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-035-retention-preference-voluntary-separation-incentive-payments-restoration-and-reemployment",
+    "heading": "RETENTION PREFERENCE, VOLUNTARY SEPARATION INCENTIVE PAYMENTS, RESTORATION, AND REEMPLOYMENT",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-037-information-technology-exchange-program",
+    "heading": "INFORMATION TECHNOLOGY EXCHANGE PROGRAM",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-041-training",
+    "heading": "TRAINING",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-043-performance-appraisal",
+    "heading": "PERFORMANCE APPRAISAL",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-045-incentive-awards",
+    "heading": "INCENTIVE AWARDS",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-047-personnel-research-programs-and-demonstration-projects",
+    "heading": "PERSONNEL RESEARCH PROGRAMS AND DEMONSTRATION PROJECTS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-048-agency-personnel-demonstration-project",
+    "heading": "AGENCY PERSONNEL DEMONSTRATION PROJECT",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-051-classification",
+    "heading": "CLASSIFICATION",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-053-pay-rates-and-systems",
+    "heading": "PAY RATES AND SYSTEMS",
+    "section_count": 66
+  },
+  {
+    "slug": "chapter-054-human-capital-performance-fund",
+    "heading": "HUMAN CAPITAL PERFORMANCE FUND",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-055-pay-administration",
+    "heading": "PAY ADMINISTRATION",
+    "section_count": 74
+  },
+  {
+    "slug": "chapter-057-travel-transportation-and-subsistence",
+    "heading": "TRAVEL, TRANSPORTATION, AND SUBSISTENCE",
+    "section_count": 52
+  },
+  {
+    "slug": "chapter-059-allowances",
+    "heading": "ALLOWANCES",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-061-hours-of-work",
+    "heading": "HOURS OF WORK",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-063-leave",
+    "heading": "LEAVE",
+    "section_count": 56
+  },
+  {
+    "slug": "chapter-065-telework",
+    "heading": "TELEWORK",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-071-labor-management-relations",
+    "heading": "LABOR-MANAGEMENT RELATIONS",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-072-antidiscrimination-right-to-petition-congress",
+    "heading": "ANTIDISCRIMINATION; RIGHT TO PETITION CONGRESS",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-073-suitability-security-and-conduct",
+    "heading": "SUITABILITY, SECURITY, AND CONDUCT",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-075-adverse-actions",
+    "heading": "ADVERSE ACTIONS",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-077-appeals",
+    "heading": "APPEALS",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-079-services-to-employees",
+    "heading": "SERVICES TO EMPLOYEES",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-081-compensation-for-work-injuries",
+    "heading": "COMPENSATION FOR WORK INJURIES",
+    "section_count": 62
+  },
+  {
+    "slug": "chapter-083-retirement",
+    "heading": "RETIREMENT",
+    "section_count": 37
+  },
+  {
+    "slug": "chapter-084-federal-employees-retirement-system",
+    "heading": "FEDERAL EMPLOYEES’ RETIREMENT SYSTEM",
+    "section_count": 77
+  },
+  {
+    "slug": "chapter-085-unemployment-compensation",
+    "heading": "UNEMPLOYMENT COMPENSATION",
+    "section_count": 14
+  },
+  {
+    "slug": "chapter-087-life-insurance",
+    "heading": "LIFE INSURANCE",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-089-health-insurance",
+    "heading": "HEALTH INSURANCE",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-89a-enhanced-dental-benefits",
+    "heading": "ENHANCED DENTAL BENEFITS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-89b-enhanced-vision-benefits",
+    "heading": "ENHANCED VISION BENEFITS",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-090-long-term-care-insurance",
+    "heading": "LONG-TERM CARE INSURANCE",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-091-access-to-criminal-history-records-for-national-security-and-other-purposes",
+    "heading": "ACCESS TO CRIMINAL HISTORY RECORDS FOR NATIONAL SECURITY AND OTHER PURPOSES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-092-prohibition-on-criminal-history-inquiries-prior-to-conditional-offer",
+    "heading": "PROHIBITION ON CRIMINAL HISTORY INQUIRIES PRIOR TO CONDITIONAL OFFER",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-095-personnel-flexibilities-relating-to-the-internal-revenue-service",
+    "heading": "PERSONNEL FLEXIBILITIES RELATING TO THE INTERNAL REVENUE SERVICE",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-096-personnel-flexibilities-relating-to-land-management-agencies",
+    "heading": "PERSONNEL FLEXIBILITIES RELATING TO LAND MANAGEMENT AGENCIES",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-097-department-of-homeland-security",
+    "heading": "DEPARTMENT OF HOMELAND SECURITY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-098-national-aeronautics-and-space-administration",
+    "heading": "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-099-department-of-defense-personnel-authorities",
+    "heading": "DEPARTMENT OF DEFENSE PERSONNEL AUTHORITIES",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-101-federal-emergency-management-agency-personnel",
+    "heading": "FEDERAL EMERGENCY MANAGEMENT AGENCY PERSONNEL",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-102-united-states-secret-service-uniformed-division-personnel",
+    "heading": "UNITED STATES SECRET SERVICE UNIFORMED DIVISION PERSONNEL",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-103-department-of-state",
+    "heading": "DEPARTMENT OF STATE",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-110-enhanced-personnel-security-programs",
+    "heading": "ENHANCED PERSONNEL SECURITY PROGRAMS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-131-ethics-in-government",
+    "heading": "ETHICS IN GOVERNMENT",
+    "section_count": 23
+  }
+]

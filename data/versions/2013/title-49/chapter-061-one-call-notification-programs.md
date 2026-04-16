@@ -1,0 +1,235 @@
+---
+title: 49
+chapter: '61'
+heading: ONE-CALL NOTIFICATION PROGRAMS
+section_count: 9
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
+---
+<a id="section-6101"></a>
+## § 6101. Purposes
+
+The purposes of this chapter are—
+
+(1) to enhance public safety;
+
+(2) to protect the environment;
+
+(3) to minimize risks to excavators; and
+
+(4) to prevent disruption of vital public services, by reducing the incidence of damage to underground facilities during excavation through the voluntary adoption and efficient implementation by all States of State one-call notification programs that meet the minimum standards set forth under section 6103.
+
+### Statutory Notes
+
+#### Transfer of Functions
+For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under [section 108 of this title](./chapter-001-organization.md#section-108).
+
+#### Congressional Findings
+Pub. L. 105–178, title VII, § 7301, June 9, 1998, 112 Stat. 477, provided that: “Congress finds that— “(1) unintentional damage to underground facilities during excavation is a significant cause of disruptions in telecommunications, water supply, electric power, and other vital public services, such as hospital and air traffic control operations, and is a leading cause of natural gas and hazardous liquid pipeline accidents; “(2) excavation that is performed without prior notification to an underground facility operator or with inaccurate or untimely marking of such a facility prior to excavation can cause damage that results in fatalities, serious injuries, harm to the environment and disruption of vital services to the public; and “(3) protection of the public and the environment from the consequences of underground facility damage caused by excavations will be enhanced by a coordinated national effort to improve one-call notification programs in each State and the effectiveness and efficiency of one-call notification systems that operate under such programs.”
+
+
+<a id="section-6102"></a>
+## § 6102. Definitions
+
+In this chapter, the following definitions apply:
+
+(1) **One-call notification system.—** — The term “one-call notification system” means a system operated by an organization that has as 1 of its purposes to receive notification from excavators of intended excavation in a specified area in order to disseminate such notification to underground facility operators that are members of the system so that such operators can locate and mark their facilities in order to prevent damage to underground facilities in the course of such excavation.
+
+(2) **State one-call notification program.—** — The term “State one-call notification program” means the State statutes, regulations, orders, judicial decisions, and other elements of law and policy in effect in a State that establish the requirements for the operation of one-call notification systems in such State.
+
+(3) **State.—** — The term “State” means a State, the District of Columbia, and Puerto Rico.
+
+(4) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
+
+
+<a id="section-6103"></a>
+## § 6103. Minimum standards for State one-call notification programs
+**(a) Minimum Standards.—** In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
+
+(1) appropriate participation by all underground facility operators, including all government operators;
+
+(2) appropriate participation by all excavators, including all government and contract excavators; and
+
+(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+
+**(b) Appropriate Participation.—** In determining the appropriate extent of participation required for types of underground facilities or excavators under subsection (a), a State shall assess, rank, and take into consideration the risks to the public safety, the environment, excavators, and vital public services associated with—
+
+(1) damage to types of underground facilities; and
+
+(2) activities of types of excavators.
+
+**(c) Implementation.—** A State one-call notification program also shall, at a minimum, provide for and document—
+
+(1) consideration of the ranking of risks under subsection (b) in the enforcement of its provisions;
+
+(2) a reasonable relationship between the benefits of one-call notification and the cost of implementing and complying with the requirements of the State one-call notification program; and
+
+(3) voluntary participation where the State determines that a type of underground facility or an activity of a type of excavator poses a de minimis risk to public safety or the environment.
+
+**(d) Penalties.—** To the extent the State determines appropriate and necessary to achieve the purposes of this chapter, a State one-call notification program shall, at a minimum, provide for—
+
+(1) administrative or civil penalties commensurate with the seriousness of a violation by an excavator or facility owner of a State one-call notification program;
+
+(2) increased penalties for parties that repeatedly damage underground facilities because they fail to use one-call notification systems or for parties that repeatedly fail to provide timely and accurate marking after the required call has been made to a one-call notification system;
+
+(3) reduced or waived penalties for a violation of a requirement of a State one-call notification program that results in, or could result in, damage that is promptly reported by the violator;
+
+(4) equitable relief; and
+
+(5) citation of violations.
+
+### Statutory Notes
+
+#### Amendment of Subsection (a)
+Pub. L. 112–90, § 3(a), (c), Jan. 3, 2012, 125 Stat. 1906, provided that, effective 2 years after Jan. 3, 2012, subsection (a) of this section is amended to read as follows:
+
+(a) Minimum Standards.—
+
+(1) In general.—In order to qualify for a grant under section 6106, a State one-call notification program, at a minimum, shall provide for—
+
+(A) appropriate participation by all underground facility operators, including all government operators;
+
+(B) appropriate participation by all excavators, including all government and contract excavators; and
+
+(C) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
+
+(2) Exemptions prohibited.—In order to qualify for a grant under section 6106, a State one-call notification program may not exempt municipalities, State agencies, or their contractors from the one-call notification system requirements of the program.
+
+See 2012 Amendment note below.
+
+#### Amendments
+2012—Subsec. (a). Pub. L. 112–90, § 3(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
+
+“(1) appropriate participation by all underground facility operators, including all government operators;
+
+“(2) appropriate participation by all excavators, including all government and contract excavators; and
+
+“(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.”
+
+2002—Subsec. (a)(1). Pub. L. 107–355, § 2(a)(1)(A), inserted “, including all government operators” before semicolon at end.
+
+Subsec. (a)(2). Pub. L. 107–355, § 2(a)(1)(B), inserted “, including all government and contract excavators” before semicolon.
+
+Subsec. (c). Pub. L. 107–355, § 2(a)(2), substituted “provide for and document” for “provide for” in introductory provisions.
+
+#### Effective Date of 2012 Amendment
+Pub. L. 112–90, § 3(c), Jan. 3, 2012, 125 Stat. 1906, provided that: “The amendments made by this section [amending this section and [section 60134 of this title](./chapter-601-safety.md#section-60134)] shall take effect 2 years after the date of enactment of this Act [Jan. 3, 2012].”
+
+
+<a id="section-6104"></a>
+## § 6104. Compliance with minimum standards
+**(a) Requirement.—** In order to qualify for a grant under section 6106, each State shall submit to the Secretary a grant application under subsection (b). The State shall submit the application not later than 2 years after the date of enactment of this chapter.
+
+**(b) Application.—**
+
+(1) Upon application by a State, the Secretary shall review that State’s one-call notification program, including the provisions for the implementation of the program and the record of compliance and enforcement under the program.
+
+(2) Based on the review under paragraph (1), the Secretary shall determine whether the State’s one-call notification program meets the minimum standards for such a program set forth in section 6103 in order to qualify for a grant under section 6106.
+
+(3) In order to expedite compliance under this section, the Secretary may consult with the State as to whether an existing State one-call notification program, a specific modification thereof, or a proposed State program would result in a positive determination under paragraph (2).
+
+(4) The Secretary shall prescribe the form and manner of filing an application under this section that shall provide sufficient information about a State’s one-call notification program for the Secretary to evaluate its overall effectiveness. Such information may include the nature and reasons for exceptions from required participation, the types of enforcement available, and such other information as the Secretary deems necessary.
+
+(5) The application of a State under paragraph (1) and the record of actions of the Secretary under this section shall be available to the public.
+
+**(c) Alternative Program.—** A State is eligible to receive a grant under section 6106 if the State maintains an alternative one-call notification program that provides protection for public safety, excavators, and the environment that is equivalent to, or greater than, protection provided under a program that meets the minimum standards set forth in section 6103.
+
+**(d) Report.—** The Secretary shall include the following information in reports submitted under [section 60124 of this title](./chapter-601-safety.md#section-60124)—
+
+(1) a description of the extent to which each State has adopted and implemented the minimum Federal standards under section 6103 or maintains an alternative program under subsection (c);
+
+(2) an analysis by the Secretary of the overall effectiveness of each State’s one-call notification program and the one-call notification systems operating under such program in achieving the purposes of this chapter;
+
+(3) the impact of each State’s decisions on the extent of required participation in one-call notification systems on prevention of damage to underground facilities; and
+
+(4) areas where improvements are needed in one-call notification systems in operation in each State.
+The report shall also include any recommendations the Secretary determines appropriate. If the Secretary determines that the purposes of this chapter have been substantially achieved, no further report under this section shall be required.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this chapter, referred to in subsec. (a), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+
+#### Amendments
+2002—Subsec. (d). Pub. L. 107–355 substituted “The Secretary shall” for “Within 3 years after the date of the enactment of this chapter, the Secretary shall begin to” in introductory provisions.
+
+
+<a id="section-6105"></a>
+## § 6105. Implementation of best practices guidelines
+**(a) Adoption of Best Practices.—** The Secretary of Transportation shall encourage States, operators of one-call notification programs, excavators (including all government and contract excavators), and underground facility operators to adopt and implement practices identified in the best practices report entitled “Common Ground”, as periodically updated.
+
+**(b) Technical Assistance.—** The Secretary shall provide technical assistance to and participate in programs sponsored by a non-profit organization specifically established for the purpose of reducing construction-related damage to underground facilities.
+
+**(c) Grants.—**
+
+(1) **In general.—** — The Secretary may make grants to a non-profit organization described in subsection (b).
+
+(2) **Authorization of appropriations.—** — In addition to amounts authorized under section 6107, there is authorized to be appropriated for making grants under this subsection $500,000 for each of fiscal years 2003 through 2006. Such sums shall remain available until expended.
+
+(3) **General revenue funding.—** — Any sums appropriated under this subsection shall be derived from general revenues and may not be derived from amounts collected under section 60301.
+
+### Statutory Notes
+
+#### Amendments
+2002—Pub. L. 107–355 amended section generally. Prior to amendment, section related to study of existing one-call systems, purpose and considerations of study, report by Secretary within one year of June 9, 1998, and discretion of Secretary as to whether to carry out study.
+
+
+<a id="section-6106"></a>
+## § 6106. Grants to States
+**(a) In General.—** The Secretary may make a grant of financial assistance to a State that qualifies under section 6104(b) to assist in improving—
+
+(1) the overall quality and effectiveness of one-call notification systems in the State;
+
+(2) communications systems linking one-call notification systems;
+
+(3) location capabilities, including training personnel and developing and using location technology;
+
+(4) record retention and recording capabilities for one-call notification systems;
+
+(5) public information and education;
+
+(6) participation in one-call notification systems; or
+
+(7) compliance and enforcement under the State one-call notification program.
+
+**(b) State Action Taken Into Account.—** In making grants under this section, the Secretary shall take into consideration the commitment of each State to improving its State one-call notification program, including legislative and regulatory actions taken by the State after the date of enactment of this chapter.
+
+**(c) Funding for One-Call Notification Systems.—** A State may provide funds received under this section directly to any one-call notification system in such State that substantially adopts the best practices identified under section 6105.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+
+
+<a id="section-6107"></a>
+## § 6107. Authorization of appropriations
+**(a) For Grants to States.—** There are authorized to be appropriated to the Secretary to provide grants to States under section 6106 $1,000,000 for each of fiscal years 2012 through 2015. Such funds shall remain available until expended.
+
+**(b) For Administration.—** There are authorized to be appropriated to the Secretary such sums as may be necessary to carry out sections 6103, 6104, and 6105 for fiscal years 2012 through 2015.
+
+### Statutory Notes
+
+#### Amendments
+2012—Subsecs. (a), (b). Pub. L. 112–90, § 32(c)(1), (2), substituted “2012 through 2015.” for “2007 through 2010.”
+
+Subsec. (c). Pub. L. 112–90, § 32(c)(3), struck out subsec. (c). Text read as follows: “Any sums appropriated under this section shall be derived from general revenues and may not be derived from amounts collected under [section 60301 of this title](./chapter-603-user-fees.md#section-60301).”
+
+2006—Subsecs. (a), (b). Pub. L. 109–468 substituted “fiscal years 2007 through 2010” for “fiscal years 2003 through 2006”.
+
+2002—Subsec. (a). Pub. L. 107–355, § 2(d)(1), substituted “$1,000,000 for each of fiscal years 2003 through 2006” for “$1,000,000 for fiscal year 2000 and $5,000,000 for fiscal year 2001” in first sentence.
+
+Subsec. (b). Pub. L. 107–355, § 2(d)(2), substituted “for fiscal years 2003 through 2006” for “for fiscal years 1999, 2000, and 2001”.
+
+
+<a id="section-6108"></a>
+## § 6108. Relationship to State laws
+
+Nothing in this chapter preempts State law or shall impose a new requirement on any State or mandate revisions to a one-call system.
+
+
+<a id="section-6109"></a>
+## § 6109. Public education and awareness
+**(a) Grant Authority.—** The Secretary shall make a grant to an appropriate entity for promoting public education and awareness with respect to the 811 national excavation damage prevention phone number.
+
+**(b) Authorization of Appropriations.—** There is authorized to be appropriated to the Secretary $1,000,000 for the period beginning October 1, 2006, and ending September 30, 2008, to carry out this section.

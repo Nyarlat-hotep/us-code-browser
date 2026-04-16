@@ -1,0 +1,134 @@
+---
+title: 54
+chapter: '1001'
+heading: Chapter 1001
+section_count: 2
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54&num=0&edition=prelim
+---
+<a id="section-100101"></a>
+## § 100101. Promotion and regulation
+**(a) In General.—** The Secretary, acting through the Director of the National Park Service, shall promote and regulate the use of the National Park System by means and measures that conform to the fundamental purpose of the System units, which purpose is to conserve the scenery, natural and historic objects, and wild life in the System units and to provide for the enjoyment of the scenery, natural and historic objects, and wild life in such manner and by such means as will leave them unimpaired for the enjoyment of future generations.
+
+**(b) Declarations.—**
+
+(1) **1970 declarations.—** — Congress declares that—
+
+  (A) the National Park System, which began with establishment of Yellowstone National Park in 1872, has since grown to include superlative natural, historic, and recreation areas in every major region of the United States and its territories and possessions;
+
+  (B) these areas, though distinct in character, are united through their interrelated purposes and resources into one National Park System as cumulative expressions of a single national heritage;
+
+  (C) individually and collectively, these areas derive increased national dignity and recognition of their superb environmental quality through their inclusion jointly with each other in one System preserved and managed for the benefit and inspiration of all the people of the United States; and
+
+  (D) it is the purpose of this division to include all these areas in the System and to clarify the authorities applicable to the System.
+
+(2) **1978 reaffirmation.—** — Congress reaffirms, declares, and directs that the promotion and regulation of the various System units shall be consistent with and founded in the purpose established by subsection (a), to the common benefit of all the people of the United States. The authorization of activities shall be construed and the protection, management, and administration of the System units shall be conducted in light of the high public value and integrity of the System and shall not be exercised in derogation of the values and purposes for which the System units have been established, except as directly and specifically provided by Congress.
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 100101(a) | [16 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1&num=0&edition=prelim) (last sentence) | Aug. 25, 1916, ch. 408, § 1 (last sentence), 39 Stat. 535. |
+| 100101(b)(1) | [16 U.S.C. 1a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–1&num=0&edition=prelim) (1st sentence) | Pub. L. 91–383, § 1, Aug. 18, 1970, 84 Stat. 825; Pub. L. 95–250, title I, § 101(b), Mar. 27, 1978, 92 Stat. 166. |
+| 100101(b)(2) | [16 U.S.C. 1a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–1&num=0&edition=prelim) (2d, last sentences) |  |
+
+In subsection (a), the words “Secretary, acting through the Director of the National Park Service” are substituted for “service thus established” to reflect the transfer of functions of other officers, employees, and agencies of the Department of the Interior to the Secretary by sections 1 and 2 of Reorganization Plan No. 3 of 1950 (5 U.S.C. App.) while keeping the responsibility for promoting and regulating the use of the National Park System with the Director of the National Park Service.
+
+In subsection (b)(1)(D), the words “this division” are substituted for “this Act” for clarity. The purpose of the Act of August 18, 1970 (known as the National Park System General Authorities Act) (Public Law 91–383, 84 Stat. 825), was to update and clarify the law with respect to the various units of the National Park System by enlarging the application of existing general statutes so that they apply uniformly to the administration of the various types of parklands within the national park system. See H. Rept. 91–1265 (91st Cong., 2d Sess.). However, section 2(b) of that Act, rather than being enacted as a new provision of law, amended section 2 of the Act of August 8, 1953 (ch. 384, 67 Stat. 496), and would not be included in the reference to “this Act” in section 1 of the Act of August 18, 1970. The revised subsection translates the reference to “this Act” to carry out the intent of the Act of August 18, 1970.
+
+#### Short Title of 2009 Act
+Pub. L. 111–11, § 1(a), Mar. 30, 2009, 123 Stat. 991, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Public Land Management Act of 2009’.”
+
+#### Short Title of 2006 Act
+Pub. L. 109–453, § 1(a), Dec. 22, 2006, 120 Stat. 3367, provided that: “This Act [see Tables for classification] may be cited as the ‘National Historic Preservation Act Amendments Act of 2006’.”
+
+Pub. L. 109–338, § 1(a), Oct. 12, 2006, 120 Stat. 1783, provided that: “This Act [see Tables for classification] may be cited as the ‘National Heritage Areas Act of 2006’.”
+
+#### Short Title of 2005 Act
+Pub. L. 109–156, § 1, Dec. 30, 2005, 119 Stat. 2946, provided that: “This Act [see Tables for classification] may be cited as the ‘Delaware Water Gap National Recreation Area Improvement Act’.”
+
+#### Short Title of 2000 Act
+Pub. L. 106–355, § 1, Oct. 24, 2000, 114 Stat. 1385, provided that: “This Act [see Tables for classification] may be cited as the ‘National Historic Lighthouse Preservation Act of 2000’.”
+
+Pub. L. 106–291, title I, § 150(a), Oct. 11, 2000, 114 Stat. 956, provided that: “This section [see Tables for classification] may be cited as the ‘National Underground Railroad Freedom Center Act’.”
+
+Pub. L. 106–208, § 1, May 26, 2000, 114 Stat. 318, provided that: “This Act [see Tables for classification] may be cited as the ‘National Historic Preservation Act Amendments of 2000’.”
+
+Pub. L. 106–176, § 1(a), Mar. 10, 2000, 114 Stat. 23, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Parks Technical Corrections Act of 2000’.”
+
+#### Short Title of 1998 Act
+Pub. L. 105–391, § 1(a), Nov. 13, 1998, 112 Stat. 3497, provided that: “This Act [see Tables for classification] may be cited as the ‘National Parks Omnibus Management Act of 1998’.”
+
+Pub. L. 105–391, title III, § 301, Nov. 13, 1998, 112 Stat. 3501, provided that: “This title [see Tables for classification] may be cited as the ‘National Park System New Areas Studies Act’.”
+
+Pub. L. 105–391, title IV, § 401, Nov. 13, 1998, 112 Stat. 3503, provided that: “This title [see Tables for classification] may be cited as the ‘National Park Service Concessions Management Improvement Act of 1998’.”
+
+Pub. L. 105–203, § 1, July 21, 1998, 112 Stat. 678, provided that: “This Act [see Tables for classification] may be cited as the ‘National Underground Railroad Network to Freedom Act of 1998’.”
+
+#### Short Title of 1996 Act
+Pub. L. 104–333, § 1, Nov. 12, 1996, 110 Stat. 4093, provided that: “This Act [see Tables for classification] may be cited as the ‘Omnibus Parks and Public Lands Management Act of 1996’.”
+
+#### Short Title of 1994 Act
+Pub. L. 103–451, § 1, Nov. 2, 1994, 108 Stat. 4769, provided that: “This Act [see Tables for classification] may be cited as the ‘National Maritime Heritage Act of 1994’.”
+
+#### Short Title of 1992 Act
+Pub. L. 102–575, title XL, § 4001, Oct. 30, 1992, 106 Stat. 4753, provided that: “This title [see Tables for classification] may be cited as the ‘National Historic Preservation Act Amendments of 1992’.”
+
+#### Short Title of 1980 Act
+Pub. L. 96–515, § 1, Dec. 12, 1980, 94 Stat. 2987, provided: “That this Act [see Tables for classification] may be cited as the ‘National Historic Preservation Act Amendments of 1980’.”
+
+#### Short Title of 1978 Act
+Pub. L. 95–625, § 1, Nov. 10, 1978, 92 Stat. 3467, provided that: “This Act [see Tables for classification] may be cited as the ‘National Parks and Recreation Act of 1978’.”
+
+Pub. L. 95–625, title X, § 1001, Nov. 10, 1978, 92 Stat. 3538, provided that: “This title [see Tables for classification] may be cited as the ‘Urban Park and Recreation Recovery Act of 1978’.”
+
+#### Short Title of 1970 Act
+Pub. L. 91–383, § 14, as added by Pub. L. 108–352, § 10(b), Oct. 21, 2004, 118 Stat. 1397, provided that: “This Act [see Tables for classification] may be cited as the ‘National Park System General Authorities Act’.”
+
+Pub. L. 91–357, § 5, July 29, 1970, 84 Stat. 472, provided that: “This Act [see Tables for classification] may be cited as the ‘Volunteers in the Parks Act of 1969’.”
+
+#### Short Title of 1966 Act
+Pub. L. 89–665, § 1(a), Oct. 15, 1966, 80 Stat. 915; Pub. L. 96–515, title I, § 101(a), Dec. 12, 1980, 94 Stat. 2987, provided that: “This Act [see Tables for classification] may be cited as the ‘National Historic Preservation Act’.”
+
+#### Short Title of 1964 Act
+Pub. L. 88–578, title I, § 1(a), Sept. 3, 1964, 78 Stat. 897, provided in part that: “This Act [see Tables for classification] may be cited as the ‘Land and Water Conservation Fund Act of 1965’.”
+
+#### Short Title of 1916 Act
+Act Aug. 25, 1916, ch. 408, § 5, as added by Pub. L. 108–352, § 10(a), Oct. 21, 2004, 118 Stat. 1397, provided that: “This Act [see Tables for classification] may be cited as the ‘National Park Service Organic Act’.”
+
+#### Special Events at National Mall
+Pub. L. 108–108, title I, § 145, Nov. 10, 2003, 117 Stat. 1280, provided that: “None of the funds appropriated or otherwise made available by this or any other Act, hereafter enacted, may be used to permit the use of the National Mall for a special event, unless the permit expressly prohibits the erection, placement, or use of structures and signs bearing commercial advertising. The Secretary may allow for recognition of sponsors of special events: Provided, That the size and form of the recognition shall be consistent with the special nature and sanctity of the Mall and any lettering or design identifying the sponsor shall be no larger than one-third the size of the lettering or design identifying the special event. In approving special events, the Secretary shall ensure, to the maximum extent practicable, that public use of, and access to the Mall is not restricted. For purposes of this section, the term ‘special event’ shall have the meaning given to it by section 7.96(g)(1)(ii) of title 36, Code of Federal Regulations.”
+
+#### National Park Police Drug Enforcement Supplemental Authority Act
+Pub. L. 99–570, title V, subtitle B (§§ 5051, 5052), Oct. 27, 1986, 100 Stat. 3207–156, as amended by Pub. L. 100–690, title VI, § 6254(d)(2), Nov. 18, 1988, 102 Stat. 4365, provided that: “SEC. 5051. SHORT TITLE.“This subtitle may be cited as the ‘National Park Police Drug Enforcement Supplemental Authority Act’. “SEC. 5052. NATIONAL PARK AUTHORIZATION.“In order to improve Federal law enforcement activities relating to the use and production of narcotics and controlled substances in National Park System units, from amounts appropriated there shall be made available to the Secretary of the Interior, in addition to sums made available under other authority of law, $3,000,000 for fiscal year 1989, and for each fiscal year thereafter, to be used for the employment and training of officers or employees of the Department of the Interior designated pursuant to section 10(b) of the Act of August 18, 1970 ([former] [16 U.S.C. 1a–6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–6&num=0&edition=prelim) [see [54 U.S.C. 102701](./chapter-1027-chapter-1027.md#section-102701)]), for equipment and facilities to be used by such personnel, and for expenses related to such employment, training, equipment, and facilities.”
+
+#### Purposes of Pub. L. 88–578
+Pub. L. 88–578, title I, § 1(b), Sept. 3, 1964, 78 Stat. 897, provided that: “The purposes of this Act [see Tables for classification] are to assist in preserving, developing, and assuring accessibility to all citizens of the United States of America of present and future generations and visitors who are lawfully present within the boundaries of the United States of America such quality and quantity of outdoor recreation resources as may be available and are necessary and desirable for individual active participation in such recreation and to strengthen the health and vitality of the citizens of the United States by (1) providing funds for and authorizing Federal assistance to the States in planning, acquisition, and development of needed land and water areas and facilities and (2) providing funds for the Federal acquisition and development of certain lands and other areas.”
+
+
+<a id="section-100102"></a>
+## § 100102. Definitions
+
+In this title:
+
+(1) **Director.—** — The term “Director” means the Director of the National Park Service.
+
+(2) **National park system.—** — The term “National Park System” means the areas of land and water described in [section 100501 of this title](./chapter-1005-chapter-1005.md#section-100501).
+
+(3) **Secretary.—** — The term “Secretary” means the Secretary of the Interior.
+
+(4) **Service.—** — The term “Service” means the National Park Service.
+
+(5) **System.—** — The term “System” means the National Park System.
+
+(6) **System unit.—** — The term “System unit” means one of the areas described in [section 100501 of this title](./chapter-1005-chapter-1005.md#section-100501).
+
+### Statutory Notes
+
+| Historical and Revision Notes |  |  |
+| --- | --- | --- |
+| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
+| 100102 | no source. |  |
+
+The term “System unit” is added because various laws relating to the National Park Service apply to any area of land or water administered by the Secretary through the Service regardless of the terms used in those laws. See section 100501 of the revised title.

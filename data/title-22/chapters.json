@@ -1,0 +1,642 @@
+[
+  {
+    "slug": "chapter-001-diplomatic-and-consular-service-generally",
+    "heading": "DIPLOMATIC AND CONSULAR SERVICE GENERALLY",
+    "section_count": 35
+  },
+  {
+    "slug": "chapter-002-consular-courts",
+    "heading": "CONSULAR COURTS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-003-united-states-court-for-china",
+    "heading": "UNITED STATES COURT FOR CHINA",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-004-passports",
+    "heading": "PASSPORTS",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-005-preservation-of-friendly-foreign-relations-generally",
+    "heading": "PRESERVATION OF FRIENDLY FOREIGN RELATIONS GENERALLY",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-006-foreign-diplomatic-and-consular-officers",
+    "heading": "FOREIGN DIPLOMATIC AND CONSULAR OFFICERS",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-007-international-bureaus-congresses-etc",
+    "heading": "INTERNATIONAL BUREAUS, CONGRESSES, ETC.",
+    "section_count": 615
+  },
+  {
+    "slug": "chapter-008-foreign-service-buildings",
+    "heading": "FOREIGN SERVICE BUILDINGS",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-009-foreign-wars-war-materials-and-neutrality",
+    "heading": "FOREIGN WARS, WAR MATERIALS, AND NEUTRALITY",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-010-hemispheral-relations",
+    "heading": "HEMISPHERAL RELATIONS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-011-foreign-agents-and-propaganda",
+    "heading": "FOREIGN AGENTS AND PROPAGANDA",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-012-claims-commissions",
+    "heading": "CLAIMS COMMISSIONS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-013-service-courts-of-friendly-foreign-forces",
+    "heading": "SERVICE COURTS OF FRIENDLY FOREIGN FORCES",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-014-foreign-service",
+    "heading": "FOREIGN SERVICE",
+    "section_count": 99
+  },
+  {
+    "slug": "chapter-14a-foreign-service-information-officers-corps",
+    "heading": "FOREIGN SERVICE INFORMATION OFFICERS CORPS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-015-the-republic-of-the-philippines",
+    "heading": "THE REPUBLIC OF THE PHILIPPINES",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-016-greek-and-turkish-assistance",
+    "heading": "GREEK AND TURKISH ASSISTANCE",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-017-relief-aid-to-war-devastated-countries",
+    "heading": "RELIEF AID TO WAR-DEVASTATED COUNTRIES",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-018-united-states-information-and-educational-exchange-programs",
+    "heading": "UNITED STATES INFORMATION AND EDUCATIONAL EXCHANGE PROGRAMS",
+    "section_count": 69
+  },
+  {
+    "slug": "chapter-019-foreign-assistance-program",
+    "heading": "FOREIGN ASSISTANCE PROGRAM",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-020-mutual-defense-assistance-program",
+    "heading": "MUTUAL DEFENSE ASSISTANCE PROGRAM",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-20a-mutual-defense-assistance-control-program",
+    "heading": "MUTUAL DEFENSE ASSISTANCE CONTROL PROGRAM",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-021-settlement-of-international-claims",
+    "heading": "SETTLEMENT OF INTERNATIONAL CLAIMS",
+    "section_count": 109
+  },
+  {
+    "slug": "chapter-21a-settlement-of-investment-disputes",
+    "heading": "SETTLEMENT OF INVESTMENT DISPUTES",
+    "section_count": 2
+  },
+  {
+    "slug": "chapter-022-mutual-security-assistance",
+    "heading": "MUTUAL SECURITY ASSISTANCE",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-023-protection-of-citizens-abroad",
+    "heading": "PROTECTION OF CITIZENS ABROAD",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-024-mutual-security-program",
+    "heading": "MUTUAL SECURITY PROGRAM",
+    "section_count": 58
+  },
+  {
+    "slug": "chapter-24a-middle-east-peace-and-stability",
+    "heading": "MIDDLE EAST PEACE AND STABILITY",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-025-protection-of-vessels-on-the-high-seas-and-in-territorial-waters-of-foreign-countries",
+    "heading": "PROTECTION OF VESSELS ON THE HIGH SEAS AND IN TERRITORIAL WATERS OF FOREIGN COUNTRIES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-026-armed-forces-participation-in-international-amateur-sports-competitions",
+    "heading": "ARMED FORCES PARTICIPATION IN INTERNATIONAL AMATEUR SPORTS COMPETITIONS",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-027-international-cultural-exchange-and-trade-fair-participation",
+    "heading": "INTERNATIONAL CULTURAL EXCHANGE AND TRADE FAIR PARTICIPATION",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-028-international-atomic-energy-agency-participation",
+    "heading": "INTERNATIONAL ATOMIC ENERGY AGENCY PARTICIPATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-029-cultural-technical-and-educational-centers",
+    "heading": "CULTURAL, TECHNICAL, AND EDUCATIONAL CENTERS",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-29a-inter-american-cultural-and-trade-center",
+    "heading": "INTER-AMERICAN CULTURAL AND TRADE CENTER",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-030-international-cooperation-in-health-and-medical-research",
+    "heading": "INTERNATIONAL COOPERATION IN HEALTH AND MEDICAL RESEARCH",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-031-international-travel",
+    "heading": "INTERNATIONAL TRAVEL",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-31a-national-tourism-organization",
+    "heading": "NATIONAL TOURISM ORGANIZATION",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-032-foreign-assistance",
+    "heading": "FOREIGN ASSISTANCE",
+    "section_count": 391
+  },
+  {
+    "slug": "chapter-033-mutual-educational-and-cultural-exchange-program",
+    "heading": "MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-034-the-peace-corps",
+    "heading": "THE PEACE CORPS",
+    "section_count": 37
+  },
+  {
+    "slug": "chapter-035-arms-control-and-disarmament",
+    "heading": "ARMS CONTROL AND DISARMAMENT",
+    "section_count": 34
+  },
+  {
+    "slug": "chapter-036-migration-and-refugee-assistance",
+    "heading": "MIGRATION AND REFUGEE ASSISTANCE",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-037-foreign-gifts-and-decorations",
+    "heading": "FOREIGN GIFTS AND DECORATIONS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-038-department-of-state",
+    "heading": "DEPARTMENT OF STATE",
+    "section_count": 167
+  },
+  {
+    "slug": "chapter-039-arms-export-control",
+    "heading": "ARMS EXPORT CONTROL",
+    "section_count": 60
+  },
+  {
+    "slug": "chapter-040-international-expositions",
+    "heading": "INTERNATIONAL EXPOSITIONS",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-041-study-commission-relating-to-foreign-policy",
+    "heading": "STUDY COMMISSION RELATING TO FOREIGN POLICY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-042-international-economic-policy",
+    "heading": "INTERNATIONAL ECONOMIC POLICY",
+    "section_count": 1
+  },
+  {
+    "slug": "chapter-043-international-broadcasting",
+    "heading": "INTERNATIONAL BROADCASTING",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-044-japan-united-states-friendship",
+    "heading": "JAPAN-UNITED STATES FRIENDSHIP",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-045-commission-on-security-and-cooperation-in-europe",
+    "heading": "COMMISSION ON SECURITY AND COOPERATION IN EUROPE",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-046-international-investment-and-trade-in-services-survey",
+    "heading": "INTERNATIONAL INVESTMENT AND TRADE IN SERVICES SURVEY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-46a-foreign-direct-investment-and-international-financial-data",
+    "heading": "FOREIGN DIRECT INVESTMENT AND INTERNATIONAL FINANCIAL DATA",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-047-nuclear-non-proliferation",
+    "heading": "NUCLEAR NON-PROLIFERATION",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-048-taiwan-relations",
+    "heading": "TAIWAN RELATIONS",
+    "section_count": 17
+  },
+  {
+    "slug": "chapter-48a-taiwan-enhanced-resilience",
+    "heading": "TAIWAN ENHANCED RESILIENCE",
+    "section_count": 25
+  },
+  {
+    "slug": "chapter-049-support-of-peace-treaty-between-egypt-and-israel",
+    "heading": "SUPPORT OF PEACE TREATY BETWEEN EGYPT AND ISRAEL",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-050-institute-for-scientific-and-technological-cooperation",
+    "heading": "INSTITUTE FOR SCIENTIFIC AND TECHNOLOGICAL COOPERATION",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-051-panama-canal",
+    "heading": "PANAMA CANAL",
+    "section_count": 103
+  },
+  {
+    "slug": "chapter-052-foreign-service",
+    "heading": "FOREIGN SERVICE",
+    "section_count": 223
+  },
+  {
+    "slug": "chapter-053-authorities-relating-to-the-regulation-of-foreign-missions",
+    "heading": "AUTHORITIES RELATING TO THE REGULATION OF FOREIGN MISSIONS",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-53a-disposition-of-personal-property-abroad",
+    "heading": "DISPOSITION OF PERSONAL PROPERTY ABROAD",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-53b-foreign-relations-of-the-united-states-historical-series",
+    "heading": "FOREIGN RELATIONS OF THE UNITED STATES HISTORICAL SERIES",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-054-private-organization-assistance",
+    "heading": "PRIVATE ORGANIZATION ASSISTANCE",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-055-research-and-training-for-eastern-europe-and-independent-states-of-former-soviet-union",
+    "heading": "RESEARCH AND TRAINING FOR EASTERN EUROPE AND INDEPENDENT STATES OF FORMER SOVIET UNION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-056-united-states-institute-of-peace",
+    "heading": "UNITED STATES INSTITUTE OF PEACE",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-057-united-states-scholarship-program-for-developing-countries",
+    "heading": "UNITED STATES SCHOLARSHIP PROGRAM FOR DEVELOPING COUNTRIES",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-058-diplomatic-security",
+    "heading": "DIPLOMATIC SECURITY",
+    "section_count": 35
+  },
+  {
+    "slug": "chapter-059-fascell-fellowship-program",
+    "heading": "FASCELL FELLOWSHIP PROGRAM",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-060-anti-apartheid-program",
+    "heading": "ANTI-APARTHEID PROGRAM",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-061-anti-terrorism-plo",
+    "heading": "ANTI-TERRORISM—PLO",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-062-international-financial-policy",
+    "heading": "INTERNATIONAL FINANCIAL POLICY",
+    "section_count": 19
+  },
+  {
+    "slug": "chapter-063-support-for-east-european-democracy-seed",
+    "heading": "SUPPORT FOR EAST EUROPEAN DEMOCRACY (SEED)",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-064-united-states-response-to-terrorism-affecting-americans-abroad",
+    "heading": "UNITED STATES RESPONSE TO TERRORISM AFFECTING AMERICANS ABROAD",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-065-control-and-elimination-of-chemical-and-biological-weapons",
+    "heading": "CONTROL AND ELIMINATION OF CHEMICAL AND BIOLOGICAL WEAPONS",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-066-united-states-hong-kong-policy",
+    "heading": "UNITED STATES-HONG KONG POLICY",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support",
+    "heading": "FREEDOM FOR RUSSIA AND EMERGING EURASIAN DEMOCRACIES AND OPEN MARKETS SUPPORT",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-068-demilitarization-of-former-soviet-union",
+    "heading": "DEMILITARIZATION OF FORMER SOVIET UNION",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-68a-cooperative-threat-reduction-with-states-of-former-soviet-union",
+    "heading": "COOPERATIVE THREAT REDUCTION WITH STATES OF FORMER SOVIET UNION",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-069-cuban-democracy",
+    "heading": "CUBAN DEMOCRACY",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-69a-cuban-liberty-and-democratic-solidarity-libertad",
+    "heading": "CUBAN LIBERTY AND DEMOCRATIC SOLIDARITY (LIBERTAD)",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-070-mansfield-fellowship-program",
+    "heading": "MANSFIELD FELLOWSHIP PROGRAM",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-071-united-states-international-broadcasting",
+    "heading": "UNITED STATES INTERNATIONAL BROADCASTING",
+    "section_count": 20
+  },
+  {
+    "slug": "chapter-072-nuclear-proliferation-prevention",
+    "heading": "NUCLEAR PROLIFERATION PREVENTION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-073-international-religious-freedom",
+    "heading": "INTERNATIONAL RELIGIOUS FREEDOM",
+    "section_count": 39
+  },
+  {
+    "slug": "chapter-074-foreign-affairs-agencies-consolidation",
+    "heading": "FOREIGN AFFAIRS AGENCIES CONSOLIDATION",
+    "section_count": 32
+  },
+  {
+    "slug": "chapter-075-chemical-weapons-convention-implementation",
+    "heading": "CHEMICAL WEAPONS CONVENTION IMPLEMENTATION",
+    "section_count": 22
+  },
+  {
+    "slug": "chapter-076-assistance-to-countries-with-large-populations-having-hiv-aids",
+    "heading": "ASSISTANCE TO COUNTRIES WITH LARGE POPULATIONS HAVING HIV/AIDS",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-077-united-states-china-relations",
+    "heading": "UNITED STATES-CHINA RELATIONS",
+    "section_count": 30
+  },
+  {
+    "slug": "chapter-078-trafficking-victims-protection",
+    "heading": "TRAFFICKING VICTIMS PROTECTION",
+    "section_count": 26
+  },
+  {
+    "slug": "chapter-079-trade-sanctions-reform-and-export-enhancement",
+    "heading": "TRADE SANCTIONS REFORM AND EXPORT ENHANCEMENT",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-080-diplomatic-telecommunications-service-program-office-dts-po",
+    "heading": "DIPLOMATIC TELECOMMUNICATIONS SERVICE PROGRAM OFFICE (DTS-PO)",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-081-international-criminal-court",
+    "heading": "INTERNATIONAL CRIMINAL COURT",
+    "section_count": 15
+  },
+  {
+    "slug": "chapter-082-afghanistan-freedom-support",
+    "heading": "AFGHANISTAN FREEDOM SUPPORT",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria",
+    "heading": "UNITED STATES LEADERSHIP AGAINST HIV/AIDS, TUBERCULOSIS, AND MALARIA",
+    "section_count": 29
+  },
+  {
+    "slug": "chapter-084-millennium-challenge",
+    "heading": "MILLENNIUM CHALLENGE",
+    "section_count": 18
+  },
+  {
+    "slug": "chapter-085-north-korean-human-rights",
+    "heading": "NORTH KOREAN HUMAN RIGHTS",
+    "section_count": 21
+  },
+  {
+    "slug": "chapter-086-climate-change-technology-deployment-in-developing-countries",
+    "heading": "CLIMATE CHANGE TECHNOLOGY DEPLOYMENT IN DEVELOPING COUNTRIES",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-087-united-states-and-india-nuclear-cooperation",
+    "heading": "UNITED STATES AND INDIA NUCLEAR COOPERATION",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-088-nuclear-non-proliferation-treaty-united-states-additional-protocol-implementation",
+    "heading": "NUCLEAR NON-PROLIFERATION TREATY—UNITED STATES ADDITIONAL PROTOCOL IMPLEMENTATION",
+    "section_count": 24
+  },
+  {
+    "slug": "chapter-089-advancing-democratic-values",
+    "heading": "ADVANCING DEMOCRATIC VALUES",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-090-volunteers-for-prosperity-program",
+    "heading": "VOLUNTEERS FOR PROSPERITY PROGRAM",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-091-enhanced-partnership-with-pakistan",
+    "heading": "ENHANCED PARTNERSHIP WITH PAKISTAN",
+    "section_count": 13
+  },
+  {
+    "slug": "chapter-092-comprehensive-iran-sanctions-accountability-and-divestment",
+    "heading": "COMPREHENSIVE IRAN SANCTIONS, ACCOUNTABILITY, AND DIVESTMENT",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-093-united-states-israel-cooperation",
+    "heading": "UNITED STATES-ISRAEL COOPERATION",
+    "section_count": 7
+  },
+  {
+    "slug": "chapter-094-iran-threat-reduction-and-syria-human-rights",
+    "heading": "IRAN THREAT REDUCTION AND SYRIA HUMAN RIGHTS",
+    "section_count": 34
+  },
+  {
+    "slug": "chapter-095-iran-freedom-and-counterproliferation",
+    "heading": "IRAN FREEDOM AND COUNTERPROLIFERATION",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-096-sovereignty-integrity-democracy-and-economic-stability-of-ukraine",
+    "heading": "SOVEREIGNTY, INTEGRITY, DEMOCRACY, AND ECONOMIC STABILITY OF UKRAINE",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-96a-ukraine-freedom-support",
+    "heading": "UKRAINE FREEDOM SUPPORT",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-097-international-child-abduction-remedies",
+    "heading": "INTERNATIONAL CHILD ABDUCTION REMEDIES",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-098-international-child-abduction-prevention-and-return",
+    "heading": "INTERNATIONAL CHILD ABDUCTION PREVENTION AND RETURN",
+    "section_count": 11
+  },
+  {
+    "slug": "chapter-099-north-korea-sanctions-and-policy-enhancement",
+    "heading": "NORTH KOREA SANCTIONS AND POLICY ENHANCEMENT",
+    "section_count": 39
+  },
+  {
+    "slug": "chapter-100-global-food-security",
+    "heading": "GLOBAL FOOD SECURITY",
+    "section_count": 8
+  },
+  {
+    "slug": "chapter-101-countering-irans-destabilizing-activities",
+    "heading": "COUNTERING IRAN’S DESTABILIZING ACTIVITIES",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-101a-fight-and-combat-rampant-iranian-missile-exports",
+    "heading": "FIGHT AND COMBAT RAMPANT IRANIAN MISSILE EXPORTS",
+    "section_count": 4
+  },
+  {
+    "slug": "chapter-102-countering-russian-influence-in-europe-and-eurasia",
+    "heading": "COUNTERING RUSSIAN INFLUENCE IN EUROPE AND EURASIA",
+    "section_count": 27
+  },
+  {
+    "slug": "chapter-103-better-utilization-of-investments-leading-to-development",
+    "heading": "BETTER UTILIZATION OF INVESTMENTS LEADING TO DEVELOPMENT",
+    "section_count": 33
+  },
+  {
+    "slug": "chapter-104-venezuela-assistance",
+    "heading": "VENEZUELA ASSISTANCE",
+    "section_count": 16
+  },
+  {
+    "slug": "chapter-105-global-fragility",
+    "heading": "GLOBAL FRAGILITY",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-106-championing-american-business-through-diplomacy",
+    "heading": "CHAMPIONING AMERICAN BUSINESS THROUGH DIPLOMACY",
+    "section_count": 6
+  },
+  {
+    "slug": "chapter-107-sudan-democratic-transition-accountability-and-fiscal-transparency",
+    "heading": "SUDAN DEMOCRATIC TRANSITION, ACCOUNTABILITY, AND FISCAL TRANSPARENCY",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-108-global-magnitsky-human-rights-accountability",
+    "heading": "GLOBAL MAGNITSKY HUMAN RIGHTS ACCOUNTABILITY",
+    "section_count": 3
+  },
+  {
+    "slug": "chapter-109-burma-unified-through-rigorous-military-accountability",
+    "heading": "BURMA UNIFIED THROUGH RIGOROUS MILITARY ACCOUNTABILITY",
+    "section_count": 12
+  },
+  {
+    "slug": "chapter-110-information-security-and-cyber-diplomacy",
+    "heading": "INFORMATION SECURITY AND CYBER DIPLOMACY",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-111-australia-united-kingdom-and-united-states-aukus-security-partnership",
+    "heading": "AUSTRALIA, UNITED KINGDOM, AND UNITED STATES (AUKUS) SECURITY PARTNERSHIP",
+    "section_count": 10
+  },
+  {
+    "slug": "chapter-112-combating-global-corruption",
+    "heading": "COMBATING GLOBAL CORRUPTION",
+    "section_count": 5
+  },
+  {
+    "slug": "chapter-113-united-states-foundation-for-international-conservation",
+    "heading": "UNITED STATES FOUNDATION FOR INTERNATIONAL CONSERVATION",
+    "section_count": 9
+  },
+  {
+    "slug": "chapter-114-western-balkans-democracy-and-prosperity",
+    "heading": "WESTERN BALKANS DEMOCRACY AND PROSPERITY",
+    "section_count": 10
+  }
+]

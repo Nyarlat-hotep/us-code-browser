@@ -1,0 +1,327 @@
+---
+title: 42
+chapter: '109'
+heading: WATER RESOURCES RESEARCH
+section_count: 9
+source: >-
+  https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
+---
+<a id="section-10301"></a>
+## § 10301. Congressional findings and declarations
+
+The Congress finds and declares that—
+
+(1) the existence of an adequate supply of water of good quality for the production of materials and energy for the Nation’s needs and for the efficient use of the Nation’s energy and water resources is essential to national economic stability and growth, and to the well-being of the people;
+
+(2) the management of water resources is closely related to maintaining environmental quality, productivity of natural resources and agricultural systems, and social well-being;
+
+(3) there is an increasing threat of impairment to the quantity and quality of surface and groundwater resources;
+
+(4) the Nation’s capabilities for technological assessment and planning and for policy formulation for water resources must be strengthened at the Federal, State, and local governmental levels;
+
+(5) there should be a continuing national investment in water and related research and technology commensurate with growing national needs;
+
+(6) it is necessary to provide for the research and development of technology for the conversion of saline and other impaired waters to a quality suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
+
+(7) the Nation must provide programs to strengthen research and associated graduate education because the pool of scientists, engineers, and technicians trained in fields related to water resources constitutes an invaluable natural resource which should be increased, fully utilized, and regularly replenished; and 11 So in original. The word “and” probably should not appear.
+
+(8) long-term planning and policy development are essential to ensure the availability of an abundant supply of high quality water for domestic and other uses; and
+
+(9) the States must have the research and problem-solving capacity necessary to effectively manage their water resources.
+
+### Statutory Notes
+
+#### Amendments
+1996—Par. (2). Pub. L. 104–147, § 1(1), inserted “, productivity of natural resources and agricultural systems,” after “environmental quality”.
+
+Pars. (8), (9). Pub. L. 104–147, § 1(2)–(4), added pars. (8) and (9).
+
+#### Short Title of 2007 Amendment
+Pub. L. 109–471, § 1, Jan. 11, 2007, 120 Stat. 3552, provided that: “This Act [amending sections 10303 and 10306 of this title] may be cited as the ‘Water Resources Research Act Amendments of 2006’.”
+
+#### Short Title
+Pub. L. 98–242, title I, § 101, Mar. 22, 1984, 98 Stat. 97, provided that: “This Act [enacting this chapter, repealing sections 7801, 7802, 7811 to 7819, 7831 to 7835, 7851 to 7853, and 7871 to 7883 of this title, and enacting provisions set out as a note under [section 7801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7801&num=0&edition=prelim)] may be cited as the ‘Water Resources Research Act of 1984’.”
+
+#### Savings Provision
+Rules and regulations issued prior to Mar. 22, 1984, under Pub. L. 95–467 [chapter 87 of this title] to remain in full force and effect under this chapter until superseded by new rules and regulations promulgated under this chapter, see section 110(b) of Pub. L. 98–242, set out as a note under [section 7801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7801&num=0&edition=prelim).
+
+#### More Water, More Energy, and Less Waste
+Pub. L. 110–229, title V, § 514, May 8, 2008, 122 Stat. 844, provided that: “(a) Findings.—The Congress finds that—“(1) development of energy resources, including oil, natural gas, coalbed methane, and geothermal resources, frequently results in bringing to the surface water extracted from underground sources; “(2) some of that produced water is used for irrigation or other purposes, but most of the water is returned to the subsurface or otherwise disposed of as waste; “(3) reducing the quantity of produced water returned to the subsurface and increasing the quantity of produced water that is made available for irrigation and other uses—“(A) would augment water supplies; “(B) could reduce the costs to energy developers for disposing of the water; and “(C) in some cases, could increase the efficiency of energy development activities; and “(4) it is in the national interest—“(A) to limit the quantity of produced water disposed of as waste; “(B) to optimize the production of energy resources; and “(C) to remove or reduce obstacles to use of produced water for irrigation or other purposes in ways that will not adversely affect water quality or the environment. “(b) Purposes.—The purposes of this section are—“(1) to optimize the production of energy resources—“(A) by minimizing the quantity of produced water; and “(B) by facilitating the use of produced water for irrigation and other purposes without adversely affecting water quality or the environment; and “(2) to demonstrate means of accomplishing those results. “(c) Definitions.—In this section:“(1) Lower basin state.—The term ‘Lower Basin State’ means any of the States of—“(A) Arizona; “(B) California; and “(C) Nevada. “(2) Produced water.—The term ‘produced water’ means water from an underground source that is brought to the surface as part of the process of exploration for, or development of—“(A) oil; “(B) natural gas; “(C) coalbed methane; or “(D) any other substance to be used as an energy source. “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(4) Upper basin state.—The term ‘Upper Basin State’ means any of the States of—“(A) Colorado; “(B) New Mexico; “(C) Utah; and “(D) Wyoming. “(d) Identification of Problems and Solutions.—“(1) Study.—The Secretary shall conduct a study to identify—“(A) the technical, economic, environmental, and other obstacles to reducing the quantity of produced water; “(B) the technical, economic, environmental, legal, and other obstacles to increasing the extent to which produced water can be used for irrigation and other purposes without adversely affecting water quality, public health, or the environment; “(C) the legislative, administrative, and other actions that could reduce or eliminate the obstacles identified in subparagraphs (A) and (B); and “(D) the costs and benefits associated with reducing or eliminating the obstacles identified in subparagraphs (A) and (B). “(2) Report.—Not later than 1 year after the date of enactment of this Act [May 8, 2008], the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report describing the results of the study under paragraph (1). “(e) Implementation.—“(1) Grants.—Subject to the availability of appropriations, the Secretary shall provide financial assistance for the development of facilities, technologies, and processes to demonstrate the feasibility, effectiveness, and safety of—“(A) optimizing energy resource production by reducing the quantity of produced water generated; or “(B) increasing the extent to which produced water may be recovered and made suitable for use for irrigation, municipal, or industrial uses, or other purposes without adversely affecting water quality or the environment. “(2) Limitations.—Assistance under this subsection—“(A) shall be provided for—“(i) at least 1 project in each of the Upper Basin States; and “(ii) at least 1 project in at least 1 of the Lower Basin States; “(B) shall not exceed $1,000,000 for any project; “(C) shall be used to pay not more than 50 percent of the total cost of a project; “(D) shall not be used for the operation or maintenance of any facility; and “(E) may be in addition to assistance provided by the Federal Government pursuant to other provisions of law. “(f) Consultation, Advice, and Comments.—In carrying out this section, including in preparing the report under subsection (d)(2) and establishing criteria to be used in connection with an award of financial assistance under subsection (e), the Secretary shall—“(1) consult with the Secretary of Energy, the Administrator of the Environmental Protection Agency, and appropriate Governors and local officials; “(2)(A) review any relevant information developed in connection with research carried out by others, including research carried out pursuant to subtitle J of title IX of the Energy Policy Act of 2005 ([former] [42 U.S.C. 16371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16371&num=0&edition=prelim) et seq.); and “(B) to the extent the Secretary determines to be advisable, include that information in the report under subsection (d)(2); “(3) seek the advice of—“(A) individuals with relevant professional or academic expertise; and “(B) individuals or representatives of entities with industrial experience, particularly experience relating to production of oil, natural gas, coalbed methane, or other energy resources (including geothermal resources); and “(4) solicit comments and suggestions from the public. “(g) Relation to Other Laws.—Nothing in this section supersedes, modifies, abrogates, or limits—“(1) the effect of any State law or any interstate authority or compact relating to—“(A) any use of water; or “(B) the regulation of water quantity or quality; or “(2) the applicability or effect of any Federal law (including regulations). “(h) Authorization of Appropriations.—There are authorized to be appropriated—“(1) $1,000,000 to carry out subsection (d); and “(2) $7,500,000 to carry out subsection (e).”
+
+#### Desalination Research, Studies, and Demonstration Projects
+Pub. L. 104–298, Oct. 11, 1996, 110 Stat. 3622, as amended by Pub. L. 108–7, div. D, title II, § 210, Feb. 20, 2003, 117 Stat. 146; Pub. L. 109–13, div. A, title VI, § 6015, May 11, 2005, 119 Stat. 284; Pub. L. 109–103, title II, § 206, Nov. 19, 2005, 119 Stat. 2268; Pub. L. 109–289, div. B, title II, § 20312, as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 19; Pub. L. 112–74, div. B, title II, § 204, Dec. 23, 2011, 125 Stat. 865, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Water Desalination Act of 1996’. “SEC. 2. DEFINITIONS.“As used in this Act:“(1) Desalination or desalting.—The terms ‘desalination’ or ‘desalting’ mean the use of any process or technique for the removal and, when feasible, adaptation to beneficial use, of organic and inorganic elements and compounds from saline or biologically impaired waters, by itself or in conjunction with other processes. “(2) Saline water.—The term ‘saline water’ means sea water, brackish water, and other mineralized or chemically impaired water. “(3) United states.—The term ‘United States’ means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States. “(4) Usable water.—The term ‘usable water’ means water of a high quality suitable for environmental enhancement, agricultural, industrial, municipal, and other beneficial consumptive or nonconsumptive uses. “(5) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “SEC. 3. AUTHORIZATION OF RESEARCH AND STUDIES.“(a) In General.—In order to determine the most cost-effective and technologically efficient means by which usable water can be produced from saline water or water otherwise impaired or contaminated, the Secretary is authorized to award grants and to enter into contracts, to the extent provided in advance in appropriation Acts, to conduct, encourage, and assist in the financing of research to develop processes for converting saline water into water suitable for beneficial uses. Awards of research grants and contracts under this section shall be made on the basis of a competitive, merit-reviewed process. Research and study topics authorized by this section include—“(1) investigating desalination processes; “(2) ascertaining the optimum mix of investment and operating costs; “(3) determining the best designs for different conditions of operation; “(4) investigating methods of increasing the economic efficiency of desalination processes through dual-purpose co-facilities with other processes involving the use of water; “(5) conducting or contracting for technical work, including the design, construction, and testing of pilot systems and test beds, to develop desalting processes and concepts; “(6) studying methods for the recovery of byproducts resulting from desalination to offset the costs of treatment and to reduce environmental impacts from those byproducts; and “(7) salinity modeling and toxicity analysis of brine discharges, cost reduction strategies for constructing and operating desalination facilities, and the horticultural effects of desalinated water used for irrigation. “(b) Project Recommendations and Reports to the Congress.—As soon as practicable and within three years after the date of enactment of this Act [Oct. 11, 1996], the Secretary shall recommend to Congress desalination demonstration projects or full-scale desalination projects to carry out the purposes of this Act and to further evaluate and implement the results of research and studies conducted under the authority of this section. Recommendations for projects shall be accompanied by reports on the engineering and economic feasibility of proposed projects and their environmental impacts. “(c) Authority To Engage Others.—In carrying out research and studies authorized in this section, the Secretary may engage the necessary personnel, industrial or engineering firms, Federal laboratories, water resources research and technology institutes, other facilities, and educational institutions suitable to conduct investigations and studies authorized under this section. “(d) Alternative Technologies.—In carrying out the purposes of this Act, the Secretary shall ensure that at least three separate technologies are evaluated and demonstrated for the purposes of accomplishing desalination. “SEC. 4. DESALINATION DEMONSTRATION AND DEVELOPMENT.“(a) In General.—In order to further demonstrate the feasibility of desalination processes investigated either independently or in research conducted pursuant to section 3, the Secretary shall administer and conduct a demonstration and development program for water desalination and related activities, including the following:“(1) Desalination plants and modules.—Conduct or contract for technical work, including the design, construction, and testing of plants and modules to develop desalination processes and concepts. “(2) Byproducts.—Study methods for the marketing of byproducts resulting from the desalting of water to offset the costs of treatment and to reduce environmental impacts of those byproducts. “(3) Economic surveys.—Conduct economic studies and surveys to determine present and prospective costs of producing water for beneficial purposes in various locations by desalination processes compared to other methods. “(b) Cooperative Agreements.—Federal participation in desalination activities may be conducted through cooperative agreements, including cost-sharing agreements, with non-Federal public utilities and State and local governmental agencies and other entities, in order to develop recommendations for Federal participation in processes and plants utilizing desalting technologies for the production of water. “SEC. 5. AVAILABILITY OF INFORMATION.“All information from studies sponsored or funded under authority of this Act shall be considered public information. “SEC. 6. TECHNICAL AND ADMINISTRATIVE ASSISTANCE.“The Secretary may—“(1) accept technical and administrative assistance from States and public or private agencies in connection with studies, surveys, location, construction, operation, and other work relating to the desalting of water, and “(2) enter into contracts or agreements stating the purposes for which the assistance is contributed and providing for the sharing of costs between the Secretary and any such agency. “SEC. 7. COST SHARING.“The Federal share of the cost of a research, study, or demonstration project or a desalination development project or activity carried out under this Act shall not exceed 50 percent of the total cost of the project or research or study activity. A Federal contribution in excess of 25 percent for a project carried out under this Act may not be made unless the Secretary determines that the project is not feasible without such increased Federal contribution. The Secretary shall prescribe appropriate procedures to implement the provisions of this section. Costs of operation, maintenance, repair, and rehabilitation of facilities funded under the authority of this Act shall be non-Federal responsibilities. “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.“(a) Section 3.—There are authorized to be appropriated to carry out section 3 of this Act $5,000,000 per year for fiscal years 1997 through 2013. Of these amounts, up to $1,000,000 in each fiscal year may be awarded to institutions of higher education, including United States-Mexico binational research foundations and interuniversity research programs established by the two countries, for research grants without any cost-sharing requirement. “(b) Section 4.—There are authorized to be appropriated to carry out section 4 of this Act $3,000,000 for each of fiscal years 2012 through 2013. “SEC. 9. CONSULTATION.“In carrying out the provisions of this Act, the Secretary shall consult with the heads of other Federal agencies, including the Secretary of the Army, which have experience in conducting desalination research or operating desalination facilities. The authorization provided for in this Act shall not prohibit other agencies from carrying out separately authorized programs for desalination research or operations.”
+
+#### Ogallala Aquifer
+Pub. L. 99–662, title XI, § 1121, Nov. 17, 1986, 100 Stat. 4239, provided that: “(a) The Congress finds that—“(1) the Ogallala aquifer lies beneath, and provides needed water supplies to, the 8 States of the High Plains Region: Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming; “(2) the High Plains region has become an important source of agricultural commodities and livestock for domestic and international markets, providing 15 percent of the Nation’s supply of wheat, corn, feed grains, sorghum, and cotton, plus 38 percent of the value of livestock raised in the United States; and “(3) annual precipitation in the High Plains region ranges from 15 to 22 inches, providing inadequate supplies of surface water and recharging of the Ogallala aquifer needed to sustain the agricultural productivity and economic vitality of the High Plains region. “(b) It is, therefore, the purpose of this section to establish a comprehensive research and development program to assist those portions of the High Plains region dependent on water from the Ogallala aquifer to—“(1) plan for the development of an adequate supply of water in the region; “(2) develop and provide information and technical assistance concerning water-conservation management practices to agricultural producers in the region; “(3) examine alternatives for the development of an adequate supply of water for the region; and “(4) develop water-conservation management practices which are efficient for agricultural producers in the region. “(c) The Water Resources Research Act [of 1984] (Public Law 98–242) [see Short Title note above] is amended by adding at the end thereof the following new title: “TITLE III—OGALLALA AQUIFER RESEARCH AND DEVELOPMENT“Sec. 301. (a) There is hereby established the High Plains Study Council composed of—“(1) the Governor of each State of the High Plains region (defined for the purposes of this title as the States of Colorado, Kansas, Nebraska, New Mexico, Oklahoma, South Dakota, Texas, and Wyoming and referred to hereinafter in this title as the ‘High Plains region’), or a designee of the Governor; “(2) a representative of the Department of Agriculture; and “(3) a representative of the Secretary. “(b) The Council established pursuant to this section shall—“(1) review research work being performed by each State committee established under section 302 of this Act; and “(2) coordinate such research efforts to avoid duplication of research and to assist in the development of research plans within each State of the High Plains region that will benefit the research needs of the entire region. “Sec. 302. (a) The Secretary shall establish within each State of the High Plains region an Ogallala aquifer technical advisory committee (hereinafter in this title referred to as the ‘State committee’). Each State committee shall be composed of no more than seven members, including—“(1) a representative of the United States Department of Agriculture; “(2) a representative of the Secretary; and “(3) at the appointment of the Governor of the State, five representatives from agencies of that State having jurisdiction over water resources, the agricultural community, the State Water Research Institute (as designated under this Act [see Short Title note above]), and others with a special interest or expertise in water resources. “(b) The State committee established pursuant to subsection (a) of this section shall—“(1) review existing State laws and institutions concerning water management and, where appropriate, recommend changes to improve State or local management capabilities and more efficiently use the waters of such State, if such a review is not already being undertaken by the State; “(2) establish, in coordination with other State committees, State priorities for research and demonstration projects involving water resources; and “(3) provide public information, education, extension, and technical assistance on the need for water conservation and information on proven and cost-effective water management. “(c) Each State committee established pursuant to this section shall elect a chairman, and shall meet at least once every three months at the call of the chairman, unless the chairman determines, after consultation with a majority of the members of the committee, that such a meeting is not necessary to achieve the purposes of this section. “Sec. 303. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated for this section for research in—“(1) water-use efficiency; “(2) cultural methods; “(3) irrigation technologies; “(4) water-efficient crops; and “(5) water and soil conservation. Funds distributed under this section shall be allocated to each State committee for use by institutions of higher education within each State. To qualify for funds under this section an institution of higher education shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit. “Sec. 304. The Secretary shall annually divide funds authorized to be appropriated under this section among the States of the High Plains region for research into—“(1) precipitation management; “(2) weather modification; “(3) aquifer recharge opportunities; “(4) saline water uses; “(5) desalinization technologies; “(6) salt tolerant crops; and “(7) ground water recovery. Funds distributed under this section shall be allocated by the Secretary to the State committee for distribution to institutions of higher education within such State. To qualify for a grant under this section, an institution of higher education shall submit a research proposal to the State committee describing the costs, methods, and goals of the proposed research. Proposals shall be selected by the State committee on the basis of merit. “Sec. 305. The Secretary shall annually allocate among the States of the High Plains region funds authorized to be appropriated under this section for grants to farmers for demonstration projects for—“(1) water-efficient irrigation technologies and practices; “(2) soil and water conservation management systems; and “(3) the growing and marketing of more water-efficient crops. Grants under this section shall be made by each State committee in amounts not to exceed 85 percent of the cost of each demonstration project. To qualify for a grant under this section, a farmer shall submit a proposal to the State committee describing the costs, methods, and goals of the proposed project. Proposals shall be selected by the State committee on the basis of merit. Each State committee shall monitor each demonstration project to assure proper implementation and make the results of the project available to other State committees. “Sec. 306. The Secretary, acting through the United States Geological Survey and in cooperation with the States of the High Plains region, is authorized and directed to monitor the levels of the Ogallala aquifer, and report biennially to Congress. (As amended Pub. L. 104–66, title I, § 1082(a)(1), Dec. 21, 1995, 109 Stat. 721.) “Sec. 307. The amount of any allocation of funds to a State under this title shall not exceed 75 percent of the cost of carrying out the purposes for which the grant is made. “Sec. 308. Not later than one year after the date of enactment of this title [Nov. 17, 1986], and at intervals of 2 years thereafter, the Secretary shall prepare and transmit to the Congress a report on activities undertaken under this title. (As amended Pub. L. 104–66, title I, § 1082(a)(2), Dec. 21, 1995, 109 Stat. 721.) “Sec. 309. (a) For each of the fiscal years ending September 30, 1987, through September 30, 1995, the following sums are authorized to be appropriated to the Secretary to implement the following sections of this title, and such sums shall remain available until expended:“(1) $600,000 for the purposes of section 302; “(2) $4,300,000 for the purposes of section 303; “(3) $2,200,000 for the purposes of section 304; “(4) $5,300,000 for the purposes of section 305; and “(5) $600,000 for the purposes of section 306. “(b) Funds made available under this title for distribution to the States of the High Plains region shall be distributed equally among the States.” (As amended Pub. L. 101–397, § 1(o), Sept. 28, 1990, 104 Stat. 854.)
+
+[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 17th and 18th items on page 72 identify reporting provisions which, as subsequently amended, are contained in sections 306 and 308 of Pub. L. 98–242, set out in the note above), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.]
+
+#### Desalting Plants
+Pub. L. 95–84, § 2, Aug. 2, 1977, 91 Stat. 400; Pub. L. 95–467, title II, § 205(a), (b), Oct. 17, 1978, 92 Stat. 1311; Pub. L. 96–457, § 3, Oct. 15, 1980, 94 Stat. 2032; Pub. L. 98–242, title I, § 110(a), Mar. 22, 1984, 98 Stat. 101, provided that: “(a) The Secretary of the Interior is authorized and directed to demonstrate the engineering and economic viability of membrane and phase-change desalting processes. Such demonstrations shall include the study, design, construction, operation, and maintenance of desalting plants at locations in the United States (which may include the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Virgin Islands, the Mariana Islands, and the Trust Territory of the Pacific Islands): Provided, That at least two such plants shall demonstrate desalting of brackish ground water: And provided further, That the plants constructed pursuant to this section shall be for the purpose of showing that the technology being demonstrated is ready for application; such plants shall be sufficient to demonstrate the specific application of the technology, and shall be significantly different in operation and process so as not to duplicate any other demonstration plant constructed pursuant to this section. The Secretary is further authorized to conduct such demonstrations or any portion thereof by means of cooperative agreements (as defined and authorized by [former] [41 U.S.C. 504](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section504&num=0&edition=prelim) et seq. (the Federal Grant and Cooperative Agreement Act of 1977; Public Law 95–224) [see [31 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6301&num=0&edition=prelim) et seq.]) with duly authorized non-Federal public entities. Title to demonstration facilities constructed by the non-Federal public entity under a cooperative agreement shall vest in the non-Federal public entity. “(b) Funds appropriated pursuant to the authority provided by this section [this note] may not be expended until thirty calendar days (excluding days on which either the House of Representatives or the Senate is not in session because of an adjournment of more than three calendar days to a day certain) have elapsed following transmittal of a report to the chairman of the Committee on Interior and Insular Affairs [now Committee on Natural Resources] of the House of Representatives and the chairman of the Committee on Environment and Public Works of the United States Senate. Such report shall present information that includes, but is not limited to, how the plant being proposed differs from others, if any, already constructed under this section, the location of the demonstration plant, the characteristics of the water proposed to be desalted, the process to be utilized, the water supply problems confronting the area in which the plant will be located, alternative sources of water and their probable cost, the capacity of the plant, the initial investment cost of the demonstration plant, the annual operating cost of the demonstration plant, the source of energy for the plant and its cost, the means of reject brine disposal and its environmental consequences, and the unit cost of product water, considering the amortization of all components of the demonstration plant and ancillary facilities. Such report shall be accompanied by a proposed contract (or cooperative agreement) between the Secretary and a duly authorized non-Federal entity, in which such entity shall agree to provide not less than 15 per centum and not more than 35 per centum of the total cost of the demonstration; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for a period of four years following final acceptance of the construction of the plant from the plant contractor. The contributions of the non-Federal entity under such proposed contract may be in-kind. During the participation by the Secretary in the construction and the operation and maintenance of such demonstration, access to the demonstration and its operating data will not be denied to the Secretary or his representatives. The period of participation by the Secretary in the operation and maintenance of any such demonstration shall be four years. The Secretary is authorized to include in the proposed contract a provision for conveying, as appropriate, and in such amounts as are appropriate, rights, title, and interest of the Federal Government in the demonstration project to the non-Federal public entity. “(c) There is authorized to be appropriated, to remain available until expended, for the fiscal year ending September 30, 1978, and thereafter, the sum of $50,000,000 to finance the total Federal share of the cost of the demonstration plants authorized by this section; such cost to include, without being limited to, necessary water rights, water supplies, rights-of-way, power source interconnections, brine disposal facilities, land, construction, ancillary facilities, and the operation and maintenance costs for the four-year period of Federal participation in such costs. “(d) When appropriations have been made for the commencement or continuation of design, construction, or operation and maintenance of any demonstration plant authorized under this Act [this note], the Secretary may, in connection with such design, construction, or operation and maintenance, enter into contracts and cooperative agreements for miscellaneous services, for materials and supplies, as well as for construction, which may cover such periods of time as the Secretary may consider necessary but in which the liability of the United States shall be contingent upon appropriations being made therefor.”
+
+[For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.]
+
+
+<a id="section-10302"></a>
+## § 10302. Congressional declaration of purpose
+
+It is the purpose of this chapter to assist the Nation and the States in augmenting their water resources science and technology as a way to—
+
+(1) assure supplies of water sufficient in quantity and quality to meet the Nation’s expanding needs for the production of food, materials, and energy;
+
+(2) discover practical solutions to the Nation’s water and water resources related problems, particularly those problems related to impaired water quality;
+
+(3) assure the protection and enhancement of environmental and social values in connection with water resources management and utilization;
+
+(4) promote the interest of State and local governments as well as private industry in research and the development of technology that will reclaim waste water and to convert saline and other impaired waters to waters suitable for municipal, industrial, agricultural, recreational, and other beneficial uses;
+
+(5) promote more effective coordination of the Nation’s water resources research program;
+
+(6) promote the development of a cadre of trained research scientists, engineers, and technicians for future water resources problems; and
+
+(7) encourage long-term planning and research to meet future water management, quality, and supply challenges.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984. For complete classification of this Act to the Code, see Short Title note set out under [section 10301 of this title](./chapter-109-water-resources-research.md#section-10301) and Tables.
+
+#### Amendments
+1996—Par. (5). Pub. L. 104–147, § 2(1), struck out “to” before “promote” and “and” after “program;”.
+
+Par. (6). Pub. L. 104–147, § 2(2), substituted “; and” for period at end.
+
+Par. (7). Pub. L. 104–147, § 2(3), added par. (7).
+
+1990—Par. (5). Pub. L. 101–397 substituted “to promote more effective coordination of” for “coordinate more effectively”.
+
+
+<a id="section-10303"></a>
+## § 10303. Water resources research and technology institutes
+**(a) Establishment; designation of site by State legislature or Governor** Subject to the approval of the Secretary of the Interior (hereafter in this chapter referred to as the “Secretary”) under this section, one water resources research and technology institute, center, or equivalent agency (hereafter in this chapter referred to as the “institute”) may be established in each State (as used in this chapter, the term “State” includes the Commonwealth of Puerto Rico, the District of Columbia, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Mariana Islands and the Federated States of Micronesia) at a college or university which was established in accordance with the Act approved July 2, 1862 (12 Stat. 503) [[7 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section301&num=0&edition=prelim) et seq.], or at some other institution designated by act of the legislature of the State concerned. If there is more than one such college or university in a State established in accordance with such Act of July 2, 1862, the institute in such State shall, in the absence of a designation to the contrary by act of the legislature of the State, be established at the one such college or university designated by the Governor of the State. Two or more States may cooperate in the establishment of a single institute or regional institute, in which event the sums otherwise allocated to institutes in each of the cooperating States shall be paid to such single or regional institute.
+
+**(b) Scope of research; other activities; cooperation and coordination** Each institute shall—
+
+(1) plan, conduct, or otherwise arrange for competent applied and peer reviewed research that fosters—
+
+  (A) improvements in water supply reliability;
+
+  (B) the exploration of new ideas that—
+
+    (i) address water problems; or
+
+    (ii) expand understanding of water and water-related phenomena;
+
+  (C) the entry of new research scientists, engineers, and technicians into water resources fields; and
+
+  (D) the dissemination of research results to water managers and the public.11 So in original. The period probably should be “, and”.
+
+(2) cooperate closely with other colleges and universities in the State that have demonstrated capabilities for research, information dissemination, and graduate training in order to develop a statewide program designed to resolve State and regional water and related land problems.
+Each institute shall also cooperate closely with other institutes and other organizations in the region to increase the effectiveness of the institutes and for the purpose of promoting regional coordination.
+
+**(c) Grants; matching funds** From the sums appropriated pursuant to subsection (f) of this section, the Secretary shall make grants to each institute to be matched on a basis of no less than 2 non-Federal dollars for every 1 Federal dollar, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.
+
+**(d) Submission and approval of water research program; requisite assurances** Prior to and as a condition of the receipt each fiscal year of funds appropriated under subsection (f) of this section, each institute shall submit to the Secretary for his approval a water research program that includes assurances, satisfactory to the Secretary, that such program was developed in close consultation and collaboration with the director of that State’s department of water resources or similar agency, other leading water resources officials within the State, and interested members of the public. The program described in the preceding sentence shall include plans to promote research, training, information dissemination, and other activities meeting the needs of the State and Nation, and shall encourage regional cooperation among institutes in research into areas of water management, development, and conservation that have a regional or national character.
+
+**(e) Evaluation of water resources research program** The Secretary shall conduct a careful and detailed evaluation of each institute at least once every 3 years to determine that the quality and relevance of its water resources research and its effectiveness at producing measured results and applied water supply research as an institution for planning, conducting, and arranging for research warrants its continued support under this section. If, as a result of any such evaluation, the Secretary determines that an institute does not qualify for further support under this section, then no further grants to the institute may be made until the institute’s qualifications are reestablished to the satisfaction of the Secretary.
+
+**(f) Authorization of appropriations in general**
+
+(1) There is authorized to be appropriated to carry out this section, to remain available until expended, $12,000,000 for each of fiscal years 2007 through 2011.
+
+(2) Any sums appropriated under this subsection but which fail to be obligated by the close of the fiscal year for which they were appropriated shall be transferred by the Secretary and available for obligation during the succeeding fiscal year under the terms of subsection (g) of this section.
+
+**(g) Additional appropriations where research focused on water problems of interstate nature**
+
+(1) There is further authorized to be appropriated to the Secretary of the Interior the sum of $6,000,000 for each of fiscal years 2007 through 2011 only for reimbursement of the direct cost expenses of additional research or synthesis of the results of research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which relate to specific program priorities identified jointly by the Secretary and the institutes. Such funds when appropriated shall be matched on a not less than dollar-for-dollar basis by funds made available to institutes or groups of institutes, by States or other non-Federal sources. Funds made available under this subsection shall remain available until expended.
+
+(2) Research funds made available under this subsection shall be made on a competitive basis subject to the merit of the proposal, the need for the information to be produced, and the opportunity such funds will provide for training of water resources scientists or professionals.
+
+**(h) Coordination**
+
+(1) **In general** — To carry out this chapter, the Secretary—
+
+  (A) shall encourage other Federal departments, agencies (including agencies within the Department of the Interior), and instrumentalities to use and take advantage of the expertise and capabilities that are available through the institutes established by this section, on a cooperative or other basis;
+
+  (B) shall encourage cooperation and coordination with other Federal programs concerned with water resources problems and issues;
+
+  (C) may enter into contracts, cooperative agreements, and other transactions without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim);
+
+  (D) may accept funds from other Federal departments, agencies (including agencies within the Department of the Interior), and instrumentalities to pay for and add to grants made, and contracts entered into, by the Secretary;
+
+  (E) may promulgate such regulations as the Secretary considers appropriate; and
+
+  (F) may support a program of internships for qualified individuals at the undergraduate and graduate levels to carry out the educational and training objectives of this chapter.
+
+(2) **Reports** — The Secretary shall report to Congress annually on coordination efforts with other Federal departments, agencies, and instrumentalities under paragraph (1). As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—
+
+  (A) increases in annual water supplies;
+
+  (B) increases in annual water yields;
+
+  (C) advances in water infrastructure and water quality improvements; and
+
+  (D) methods for identifying, and determining the effectiveness of, treatment technologies and efficiencies.
+
+(3) **Relationship to State rights** — Nothing in this chapter shall preempt the rights and authorities of any State with respect to its water resources or management of those resources.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsecs. (a) and (h), was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 10301 of this title](./chapter-109-water-resources-research.md#section-10301) and Tables.
+
+Act approved July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section301&num=0&edition=prelim) and Tables.
+
+#### Codification
+In subsec. (h)(1)(C), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+2007—Subsec. (b)(1). Pub. L. 109–471, § 2(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research that fosters (A) the entry of new research scientists into the water resources fields, (B) the training and education of future water scientists, engineers, and technicians, (C) the preliminary exploration of new ideas that address water problems or expand understanding of water and water-related phenomena, and (D) the dissemination of research results to water managers and the public, and”.
+
+Subsec. (e). Pub. L. 109–471, § 2(b), substituted “3” for “5” and inserted “at producing measured results and applied water supply research” after “effectiveness”.
+
+Subsec. (f)(1). Pub. L. 109–471, § 2(c), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of carrying out this section, there is authorized to be appropriated to the Secretary the sum of $9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005, such sums to remain available until expended.”
+
+Subsec. (g)(1). Pub. L. 109–471, § 2(d), substituted “$6,000,000 for each of fiscal years 2007 through 2011” for “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005”.
+
+Subsec. (h)(2). Pub. L. 109–471, § 2(e), substituted “Reports” for “Report” in heading and inserted after first sentence “As part of the annual budget submission to Congress, the Secretary shall also provide a crosscut budget detailing the expenditures on activities listed under subsection (a)(1) and a report which details the level of applied research and the results of the activities authorized by this chapter, including potential and actual—” and subpars. (A) to (D).
+
+2000—Subsec. (f)(1). Pub. L. 106–374, § 1, substituted “$9,000,000 for fiscal year 2001, $10,000,000 for each of fiscal years 2002 and 2003, and $12,000,000 for each of fiscal years 2004 and 2005” for “$5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000”.
+
+Subsec. (g)(1). Pub. L. 106–374, § 2, in first sentence, substituted “$3,000,000 for fiscal year 2001, $4,000,000 for each of fiscal years 2002 and 2003, and $6,000,000 for each of fiscal years 2004 and 2005” for “$3,000,000 for each of fiscal years 1996 through 2000”.
+
+1996—Subsec. (c). Pub. L. 104–147, § 3, substituted “2 non-Federal dollars for every 1 Federal dollar” for “one non-Federal dollar for every Federal dollar during the fiscal years ending September 30, 1985, and September 30, 1986, one and one-half non-Federal dollars for each Federal dollar during the fiscal years ending September 30, 1987, and September 30, 1988, and two non-Federal dollars for each Federal dollar during the fiscal year ending September 30, 1989 and thereafter”.
+
+Subsec. (f)(1). Pub. L. 104–147, § 4, substituted “of $5,000,000 for fiscal year 1996, $7,000,000 for each of fiscal years 1997 and 1998, and $9,000,000 for each of fiscal years 1999 and 2000” for “of $10,000,000 for each of the fiscal years ending September 30, 1989, through September 30, 1995,”.
+
+Subsec. (g)(1). Pub. L. 104–147, § 5, substituted “of $3,000,000 for each of fiscal years 1996 through 2000” for “of $5,000,000 for each of the fiscal years 1991, 1992, 1993, 1994, and 1995”.
+
+Subsec. (h). Pub. L. 104–147, § 6, added subsec. (h).
+
+1990—Subsec. (a). Pub. L. 101–397, § 1(b), substituted “Federated States of Micronesia” for “Trust Territory of the Pacific Islands”.
+
+Subsec. (b). Pub. L. 101–397, § 1(c), inserted “promoting” after “for the purpose of” in last sentence.
+
+Subsec. (b)(1). Pub. L. 101–397, § 1(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “plan, conduct, or otherwise arrange for competent research with respect to water resources, including investigations and experiments of either a basic or practical nature, or both; promote the dissemination and application of the results of these efforts; and provide for the training of scientists and engineers through such research, investigations, and experiments, and”.
+
+Subsec. (c). Pub. L. 101–397, § 1(e), substituted for period at end “and thereafter, such sums to be used only for the reimbursement of the direct cost expenditures incurred for the conduct of the water resources research program.”
+
+Subsec. (e). Pub. L. 101–397, § 1(f), amended subsec. (e) generally, substituting provisions directing that evaluation be conducted at least once every 5 years for provisions directing evaluation within two years after establishment of institute and at least once every four years thereafter and striking out provisions relating to composition and function of evaluation team and setting forth criteria for determination.
+
+Subsec. (f)(1). Pub. L. 101–397, § 1(g), substituted “September 30, 1989, through September 30, 1995,” for “September 30, 1985, through September 30, 1989”.
+
+Subsec. (f)(2). Pub. L. 101–397, § 1(h), substituted reference to subsec. (g) of this section for reference to [section 10305 of this title](./chapter-109-water-resources-research.md#section-10305).
+
+Subsec. (g). Pub. L. 101–397, § 1(m), added subsec. (g).
+
+#### Contracts or Cooperative Agreements With National Laboratories
+Pub. L. 101–397, § 2, Sept. 28, 1990, 104 Stat. 854, provided that: “(a) The Secretary of the Interior, in consultation with the Secretary of Agriculture and the Administrator of the Environmental Protection Agency, is authorized to enter into contracts or cooperative agreements, as the Secretary deems appropriate, with national laboratories (including Los Alamos National Laboratory) to carry out water resources research, development, and demonstration projects within the authorities of Public Law 98–242 [[42 U.S.C. 10301](./chapter-109-water-resources-research.md#section-10301) et seq.] (including the effects of potential climate changes on surface and ground water quality and quantity and the elimination of contamination of ground water aquifers). “(b) The water resources research authorized in this section shall be undertaken under such rules and regulations as the Secretary deems appropriate and shall be carried out in close consultation and collaboration with the institutes established pursuant to Public Law 98–242 [[42 U.S.C. 10301](./chapter-109-water-resources-research.md#section-10301) et seq.], to the extent such research work affects the State in which the institute exists, and to the extent such institute agrees to consult and collaborate. “(c) For the purposes of carrying out this section, there is authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for each of the fiscal years 1991 through 1995.”
+
+
+<a id="section-10304"></a>
+## § 10304. Research concerning water resource-related problems deemed to be in national interest
+**(a) Grants; matching funds**
+
+(1) In addition to the grants authorized by [section 10303 of this title](./chapter-109-water-resources-research.md#section-10303), the Secretary is authorized to make grants, on a dollar-for-dollar matching basis, to the institutes established under such section, as well as other qualified educational institutions, private foundations, private firms, individuals, and agencies of local or State government for research concerning any aspect of a water resource-related problem which the Secretary may deem to be in the national interest. Such grants shall be made with such advice and review by peer or other expert groups of appropriate interdisciplinary composition as the Secretary deems appropriate on the basis of the merits of the project and the need for the knowledge such project is expected to produce upon completion.
+
+(2) Research funded under this section should to the extent possible utilize the best qualified graduate students so the Nation profits from the education and training benefits resulting from the use of the latest in technological developments in solving water problems.
+
+**(b) Applications for grants** Each application for a grant under this section shall state the nature of the project to be undertaken, the period during which it will be pursued, the qualifications of the personnel who will direct and conduct it, the importance of the project to the Nation as well as to the region and State concerned, its relation to other research projects previously or currently being pursued, and the extent to which it will provide an opportunity for the training of water resources scientists.
+
+**(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary the sum of $10,000,000 for the purpose of carrying out this section for each of the fiscal years ending September 30, 1985, through September 30, 1995, such sums to remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+1990—Subsec. (a)(3). Pub. L. 101–397, § 1(i), struck out par. (3) which read as follows: “In cases where the Secretary determines, in accordance with criteria established by him, that research under this section is of a basic nature which would not otherwise be undertaken, the Secretary may approve grants under this section with a matching requirement other than that specified in paragraph (1) of this subsection.”
+
+Subsec. (c). Pub. L. 101–397, § 1(j), substituted “$10,000,000” for “$20,000,000” and “1995” for “1989”.
+
+
+<a id="section-10305"></a>
+## § 10305. Development of water-related technology
+**(a) Grants; matching funds**
+
+(1) The Secretary shall make grants in addition to those authorized under sections 10303 and 10304 of this title for technology development concerning any aspect of water resources including water-related technology which the Secretary may deem to be of State, regional, or national importance. Activities funded under this section may be carried out by educational institutions, private firms, foundations, individuals, or agencies of State or local government. Care shall be taken to protect proprietary information of private individuals or firms associated with the technology.
+
+(2) The Secretary may establish any condition for the matching of funds by the recipient of any grant or contract under this section which the Secretary considers to be in the best interest of the Nation considering the information transfer and technology needs of the Nation. However, in the case of institutes established by [section 10303 of this title](./chapter-109-water-resources-research.md#section-10303) no match greater than that required under [section 10303 of this title](./chapter-109-water-resources-research.md#section-10303) may be required.
+
+**(b) Applications for grants** Each application for a grant under this section shall state the nature of the project to be undertaken, the qualifications of the personnel who will direct and conduct it, facilities of the organization performing any technology development, the importance of the project to the Nation, region, and State concerned, and the potential benefit to be accrued.
+
+**(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary the sum of $6,000,000 for the purpose of carrying out this section for each of the fiscal years ending September 30, 1990, through September 30, 1995; such sums to remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+1990—Pub. L. 101–397, in amending section generally, in subsec. (a)(1) struck out provision directing that grant be made on basis of merit and feasibility of project, in subsec. (a)(2) inserted provisions relating to match in the case of institutes established by [section 10303 of this title](./chapter-109-water-resources-research.md#section-10303), and in subsec. (c) substituted provisions authorizing $6,000,000 appropriation for fiscal years 1990 through 1995, for provisions authorizing the same sum for fiscal years 1985 through 1989, and struck out provisions authorizing obligation of funds under this section and par. (1) and (2) designations.
+
+
+<a id="section-10306"></a>
+## § 10306. Administrative costs
+
+From the sums appropriated pursuant to this chapter, not more than 7.5 per centum shall be utilized for administrative costs.
+
+### Statutory Notes
+
+#### Amendments
+2007—Pub. L. 109–471 substituted “7.5” for “15”.
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 10301 of this title](./chapter-109-water-resources-research.md#section-10301) and Tables.
+
+
+<a id="section-10307"></a>
+## § 10307. Types of research and development
+
+The type of research and development to be undertaken under the authority of sections 10304 and 10305 of this title and to be encouraged by the institutes established under [section 10303 of this title](./chapter-109-water-resources-research.md#section-10303) shall include the following:
+
+(1) Aspects of the hydrologic cycle;
+
+(2) Supply and demand for water;
+
+(3) Demineralization of saline and other impaired waters;
+
+(4) Conservation and best use of available supplies of water and methods of increasing such supplies;
+
+(5) Water reuse;
+
+(6) Depletion, contamination, and degradation of groundwater supplies;
+
+(7) Improvements in the productivity of water when used for agricultural, municipal, and commercial purposes;
+
+(8) The economic, legal, engineering, social, recreational, biological, geographic, ecological, and other aspects of water quality and quantity problems;
+
+(9) Scientific information dissemination activities, including identifying, assembling, and interpreting the results of scientific and engineering research on water resources problems; and
+
+(10) Providing means for improved communication of research results, having due regard for the varying conditions and needs for the respective States and regions.
+
+### Statutory Notes
+
+#### Amendments
+1990—Par. (6). Pub. L. 101–397, § 1(k), which directed that “, contamination,” be inserted after “depletion”, was executed by making the insertion after “Depletion” to reflect the probable intent of Congress.
+
+Par. (8). Pub. L. 101–397, § 1(l), inserted “quality and quantity” after “water”.
+
+
+<a id="section-10308"></a>
+## § 10308. Patent policy
+
+Notwithstanding any other provision of law, the Secretary shall be governed by the provisions of sections 5908 (except subsections (l) and (n)) and 5909 of this title with respect to patent policy and to the definition of title to and licensing of inventions made or conceived in the course of work performed, or under any contract or grant made, pursuant to this chapter. Subject to such patent policy, all research or development contracted for, sponsored, cosponsored, or authorized under authority of this chapter shall be provided in such manner that all information, data, and know-how, regardless of their nature or mediums, resulting from such research and development shall (with such exceptions and limitations, if any, as the Secretary may find to be necessary in the interest of national defense) be usefully available for practice by the general public.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 10301 of this title](./chapter-109-water-resources-research.md#section-10301) and Tables.
+
+
+<a id="section-10309"></a>
+## § 10309. New spending authority; amounts provided in advance
+
+Any new spending authority described in subsection (c)(2)(A) or (B) of section 651 11 See References in Text note below. of title 2 which is provided under this chapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+### Statutory Notes
+
+#### References in Text
+[Section 651 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section651&num=0&edition=prelim), referred to in text, was amended by Pub. L. 105–33, title X, § 10116(a)(3), (5), Aug. 5, 1997, 111 Stat. 691, by striking out subsec. (c) and redesignating former subsec. (d) as (c).
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 10301 of this title](./chapter-109-water-resources-research.md#section-10301) and Tables.
