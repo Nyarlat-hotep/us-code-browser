@@ -1,7 +1,7 @@
 .tg-heading {
   font-size: 2rem;
   font-weight: 900;
-  margin: 0 0 0.25rem;
+  margin: 0 0 0.5rem;
   text-transform: uppercase;
   letter-spacing: 0.02em;
   font-family: 'Courier New', Courier, monospace;
@@ -9,31 +9,28 @@
 
 .tg-subheading {
   color: #000;
-  margin: 0 0 1.25rem;
+  margin: 0 0 1.75rem;
   font-family: 'Courier New', Courier, monospace;
   font-size: 0.85rem;
   border-bottom: 2px solid #000;
-  padding-bottom: 0.75rem;
+  padding-bottom: 1rem;
 }
 
 .tg-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 0;
-  border-top: 2px solid #000;
-  border-left: 2px solid #000;
+  gap: 6px;
 }
 
 .tg-card {
   text-align: left;
   background: #fff;
-  border-right: 2px solid #000;
-  border-bottom: 2px solid #000;
-  padding: 0.85rem;
+  border: 2px solid #000;
+  padding: 1.1rem;
   cursor: pointer;
   display: flex;
   flex-direction: column;
-  gap: 0.3rem;
+  gap: 0.4rem;
 }
 
 .tg-card:hover {

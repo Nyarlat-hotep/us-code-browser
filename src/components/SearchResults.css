@@ -26,16 +26,13 @@
   margin: 0;
   display: flex;
   flex-direction: column;
-  gap: 0;
-  border-top: 2px solid #000;
-  border-left: 2px solid #000;
-  border-right: 2px solid #000;
+  gap: 5px;
 }
 
 .sr-item {
   background: #fff;
-  border-bottom: 2px solid #000;
-  padding: 0.7rem 0.9rem;
+  border: 2px solid #000;
+  padding: 0.9rem 1rem;
   display: flex;
   flex-direction: column;
   gap: 0.2rem;
