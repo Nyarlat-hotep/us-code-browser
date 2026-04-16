@@ -143,14 +143,27 @@ export default function ChapterView() {
       // ── Reading mode — stamps + word-level redlines ────────────────────
       if (history && !changesYear) {
         const uniqueYears = [...new Set(Object.values(history))]
+        // Limit concurrent fetches to prevent overwhelming the browser
+        const MAX_CONCURRENT_FETCHES = 5
         const snapshots = {}
-        await Promise.all(uniqueYears.map(async year => {
-          try {
-            const res = await fetch(base + `data/versions/${year}/title-${num}/${slug}.md`)
-            if (res.ok) snapshots[year] = parseSectionMap(await res.text())
-          } catch {}
-        }))
+
+        // Fetch snapshots in batches
+        for (let i = 0; i < uniqueYears.length; i += MAX_CONCURRENT_FETCHES) {
+          const batch = uniqueYears.slice(i, i + MAX_CONCURRENT_FETCHES)
+          await Promise.all(batch.map(async year => {
+            try {
+              const res = await fetch(base + `data/versions/${year}/title-${num}/${slug}.md`)
+              if (res.ok) snapshots[year] = parseSectionMap(await res.text())
+            } catch {}
+          }))
+          // Yield to prevent blocking the main thread
+          await new Promise(resolve => setTimeout(resolve, 0))
+        }
+
         const currentSections = parseSectionMap(md)
+        let processedCount = 0
+        const MAX_REDLINE_SECTIONS = 50 // Limit redlines to prevent crashes on huge chapters
+
         for (const [sectionId, year] of Object.entries(history)) {
           const anchor = `<a id="section-${sectionId}"></a>`
           const anchorIdx = rendered.indexOf(anchor)
@@ -158,14 +171,21 @@ export default function ChapterView() {
           const h2End = rendered.indexOf('</h2>', anchorIdx)
           if (h2End === -1) continue
           let injection = `<span class="cv-stamp">Last amended: ${year}</span>`
+
+          // Only compute redlines for first N sections to prevent crashes
           const oldSections = snapshots[year]
-          if (oldSections) {
+          if (oldSections && processedCount < MAX_REDLINE_SECTIONS) {
             const oldText = stripMd(oldSections[sectionId] || '')
             const newText = stripMd(currentSections[sectionId] || '')
             if (oldText && oldText !== newText) {
-              const wordDiff = diffToHtml(oldText, newText)
-              injection += `<div class="cv-redline"><span class="cv-redline-label">Redline vs ${year}</span><div class="cv-redline-text">${wordDiff}</div></div>`
+              try {
+                const wordDiff = diffToHtml(oldText, newText)
+                injection += `<div class="cv-redline"><span class="cv-redline-label">Redline vs ${year}</span><div class="cv-redline-text">${wordDiff}</div></div>`
+              } catch {
+                // Skip redline if diff computation fails
+              }
             }
+            processedCount++
           }
           rendered = rendered.slice(0, h2End + 5) + injection + rendered.slice(h2End + 5)
         }
