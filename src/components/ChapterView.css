@@ -86,36 +86,72 @@
   border-left-color: #000;
 }
 
-/* Changes mode sidebar */
-.cv-changes-mode {
-  margin-bottom: 1rem;
-  padding: 0 0.5rem;
+/* Read / Diff mode toggle */
+.cv-mode-toggle {
+  display: flex;
+  border: 2px solid #000;
+  margin-bottom: 0.75rem;
 }
 
-.cv-changes-badge {
+.cv-mode-btn {
+  flex: 1;
+  padding: 0.4rem 0;
+  background: #fff;
+  border: none;
+  cursor: pointer;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 0.72rem;
   font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: #000;
+}
+
+.cv-mode-btn + .cv-mode-btn {
+  border-left: 2px solid #000;
+}
+
+.cv-mode-btn--active {
+  background: #000;
+  color: #fff;
+}
+
+.cv-mode-btn:not(.cv-mode-btn--active):hover {
   background: #ffe600;
-  border: 2px solid #000;
-  padding: 0.4rem 0.5rem;
-  margin-bottom: 0.5rem;
+}
+
+.cv-diff-count {
+  font-size: 0.7rem;
   font-family: 'Courier New', Courier, monospace;
-  line-height: 1.4;
+  color: #000;
+  opacity: 0.6;
+  margin-bottom: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  display: block;
+  line-height: 1.4;
 }
 
-.cv-changes-exit {
-  display: block;
-  font-size: 0.75rem;
-  color: #000;
-  text-decoration: underline;
-  font-family: 'Courier New', Courier, monospace;
+/* Loading spinner */
+.cv-spinner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem 2rem;
 }
 
-.cv-changes-exit:hover { background: #ffe600; text-decoration: none; }
+.cv-spinner::after {
+  content: '';
+  width: 28px;
+  height: 28px;
+  border: 3px solid #000;
+  border-top-color: #ffe600;
+  border-radius: 50%;
+  animation: cv-spin 0.65s linear infinite;
+}
+
+@keyframes cv-spin {
+  to { transform: rotate(360deg); }
+}
 
 /* Inline diff blocks */
 .cv-diff-block {
