@@ -48,9 +48,17 @@
   max-width: 520px;
 }
 
+.layout-search-wrap {
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
 .layout-search-input {
   flex: 1;
-  padding: 0.45rem 0.75rem;
+  width: 100%;
+  padding: 0.45rem 2rem 0.45rem 0.75rem;
   border: 2px solid #fff;
   border-right: none;
   background: #000;
@@ -64,6 +72,97 @@
 .layout-search-input:focus {
   outline: none;
   border-color: #ffe600;
+}
+
+.layout-search-clear {
+  position: absolute;
+  right: 0.5rem;
+  background: none;
+  border: none;
+  color: #ffe600;
+  font-size: 1.3rem;
+  font-weight: 700;
+  cursor: pointer;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 1;
+  padding: 0 0.1rem;
+}
+
+.layout-search-clear:hover { opacity: 0.7; }
+
+.layout-typeahead {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: #000;
+  border: 2px solid #ffe600;
+  border-top: none;
+  z-index: 200;
+  display: flex;
+  flex-direction: column;
+}
+
+.layout-typeahead-status {
+  padding: 0.75rem 1rem;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.5);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.layout-typeahead-item {
+  background: none;
+  border: none;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  color: #fff;
+  padding: 0.6rem 1rem;
+  cursor: pointer;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.layout-typeahead-item:hover {
+  background: #ffe600;
+  color: #000;
+}
+
+.layout-typeahead-heading {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.layout-typeahead-meta {
+  font-size: 0.67rem;
+  opacity: 0.6;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.layout-typeahead-item:hover .layout-typeahead-meta { opacity: 0.65; }
+
+.layout-typeahead-more {
+  background: none;
+  border: none;
+  border-top: 1px solid rgba(255,255,255,0.15);
+  color: #ffe600;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.78rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.layout-typeahead-more:hover {
+  background: #ffe600;
+  color: #000;
 }
 
 .layout-search-btn {
