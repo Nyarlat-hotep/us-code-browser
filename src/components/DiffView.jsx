@@ -58,7 +58,12 @@ export default function DiffView() {
       fetchVersion(titleNum, chapterSlug, yearA),
       fetchVersion(titleNum, chapterSlug, yearB),
     ]).then(([textA, textB]) => {
-      const result = computeLineDiff(textA, textB)
+      let result
+      try {
+        result = computeLineDiff(textA, textB)
+      } catch {
+        result = []
+      }
       setDiffs(result)
       setLoading(false)
     }).catch(err => {
@@ -124,40 +129,33 @@ export default function DiffView() {
         <p className="dv-status">No differences found between these versions.</p>
       )}
 
-      {diffs && diffs.length > 0 && (
-        <div className="dv-diff">
-          {diffs.map((d, i) => {
-            if (d.op === 0) {
-              // Equal — show context (first/last 3 lines of each equal block)
-              const lines = d.text.split('\n')
-              const nonEmpty = lines.filter(l => l.trim().length > 0)
-              if (nonEmpty.length <= 6) {
-                return nonEmpty.map((line, j) => (
-                  <div key={`${i}-${j}`} className="dv-line dv-eq">{line}</div>
-                ))
-              }
-              const head = nonEmpty.slice(0, 3)
-              const tail = nonEmpty.slice(-3)
-              return [
-                ...head.map((line, j) => <div key={`${i}-h${j}`} className="dv-line dv-eq">{line}</div>),
-                <div key={`${i}-sep`} className="dv-sep">⋯ {nonEmpty.length - 6} unchanged lines</div>,
-                ...tail.map((line, j) => <div key={`${i}-t${j}`} className="dv-line dv-eq">{line}</div>),
-              ]
+      {diffs && diffs.length > 0 && (() => {
+        let lineCount = 0
+        const MAX_LINES = 2000
+        const rows = []
+        for (let i = 0; i < diffs.length; i++) {
+          if (lineCount >= MAX_LINES) {
+            rows.push(<div key="cap" className="dv-sep">⋯ output capped at {MAX_LINES} lines — use year selectors to narrow the range</div>)
+            break
+          }
+          const d = diffs[i]
+          if (d.op === 0) {
+            const nonEmpty = d.text.split('\n').filter(l => l.trim().length > 0)
+            if (nonEmpty.length <= 6) {
+              nonEmpty.forEach((line, j) => { rows.push(<div key={`${i}-${j}`} className="dv-line dv-eq">{line}</div>); lineCount++ })
+            } else {
+              nonEmpty.slice(0, 3).forEach((line, j) => { rows.push(<div key={`${i}-h${j}`} className="dv-line dv-eq">{line}</div>); lineCount++ })
+              rows.push(<div key={`${i}-sep`} className="dv-sep">⋯ {nonEmpty.length - 6} unchanged lines</div>)
+              nonEmpty.slice(-3).forEach((line, j) => { rows.push(<div key={`${i}-t${j}`} className="dv-line dv-eq">{line}</div>); lineCount++ })
             }
-            if (d.op === 1) {
-              return d.text.split('\n').filter(l => l.trim().length > 0).map((line, j) => (
-                <div key={`${i}-${j}`} className="dv-line dv-add">+ {line}</div>
-              ))
-            }
-            if (d.op === -1) {
-              return d.text.split('\n').filter(l => l.trim().length > 0).map((line, j) => (
-                <div key={`${i}-${j}`} className="dv-line dv-del">- {line}</div>
-              ))
-            }
-            return null
-          })}
-        </div>
-      )}
+          } else if (d.op === 1) {
+            d.text.split('\n').filter(l => l.trim().length > 0).forEach((line, j) => { rows.push(<div key={`${i}-${j}`} className="dv-line dv-add">+ {line}</div>); lineCount++ })
+          } else if (d.op === -1) {
+            d.text.split('\n').filter(l => l.trim().length > 0).forEach((line, j) => { rows.push(<div key={`${i}-${j}`} className="dv-line dv-del">- {line}</div>); lineCount++ })
+          }
+        }
+        return <div className="dv-diff">{rows}</div>
+      })()}
     </div>
   )
 }

@@ -122,12 +122,18 @@ export default function ChapterView() {
       if (changesYear && history) {
         const currentSections = parseSectionMap(md)
         const oldSections = snapshotMd ? parseSectionMap(snapshotMd) : {}
+        const MAX_DIFF_SECTIONS = 50
+        let diffProcessed = 0
         for (const [sectionId, changedAt] of Object.entries(history)) {
           if (changedAt !== changesYear) continue
+          if (diffProcessed >= MAX_DIFF_SECTIONS) break
           const oldText = (oldSections[sectionId] || '').replace(/\s+/g, ' ').trim()
           const newText = (currentSections[sectionId] || '').replace(/\s+/g, ' ').trim()
           if (oldText === newText) continue
-          const block = buildDiffBlock(sectionId, oldText || null, newText, changesYear)
+          let block
+          try {
+            block = buildDiffBlock(sectionId, oldText || null, newText, changesYear)
+          } catch { continue }
           if (!block) continue
           const anchor = `<a id="section-${sectionId}"></a>`
           const anchorIdx = rendered.indexOf(anchor)
@@ -136,6 +142,9 @@ export default function ChapterView() {
           if (h2End === -1) continue
           rendered = rendered.slice(0, h2End + 5) + block + rendered.slice(h2End + 5)
           diffCount++
+          diffProcessed++
+          // Yield every 10 sections to keep main thread responsive
+          if (diffProcessed % 10 === 0) await new Promise(r => setTimeout(r, 0))
         }
       }
       setChangedCount(diffCount)
